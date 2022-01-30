@@ -24,6 +24,11 @@ def matriz_semantica(mensaje):
     La matriz semántica es un diccionario
     que da una noción del campo semántico
     de un mensaje
+
+
+    >> matriz = jackobson.matriz_semantica(corpus)
+    >> matriz
+    >> {'purchased': ['purchase', 'buy'], 'suggested': ['paint_a_picture', 'suggest', 'advise', 'indicate', 'intimate', 'evoke', 'propose', 'hint'], 'But': ['but', 'simply', 'just', 'merely', 'only'],
     """
 
     matriz = {}
@@ -40,6 +45,9 @@ def vector_semantico(w):
 
     :param w: la palabra para la cual construir el vector semantico
     :return: list
+
+    >> jackobson.vector_semantico("red")
+    ['cherry-red', 'ruby', 'redness', 'ruddy', 'Marxist', 'blood-red', 'reddened', 'Bolshevik', 'crimson', 'bolshie', 'violent', 'red', 'Red_River', 'red_ink', 'flushed', 'red-faced', 'carmine', 'Red', 'loss', 'scarlet', 'bolshy', 'cherry', 'cerise', 'ruby-red', 'reddish']
     """
 
     debug.debug("Buscando sinónimos de '%(palabra)s'" % {"palabra": w})
@@ -62,6 +70,11 @@ def matriz_uso(matriz_semantica, freqDist):
     :param matriz_semantica: una matriz semantica
     :param freqDist: una tabla de frequencias de corpus
     :return: una matriz de uso
+
+    Ej.
+    >> mat_uso = jackobson.matriz_uso(matriz, fd)
+    >> mat_uso
+    {'purchased': [0, 0], 'suggested': [0, 0, 0, 0, 0, 0, 0, 0], 'But': [9, 0, 0, 1, 6],
     """
 
     matriz_uso = {}
@@ -83,6 +96,12 @@ def vector_uso(vector_semantico, freqDist):
     :param vector_semantico:
     :param freqDist:
     :return:
+
+    Ej.
+    >> vector_semantico
+    ['honestly', 'frankly', 'candidly', 'aboveboard']
+    >> jackobson.vector_uso(vector_semantico,fd)
+    [2, 0, 0, 0]
     """
     vector_uso = []
     for sin in vector_semantico:
@@ -102,27 +121,26 @@ def vector_uso(vector_semantico, freqDist):
     return vector_uso
 
 
-def uso(w, freq_w, prom_vector_uso):
-    debug.debug(
-        "uso(%(w)s): %(numerador)s / %(denominador)s  " % {"w": w, "numerador": freq_w, "denominador": prom_vector_uso})
-
-    uso = freq_w / prom_vector_uso
-
-    return uso
 
 
-def uso(w, freqDist, freqMedia):
+
+
+def freq_media(freqDist):
     """
-    dada una palabra w, calcula el
-    el uso.
 
-    El uso necesita tomar como 
-    parametros un corpora base y 
-    otro de refencia
+    :param freqDist:
+    :return:
+
+    >> jackobson.freq_media(fd)
+    2.73125
     """
-    freq_w = freqDist[w]
+    f = []
+    log.info("inicia calculo de freq media para corpora")
+    for palabra, frecuencia in freqDist.items():
+        f.append(frecuencia)
+    log.info("frecuencias antes de promediar: " + str(f))
 
-    return freq_w/freqMedia
+    return mean(f)
 
     
 def compensacion_por_cero(func):
@@ -141,22 +159,7 @@ def compensacion_por_cero(func):
     return wrapper
 
 
-@compensacion_por_cero
-def freq_w(w, freqDist):
-    """
-    La frecuencia de w está dada por 
-    su valor en la tabla de frecuencia 
-    con relación a todas las frecuencias 
-    
-    """
-    log.info("inicia busqueda de freq_w para: '" + w +"'")
-    freq = freqDist[w]
-    freq_promedio = _prom_en_freqDist(freqDist)
-    res = freq/freq_promedio
-    
-    debug.debug("freq_w(%(w)s): %(numerador)s / %(denominador)s )" %{"w": w, "numerador": freq, "denominador":freq_promedio})
-    log.info("termina busqueda de freq_w para: '" + w +"'")
-    return res
+
 
 from statistics import mean
 
@@ -171,33 +174,10 @@ def _prom_en_freqDist(freqDist):
     return mean(f)    
 
 
-def freq_media(freqDist):
-    f = []
-    log.info("inicia calculo de freq media para corpora")
-    for palabra, frecuencia in freqDist.items():
-        f.append(frecuencia)
-    log.info("frecuancias antes de promediar: " + str(f))
-
-    return mean(f)
 
 
 
-@compensacion_por_cero
-def prom_vector_uso(vector_uso):
-    """Dado un vector_uso, retorna 
-    el promedio de las frecuencias
-    """
-    frecuencias = []
-    log.info("inicia promedio de vector de uso")
-    
-    for frecuencia in vector_uso:
-        frecuencias.append(frecuencia)
 
-    log.info("frecuencias antes de promediar: " + str(frecuencias))
-    if len(frecuencias) != 0:
-        return mean(frecuencias)
-    else:
-        return 0.01
 
 def freq_sinonimos_base(vector_uso, freq_corpus_base):
     frecuencias = []
@@ -222,25 +202,15 @@ def media_de_frecuencias(tabla_de_frecuencias):
 
 
 
-
-
-def indice_metaforico(cbase=None, creferencia=None):
-        out.info("inicia construcción indice metafórico")
-        uso_por_palabra = []
-        
-        for w in cbase:
-            uso = _calcular_el_uso_por_palabra(w, cbase=cbase, creferencia=creferencia)
-            
-            uso_por_palabra.append(uso)
-
-        
-        log.info("termina construcción de inice metafrórica")
-       
-
-        debug.debug("uso_por_palabra:\n" + str(uso_por_pablabra))
-        return mean(uso_por_pablabra)
-
 def indice_metaforico(corpora):
+    """
+
+    :param corpora:
+    :return:
+
+    >> jackobson.indice_metaforico(corpus)
+    32284.159329079586
+    """
     # primero calculo freqMedia
     f_d = FreqDist(corpora)
     f_m = freq_media(f_d)
@@ -270,6 +240,37 @@ def indice_metaforico(corpora):
 
     return sum(valores_indice)
 
+def uso(w, freqDist, freqMedia):
+    """
+    dada una palabra w, calcula el
+    el uso.
+
+    El uso necesita tomar como
+    parametros un corpora base y
+    otro de refencia
+    """
+    freq_w = freqDist[w]
+
+    return freq_w/freqMedia
+
+
+@compensacion_por_cero
+def prom_vector_uso(vector_uso):
+    """Dado un vector_uso, retorna
+    el promedio de las frecuencias
+    """
+    frecuencias = []
+    log.info("inicia promedio de vector de uso")
+
+    for frecuencia in vector_uso:
+        frecuencias.append(frecuencia)
+
+    log.info("frecuencias antes de promediar: " + str(frecuencias))
+    if len(frecuencias) != 0:
+        return mean(frecuencias)
+    else:
+        return 0.01
+
 def taza_metaforica(numerador,denominador):
     if denominador == 0:
         #compenso el 0
@@ -278,22 +279,6 @@ def taza_metaforica(numerador,denominador):
 
     return numerador/denominador
 
-def _calcular_el_uso_por_palabra(w, cbase=None, creferencia=None):
-        out.info("inicia calculo de uso para palabra: " + w)
 
-        freq_base = FreqDist(cbase)
-        freq_ref = FreqDist(creferencia)
-        
-        vec_s = vector_semantico(cbase)
-        vec_u = vector_uso(vec_s, freq_ref)
-        
-        f_w = freq_w(w, freq_base )
-        
-        if vec_u[w] == {}:
-            u_uso= 0.01
-        else:
-            u_uso = prom_vector_uso(vec_u[w])
-        
-        uso_para_palabra =  uso(w,f_w, u_uso)
 
-        return uso
+
