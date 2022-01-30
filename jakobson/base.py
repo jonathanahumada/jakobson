@@ -5,6 +5,8 @@ import logging.config
 from nltk.probability import FreqDist
 
 from os import path
+
+from . import output
 log_file_path = path.join(path.dirname(path.abspath(__file__)), 'logging.conf')
 logging.config.fileConfig(log_file_path)
 
@@ -16,6 +18,7 @@ log = logging.getLogger("base")
 debug = logging.getLogger("debug")
 out = logging.getLogger("tests")
 artefactos = logging.getLogger("artefactos")
+resultados = logging.getLogger("resultados")
 
 def matriz_semantica(mensaje):
     """Cada fila de la matriz semantica
@@ -26,7 +29,7 @@ def matriz_semantica(mensaje):
     de un mensaje
 
 
-    >> matriz = jackobson.matriz_semantica(corpus)
+    >> matriz = jakobson.matriz_semantica(corpus)
     >> matriz
     >> {'purchased': ['purchase', 'buy'], 'suggested': ['paint_a_picture', 'suggest', 'advise', 'indicate', 'intimate', 'evoke', 'propose', 'hint'], 'But': ['but', 'simply', 'just', 'merely', 'only'],
     """
@@ -46,7 +49,7 @@ def vector_semantico(w):
     :param w: la palabra para la cual construir el vector semantico
     :return: list
 
-    >> jackobson.vector_semantico("red")
+    >> jakobson.vector_semantico("red")
     ['cherry-red', 'ruby', 'redness', 'ruddy', 'Marxist', 'blood-red', 'reddened', 'Bolshevik', 'crimson', 'bolshie', 'violent', 'red', 'Red_River', 'red_ink', 'flushed', 'red-faced', 'carmine', 'Red', 'loss', 'scarlet', 'bolshy', 'cherry', 'cerise', 'ruby-red', 'reddish']
     """
 
@@ -72,7 +75,7 @@ def matriz_uso(matriz_semantica, freqDist):
     :return: una matriz de uso
 
     Ej.
-    >> mat_uso = jackobson.matriz_uso(matriz, fd)
+    >> mat_uso = jakobson.matriz_uso(matriz, fd)
     >> mat_uso
     {'purchased': [0, 0], 'suggested': [0, 0, 0, 0, 0, 0, 0, 0], 'But': [9, 0, 0, 1, 6],
     """
@@ -100,7 +103,7 @@ def vector_uso(vector_semantico, freqDist):
     Ej.
     >> vector_semantico
     ['honestly', 'frankly', 'candidly', 'aboveboard']
-    >> jackobson.vector_uso(vector_semantico,fd)
+    >> jakobson.vector_uso(vector_semantico,fd)
     [2, 0, 0, 0]
     """
     vector_uso = []
@@ -131,8 +134,11 @@ def freq_media(freqDist):
     :param freqDist:
     :return:
 
-    >> jackobson.freq_media(fd)
+    >> jakobson.freq_media(fd)
     2.73125
+
+    da una noción comparativa
+    del uso del corpora
     """
     f = []
     log.info("inicia calculo de freq media para corpora")
@@ -202,21 +208,28 @@ def media_de_frecuencias(tabla_de_frecuencias):
 
 
 
-def indice_metaforico(corpora):
+def indice_metaforico(corpora, corpora_ref):
     """
 
     :param corpora:
     :return:
 
-    >> jackobson.indice_metaforico(corpus)
+    >> jakobson.indice_metaforico(corpus)
     32284.159329079586
     """
     # primero calculo freqMedia
     f_d = FreqDist(corpora)
-    f_m = freq_media(f_d)
-    # calculo la matriz de uso
+    f_d_ref= FreqDist(corpora_ref)
+
+    f_m = freq_media(f_d_ref)
+
+    # calculo matris de semantica
     mat_semantica = matriz_semantica(corpora)
-    mat_uso = matriz_uso(mat_semantica, f_d)
+    # calculo la matriz de uso
+    mat_uso = matriz_uso(mat_semantica, f_d_ref)
+    # guardo las matrices
+    output.guardar_csv(output.output_csv("matriz_semantica"), mat_semantica, ("w", "vector_semantico"))
+    output.guardar_csv(output.output_csv("matriz_uso"), mat_uso, ("w", "vector_uso"))
 
 
     valores_indice = []
@@ -225,20 +238,32 @@ def indice_metaforico(corpora):
         uso_ = uso(w,f_d, f_m)
         vector_de_uso = mat_uso[w]
 
-        prom = prom_vector_uso(vector_de_uso)
+        prom = prom_vector_uso(vector_de_uso, w)
 
-        taza = taza_metaforica(numerador=uso_, denominador=prom)
+        taza = taza_metaforica(numerador=f_m, denominador=uso_)
+        taza = prom / f_d[w]
+
+        if taza < 0:
+            taza = 0
+        print(taza)
+        taza_inversa = taza
         valores_indice.append(taza)
         referencia_metaforica[w] = taza
-
+        debug.debug("palabra: %s" % w)
+        debug.debug("vector_semantico: %s" %  mat_semantica[w])
+        debug.debug("vector_de uso: %s" % vector_de_uso)
+        debug.debug("prom_vector_uso: %d" % prom)
+        debug.debug("taza: %d"  % taza )
+        resultados.info("{w} usada {f_d}: taza: {taza} entre {vector_semantico} : {vector_uso}, prom :{prom}".format(w=w, f_d=f_d[w],taza=taza_inversa, vector_semantico=mat_semantica[w], vector_uso=mat_uso[w], prom=prom))
 
     log.info("Termina recorrido por palabra para indice metaforico")
     artefactos.info("Inicia red. metaforica")
     artefactos.info(pformat(referencia_metaforica,indent=4))
+    output.guardar_csv( output.output_csv("referencia_metaforica"), referencia_metaforica, ('w','taza'))
     artefactos.info("Termina ref. metafórica")
     log.info("sumando valores del indice")
-
     return sum(valores_indice)
+
 
 def uso(w, freqDist, freqMedia):
     """
@@ -255,12 +280,12 @@ def uso(w, freqDist, freqMedia):
 
 
 @compensacion_por_cero
-def prom_vector_uso(vector_uso):
+def prom_vector_uso(vector_uso, w):
     """Dado un vector_uso, retorna
     el promedio de las frecuencias
     """
     frecuencias = []
-    log.info("inicia promedio de vector de uso")
+    log.info("inicia promedio de vector de uso para '{palabra}'".format(palabra=w))
 
     for frecuencia in vector_uso:
         frecuencias.append(frecuencia)
@@ -269,15 +294,18 @@ def prom_vector_uso(vector_uso):
     if len(frecuencias) != 0:
         return mean(frecuencias)
     else:
-        return 0.01
+        return 0.001
 
 def taza_metaforica(numerador,denominador):
+    debug.debug("numerador: %d" % numerador)
+    debug.debug("denominador: %d" % denominador)
     if denominador == 0:
         #compenso el 0
         denominador = 0.01
 
 
     return numerador/denominador
+
 
 
 
