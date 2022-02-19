@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}FORMULACIÓN DEL PROBLEMA}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Introducción}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Planteamiento del problema}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Justificacón}{3}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}\textbf {Palabras clave:}}{4}{subsubsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.4}Alcances y delimitaciones:}{4}{subsection.1.4}%
+\contentsline {section}{\numberline {2}OBJETIVO GENERAL}{5}{section.2}%
+\contentsline {section}{\numberline {3}OBJETIVOS ESPECÍFICOS}{5}{section.3}%
+\contentsline {section}{\numberline {4}MARCO TEÓRICO}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Literariedad}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Poética}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Linguística}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Lingüística Computacional}{7}{subsection.4.4}%
+\contentsline {section}{\numberline {5}MARCO REFERENCIAL}{7}{section.5}%
+\contentsline {section}{\numberline {6}DISEÑO METODOLÓGICO}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Entendimiento del negocio}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Entendimiento de los datos}{8}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Los recursos lexicos}{8}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}La red semántica y similaridad con Saussure}{10}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Por qué utilizo el Brown Corpus}{10}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Preparación de los datos}{10}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Modelamiento}{10}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}{10}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Generating a test desing}{10}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}Building the models}{10}{subsubsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.5}Despliegue (los notebooks?? creo que no hay despliege)}{11}{subsection.6.5}%
+\contentsline {section}{\numberline {7}CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}{11}{section.7}%
+\contentsline {section}{\numberline {8}BIBLIOGRAFÍA}{11}{section.8}%

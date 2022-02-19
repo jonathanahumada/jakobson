@@ -1,0 +1,380 @@
+#+AUTHOR: Jonatan Ahumada Fernández
+#+TITLE: Modelo de literariedad usando redes semánticas y n-gramas 
+
+
+** FORMULACIÓN DEL PROBLEMA
+*** Introducción
+
+¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
+considerado 'literario' de aquél que no lo es? Esta pregunta se ha
+planteado en áreas como los estudios literarios y la lingüística
+[3]. Particularmente, la escuela denominada 'formalismo ruso' planteó
+que el objeto de estudio de la literatura, no /podría/ ser la belleza, la
+relevancia histórica o el valor pragmático de un texto. Más
+bien, su objeto de estudio /debe/ recaer en un aspecto más 'objetivo':
+su /literariedad/.  Como su nombre sugiere, los formalistas se
+abocaron a formular una definición 'objetiva' y 'concreta' del
+fenómeno literario y adoptaron los --en ese entonces-- modernos
+métodos de la buyente disciplina de la linguística.
+
+Siendo este el caso, ¿no es, por consiguiente, factible que un
+autómata pueda medir y presentar tales características presuntamente
+formales con las actuales herramientas informáticas? ¿Cómo se podría
+traducir la noción de /literariedad/ a un algoritmo que pueda ejecutar
+una máquina?
+
+
+*** Descripción del problema
+     
+Existen infinitas operaciones realizables sobre un texto computarizado.
+Dentro de estas, hay algunas --unas pocas-- que se dedican a analizar
+estilísticamente los textos. Un subconjunto más cerrado de estos están
+guiados por aquello que Gelbuhk llama 'la ciencia fundamental'. A saber,
+la linguística. En otras palabras, Gelbhuk apunta hacia un vacío en
+el campo de la linguística computacional: hay una distancia entre
+los disciplinas de la linguística y los programadores.
+
+Esto genera que el estudio académico de la literatura no pueda
+sustentarse en datos 'duros' o ,por lo menos, cuantitativos del método
+científico, a pesar de que hay quienes, como los formalistas rusos,
+quisieran hacer uso de este. Por otro lado, los diversas y posibles
+formas de calcular la 'creatividad', la 'rima' o la 'belleza' de un
+texto, propuesto por otros investigadores sean casuísticos, acoplados
+a las objetivos  y circunstancias de cada investigación en particular.
+
+Teóricamente, sin embargo, existen conceptos que pueden guiar tales
+análisis. Roman Jakobson, en particular, propone que el estudio de un
+texto literario se basa en dos fenómenos constantes del lenguaje,
+ampliamente discutidos en la linguística: 1) el eje sincrónico y 2) el
+eje diacrónico. O, como también pueden ser llamados: la metáfora y la
+metonimia.
+
+Así, se necesita un modelo de la /literariedad/ que exprese
+concretamente la metáfora y la metonimia. Bien sea para ampliar las
+aplicaciones de la linguistica computacional o para someter a
+escrutinio los planteamientos de la teoría.
+
+
+
+
+
+*** Justificacón
+Gelbuhk sugiere que la dificultad de desarrollar programas que modelen
+el lenguaje se debe a la escaza aplicación de la teoría linguística:
+"In the past few decades, many attempts to build language processing
+or language understanding systems have been undertaken by people
+without sufficient knowledge in theoretical linguistics.".  Por lo
+tanto, un modelo que utilice técnicas de NLP para capturar tales
+características teoréticas sería un aporte significativo (si bien
+modesto) al campo de la linguística computacional, así como también
+a los estudios literarios. 
+
+En esta investigación se  formulará y evaluará un modelo
+para obtener una medida cuantitativa para el concepto de /literariedad/
+de Roman Jakobson utilizando redes semánticas y n-gramas. De este modo, la
+presente investigación respondería a la pregunta ¿Cómo utilizar las
+herramientas de NLP para medir la /literariedad/ de un texto según el
+marco de la lingüística de Jakobson?
+
+**** *Palabras clave:* NLP, computational linguistics, literariness,
+literary theory, poetics, theory of formal method
+     :PROPERTIES:
+     :CUSTOM_ID: palabras-clave-nlp-computational-linguistics-literariness-literary-theory-poetics-theory-of-formal-method
+     :END:
+Área de conocimiento:
+
+Lingüística computacional
+
+*** Alcances y delimitaciones:
+
+Para computar una métrica de /literariedad/ será necesario comparar
+un /corpus objetivo/ con respecto a un /corpus de referencia,/ este
+último representará el ‘uso corriente de la lengua'. La primera
+limitación de este trabajo es que no se compilará un corpus propio, sino
+que partirá de los de acceso libre. La mayoría de estos se encuentran en
+inglés. Por este motivo, el corpus de referencia más a la mano es
+WordNet, que al ser una ontología ya contiene las anotaciones necesarias
+para mi objetivo. A saber, una lista de sinónimos por palabras. Por otro
+lado, el corpus objetivo no tiene que estar anotado (utilizaré un
+PlainTextCorpus), pero de algún modo tiene que ser razonable su
+comparación con el corpus objetivo. Por ejemplo, los resultados del
+modelo serían muy difíciles de evaluar si la relación entre corpus
+objetivo y de referencia sobrepasa los 2 siglos, dada la naturaleza
+fluida de la lengua.
+    
+La segunda limitación concierne a la formulación de los algoritmos en sí
+mismos. Me limitaré a formular los modelos más naive posibles. Por
+ejemplo, (retomando el ejemplo previo) dada una palabra se considerará
+un sinónimo todas las palabras listadas como tal en el corpus de
+referencia, sin considerar los sub-problemas que esto podría conllevar.
+
+En general, el alcance de este proyecto es formular e implementar un
+modelo general que muestre cómo sería viable implementar el concepto de
+/literariedad/, sin ahondar en los detalles que se desprenden de cada
+fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
+las diferentes partes de una oración en el computo final, etc).
+
+** OBJETIVO GENERAL
+   :PROPERTIES:
+   :CUSTOM_ID: objetivo-general
+   :CLASS: list-paragraph
+   :END:
+**** Implementar un modelo que, dado un corpus de texto, produzca una
+métrica para el concepto de literariedad que plantea Roman Jakobson.
+     :PROPERTIES:
+     :CUSTOM_ID: implementar-un-modelo-que-dado-un-corpus-de-texto-produzca-una-métrica-para-el-concepto-de-literariedad-que-plantea-roman-jakobson.
+     :END:
+** OBJETIVOS ESPECÍFICOS
+   :PROPERTIES:
+   :CUSTOM_ID: objetivos-específicos
+   :CLASS: list-paragraph
+   :END:
+Construir los corpus necesarios
+
+Diseñar el /pipeline/ y los algoritmos necesarios.
+
+Implementar el modelo y correrlo sobre el corpus para obtener la
+métrica.
+
+Evaluar el algoritmo de manera cuantitativa y cualitativa
+
+1. MARCO TEÓRICO
+
+*** Literariedad
+    :PROPERTIES:
+    :CUSTOM_ID: literariedad
+    :END:
+
+#+begin_quote
+  La /literariedad/ es, según Jakobson, la cualidad de un objeto
+  literario en cuanto tal. Por lo tanto, la /literariedad/ no depende de
+  ningún factor extrínseco, como su emisor, su valor histórico, las
+  ventas de tal o cual libro, las citaciones, etc. La /literariedad/ se
+  da exclusivamente por atributos propios del fenómeno del lenguaje.
+
+  Para analizar la /literariedad/, se deben analizar las dos operaciones
+  más básicas de la conducta verbal: /la selección/ y /la combinación./
+#+end_quote
+
+1. Selección:
+
+   La selección estudia qué palabra selecciona un hablante entre las
+   palabras existentes de la lengua, más o menos similares y hasta
+   cierto punto equivalentes. La selección se basa en la sinonimia o
+   antonimia de una palabra. En otros términos, en su semántica.
+
+   2. Combinación:
+
+      La combinación estudia el "entramado de la secuencia" de un
+      mensaje. Es decir, el mensaje considerado como una secuencia
+      temporal y/o ordenada de palabras. La combinación se basa en la
+      proximidad.
+
+*** Linguística
+    :PROPERTIES:
+    :CUSTOM_ID: linguística
+    :END:
+
+#+begin_quote
+  La lingüística es la ciencia que estudia el lenguaje.
+  Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
+  fonología, morfología, sintaxis, semántica y pragmática.
+
+  La lingüística es un campo de estudio interdisciplinar e involucra
+  disciplinas heterogéneas como la lógica y la neurolingüistica. Sin
+  embargo, se considera que hay un núcleo común llamado /linguística
+  general/.
+#+end_quote
+
+1. Lingüística General:
+
+   Se conoce como lingüística general al paradigma lingüístico
+   establecido por Ferdinand De Saussure, también llamado /modelo
+   diferencial del lenguaje/.
+
+   El modelo diferencial se caracteriza porque propone dos ejes
+   principales existentes en todo fenómeno lingüístico: el /eje de
+   sincronía/ y el /eje de diacronía/.
+
+   Estos dos ejes son la base de lo que Jakobson considera /selección/ y
+   /combinación/.
+
+2. Lingüística Computacional:
+
+#+begin_quote
+  Es la intersección entre la computación y la lingüística. Por lo
+  general, se preocupa acerca de cómo procesar automáticamente el
+  lenguaje material, para lo cual genera modelos lingüísticos sobre los
+  que luego se pueden definir operaciones comunes [6].
+#+end_quote
+
+- La lingüística computacional es en sí misma un campo amplio y
+  heterogéneo, pero en términos de este trabajo, me limitaré a señalar
+  una herramienta:
+
+  1. NLTK
+
+  - El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
+    una interfaz para tareas comunes en la lingüística computacional. La
+    ventaja principal de NLTK es que se considera a sí mismo un
+    /toolkit/. Esto significa que no impone una estructura de
+    procesamiento definida a la vez que ofrece un extenso abanico de
+    herramientas, tales como: tokenizacion, filtros, generación de
+    n-gramas, análisis sintáctico de oraciones, entre otras.
+
+b. Corpus
+
+#+begin_quote
+  Un corpus es una colección de textos auténticos que pueden ser leídos
+  por una máquina. Estos pueden estructurarse de muchas formas,
+  dependiendo de los objetivos de la investigación [9]. Por ejemplo,
+  pueden ser aislados (una colección arbitraria), categorizados (una
+  colección escogida según algún criterio), temporales (una colección
+  organizada cronológicamente) o solapados (un documento puede
+  pertenecer a varias colecciones) [10]. Además, el formato del corpus
+  varía significativamente de acuerdo al objeto de la investigación. Por
+  ejemplo, si se desea hacer un análisis sintáctico (de la estructura de
+  una oración), se debe hacer un corpus anotado con POS (Part Of Speech
+  tag); para hacer un análisis pragmático se utiliza una anotación
+  pragmática, etc.
+#+end_quote
+
+** MARCO REFERENCIAL
+   :PROPERTIES:
+   :CUSTOM_ID: marco-referencial
+   :CLASS: list-paragraph
+   :END:
+El trabajo de Delmonte [2] presenta a SPARSAR, un sistema para calcular
+automáticamente el estilo de la poesía. SPARSAR funciona sobre sistemas
+previos del mismo autor, como, por ejemplo, un analizador semántico [7].
+Delmonte tiene una larga trayectoria en el modelamiento de conceptos
+lingüísticos "difíciles", como la prosodia y la rima en términos
+cuantitativos.
+
+El aporte principal de Delmonte fue su innovación al momento de aplicar
+herramientas comunes de NLP (tokenizadores, splitters y NER) con el fin
+de analizar aspectos estilísticos de un texto. Los modelos de Delmonte
+son muy cercanos a la teoría lingüística y propone soluciones a aspectos
+complejos del análisis lingüístico. Esta proximidad me llevo a
+plantearme la pregunta ¿qué otros aspectos del lenguaje valdría la pena
+modelar que aún no hayan sido abordados desde una perspectiva
+computacional? Así mismo, Delmonte reporta que hay pocos trabajos en el
+área con este mismo enfoque. Esta fue una inspiración para explorar más
+en el tema y ofrecer un enfoque distinto, tal como él lo hizo.
+
+Sin embargo, Delmonte no revela detalles de implementación de sus sis-
+temas en los artículos revisados. Además, sus sistemas tienen una
+alcance mucho mayor que el dispuesto para este trabajo, por lo que para
+mayores detalles tuve que referirme a otros trabajos.
+
+El trabajo de [5] establece una métrica para medir el grado de
+creatividad en la poesía, basándose en qué tanto de la rima se conserva
+en la traducción de un poema con respecto al original. Tomé de Zuñiga la
+idea de establecer una métrica para un aspecto tradicionalmente
+cualitativo (la creatividad). Lo que diferencia este trabajo del de
+Delmonte, es su aproximación matemática. Particularmente, Zuñiga ofreció
+una forma naive de calcular similitud en rima, sin necesidad de recurrir
+a construcciones que requieren de recursos léxicos complejos como una
+ontología para fonemas, etc.
+
+Por último, el trabajo de [8] es una tesis de pregrado sobre el cálculo
+del estilo de la poesía desde una perspectiva estadística. Kaplan fue
+una inspiración para Delmonte, por lo tanto debía formar parte de mi
+revisión bibliográfica. El aporte principal a mi trabajo ha sido tener
+una serie de ope- raciones como referencia. Por ejemplo, para modelar
+aspectos ortográficos, sintácticos y fonémicos, entre otros.
+
+** DISEÑO METODOLÓGICO PRELIMINAR
+   :PROPERTIES:
+   :CUSTOM_ID: diseño-metodológico-preliminar
+   :CLASS: list-paragraph
+   :END:
+| Objetivo Específicos                                                     | Actividades                                                                                                                                           | Áreas del conocimiento                      | Bibliografía |
+| Construir los corpus necesarios                                          | 1. Construir el corpus de referencia que será utilizado para modelar el /eje de/ /sincronía/                                                          | NLP                                         | [6]          |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 2. Construir los grupos de mensajes que serán sometidos al procesamiento (los corpus objetivo)                                                        |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 3. Formular la hipótesis sobre los resultados esperados para cada grupo                                                                               |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 4. Documentar                                                                                                                                         |                                             |              |
+| Diseñar el /pipeline/ necesario y los algoritmos                         | 1. Modelamiento en UML                                                                                                                                | Desarrollo de software                      | [8]          |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 2. Diseño de pruebas unitarias                                                                                                                        |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 3. Formulación de las ecuaciones para las métricas                                                                                                    |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 4. Documentación                                                                                                                                      |                                             |              |
+| Implementar el modelo y correrlo sobre el corpus para obtener la métrica | 1. Implementación                                                                                                                                     | Desarrollo de software                      |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 2. Correr pruebas                                                                                                                                     |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 3. Ejecución de programa sobre corpus seleccionado                                                                                                    |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 4. Documentación de resultados                                                                                                                        |                                             |              |
+| Evaluar el algoritmo de manera cuantitativa y cualitativa                | 1. Utilizar métodos estadísticos (por ejemplo, matriz de confusión, Hipótesis nula) para obtener retroalimentación sobre la efectividad del algoritmo | Analítica de datos, Linguística cualitativa | [5][8]       |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 2. Visualizar los resultados                                                                                                                          |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 4. Ofrecer conclusiones cualitativas sobre el modelo y contrastarlo con otros enfoques del marco teórico                                              |                                             |              |
+|                                                                          |                                                                                                                                                       |                                             |              |
+|                                                                          | 1. Proponer mejoras futuras al modelo                                                                                                                 |                                             |              |
+
+** ESTRUCTURA DE PROCESAMIENTO*
+** PRESENTACION DE RESULTADOS*
+** CONCLUSIONES*
+** LISTADO DE ENTREGABLES:
+   :PROPERTIES:
+   :CUSTOM_ID: listado-de-entregables
+   :CLASS: list-paragraph
+   :END:
+Documento de tesis de grado
+
+Documentación del paquete de Python
+
+Notebook ejemplo
+
+** CRONOGRAMA
+   :PROPERTIES:
+   :CUSTOM_ID: cronograma
+   :CLASS: list-paragraph
+   :END:
+(Ver en pág. siguiente)
+
+[[file:media/image1.png]]
+
+2. BIBLIOGRAFÍA
+
+[1]  L. Danlos, “The linguistic basis of text generation,” in
+Proceedings of the third conference on European chapter of the
+Association for Computatio- nal Linguistics, pp. 1--1, 1987.
+
+[2]  R. Delmonte, “Computing poetry style.,” in ESSEM@ AI* IA, pp. 148--
+155, 2013.
+
+[3]  B. Eijembaum, “La teoría del"método formal",” in Textos de teorías
+y crítica literarias:(del formalismo a los estudios postcoloniales), pp.
+33-- 62, Anthropos, 2010.
+
+[4]  R. Jakobson and A. M. G. Cabello, Lingüística y poética. Cátedra
+España, 1981.
+
+[5]  D. F. Zuñiga, T. Amido, and J. E. Camargo, “Automatic computation
+of poetic creativity in parallel corpora,” in Colombian Conference on
+Computing, pp. 710--720, Springer, 2017.
+
+[6]  I. A. Bolshakov and A. Gelbukh, Computational Linguistics: Models,
+Re- sources, Applications. Mexico City: Centro de Investigacio ́øn en
+Compu- taci ́øn, Instituto Polit ́cnico Nacional, 1981.
+
+[7]  R. Delmonte, S. Tonelli, M. A. P. Boniforti, and A. Bristot,
+“Venses--a linguistically-based system for semantic evaluation,” in
+Machine Learning Challenges Workshop, pp. 344--371, Springer, 2005.
+
+[8]  D. Kaplan, “Computational analysis and visualized comparison of
+style in american poetry,” Unpublished undergraduate thesis, 2006.
+
+[9] Indurkhya, N., & Damerau, F. J. “/Handbook of natural language
+processing/ (Vol. 2)”. CRC Press, 2010
+
+[10] Bird, Steven, et al. Natural Language Processing with Python.
+O'Reilly Media, 2009.

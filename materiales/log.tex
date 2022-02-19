@@ -1,0 +1,319 @@
+% Created 2022-01-30 dom 20:12
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\author{jonatan}
+\date{\today}
+\title{}
+\hypersetup{
+ pdfauthor={jonatan},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 27.2 (Org mode 9.4.4)}, 
+ pdflang={English}}
+\begin{document}
+
+\tableofcontents
+
+\section{\textit{<2021-08-22 dom>}}
+\label{sec:org2060daa}
+\begin{itemize}
+\item retomo el projecto
+\item no recuerod mucho
+\item los copora no pueden quedar en el repo. Esto hay que sopesarlo bien
+\end{itemize}
+
+\subsection{Wordnet}
+\label{sec:org647aff8}
+WordNet is a semantically-oriented dictionary of English, similar to a
+traditional thesaurus but with a richer structure. NLTK includes the English
+WordNet, with 155,287 words and 117,659 synonym sets. We'll begin by looking at
+synonyms and how they are accessed in WordNet.
+
+\begin{itemize}
+\item operación más sencilla es sinonimos
+\end{itemize}
+
+
+\section{\textit{<2021-08-23 lun>}}
+\label{sec:orgc1cde21}
+
+\begin{itemize}
+\item \url{https://github.com/aparrish/gutenberg-poetry-corpus}
+\item el problema es qu eesta ndjason
+\item ¿Cómo promedio frequencias de sinonios?
+\item freq\textsubscript{w} debe ser repensada
+\item tengo que medir que tan común es la palabra dentro del corpora base
+\item vamos primero a intentar comparar el uso de la palabra dentro del corpora base
+\item 
+\end{itemize}
+\section{\textit{<2021-08-24 mar>}}
+\label{sec:orgc0027fa}
+\begin{itemize}
+\item identifiqué que el problema es la compensacion por cero
+\item entonces implemente un decorador que compensa
+\item ahora me estoy dando cuenta de que hay un problema con la semántica de la ecuacion
+\item freq\textsubscript{w} ya quedó distinta. Es en sí misma un cociente
+\item y tambien se puede hacer el promedio
+\end{itemize}
+
+
+\section{\textit{<2021-08-25 mié>}}
+\label{sec:orge75eb7b}
+
+\begin{itemize}
+\item creo que el loop agota los recursos necesarios
+\end{itemize}
+
+\begin{verbatim}
+(nltk) d:\clases\tesis>python -m unittest jackobson.tests.test_indice_metaforico.TestIndiceMetaforico.test_indice_metaforico
+2021-08-25 21:31:14,762 - tests - INFO - inicia construcción indice metafórico
+2021-08-25 21:31:14,764 - tests - INFO - inicia calculo de uso para palabra: These
+2021-08-25 21:31:17,155 - tests - INFO - inicia calculo de uso para palabra: societies
+2021-08-25 21:31:17,628 - tests - INFO - inicia calculo de uso para palabra: can
+2021-08-25 21:31:18,089 - tests - INFO - inicia calculo de uso para palabra: expect
+2021-08-25 21:31:18,569 - tests - INFO - inicia calculo de uso para palabra: to
+2021-08-25 21:31:19,041 - tests - INFO - inicia calculo de uso para palabra: face
+2021-08-25 21:31:19,522 - tests - INFO - inicia calculo de uso para palabra: difficult
+2021-08-25 21:31:19,998 - tests - INFO - inicia calculo de uso para palabra: times
+2021-08-25 21:31:20,465 - tests - INFO - inicia calculo de uso para palabra: .
+2021-08-25 21:31:20,949 - tests - INFO - inicia calculo de uso para palabra: As
+2021-08-25 21:31:21,426 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:31:21,901 - tests - INFO - inicia calculo de uso para palabra: historic
+2021-08-25 21:31:22,369 - tests - INFO - inicia calculo de uso para palabra: processes
+2021-08-25 21:31:22,840 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:31:23,326 - tests - INFO - inicia calculo de uso para palabra: modernization
+2021-08-25 21:31:23,802 - tests - INFO - inicia calculo de uso para palabra: gradually
+2021-08-25 21:31:24,276 - tests - INFO - inicia calculo de uso para palabra: gain
+2021-08-25 21:31:24,753 - tests - INFO - inicia calculo de uso para palabra: momentum
+2021-08-25 21:31:25,229 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:31:25,712 - tests - INFO - inicia calculo de uso para palabra: their
+2021-08-25 21:31:26,182 - tests - INFO - inicia calculo de uso para palabra: cohesion
+2021-08-25 21:31:26,656 - tests - INFO - inicia calculo de uso para palabra: will
+2021-08-25 21:31:27,132 - tests - INFO - inicia calculo de uso para palabra: be
+2021-08-25 21:31:27,609 - tests - INFO - inicia calculo de uso para palabra: threatened
+2021-08-25 21:31:28,087 - tests - INFO - inicia calculo de uso para palabra: by
+2021-08-25 21:31:28,563 - tests - INFO - inicia calculo de uso para palabra: divisive
+2021-08-25 21:31:29,037 - tests - INFO - inicia calculo de uso para palabra: forces
+2021-08-25 21:31:29,512 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:31:29,981 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:31:30,451 - tests - INFO - inicia calculo de uso para palabra: gaps
+2021-08-25 21:31:30,928 - tests - INFO - inicia calculo de uso para palabra: between
+2021-08-25 21:31:31,398 - tests - INFO - inicia calculo de uso para palabra: rulers
+2021-08-25 21:31:31,878 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:31:32,358 - tests - INFO - inicia calculo de uso para palabra: subjects
+2021-08-25 21:31:32,836 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:31:33,314 - tests - INFO - inicia calculo de uso para palabra: town
+2021-08-25 21:31:33,782 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:31:34,261 - tests - INFO - inicia calculo de uso para palabra: country
+2021-08-25 21:31:34,733 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:31:35,209 - tests - INFO - inicia calculo de uso para palabra: will
+2021-08-25 21:31:35,685 - tests - INFO - inicia calculo de uso para palabra: widen
+2021-08-25 21:31:36,159 - tests - INFO - inicia calculo de uso para palabra: ;
+2021-08-25 21:31:36,637 - tests - INFO - inicia calculo de uso para palabra: ;
+2021-08-25 21:31:37,123 - tests - INFO - inicia calculo de uso para palabra: new
+2021-08-25 21:31:37,611 - tests - INFO - inicia calculo de uso para palabra: aspirants
+2021-08-25 21:31:38,080 - tests - INFO - inicia calculo de uso para palabra: for
+2021-08-25 21:31:38,561 - tests - INFO - inicia calculo de uso para palabra: power
+2021-08-25 21:31:39,041 - tests - INFO - inicia calculo de uso para palabra: will
+2021-08-25 21:31:39,513 - tests - INFO - inicia calculo de uso para palabra: emerge
+2021-08-25 21:31:39,996 - tests - INFO - inicia calculo de uso para palabra: whose
+2021-08-25 21:31:40,494 - tests - INFO - inicia calculo de uso para palabra: ambitions
+2021-08-25 21:31:40,975 - tests - INFO - inicia calculo de uso para palabra: far
+2021-08-25 21:31:41,478 - tests - INFO - inicia calculo de uso para palabra: exceed
+2021-08-25 21:31:41,950 - tests - INFO - inicia calculo de uso para palabra: their
+2021-08-25 21:31:42,432 - tests - INFO - inicia calculo de uso para palabra: competence
+2021-08-25 21:31:42,916 - tests - INFO - inicia calculo de uso para palabra: ;
+2021-08-25 21:31:43,383 - tests - INFO - inicia calculo de uso para palabra: ;
+2021-08-25 21:31:43,867 - tests - INFO - inicia calculo de uso para palabra: old
+2021-08-25 21:31:44,347 - tests - INFO - inicia calculo de uso para palabra: rulers
+2021-08-25 21:31:44,824 - tests - INFO - inicia calculo de uso para palabra: may
+2021-08-25 21:31:45,301 - tests - INFO - inicia calculo de uso para palabra: lose
+2021-08-25 21:31:45,770 - tests - INFO - inicia calculo de uso para palabra: their
+2021-08-25 21:31:46,251 - tests - INFO - inicia calculo de uso para palabra: nerve
+2021-08-25 21:31:46,738 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:31:47,203 - tests - INFO - inicia calculo de uso para palabra: their
+2021-08-25 21:31:47,675 - tests - INFO - inicia calculo de uso para palabra: sense
+2021-08-25 21:31:48,141 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:31:48,616 - tests - INFO - inicia calculo de uso para palabra: direction
+2021-08-25 21:31:49,093 - tests - INFO - inicia calculo de uso para palabra: .
+2021-08-25 21:31:49,575 - tests - INFO - inicia calculo de uso para palabra: National
+2021-08-25 21:31:50,066 - tests - INFO - inicia calculo de uso para palabra: leaders
+2021-08-25 21:31:50,544 - tests - INFO - inicia calculo de uso para palabra: will
+2021-08-25 21:31:51,021 - tests - INFO - inicia calculo de uso para palabra: have
+2021-08-25 21:31:51,504 - tests - INFO - inicia calculo de uso para palabra: to
+2021-08-25 21:31:51,987 - tests - INFO - inicia calculo de uso para palabra: display
+2021-08-25 21:31:52,469 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:31:52,954 - tests - INFO - inicia calculo de uso para palabra: highest
+2021-08-25 21:31:53,441 - tests - INFO - inicia calculo de uso para palabra: skills
+2021-08-25 21:31:53,922 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:31:54,395 - tests - INFO - inicia calculo de uso para palabra: statesmanship
+2021-08-25 21:31:54,874 - tests - INFO - inicia calculo de uso para palabra: to
+2021-08-25 21:31:55,350 - tests - INFO - inicia calculo de uso para palabra: guide
+2021-08-25 21:31:55,832 - tests - INFO - inicia calculo de uso para palabra: their
+2021-08-25 21:31:56,295 - tests - INFO - inicia calculo de uso para palabra: people
+2021-08-25 21:31:56,763 - tests - INFO - inicia calculo de uso para palabra: through
+2021-08-25 21:31:57,273 - tests - INFO - inicia calculo de uso para palabra: times
+2021-08-25 21:31:57,754 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:31:58,227 - tests - INFO - inicia calculo de uso para palabra: uncertainty
+2021-08-25 21:31:58,702 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:31:59,176 - tests - INFO - inicia calculo de uso para palabra: confusion
+2021-08-25 21:31:59,638 - tests - INFO - inicia calculo de uso para palabra: which
+2021-08-25 21:32:00,100 - tests - INFO - inicia calculo de uso para palabra: destroy
+2021-08-25 21:32:00,574 - tests - INFO - inicia calculo de uso para palabra: men's
+2021-08-25 21:32:01,056 - tests - INFO - inicia calculo de uso para palabra: sense
+2021-08-25 21:32:01,521 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:02,004 - tests - INFO - inicia calculo de uso para palabra: identity
+2021-08-25 21:32:02,473 - tests - INFO - inicia calculo de uso para palabra: .
+2021-08-25 21:32:02,947 - tests - INFO - inicia calculo de uso para palabra: Feelings
+2021-08-25 21:32:03,419 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:03,890 - tests - INFO - inicia calculo de uso para palabra: a
+2021-08-25 21:32:04,371 - tests - INFO - inicia calculo de uso para palabra: community
+2021-08-25 21:32:04,848 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:05,320 - tests - INFO - inicia calculo de uso para palabra: interest
+2021-08-25 21:32:05,799 - tests - INFO - inicia calculo de uso para palabra: will
+2021-08-25 21:32:06,282 - tests - INFO - inicia calculo de uso para palabra: have
+2021-08-25 21:32:06,756 - tests - INFO - inicia calculo de uso para palabra: to
+2021-08-25 21:32:07,229 - tests - INFO - inicia calculo de uso para palabra: be
+2021-08-25 21:32:07,707 - tests - INFO - inicia calculo de uso para palabra: recreated
+2021-08-25 21:32:08,178 - tests - INFO - inicia calculo de uso para palabra: --
+2021-08-25 21:32:08,652 - tests - INFO - inicia calculo de uso para palabra: in
+2021-08-25 21:32:09,132 - tests - INFO - inicia calculo de uso para palabra: some
+2021-08-25 21:32:09,620 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:10,096 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:10,568 - tests - INFO - inicia calculo de uso para palabra: new
+2021-08-25 21:32:11,041 - tests - INFO - inicia calculo de uso para palabra: nations
+2021-08-25 21:32:11,509 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:32:11,995 - tests - INFO - inicia calculo de uso para palabra: indeed
+2021-08-25 21:32:12,477 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:32:12,957 - tests - INFO - inicia calculo de uso para palabra: they
+2021-08-25 21:32:13,427 - tests - INFO - inicia calculo de uso para palabra: must
+2021-08-25 21:32:13,909 - tests - INFO - inicia calculo de uso para palabra: be
+2021-08-25 21:32:14,396 - tests - INFO - inicia calculo de uso para palabra: built
+2021-08-25 21:32:14,873 - tests - INFO - inicia calculo de uso para palabra: for
+2021-08-25 21:32:15,372 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:15,862 - tests - INFO - inicia calculo de uso para palabra: first
+2021-08-25 21:32:16,326 - tests - INFO - inicia calculo de uso para palabra: time
+2021-08-25 21:32:16,792 - tests - INFO - inicia calculo de uso para palabra: --
+2021-08-25 21:32:17,260 - tests - INFO - inicia calculo de uso para palabra: on
+2021-08-25 21:32:17,735 - tests - INFO - inicia calculo de uso para palabra: a
+2021-08-25 21:32:18,214 - tests - INFO - inicia calculo de uso para palabra: new
+2021-08-25 21:32:18,700 - tests - INFO - inicia calculo de uso para palabra: basis
+2021-08-25 21:32:19,177 - tests - INFO - inicia calculo de uso para palabra: which
+2021-08-25 21:32:19,648 - tests - INFO - inicia calculo de uso para palabra: looks
+2021-08-25 21:32:20,135 - tests - INFO - inicia calculo de uso para palabra: toward
+2021-08-25 21:32:20,617 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:21,102 - tests - INFO - inicia calculo de uso para palabra: future
+2021-08-25 21:32:21,591 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:32:22,067 - tests - INFO - inicia calculo de uso para palabra: does
+2021-08-25 21:32:22,542 - tests - INFO - inicia calculo de uso para palabra: not
+2021-08-25 21:32:23,030 - tests - INFO - inicia calculo de uso para palabra: rely
+2021-08-25 21:32:23,505 - tests - INFO - inicia calculo de uso para palabra: only
+2021-08-25 21:32:23,985 - tests - INFO - inicia calculo de uso para palabra: on
+2021-08-25 21:32:24,468 - tests - INFO - inicia calculo de uso para palabra: shared
+2021-08-25 21:32:24,951 - tests - INFO - inicia calculo de uso para palabra: memories
+2021-08-25 21:32:25,435 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:25,905 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:26,378 - tests - INFO - inicia calculo de uso para palabra: past
+2021-08-25 21:32:26,858 - tests - INFO - inicia calculo de uso para palabra: .
+2021-08-25 21:32:27,340 - tests - INFO - inicia calculo de uso para palabra: Nevertheless
+2021-08-25 21:32:27,818 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:32:28,305 - tests - INFO - inicia calculo de uso para palabra: with
+2021-08-25 21:32:28,781 - tests - INFO - inicia calculo de uso para palabra: foresight
+2021-08-25 21:32:29,256 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:32:29,746 - tests - INFO - inicia calculo de uso para palabra: careful
+2021-08-25 21:32:30,224 - tests - INFO - inicia calculo de uso para palabra: planning
+2021-08-25 21:32:30,698 - tests - INFO - inicia calculo de uso para palabra: ,
+2021-08-25 21:32:31,167 - tests - INFO - inicia calculo de uso para palabra: some
+2021-08-25 21:32:31,644 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:32,117 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:32,591 - tests - INFO - inicia calculo de uso para palabra: more
+2021-08-25 21:32:33,058 - tests - INFO - inicia calculo de uso para palabra: disruptive
+2021-08-25 21:32:33,524 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:32:34,003 - tests - INFO - inicia calculo de uso para palabra: dangerous
+2021-08-25 21:32:34,475 - tests - INFO - inicia calculo de uso para palabra: consequences
+2021-08-25 21:32:34,945 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:35,427 - tests - INFO - inicia calculo de uso para palabra: social
+2021-08-25 21:32:35,896 - tests - INFO - inicia calculo de uso para palabra: change
+2021-08-25 21:32:36,378 - tests - INFO - inicia calculo de uso para palabra: which
+2021-08-25 21:32:36,860 - tests - INFO - inicia calculo de uso para palabra: have
+2021-08-25 21:32:37,343 - tests - INFO - inicia calculo de uso para palabra: troubled
+2021-08-25 21:32:37,820 - tests - INFO - inicia calculo de uso para palabra: other
+2021-08-25 21:32:38,300 - tests - INFO - inicia calculo de uso para palabra: countries
+2021-08-25 21:32:38,780 - tests - INFO - inicia calculo de uso para palabra: passing
+2021-08-25 21:32:39,249 - tests - INFO - inicia calculo de uso para palabra: through
+2021-08-25 21:32:39,719 - tests - INFO - inicia calculo de uso para palabra: this
+2021-08-25 21:32:40,196 - tests - INFO - inicia calculo de uso para palabra: stage
+2021-08-25 21:32:40,665 - tests - INFO - inicia calculo de uso para palabra: can
+2021-08-25 21:32:41,148 - tests - INFO - inicia calculo de uso para palabra: be
+2021-08-25 21:32:41,624 - tests - INFO - inicia calculo de uso para palabra: escaped
+2021-08-25 21:32:42,107 - tests - INFO - inicia calculo de uso para palabra: .
+2021-08-25 21:32:42,575 - tests - INFO - inicia calculo de uso para palabra: The
+2021-08-25 21:32:43,047 - tests - INFO - inicia calculo de uso para palabra: United
+2021-08-25 21:32:43,525 - tests - INFO - inicia calculo de uso para palabra: States
+2021-08-25 21:32:43,999 - tests - INFO - inicia calculo de uso para palabra: can
+2021-08-25 21:32:44,469 - tests - INFO - inicia calculo de uso para palabra: help
+2021-08-25 21:32:44,951 - tests - INFO - inicia calculo de uso para palabra: by
+2021-08-25 21:32:45,423 - tests - INFO - inicia calculo de uso para palabra: communicating
+2021-08-25 21:32:45,902 - tests - INFO - inicia calculo de uso para palabra: a
+2021-08-25 21:32:46,388 - tests - INFO - inicia calculo de uso para palabra: genuine
+2021-08-25 21:32:46,866 - tests - INFO - inicia calculo de uso para palabra: concern
+2021-08-25 21:32:47,349 - tests - INFO - inicia calculo de uso para palabra: with
+2021-08-25 21:32:47,838 - tests - INFO - inicia calculo de uso para palabra: the
+2021-08-25 21:32:48,318 - tests - INFO - inicia calculo de uso para palabra: problems
+2021-08-25 21:32:48,806 - tests - INFO - inicia calculo de uso para palabra: these
+2021-08-25 21:32:49,280 - tests - INFO - inicia calculo de uso para palabra: countries
+2021-08-25 21:32:49,764 - tests - INFO - inicia calculo de uso para palabra: face
+2021-08-25 21:32:50,261 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:32:50,736 - tests - INFO - inicia calculo de uso para palabra: a
+2021-08-25 21:32:51,219 - tests - INFO - inicia calculo de uso para palabra: readiness
+2021-08-25 21:32:51,689 - tests - INFO - inicia calculo de uso para palabra: to
+2021-08-25 21:32:52,174 - tests - INFO - inicia calculo de uso para palabra: provide
+2021-08-25 21:32:52,654 - tests - INFO - inicia calculo de uso para palabra: technical
+2021-08-25 21:32:53,133 - tests - INFO - inicia calculo de uso para palabra: and
+2021-08-25 21:32:53,610 - tests - INFO - inicia calculo de uso para palabra: other
+2021-08-25 21:32:54,086 - tests - INFO - inicia calculo de uso para palabra: appropriate
+2021-08-25 21:32:54,561 - tests - INFO - inicia calculo de uso para palabra: forms
+2021-08-25 21:32:55,033 - tests - INFO - inicia calculo de uso para palabra: of
+2021-08-25 21:32:55,504 - tests - INFO - inicia calculo de uso para palabra: assistance
+2021-08-25 21:32:55,977 - tests - INFO - inicia calculo de uso para palabra: where
+2021-08-25 21:32:56,452 - tests - INFO - inicia calculo de uso para palabra: possible
+2021-08-25 21:32:56,932 - tests - INFO - inicia calculo de uso para palabra: .
+\end{verbatim}
+
+\begin{verbatim}
+ Traceback (most recent call last):
+  File "d:\clases\tesis\jackobson\tests\test_indice_metaforico.py", line 111, in test_indice_metaforico
+    i = indice_metaforico(cbase=self.corpus_base, creferencia=self.corpus_referencia)
+  File "d:\clases\tesis\jackobson\base.py", line 178, in indice_metaforico
+    for w in cbase:
+  File "C:\tools\miniconda3\envs\nltk\lib\site-packages\nltk\corpus\reader\util.py", line 301, in iterate_from
+    self._stream.seek(filepos)
+AttributeError: 'NoneType' object has no attribute 'seek'
+\end{verbatim}
+
+El punto en que se rompio quedó claramente registrado:
+
+
+\begin{verbatim}
+2021-08-25 21:32:57,436 - debug - DEBUG - uso(.): 25.995423340961096 / 0.01
+\end{verbatim}
+
+
+\begin{itemize}
+\item una optimización costo eficiente es usar generadores, sera tarea para mañana
+\end{itemize}
+\end{document}
