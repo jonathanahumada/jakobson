@@ -1,4 +1,4 @@
-% Created 2022-02-16 mié 17:51
+% Created 2022-02-22 mar 19:56
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -14,9 +14,6 @@
 \usepackage{amssymb}
 \usepackage{capt-of}
 \usepackage{hyperref}
-\makeatletter
-\newcommand{\citeprocitem}[2]{\hyper@linkstart{cite}{citeproc_bib_item_#1}#2\hyper@linkend}
-\makeatother
 \input{mytitle}
 \author{Jonatan Ahumada Fernández}
 \date{\today}
@@ -34,9 +31,9 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:org73fd18f}
+\label{sec:orgb220d16}
 \subsection{Introducción}
-\label{sec:org29c4680}
+\label{sec:org0a4f662}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -58,7 +55,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org25a0a33}
+\label{sec:orgb29bf10}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -98,6 +95,7 @@ modelara el concepto y lo implementara.
 \includegraphics[width=.9\linewidth]{./assets/delimitacion_saussure.png}
 \caption{Modelo cualitativo inicial expuesto por Ferdinand De Saussure}
 \end{figure}
+
 Preliminarmente, se puede observar que el modelo de Saussure se
 fundamenta en una estructura bastante familiar en la computación: la
 secuencia. Así, el objetivo de este trabajo es modelar e implementar el
@@ -106,15 +104,15 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:orgabc53da}
+\label{sec:org8015866}
 
 Si bien existen infinitas operaciones realizables sobre un texto
-computarizado, hay pocas que tengan un enfoque de artes liberales u
-humanístico. En este enfoque se busca someter a escrutinio los
-conceptos del marco teórico, en contraposición a los enfoques
-'típicos' --y hoy en día indispensables-- de procesamiento de
-lenguaje: extracción de información, clasificación con base a un
-modelo predictivo, entre muchos otros.
+computarizado, hay pocas que tengan un enfoque humanístico. En este
+enfoque se busca someter a escrutinio los conceptos del marco teórico,
+en contraposición a los enfoques 'típicos' --y hoy en día
+indispensables-- de procesamiento de lenguaje: extracción de
+información, clasificación con base a un modelo predictivo, entre
+muchos otros \cite{gelbukh2004}.
 
 Más aún, dentro de este subcunjunto reducido, pocos están guiados por
 aquello que Gelbuhk llama 'la ciencia fundamental'. A saber, la
@@ -143,7 +141,7 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:orgd34e673}
+\label{sec:org831cf29}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 Área de conocimiento:
@@ -151,7 +149,7 @@ NLP, computational linguistics, literariness,literary theory, poetics, theory of
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:orgd0eb2a7}
+\label{sec:org607f591}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -181,12 +179,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:org51ee356}
+\label{sec:org1e9c519}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orgb45bbf7}
+\label{sec:orgd303bfb}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}
@@ -198,10 +196,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:orge6a0cd1}
+\label{sec:org3679f3f}
 
 \subsection{Literariedad}
-\label{sec:org5ae25ef}
+\label{sec:orgd35fdfe}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -239,7 +237,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:org3034131}
+\label{sec:orgb25804e}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -250,7 +248,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org7c85a53}
+\label{sec:orgd43047c}
 
 
 
@@ -284,7 +282,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
-para formar un sistema linguístico (\citeprocitem{1}{De Saussure 1945}). En el
+para formar un sistema linguístico. En el
 marco de esta investigación el \emph{eje sincrónico} se referirá a las
 posibles palabras que un hablante pudo haber seleccionado para
 expresar una misma idea.
@@ -296,16 +294,16 @@ expresar una misma idea.
 
 La linguística diacrónica estudia los campos sucesivos en el 
 lenguaje, producidos por la actividad constante del \emph{eje 
-sincrónico} (\citeprocitem{1}{De Saussure 1945}). En la perspectiva 
+sincrónico}. En la perspectiva 
  de Jakobson, un \emph{mensaje} tiene en sí mismo un eje 
  diacrónico. Tal eje mide la similaridad entre cada
  término del mensaje entindido como secuencia:"
  \ldots{} para decirlo de un modo más técnico: todo
- secuencia es un símil." (\citeprocitem{2}{Jakobson and Cabello 1981})
+ secuencia es un símil."
 \end{enumerate}
 
 \subsection{Lingüística Computacional}
-\label{sec:org15d7310}
+\label{sec:org705004a}
 
 
 Es la intersección entre la computación y la lingüística. Por lo
@@ -349,7 +347,7 @@ tag); para hacer un análisis pragmático se utiliza una anotación
 pragmática, etc.
 
 \section{MARCO REFERENCIAL}
-\label{sec:org9869c3c}
+\label{sec:org097c065}
 
 El trabajo de Delmonte [2] presenta a SPARSAR, un sistema para calcular
 automáticamente el estilo de la poesía. SPARSAR funciona sobre sistemas
@@ -392,9 +390,9 @@ una serie de ope- raciones como referencia. Por ejemplo, para modelar
 aspectos ortográficos, sintácticos y fonémicos, entre otros.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org243191d}
+\label{sec:orgf7fd8d7}
 \subsection{Entendimiento del negocio}
-\label{sec:orgec2bbae}
+\label{sec:orgb1f55bf}
 (Me pareció que esto no aplica. Discutir con profesor. Propongo esto otro)
 
 Lo otro sería explicar los posibles usos (posibles clientes) de mi modelo
@@ -405,7 +403,7 @@ Lo otro sería explicar los posibles usos (posibles clientes) de mi modelo
 \end{figure}
 
 \subsection{Entendimiento de los datos}
-\label{sec:orge6df6e3}
+\label{sec:org799bd64}
 
 \begin{quote}
 The data understanding phase of CRISP-DM involves taking a closer
@@ -415,7 +413,7 @@ preparation--which is typically the longest part of a project.
 \end{quote}
 
 \subsubsection{Los recursos lexicos}
-\label{sec:org7ff7aea}
+\label{sec:org4a36438}
 
 \begin{figure}[htbp]
 \centering
@@ -425,10 +423,10 @@ preparation--which is typically the longest part of a project.
 
 \begin{enumerate}
 \item Corpus de referencia
-\label{sec:org58d1960}
+\label{sec:org7192d7f}
 El corpus de referencia es Wordnet. 
 \item Corpus objetivo
-\label{sec:org885a2ca}
+\label{sec:orgbba62bc}
 El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
 \begin{enumerate}
 \item La lengua inglesa tiene una correspondiente red semántica
@@ -438,11 +436,11 @@ El corpus escogido fue el corpus de Brown porque cumplía con las siguientes cri
 \end{enumerate}
 
 \subsubsection{La red semántica y similaridad con Saussure}
-\label{sec:org290b068}
+\label{sec:org57b1e4d}
 \subsubsection{Por qué utilizo el Brown Corpus}
-\label{sec:orgd320abc}
+\label{sec:org9b5dfa9}
 \subsection{Preparación de los datos}
-\label{sec:org3fe2700}
+\label{sec:orgbf9a904}
 
 \begin{verbatim}
 Depending on your organization and its goals, data preparation typically involves the following tasks:
@@ -457,11 +455,11 @@ Splitting into training and test data sets
 
 \end{verbatim}
 \subsection{Modelamiento}
-\label{sec:orge203b5c}
+\label{sec:org388c834}
 \subsubsection{Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}
-\label{sec:org33cba80}
+\label{sec:orgaf0d9f9}
 \subsubsection{Generating a test desing}
-\label{sec:org4e4267f}
+\label{sec:orga4c3a21}
 
 
 \begin{itemize}
@@ -470,17 +468,17 @@ Splitting into training and test data sets
 \end{itemize}
 \begin{enumerate}
 \item Sampleo de la muestra
-\label{sec:org4dd3208}
+\label{sec:org5bfbf70}
 \begin{itemize}
 \item qué textos voy a someter a procesamiento
 \item por qué escogí estos textos en particular
 \end{itemize}
 \end{enumerate}
 \subsubsection{Building the models}
-\label{sec:org281aacf}
+\label{sec:orgcb59b0c}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org0ead8e8}
+\label{sec:org44d49dd}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -516,20 +514,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:orgf5e9d0a}
+\label{sec:org6528cd7}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
 \caption{Procesamiento de corpus objetivo}
 \end{figure}   
 \item Índice Metafórico
-\label{sec:orga5dfd76}
+\label{sec:orgb9479a6}
 \item Matriz semántica
-\label{sec:org9f0941a}
+\label{sec:orgf3649b1}
 
 
 \item Matriz de uso
-\label{sec:org954421d}
+\label{sec:org693574f}
 
 \begin{figure}[htbp]
 \centering
@@ -538,7 +536,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 \item Índice Metonímico
-\label{sec:orgb97d446}
+\label{sec:org5012af3}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
@@ -547,7 +545,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{enumerate}
 
 \subsection{Despliegue (los notebooks?? creo que no hay despliege)}
-\label{sec:org7f9d3ae}
+\label{sec:org00b1f9c}
 
 \begin{quote}
 Deployment is the process of using your new insights to make
@@ -563,10 +561,10 @@ information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
 \end{quote}
 \section{CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}
-\label{sec:org63a88cd}
+\label{sec:orgaa6692b}
 
 \section{BIBLIOGRAFÍA}
-\label{sec:org926dff5}
+\label{sec:orgd9c43f5}
 
 [1]  L. Danlos, “The linguistic basis of text generation,” in
 Proceedings of the third conference on European chapter of the
@@ -604,10 +602,7 @@ processing/ (Vol. 2)”. CRC Press, 2010
 [10] Bird, Steven, et al. Natural Language Processing with Python.
 O'Reilly Media, 2009.
 
+\bibliographystyle{unsrt}
 
-
-
-\hypertarget{citeproc_bib_item_1}{De Saussure, Ferdinand. 1945. “Curso de Lingü\’ıstica General.” \textit{Buenos Aires: Losada. Original de Ferdinand de}.}
-
-\hypertarget{citeproc_bib_item_2}{Jakobson, Roman, and Ana Mar\’ıa Gutiérrez Cabello. 1981. \textit{Lingü\’ıstica Y Poética}. Cátedra España.}
+\bibliography{../../../biblio/biblio}
 \end{document}
