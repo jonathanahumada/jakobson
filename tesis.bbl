@@ -1,9 +1,60 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{eijembaum2010teoria}
+Boris Eijembaum.
+\newblock La teor{\'\i}a del" m{\'e}todo formal".
+\newblock In {\em Textos de teor{\'\i}as y cr{\'\i}tica literarias:(del
+  formalismo a los estudios postcoloniales)}, pages 33--62. Anthropos, 2010.
+
+\bibitem{jakobson1981linguistica}
+Roman Jakobson and Ana Mar{\'\i}a~Guti{\'e}rrez Cabello.
+\newblock {\em Ling{\"u}{\'\i}stica y po{\'e}tica}.
+\newblock C{\'a}tedra Espa{\~n}a, 1981.
+
+\bibitem{alonso1945curso}
+Ferdinand De~Saussure.
+\newblock Curso de ling{\"u}{\'\i}stica general.
+\newblock {\em Buenos Aires: Losada. Original de Ferdinand de}, 1945.
 
 \bibitem{gelbukh2004}
 Igor~A. Bolshakov and Alexander Gelbukh.
 \newblock {\em Computational Linguistics: Models, Resources, Applications}.
 \newblock Mexico City: Centro de Investigacio{\'\o}n en Computaci{\'\o}n,
   Instituto Polit{\'\e}cnico Nacional, 1981.
+
+\bibitem{indurkhya2010handbook}
+Nitin Indurkhya and Fred~J Damerau.
+\newblock {\em Handbook of natural language processing}, volume~2.
+\newblock CRC Press, 2010.
+
+\bibitem{bird2009natural}
+Steven Bird, Ewan Klein, and Edward Loper.
+\newblock {\em Natural language processing with Python: analyzing text with the
+  natural language toolkit}.
+\newblock " O'Reilly Media, Inc.", 2009.
+
+\bibitem{delmonte2013computing}
+Rodolfo Delmonte.
+\newblock Computing poetry style.
+\newblock In {\em ESSEM@ AI* IA}, pages 148--155, 2013.
+
+\bibitem{delmonte2005venses}
+Rodolfo Delmonte, Sara Tonelli, Marco Aldo~Piccolino Boniforti, and Antonella
+  Bristot.
+\newblock Venses--a linguistically-based system for semantic evaluation.
+\newblock In {\em Machine Learning Challenges Workshop}, pages 344--371.
+  Springer, 2005.
+
+\bibitem{zuniga2017automatic}
+Daniel~F Zu{\~n}iga, Teresa Amido, and Jorge~E Camargo.
+\newblock Automatic computation of poetic creativity in parallel corpora.
+\newblock In {\em Colombian Conference on Computing}, pages 710--720. Springer,
+  2017.
+
+\bibitem{kaplan2006computational}
+D~Kaplan.
+\newblock Computational analysis and visualized comparison of style in american
+  poetry.
+\newblock {\em Unpublished undergraduate thesis}, 2006.
 
 \end{thebibliography}

@@ -1,4 +1,4 @@
-% Created 2022-02-22 mar 20:45
+% Created 2022-02-22 mar 20:14
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -31,22 +31,21 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:org3ac6822}
+\label{sec:orga8d46ad}
 \subsection{Introducción}
-\label{sec:org69486ae}
+\label{sec:org6a40eb1}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
 planteado en áreas como los estudios literarios y la lingüística
-\cite{eijembaum2010teoria}. Particularmente, la escuela denominada
-'formalismo ruso' planteó que el objeto de estudio de la literatura,
-no \emph{podría} ser la belleza, la relevancia histórica o el valor
-pragmático de un texto. Más bien, su objeto de estudio \emph{debe} recaer
-en un aspecto más 'objetivo': su \emph{literariedad}.  Como su nombre
-sugiere, los formalistas se abocaron a formular una definición
-'objetiva' y 'concreta' del fenómeno literario y adoptaron los --en
-ese entonces-- modernos métodos de la buyente disciplina de la
-linguística.
+\cite{[[eijembaum2010teoria]]}. Particularmente, la escuela denominada 'formalismo ruso' planteó
+que el objeto de estudio de la literatura, no \emph{podría} ser la belleza, la
+relevancia histórica o el valor pragmático de un texto. Más
+bien, su objeto de estudio \emph{debe} recaer en un aspecto más 'objetivo':
+su \emph{literariedad}.  Como su nombre sugiere, los formalistas se
+abocaron a formular una definición 'objetiva' y 'concreta' del
+fenómeno literario y adoptaron los --en ese entonces-- modernos
+métodos de la buyente disciplina de la linguística.
 
 Siendo este el caso, ¿no es, por consiguiente, factible que un
 autómata pueda medir y presentar tales características presuntamente
@@ -56,7 +55,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org7786f43}
+\label{sec:org01d507a}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -105,7 +104,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:orgcb24a8a}
+\label{sec:org9f957eb}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico. En este
@@ -142,7 +141,7 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:org9a0f916}
+\label{sec:org5134dfa}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 Área de conocimiento:
@@ -150,7 +149,7 @@ NLP, computational linguistics, literariness,literary theory, poetics, theory of
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:org891e0de}
+\label{sec:org1c62ba1}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -180,12 +179,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:orgdf670fb}
+\label{sec:org6295cfc}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orga64476f}
+\label{sec:orgc7b8efe}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}
@@ -197,10 +196,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org408523c}
+\label{sec:org00cde20}
 
 \subsection{Literariedad}
-\label{sec:org49a2e70}
+\label{sec:org265a875}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -238,7 +237,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:org679bc4c}
+\label{sec:org21cc413}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -249,7 +248,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org5dfc28c}
+\label{sec:org4bd27aa}
 
 
 
@@ -304,13 +303,13 @@ sincrónico}. En la perspectiva
 \end{enumerate}
 
 \subsection{Lingüística Computacional}
-\label{sec:org02565e2}
+\label{sec:org96966b5}
 
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
 lenguaje material, para lo cual genera modelos lingüísticos sobre los
-que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
+que luego se pueden definir operaciones comunes [6].
 
 
 La lingüística computacional es en sí misma un campo amplio y
@@ -334,27 +333,25 @@ n-gramas, análisis sintáctico de oraciones, entre otras.
 \end{enumerate}
 
 
-Un corpus es una colección de textos auténticos que pueden ser
-leídos por una máquina. Estos pueden estructurarse de muchas
-formas, dependiendo de los objetivos de la investigación
-\cite{indurkhya2010handbook}. Por ejemplo, pueden ser aislados (una
-colección arbitraria), categorizados (una colección escogida según
-algún criterio), temporales (una colección organizada
-cronológicamente) o solapados (un documento puede pertenecer a
-varias colecciones) \cite{bird2009natural}. Además, el formato del
-corpus varía significativamente de acuerdo al objeto de la
-investigación. Por ejemplo, si se desea hacer un análisis
-sintáctico (de la estructura de una oración), se debe hacer un
-corpus anotado con POS (Part Of Speech tag); para hacer un análisis
-pragmático se utiliza una anotación pragmática, etc.
+Un corpus es una colección de textos auténticos que pueden ser leídos
+por una máquina. Estos pueden estructurarse de muchas formas,
+dependiendo de los objetivos de la investigación [9]. Por ejemplo,
+pueden ser aislados (una colección arbitraria), categorizados (una
+colección escogida según algún criterio), temporales (una colección
+organizada cronológicamente) o solapados (un documento puede
+pertenecer a varias colecciones) [10]. Además, el formato del corpus
+varía significativamente de acuerdo al objeto de la investigación. Por
+ejemplo, si se desea hacer un análisis sintáctico (de la estructura de
+una oración), se debe hacer un corpus anotado con POS (Part Of Speech
+tag); para hacer un análisis pragmático se utiliza una anotación
+pragmática, etc.
 
 \section{MARCO REFERENCIAL}
-\label{sec:orge91b852}
+\label{sec:orgfece96a}
 
-El trabajo de Delmonte \cite{delmonte2013computing} presenta a
-SPARSAR, un sistema para calcular automáticamente el estilo de la
-poesía. SPARSAR funciona sobre sistemas previos del mismo autor, como,
-por ejemplo, un analizador semántico \cite{delmonte2005venses}.
+El trabajo de Delmonte [2] presenta a SPARSAR, un sistema para calcular
+automáticamente el estilo de la poesía. SPARSAR funciona sobre sistemas
+previos del mismo autor, como, por ejemplo, un analizador semántico [7].
 Delmonte tiene una larga trayectoria en el modelamiento de conceptos
 lingüísticos "difíciles", como la prosodia y la rima en términos
 cuantitativos.
@@ -375,29 +372,27 @@ temas en los artículos revisados. Además, sus sistemas tienen una
 alcance mucho mayor que el dispuesto para este trabajo, por lo que para
 mayores detalles tuve que referirme a otros trabajos.
 
-El trabajo de \cite{zuniga2017automatico} establece una métrica para
-medir el grado de creatividad en la poesía, basándose en qué tanto de
-la rima se conserva en la traducción de un poema con respecto al
-original. Tomé de Zuñiga la idea de establecer una métrica para un
-aspecto tradicionalmente cualitativo (la creatividad). Lo que
-diferencia este trabajo del de Delmonte, es su aproximación
-matemática. Particularmente, Zuñiga ofreció una forma naive de
-calcular similitud en rima, sin necesidad de recurrir a construcciones
-que requieren de recursos léxicos complejos como una ontología para
-fonemas, etc.
+El trabajo de [5] establece una métrica para medir el grado de
+creatividad en la poesía, basándose en qué tanto de la rima se conserva
+en la traducción de un poema con respecto al original. Tomé de Zuñiga la
+idea de establecer una métrica para un aspecto tradicionalmente
+cualitativo (la creatividad). Lo que diferencia este trabajo del de
+Delmonte, es su aproximación matemática. Particularmente, Zuñiga ofreció
+una forma naive de calcular similitud en rima, sin necesidad de recurrir
+a construcciones que requieren de recursos léxicos complejos como una
+ontología para fonemas, etc.
 
-Por último, el trabajo de \cite{kaplan2006computational} es una tesis
-de pregrado sobre el cálculo del estilo de la poesía desde una
-perspectiva estadística. Kaplan fue una inspiración para Delmonte, por
-lo tanto debía formar parte de mi revisión bibliográfica. El aporte
-principal a mi trabajo ha sido tener una serie de ope- raciones como
-referencia. Por ejemplo, para modelar aspectos ortográficos,
-sintácticos y fonémicos, entre otros.
+Por último, el trabajo de [8] es una tesis de pregrado sobre el cálculo
+del estilo de la poesía desde una perspectiva estadística. Kaplan fue
+una inspiración para Delmonte, por lo tanto debía formar parte de mi
+revisión bibliográfica. El aporte principal a mi trabajo ha sido tener
+una serie de ope- raciones como referencia. Por ejemplo, para modelar
+aspectos ortográficos, sintácticos y fonémicos, entre otros.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org6f2a5e9}
+\label{sec:orgcd28ad3}
 \subsection{Entendimiento del negocio}
-\label{sec:orge85f117}
+\label{sec:org03306ae}
 (Me pareció que esto no aplica. Discutir con profesor. Propongo esto otro)
 
 Lo otro sería explicar los posibles usos (posibles clientes) de mi modelo
@@ -408,7 +403,7 @@ Lo otro sería explicar los posibles usos (posibles clientes) de mi modelo
 \end{figure}
 
 \subsection{Entendimiento de los datos}
-\label{sec:org5ff8e62}
+\label{sec:org517d698}
 
 \begin{quote}
 The data understanding phase of CRISP-DM involves taking a closer
@@ -418,7 +413,7 @@ preparation--which is typically the longest part of a project.
 \end{quote}
 
 \subsubsection{Los recursos lexicos}
-\label{sec:org5f0ff75}
+\label{sec:org8326ba8}
 
 \begin{figure}[htbp]
 \centering
@@ -428,10 +423,10 @@ preparation--which is typically the longest part of a project.
 
 \begin{enumerate}
 \item Corpus de referencia
-\label{sec:orgbe7c214}
+\label{sec:org4064b2c}
 El corpus de referencia es Wordnet. 
 \item Corpus objetivo
-\label{sec:orgb983d8f}
+\label{sec:orge3e90a4}
 El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
 \begin{enumerate}
 \item La lengua inglesa tiene una correspondiente red semántica
@@ -441,11 +436,11 @@ El corpus escogido fue el corpus de Brown porque cumplía con las siguientes cri
 \end{enumerate}
 
 \subsubsection{La red semántica y similaridad con Saussure}
-\label{sec:orgfa793dd}
+\label{sec:org659b3f9}
 \subsubsection{Por qué utilizo el Brown Corpus}
-\label{sec:org36908b9}
+\label{sec:org477e28e}
 \subsection{Preparación de los datos}
-\label{sec:orgb0978d3}
+\label{sec:orge796935}
 
 \begin{verbatim}
 Depending on your organization and its goals, data preparation typically involves the following tasks:
@@ -460,11 +455,11 @@ Splitting into training and test data sets
 
 \end{verbatim}
 \subsection{Modelamiento}
-\label{sec:org5cf761b}
+\label{sec:org4766366}
 \subsubsection{Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}
-\label{sec:org235f0e6}
+\label{sec:orge566067}
 \subsubsection{Generating a test desing}
-\label{sec:org5194772}
+\label{sec:orgf7d1f2a}
 
 
 \begin{itemize}
@@ -473,17 +468,17 @@ Splitting into training and test data sets
 \end{itemize}
 \begin{enumerate}
 \item Sampleo de la muestra
-\label{sec:orga908a34}
+\label{sec:org99f141d}
 \begin{itemize}
 \item qué textos voy a someter a procesamiento
 \item por qué escogí estos textos en particular
 \end{itemize}
 \end{enumerate}
 \subsubsection{Building the models}
-\label{sec:org102cf74}
+\label{sec:org456f578}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org36ab43f}
+\label{sec:org7e8c81d}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -519,20 +514,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:org4bf113b}
+\label{sec:orgdc7cc0f}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
 \caption{Procesamiento de corpus objetivo}
 \end{figure}   
 \item Índice Metafórico
-\label{sec:orgf9daeaa}
+\label{sec:orga3ae99e}
 \item Matriz semántica
-\label{sec:orgdb762ec}
+\label{sec:orga41a41d}
 
 
 \item Matriz de uso
-\label{sec:org9574fdc}
+\label{sec:orgc7a8151}
 
 \begin{figure}[htbp]
 \centering
@@ -541,7 +536,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 \item Índice Metonímico
-\label{sec:org767ea60}
+\label{sec:org12478aa}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
@@ -550,7 +545,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{enumerate}
 
 \subsection{Despliegue (los notebooks?? creo que no hay despliege)}
-\label{sec:orgb5b6499}
+\label{sec:orgfd05698}
 
 \begin{quote}
 Deployment is the process of using your new insights to make
@@ -566,10 +561,10 @@ information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
 \end{quote}
 \section{CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}
-\label{sec:org9ad2f7e}
+\label{sec:org9a2e833}
 
 \section{BIBLIOGRAFÍA}
-\label{sec:orgfc16d63}
+\label{sec:org9db3510}
 
 [1]  L. Danlos, “The linguistic basis of text generation,” in
 Proceedings of the third conference on European chapter of the

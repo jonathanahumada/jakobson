@@ -10,14 +10,15 @@
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
 planteado en áreas como los estudios literarios y la lingüística
-[3]. Particularmente, la escuela denominada 'formalismo ruso' planteó
-que el objeto de estudio de la literatura, no /podría/ ser la belleza, la
-relevancia histórica o el valor pragmático de un texto. Más
-bien, su objeto de estudio /debe/ recaer en un aspecto más 'objetivo':
-su /literariedad/.  Como su nombre sugiere, los formalistas se
-abocaron a formular una definición 'objetiva' y 'concreta' del
-fenómeno literario y adoptaron los --en ese entonces-- modernos
-métodos de la buyente disciplina de la linguística.
+\cite{eijembaum2010teoria}. Particularmente, la escuela denominada
+'formalismo ruso' planteó que el objeto de estudio de la literatura,
+no /podría/ ser la belleza, la relevancia histórica o el valor
+pragmático de un texto. Más bien, su objeto de estudio /debe/ recaer
+en un aspecto más 'objetivo': su /literariedad/.  Como su nombre
+sugiere, los formalistas se abocaron a formular una definición
+'objetiva' y 'concreta' del fenómeno literario y adoptaron los --en
+ese entonces-- modernos métodos de la buyente disciplina de la
+linguística.
 
 Siendo este el caso, ¿no es, por consiguiente, factible que un
 autómata pueda medir y presentar tales características presuntamente
@@ -46,7 +47,7 @@ y factor receptor. Tan solo se centra en el mensaje. Representado
 Es, por lo tanto,  /factible/ que un autómata pueda medir y presentar tales
 características. 
 
-#+CAPTION:Factores de comunicación de Roman Jakobson
+#+CAPTION:Factores de comunicación de Roman Jakobson \cite{jakobson1981linguistica}
 [[./assets/factores_comunicacion.png]]
 
 Saussure ofrece ya un modelo cualitativo muy bien esbozado en teoría,
@@ -55,12 +56,12 @@ Sin embargo, aunque existe un planteamiento cualitativo del problema,
 no se halló en la bibliografía consultada un modelo computacional que
 modelara el concepto y lo implementara. 
 
-#+CAPTION: Modelo cualitativo inicial expuesto por Ferdinand De Saussure
+#+CAPTION: Modelo cualitativo inicial expuesto por Ferdinand De Saussure tomado de \cite{eijembaum2010teoria}
 [[./assets/delimitacion_saussure.png]]
 
 Preliminarmente, se puede observar que el modelo de Saussure se
 fundamenta en una estructura bastante familiar en la computación: la
-secuencia. Así, el objetivo de este trabajo es modelar e implementar el
+secuencia \cite{alonso1945curso}. Así, el objetivo de este trabajo es modelar e implementar el
 modelo de /literariedad/ de Roman Jakobson utilizando redes semánticas
 y n-gramas.
 
@@ -249,7 +250,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    Es la intersección entre la computación y la lingüística. Por lo
    general, se preocupa acerca de cómo procesar automáticamente el
    lenguaje material, para lo cual genera modelos lingüísticos sobre los
-   que luego se pueden definir operaciones comunes [6].
+   que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
 
    La lingüística computacional es en sí misma un campo amplio y
@@ -269,24 +270,26 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    2. Corpus
 
 
-   Un corpus es una colección de textos auténticos que pueden ser leídos
-   por una máquina. Estos pueden estructurarse de muchas formas,
-   dependiendo de los objetivos de la investigación [9]. Por ejemplo,
-   pueden ser aislados (una colección arbitraria), categorizados (una
-   colección escogida según algún criterio), temporales (una colección
-   organizada cronológicamente) o solapados (un documento puede
-   pertenecer a varias colecciones) [10]. Además, el formato del corpus
-   varía significativamente de acuerdo al objeto de la investigación. Por
-   ejemplo, si se desea hacer un análisis sintáctico (de la estructura de
-   una oración), se debe hacer un corpus anotado con POS (Part Of Speech
-   tag); para hacer un análisis pragmático se utiliza una anotación
-   pragmática, etc.
+   Un corpus es una colección de textos auténticos que pueden ser
+   leídos por una máquina. Estos pueden estructurarse de muchas
+   formas, dependiendo de los objetivos de la investigación
+   \cite{indurkhya2010handbook}. Por ejemplo, pueden ser aislados (una
+   colección arbitraria), categorizados (una colección escogida según
+   algún criterio), temporales (una colección organizada
+   cronológicamente) o solapados (un documento puede pertenecer a
+   varias colecciones) \cite{bird2009natural}. Además, el formato del
+   corpus varía significativamente de acuerdo al objeto de la
+   investigación. Por ejemplo, si se desea hacer un análisis
+   sintáctico (de la estructura de una oración), se debe hacer un
+   corpus anotado con POS (Part Of Speech tag); para hacer un análisis
+   pragmático se utiliza una anotación pragmática, etc.
 
 ** MARCO REFERENCIAL
    
-El trabajo de Delmonte [2] presenta a SPARSAR, un sistema para calcular
-automáticamente el estilo de la poesía. SPARSAR funciona sobre sistemas
-previos del mismo autor, como, por ejemplo, un analizador semántico [7].
+El trabajo de Delmonte \cite{delmonte2013computing} presenta a
+SPARSAR, un sistema para calcular automáticamente el estilo de la
+poesía. SPARSAR funciona sobre sistemas previos del mismo autor, como,
+por ejemplo, un analizador semántico \cite{delmonte2005venses}.
 Delmonte tiene una larga trayectoria en el modelamiento de conceptos
 lingüísticos "difíciles", como la prosodia y la rima en términos
 cuantitativos.
@@ -307,22 +310,24 @@ temas en los artículos revisados. Además, sus sistemas tienen una
 alcance mucho mayor que el dispuesto para este trabajo, por lo que para
 mayores detalles tuve que referirme a otros trabajos.
 
-El trabajo de [5] establece una métrica para medir el grado de
-creatividad en la poesía, basándose en qué tanto de la rima se conserva
-en la traducción de un poema con respecto al original. Tomé de Zuñiga la
-idea de establecer una métrica para un aspecto tradicionalmente
-cualitativo (la creatividad). Lo que diferencia este trabajo del de
-Delmonte, es su aproximación matemática. Particularmente, Zuñiga ofreció
-una forma naive de calcular similitud en rima, sin necesidad de recurrir
-a construcciones que requieren de recursos léxicos complejos como una
-ontología para fonemas, etc.
+El trabajo de \cite{zuniga2017automatic} establece una métrica para
+medir el grado de creatividad en la poesía, basándose en qué tanto de
+la rima se conserva en la traducción de un poema con respecto al
+original. Tomé de Zuñiga la idea de establecer una métrica para un
+aspecto tradicionalmente cualitativo (la creatividad). Lo que
+diferencia este trabajo del de Delmonte, es su aproximación
+matemática. Particularmente, Zuñiga ofreció una forma naive de
+calcular similitud en rima, sin necesidad de recurrir a construcciones
+que requieren de recursos léxicos complejos como una ontología para
+fonemas, etc.
 
-Por último, el trabajo de [8] es una tesis de pregrado sobre el cálculo
-del estilo de la poesía desde una perspectiva estadística. Kaplan fue
-una inspiración para Delmonte, por lo tanto debía formar parte de mi
-revisión bibliográfica. El aporte principal a mi trabajo ha sido tener
-una serie de ope- raciones como referencia. Por ejemplo, para modelar
-aspectos ortográficos, sintácticos y fonémicos, entre otros.
+Por último, el trabajo de \cite{kaplan2006computational} es una tesis
+de pregrado sobre el cálculo del estilo de la poesía desde una
+perspectiva estadística. Kaplan fue una inspiración para Delmonte, por
+lo tanto debía formar parte de mi revisión bibliográfica. El aporte
+principal a mi trabajo ha sido tener una serie de ope- raciones como
+referencia. Por ejemplo, para modelar aspectos ortográficos,
+sintácticos y fonémicos, entre otros.
 
 ** DISEÑO METODOLÓGICO
 *** Entendimiento del negocio
