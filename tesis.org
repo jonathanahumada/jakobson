@@ -415,26 +415,65 @@ presentados en el marco teórico.
     de similitud para un texto, lo que implicaría que se podría
     clasificar un texto con base en su metáfora y metonímia, 
     
-
+    
 *** Entendimiento de los datos
 
     En esta sección, se enumeraran las distintas fuentes de datos,
     que en este caso vendrían a ser los diferentes tipos de corpus.
+    
 
-*** El corpus de referencia
+**** El corpus de referencia
 
-    En linguística, se suele diferenciar entre /lenguaje/ y /habla/.
+    Para poder cuantificar la /literariedad/, se debe representar
+    de algún modo el concepto de lengua. Es decir, debemos suponer
+    un uso consensuado de la lengua desde el cual sea posible comparar
+    si algo es literario respecto a este consenso general o no.
 
+    No existe, como es comprensible, un corpus oficial que represente
+    tal concepto, puesto que supondría un enorme trabajo compilación
+    y de estandarización con respecto a qué formato utilizar. Por
+    lo tanto, se necesita construir tal corpus, que llamaré
+    el /corpus de referencia/.
+
+    Sin embargo, sí existen corpus suficientemente grandes con
+    respecto a un mensaje individual que podríamos tomar
+    como una muestra de la lengua. Dicho de otro modo,
+    el corpus de referencia será una colección de textos
+    considerablemente más grande que el mensaje estudiado,
+    de tal modo que simule la relación entre la lengua (consenso social)
+    y habla (uso individual).
     
-    
-    
-    #+begin_quote
-    The data understanding phase of CRISP-DM involves taking a closer
-    look at the data available for mining. This step is critical in
-    avoiding unexpected problems during the next phase--data
-    preparation--which is typically the longest part of a project.
-    #+end_quote
-    
+
+**** El corpus objetivo
+
+     Los corpus objetivo serán los mensajes sobre los cuales se
+     computarán las dos medidas de /metáfora/ y /metonimia/.
+
+     Como la tarea de construcción de un corpus propio se sale
+     del alcance de esta investigación, se optó por utilizar
+     textos del corpus de Brown, al ser este un estándar
+     para procesamiento de lenguaje natural. La ventaja
+     de utilizar este corpus es que muchos otros análisis
+     también lo utilizan para distintos fines, lo que
+     lo haría comparable con otros estudios que usen
+     este mismo corpus.
+
+**** La red semántica
+
+     La red semántica es un tipo de corpus particular que no solamente
+     consta de palabras anotadas, como el de Brown, sino que vincula
+     las palabras por su relación conceptual con otras palabras. La
+     red semántica correspondería a la facultad de asociar conceptos
+     con las "imágenes acústicas" (las palabras) de Saussure. En esta
+     investigación, la red semántica se utilizará para obtener
+     sínonimos de palabras, que representarán conceptos.
+   
+
+**** Resumen de entendimiento de los datos
+#+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
+[[./assets/entendimiento_de_los_datos.png]]
+
+     
 **** Los recursos lexicos
 
      #+CAPTION:Diferentes estructuras de corpus
@@ -546,6 +585,7 @@ and making marketing decisions.
 
 
 \bibliographystyle{unsrt}
+\bibliography{biblio} 
 
 bibliography:~/biblio/biblio.bib
 
