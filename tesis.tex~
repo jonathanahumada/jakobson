@@ -1,4 +1,4 @@
-% Created 2022-02-23 mié 21:03
+% Created 2022-03-01 mar 20:55
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -31,9 +31,9 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:orgc098d91}
+\label{sec:orgbb0ed36}
 \subsection{Introducción}
-\label{sec:orgef84bba}
+\label{sec:org1e1402a}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -56,7 +56,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org58df9be}
+\label{sec:org4b42e9f}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -105,7 +105,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:orgc409aa0}
+\label{sec:orge257629}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico, sea
@@ -143,16 +143,16 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:org157e3bd}
+\label{sec:org3a61cef}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:org81fb793}
+\label{sec:orga359a44}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:org87a0d14}
+\label{sec:org2f6f1b3}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -182,12 +182,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:orge8fe2cf}
+\label{sec:org308a635}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orgf68ec31}
+\label{sec:orgbe5dc83}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}
@@ -199,10 +199,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org88d7fbf}
+\label{sec:orgdffc715}
 
 \subsection{Literariedad}
-\label{sec:org02ff7b4}
+\label{sec:orgd8effa3}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -216,7 +216,7 @@ más básicas de la conducta verbal: \emph{la selección} y \emph{la combinació
 
 
 \subsubsection{Selección (ver linguística sincrónica):}
-\label{sec:org9f9b852}
+\label{sec:org1ff31d8}
 
 La selección estudia qué palabra selecciona un hablante entre las
 palabras existentes de la lengua, más o menos similares y hasta
@@ -225,7 +225,7 @@ antonimia de una palabra. En otros términos, en su semántica.
 
 
 \subsubsection{Combinación (ver linguística diacrónica):}
-\label{sec:org25b45fc}
+\label{sec:orgfe8a82b}
 
 La combinación estudia el "entramado de la secuencia" de un
 mensaje. Es decir, el mensaje considerado como una secuencia
@@ -236,7 +236,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:orgb6bce49}
+\label{sec:orgf4fa3d4}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -247,7 +247,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org28405c1}
+\label{sec:org9c2af7e}
 
 La lingüística es la ciencia que estudia el lenguaje.
 Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
@@ -259,7 +259,7 @@ embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
 \subsubsection{Lingüística General:}
-\label{sec:org9c8c245}
+\label{sec:org3fa9cac}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -274,7 +274,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Linguística sincrónica}
-\label{sec:orge6a83ae}
+\label{sec:orgfcc2cbc}
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -287,7 +287,7 @@ niño, un hablante puede utilizar la las palabras "niño", "chico",
 
 
 \subsubsection{Linguística diacrónica}
-\label{sec:org1b2e063}
+\label{sec:org81494e0}
 
 La linguística diacrónica estudia los cambios sucesivos en el
 lenguaje, producidos por la actividad constante del \emph{eje
@@ -295,13 +295,54 @@ sincrónico}. En la perspectiva de Jakobson, un \emph{mensaje} tiene en
 sí mismo un eje diacrónico. Tal eje mide la similaridad entre cada
 término del mensaje entindido como secuencia. Un ejemplo se puede
 apreciar en la oracion "I like Ike". An esta se evidencia una
-repeticón de sonidos similares: [ay layk ayk]. La similaridad, no
+repetición de sonidos similares: [ay layk ayk]. La similaridad, no
 está dada por el significado, sino que aquí se proyecta a lo largo
 del tiempo:"(\ldots{}) para decirlo de un modo más técnico: todo
 secuencia es un símil."
 
+\subsection{Lenguaje}
+\label{sec:orgf48b7ed}
+En términos simples, el lenguaje es la facultad de formular y
+comprender signos o símbolos, ya sean hablados, escritos,
+imágenes, etc.  En otros términos, el lenguaje es una
+capacidad general. Sin embargo, para Saussure, la lengua
+tiene una característica doble: que es al mismo
+tiempo un sistema establecido y la constante evolución
+de tal sistema. Estos dos componentes son la \emph{lengua}
+y el \emph{habla}.
+
+\subsubsection{Lengua}
+\label{sec:org8af0331}
+
+La lengua (\emph{langue}) es uno de los dos componentes del
+\emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
+\emph{cristalización} o un producto de la suma de asociaciones entre
+conceptos e imagenes acústicas en la mente de los hablantes. Por
+ejemplo, la lengua es lo que permite que dos hablantes bogotanos
+puedan asociar en su mente el sonido de la palabra "chino" con el
+concepto de "niño" o "infante", mientras que en otras partes del
+mundo hispanohablante no existe tal asociación común.
+En términos simples, la lengua es un entendimiento compartido de
+lo que significan las palabras. La contraparte de la lengua,
+es el habla. 
+
+\subsubsection{Habla}
+\label{sec:org1a4275c}
+El habla (\emph{parole}) es uno de los dos componentes del
+\emph{lenguaje}. El habla es el uso individual de la lengua.
+Evidentemente, cuando un individuo habla puede modificar
+la lengua a su antojo, porque posee la facultad del
+lenguaje y jamás meramente repite el consenso de la lengua.
+Como consecuencia de esto, la lengua está continuamente
+siendo transformada por el habla. En términos simples,
+la suma de los actos individuales de comunicacion lentamente
+terminan por transformar el consenso social sobre cómo
+hablar.  Por este motivo la linguística debe tener una
+perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
+
+
 \subsection{Lingüística Computacional}
-\label{sec:org2794e6f}
+\label{sec:orge8d3cb6}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
@@ -314,7 +355,7 @@ heterogéneo, pero en términos de este trabajo, me limitaré a señalar
 una herramienta:
 
 \subsubsection{NLTK}
-\label{sec:org80a3e2a}
+\label{sec:org3ee3966}
 
 El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
 una interfaz para tareas comunes en la lingüística computacional. La
@@ -325,7 +366,7 @@ herramientas, tales como: tokenizacion, filtros, generación de
 n-gramas, análisis sintáctico de oraciones, entre otras.
 
 \subsubsection{Corpus}
-\label{sec:org5cad8ef}
+\label{sec:orgcd89fcc}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -343,7 +384,7 @@ corpus anotado con POS (Part Of Speech tag); para hacer un análisis
 pragmático se utiliza una anotación pragmática, etc.
 
 \section{MARCO REFERENCIAL}
-\label{sec:org97c84dc}
+\label{sec:org2fdd363}
 
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
@@ -394,17 +435,19 @@ en conceptos linguísticos, para lo cual recurre en los conceptos
 presentados en el marco teórico. 
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org5994580}
-El diseño metodológico seguirá a grandes rasgos los pasos de la metodología CRISP-DM,
-que se considera un estándar de facto para proyectos de minería de datos. Esta metodología
-ayudará organizar el proceso de mi investigación, que vá desde el accesso a los corpus
-(los datos disponibles) hasta el despliegue (la visualización de los resultados).
+\label{sec:orgfbd3814}
+El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
+metodología CRISP-DM, que se considera un estándar \emph{de facto} para
+proyectos de minería de datos. Esta metodología ayudará organizar
+el proceso de mi investigación, que vá desde el acceso a los
+corpus (los datos disponibles) hasta el despliegue (la
+visualización de los resultados).
 \subsection{Entendimiento del negocio}
-\label{sec:orgc466804}
+\label{sec:orge246379}
 
-El resultado tangible del modelo de literariedad son dos métricas
-cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas juntas
-constituiran una representación 'objetiva' del concepto
+El resultado tangible del modelo de literariedad propuesto son dos
+métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
+juntas constituiran una representación 'objetiva' del concepto
 cualitativo de \emph{literariedad}.
 
 \begin{figure}[htbp]
@@ -429,7 +472,7 @@ con 'poemas realistas' y verificar si hay o no una diferencia sustancial desde e
 vista linguístico .
 \end{itemize}
 
-Como se puede apreciar (\ref{fig:posibles_usos}), las aplicaciones del modelo en principio
+Como se puede apreciar (ref:fig:posibles\textsubscript{usos}), las aplicaciones del modelo en principio
 supondrían un factor adicional para ser considerado para el
 estudio literario, cuya naturaleza es cualitativa. Sin embargo, si
 el modelo demuestra ser efectivo, podría llegar a ser una medida
@@ -438,10 +481,36 @@ clasificar un texto con base en su metáfora y metonímia,
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org7dc5fd0}
+\label{sec:orgb6cead5}
 
 En esta sección, se enumeraran las distintas fuentes de datos,
 que en este caso vendrían a ser los diferentes tipos de corpus.
+
+\subsection{El corpus de referencia}
+\label{sec:org63724fa}
+
+Para poder cuantificar la \emph{literariedad}, se debe representar
+de algún modo el concepto de lengua. Es decir, debemos suponer
+un uso consensuado de la lengua desde el cual sea posible comparar
+si algo es literario respecto a este consenso general o no.
+
+No existe, como es comprensible, un corpus oficial que represente
+tal concepto, puesto que supondría un enorme trabajo compilación
+y de estandarización con respecto a qué formato utilizar. Por
+lo tanto, se necesita construir tal corpus, que llamaré
+el \emph{corpus de referencia}.
+
+Sin embargo, sí existen corpus suficientemente grandes con
+respecto a un mensaje individual que podríamos tomar
+como una muestra de la lengua. Dicho de otro modo,
+el corpus de referencia será una colección de textos
+considerablemente más grande que el mensaje estudiado,
+de tal modo que simule la relación entre la lengua (consenso social)
+y habla (uso individual).
+
+
+\subsection{El corpus objetivo}
+\label{sec:org1cde756}
 
 
 \begin{quote}
@@ -452,7 +521,7 @@ preparation--which is typically the longest part of a project.
 \end{quote}
 
 \subsubsection{Los recursos lexicos}
-\label{sec:org4bc8164}
+\label{sec:org46d4868}
 
 \begin{figure}[htbp]
 \centering
@@ -462,10 +531,10 @@ preparation--which is typically the longest part of a project.
 
 \begin{enumerate}
 \item Corpus de referencia
-\label{sec:org94d2e4d}
+\label{sec:org731fe1a}
 El corpus de referencia es Wordnet. 
 \item Corpus objetivo
-\label{sec:org185f21c}
+\label{sec:org2aeec3d}
 El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
 \begin{enumerate}
 \item La lengua inglesa tiene una correspondiente red semántica
@@ -475,11 +544,11 @@ El corpus escogido fue el corpus de Brown porque cumplía con las siguientes cri
 \end{enumerate}
 
 \subsubsection{La red semántica y similaridad con Saussure}
-\label{sec:orge1d7a28}
+\label{sec:org1e8f33b}
 \subsubsection{Por qué utilizo el Brown Corpus}
-\label{sec:orgcd7168d}
+\label{sec:org22b1762}
 \subsection{Preparación de los datos}
-\label{sec:org265109e}
+\label{sec:org826496d}
 
 \begin{verbatim}
 Depending on your organization and its goals, data preparation typically involves the following tasks:
@@ -494,11 +563,11 @@ Splitting into training and test data sets
 
 \end{verbatim}
 \subsection{Modelamiento}
-\label{sec:org033af4f}
+\label{sec:org9bc0cef}
 \subsubsection{Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}
-\label{sec:orgf6d8d8b}
+\label{sec:org2d25b9e}
 \subsubsection{Generating a test desing}
-\label{sec:org3fd5be6}
+\label{sec:orgc3e1703}
 
 
 \begin{itemize}
@@ -507,17 +576,17 @@ Splitting into training and test data sets
 \end{itemize}
 \begin{enumerate}
 \item Sampleo de la muestra
-\label{sec:org40b00fb}
+\label{sec:org642796e}
 \begin{itemize}
 \item qué textos voy a someter a procesamiento
 \item por qué escogí estos textos en particular
 \end{itemize}
 \end{enumerate}
 \subsubsection{Building the models}
-\label{sec:orgcb19e3d}
+\label{sec:org875023e}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org172356f}
+\label{sec:orgfe70038}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -553,20 +622,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:org43fde8e}
+\label{sec:orgffddc81}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
 \caption{Procesamiento de corpus objetivo}
 \end{figure}   
 \item Índice Metafórico
-\label{sec:org585a440}
+\label{sec:org6326fb1}
 \item Matriz semántica
-\label{sec:org5f5da7b}
+\label{sec:org5ff55e2}
 
 
 \item Matriz de uso
-\label{sec:org922ebff}
+\label{sec:org153e571}
 
 \begin{figure}[htbp]
 \centering
@@ -575,7 +644,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 \item Índice Metonímico
-\label{sec:org8674580}
+\label{sec:orgf8fc4c1}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
@@ -584,7 +653,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{enumerate}
 
 \subsection{Despliegue (los notebooks?? creo que no hay despliege)}
-\label{sec:org5f96d6c}
+\label{sec:org7c68837}
 
 \begin{quote}
 Deployment is the process of using your new insights to make
@@ -600,11 +669,11 @@ information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
 \end{quote}
 \section{CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}
-\label{sec:org2900166}
+\label{sec:org547633e}
 
 
 
 \bibliographystyle{unsrt}
 
-\bibliography{../../../biblio/biblio}
+bibliography:\textasciitilde{}/biblio/biblio.bib
 \end{document}
