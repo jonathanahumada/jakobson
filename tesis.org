@@ -322,6 +322,9 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    corpus anotado con POS (Part Of Speech tag); para hacer un análisis
    pragmático se utiliza una anotación pragmática, etc.
 
+        #+CAPTION:Diferentes estructuras de corpus
+     [[./assets/estructuras_de_corpus.png]]
+
 ** MARCO REFERENCIAL
    
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
@@ -420,29 +423,14 @@ presentados en el marco teórico.
 
     En esta sección, se enumeraran las distintas fuentes de datos,
     que en este caso vendrían a ser los diferentes tipos de corpus.
+
+**** ¿Qué tipo de corpus se utilizará?
+     
     
 
-**** El corpus de referencia
+  
+  
 
-    Para poder cuantificar la /literariedad/, se debe representar
-    de algún modo el concepto de lengua. Es decir, debemos suponer
-    un uso consensuado de la lengua desde el cual sea posible comparar
-    si algo es literario respecto a este consenso general o no.
-
-    No existe, como es comprensible, un corpus oficial que represente
-    tal concepto, puesto que supondría un enorme trabajo compilación
-    y de estandarización con respecto a qué formato utilizar. Por
-    lo tanto, se necesita construir tal corpus, que llamaré
-    el /corpus de referencia/.
-
-    Sin embargo, sí existen corpus suficientemente grandes con
-    respecto a un mensaje individual que podríamos tomar
-    como una muestra de la lengua. Dicho de otro modo,
-    el corpus de referencia será una colección de textos
-    considerablemente más grande que el mensaje estudiado,
-    de tal modo que simule la relación entre la lengua (consenso social)
-    y habla (uso individual).
-    
 
 **** El corpus objetivo
 
@@ -476,8 +464,6 @@ presentados en el marco teórico.
      
 **** Los recursos lexicos
 
-     #+CAPTION:Diferentes estructuras de corpus
-     [[./assets/estructuras_de_corpus.png]]
 
 ***** Corpus de referencia
       El corpus de referencia es Wordnet. 

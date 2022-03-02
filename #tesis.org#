@@ -10,14 +10,15 @@
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
 planteado en áreas como los estudios literarios y la lingüística
-[3]. Particularmente, la escuela denominada 'formalismo ruso' planteó
-que el objeto de estudio de la literatura, no /podría/ ser la belleza, la
-relevancia histórica o el valor pragmático de un texto. Más
-bien, su objeto de estudio /debe/ recaer en un aspecto más 'objetivo':
-su /literariedad/.  Como su nombre sugiere, los formalistas se
-abocaron a formular una definición 'objetiva' y 'concreta' del
-fenómeno literario y adoptaron los --en ese entonces-- modernos
-métodos de la buyente disciplina de la linguística.
+\cite{eijembaum2010teoria}. Particularmente, la escuela denominada
+'formalismo ruso' planteó que el objeto de estudio de la literatura,
+no /podría/ ser la belleza, la relevancia histórica o el valor
+pragmático de un texto. Más bien, su objeto de estudio /debe/ recaer
+en un aspecto más 'objetivo': su /literariedad/.  Como su nombre
+sugiere, los formalistas se abocaron a formular una definición
+'objetiva' y 'concreta' del fenómeno literario y adoptaron los --en
+ese entonces-- modernos métodos de la buyente disciplina de la
+linguística.
 
 Siendo este el caso, ¿no es, por consiguiente, factible que un
 autómata pueda medir y presentar tales características presuntamente
@@ -46,7 +47,7 @@ y factor receptor. Tan solo se centra en el mensaje. Representado
 Es, por lo tanto,  /factible/ que un autómata pueda medir y presentar tales
 características. 
 
-#+CAPTION:Factores de comunicación de Roman Jakobson
+#+CAPTION:Factores de comunicación de Roman Jakobson \cite{jakobson1981linguistica}
 [[./assets/factores_comunicacion.png]]
 
 Saussure ofrece ya un modelo cualitativo muy bien esbozado en teoría,
@@ -55,12 +56,12 @@ Sin embargo, aunque existe un planteamiento cualitativo del problema,
 no se halló en la bibliografía consultada un modelo computacional que
 modelara el concepto y lo implementara. 
 
-#+CAPTION: Modelo cualitativo inicial expuesto por Ferdinand De Saussure
+#+CAPTION: Modelo cualitativo inicial expuesto por Ferdinand De Saussure tomado de \cite{eijembaum2010teoria}
 [[./assets/delimitacion_saussure.png]]
 
 Preliminarmente, se puede observar que el modelo de Saussure se
 fundamenta en una estructura bastante familiar en la computación: la
-secuencia. Así, el objetivo de este trabajo es modelar e implementar el
+secuencia \cite{alonso1945curso}. Así, el objetivo de este trabajo es modelar e implementar el
 modelo de /literariedad/ de Roman Jakobson utilizando redes semánticas
 y n-gramas.
 
@@ -68,8 +69,9 @@ y n-gramas.
 *** Justificacón
 
 Si bien existen infinitas operaciones realizables sobre un texto
-computarizado, hay pocas que tengan un enfoque humanístico. En este
-enfoque se busca someter a escrutinio los conceptos del marco teórico,
+computarizado, hay pocas que tengan un enfoque humanístico, sea
+este linguístico, literario o estético. Este
+enfoque busca generar una mayor comprensión del fenómeno literario,
 en contraposición a los enfoques 'típicos' --y hoy en día
 indispensables-- de procesamiento de lenguaje: extracción de
 información, clasificación con base a un modelo predictivo, entre
@@ -104,8 +106,8 @@ lingüística de Jakobson?
 **** *Palabras clave:*
      NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
-Área de conocimiento:
-
+**** *Área de conocimiento:*
+     
 Lingüística computacional
 
 *** Alcances y delimitaciones:
@@ -165,7 +167,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
   más básicas de la conducta verbal: /la selección/ y /la combinación./
 
 
-1. Selección (ver linguística sincrónica):
+**** Selección (ver linguística sincrónica):
 
    La selección estudia qué palabra selecciona un hablante entre las
    palabras existentes de la lengua, más o menos similares y hasta
@@ -173,15 +175,13 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    antonimia de una palabra. En otros términos, en su semántica.
   
    
-
- 2. Combinación (ver linguística diacrónica):
+**** Combinación (ver linguística diacrónica):
 
    La combinación estudia el "entramado de la secuencia" de un
    mensaje. Es decir, el mensaje considerado como una secuencia
    temporal y/o ordenada de palabras. La combinación se basa en la
    proximidad o, en otras palabras, en la relación de una palabra con
    la que la sucede o antecede en un mensaje.
-
 
 
 
@@ -196,9 +196,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     un texto sea literario y por qué es distinto de otro que no lo es.
 
 *** Linguística
-
-
-
+    
   La lingüística es la ciencia que estudia el lenguaje.
   Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
   fonología, morfología, sintaxis, semántica y pragmática.
@@ -208,7 +206,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
   embargo, se considera que hay un núcleo común llamado /linguística
   general/.
 
-1. Lingüística General:
+**** Lingüística General:
 
    Se conoce como lingüística general al paradigma lingüístico
    establecido por Ferdinand De Saussure, también llamado /modelo
@@ -221,42 +219,83 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    Estos dos ejes son la base de lo que Jakobson considera /selección/ y
    /combinación/.
 
-
-2. Linguística sincrónica
+   
+**** Linguística sincrónica
 
    La linguística sincrónica se ocupa de las
    operaciones que realiza un hablante, sean lógicas o psicológicas,
    para formar un sistema linguístico. En el
    marco de esta investigación el /eje sincrónico/ se referirá a las
    posibles palabras que un hablante pudo haber seleccionado para
-   expresar una misma idea. 
+   expresar una misma idea. Por ejemplo, para referirse a un
+   niño, un hablante puede utilizar la las palabras "niño", "chico",
+   "jovencito", o "párvulo".
 
 
-3. Linguística diacrónica 
+**** Linguística diacrónica 
 
-   La linguística diacrónica estudia los campos sucesivos en el 
-   lenguaje, producidos por la actividad constante del /eje 
-   sincrónico/. En la perspectiva 
-    de Jakobson, un /mensaje/ tiene en sí mismo un eje 
-    diacrónico. Tal eje mide la similaridad entre cada
-    término del mensaje entindido como secuencia:"
-    ... para decirlo de un modo más técnico: todo
-    secuencia es un símil."
+   La linguística diacrónica estudia los cambios sucesivos en el
+   lenguaje, producidos por la actividad constante del /eje
+   sincrónico/. En la perspectiva de Jakobson, un /mensaje/ tiene en
+   sí mismo un eje diacrónico. Tal eje mide la similaridad entre cada
+   término del mensaje entindido como secuencia. Un ejemplo se puede
+   apreciar en la oracion "I like Ike". An esta se evidencia una
+   repetición de sonidos similares: [ay layk ayk]. La similaridad, no
+   está dada por el significado, sino que aquí se proyecta a lo largo
+   del tiempo:"(...) para decirlo de un modo más técnico: todo
+   secuencia es un símil."
 
+*** Lenguaje
+     En términos simples, el lenguaje es la facultad de formular y
+     comprender signos o símbolos, ya sean hablados, escritos,
+     imágenes, etc.  En otros términos, el lenguaje es una
+     capacidad general. Sin embargo, para Saussure, la lengua
+     tiene una característica doble: que es al mismo
+     tiempo un sistema establecido y la constante evolución
+     de tal sistema. Estos dos componentes son la /lengua/
+     y el /habla/.
+     
+**** Lengua
+
+     La lengua (/langue/) es uno de los dos componentes del
+     /lenguaje/.  La lengua es fenómeno social y se equipara a una
+     /cristalización/ o un producto de la suma de asociaciones entre
+     conceptos e imagenes acústicas en la mente de los hablantes. Por
+     ejemplo, la lengua es lo que permite que dos hablantes bogotanos
+     puedan asociar en su mente el sonido de la palabra "chino" con el
+     concepto de "niño" o "infante", mientras que en otras partes del
+     mundo hispanohablante no existe tal asociación común.
+     En términos simples, la lengua es un entendimiento compartido de
+     lo que significan las palabras. La contraparte de la lengua,
+     es el habla. 
+     
+**** Habla
+     El habla (/parole/) es uno de los dos componentes del
+     /lenguaje/. El habla es el uso individual de la lengua.
+     Evidentemente, cuando un individuo habla puede modificar
+     la lengua a su antojo, porque posee la facultad del
+     lenguaje y jamás meramente repite el consenso de la lengua.
+     Como consecuencia de esto, la lengua está continuamente
+     siendo transformada por el habla. En términos simples,
+     la suma de los actos individuales de comunicacion lentamente
+     terminan por transformar el consenso social sobre cómo
+     hablar.  Por este motivo la linguística debe tener una
+     perspectiva doble: /diacrónica/ y /sincrónica/.
+     
+     
 *** Lingüística Computacional
-
 
    Es la intersección entre la computación y la lingüística. Por lo
    general, se preocupa acerca de cómo procesar automáticamente el
    lenguaje material, para lo cual genera modelos lingüísticos sobre los
-   que luego se pueden definir operaciones comunes [6].
+   que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
 
    La lingüística computacional es en sí misma un campo amplio y
    heterogéneo, pero en términos de este trabajo, me limitaré a señalar
    una herramienta:
 
-   1. NLTK
+**** NLTK
      
    El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
    una interfaz para tareas comunes en la lingüística computacional. La
@@ -266,27 +305,32 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    herramientas, tales como: tokenizacion, filtros, generación de
    n-gramas, análisis sintáctico de oraciones, entre otras.
 
-   2. Corpus
+**** Corpus
 
 
-   Un corpus es una colección de textos auténticos que pueden ser leídos
-   por una máquina. Estos pueden estructurarse de muchas formas,
-   dependiendo de los objetivos de la investigación [9]. Por ejemplo,
-   pueden ser aislados (una colección arbitraria), categorizados (una
-   colección escogida según algún criterio), temporales (una colección
-   organizada cronológicamente) o solapados (un documento puede
-   pertenecer a varias colecciones) [10]. Además, el formato del corpus
-   varía significativamente de acuerdo al objeto de la investigación. Por
-   ejemplo, si se desea hacer un análisis sintáctico (de la estructura de
-   una oración), se debe hacer un corpus anotado con POS (Part Of Speech
-   tag); para hacer un análisis pragmático se utiliza una anotación
-   pragmática, etc.
+   Un corpus es una colección de textos auténticos que pueden ser
+   leídos por una máquina. Estos pueden estructurarse de muchas
+   formas, dependiendo de los objetivos de la investigación
+   \cite{indurkhya2010handbook}. Por ejemplo, pueden ser aislados (una
+   colección arbitraria), categorizados (una colección escogida según
+   algún criterio), temporales (una colección organizada
+   cronológicamente) o solapados (un documento puede pertenecer a
+   varias colecciones) \cite{bird2009natural}. Además, el formato del
+   corpus varía significativamente de acuerdo al objeto de la
+   investigación. Por ejemplo, si se desea hacer un análisis
+   sintáctico (de la estructura de una oración), se debe hacer un
+   corpus anotado con POS (Part Of Speech tag); para hacer un análisis
+   pragmático se utiliza una anotación pragmática, etc.
+
+        #+CAPTION:Diferentes estructuras de corpus
+     [[./assets/estructuras_de_corpus.png]]
 
 ** MARCO REFERENCIAL
    
-El trabajo de Delmonte [2] presenta a SPARSAR, un sistema para calcular
-automáticamente el estilo de la poesía. SPARSAR funciona sobre sistemas
-previos del mismo autor, como, por ejemplo, un analizador semántico [7].
+El trabajo de Delmonte \cite{delmonte2013computing} presenta a
+SPARSAR, un sistema para calcular automáticamente el estilo de la
+poesía. SPARSAR funciona sobre sistemas previos del mismo autor, como,
+por ejemplo, un analizador semántico \cite{delmonte2005venses}.
 Delmonte tiene una larga trayectoria en el modelamiento de conceptos
 lingüísticos "difíciles", como la prosodia y la rima en términos
 cuantitativos.
@@ -307,56 +351,125 @@ temas en los artículos revisados. Además, sus sistemas tienen una
 alcance mucho mayor que el dispuesto para este trabajo, por lo que para
 mayores detalles tuve que referirme a otros trabajos.
 
-El trabajo de [5] establece una métrica para medir el grado de
-creatividad en la poesía, basándose en qué tanto de la rima se conserva
-en la traducción de un poema con respecto al original. Tomé de Zuñiga la
-idea de establecer una métrica para un aspecto tradicionalmente
-cualitativo (la creatividad). Lo que diferencia este trabajo del de
-Delmonte, es su aproximación matemática. Particularmente, Zuñiga ofreció
-una forma naive de calcular similitud en rima, sin necesidad de recurrir
-a construcciones que requieren de recursos léxicos complejos como una
-ontología para fonemas, etc.
+El trabajo de \cite{zuniga2017automatic} establece una métrica para
+medir el grado de creatividad en la poesía, basándose en qué tanto de
+la rima se conserva en la traducción de un poema con respecto al
+original. Tomé de Zuñiga la idea de establecer una métrica para un
+aspecto tradicionalmente cualitativo (la creatividad). Lo que
+diferencia este trabajo del de Delmonte, es su aproximación
+matemática. Particularmente, Zuñiga ofreció una forma naive de
+calcular similitud en rima, sin necesidad de recurrir a construcciones
+que requieren de recursos léxicos complejos como una ontología para
+fonemas, etc.
 
-Por último, el trabajo de [8] es una tesis de pregrado sobre el cálculo
-del estilo de la poesía desde una perspectiva estadística. Kaplan fue
-una inspiración para Delmonte, por lo tanto debía formar parte de mi
-revisión bibliográfica. El aporte principal a mi trabajo ha sido tener
-una serie de ope- raciones como referencia. Por ejemplo, para modelar
-aspectos ortográficos, sintácticos y fonémicos, entre otros.
+Por último, el trabajo de \cite{kaplan2006computational} es una tesis
+de pregrado sobre el cálculo del estilo de la poesía desde una
+perspectiva estadística. Kaplan fue una inspiración para Delmonte, por
+lo tanto debía formar parte de mi revisión bibliográfica. Kaplan
+formuló un modelo que media 84 métricas distintas para cada documento,
+luego transformó el modelo de 84 métricas para visualizarlo en un
+espacio 3D y poder comparar distintas obras literarias. Esto inspiró
+mi idea inicial de obtener una métrica más general para analizar
+un texto, que no tenga que recurrir un trabajo de compilación de métricas
+existentes, como lo hizo Kaplan. Tal métrica debería estar sustentada
+en conceptos linguísticos, para lo cual recurre en los conceptos
+presentados en el marco teórico. 
 
 ** DISEÑO METODOLÓGICO
+   El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
+   metodología CRISP-DM, que se considera un estándar /de facto/ para
+   proyectos de minería de datos. Esta metodología ayudará organizar
+   el proceso de mi investigación, que vá desde el acceso a los
+   corpus (los datos disponibles) hasta el despliegue (la
+   visualización de los resultados).
 *** Entendimiento del negocio
-    (Me pareció que esto no aplica. Discutir con profesor. Propongo esto otro)
+   
+    El resultado tangible del modelo de literariedad propuesto son dos
+    métricas cuantitativas: /metáfora/ y /metonímia/.  Estas métricas
+    juntas constituiran una representación 'objetiva' del concepto
+    cualitativo de /literariedad/.
 
-    Lo otro sería explicar los posibles usos (posibles clientes) de mi modelo
-    #+CAPTION:Entradas y salidas del algoritmo
-    [[./assets/posibles_usos.jpg]]
+    #+BEGIN_EXPORT latex
+    \begin{figure}[htbp]
+    \centering
+    \includegraphics[width=.9\linewidth]{./assets/posibles_usos.jpg}
+    \caption{\label{fig:posibles_usos}Entradas y salidas del algoritmo}
+    \end{figure}
+#+END_EXPORT
 
+
+    ¿Cuál sería el beneficio de obtener este resultado? Se podría comparar
+    las métricas de n mensajes cualesquiera y tener una medida objetiva
+    con las  cuales compararlas. Algunos casos de uso posible serían:
+    
+    - determinar si un mensaje que yo he escrito es más metáforico o metonímico que otro.
+      
+    - determinar si un mensajes de una misma categoria (por ejemplo, del mismo autor, o del mismo género)
+      tienen medidas de métadora y metonímia similares.
+
+    - correr grandes grupos de mensajes, por ejemplo, 'poemas de la escuela simbolistas' y compararlo
+      con 'poemas realistas' y verificar si hay o no una diferencia sustancial desde el punto de
+      vista linguístico .
+      
+    Como se puede apreciar (ref:fig:posibles_usos), las aplicaciones del modelo en principio
+    supondrían un factor adicional para ser considerado para el
+    estudio literario, cuya naturaleza es cualitativa. Sin embargo, si
+    el modelo demuestra ser efectivo, podría llegar a ser una medida
+    de similitud para un texto, lo que implicaría que se podría
+    clasificar un texto con base en su metáfora y metonímia, 
+    
+    
 *** Entendimiento de los datos
-    
-    #+begin_quote
-    The data understanding phase of CRISP-DM involves taking a closer
-    look at the data available for mining. This step is critical in
-    avoiding unexpected problems during the next phase--data
-    preparation--which is typically the longest part of a project.
-    #+end_quote
-    
+
+    En esta sección, se enumeraran las distintas fuentes de datos,
+    que en este caso vendrían a ser los diferentes tipos de corpus.
+
+   
+
+**** El corpus objetivo
+
+     Los corpus objetivo serán los mensajes sobre los cuales se
+     computarán las dos medidas de /metáfora/ y /metonimia/.
+
+     Como la tarea de construcción de un corpus propio se sale
+     del alcance de esta investigación, se optó por utilizar
+     textos del corpus de Brown, al ser este un estándar
+     para procesamiento de lenguaje natural. La ventaja
+     de utilizar este corpus es que muchos otros análisis
+     también lo utilizan para distintos fines, lo que
+     lo haría comparable con otros estudios que usen
+     este mismo corpus.
+
+**** La red semántica
+
+     La red semántica es un tipo de corpus particular que no solamente
+     consta de palabras anotadas, como el de Brown, sino que vincula
+     las palabras por su relación conceptual con otras palabras. La
+     red semántica correspondería a la facultad de asociar conceptos
+     con las "imágenes acústicas" (las palabras) de Saussure. En esta
+     investigación, la red semántica se utilizará para obtener
+     sínonimos de palabras, que representarán conceptos.
+   
+
+**** Resumen de entendimiento de los datos
+#+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
+[[./assets/entendimiento_de_los_datos.png]]
+
+     
 **** Los recursos lexicos
 
-     #+CAPTION:Diferentes estructuras de corpus
-     [[./assets/estructuras_de_corpus.png]]
 
-***** Corpus de referencia
-      El corpus de referencia es Wordnet. 
-***** Corpus objetivo
-     El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
-     1) La lengua inglesa tiene una correspondiente red semántica
-     2) Esta categorizado, por lo que se espera observar diferencias significativas en el resultado de su procesamiento
-     3) Es fácilmente accesible a través de Python 
-	
-****  La red semántica y similaridad con Saussure
-**** Por qué utilizo el Brown Corpus     
 *** Preparación de los datos
+
+**** Preparación general
+
+     Para el modelo que será procesado más adelante, se
+     necesita que tanto el corpus objetivo como el corpus
+     de referencia sean una sola cadena de texto. Para
+     hacer esto, basta con tomar cada texto de los
+     recursos y unirlos uno con otro.
+
+     El corpus objetivo 
     
     #+begin_src
     Depending on your organization and its goals, data preparation typically involves the following tasks:
@@ -449,45 +562,10 @@ and making marketing decisions.
     #+end_quote
 ** CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)
 
-** BIBLIOGRAFÍA
 
-[1]  L. Danlos, “The linguistic basis of text generation,” in
-Proceedings of the third conference on European chapter of the
-Association for Computatio- nal Linguistics, pp. 1--1, 1987.
-
-[2]  R. Delmonte, “Computing poetry style.,” in ESSEM@ AI* IA, pp. 148--
-155, 2013.
-
-[3]  B. Eijembaum, “La teoría del"método formal",” in Textos de teorías
-y crítica literarias:(del formalismo a los estudios postcoloniales), pp.
-33-- 62, Anthropos, 2010.
-
-[4]  R. Jakobson and A. M. G. Cabello, Lingüística y poética. Cátedra
-España, 1981.
-
-[5]  D. F. Zuñiga, T. Amido, and J. E. Camargo, “Automatic computation
-of poetic creativity in parallel corpora,” in Colombian Conference on
-Computing, pp. 710--720, Springer, 2017.
-
-[6]  I. A. Bolshakov and A. Gelbukh, Computational Linguistics: Models,
-Re- sources, Applications. Mexico City: Centro de Investigacio ́øn en
-Compu- taci ́øn, Instituto Polit ́cnico Nacional, 1981.
-
-[7]  R. Delmonte, S. Tonelli, M. A. P. Boniforti, and A. Bristot,
-“Venses--a linguistically-based system for semantic evaluation,” in
-Machine Learning Challenges Workshop, pp. 344--371, Springer, 2005.
-
-[8]  D. Kaplan, “Computational analysis and visualized comparison of
-style in american poetry,” Unpublished undergraduate thesis, 2006.
-
-[9] Indurkhya, N., & Damerau, F. J. “/Handbook of natural language
-processing/ (Vol. 2)”. CRC Press, 2010
-
-
-[10] Bird, Steven, et al. Natural Language Processing with Python.
-O'Reilly Media, 2009.
 
 \bibliographystyle{unsrt}
+\bibliography{biblio} 
 
 bibliography:~/biblio/biblio.bib
 
