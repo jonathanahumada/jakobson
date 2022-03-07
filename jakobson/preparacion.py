@@ -6,33 +6,47 @@ Created on Wed Mar  2 16:33:52 2022
 @author: jaumaf
 """
 import nltk
-from jakobson import indice_metaforico, construir_referencia
-def construirCorpusDeReferencia():
+import itertools
+from .utils import textoDeBrown
+def recopilarMuestra():
+        corpus_referencia = [
+            reportaje(),
+            editorial(),
+            religion(),
+            hobbies(),
+            popular(),
+            bellasArtes(),
+            academia(),
+            ficcion(),
+            misterio(),
+            cienciaFiccion(),
+            aventura(),
+            romance(),
+            ]
+        
+        codigos_brown =  [ list(dictionary.keys())for dictionary in corpus_referencia]
+        
+        flattened = list(itertools.chain.from_iterable(codigos_brown))
+        return flattened
+    
+def construirCorpusDeReferencia(keys):
       
-        corpus = nltk.corpus.brown.words("cj22")
+       words = [textoDeBrown(key)for key in keys]
+       flattened = list(itertools.chain.from_iterable(words))
+       
+       return flattened
 
-        r1 = nltk.corpus.brown.words("cj23")  # J22	Max F. Millikan & Donald L. Blackmer, editors	The Emerging Nations
-        r2 = nltk.corpus.brown.words("cj24")  # J24	Howard J. Parad	Preventive Casework: Problems & Implications
-        r3 = nltk.corpus.brown.words(
-            "cj25")  # J25	Sister Claire M. Sawyer	Some Aspects of Fertility of a Tri-Racial Isolate
-        r4 = nltk.corpus.brown.words("cj26")  # J26	Frank Lorimer	Demographic Information on Tropical Africa
-        r5 = nltk.corpus.brown.words(
-            "cj27")  # J28	William H. Ittelson & Samuel B. Kutash, editors	Perceptual Changes in Psychopathology
-        r6 = nltk.corpus.brown.words("cj28")  # J30	Raymond J. Corsini	Roleplaying in Business & Industry
-
-        corpus_referencia = construir_referencia([r1,r2,r3,r4,r5,r5])
         
     
     
-def informativa():
-    pass
+
 def reportaje():
     muestra = {"a01":"Political Reportage"
                ,"a11":"Sports Reportage", 
                "a19": "Spot News",
                "a26": "Financial Reportage",
                "a40": "People, Art & Education"}
-    pass
+    return muestra
 
 def editorial():
     muestra = {"b03":"Editorials",
@@ -41,46 +55,51 @@ def editorial():
                "b19": "The Voice of the people",
                "b24": "Reviews"
                }
-    pass
+    return muestra
+
 
 def religion():
     muestra = {"d15":"Zen:A Rational critique",
                "d11": "War & the Cristian Conscience",
-               "d13b": "The Seeming Impossible",
+               "d13": "The New Science & The New Faith",
                "d04": "The Shape of death",
                "d02": "Christ Without Myth"
                
         }
-    pass
+    return muestra
+
     
 def hobbies():
     muestra = {
-        "e05b": "Use of Common Sense Makes Dogs Acceptable",
+        "e05": "The Younger Generation/Use of Common Sense Makes Dogs Acceptable",
         "e06": "The American Boating Scene",
         "e10": "The New Guns of 61",
         "e19": "How to Own a Pool and Like It",
         "e23": "The Watercolor Art or Roy Mason"
         }
-    pass
+    return muestra
+
 
 def popular():
     muestra = {
-        "fo7b":"Attitudes Toward Nudity",
+        "f07": "How to Have a Successful Honeymoon/Attitudes Toward Nudity",
         "f12": "New Methods of Parapsychology",
         "f13": "Part-time Farming",
         "f14": "The Trial and Eichmann",
         "f33": "Slurs and Suburbs"}
-    pass
+    return muestra
+
 
 def bellasArtes():
     muestra = {
-        "g15":"	Themes and Methods: Early Storie of Thomas Mann",
+        "g15":"Themes and Methods: Early Storie of Thomas Mann",
         "g13": "Sex in Contemporary Literature",
-        "g18": "	Verner von Heidenstam",
+        "g18": "Verner von Heidenstam",
         "g26": "Two Modern Incest Heroes",
         "g28": "William Faulkner, Southern Novelist"
         }
-    pass
+    return muestra
+
 
 def academia():
     muestra = {
@@ -89,11 +108,9 @@ def academia():
         "j28": "Perceptual Changes in Psycopathology",
         "j39": "Stock, Wheats and Pharaohs",
         "j35": "Semantic Contribution of Lexicostatistics"}
-    pass
+    return muestra
 
 
-def imaginativa():
-    pass
 
 
 
@@ -105,15 +122,17 @@ def ficcion():
         "k23": "The Tight of the Sea",
         "k17": "Mila 8"
         }
-    pass
+    return muestra
+
 
 def misterio():
         muestra = {"l05": "Bloodstain",
-                   "l11": "	Semantic Contribution of Lexicostatistics",
+                   "l11": "The Man Who Looked Death in the Eye",
                    "l04":"Encounter with Evil",
                    "l19": "Make a Killing",
                    "l20": "Death by the Numbers"}
-        pass
+        return muestra
+
     
 def cienciaFiccion():
     muestra = {
@@ -124,7 +143,8 @@ def cienciaFiccion():
         "m06": "A Planet Named Shayol"
         }
         
-    pass
+    return muestra
+
 
 def aventura():
     muestra = {
@@ -133,7 +153,8 @@ def aventura():
         "n15": "Sweeny Squadron",
         "n20": "The Flooded Deares",
         "n26": "Toughest Lawman in the Old West"}
-    pass
+    return muestra
+
 
 def romance():
     muestra = {
@@ -143,7 +164,8 @@ def romance():
         "p16": "A Secret Between Friends",
         "p12": "A Passion in Rome"
         }
-    pass
+    return muestra
+
 
 
 

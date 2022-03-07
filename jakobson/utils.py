@@ -9,3 +9,4 @@ def construir_referencia(lista_corpora):
 
 def textoDeBrown(cod):
     return nltk.corpus.brown.words("c" + cod)
+
