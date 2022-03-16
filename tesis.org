@@ -3,6 +3,7 @@
 #+TITLE: Modelo de literariedad usando redes semánticas y n-gramas
 #+LaTeX_CLASS_OPTIONS: [twoside]
 #+LATEX_HEADER: \input{mytitle}
+#+LATEX_HEADER: \usepackage{longtable}
 #+OPTIONS: broken-links:t 
 ** FORMULACIÓN DEL PROBLEMA
 *** Introducción
@@ -248,12 +249,11 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 *** Lenguaje
      En términos simples, el lenguaje es la facultad de formular y
      comprender signos o símbolos, ya sean hablados, escritos,
-     imágenes, etc.  En otros términos, el lenguaje es una
-     capacidad general. Sin embargo, para Saussure, la lengua
-     tiene una característica doble: que es al mismo
-     tiempo un sistema establecido y la constante evolución
-     de tal sistema. Estos dos componentes son la /lengua/
-     y el /habla/.
+     imágenes, etc.  En otros términos, el lenguaje es una capacidad
+     general. Sin embargo, para Saussure, la lengua tiene una
+     característica doble: que es al mismo tiempo un sistema
+     establecido y la constante evolución de tal sistema. Estos dos
+     componentes son la /lengua/ y el /habla/.
      
 **** Lengua
 
@@ -297,11 +297,11 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 
 **** NLTK
      
-   El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
-   una interfaz para tareas comunes en la lingüística computacional. La
-   ventaja principal de NLTK es que se considera a sí mismo un
-   /toolkit/. Esto significa que no impone una estructura de
-   procesamiento definida a la vez que ofrece un extenso abanico de
+   El Natural Language Toolkit (NLTK) es un módulo de Python que
+   ofrece una interfaz para tareas comunes en la lingüística
+   computacional. La ventaja principal de NLTK es que se considera a
+   sí mismo un /toolkit/. Esto significa que no impone una estructura
+   de procesamiento definida a la vez que ofrece un extenso abanico de
    herramientas, tales como: tokenizacion, filtros, generación de
    n-gramas, análisis sintáctico de oraciones, entre otras.
 
@@ -369,19 +369,19 @@ lo tanto debía formar parte de mi revisión bibliográfica. Kaplan
 formuló un modelo que media 84 métricas distintas para cada documento,
 luego transformó el modelo de 84 métricas para visualizarlo en un
 espacio 3D y poder comparar distintas obras literarias. Esto inspiró
-mi idea inicial de obtener una métrica más general para analizar
-un texto, que no tenga que recurrir un trabajo de compilación de métricas
+mi idea inicial de obtener una métrica más general para analizar un
+texto, que no tenga que recurrir un trabajo de compilación de métricas
 existentes, como lo hizo Kaplan. Tal métrica debería estar sustentada
 en conceptos linguísticos, para lo cual recurre en los conceptos
-presentados en el marco teórico. 
+presentados en el marco teórico.
 
 ** DISEÑO METODOLÓGICO
    El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
    metodología CRISP-DM, que se considera un estándar /de facto/ para
    proyectos de minería de datos. Esta metodología ayudará organizar
-   el proceso de mi investigación, que vá desde el acceso a los
-   corpus (los datos disponibles) hasta el despliegue (la
-   visualización de los resultados).
+   el proceso de mi investigación, que vá desde el acceso a los corpus
+   (los datos disponibles) hasta el despliegue (la visualización de
+   los resultados).
 *** Entendimiento del negocio
    
     El resultado tangible del modelo de literariedad propuesto son dos
@@ -398,25 +398,30 @@ presentados en el marco teórico.
 #+END_EXPORT
 
 
-    ¿Cuál sería el beneficio de obtener este resultado? Se podría comparar
-    las métricas de n mensajes cualesquiera y tener una medida objetiva
-    con las  cuales compararlas. Algunos casos de uso posible serían:
+    ¿Cuál sería el beneficio de obtener este resultado? Se podría
+    comparar las métricas de n mensajes cualesquiera y tener una
+    medida objetiva con las cuales compararlas. Algunos casos de uso
+    posible serían:
     
-    - determinar si un mensaje que yo he escrito es más metáforico o metonímico que otro.
+    - determinar si un mensaje que yo he escrito es más metáforico o
+      metonímico que otro.
       
-    - determinar si un mensajes de una misma categoria (por ejemplo, del mismo autor, o del mismo género)
-      tienen medidas de métadora y metonímia similares.
+    - determinar si un mensajes de una misma categoria (por ejemplo,
+      del mismo autor, o del mismo género) tienen medidas de métadora
+      y metonímia similares.
 
-    - correr grandes grupos de mensajes, por ejemplo, 'poemas de la escuela simbolistas' y compararlo
-      con 'poemas realistas' y verificar si hay o no una diferencia sustancial desde el punto de
-      vista linguístico .
+    - correr grandes grupos de mensajes, por ejemplo, 'poemas de la
+      escuela simbolistas' y compararlo con 'poemas realistas' y
+      verificar si hay o no una diferencia sustancial desde el punto
+      de vista linguístico .
       
-    Como se puede apreciar (ref:fig:posibles_usos), las aplicaciones del modelo en principio
-    supondrían un factor adicional para ser considerado para el
-    estudio literario, cuya naturaleza es cualitativa. Sin embargo, si
-    el modelo demuestra ser efectivo, podría llegar a ser una medida
-    de similitud para un texto, lo que implicaría que se podría
-    clasificar un texto con base en su metáfora y metonímia, 
+    Como se puede apreciar (ref:fig:posibles_usos), las aplicaciones
+    del modelo en principio supondrían un factor adicional para ser
+    considerado para el estudio literario, cuya naturaleza es
+    cualitativa. Sin embargo, si el modelo demuestra ser efectivo,
+    podría llegar a ser una medida de similitud para un texto, lo que
+    implicaría que se podría clasificar un texto con base en su
+    metáfora y metonímia,
     
     
 *** Entendimiento de los datos
@@ -473,76 +478,167 @@ presentados en el marco teórico.
 ****  La red semántica y similaridad con Saussure
 **** Por qué utilizo el Brown Corpus     
 *** Preparación de los datos
-    La tarea de preparación de los datos consitirá principalmente
-    en seleccionar los distintos tipos de corpus de manera significativa y coherente.
+    La tarea de preparación de los datos consitirá principalmente en
+    seleccionar los distintos tipos de corpus de manera significativa
+    y coherente.  A continuación, describiré cómo se conformaron los
+    corpus y qué criterios se utilizaron.
 
-    \begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|l|}
+**** Corpus de referencia
+     El corpus de referencia representa la /lengua/ (/langue/). Por lo
+     tanto debe estar compuesto de una muestra de textos
+     comparativamente mucho más grande los mensajes individuales que
+     serán contrastados con este. ¿Cómo construir un corpus tal?
+
+     En primer lugar, se descartó la idea de modelar la /lengua/ en su
+     totalidad, pues como lo indica la teoría linguística, esta tarea
+     es imposible puesto que esta se encuentra en constante
+     cambio. Así, el primer criterio para construcción del corpus fue
+     restringirlo diacrónicamente al espacio de un año y a un idioma
+     específico.
+
+     El siguiente criterio fue armar un corpus /balanceado/. Es decir,
+     el corpus de referencia no puede estar compuesto de muestras de
+     un mismo tipo (un estilo, un género, un autor), porque esto
+     sesgaría la comparación de el corpus objetivo con respecto a
+     este. Así, se optó por partir de un corpus /categorizado/ y tomar
+     partes iguales de cada una de las categorias. Esto es, cada
+     categoría tiene igual peso en cuanto a número de textos y
+     palabras que lo representan.
+
+     El tercer criterio fue utilizar un corpus fácilmente accesible,
+     de origen libre y avalado por la comunidad científica. Por todos
+     los motivos anteriores, se escogió el corpus de Brown, que
+     presenta las siguientes características:
+
+     - todas las muestras del corpus pertenecen al año 1961
+     - todas las muestras del corpus se imprimieron en Estados Unidos durante ese año
+     - todos los autores son hablantes nativos de inglés
+     - la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown
+     - la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año
+     - tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías
+     - los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido
+
+     A continuación, se presenta la tabla que constituye lo que se
+     utilizará como corpus de referencia.
+
+     
+
+    \begin{longtable}{| p{.20\textwidth} | p{.40\textwidth} | p{.20\textwidth}|} 
     \hline
-        código de brown & nombre del texto & categoria & ~ \\ \hline
-        a01 & Political Reportage & reportage & ~ \\ \hline
-        a11 & Sports Reportage & reportage & ~ \\ \hline
-        a19 & Spot News & reportage & ~ \\ \hline
-        a26 & Financial Reportage & reportage & ~ \\ \hline
-        a40 & People & Art \& Education & reportage \\ \hline
-        b03 & Editorials & editorial & ~ \\ \hline
-        b08 & Columns & editorial & ~ \\ \hline
-        b15 & Letters to the editor & editorial & ~ \\ \hline
-        b19 & The Voice of the people & editorial & ~ \\ \hline
-        b24 & Reviews & editorial & ~ \\ \hline
-        d15 & Zen:A Rational critique & religion & ~ \\ \hline
-        d11 & War \& the Cristian Conscience & religion & ~ \\ \hline
-        d13 & The New Science \& The New Faith & religion & ~ \\ \hline
-        d04 & The Shape of death & religion & ~ \\ \hline
-        d02 & Christ Without Myth & religion & ~ \\ \hline
-        e05 & The Younger Generation/Use of Common Sense Makes Dogs Acceptable & skills \& hobbies & ~ \\ \hline
-        e06 & The American Boating Scene & skills \& hobbies & ~ \\ \hline
-        e10 & The New Guns of 61 & skills \& hobbies & ~ \\ \hline
-        e19 & How to Own a Pool and Like It & skills \& hobbies & ~ \\ \hline
-        e23 & The Watercolor Art or Roy Mason & skills \& hobbies & ~ \\ \hline
-        f07 & How to Have a Successful Honeymoon/Attitudes Toward Nudity & popular lore & ~ \\ \hline
-        f12 & New Methods of Parapsychology & popular lore & ~ \\ \hline
-        f13 & Part-time Farming & popular lore & ~ \\ \hline
-        f14 & The Trial and Eichmann & popular lore & ~ \\ \hline
-        f33 & Slurs and Suburbs & popular lore & ~ \\ \hline
-        g15 & Themes and Methods: Early Storie of Thomas Mann & belles lettres & ~ \\ \hline
-        g13 & Sex in Contemporary Literature & belles lettres & ~ \\ \hline
-        g18 & Verner von Heidenstam & belles lettres & ~ \\ \hline
-        g26 & Two Modern Incest Heroes & belles lettres & ~ \\ \hline
-        g28 & William Faulkner & Southern Novelist & belles lettres \\ \hline
-        j18 & Linear Algebra & learned & ~ \\ \hline
-        j17 & Prolegomena to a Theory of Emotions & learned & ~ \\ \hline
-        j28 & Perceptual Changes in Psycopathology & learned & ~ \\ \hline
-        j39 & Stock & Wheats and Pharaohs & learned \\ \hline
-        j35 & Semantic Contribution of Lexicostatistics & learned & ~ \\ \hline
-        k18 & Midcentaury & general fiction & ~ \\ \hline
-        k25 & The Prophecy & general fiction & ~ \\ \hline
-        k04 & Worlds of Color & general fiction & ~ \\ \hline
-        k23 & The Tight of the Sea & general fiction & ~ \\ \hline
-        k17 & Mila 8 & general fiction & ~ \\ \hline
-        l05 & Bloodstain & mistery and detective fiction & ~ \\ \hline
-        l11 & The Man Who Looked Death in the Eye & mistery and detective fiction & ~ \\ \hline
-        l04 & Encounter with Evil & mistery and detective fiction & ~ \\ \hline
-        l19 & Make a Killing & mistery and detective fiction & ~ \\ \hline
-        l20 & Death by the Numbers & mistery and detective fiction & ~ \\ \hline
-        m01 & Stranger in a Strange Land & science fiction & ~ \\ \hline
-        m03 & The Star Dwellers & science fiction & ~ \\ \hline
-        m04 & The Planet with no Nightmare & science fiction & ~ \\ \hline
-        m05 & The Ship who Sang & science fiction & ~ \\ \hline
-        m06 & A Planet Named Shayol & science fiction & ~ \\ \hline
-        n01 & The Killer Marshall & adventure and western fiction & ~ \\ \hline
-        n05 & Bitter Valley & adventure and western fiction & ~ \\ \hline
-        n15 & Sweeny Squadron & adventure and western fiction & ~ \\ \hline
-        n20 & The Flooded Deares & adventure and western fiction & ~ \\ \hline
-        n26 & Toughest Lawman in the Old West & adventure and western fiction & ~ \\ \hline
-        p29 & My Hero & romance and love story & ~ \\ \hline
-        p27 & Measure of a Man & romance and love story & ~ \\ \hline
-        p22 & A Husband Stealer from Way Back & romance and love story & ~ \\ \hline
-        p16 & A Secret Between Friends & romance and love story & ~ \\ \hline
-        p12 & A Passion in Rome & romance and love story & ~ \\ \hline
+        cód.  & nombre  & categoria  \\ \hline
+        a01 & Political Reportage & reportage  \\ \hline
+        a11 & Sports Reportage & reportage  \\ \hline
+        a19 & Spot News & reportage  \\ \hline
+        a26 & Financial Reportage & reportage  \\ \hline
+        a40 & People, Art \& Education & reportage \\ \hline
+        b03 & Editorials & editorial  \\ \hline
+        b08 & Columns & editorial  \\ \hline
+        b15 & Letters to the editor & editorial  \\ \hline
+        b19 & The Voice of the people & editorial \\ \hline
+        b24 & Reviews & editorial \\ \hline
+        d15 & Zen:A Rational critique & religion  \\ \hline
+        d11 & War \& the Cristian Conscience & religion  \\ \hline
+        d13 & The New Science \& The New Faith & religion  \\ \hline
+        d04 & The Shape of death & religion  \\ \hline
+        d02 & Christ Without Myth & religion  \\ \hline
+        e05 & The Younger Generation/Use of Common Sense Makes Dogs Acceptable & skills \& hobbies \\ \hline
+        e06 & The American Boating Scene & skills \& hobbies  \\ \hline
+        e10 & The New Guns of 61 & skills \& hobbies  \\ \hline
+        e19 & How to Own a Pool and Like It & skills \& hobbies  \\ \hline
+        e23 & The Watercolor Art or Roy Mason & skills \& hobbies  \\ \hline
+        f07 & How to Have a Successful Honeymoon/Attitudes Toward Nudity & popular lore  \\ \hline
+        f12 & New Methods of Parapsychology & popular lore  \\ \hline
+        f13 & Part-time Farming & popular lore  \\ \hline
+        f14 & The Trial and Eichmann & popular lore  \\ \hline
+        f33 & Slurs and Suburbs & popular lore  \\ \hline
+        g15 & Themes and Methods: Early Storie of Thomas Mann & belles lettres  \\ \hline
+        g13 & Sex in Contemporary Literature & belles lettres  \\ \hline
+        g18 & Verner von Heidenstam & belles lettres  \\ \hline
+        g26 & Two Modern Incest Heroes & belles lettres  \\ \hline
+        g28 & William Faulkner, Southern Novelist & belles lettres \\ \hline
+        j18 & Linear Algebra & learned  \\ \hline
+        j17 & Prolegomena to a Theory of Emotions & learned  \\ \hline
+        j28 & Perceptual Changes in Psycopathology & learned  \\ \hline
+        j39 & Stock, Wheats and Pharaohs & learned \\ \hline
+        j35 & Semantic Contribution of Lexicostatistics & learned  \\ \hline
+        k18 & Midcentaury & general fiction  \\ \hline
+        k25 & The Prophecy & general fiction  \\ \hline
+        k04 & Worlds of Color & general fiction  \\ \hline
+        k23 & The Tight of the Sea & general fiction  \\ \hline
+        k17 & Mila 8 & general fiction  \\ \hline
+        l05 & Bloodstain & mistery and detective fiction  \\ \hline
+        l11 & The Man Who Looked Death in the Eye & mistery and detective fiction  \\ \hline
+        l04 & Encounter with Evil & mistery and detective fiction  \\ \hline
+        l19 & Make a Killing & mistery and detective fiction  \\ \hline
+        l20 & Death by the Numbers & mistery and detective fiction  \\ \hline
+        m01 & Stranger in a Strange Land & science fiction  \\ \hline
+        m03 & The Star Dwellers & science fiction  \\ \hline
+        m04 & The Planet with no Nightmare & science fiction  \\ \hline
+        m05 & The Ship who Sang & science fiction  \\ \hline
+        m06 & A Planet Named Shayol & science fiction  \\ \hline
+        n01 & The Killer Marshall & adventure and western fiction  \\ \hline
+        n05 & Bitter Valley & adventure and western fiction  \\ \hline
+        n15 & Sweeny Squadron & adventure and western fiction  \\ \hline
+        n20 & The Flooded Deares & adventure and western fiction  \\ \hline
+        n26 & Toughest Lawman in the Old West & adventure and western fiction  \\ \hline
+        p29 & My Hero & romance and love story  \\ \hline
+        p27 & Measure of a Man & romance and love story  \\ \hline
+        p22 & A Husband Stealer from Way Back & romance and love story  \\ \hline
+        p16 & A Secret Between Friends & romance and love story  \\ \hline
+        p12 & A Passion in Rome & romance and love story  \\ \hline
+
+  \caption{Corpus de referencia}
+\label{tab:corpus_referencia}
+\end{longtable}
+
+**** Corpus objetivo
+    En contrapartida al corpus de referencia, el corpus objetivo representa el
+    /habla/ (/parole/). Así, estos son considerados mensajes que serán interpretados
+    por el receptor con relación al consenso de la lengua compartida entre emisor y
+    receptor.
+
+    El primer criterio para construir el corpus de referencia es que este tenga
+    una delimitacion diacrónica igual a la de el corpus objetivo. El segundo
+    criterio, que las categorías fueran comparables a las categorias establecidas
+    del corpus de referencia.
+
+    El tercer criterio es que cada muestra del corpus del corpus objetivo
+    tuviera un tamaño similar entre sí, para descartar que diferencias
+    en la longitud del mensaje afectaran sustancialmente los resultados del algoritmo
+
+    Por estos motivos, se optó por tomar tomar muestras del mismo corpus de Brown.
+    La diferencia radica en que cada categoría solo tiene una muestra y la muestra
+    seleccionada para la categoría está ausente en el corpus objetivo.
+
+    A continuación, se presenta un resumen del corpus objetivo:
+
+    
+     
+   \begin{table}[!ht]
+    \centering
+  
+    \begin{tabular}{|l|l|l|}
+    \hline
+        cód & nombre & categoría \\ \hline
+        a40 & People. Art \& Education & reportage \\ \hline
+        b27 & Letters to the Editor & editorial \\ \hline
+        c17 & Reviews & reviews \\ \hline
+        d09 & Organizing the Local Church & religion \\ \hline
+        e36 & Renting a Car in Europe & skills \& hobbies \\ \hline
+        f48 & Christian Ethics \& the Sit-In & popular lore \\ \hline
+        g75 & A Wreath for Garibaldi & belles lettres \\ \hline
+        h30 & Annual Report of Year Ending June 30 1961 & miscellaneous \\ \hline
+        j80 & Principles of Inertial Navigation & learned \\ \hline
+        k29 & The Sheep's in the Meadow & general fiction \\ \hline
+        l24 & The Murders & mistery and detective fiction \\ \hline
+        m02 & The Lovers & science fiction \\ \hline
+        n29 & Riding the Dark Train Out & adventure and western fiction \\ \hline
+        p20 & Dirty Dig Inn & romance and love story \\ \hline
     \end{tabular}
+\caption{Corpus objetivo}
+\label{tab:corpus_objetivo}
 \end{table}
+    
 *** Modelamiento
 **** Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)
 **** Generating a test desing
@@ -621,7 +717,8 @@ information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
     #+end_quote
 
-   \begin{table}[!ht]
+
+       \begin{table}[!ht]
     \centering
     \begin{tabular}{|l|l|l|}
     \hline
@@ -641,9 +738,9 @@ and making marketing decisions.
         adventure and western fiction & 5208.702749914055 & 2560 \\ \hline
         romance and love story & 7068.521208726773 & 2428 \\ \hline
     \end{tabular}
+\caption{Resultado índice metafórico}
+\label{tab:resultado_indice_metaforico}
 \end{table}
-    
-  
 
     
 ** CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)
@@ -653,6 +750,6 @@ and making marketing decisions.
 \bibliographystyle{unsrt}
 \bibliography{biblio} 
 
-bibliography:~/biblio/biblio.bib
+
 
 

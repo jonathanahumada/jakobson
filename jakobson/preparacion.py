@@ -47,6 +47,30 @@ def tablaDeReferencia():
         for diccionario in corpus_referencia:
             for fila in diccionario.items():
                 print("{0},{1},{2}".format(fila[0], fila[1], obtener_categoria(fila[0])))
+                
+def tablaObjetivo():
+    corpus_objetivo = {
+        "a40": "People. Art & Education",
+        "b27": "Letters to the Editor",
+        "c17": "Reviews",
+        "d09": "Organizing the Local Church",
+        "e36": "Renting a Car in Europe",
+        "f48": "Christian Ethics & the Sit-In",
+        "g75": "A Wreath for Garibaldi",
+        "h30": "Annual Report of Year Ending June 30, 1961",
+        "j80": "Principles of Inertial Navigation",
+        "k29": "The Sheep's in the Meadow",
+        "l24": "The Murders",
+        "m02": "The Lovers",
+        "n29":  "Riding the Dark Train Out",
+        "p20": "Dirty Dig Inn"
+        }
+    
+    print("{0},{1},{2}".format("literal", "nombre del texto", "categoría" ))
+
+    for fila in corpus_objetivo.items():
+               print("{0},{1},{2}".format(fila[0], fila[1], obtener_categoria(fila[0])))
+                
 
 def obtener_categoria(nombre):
         CATEGORIAS = {

@@ -1,4 +1,4 @@
-% Created 2022-03-15 mar 22:25
+% Created 2022-03-16 mié 15:06
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -15,6 +15,7 @@
 \usepackage{capt-of}
 \usepackage{hyperref}
 \input{mytitle}
+\usepackage{longtable}
 \author{Jonatan Ahumada Fernández}
 \date{\today}
 \title{Modelo de literariedad usando redes semánticas y n-gramas}
@@ -31,9 +32,9 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:org7a5708d}
+\label{sec:org54a5c07}
 \subsection{Introducción}
-\label{sec:org97d4404}
+\label{sec:org4215b57}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -56,7 +57,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org0e2d92c}
+\label{sec:org943ae39}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -105,7 +106,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:org3692423}
+\label{sec:org5ebbf67}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico, sea
@@ -143,16 +144,16 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:orgddf9c49}
+\label{sec:org18fed44}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:orgff8bc44}
+\label{sec:org7c6371c}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:org6cecae5}
+\label{sec:orgb24764a}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -182,12 +183,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:org50faacb}
+\label{sec:org2b2d3a6}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orgf67b5dd}
+\label{sec:org4f34457}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}
@@ -199,10 +200,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org4d2f43f}
+\label{sec:org8689214}
 
 \subsection{Literariedad}
-\label{sec:org685f329}
+\label{sec:org79c5e42}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -216,7 +217,7 @@ más básicas de la conducta verbal: \emph{la selección} y \emph{la combinació
 
 
 \subsubsection{Selección (ver linguística sincrónica):}
-\label{sec:orgdb79dd2}
+\label{sec:org5722dd1}
 
 La selección estudia qué palabra selecciona un hablante entre las
 palabras existentes de la lengua, más o menos similares y hasta
@@ -225,7 +226,7 @@ antonimia de una palabra. En otros términos, en su semántica.
 
 
 \subsubsection{Combinación (ver linguística diacrónica):}
-\label{sec:org1b4d39f}
+\label{sec:org90890c1}
 
 La combinación estudia el "entramado de la secuencia" de un
 mensaje. Es decir, el mensaje considerado como una secuencia
@@ -236,7 +237,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:org8dc0ad3}
+\label{sec:orgeabe165}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -247,7 +248,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org8cafb63}
+\label{sec:org73afb94}
 
 La lingüística es la ciencia que estudia el lenguaje.
 Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
@@ -259,7 +260,7 @@ embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
 \subsubsection{Lingüística General:}
-\label{sec:org98b0c06}
+\label{sec:org5df8a4d}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -274,7 +275,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Linguística sincrónica}
-\label{sec:org9e22801}
+\label{sec:org82e52e9}
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -287,7 +288,7 @@ niño, un hablante puede utilizar la las palabras "niño", "chico",
 
 
 \subsubsection{Linguística diacrónica}
-\label{sec:org9382001}
+\label{sec:orgf97bfc3}
 
 La linguística diacrónica estudia los cambios sucesivos en el
 lenguaje, producidos por la actividad constante del \emph{eje
@@ -301,7 +302,7 @@ del tiempo:"(\ldots{}) para decirlo de un modo más técnico: todo
 secuencia es un símil."
 
 \subsection{Lenguaje}
-\label{sec:org9abe390}
+\label{sec:org78d4925}
 En términos simples, el lenguaje es la facultad de formular y
 comprender signos o símbolos, ya sean hablados, escritos,
 imágenes, etc.  En otros términos, el lenguaje es una
@@ -312,7 +313,7 @@ de tal sistema. Estos dos componentes son la \emph{lengua}
 y el \emph{habla}.
 
 \subsubsection{Lengua}
-\label{sec:org23ba670}
+\label{sec:orgf8bfcd8}
 
 La lengua (\emph{langue}) es uno de los dos componentes del
 \emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
@@ -327,7 +328,7 @@ lo que significan las palabras. La contraparte de la lengua,
 es el habla. 
 
 \subsubsection{Habla}
-\label{sec:orgf3c25bf}
+\label{sec:orgeaf6a7b}
 El habla (\emph{parole}) es uno de los dos componentes del
 \emph{lenguaje}. El habla es el uso individual de la lengua.
 Evidentemente, cuando un individuo habla puede modificar
@@ -342,7 +343,7 @@ perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
 
 
 \subsection{Lingüística Computacional}
-\label{sec:orgf236b47}
+\label{sec:org38722e9}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
@@ -355,7 +356,7 @@ heterogéneo, pero en términos de este trabajo, me limitaré a señalar
 una herramienta:
 
 \subsubsection{NLTK}
-\label{sec:orgd4e3b76}
+\label{sec:orga737424}
 
 El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
 una interfaz para tareas comunes en la lingüística computacional. La
@@ -366,7 +367,7 @@ herramientas, tales como: tokenizacion, filtros, generación de
 n-gramas, análisis sintáctico de oraciones, entre otras.
 
 \subsubsection{Corpus}
-\label{sec:orge45a51a}
+\label{sec:org767806b}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -390,7 +391,7 @@ pragmático se utiliza una anotación pragmática, etc.
 \end{figure}
 
 \section{MARCO REFERENCIAL}
-\label{sec:org9e3167b}
+\label{sec:org7cb1777}
 
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
@@ -441,7 +442,7 @@ en conceptos linguísticos, para lo cual recurre en los conceptos
 presentados en el marco teórico. 
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org4ada77a}
+\label{sec:org3e9a256}
 El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
 metodología CRISP-DM, que se considera un estándar \emph{de facto} para
 proyectos de minería de datos. Esta metodología ayudará organizar
@@ -449,7 +450,7 @@ el proceso de mi investigación, que vá desde el acceso a los
 corpus (los datos disponibles) hasta el despliegue (la
 visualización de los resultados).
 \subsection{Entendimiento del negocio}
-\label{sec:org78a8b8e}
+\label{sec:org8dd7c7f}
 
 El resultado tangible del modelo de literariedad propuesto son dos
 métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
@@ -487,19 +488,19 @@ clasificar un texto con base en su metáfora y metonímia,
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org099bea1}
+\label{sec:org05c8295}
 
 En esta sección, se enumeraran las distintas fuentes de datos,
 que en este caso vendrían a ser los diferentes tipos de corpus.
 \subsubsection{¿Qué tipo de corpus se utilizará?}
-\label{sec:org3b124c2}
+\label{sec:orged48967}
 
 
 
 
 
 \subsubsection{El corpus objetivo}
-\label{sec:orgbc7ac96}
+\label{sec:orgfc49edd}
 
 Los corpus objetivo serán los mensajes sobre los cuales se
 computarán las dos medidas de \emph{metáfora} y \emph{metonimia}.
@@ -514,7 +515,7 @@ lo haría comparable con otros estudios que usen
 este mismo corpus.
 
 \subsubsection{La red semántica}
-\label{sec:org4c85d01}
+\label{sec:org0f26de3}
 
 La red semántica es un tipo de corpus particular que no solamente
 consta de palabras anotadas, como el de Brown, sino que vincula
@@ -526,7 +527,7 @@ sínonimos de palabras, que representarán conceptos.
 
 
 \subsubsection{Resumen de entendimiento de los datos}
-\label{sec:org6d8e168}
+\label{sec:org33e4454}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/entendimiento_de_los_datos.png}
@@ -535,15 +536,15 @@ sínonimos de palabras, que representarán conceptos.
 
 
 \subsubsection{Los recursos lexicos}
-\label{sec:org8699899}
+\label{sec:org1d540c0}
 
 
 \begin{enumerate}
 \item Corpus de referencia
-\label{sec:org3621bfa}
+\label{sec:org976d825}
 El corpus de referencia es Wordnet. 
 \item Corpus objetivo
-\label{sec:orge7b6703}
+\label{sec:org46a2f41}
 El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
 \begin{enumerate}
 \item La lengua inglesa tiene una correspondiente red semántica
@@ -553,87 +554,119 @@ El corpus escogido fue el corpus de Brown porque cumplía con las siguientes cri
 \end{enumerate}
 
 \subsubsection{La red semántica y similaridad con Saussure}
-\label{sec:org752a176}
+\label{sec:orgc40ed9b}
 \subsubsection{Por qué utilizo el Brown Corpus}
-\label{sec:orgc005b65}
+\label{sec:org15b0d15}
 \subsection{Preparación de los datos}
-\label{sec:org9246bd7}
+\label{sec:org76d57fc}
 La tarea de preparación de los datos consitirá principalmente
 en seleccionar los distintos tipos de corpus de manera significativa y coherente.
+A continuación, describiré cómo conformaron los corpus y qué criterios utilicé.
 
-    \begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|l|}
+\subsubsection{Corpus de referencia}
+\label{sec:org46aa998}
+
+    \begin{longtable}{| p{.20\textwidth} | p{.40\textwidth} | p{.20\textwidth}|} 
     \hline
-        código de brown & nombre del texto & categoria & ~ \\ \hline
-        a01 & Political Reportage & reportage & ~ \\ \hline
-        a11 & Sports Reportage & reportage & ~ \\ \hline
-        a19 & Spot News & reportage & ~ \\ \hline
-        a26 & Financial Reportage & reportage & ~ \\ \hline
-        a40 & People & Art \& Education & reportage \\ \hline
-        b03 & Editorials & editorial & ~ \\ \hline
-        b08 & Columns & editorial & ~ \\ \hline
-        b15 & Letters to the editor & editorial & ~ \\ \hline
-        b19 & The Voice of the people & editorial & ~ \\ \hline
-        b24 & Reviews & editorial & ~ \\ \hline
-        d15 & Zen:A Rational critique & religion & ~ \\ \hline
-        d11 & War \& the Cristian Conscience & religion & ~ \\ \hline
-        d13 & The New Science \& The New Faith & religion & ~ \\ \hline
-        d04 & The Shape of death & religion & ~ \\ \hline
-        d02 & Christ Without Myth & religion & ~ \\ \hline
-        e05 & The Younger Generation/Use of Common Sense Makes Dogs Acceptable & skills \& hobbies & ~ \\ \hline
-        e06 & The American Boating Scene & skills \& hobbies & ~ \\ \hline
-        e10 & The New Guns of 61 & skills \& hobbies & ~ \\ \hline
-        e19 & How to Own a Pool and Like It & skills \& hobbies & ~ \\ \hline
-        e23 & The Watercolor Art or Roy Mason & skills \& hobbies & ~ \\ \hline
-        f07 & How to Have a Successful Honeymoon/Attitudes Toward Nudity & popular lore & ~ \\ \hline
-        f12 & New Methods of Parapsychology & popular lore & ~ \\ \hline
-        f13 & Part-time Farming & popular lore & ~ \\ \hline
-        f14 & The Trial and Eichmann & popular lore & ~ \\ \hline
-        f33 & Slurs and Suburbs & popular lore & ~ \\ \hline
-        g15 & Themes and Methods: Early Storie of Thomas Mann & belles lettres & ~ \\ \hline
-        g13 & Sex in Contemporary Literature & belles lettres & ~ \\ \hline
-        g18 & Verner von Heidenstam & belles lettres & ~ \\ \hline
-        g26 & Two Modern Incest Heroes & belles lettres & ~ \\ \hline
-        g28 & William Faulkner & Southern Novelist & belles lettres \\ \hline
-        j18 & Linear Algebra & learned & ~ \\ \hline
-        j17 & Prolegomena to a Theory of Emotions & learned & ~ \\ \hline
-        j28 & Perceptual Changes in Psycopathology & learned & ~ \\ \hline
-        j39 & Stock & Wheats and Pharaohs & learned \\ \hline
-        j35 & Semantic Contribution of Lexicostatistics & learned & ~ \\ \hline
-        k18 & Midcentaury & general fiction & ~ \\ \hline
-        k25 & The Prophecy & general fiction & ~ \\ \hline
-        k04 & Worlds of Color & general fiction & ~ \\ \hline
-        k23 & The Tight of the Sea & general fiction & ~ \\ \hline
-        k17 & Mila 8 & general fiction & ~ \\ \hline
-        l05 & Bloodstain & mistery and detective fiction & ~ \\ \hline
-        l11 & The Man Who Looked Death in the Eye & mistery and detective fiction & ~ \\ \hline
-        l04 & Encounter with Evil & mistery and detective fiction & ~ \\ \hline
-        l19 & Make a Killing & mistery and detective fiction & ~ \\ \hline
-        l20 & Death by the Numbers & mistery and detective fiction & ~ \\ \hline
-        m01 & Stranger in a Strange Land & science fiction & ~ \\ \hline
-        m03 & The Star Dwellers & science fiction & ~ \\ \hline
-        m04 & The Planet with no Nightmare & science fiction & ~ \\ \hline
-        m05 & The Ship who Sang & science fiction & ~ \\ \hline
-        m06 & A Planet Named Shayol & science fiction & ~ \\ \hline
-        n01 & The Killer Marshall & adventure and western fiction & ~ \\ \hline
-        n05 & Bitter Valley & adventure and western fiction & ~ \\ \hline
-        n15 & Sweeny Squadron & adventure and western fiction & ~ \\ \hline
-        n20 & The Flooded Deares & adventure and western fiction & ~ \\ \hline
-        n26 & Toughest Lawman in the Old West & adventure and western fiction & ~ \\ \hline
-        p29 & My Hero & romance and love story & ~ \\ \hline
-        p27 & Measure of a Man & romance and love story & ~ \\ \hline
-        p22 & A Husband Stealer from Way Back & romance and love story & ~ \\ \hline
-        p16 & A Secret Between Friends & romance and love story & ~ \\ \hline
-        p12 & A Passion in Rome & romance and love story & ~ \\ \hline
+        cód.  & nombre  & categoria  \\ \hline
+        a01 & Political Reportage & reportage  \\ \hline
+        a11 & Sports Reportage & reportage  \\ \hline
+        a19 & Spot News & reportage  \\ \hline
+        a26 & Financial Reportage & reportage  \\ \hline
+        a40 & People, Art \& Education & reportage \\ \hline
+        b03 & Editorials & editorial  \\ \hline
+        b08 & Columns & editorial  \\ \hline
+        b15 & Letters to the editor & editorial  \\ \hline
+        b19 & The Voice of the people & editorial \\ \hline
+        b24 & Reviews & editorial \\ \hline
+        d15 & Zen:A Rational critique & religion  \\ \hline
+        d11 & War \& the Cristian Conscience & religion  \\ \hline
+        d13 & The New Science \& The New Faith & religion  \\ \hline
+        d04 & The Shape of death & religion  \\ \hline
+        d02 & Christ Without Myth & religion  \\ \hline
+        e05 & The Younger Generation/Use of Common Sense Makes Dogs Acceptable & skills \& hobbies \\ \hline
+        e06 & The American Boating Scene & skills \& hobbies  \\ \hline
+        e10 & The New Guns of 61 & skills \& hobbies  \\ \hline
+        e19 & How to Own a Pool and Like It & skills \& hobbies  \\ \hline
+        e23 & The Watercolor Art or Roy Mason & skills \& hobbies  \\ \hline
+        f07 & How to Have a Successful Honeymoon/Attitudes Toward Nudity & popular lore  \\ \hline
+        f12 & New Methods of Parapsychology & popular lore  \\ \hline
+        f13 & Part-time Farming & popular lore  \\ \hline
+        f14 & The Trial and Eichmann & popular lore  \\ \hline
+        f33 & Slurs and Suburbs & popular lore  \\ \hline
+        g15 & Themes and Methods: Early Storie of Thomas Mann & belles lettres  \\ \hline
+        g13 & Sex in Contemporary Literature & belles lettres  \\ \hline
+        g18 & Verner von Heidenstam & belles lettres  \\ \hline
+        g26 & Two Modern Incest Heroes & belles lettres  \\ \hline
+        g28 & William Faulkner, Southern Novelist & belles lettres \\ \hline
+        j18 & Linear Algebra & learned  \\ \hline
+        j17 & Prolegomena to a Theory of Emotions & learned  \\ \hline
+        j28 & Perceptual Changes in Psycopathology & learned  \\ \hline
+        j39 & Stock, Wheats and Pharaohs & learned \\ \hline
+        j35 & Semantic Contribution of Lexicostatistics & learned  \\ \hline
+        k18 & Midcentaury & general fiction  \\ \hline
+        k25 & The Prophecy & general fiction  \\ \hline
+        k04 & Worlds of Color & general fiction  \\ \hline
+        k23 & The Tight of the Sea & general fiction  \\ \hline
+        k17 & Mila 8 & general fiction  \\ \hline
+        l05 & Bloodstain & mistery and detective fiction  \\ \hline
+        l11 & The Man Who Looked Death in the Eye & mistery and detective fiction  \\ \hline
+        l04 & Encounter with Evil & mistery and detective fiction  \\ \hline
+        l19 & Make a Killing & mistery and detective fiction  \\ \hline
+        l20 & Death by the Numbers & mistery and detective fiction  \\ \hline
+        m01 & Stranger in a Strange Land & science fiction  \\ \hline
+        m03 & The Star Dwellers & science fiction  \\ \hline
+        m04 & The Planet with no Nightmare & science fiction  \\ \hline
+        m05 & The Ship who Sang & science fiction  \\ \hline
+        m06 & A Planet Named Shayol & science fiction  \\ \hline
+        n01 & The Killer Marshall & adventure and western fiction  \\ \hline
+        n05 & Bitter Valley & adventure and western fiction  \\ \hline
+        n15 & Sweeny Squadron & adventure and western fiction  \\ \hline
+        n20 & The Flooded Deares & adventure and western fiction  \\ \hline
+        n26 & Toughest Lawman in the Old West & adventure and western fiction  \\ \hline
+        p29 & My Hero & romance and love story  \\ \hline
+        p27 & Measure of a Man & romance and love story  \\ \hline
+        p22 & A Husband Stealer from Way Back & romance and love story  \\ \hline
+        p16 & A Secret Between Friends & romance and love story  \\ \hline
+        p12 & A Passion in Rome & romance and love story  \\ \hline
+
+  \caption{Corpus de referencia}
+\label{tab:corpus_referencia}
+\end{longtable}
+
+\subsubsection{Corpus objetivo}
+\label{sec:org3d979ef}
+   \begin{table}[!ht]
+    \centering
+  
+    \begin{tabular}{|l|l|l|}
+    \hline
+        cód & nombre & categoría \\ \hline
+        a40 & People. Art \& Education & reportage \\ \hline
+        b27 & Letters to the Editor & editorial \\ \hline
+        c17 & Reviews & reviews \\ \hline
+        d09 & Organizing the Local Church & religion \\ \hline
+        e36 & Renting a Car in Europe & skills \& hobbies \\ \hline
+        f48 & Christian Ethics \& the Sit-In & popular lore \\ \hline
+        g75 & A Wreath for Garibaldi & belles lettres \\ \hline
+        h30 & Annual Report of Year Ending June 30 1961 & miscellaneous \\ \hline
+        j80 & Principles of Inertial Navigation & learned \\ \hline
+        k29 & The Sheep's in the Meadow & general fiction \\ \hline
+        l24 & The Murders & mistery and detective fiction \\ \hline
+        m02 & The Lovers & science fiction \\ \hline
+        n29 & Riding the Dark Train Out & adventure and western fiction \\ \hline
+        p20 & Dirty Dig Inn & romance and love story \\ \hline
     \end{tabular}
+\caption{Corpus objetivo}
+\label{tab:corpus_objetivo}
 \end{table}
+
 \subsection{Modelamiento}
-\label{sec:org4318dbc}
+\label{sec:orgcf1c71b}
 \subsubsection{Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}
-\label{sec:orge5ba4c6}
+\label{sec:orgcbf7109}
 \subsubsection{Generating a test desing}
-\label{sec:org6c84bb5}
+\label{sec:org15e264a}
 
 
 \begin{itemize}
@@ -642,17 +675,17 @@ en seleccionar los distintos tipos de corpus de manera significativa y coherente
 \end{itemize}
 \begin{enumerate}
 \item Sampleo de la muestra
-\label{sec:org1159f5f}
+\label{sec:org49c4ef0}
 \begin{itemize}
 \item qué textos voy a someter a procesamiento
 \item por qué escogí estos textos en particular
 \end{itemize}
 \end{enumerate}
 \subsubsection{Building the models}
-\label{sec:orgbb09477}
+\label{sec:org927e04d}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org59dca13}
+\label{sec:org756e938}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -688,20 +721,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:org4554d35}
+\label{sec:orgb9e70a4}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
 \caption{Procesamiento de corpus objetivo}
 \end{figure}   
 \item Índice Metafórico
-\label{sec:orgd46a8f7}
+\label{sec:orgab28e5d}
 \item Matriz semántica
-\label{sec:org45a1b44}
+\label{sec:orgb285617}
 
 
 \item Matriz de uso
-\label{sec:org2513030}
+\label{sec:org40b76be}
 
 \begin{figure}[htbp]
 \centering
@@ -710,7 +743,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 \item Índice Metonímico
-\label{sec:orge515bb5}
+\label{sec:org4df5305}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
@@ -719,7 +752,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{enumerate}
 
 \subsection{Despliegue (los notebooks?? creo que no hay despliege)}
-\label{sec:org8e6b299}
+\label{sec:org5d55139}
 
 \begin{quote}
 Deployment is the process of using your new insights to make
@@ -735,7 +768,8 @@ information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
 \end{quote}
 
-   \begin{table}[!ht]
+
+       \begin{table}[!ht]
     \centering
     \begin{tabular}{|l|l|l|}
     \hline
@@ -755,18 +789,16 @@ and making marketing decisions.
         adventure and western fiction & 5208.702749914055 & 2560 \\ \hline
         romance and love story & 7068.521208726773 & 2428 \\ \hline
     \end{tabular}
+\caption{Resultado índice metafórico}
+\label{tab:resultado_indice_metaforico}
 \end{table}
 
 
-
-
 \section{CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}
-\label{sec:orgff32e68}
+\label{sec:orge2c499d}
 
 
 
 \bibliographystyle{unsrt}
 \bibliography{biblio} 
-
-bibliography:\textasciitilde{}/biblio/biblio.bib
 \end{document}
