@@ -28,7 +28,48 @@ def recopilarMuestra():
         
         flattened = list(itertools.chain.from_iterable(codigos_brown))
         return flattened
-    
+def tablaDeReferencia():
+        corpus_referencia = [
+            reportaje(),
+            editorial(),
+            religion(),
+            hobbies(),
+            popular(),
+            bellasArtes(),
+            academia(),
+            ficcion(),
+            misterio(),
+            cienciaFiccion(),
+            aventura(),
+            romance(),
+            ]
+        print("{0},{1},{2}".format("literal", "nombre del texto", "categoría" ))
+        for diccionario in corpus_referencia:
+            for fila in diccionario.items():
+                print("{0},{1},{2}".format(fila[0], fila[1], obtener_categoria(fila[0])))
+
+def obtener_categoria(nombre):
+        CATEGORIAS = {
+            "a": "reportage",
+            "b": "editorial",
+            "c": "reviews",
+            "d": "religion",
+            "e": "skills & hobbies",
+            "f": "popular lore",
+            "g": "belles lettres",
+            "h": "miscellaneous",
+            "j": "learned",
+            "k": "general fiction",
+            "l": "mistery and detective fiction",
+            "m": "science fiction",
+            "n": "adventure and western fiction",
+            "p": "romance and love story",
+            "r": "humor"
+            
+            }
+        literal = nombre[0]
+        return CATEGORIAS[literal]
+
 def construirCorpusDeReferencia(keys):
       
        words = [textoDeBrown(key)for key in keys]

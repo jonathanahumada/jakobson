@@ -423,12 +423,9 @@ presentados en el marco teórico.
 
     En esta sección, se enumeraran las distintas fuentes de datos,
     que en este caso vendrían a ser los diferentes tipos de corpus.
-
 **** ¿Qué tipo de corpus se utilizará?
      
     
-
-  
   
 
 
@@ -476,19 +473,76 @@ presentados en el marco teórico.
 ****  La red semántica y similaridad con Saussure
 **** Por qué utilizo el Brown Corpus     
 *** Preparación de los datos
-    
-    #+begin_src
-    Depending on your organization and its goals, data preparation typically involves the following tasks:
+    La tarea de preparación de los datos consitirá principalmente
+    en seleccionar los distintos tipos de corpus de manera significativa y coherente.
 
-    Merging data sets and/or records
-    Selecting a sample subset of data
-    Aggregating records
-    Deriving new attributes
-    Sorting the data for modeling
-    Removing or replacing blank or missing values
-    Splitting into training and test data sets
-
-    #+end_src
+    \begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|}
+    \hline
+        código de brown & nombre del texto & categoria & ~ \\ \hline
+        a01 & Political Reportage & reportage & ~ \\ \hline
+        a11 & Sports Reportage & reportage & ~ \\ \hline
+        a19 & Spot News & reportage & ~ \\ \hline
+        a26 & Financial Reportage & reportage & ~ \\ \hline
+        a40 & People & Art \& Education & reportage \\ \hline
+        b03 & Editorials & editorial & ~ \\ \hline
+        b08 & Columns & editorial & ~ \\ \hline
+        b15 & Letters to the editor & editorial & ~ \\ \hline
+        b19 & The Voice of the people & editorial & ~ \\ \hline
+        b24 & Reviews & editorial & ~ \\ \hline
+        d15 & Zen:A Rational critique & religion & ~ \\ \hline
+        d11 & War \& the Cristian Conscience & religion & ~ \\ \hline
+        d13 & The New Science \& The New Faith & religion & ~ \\ \hline
+        d04 & The Shape of death & religion & ~ \\ \hline
+        d02 & Christ Without Myth & religion & ~ \\ \hline
+        e05 & The Younger Generation/Use of Common Sense Makes Dogs Acceptable & skills \& hobbies & ~ \\ \hline
+        e06 & The American Boating Scene & skills \& hobbies & ~ \\ \hline
+        e10 & The New Guns of 61 & skills \& hobbies & ~ \\ \hline
+        e19 & How to Own a Pool and Like It & skills \& hobbies & ~ \\ \hline
+        e23 & The Watercolor Art or Roy Mason & skills \& hobbies & ~ \\ \hline
+        f07 & How to Have a Successful Honeymoon/Attitudes Toward Nudity & popular lore & ~ \\ \hline
+        f12 & New Methods of Parapsychology & popular lore & ~ \\ \hline
+        f13 & Part-time Farming & popular lore & ~ \\ \hline
+        f14 & The Trial and Eichmann & popular lore & ~ \\ \hline
+        f33 & Slurs and Suburbs & popular lore & ~ \\ \hline
+        g15 & Themes and Methods: Early Storie of Thomas Mann & belles lettres & ~ \\ \hline
+        g13 & Sex in Contemporary Literature & belles lettres & ~ \\ \hline
+        g18 & Verner von Heidenstam & belles lettres & ~ \\ \hline
+        g26 & Two Modern Incest Heroes & belles lettres & ~ \\ \hline
+        g28 & William Faulkner & Southern Novelist & belles lettres \\ \hline
+        j18 & Linear Algebra & learned & ~ \\ \hline
+        j17 & Prolegomena to a Theory of Emotions & learned & ~ \\ \hline
+        j28 & Perceptual Changes in Psycopathology & learned & ~ \\ \hline
+        j39 & Stock & Wheats and Pharaohs & learned \\ \hline
+        j35 & Semantic Contribution of Lexicostatistics & learned & ~ \\ \hline
+        k18 & Midcentaury & general fiction & ~ \\ \hline
+        k25 & The Prophecy & general fiction & ~ \\ \hline
+        k04 & Worlds of Color & general fiction & ~ \\ \hline
+        k23 & The Tight of the Sea & general fiction & ~ \\ \hline
+        k17 & Mila 8 & general fiction & ~ \\ \hline
+        l05 & Bloodstain & mistery and detective fiction & ~ \\ \hline
+        l11 & The Man Who Looked Death in the Eye & mistery and detective fiction & ~ \\ \hline
+        l04 & Encounter with Evil & mistery and detective fiction & ~ \\ \hline
+        l19 & Make a Killing & mistery and detective fiction & ~ \\ \hline
+        l20 & Death by the Numbers & mistery and detective fiction & ~ \\ \hline
+        m01 & Stranger in a Strange Land & science fiction & ~ \\ \hline
+        m03 & The Star Dwellers & science fiction & ~ \\ \hline
+        m04 & The Planet with no Nightmare & science fiction & ~ \\ \hline
+        m05 & The Ship who Sang & science fiction & ~ \\ \hline
+        m06 & A Planet Named Shayol & science fiction & ~ \\ \hline
+        n01 & The Killer Marshall & adventure and western fiction & ~ \\ \hline
+        n05 & Bitter Valley & adventure and western fiction & ~ \\ \hline
+        n15 & Sweeny Squadron & adventure and western fiction & ~ \\ \hline
+        n20 & The Flooded Deares & adventure and western fiction & ~ \\ \hline
+        n26 & Toughest Lawman in the Old West & adventure and western fiction & ~ \\ \hline
+        p29 & My Hero & romance and love story & ~ \\ \hline
+        p27 & Measure of a Man & romance and love story & ~ \\ \hline
+        p22 & A Husband Stealer from Way Back & romance and love story & ~ \\ \hline
+        p16 & A Secret Between Friends & romance and love story & ~ \\ \hline
+        p12 & A Passion in Rome & romance and love story & ~ \\ \hline
+    \end{tabular}
+\end{table}
 *** Modelamiento
 **** Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)
 **** Generating a test desing
@@ -566,6 +620,32 @@ of 30. These results may not be formally integrated into your
 information systems, but they will undoubtedly be useful for planning
 and making marketing decisions.
     #+end_quote
+
+   \begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|}
+    \hline
+        categoria & índice metafórico & w \\ \hline
+        reportage & 7524.541176398631 & 2340 \\ \hline
+        editorial & 7273.001005175399 & 2262 \\ \hline
+        reviews & 7253.977846579716 & 2370 \\ \hline
+        religion & 6454.547716937541 & 2314 \\ \hline
+        skills \& hobbies & 6177.00807941614 & 2232 \\ \hline
+        popular lore & 6369.248078015795 & 2222 \\ \hline
+        belles lettres & 6958.927634792041 & 2288 \\ \hline
+        miscellaneous & 7255.178115968617 & 2214 \\ \hline
+        learned & 4137.726478820393 & 2254 \\ \hline
+        general fiction & 6898.164190465642 & 2264 \\ \hline
+        mistery and detective fiction & 5882.878135583104 & 2446 \\ \hline
+        science fiction & 6763.667294465371 & 2412 \\ \hline
+        adventure and western fiction & 5208.702749914055 & 2560 \\ \hline
+        romance and love story & 7068.521208726773 & 2428 \\ \hline
+    \end{tabular}
+\end{table}
+    
+  
+
+    
 ** CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)
 
 
