@@ -1,22 +1,67 @@
-from jakobson import indice_metaforico, construir_referencia
+from jakobson import indice_metaforico, construir_referencia, recopilarMuestra,construirCorpusDeReferencia, textoDeBrown
+from itertools import chain
 def main():
     import nltk
+ 
+    corpus_objetivo = {
+        "a40": "People. Art & Education",
+        "b27": "Letters to the Editor",
+        "c17": "Reviews",
+        "d09": "Organizing the Local Church",
+        "e36": "Renting a Car in Europe",
+        "f48": "Christian Ethics & the Sit-In",
+        "g75": "A Wreath for Garibaldi",
+        "h30": "Annual Report of Year Ending June 30, 1961",
+        "j80": "Principles of Inertial Navigation",
+        "k29": "The Sheep's in the Meadow",
+        "l24": "The Murders",
+        "m02": "The Lovers",
+        "n29":  "Riding the Dark Train Out",
+        "p20": "Dirty Dig Inn"
+        }
     corpus = nltk.corpus.brown.words("cj22")
+    
 
-    r1 = nltk.corpus.brown.words("cj23")  # J22	Max F. Millikan & Donald L. Blackmer, editors	The Emerging Nations
-    r2 = nltk.corpus.brown.words("cj24")  # J24	Howard J. Parad	Preventive Casework: Problems & Implications
-    r3 = nltk.corpus.brown.words(
-        "cj25")  # J25	Sister Claire M. Sawyer	Some Aspects of Fertility of a Tri-Racial Isolate
-    r4 = nltk.corpus.brown.words("cj26")  # J26	Frank Lorimer	Demographic Information on Tropical Africa
-    r5 = nltk.corpus.brown.words(
-        "cj27")  # J28	William H. Ittelson & Samuel B. Kutash, editors	Perceptual Changes in Psychopathology
-    r6 = nltk.corpus.brown.words("cj28")  # J30	Raymond J. Corsini	Roleplaying in Business & Industry
+    
+    corpus_referencia = construirCorpusDeReferencia(recopilarMuestra())
+    nombres = corpus_objetivo.keys()
+    categorias = [obtener_categoria(nombre) for nombre in nombres]
+    tamanos = [[(len(textoDeBrown(c)))] for c in corpus_objetivo]
+    resultados = []
+    for c in corpus_objetivo.keys():
+        corpus = textoDeBrown(c)
+        resultados.append(indice_metaforico(corpus,corpus_referencia))
+        
 
-    corpus_referencia = construir_referencia([r1,r2,r3,r4,r5,r5])
+    categoriasResultadosYtamanos = list(zip(zip(categorias,resultados),tamanos))
+    imprimirFila = lambda row: print("{0:^30}{1:^30}{2:^10}".format(row[0], row[1], row[2]))
+    
+    imprimirFila(["categoria", "índice metafórico", "w"])
+    for fila in categoriasResultadosYtamanos: imprimirFila(list(chain.from_iterable(fila)))
+                                                           
+    #print( [list(chain.from_iterable(tp)) for tp in categoriasResultadosYtamanos])
 
-    indice = indice_metaforico(corpus, corpus_referencia)
-    print(indice)
-
+def obtener_categoria(nombre):
+    CATEGORIAS = {
+        "a": "reportage",
+        "b": "editorial",
+        "c": "reviews",
+        "d": "religion",
+        "e": "skills & hobbies",
+        "f": "popular lore",
+        "g": "belles lettres",
+        "h": "miscellaneous",
+        "j": "learned",
+        "k": "general fiction",
+        "l": "mistery and detective fiction",
+        "m": "science fiction",
+        "n": "adventure and western fiction",
+        "p": "romance and love story",
+        "r": "humor"
+        
+        }
+    literal = nombre[0]
+    return CATEGORIAS[literal]
 
 if __name__ == "__main__":
     # execute only if run as a script
