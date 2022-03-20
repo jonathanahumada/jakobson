@@ -146,7 +146,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
      
 ** OBJETIVOS ESPECÍFICOS
    
-1) Construir el corpus necesario para representar el /eje sincrónico/
+1) Construir el corpus necesario para representar el /eje diacrónico/
 2) Diseñar e implementar el algoritmo para calcular la /metáfora/ sobre un corpus
 3) Diseñar e implementar algoritmo para calcular la /metonimia/ sobre un corpus
 4) Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo 
@@ -382,6 +382,7 @@ presentados en el marco teórico.
    el proceso de mi investigación, que vá desde el acceso a los corpus
    (los datos disponibles) hasta el despliegue (la visualización de
    los resultados).
+   
 *** Entendimiento del negocio
    
     El resultado tangible del modelo de literariedad propuesto son dos
@@ -428,26 +429,35 @@ presentados en el marco teórico.
 
     En esta sección, se enumeraran las distintas fuentes de datos,
     que en este caso vendrían a ser los diferentes tipos de corpus.
-**** ¿Qué tipo de corpus se utilizará?
+
      
-    
-  
+**** El corpus de referencia
+
+     El corpus de referencia es un compendio de muestras
+     que terminará por representar un consenso sobre
+     el uso de la /lengua/. Su correlación teórica
+     es el eje de diacronía y cumple la función de
+     cristalizar una lengua en un lugar y un tiempo establecido.
+     A nivel de implementación, se trata de un cadena muy larga
+     compuesto de muestras seleccionadas según criterios aptos
+     (ver sección sobre preparación de los datos).
+
+
 
 
 **** El corpus objetivo
 
-     Los corpus objetivo serán los mensajes sobre los cuales se
+     El corpus objetivo serán los mensajes sobre los cuales se
      computarán las dos medidas de /metáfora/ y /metonimia/.
-
-     Como la tarea de construcción de un corpus propio se sale
-     del alcance de esta investigación, se optó por utilizar
-     textos del corpus de Brown, al ser este un estándar
-     para procesamiento de lenguaje natural. La ventaja
-     de utilizar este corpus es que muchos otros análisis
-     también lo utilizan para distintos fines, lo que
-     lo haría comparable con otros estudios que usen
-     este mismo corpus.
-
+     Su correlativo teórico es el /habla/ y son los
+     textos que el usuario final del final del sistema desea
+     someter a análisis. A nivel de implementación, cada mensaje
+     es una cadena (que corresponde a un documento real), pero
+     en su totalidad el corpus objetivo es mucho más pequeño
+     que el corpus de referencia, del mismo modo en que una
+     persona que profiere una oración utiliza un subconjunto
+     mucho más pequeño de la lengua a la que pertenece.  
+     
 **** La red semántica
 
      La red semántica es un tipo de corpus particular que no solamente
@@ -456,27 +466,17 @@ presentados en el marco teórico.
      red semántica correspondería a la facultad de asociar conceptos
      con las "imágenes acústicas" (las palabras) de Saussure. En esta
      investigación, la red semántica se utilizará para obtener
-     sínonimos de palabras, que representarán conceptos.
+     sínonimos de palabras, que representarán conceptos. Tal red
+     no será implementada, sino que será un servicio utilizado por
+     el algoritmo. 
+     
    
 
 **** Resumen de entendimiento de los datos
 #+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
 [[./assets/entendimiento_de_los_datos.png]]
 
-     
-**** Los recursos lexicos
-
-
-***** Corpus de referencia
-      El corpus de referencia es Wordnet. 
-***** Corpus objetivo
-     El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
-     1) La lengua inglesa tiene una correspondiente red semántica
-     2) Esta categorizado, por lo que se espera observar diferencias significativas en el resultado de su procesamiento
-     3) Es fácilmente accesible a través de Python 
-	
-****  La red semántica y similaridad con Saussure
-**** Por qué utilizo el Brown Corpus     
+      
 *** Preparación de los datos
     La tarea de preparación de los datos consitirá principalmente en
     seleccionar los distintos tipos de corpus de manera significativa
@@ -608,7 +608,13 @@ presentados en el marco teórico.
 
     Por estos motivos, se optó por tomar tomar muestras del mismo corpus de Brown.
     La diferencia radica en que cada categoría solo tiene una muestra y la muestra
-    seleccionada para la categoría está ausente en el corpus objetivo.
+    seleccionada para la categoría está ausente en el corpus objetivo. Así,
+    el corpus objetivo presenta las siguientes características:
+
+    - es una muestra 'miniatura' del corpus de Brown
+    - la relación de tamaño entre el corpus objetivo y el corpus de Brown es de 1:5
+    - Cada categoría en el cropus objetivo tiene su correlativo en el de referencia y viceversa
+    - el tamaño de cada muestra es de cerca de 2000 palabras
 
     A continuación, se presenta un resumen del corpus objetivo:
 
@@ -638,7 +644,9 @@ presentados en el marco teórico.
 \caption{Corpus objetivo}
 \label{tab:corpus_objetivo}
 \end{table}
-    
+
+
+
 *** Modelamiento
 **** Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)
 **** Generating a test desing

@@ -1,4 +1,4 @@
-% Created 2022-03-16 mié 15:06
+% Created 2022-03-16 mié 16:38
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -32,9 +32,9 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:org54a5c07}
+\label{sec:org01f0d0b}
 \subsection{Introducción}
-\label{sec:org4215b57}
+\label{sec:org4f946a0}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -57,7 +57,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org943ae39}
+\label{sec:org67015f4}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -106,7 +106,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:org5ebbf67}
+\label{sec:org0db74a3}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico, sea
@@ -144,16 +144,16 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:org18fed44}
+\label{sec:orgda4a2d9}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:org7c6371c}
+\label{sec:org4729a87}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:orgb24764a}
+\label{sec:org1aa04bf}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -183,12 +183,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:org2b2d3a6}
+\label{sec:org614e79a}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:org4f34457}
+\label{sec:orge697f8e}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}
@@ -200,10 +200,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org8689214}
+\label{sec:orge9a9e9d}
 
 \subsection{Literariedad}
-\label{sec:org79c5e42}
+\label{sec:org3fd6b2c}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -217,7 +217,7 @@ más básicas de la conducta verbal: \emph{la selección} y \emph{la combinació
 
 
 \subsubsection{Selección (ver linguística sincrónica):}
-\label{sec:org5722dd1}
+\label{sec:orgb1c13b5}
 
 La selección estudia qué palabra selecciona un hablante entre las
 palabras existentes de la lengua, más o menos similares y hasta
@@ -226,7 +226,7 @@ antonimia de una palabra. En otros términos, en su semántica.
 
 
 \subsubsection{Combinación (ver linguística diacrónica):}
-\label{sec:org90890c1}
+\label{sec:org4e7fa1c}
 
 La combinación estudia el "entramado de la secuencia" de un
 mensaje. Es decir, el mensaje considerado como una secuencia
@@ -237,7 +237,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:orgeabe165}
+\label{sec:org2213808}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -248,7 +248,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org73afb94}
+\label{sec:orgf5c62cc}
 
 La lingüística es la ciencia que estudia el lenguaje.
 Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
@@ -260,7 +260,7 @@ embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
 \subsubsection{Lingüística General:}
-\label{sec:org5df8a4d}
+\label{sec:org1062b3f}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -275,7 +275,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Linguística sincrónica}
-\label{sec:org82e52e9}
+\label{sec:org08e2875}
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -288,7 +288,7 @@ niño, un hablante puede utilizar la las palabras "niño", "chico",
 
 
 \subsubsection{Linguística diacrónica}
-\label{sec:orgf97bfc3}
+\label{sec:org492bea8}
 
 La linguística diacrónica estudia los cambios sucesivos en el
 lenguaje, producidos por la actividad constante del \emph{eje
@@ -302,18 +302,17 @@ del tiempo:"(\ldots{}) para decirlo de un modo más técnico: todo
 secuencia es un símil."
 
 \subsection{Lenguaje}
-\label{sec:org78d4925}
+\label{sec:org80b318d}
 En términos simples, el lenguaje es la facultad de formular y
 comprender signos o símbolos, ya sean hablados, escritos,
-imágenes, etc.  En otros términos, el lenguaje es una
-capacidad general. Sin embargo, para Saussure, la lengua
-tiene una característica doble: que es al mismo
-tiempo un sistema establecido y la constante evolución
-de tal sistema. Estos dos componentes son la \emph{lengua}
-y el \emph{habla}.
+imágenes, etc.  En otros términos, el lenguaje es una capacidad
+general. Sin embargo, para Saussure, la lengua tiene una
+característica doble: que es al mismo tiempo un sistema
+establecido y la constante evolución de tal sistema. Estos dos
+componentes son la \emph{lengua} y el \emph{habla}.
 
 \subsubsection{Lengua}
-\label{sec:orgf8bfcd8}
+\label{sec:org87ecb6a}
 
 La lengua (\emph{langue}) es uno de los dos componentes del
 \emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
@@ -328,7 +327,7 @@ lo que significan las palabras. La contraparte de la lengua,
 es el habla. 
 
 \subsubsection{Habla}
-\label{sec:orgeaf6a7b}
+\label{sec:org9290106}
 El habla (\emph{parole}) es uno de los dos componentes del
 \emph{lenguaje}. El habla es el uso individual de la lengua.
 Evidentemente, cuando un individuo habla puede modificar
@@ -343,7 +342,7 @@ perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
 
 
 \subsection{Lingüística Computacional}
-\label{sec:org38722e9}
+\label{sec:orgf6a046f}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
@@ -356,18 +355,18 @@ heterogéneo, pero en términos de este trabajo, me limitaré a señalar
 una herramienta:
 
 \subsubsection{NLTK}
-\label{sec:orga737424}
+\label{sec:orgb395899}
 
-El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
-una interfaz para tareas comunes en la lingüística computacional. La
-ventaja principal de NLTK es que se considera a sí mismo un
-\emph{toolkit}. Esto significa que no impone una estructura de
-procesamiento definida a la vez que ofrece un extenso abanico de
+El Natural Language Toolkit (NLTK) es un módulo de Python que
+ofrece una interfaz para tareas comunes en la lingüística
+computacional. La ventaja principal de NLTK es que se considera a
+sí mismo un \emph{toolkit}. Esto significa que no impone una estructura
+de procesamiento definida a la vez que ofrece un extenso abanico de
 herramientas, tales como: tokenizacion, filtros, generación de
 n-gramas, análisis sintáctico de oraciones, entre otras.
 
 \subsubsection{Corpus}
-\label{sec:org767806b}
+\label{sec:org6a2edd7}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -391,7 +390,7 @@ pragmático se utiliza una anotación pragmática, etc.
 \end{figure}
 
 \section{MARCO REFERENCIAL}
-\label{sec:org7cb1777}
+\label{sec:orgd9ac7b1}
 
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
@@ -435,22 +434,22 @@ lo tanto debía formar parte de mi revisión bibliográfica. Kaplan
 formuló un modelo que media 84 métricas distintas para cada documento,
 luego transformó el modelo de 84 métricas para visualizarlo en un
 espacio 3D y poder comparar distintas obras literarias. Esto inspiró
-mi idea inicial de obtener una métrica más general para analizar
-un texto, que no tenga que recurrir un trabajo de compilación de métricas
+mi idea inicial de obtener una métrica más general para analizar un
+texto, que no tenga que recurrir un trabajo de compilación de métricas
 existentes, como lo hizo Kaplan. Tal métrica debería estar sustentada
 en conceptos linguísticos, para lo cual recurre en los conceptos
-presentados en el marco teórico. 
+presentados en el marco teórico.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org3e9a256}
+\label{sec:orgcf59db2}
 El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
 metodología CRISP-DM, que se considera un estándar \emph{de facto} para
 proyectos de minería de datos. Esta metodología ayudará organizar
-el proceso de mi investigación, que vá desde el acceso a los
-corpus (los datos disponibles) hasta el despliegue (la
-visualización de los resultados).
+el proceso de mi investigación, que vá desde el acceso a los corpus
+(los datos disponibles) hasta el despliegue (la visualización de
+los resultados).
 \subsection{Entendimiento del negocio}
-\label{sec:org8dd7c7f}
+\label{sec:orgf199c74}
 
 El resultado tangible del modelo de literariedad propuesto son dos
 métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
@@ -464,43 +463,48 @@ cualitativo de \emph{literariedad}.
 \end{figure}
 
 
-¿Cuál sería el beneficio de obtener este resultado? Se podría comparar
-las métricas de n mensajes cualesquiera y tener una medida objetiva
-con las  cuales compararlas. Algunos casos de uso posible serían:
+¿Cuál sería el beneficio de obtener este resultado? Se podría
+comparar las métricas de n mensajes cualesquiera y tener una
+medida objetiva con las cuales compararlas. Algunos casos de uso
+posible serían:
 
 \begin{itemize}
-\item determinar si un mensaje que yo he escrito es más metáforico o metonímico que otro.
+\item determinar si un mensaje que yo he escrito es más metáforico o
+metonímico que otro.
 
-\item determinar si un mensajes de una misma categoria (por ejemplo, del mismo autor, o del mismo género)
-tienen medidas de métadora y metonímia similares.
+\item determinar si un mensajes de una misma categoria (por ejemplo,
+del mismo autor, o del mismo género) tienen medidas de métadora
+y metonímia similares.
 
-\item correr grandes grupos de mensajes, por ejemplo, 'poemas de la escuela simbolistas' y compararlo
-con 'poemas realistas' y verificar si hay o no una diferencia sustancial desde el punto de
-vista linguístico .
+\item correr grandes grupos de mensajes, por ejemplo, 'poemas de la
+escuela simbolistas' y compararlo con 'poemas realistas' y
+verificar si hay o no una diferencia sustancial desde el punto
+de vista linguístico .
 \end{itemize}
 
-Como se puede apreciar (ref:fig:posibles\textsubscript{usos}), las aplicaciones del modelo en principio
-supondrían un factor adicional para ser considerado para el
-estudio literario, cuya naturaleza es cualitativa. Sin embargo, si
-el modelo demuestra ser efectivo, podría llegar a ser una medida
-de similitud para un texto, lo que implicaría que se podría
-clasificar un texto con base en su metáfora y metonímia, 
+Como se puede apreciar (ref:fig:posibles\textsubscript{usos}), las aplicaciones
+del modelo en principio supondrían un factor adicional para ser
+considerado para el estudio literario, cuya naturaleza es
+cualitativa. Sin embargo, si el modelo demuestra ser efectivo,
+podría llegar a ser una medida de similitud para un texto, lo que
+implicaría que se podría clasificar un texto con base en su
+metáfora y metonímia,
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org05c8295}
+\label{sec:org685bd68}
 
 En esta sección, se enumeraran las distintas fuentes de datos,
 que en este caso vendrían a ser los diferentes tipos de corpus.
 \subsubsection{¿Qué tipo de corpus se utilizará?}
-\label{sec:orged48967}
+\label{sec:orgeb249a1}
 
 
 
 
 
 \subsubsection{El corpus objetivo}
-\label{sec:orgfc49edd}
+\label{sec:org7b6b89e}
 
 Los corpus objetivo serán los mensajes sobre los cuales se
 computarán las dos medidas de \emph{metáfora} y \emph{metonimia}.
@@ -515,7 +519,7 @@ lo haría comparable con otros estudios que usen
 este mismo corpus.
 
 \subsubsection{La red semántica}
-\label{sec:org0f26de3}
+\label{sec:org1cd97e3}
 
 La red semántica es un tipo de corpus particular que no solamente
 consta de palabras anotadas, como el de Brown, sino que vincula
@@ -527,7 +531,7 @@ sínonimos de palabras, que representarán conceptos.
 
 
 \subsubsection{Resumen de entendimiento de los datos}
-\label{sec:org33e4454}
+\label{sec:org7fe7fbc}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/entendimiento_de_los_datos.png}
@@ -536,15 +540,15 @@ sínonimos de palabras, que representarán conceptos.
 
 
 \subsubsection{Los recursos lexicos}
-\label{sec:org1d540c0}
+\label{sec:org0a69706}
 
 
 \begin{enumerate}
 \item Corpus de referencia
-\label{sec:org976d825}
+\label{sec:orgfe9e1fe}
 El corpus de referencia es Wordnet. 
 \item Corpus objetivo
-\label{sec:org46a2f41}
+\label{sec:orgd83f879}
 El corpus escogido fue el corpus de Brown porque cumplía con las siguientes criterios:
 \begin{enumerate}
 \item La lengua inglesa tiene una correspondiente red semántica
@@ -554,17 +558,58 @@ El corpus escogido fue el corpus de Brown porque cumplía con las siguientes cri
 \end{enumerate}
 
 \subsubsection{La red semántica y similaridad con Saussure}
-\label{sec:orgc40ed9b}
+\label{sec:orgecd4ef8}
 \subsubsection{Por qué utilizo el Brown Corpus}
-\label{sec:org15b0d15}
+\label{sec:orge00fb64}
 \subsection{Preparación de los datos}
-\label{sec:org76d57fc}
-La tarea de preparación de los datos consitirá principalmente
-en seleccionar los distintos tipos de corpus de manera significativa y coherente.
-A continuación, describiré cómo conformaron los corpus y qué criterios utilicé.
+\label{sec:org5feedc7}
+La tarea de preparación de los datos consitirá principalmente en
+seleccionar los distintos tipos de corpus de manera significativa
+y coherente.  A continuación, describiré cómo se conformaron los
+corpus y qué criterios se utilizaron.
 
 \subsubsection{Corpus de referencia}
-\label{sec:org46aa998}
+\label{sec:org74b235a}
+El corpus de referencia representa la \emph{lengua} (\emph{langue}). Por lo
+tanto debe estar compuesto de una muestra de textos
+comparativamente mucho más grande los mensajes individuales que
+serán contrastados con este. ¿Cómo construir un corpus tal?
+
+En primer lugar, se descartó la idea de modelar la \emph{lengua} en su
+totalidad, pues como lo indica la teoría linguística, esta tarea
+es imposible puesto que esta se encuentra en constante
+cambio. Así, el primer criterio para construcción del corpus fue
+restringirlo diacrónicamente al espacio de un año y a un idioma
+específico.
+
+El siguiente criterio fue armar un corpus \emph{balanceado}. Es decir,
+el corpus de referencia no puede estar compuesto de muestras de
+un mismo tipo (un estilo, un género, un autor), porque esto
+sesgaría la comparación de el corpus objetivo con respecto a
+este. Así, se optó por partir de un corpus \emph{categorizado} y tomar
+partes iguales de cada una de las categorias. Esto es, cada
+categoría tiene igual peso en cuanto a número de textos y
+palabras que lo representan.
+
+El tercer criterio fue utilizar un corpus fácilmente accesible,
+de origen libre y avalado por la comunidad científica. Por todos
+los motivos anteriores, se escogió el corpus de Brown, que
+presenta las siguientes características:
+
+\begin{itemize}
+\item todas las muestras del corpus pertenecen al año 1961
+\item todas las muestras del corpus se imprimieron en Estados Unidos durante ese año
+\item todos los autores son hablantes nativos de inglés
+\item la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown
+\item la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año
+\item tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías
+\item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido
+\end{itemize}
+
+A continuación, se presenta la tabla que constituye lo que se
+utilizará como corpus de referencia.
+
+
 
     \begin{longtable}{| p{.20\textwidth} | p{.40\textwidth} | p{.20\textwidth}|} 
     \hline
@@ -635,7 +680,29 @@ A continuación, describiré cómo conformaron los corpus y qué criterios utili
 \end{longtable}
 
 \subsubsection{Corpus objetivo}
-\label{sec:org3d979ef}
+\label{sec:org02b4769}
+En contrapartida al corpus de referencia, el corpus objetivo representa el
+\emph{habla} (\emph{parole}). Así, estos son considerados mensajes que serán interpretados
+por el receptor con relación al consenso de la lengua compartida entre emisor y
+receptor.
+
+El primer criterio para construir el corpus de referencia es que este tenga
+una delimitacion diacrónica igual a la de el corpus objetivo. El segundo
+criterio, que las categorías fueran comparables a las categorias establecidas
+del corpus de referencia.
+
+El tercer criterio es que cada muestra del corpus del corpus objetivo
+tuviera un tamaño similar entre sí, para descartar que diferencias
+en la longitud del mensaje afectaran sustancialmente los resultados del algoritmo
+
+Por estos motivos, se optó por tomar tomar muestras del mismo corpus de Brown.
+La diferencia radica en que cada categoría solo tiene una muestra y la muestra
+seleccionada para la categoría está ausente en el corpus objetivo.
+
+A continuación, se presenta un resumen del corpus objetivo:
+
+
+
    \begin{table}[!ht]
     \centering
   
@@ -662,11 +729,11 @@ A continuación, describiré cómo conformaron los corpus y qué criterios utili
 \end{table}
 
 \subsection{Modelamiento}
-\label{sec:orgcf1c71b}
+\label{sec:org1ec0ee5}
 \subsubsection{Selecting a modeling technique (no tengo, estoy traduciendo un modelo cualitativo --investigacion mixta--)}
-\label{sec:orgcbf7109}
+\label{sec:org71c04ab}
 \subsubsection{Generating a test desing}
-\label{sec:org15e264a}
+\label{sec:orgda8db86}
 
 
 \begin{itemize}
@@ -675,17 +742,17 @@ A continuación, describiré cómo conformaron los corpus y qué criterios utili
 \end{itemize}
 \begin{enumerate}
 \item Sampleo de la muestra
-\label{sec:org49c4ef0}
+\label{sec:org068768d}
 \begin{itemize}
 \item qué textos voy a someter a procesamiento
 \item por qué escogí estos textos en particular
 \end{itemize}
 \end{enumerate}
 \subsubsection{Building the models}
-\label{sec:org927e04d}
+\label{sec:org949b3d1}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org756e938}
+\label{sec:orgd602013}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -721,20 +788,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:orgb9e70a4}
+\label{sec:org534084f}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
 \caption{Procesamiento de corpus objetivo}
 \end{figure}   
 \item Índice Metafórico
-\label{sec:orgab28e5d}
+\label{sec:org51564e0}
 \item Matriz semántica
-\label{sec:orgb285617}
+\label{sec:orged53cb8}
 
 
 \item Matriz de uso
-\label{sec:org40b76be}
+\label{sec:orgde2613c}
 
 \begin{figure}[htbp]
 \centering
@@ -743,7 +810,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 \item Índice Metonímico
-\label{sec:org4df5305}
+\label{sec:org3aac611}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
@@ -752,7 +819,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{enumerate}
 
 \subsection{Despliegue (los notebooks?? creo que no hay despliege)}
-\label{sec:org5d55139}
+\label{sec:org11bddaf}
 
 \begin{quote}
 Deployment is the process of using your new insights to make
@@ -795,7 +862,7 @@ and making marketing decisions.
 
 
 \section{CONCLUSIONES (Creo que esto se solapa con lo que crisp-dm llama despliege)}
-\label{sec:orge2c499d}
+\label{sec:orga32858b}
 
 
 
