@@ -1,4 +1,4 @@
-from jakobson import indice_metaforico, construir_referencia, recopilarMuestra,construirCorpusDeReferencia, textoDeBrown
+from jakobson import indice_metaforico, construir_referencia, recopilarMuestra,construirCorpusDeReferencia, textoDeBrown, indice_metonimico
 from itertools import chain
 def main():
     import nltk
@@ -30,9 +30,13 @@ def main():
     categorias = [obtener_categoria(nombre) for nombre in nombres]
     tamanos = [[(len(textoDeBrown(c)))] for c in corpus_objetivo]
     resultados = []
+    metonimia = []
     for c in corpus_objetivo.keys():
         corpus = textoDeBrown(c)
         resultados.append(indice_metaforico(corpus,corpus_referencia))
+    
+        metonimia.append(indice_metonimico(list(chain(corpus)), corpus_objetivo[c]))
+        
         
 
     categoriasResultadosYtamanos = list(zip(zip(categorias,resultados),tamanos))
@@ -40,6 +44,12 @@ def main():
     
     imprimirFila(["categoria", "índice metafórico", "w"])
     for fila in categoriasResultadosYtamanos: imprimirFila(list(chain.from_iterable(fila)))
+    
+    categoriasResultadosYtamanosMet = list(zip(zip(categorias,metonimia),tamanos))
+    imprimirFila(["categoria", "índice metonimico", "w"])
+    for fila in categoriasResultadosYtamanosMet: imprimirFila(list(chain.from_iterable(fila)))
+    
+    
                                                            
     #print( [list(chain.from_iterable(tp)) for tp in categoriasResultadosYtamanos])
 
