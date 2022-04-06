@@ -238,7 +238,7 @@ def indice_metaforico(corpora, corpora_ref, nom_recurso="no_especificó"):
 
         prom = prom_vector_uso(vector_de_uso, w)
 
-        taza = prom /f_d[w]  # por qué hago esto? para obtener una nocion de la frecuencia de la falabra con relacion al promedio de frecuencias
+        taza = f_d[w] / prom  # por qué hago esto? para obtener una nocion de la frecuencia de la falabra con relacion al promedio de frecuencias
 
         if taza < 0:
             taza = 0
