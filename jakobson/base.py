@@ -221,11 +221,9 @@ def indice_metaforico(corpora, corpora_ref, nom_recurso="no_especificó"):
     f_d = FreqDist(corpora)
     f_d_ref= FreqDist(corpora_ref)
 
-    f_m = freq_media(f_d_ref)
-
-    # calculo matris de semantica
+    # calculo matriz de semantica
     mat_semantica = matriz_semantica(corpora)
-    # calculo la matriz de uso
+    # calculo la matriz de uso , recibe corpora de referencia
     mat_uso = matriz_uso(mat_semantica, f_d_ref)
     # guardo las matrices
     output.guardar_csv(output.output_csv("matriz_semantica_"+ nom_recurso), mat_semantica, ("w", "vector_semantico"),recurso=nom_recurso)
@@ -235,13 +233,12 @@ def indice_metaforico(corpora, corpora_ref, nom_recurso="no_especificó"):
     valores_indice = []
     referencia_metaforica = {}
     for w, vec_uso in mat_uso.items():
-        uso_ = uso(w,f_d, f_m)
+
         vector_de_uso = mat_uso[w]
 
         prom = prom_vector_uso(vector_de_uso, w)
 
-        taza = taza_metaforica(numerador=f_m, denominador=uso_)
-        taza = prom / f_d[w]
+        taza = prom /f_d[w]  # por qué hago esto? para obtener una nocion de la frecuencia de la falabra con relacion al promedio de frecuencias
 
         if taza < 0:
             taza = 0
