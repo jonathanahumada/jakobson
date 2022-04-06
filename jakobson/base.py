@@ -208,7 +208,7 @@ def media_de_frecuencias(tabla_de_frecuencias):
 
 
 
-def indice_metaforico(corpora, corpora_ref):
+def indice_metaforico(corpora, corpora_ref, nom_recurso="no_especificó"):
     """
 
     :param corpora:
@@ -228,8 +228,8 @@ def indice_metaforico(corpora, corpora_ref):
     # calculo la matriz de uso
     mat_uso = matriz_uso(mat_semantica, f_d_ref)
     # guardo las matrices
-    output.guardar_csv(output.output_csv("matriz_semantica"), mat_semantica, ("w", "vector_semantico"))
-    output.guardar_csv(output.output_csv("matriz_uso"), mat_uso, ("w", "vector_uso"))
+    output.guardar_csv(output.output_csv("matriz_semantica_"+ nom_recurso), mat_semantica, ("w", "vector_semantico"),recurso=nom_recurso)
+    output.guardar_csv(output.output_csv("matriz_uso"+ nom_recurso), mat_uso, ("w", "vector_uso"), recurso=nom_recurso)
 
 
     valores_indice = []
@@ -259,7 +259,7 @@ def indice_metaforico(corpora, corpora_ref):
     log.info("Termina recorrido por palabra para indice metaforico")
     artefactos.info("Inicia red. metaforica")
     artefactos.info(pformat(referencia_metaforica,indent=4))
-    output.guardar_csv( output.output_csv("referencia_metaforica"), referencia_metaforica, ('w','taza'))
+    output.guardar_csv( output.output_csv("referencia_metaforica_"+ nom_recurso), referencia_metaforica, ('w','taza'),recurso=nom_recurso)
     artefactos.info("Termina ref. metafórica")
     log.info("sumando valores del indice")
     return sum(valores_indice)

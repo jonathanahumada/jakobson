@@ -33,7 +33,7 @@ def main():
     metonimia = []
     for c in corpus_objetivo.keys():
         corpus = textoDeBrown(c)
-        resultados.append(indice_metaforico(corpus,corpus_referencia))
+        resultados.append(indice_metaforico(corpus,corpus_referencia,nom_recurso=corpus_objetivo[c]))
     
         metonimia.append(indice_metonimico(list(chain(corpus)), corpus_objetivo[c]))
         
