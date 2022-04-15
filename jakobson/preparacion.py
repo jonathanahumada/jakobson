@@ -111,6 +111,8 @@ def reportaje():
                "a19": "Spot News",
                "a26": "Financial Reportage",
                "a40": "People, Art & Education"}
+    
+ 
     return muestra
 
 def editorial():
@@ -191,9 +193,9 @@ def ficcion():
 
 
 def misterio():
-        muestra = {"l05": "Bloodstain",
+        muestra = {"l05": "The Careless Corpse",
                    "l11": "The Man Who Looked Death in the Eye",
-                   "l04":"Encounter with Evil",
+                   "l04":"Bloodstain",
                    "l19": "Make a Killing",
                    "l20": "Death by the Numbers"}
         return muestra
