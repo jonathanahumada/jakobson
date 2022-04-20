@@ -42,54 +42,54 @@ c2 = {
         }
   
 c3 =     {
-"A03" : "Chicago Daily Tribune",
-"B02" : "The Christian Science Monitor",
-"C02" : "The Christian Science Monitor",
-"D03" : "Christian Unity in England",
-"E03" : "Will Aircraft or Missiles Win Wars?",
-"F02" : "America's Secret Poison Gas Tragedy",
-"G02" : "Toward a Concept of National Responsibility",
-"H02" : "An Act for International Development, A Summary Presentation",
-"J02" : "Proceedings of the 1961 Heat",
-"K02" : "The Ikon",
-"L03" : "Encounter with Evil",
-"M03" : "The Star Dwellers",
-"N03" : "Trail of the Tattered Star",
-"P02" : "Seize a Nettle"
+"a03" : "Chicago Daily Tribune",
+"b02" : "The Christian Science Monitor",
+"c02" : "The Christian Science Monitor",
+"d03" : "Christian Unity in England",
+"e03" : "Will Aircraft or Missiles Win Wars?",
+"f02" : "America's Secret Poison Gas Tragedy",
+"g02" : "Toward a Concept of National Responsibility",
+"h02" : "An Act for International Development, A Summary Presentation",
+"j02" : "Proceedings of the 1961 Heat",
+"k02" : "The Ikon",
+"l03" : "Encounter with Evil",
+"m03" : "The Star Dwellers",
+"n03" : "Trail of the Tattered Star",
+"p02" : "Seize a Nettle"
 }
   
   
 c4 = {
-"A04": "The Christian Science Monitor",
-"B04": "The Miami Herald, September",
-"C03": "The New York Times",
-"D05": "Theodore Parker: Apostasy within Liberalism",
-"E04": "High Fidelity",
-"F03": "I've Been Here before!",
-"G03": "The Chances of Accidental War",
-"H03": "87th Congress, 1st Session. House Document No. 247. The",
-"J03": "The Normal Forces and Their Thermodynamic Significance",
-"K03": "Tristram Coffin, Not to the Swift",
-"L06": "Hunter at Large",
-"M04": "The Planet with No Nightmare",
-"N04": "The Shadow Catcher",
-"P03": "The Fairbrothers"
+"a04": "The Christian Science Monitor",
+"b04": "The Miami Herald, September",
+"c03": "The New York Times",
+"d05": "Theodore Parker: Apostasy within Liberalism",
+"e04": "High Fidelity",
+"f03": "I've Been Here before!",
+"g03": "The Chances of Accidental War",
+"h03": "87th Congress, 1st Session. House Document No. 247. The",
+"j03": "The Normal Forces and Their Thermodynamic Significance",
+"k03": "Tristram Coffin, Not to the Swift",
+"l06": "Hunter at Large",
+"m04": "The Planet with No Nightmare",
+"n04": "The Shadow Catcher",
+"p03": "The Fairbrothers"
 }
 
 
 c5 = {
-"A05": "The Providence Journal",
-"B05": "Newark Evening News",
-"C04": "The Providence Journal",
-"D06": "Tracts published by American Tract Society",
-"E07": "How to design your Interlocking Frame",
-"F04": "North Country School Cares for the Whole Child",
-"G04": "The Invisible Aborigine",
-"H04": "Rhode Island Legislative Council. Research Report Number 1",
-"J04": "Proton magnetic resonance study",
-"K05": "The Judges of the Secret Court",
-"L07": "Deadlier Than the Male.",
-"M05": "The Ship Who Sang",
-"N06": "Here Comes Pete Now.",
-"P04": "The Moon and the Thorn."
+"a05": "The Providence Journal",
+"b05": "Newark Evening News",
+"c04": "The Providence Journal",
+"d06": "Tracts published by American Tract Society",
+"e07": "How to design your Interlocking Frame",
+"f04": "North Country School Cares for the Whole Child",
+"g04": "The Invisible Aborigine",
+"h04": "Rhode Island Legislative Council. Research Report Number 1",
+"j04": "Proton magnetic resonance study",
+"k05": "The Judges of the Secret Court",
+"l07": "Deadlier Than the Male.",
+"m05": "The Ship Who Sang",
+"n06": "Here Comes Pete Now.",
+"p04": "The Moon and the Thorn."
 }

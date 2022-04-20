@@ -1,26 +1,13 @@
 from jakobson import indice_metaforico, construir_referencia, recopilarMuestra,construirCorpusDeReferencia, textoDeBrown, indice_metonimico
+from jakobson import corpus_objetivo  as objetivos
+from jakobson import output
 from itertools import chain
+
 def main():
     import nltk
  
-    corpus_objetivo = {
-        "a40": "People. Art & Education",
-        "b27": "Letters to the Editor",
-        "c17": "Reviews",
-        "d09": "Organizing the Local Church",
-        "e36": "Renting a Car in Europe",
-        "f48": "Christian Ethics & the Sit-In",
-        "g75": "A Wreath for Garibaldi",
-        "h30": "Annual Report of Year Ending June 30, 1961",
-        "j80": "Principles of Inertial Navigation",
-        "k29": "The Sheep's in the Meadow",
-        "l24": "The Murders",
-        "m02": "The Lovers",
-        "n29":  "Riding the Dark Train Out",
-        "p20": "Dirty Dig Inn"
-        }
-    
-   
+    corpus_objetivo = objetivos.c2
+    objetivo = "c2"
     corpus = nltk.corpus.brown.words("cj22")
     
 
@@ -40,19 +27,28 @@ def main():
         
 
     categoriasResultadosYtamanos = list(zip(zip(categorias,resultados),tamanos))
-    imprimirFila = lambda row: print("{0:^30}{1:^30}{2:^10}".format(row[0], row[1], row[2]))
+    imprimirFila = lambda row: print("{0:^30},{1:^30},{2:^10}".format(row[0], row[1], row[2]))
     
-    imprimirFila(["categoria", "índice metafórico", "w"])
+    imprimirFila(["categoria,", "índice metafórico,", "w"])
     for fila in categoriasResultadosYtamanos: imprimirFila(list(chain.from_iterable(fila)))
+   
+    output.guardar_resultado(f"./resultados/metafora/{objetivo}.csv", categoriasResultadosYtamanos, ["categoria", "metafora", "w"])
     
     categoriasResultadosYtamanosMet = list(zip(zip(categorias,metonimia),tamanos))
-    imprimirFila(["categoria", "índice metonimico", "w"])
+    imprimirFila(["categoria,", "metonimia,", "w"])
     for fila in categoriasResultadosYtamanosMet: imprimirFila(list(chain.from_iterable(fila)))
     
+    output.guardar_resultado(f"./resultados/metonimia/{objetivo}.csv", categoriasResultadosYtamanosMet, ["categoria", "metonimia", "w"])
     
-                                                           
-    #print( [list(chain.from_iterable(tp)) for tp in categoriasResultadosYtamanos])
-
+    
+def flatten(l):
+    for el in l:
+        if isinstance(el, tuple) and any(isinstance(sub, tuple) for sub in el):
+            for sub in flatten(el):
+                yield sub
+        else:
+            yield el
+    
 def obtener_categoria(nombre):
     CATEGORIAS = {
         "a": "reportage",
