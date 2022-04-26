@@ -1,4 +1,4 @@
-% Created 2022-04-20 mié 19:03
+% Created 2022-04-25 lun 21:33
 % Intended LaTeX compiler: pdflatex
 \documentclass[twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -32,9 +32,9 @@
 \tableofcontents
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:orga16a338}
+\label{sec:org572a3f7}
 \subsection{Introducción}
-\label{sec:org214638a}
+\label{sec:org737683d}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -57,7 +57,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:org9781f36}
+\label{sec:org70ac188}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -106,7 +106,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:org0dbc559}
+\label{sec:org73f4456}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico, sea
@@ -144,16 +144,16 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:org254bc62}
+\label{sec:org95e3ea2}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:orgbc10885}
+\label{sec:org5a278f8}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:orgc1639bf}
+\label{sec:org7b825a9}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -183,12 +183,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:org3d99b32}
+\label{sec:org81d7132}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:org6dd8c4f}
+\label{sec:orgdd4936f}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje diacrónico}
@@ -200,10 +200,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:orgb7b2d07}
+\label{sec:orgb8a09fb}
 
 \subsection{Literariedad}
-\label{sec:orge08a8c8}
+\label{sec:orga08db8b}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -217,7 +217,7 @@ más básicas de la conducta verbal: \emph{la selección} y \emph{la combinació
 
 
 \subsubsection{Selección (ver linguística sincrónica):}
-\label{sec:org90e6d54}
+\label{sec:org53335b9}
 
 La selección estudia qué palabra selecciona un hablante entre las
 palabras existentes de la lengua, más o menos similares y hasta
@@ -226,7 +226,7 @@ antonimia de una palabra. En otros términos, en su semántica.
 
 
 \subsubsection{Combinación (ver linguística diacrónica):}
-\label{sec:org26daae3}
+\label{sec:orgc0925c2}
 
 La combinación estudia el "entramado de la secuencia" de un
 mensaje. Es decir, el mensaje considerado como una secuencia
@@ -237,7 +237,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:org56f7547}
+\label{sec:org25d4f33}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -248,7 +248,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org8267388}
+\label{sec:org91bc5a0}
 
 La lingüística es la ciencia que estudia el lenguaje.
 Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
@@ -260,7 +260,7 @@ embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
 \subsubsection{Lingüística General:}
-\label{sec:orgdb4d9fb}
+\label{sec:orgeb3e2c0}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -275,7 +275,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Linguística sincrónica}
-\label{sec:org661b546}
+\label{sec:orgc069dfb}
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -288,7 +288,7 @@ niño, un hablante puede utilizar la las palabras "niño", "chico",
 
 
 \subsubsection{Linguística diacrónica}
-\label{sec:orgaf8d871}
+\label{sec:org89e0110}
 
 La linguística diacrónica estudia los cambios sucesivos en el
 lenguaje, producidos por la actividad constante del \emph{eje
@@ -302,7 +302,7 @@ del tiempo:"(\ldots{}) para decirlo de un modo más técnico: todo
 secuencia es un símil."
 
 \subsection{Lenguaje}
-\label{sec:org9d00e5c}
+\label{sec:orgbb8c72e}
 En términos simples, el lenguaje es la facultad de formular y
 comprender signos o símbolos, ya sean hablados, escritos,
 imágenes, etc.  En otros términos, el lenguaje es una capacidad
@@ -312,7 +312,7 @@ establecido y la constante evolución de tal sistema. Estos dos
 componentes son la \emph{lengua} y el \emph{habla}.
 
 \subsubsection{Lengua}
-\label{sec:org89e23b2}
+\label{sec:org9cfb564}
 
 La lengua (\emph{langue}) es uno de los dos componentes del
 \emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
@@ -327,7 +327,7 @@ lo que significan las palabras. La contraparte de la lengua,
 es el habla. 
 
 \subsubsection{Habla}
-\label{sec:org2846d61}
+\label{sec:orgdad309f}
 El habla (\emph{parole}) es uno de los dos componentes del
 \emph{lenguaje}. El habla es el uso individual de la lengua.
 Evidentemente, cuando un individuo habla puede modificar
@@ -342,7 +342,7 @@ perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
 
 
 \subsection{Lingüística Computacional}
-\label{sec:orgcfdb397}
+\label{sec:orgc89ce03}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
@@ -355,7 +355,7 @@ heterogéneo, pero en términos de este trabajo, me limitaré a señalar
 una herramienta:
 
 \subsubsection{NLTK}
-\label{sec:org810829f}
+\label{sec:orgecbda67}
 
 El Natural Language Toolkit (NLTK) es un módulo de Python que
 ofrece una interfaz para tareas comunes en la lingüística
@@ -366,7 +366,7 @@ herramientas, tales como: tokenizacion, filtros, generación de
 n-gramas, análisis sintáctico de oraciones, entre otras.
 
 \subsubsection{Corpus}
-\label{sec:org960e027}
+\label{sec:orgeecfbf1}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -390,7 +390,7 @@ pragmático se utiliza una anotación pragmática, etc.
 \end{figure}
 
 \section{MARCO REFERENCIAL}
-\label{sec:org9427fad}
+\label{sec:org6804f77}
 
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
@@ -441,7 +441,7 @@ en conceptos linguísticos, para lo cual recurre en los conceptos
 presentados en el marco teórico.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:orge037fe1}
+\label{sec:orgd394fd8}
 El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
 metodología CRISP-DM, que se considera un estándar \emph{de facto} para
 proyectos de minería de datos. Esta metodología ayudará organizar
@@ -450,7 +450,7 @@ el proceso de mi investigación, que vá desde el acceso a los corpus
 los resultados).
 
 \subsection{Entendimiento del negocio}
-\label{sec:orgc8bba65}
+\label{sec:org3bb2acb}
 
 El resultado tangible del modelo de literariedad propuesto son dos
 métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
@@ -493,14 +493,14 @@ metáfora y metonímia,
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org35ff70a}
+\label{sec:org2c47fe6}
 
 En esta sección, se enumeraran las distintas fuentes de datos,
 que en este caso vendrían a ser los diferentes tipos de corpus.
 
 
 \subsubsection{El corpus de referencia}
-\label{sec:org6543b79}
+\label{sec:orgd5474e5}
 
 El corpus de referencia es un compendio de muestras
 que terminará por representar un consenso sobre
@@ -515,7 +515,7 @@ compuesto de muestras seleccionadas según criterios aptos
 
 
 \subsubsection{El corpus objetivo}
-\label{sec:org4125707}
+\label{sec:org197b10a}
 
 El corpus objetivo serán los mensajes sobre los cuales se
 computarán las dos medidas de \emph{metáfora} y \emph{metonimia}.
@@ -529,7 +529,7 @@ persona que profiere una oración utiliza un subconjunto
 mucho más pequeño de la lengua a la que pertenece.  
 
 \subsubsection{La red semántica}
-\label{sec:orga89da97}
+\label{sec:org9910cf8}
 
 La red semántica es un tipo de corpus particular que no solamente
 consta de palabras anotadas, como el de Brown, sino que vincula
@@ -544,7 +544,7 @@ el algoritmo.
 
 
 \subsubsection{Resumen de entendimiento de los datos}
-\label{sec:orga5dfe6d}
+\label{sec:org64af5aa}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/entendimiento_de_los_datos.png}
@@ -553,7 +553,7 @@ el algoritmo.
 
 
 \subsection{Preparación de los datos}
-\label{sec:orgc63b08c}
+\label{sec:org84db205}
 \label{sec:preparacion_datos}
 La tarea de preparación de los datos consitirá principalmente en
 seleccionar los distintos tipos de corpus de manera significativa
@@ -561,7 +561,7 @@ y coherente.  A continuación, describiré cómo se conformaron los
 corpus y qué criterios se utilizaron.
 
 \subsubsection{Corpus de referencia}
-\label{sec:org5eedd82}
+\label{sec:orgaad95c7}
 
 El corpus de referencia representa la \emph{lengua} (\emph{langue}). Por lo
 tanto debe estar compuesto de una muestra de textos
@@ -673,7 +673,7 @@ utilizará como corpus de referencia.
 \end{longtable}
 
 \subsubsection{Corpus objetivo}
-\label{sec:org2ef2313}
+\label{sec:orged7914f}
 En contrapartida al corpus de referencia, el corpus objetivo representa el
 \emph{habla} (\emph{parole}). Así, estos son considerados mensajes que serán interpretados
 por el receptor con relación al consenso de la lengua compartida entre emisor y
@@ -827,7 +827,7 @@ cód & nombre & categoría \\ \hline
       e07 & How to design your Interlocking Frame & skills \& hobbies \\ \hline
       f04 & North Country School Cares for the Whole Child & popular lore \\ \hline
       g04 & The Invisible Aborigine & belles lettres \\ \hline
-      h04 & Rhode Island Legislative Council. Research Report Number 1 & miscellaneous \\ \hline
+      h04 & Rhode Island Legislative Council & miscellaneous \\ \hline
       j04 & Proton magnetic resonance study & learned \\ \hline
       k05 & The Judges of the Secret Court & general fiction \\ \hline
       l07 & Deadlier Than the Male. & mistery and detective fiction \\ \hline
@@ -840,9 +840,9 @@ cód & nombre & categoría \\ \hline
 \label{tab:corpus_objetivo5}
 \end{table}
 \subsection{Modelamiento}
-\label{sec:org13ef579}
+\label{sec:org94612c0}
 \subsubsection{Selección de técnica de modelado}
-\label{sec:orgf5d3263}
+\label{sec:org4bf072d}
 
 Esta investigación se enmarca dentro de un enfoque mixto, en
 donde se utilizan métodos tanto cualitativos (el marco teórico) como
@@ -862,7 +862,7 @@ una formulación cuantificable con los métodos descritos.
 
 
 \subsubsection{Diseño experimental}
-\label{sec:orge4a3a17}
+\label{sec:orgce47475}
 
 Una vez formulado el modelo, se conduce un experimento que evaluará si produce resultados
 satisfactorios. El objetivo del experimento es escudriñar si los valores arrojados para
@@ -897,10 +897,10 @@ seleccionado.
 
 
 \subsubsection{Presentación del modelo}
-\label{sec:org68e7b91}
+\label{sec:org5882f3a}
 \begin{enumerate}
 \item Presentacion de las ecuaciones
-\label{sec:org331824c}
+\label{sec:org9efb332}
 
       \begin{equation}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -937,36 +937,37 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
 \item Procedimientos para indicadores
-\label{sec:org15a96d9}
-\begin{figure}[htbp]
+\label{sec:orgcab4efb}
+
+\begin{figure}[!H]
 \centering
-\includegraphics[width=.9\linewidth]{./assets/metodologia.jpg}
-\caption{Procesamiento de corpus objetivo}
-\end{figure}   
+\includegraphics[width=0.7\textwidth]{./assets/metodologia.jpg}
+\caption{\label{fig:metodologia}Metodología}
+\end{figure}
 
 \item Matrices de semántica y de uso
-\label{sec:org0525fc1}
+\label{sec:org2f3c9bc}
 
-\begin{figure}[htbp]
+\begin{figure}[!H]
 \centering
-\includegraphics[width=.9\linewidth]{./assets/matrices.jpg}
-\caption{Abstracciones necesarias para el índice metafórico}
+\includegraphics[width=0.7\textwidth]{./assets/matrices.jpg}
+\caption{\label{fig:matrices}Abstracciones necesarias para el índice metafórico}
 \end{figure}
-
 \item Índice Metonímico
-\label{sec:org552e7ed}
-\begin{figure}[htbp]
+\label{sec:orgee2d015}
+
+\begin{figure}[!H]
 \centering
-\includegraphics[width=.9\linewidth]{./assets/metonimia.jpg}
-\caption{Abstraccciones necesarias para el indice metonímico}
+\includegraphics[width=0.7\textwidth]{./assets/metonimia.jpg}
+\caption{\label{fig:metonimia}Concepto de metonimia}
 \end{figure}
 \end{enumerate}
-
 \subsection{Despliegue}
-\label{sec:orge23bbec}
+\label{sec:orgc30ca78}
 
+\subsubsection{Índices por muestra}
+\label{sec:orgd75fd10}
 
-Presentación de resultados:
 \begin{center}
     \begin{longtable}{| p{.20\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
     \caption{Muestra 1}
@@ -1012,7 +1013,7 @@ Presentación de resultados:
     \end{longtable}
     \label{muestra2}
 \end{center}
-\end{longtable}
+
 
 \begin{center}
         \begin{longtable}{| p{.2\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
@@ -1033,12 +1034,11 @@ Presentación de resultados:
         science fiction & 935994.4646234306 & 248.55044955044897 & 2364 \\ \hline
         adventure and western fiction & 1032713.1638679344 & 250.64708347208267 & 2380 \\ \hline
         romance and love story & 997559.1771764176 & 251.74584582084492 & 2320 \\ \hline
-    \label{muestra3}
 \end{longtable}
+    \label{muestra3}
 \end{center}
 
-
-
+\begin{center}
 \begin{longtable}{| p{.20\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
 \caption{Muestra 4}
     \hline
@@ -1060,7 +1060,7 @@ Presentación de resultados:
 
 
 \end{longtable}
-\label{muestra4}
+    \label{muestra4}
 \end{center}
 
 \begin{center}
@@ -1085,8 +1085,73 @@ Presentación de resultados:
 \end{longtable}
     \label{muestra5}
 \end{center}
+\subsubsection{Gráficos por muestra}
+\label{sec:org27d6ba5}
+
+\begin{figure}[!htbp]
+\centering
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metonimia.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c1_metacategoria_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c1_metacategoria_metonimia.png}
+\caption{\label{fig:c1_resultados}Resultados muestra 1}
+\end{figure}
+
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metonimia.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c2_metacategoria_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c2_metacategoria_metonimia.png}
+\caption{\label{fig:c2_resultados}Resultados muestra 2}
+\end{figure}
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metonimia.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c3_metacategoria_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c3_metacategoria_metonimia.png}
+\caption{\label{fig:c3_resultados}Resultados muestra 3}
+\end{figure}
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metonimia.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c4_metacategoria_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c4_metacategoria_metonimia.png}
+\caption{\label{fig:c4_resultados}Resultados muestra 4}
+\end{figure}
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metonimia.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c5_metacategoria_metafora.png}
+\includegraphics[width=.45\linewidth]{./resultados/graphs/meta/c5_metacategoria_metonimia.png}
+\caption{\label{fig:c5_resultados}Resultados muestra 5}
+\end{figure}
+
+
+\subsubsection{Gráficos totales}
+\label{sec:orge313197}
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metafora_total.png}
+\caption{\label{fig_} Resultados }
+\end{figure}
+
+\begin{figure}[!H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metonimia_total.png}
+\caption{\label{fig_} Resultados }
+\end{figure}
+
 \section{CONCLUSIONES}
-\label{sec:org5b2264d}
+\label{sec:org4fc8b37}
 
 
 
