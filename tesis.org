@@ -796,9 +796,8 @@ cód & nombre & categoría \\ \hline
    Además, dentro de cada muestra, se espera que se cumplan ciertas hipótesis:
 
    - H1: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción
-   - 
-   - H2: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestra
-   - H3: Se espera que la categoría 'Learned' tenga un indíce metafórico más alta entre las categorías de no-ficción
+   - H2: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestras
+   - H3: Se espera que la categoría 'Belles Lettres' tenga un indíce metafórico más alta entre las categorías de no-ficción
    - H4: Se espera que la categoria 'Learned' tenga un indice metonímico bajo en general
 
 
@@ -1054,12 +1053,25 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
 
 **** Gráficos totales
-
+#+begin_export latex
+\begin{figure}[!H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metafora.png}
+\caption{\label{fig:metafora_categorias} Índice metafórico por categorías a través de las muestras }
+\end{figure}
+#+end_export
+#+begin_export latex
+\begin{figure}[!H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metonimia.png}
+\caption{\label{fig:metonimia_categorias} Índice metonímico por categorías a través de las muestras  }
+\end{figure}
+#+end_export
 #+begin_export latex
 \begin{figure}[!H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metafora_total.png}
-\caption{\label{fig_} Resultados }
+\caption{\label{fig:metafora_total} Índice metafórico por metacategorías a través de muestras }
 \end{figure}
 #+end_export
 
@@ -1067,16 +1079,80 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \begin{figure}[!H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metonimia_total.png}
-\caption{\label{fig_} Resultados }
+\caption{\label{fig:metonimia_total} Índice metonimica por metacategoria a través de muestras }
 \end{figure}
 #+end_export
 
 ** CONCLUSIONES 
 
+Para concluir el presente, trabajo. Primero se señalarán los
+resultados del experimento frente a las hipótesis planteadas.
+Posteriormente, se expondrán las críticas posibles al modelo
+planteado. Por último, se señalaran trabajos futuros para profundizar
+más en la pregunta de investigación.
+
+*** Las hipótesis planteadas
+
+Para la hipótesis H_{1} se observa en \ref{fig:metafora_total} que el
+índice metafórico es, en promedio, más alto para las categorias de no
+ficción a lo largo la muestras que para las categorias de no
+ficción. De hecho, en promedio, las obras de ficción reportan un
+índice metafórico un poco más de 3 veces más alto. Esto es consistente
+con la intuición, que nos dicta que en las obras de ficción se hace
+uso de un vocabulario más amplio y distinguido, lo que aporta más al
+índice metafórico.
+
+En cuanto a la hipótesis H_{2}, las medias para las categorias
+/reportage/ y /editorial/ son cercabis (0.14 y 0.11,
+respectivamente). En el gráfico \ref{fig:metafora_categorias} se puede
+apreciar que el rango interquartil (IRQ) es muy similar. Esto es
+consistente con el resultado esperado, puesto que estas dos categorías
+son similares entre sí: ambas están conformadas por textos que
+aparecieron en publicaciones periódicas. Por lo tanto, comparten
+muchos parámetros linguísticos similares en cuanto al vocabulario. Por
+lo tanto, sú indice metafórico debe ser similar a lo largo de las
+muestras.
+
+Luego, para la hipótesis H_{3} se puede observar que la categoria
+/Belles Lettres/ es la tercera más categoría con el índice metafórico
+más alto (con un 0.30). Queda por debajo de /Religion/ (0.31) por un
+punto y de /Reviews/ (0.42). Este resultado no es el esperado, pero es
+comprensible si se tiene en cuenta que la categoría /Reviews/ está
+compuesta de críticas a obras de arte como música clásica, libros y
+obras de teatro, cuyo vocabulario puede terminar aportando más al
+índice metafórico que las biografías y caras de la categoría /Belles
+Lettres/.
+
+Por último, para la hipótesis H_{4}, se observa que la categoría
+/Learned/ tiene el segundo índice de metonimia más bajo (0.31), luego
+de (sorprendentemente) las categorias /General Fiction/ y /Adventure &
+Western Fiction/ (0.19 ambas). Si bien este resultado no es
+estrictamente el esperado a lo largo de todas las categorias, la
+hipótesis H_{4} sí se cumple dentro de la metacategoría de
+no-ficción. La hipótesis inicial se hizo sobre la base de que los
+textos técnicos y científicos no deberían tener un enfasis en la
+metonimia entre cada una de sus palabras.  Es decir, no debería haber
+un énfasis en repetir sonidos a lo largo de una oración, puesto que
+los factores de comunicación de Jakobson se centran en las funciones
+conativa o fática.
+
+Ahora bien, en la hipótesis inicial no se contemplo que, según lo
+encontrado en este experimento, las obras de ficción por lo general
+tienen un índice metonímico más bajo que las de no ficción (ver \ref{fig:metonimia_total}. Esto
+parece apuntar a una relación inversa entre el índice metaforico
+y el índice metonómico. Sin embargo, esa discusión está por fuera
+de los alcances de la presente investigación.
+
+*** Discusión
+
+    
+
 
 
 \bibliographystyle{unsrt}
 \bibliography{biblio} 
+
+
 
 
 
