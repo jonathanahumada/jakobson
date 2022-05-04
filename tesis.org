@@ -221,7 +221,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    /combinación/.
 
    
-**** Linguística sincrónica
+**** Lingüística sincrónica
 
    La linguística sincrónica se ocupa de las
    operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -233,7 +233,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    "jovencito", o "párvulo".
 
 
-**** Linguística diacrónica 
+**** Lingüística diacrónica 
 
    La linguística diacrónica estudia los cambios sucesivos en el
    lenguaje, producidos por la actividad constante del /eje
@@ -287,24 +287,136 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 
    Es la intersección entre la computación y la lingüística. Por lo
    general, se preocupa acerca de cómo procesar automáticamente el
-   lenguaje material, para lo cual genera modelos lingüísticos sobre los
+   lenguaje natural, para lo cual genera modelos lingüísticos sobre los
    que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
 
    La lingüística computacional es en sí misma un campo amplio y
-   heterogéneo, pero en términos de este trabajo, me limitaré a señalar
-   una herramienta:
+   heterogéneo(ver [[fig:mapa_linguistica]]).
+   Este trabajo se incribe concretamente dentro del procesamiento
+   del lenguaje natural [[NLP]], y tiene un fuerte componente de
+   lingüística general [[Lingüística general]].
 
-**** NLTK
+   #+CAPTION: Relación de linguística computacional con otras areas tomado de \cite{gelbuhk2004}
+   #+LABEL: fig:mapa_linguistica
+   [[./assets/mapa_linguistica.png]]
+
      
-   El Natural Language Toolkit (NLTK) es un módulo de Python que
-   ofrece una interfaz para tareas comunes en la lingüística
-   computacional. La ventaja principal de NLTK es que se considera a
-   sí mismo un /toolkit/. Esto significa que no impone una estructura
-   de procesamiento definida a la vez que ofrece un extenso abanico de
-   herramientas, tales como: tokenizacion, filtros, generación de
-   n-gramas, análisis sintáctico de oraciones, entre otras.
+*** NLP
+    El procesamiento del lenguaje natural (NLP, por sus siglas en
+    inglés), es a menudo considerado sinónimo con la lingüística
+    computacional \cite{gelbukh2004}.  Sin embargo, el NLP se refiere
+    concretamente a la aplicación práctica de la linguística
+    computacional para procesar automáticamente (a menudo en enormes
+    cantidades) mensajes de lenguaje natural y obtener de estos alguna
+    información o un acción sin intermedio de un humanano.
 
+    En este trabajo, se utilizan algunas herramientas típicas del
+    NLP, como corpus, N-gramas, tokenización y vectorización, explicadas
+    en a continuación. Sin embargo, es necesario hacer explítico de
+    que se parte una herramienta computacional en particular: NLTK.
+    
+**** NLTK
+  El Natural Language Toolkit (NLTK) es un módulo de Python que
+  ofrece una interfaz para tareas comunes en la lingüística
+  computacional. La ventaja principal de NLTK es que se considera a
+  sí mismo un /toolkit/. Esto significa que no impone una estructura
+  de procesamiento definida a la vez que ofrece un extenso abanico de
+  herramientas, tales como: tokenizacion, filtros, generación de
+  n-gramas, análisis sintáctico de oraciones, entre otras.
+
+  Se seleccionó esta herramienta porque no impone una estructura
+  rígida en cuantó que cómo procesar el texto, lo que la hizo
+  idónea para perseguir los objetivos interdisciplinares de esta
+  investigación. Es
+  
+**** N-gramas
+
+     Los N-gramas son una herramienta común en el procesamiento
+     de lenguaje natural y tienen diversas aplicaciones. Desde sus
+     inicios \cite{manning1999foundations}, los n-gramas se han
+     utilizado para capturar la noción de 'contexto' o 'historia'
+     dentro de una secuencia de tokens. Así los n-gramas, forman
+     una tupla o secuencia de palabras dentro de una secuencia
+     o texto más grande y, delimitado el tamaño o nivel del
+     n-grama, los términos circunscritos dentro del n-grama
+     se entienden como variables aleatorias dependientes entre sí.
+
+     Así, los n-gramas se utilizán para tratar de predecir alguna
+     característica con base en algún otro componente del n-grama,
+     utilizando las teorías de cadenas de Markov.
+
+     En este trabajo, los n-gramas se utilizan meramente
+     como una herramienta que captura la 'memoria' o 'relación'
+     de dos palabras adyacentes dentro de un mensaje. No se
+     utilizarán funciones de probabilidad, sino que se hará
+     un cálculo de similitud utilizando el algoritmo descrito
+     en la sección  [[Presentación del modelo]], utilizando
+     n-gramas de nivel 2 o *bigramas*.
+
+
+**** Tokenización
+     La tokenización es el proceso mediante el cual se separa la entrada
+     de un programa NLP en unidades de análisis más pequeñas llamadas
+     *tokens*. Un token puede ser una palabra, aunque no necesariamente
+     lo es. Por ejemplo, puede ser un lexema, un signo de puntuación
+     o una unidad sintáctica (un constructo sujeto - verbo, por ejemplo)
+     \cite{manning1999foundations}. El resultado de la tokenización
+     dependerá, por lo tanto, de los objetivos de la investigación.
+
+     En esta investigación se tokenizará siguiendo la noción de
+     palabra gráfica (/graphic word/). Esto simplemente se refiere
+     a que cada token corresponde a una palabra separada por un espacio,
+     incluyendo signos de puntuación y otros caracteres alphanumericos.
+
+     
+     
+     
+**** Vectorización
+     La vectorización es el proceso de tomar una característica o medida
+     y representarla como una secuencia números reales, como un vector. A menudo,
+     tal representación permite visualizar las características en un espacio
+     vectorial, aunque la visualización no es la ventaja crucial.
+
+     La vectorización es una técnica utilizada a lo largo de muchos
+     dominios y tiene una larga historia en el proceso de transformar
+     un concepto a una entrada que sea interpretable por una máquina
+     \cite{jha_abhishek_vectorization}.  Continuamente, catalizadas por
+     el auge del Machine Learning, se desarrollan técnicas de
+     vectorización que ayudan a hacer los cálculos de similitud entre
+     vectores más eficientes, dependiento del objetivo. Un buen
+     ejemplo es el desarrollo del modelo de Google, que
+     codifica las palabras de tal forma que agiliza el cálculo
+     de similitud entre conceptos, conservando la noción
+     de múltiples grados de similaridad \cite{{mikolov2013efficient}.
+
+     En este trabajo, la técnica de vectorización utilizada es
+     la /bag of words/, que es una técnica basada en la *frequencia*.
+
+**** Bag of words
+
+     Es una técnica de vectorización frecuentemente utilizada en NLP.
+     Se considera de complejidad sencilla, pero funciona exitosamente
+     en muchos casos de uso. Involucra 3 fases: tokenización, creación de vocabulario y,
+     finalmente, creación del vector.
+
+     Su funcionamiento es el siguiente: una vez se tiene el la entrada
+     tokenizada se construye un /vocabulario/.  Este es set de cada
+     palabra utilizada en la entrada.  Luego, se procede a asociar a
+     cada palabra del vocabulario a su frecuencia en el texto, con lo
+     cual se obtiene un histograma de palabras. En la última etápa,
+     usualmente se utiliza una matriz llana en la que cada fila
+     corresponde con una oración y cada columna representa una entrada
+     en el vocabulario \cite{jha_abhishek_vectorization}.
+
+     No obstante, para en este trabajo no se utilizará este enfoque
+     tradicional.  Sino que el proceso de vectorizacións seguirá los
+     pasos descritos en la sección [[Presentación del modelo]]. Sin embargo,
+     es necesario mencionar que la técnica de bag of words conlleva
+     a los siguientes supuestos: 1) se asume que el orden de las
+     palabras en la entrada no importa, tan solo la frecuencia
+     de cada entrada y 2) la existencia de las palabras en el
+     vocabulario es indenpiente una de la otra.  
 **** Corpus
 
 
@@ -315,16 +427,77 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    colección arbitraria), categorizados (una colección escogida según
    algún criterio), temporales (una colección organizada
    cronológicamente) o solapados (un documento puede pertenecer a
-   varias colecciones) \cite{bird2009natural}. Además, el formato del
-   corpus varía significativamente de acuerdo al objeto de la
-   investigación. Por ejemplo, si se desea hacer un análisis
-   sintáctico (de la estructura de una oración), se debe hacer un
-   corpus anotado con POS (Part Of Speech tag); para hacer un análisis
-   pragmático se utiliza una anotación pragmática, etc.
+   varias colecciones) \cite{bird2009natural} (ver figura
+   [[fig:estructuras_corpus]]). Además, el formato del corpus varía
+   significativamente de acuerdo al objeto de la investigación. Por
+   ejemplo, si se desea hacer un análisis sintáctico (de la estructura
+   de una oración), se debe hacer un corpus anotado con POS (Part Of
+   Speech tag); para hacer un análisis pragmático se utiliza una
+   anotación pragmática, etc.
 
-        #+CAPTION:Diferentes estructuras de corpus
+   
+   
+      #+CAPTION:Diferentes estructuras de corpus
+      #+LABEL: fig:estructuras_corpus
      [[./assets/estructuras_de_corpus.png]]
 
+*** Analítica de datos
+    La analítica de datos es una disciplina heterogenea que auna
+    diversas áreas de de estudio, como la teoría de la computación, la
+    estadística, los negocios y cualquier otro dominio sobre el cual es aplicada
+    (por ejemplo, química, biología, etc).  Una forma sucinta de
+    entender la analítica de datos es el proceso mediante el cual se
+    extrae *información* de los *datos* \cite{nelli2018python}. Así,
+    se entiende por dato un registro que representa una medida de
+    algún fenómeno observable. Por otro lado, la información se
+    entiende como el conjunto de conclusiones aplicables que se
+    obtienen de los datos luego de ser procesados. Tal proceso es
+    el que se conoce como *análisis de datos*. El análisis
+    de datos es variado y utiliza distintos recursos estadísticos
+    y matemáticos, pero por lo general la análitica de datos
+    tiene por objetivo generar un /modelo/ de los datos
+    que tenga capacidad /predictiva/.
+
+    Como se ve, la análitica de datos provee, más que un resultado
+    concreto, una metodología para obtener modelos. Este trabajo,
+    por lo tanto, se enmarca dentro de la analítica de datos
+    en la medida en que se propone un modelo y lo evalua haciendo
+    uso de rasgos comunes como: el uso de repositorios de datos
+    (corpus), el uso de la estadística descriptiva para evaluar
+    el modelo, la formalización de un modelo en términos matemáticos
+    y el uso del stack de analítica de datos de Python (Pandas, Numpy,
+    Seaborn, ScikitLearn).
+
+    Ahora bien, si bien en este trabajo se enmarca dentro de la
+    analítica de datos, se debe aclarar que el modelo presentado
+    *no* es producido a partir de ninguna técnica  de Machine Learning.
+
+    En cuanto a la información específica de la metodología, este
+    proyecto se guió por la metodología CRIPS-DM
+
+*** CRISP-DM
+    El Cross Industry Standard Process for Data Mining (CRISP-DM) es
+    un modelo que sirve de base para cualquier proceso de analítica de
+    datos. Este consta de 6 fases: 1) Entendimiento del negocio (¿Qué
+    necesita el negocio?), 2) Entendimiento de los datos (¿Qué datos
+    tenemos/necesitamos?¿Se necesitan limpiar?), 3) Preparación de los
+    datos (¿Cómo organizamos los datos para modelar?), 4) Modelamiento
+    (¿Qué técnicas de modelamiento deberíamos aplicar?), 5) Evaluación
+    (¿El modelo cumple con los objetivos de negocio?) y 6) Despliegue
+    (¿Cómo acceden a los resultados los interesados?).
+
+    CRISP-DM se utiliza, por lo tanto, como una guía para
+    asegurar que cada fase del proceso de análitica de datos
+    tenga las consideraciones adecuadas. Así el Diseño Metodológico
+    de este trabajo está organizado según las fases mencionados.
+    Sin embargo, cabe aclarar que algunas modificaciones debieron
+    ser hechas a las fases, sobre todo a lo concerniente con las
+    fases de Evaluación y Despliegue, pues el objetivo de este
+    trabajo no es producir un modelo utilizado en un entorno empresarial.
+    
+
+    
+    
 ** MARCO REFERENCIAL
    
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
@@ -365,14 +538,14 @@ fonemas, etc.
 Por último, el trabajo de \cite{kaplan2006computational} es una tesis
 de pregrado sobre el cálculo del estilo de la poesía desde una
 perspectiva estadística. Kaplan fue una inspiración para Delmonte, por
-lo tanto debía formar parte de mi revisión bibliográfica. Kaplan
+lo tanto debía formar parte de la revisión bibliográfica. Kaplan
 formuló un modelo que media 84 métricas distintas para cada documento,
 luego transformó el modelo de 84 métricas para visualizarlo en un
 espacio 3D y poder comparar distintas obras literarias. Esto inspiró
-mi idea inicial de obtener una métrica más general para analizar un
+la idea inicial de obtener una métrica más general para analizar un
 texto, que no tenga que recurrir un trabajo de compilación de métricas
 existentes, como lo hizo Kaplan. Tal métrica debería estar sustentada
-en conceptos linguísticos, para lo cual recurre en los conceptos
+en conceptos linguísticos, para lo cual se recurrió a  los conceptos
 presentados en el marco teórico.
 
 ** DISEÑO METODOLÓGICO
@@ -470,7 +643,7 @@ presentados en el marco teórico.
      no será implementada, sino que será un servicio utilizado por
      el algoritmo. 
      
-   
+     
 
 **** Resumen de entendimiento de los datos
 #+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
@@ -806,45 +979,79 @@ cód & nombre & categoría \\ \hline
    seleccionado.
 
  
-
+   
 ****  Presentación del modelo
-***** Presentacion de las ecuaciones
+El modelo diseñado se basa en las siguientes ecuaciones. Para una visión a más alto nivel del
+procedimiento se puede ver la figura \ref{fig:metodologia}
 
-      \begin{equation}
+      \begin{equation}\label{eq:mensaje}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
 \end{equation}
 
-\begin{equation}
+\begin{equation}\label{eq:vector_semantico}
 vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} \\
 \end{equation}
 
-\begin{equation}
+\begin{equation}\label{eq:vector_uso}
 vector\ uso(w) = \{freq(s_1),freq(s_2),freq(s_3), \dots, freq(s_j) \} \\
 \end{equation}
 
-\begin{equation}
-uso(w) = \frac{freq(w)}{\muvector\ uso}
+\begin{equation}\label{eq:uso}
+uso(w) = \frac{\mu (vector\ uso)}{freq(w)}
 \end{equation}
 
 
-\begin{equation}
+\begin{equation}\label{eq:indice_metafórico}
 indice\ metaforico(mensaje) =  \Sigma_i^j \frac{uso(w_i)}{\mu( vector\ semantico(w_i))}
 \end{equation}
 
 
-\begin{equation}
+\begin{equation}\label{eq:ngramas}
 N = \{n_1, n_2, n_3, \dots , n_j\}
 \end{equation}
 
-\begin{equation}
+\begin{equation}\label{eq:metonimia}
 met(n) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2)}
 \end{equation}
 
-\begin{equation}
+\begin{equation}\label{eq:indice_metonimia}
 indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
-***** Procedimientos para indicadores
+
+En primer lugar, un mensaje es cualquier cadena de texto. Una vez
+tokenizado, se obtienen las palabras  $w$ mostradas en
+la ecuación \ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
+primero el cálculo del vector semántico. Un vector semantico está
+compuesto de sinónimos $s$ del la palabra inicial (ecuación \ref{eq:vector_semantico}). Cuando se
+termina de obtener los campos semánticos de cada palabra del mensaje,
+se obtiene una matriz semántica. Luego, por cada vector semantico, se
+calcula un vector de uso que cuenta la frecuencia de cada componente
+del vector semantico $s$ en el corpus de referencia \ref{eq:vector_uso}. La suma de
+todos los vectores de uso de un mensaje se conoce como la matriz de
+uso. Se puede apreciar las relación de las matrices semántica y de uso con
+entre sí en la figura \ref{fig:matrices}.
+
+Seguidamente, para cada vector de uso se calcula el uso, que es
+la relación entre la media del vector de uso y la frecuencia de la
+palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la palabra se utiliza más veces
+que la media del vector de uso, se considera que la palabra está
+siendo utilizada de manera más rara (más frecuente que lo indicaría
+que se debe usar por su vector de uso), por ende el resultado del
+cociente es mas alto y su aporte al índice metaforico mayor. El índice
+metafórico es la suma de todos los usos, por lo que el índice en principio
+solo captura si un mensaje es mas 'metafórico' que otro si tiene un número más alto
+que otro mensaje y manteniendo lo longitud del mensaje.
+
+
+Ahora, con respecto al Índice metonímico, se parte de la idea de que
+un mensaje está compuesto de ngramas $n$ (ver ecuación \ref{eq:ngramas}. Los ngramas son de nivel 2,
+es decir, que se toman pares de palabras constiguas (ver figura \ref{fig:metonimia}) .
+Luego para cada $n$ se calcula la metonimia. La metonimia está dado por el numero de letras similares
+entre los terminos $n$ del bigrama \ref{eq:metonimia}. Por último, el Índice metonímico está dado
+por la suma de la metonimima para cada ngrama. 
+
+
   
 #+BEGIN_EXPORT latex
     \begin{figure}[!H]
@@ -1085,7 +1292,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
 ** CONCLUSIONES 
 
-Para concluir el presente, trabajo. Primero se señalarán los
+Para concluir el presente trabajo. Primero se señalarán los
 resultados del experimento frente a las hipótesis planteadas.
 Posteriormente, se expondrán las críticas posibles al modelo
 planteado. Por último, se señalaran trabajos futuros para profundizar
@@ -1143,17 +1350,70 @@ parece apuntar a una relación inversa entre el índice metaforico
 y el índice metonómico. Sin embargo, esa discusión está por fuera
 de los alcances de la presente investigación.
 
-*** Discusión
 
-    
+    Con base en el análisis de las hipótesis, se puede señalar que
+    el algoritmo propuesto es capaz de:
+
+    - 'distinguir' entre dos metacategorias: los textos de ficción y los de no ficción
+    -  arrojar un índice metaforico consistentemente más alto que los de no-ficción para los textos de ficción
+    -  arrojar, para los textos de no ficción, un índice metonímico consistentemente mas alto que los de ficción 
+
+*** Crítica del modelo
+
+
+En términos generales, se considera que el modelo es razonablemente exitoso. En general no
+hay resultados inconsistentes con la intuición, salvo el comportamiento del índice metonimico
+a lo largo de una categoria. Sin embargo, si se considera las metacategorias de ficción y no
+ficción, en la muestras se evidencia claramente que hay una consistencia en los resultados.
+
+Una debilidad significativa del modelo es su dependencia de la con la red semántica. Esto
+ocasiona que dada una palabra, su vector semantico quede asociado con palabras muy dificiles de
+encontrar,lo que incide en su puntuación total. Esto particularmente se evidencia en algunas palabras
+comunes que no se encuentran tan solo porque son pronombres o adverbios que empiezan con mayúscula
+cuando la red los espera en minúscula. Es posible que esto esté afectando el modelo, pero no es claro
+a priori de qué manera lo hace porque se haría necesario un análisis multivariado para cada una de las
+variables. Ahora bien, esta falencia no parece ser tan pronunciado, ya que la diferencia entra las metacategorias
+es evidente y resulta inverosímil atribuir la concordancia con la intuición y el juicio experto a un mero error.
+
+Sin embargo, para tener una fundamentación más rigurosa de la idoneidad del algoritmo se debe diseñar un
+experimento que mire los resulados de cada vector de uso por palabra y verificar como el número de sinónimos,
+la media de esos sinónimos y la frecuencia de la palabra original en los corpus se compartan. Una tarea que no es
+fácil por la dependencia de las variables de otras. Este aspecto es muy importante hacerlo, pero se sale de los
+alcances de esta investigación. 
 
 
 
+*** Trabajo futuro
+
+**** El índice metafórico
+    Para trabajos futuros es necesario repetir más veces este mismo experimento, aumentando el número de muestras.
+    Luego, se podría plantear el mismo documento con un corpus distinto, tal vez con categorias individuales
+    distintas, pero conservando las mismas metacategorías:ficción y no ficción. Si el resultado sigue
+    avalando la hipótesis H_{1} fortalecería la validez del modelo para capturar la 'metafora' en documentos.
+
+    Por otro lado, como se expuso en el marco teórico y en la presentación del modelo, el índice metafórico
+    es dependiende del corpus de referencia, que es una representación del concepto de /lengua/, y la
+    red semántica, que corresponde con el concepto de /lenguaje/. Así, para obtener resultados más
+    intuitivos se deberá disponder de la capacidad de configurar tanto el corpus de referencia como la
+    red semántica. Por ejemplo, para asociar palabras entre sí en la red semántica o quitar relaciones
+    espurias.
+
+
+**** El índice metonímico
+
+     El algoritmo para metonimia fue realizado de la manera más /naive/ posible, lo que puede ser una causa
+     de la variabilidad de este índice entre una misma categoria a lo largo de las muestras. Un siguiente
+     paso sería calcular la metonimia no por el número de letras iguales, sino tokenizar por sílabas y contar
+     las sílabas con una misma vocal como un aporte al índice.
+
+     Otra posible modificación es parametrizar el la aridad del n-grama, puesto que la repetición de sonidos
+     solo se está teniendo en cuenta para palabras consecutivas, cuando en realidad la metonimia suele darse
+     por elementos sintacticos distintos. Por ejemplo, se puede dar entre oraciones, ente párrafos, entre estrofas
+     etc. Sin embargo, el cálculo de esto necesitaria incorporar POS al modelo, lo que complejizaría significativamente
+     la implementación del índice. 
+
+
+     
 \bibliographystyle{unsrt}
 \bibliography{biblio} 
-
-
-
-
-
 
