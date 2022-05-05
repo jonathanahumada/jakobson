@@ -1,6 +1,6 @@
-% Created 2022-05-04 mié 15:06
+% Created 2022-05-05 jue 17:00
 % Intended LaTeX compiler: pdflatex
-\documentclass[twoside]{article}
+\documentclass[12pt,letterpaper,twoside]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{graphicx}
@@ -16,6 +16,15 @@
 \usepackage{hyperref}
 \input{mytitle}
 \usepackage{longtable}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{mathptmx}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+\setlength{\parindent}{1.25cm}
 \author{Jonatan Ahumada Fernández}
 \date{\today}
 \title{Modelo de literariedad usando redes semánticas y n-gramas}
@@ -31,10 +40,13 @@
 \maketitle
 \tableofcontents
 
+\doublespacing
+\raggedright
+\setlength{\parindent}{1.25cm}
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:org7e70042}
+\label{sec:org71b8d1b}
 \subsection{Introducción}
-\label{sec:org53e6af7}
+\label{sec:org9e7ec2d}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -57,7 +69,7 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:orgb850777}
+\label{sec:org7a92317}
 Roman Jakobson propone que la \emph{literariedad} de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
@@ -106,7 +118,7 @@ y n-gramas.
 
 
 \subsection{Justificacón}
-\label{sec:org0ae1e9f}
+\label{sec:orge30a789}
 
 Si bien existen infinitas operaciones realizables sobre un texto
 computarizado, hay pocas que tengan un enfoque humanístico, sea
@@ -144,16 +156,16 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:org128ab57}
+\label{sec:org007a8fa}
 NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:orge2c6128}
+\label{sec:org4950d35}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:org91316f4}
+\label{sec:orga2c404d}
 
 Para computar una métrica de \emph{literariedad} será necesario comparar
 un \emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
@@ -183,12 +195,12 @@ fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
 las diferentes partes de una oración en el computo final, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:orgfbe8e27}
+\label{sec:org9222ce3}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orgd65aa4b}
+\label{sec:org0616ed2}
 
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje diacrónico}
@@ -200,10 +212,10 @@ indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org3cceaf6}
+\label{sec:orgf85ef81}
 
 \subsection{Literariedad}
-\label{sec:orge0249c3}
+\label{sec:org53f753c}
 
 
 La \emph{literariedad} es, según Jakobson, la cualidad de un objeto
@@ -217,7 +229,7 @@ más básicas de la conducta verbal: \emph{la selección} y \emph{la combinació
 
 
 \subsubsection{Selección (ver linguística sincrónica):}
-\label{sec:orge9c0dc1}
+\label{sec:org415e9b4}
 
 La selección estudia qué palabra selecciona un hablante entre las
 palabras existentes de la lengua, más o menos similares y hasta
@@ -226,7 +238,7 @@ antonimia de una palabra. En otros términos, en su semántica.
 
 
 \subsubsection{Combinación (ver linguística diacrónica):}
-\label{sec:orgb9c5def}
+\label{sec:org4e87de6}
 
 La combinación estudia el "entramado de la secuencia" de un
 mensaje. Es decir, el mensaje considerado como una secuencia
@@ -237,7 +249,7 @@ la que la sucede o antecede en un mensaje.
 
 
 \subsection{Poética}
-\label{sec:orgbadd3b8}
+\label{sec:org76e4cf0}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
 principalmente con cuestiones estéticas del lenguaje. Sin embargo,
@@ -248,7 +260,7 @@ concepto enmarcado en la poética, porque se preguntá qué hace que
 un texto sea literario y por qué es distinto de otro que no lo es.
 
 \subsection{Linguística}
-\label{sec:org1ad347f}
+\label{sec:org40ed51d}
 
 La lingüística es la ciencia que estudia el lenguaje.
 Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
@@ -260,7 +272,7 @@ embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
 \subsubsection{Lingüística General:}
-\label{sec:orgd477cb3}
+\label{sec:org04fcaa5}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -275,7 +287,7 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Lingüística sincrónica}
-\label{sec:orge309dc2}
+\label{sec:org0d3a80b}
 
 La linguística sincrónica se ocupa de las
 operaciones que realiza un hablante, sean lógicas o psicológicas,
@@ -288,7 +300,7 @@ niño, un hablante puede utilizar la las palabras "niño", "chico",
 
 
 \subsubsection{Lingüística diacrónica}
-\label{sec:orgfe4dc43}
+\label{sec:orgcd05aaf}
 
 La linguística diacrónica estudia los cambios sucesivos en el
 lenguaje, producidos por la actividad constante del \emph{eje
@@ -302,7 +314,7 @@ del tiempo:"(\ldots{}) para decirlo de un modo más técnico: todo
 secuencia es un símil."
 
 \subsection{Lenguaje}
-\label{sec:orgedaa72a}
+\label{sec:org457275f}
 En términos simples, el lenguaje es la facultad de formular y
 comprender signos o símbolos, ya sean hablados, escritos,
 imágenes, etc.  En otros términos, el lenguaje es una capacidad
@@ -312,7 +324,7 @@ establecido y la constante evolución de tal sistema. Estos dos
 componentes son la \emph{lengua} y el \emph{habla}.
 
 \subsubsection{Lengua}
-\label{sec:org71f57a2}
+\label{sec:org3d0dfc3}
 
 La lengua (\emph{langue}) es uno de los dos componentes del
 \emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
@@ -327,7 +339,7 @@ lo que significan las palabras. La contraparte de la lengua,
 es el habla. 
 
 \subsubsection{Habla}
-\label{sec:org1962227}
+\label{sec:org8b1543b}
 El habla (\emph{parole}) es uno de los dos componentes del
 \emph{lenguaje}. El habla es el uso individual de la lengua.
 Evidentemente, cuando un individuo habla puede modificar
@@ -342,7 +354,7 @@ perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
 
 
 \subsection{Lingüística Computacional}
-\label{sec:org61372ed}
+\label{sec:org3579067}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa acerca de cómo procesar automáticamente el
@@ -351,20 +363,20 @@ que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
 
 La lingüística computacional es en sí misma un campo amplio y
-heterogéneo(ver \ref{fig:org85951af}).
+heterogéneo(ver \ref{fig:orgf59b83e}).
 Este trabajo se incribe concretamente dentro del procesamiento
-del lenguaje natural \ref{sec:orgae18d21}, y tiene un fuerte componente de
+del lenguaje natural \ref{sec:org8ee7b13}, y tiene un fuerte componente de
 lingüística general .
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/mapa_linguistica.png}
-\caption{\label{fig:org85951af}Relación de linguística computacional con otras areas tomado de \cite{gelbuhk2004}}
+\caption{\label{fig:orgf59b83e}Relación de linguística computacional con otras areas tomado de \cite{gelbuhk2004}}
 \end{figure}
 
 
 \subsection{NLP}
-\label{sec:orgae18d21}
+\label{sec:org8ee7b13}
 El procesamiento del lenguaje natural (NLP, por sus siglas en
 inglés), es a menudo considerado sinónimo con la lingüística
 computacional \cite{gelbukh2004}.  Sin embargo, el NLP se refiere
@@ -379,7 +391,7 @@ en a continuación. Sin embargo, es necesario hacer explítico de
 que se parte una herramienta computacional en particular: NLTK.
 
 \subsubsection{NLTK}
-\label{sec:org94dbfa6}
+\label{sec:org4142bff}
 El Natural Language Toolkit (NLTK) es un módulo de Python que
 ofrece una interfaz para tareas comunes en la lingüística
 computacional. La ventaja principal de NLTK es que se considera a
@@ -394,7 +406,7 @@ idónea para perseguir los objetivos interdisciplinares de esta
 investigación. Es
 
 \subsubsection{N-gramas}
-\label{sec:orge84f8e7}
+\label{sec:orgbf4e16f}
 
 Los N-gramas son una herramienta común en el procesamiento
 de lenguaje natural y tienen diversas aplicaciones. Desde sus
@@ -415,12 +427,12 @@ como una herramienta que captura la 'memoria' o 'relación'
 de dos palabras adyacentes dentro de un mensaje. No se
 utilizarán funciones de probabilidad, sino que se hará
 un cálculo de similitud utilizando el algoritmo descrito
-en la sección  \ref{sec:org002dd7e}, utilizando
+en la sección  \ref{sec:org296ae4d}, utilizando
 n-gramas de nivel 2 o \textbf{bigramas}.
 
 
 \subsubsection{Tokenización}
-\label{sec:orga78551e}
+\label{sec:org3c5591a}
 La tokenización es el proceso mediante el cual se separa la entrada
 de un programa NLP en unidades de análisis más pequeñas llamadas
 \textbf{tokens}. Un token puede ser una palabra, aunque no necesariamente
@@ -438,7 +450,7 @@ incluyendo signos de puntuación y otros caracteres alphanumericos.
 
 
 \subsubsection{Vectorización}
-\label{sec:org052bd77}
+\label{sec:orge4e2dba}
 La vectorización es el proceso de tomar una característica o medida
 y representarla como una secuencia números reales, como un vector. A menudo,
 tal representación permite visualizar las características en un espacio
@@ -460,7 +472,7 @@ En este trabajo, la técnica de vectorización utilizada es
 la \emph{bag of words}, que es una técnica basada en la \textbf{frequencia}.
 
 \subsubsection{Bag of words}
-\label{sec:orgddd42e7}
+\label{sec:org8d6d2e9}
 
 Es una técnica de vectorización frecuentemente utilizada en NLP.
 Se considera de complejidad sencilla, pero funciona exitosamente
@@ -478,14 +490,14 @@ en el vocabulario \cite{jha_abhishek_vectorization}.
 
 No obstante, para en este trabajo no se utilizará este enfoque
 tradicional.  Sino que el proceso de vectorizacións seguirá los
-pasos descritos en la sección \ref{sec:org002dd7e}. Sin embargo,
+pasos descritos en la sección \ref{sec:org296ae4d}. Sin embargo,
 es necesario mencionar que la técnica de bag of words conlleva
 a los siguientes supuestos: 1) se asume que el orden de las
 palabras en la entrada no importa, tan solo la frecuencia
 de cada entrada y 2) la existencia de las palabras en el
 vocabulario es indenpiente una de la otra.  
 \subsubsection{Corpus}
-\label{sec:org136a4ac}
+\label{sec:orgcffeb23}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -496,7 +508,7 @@ colección arbitraria), categorizados (una colección escogida según
 algún criterio), temporales (una colección organizada
 cronológicamente) o solapados (un documento puede pertenecer a
 varias colecciones) \cite{bird2009natural} (ver figura
-\ref{fig:orgfb89153}). Además, el formato del corpus varía
+\ref{fig:org600b24e}). Además, el formato del corpus varía
 significativamente de acuerdo al objeto de la investigación. Por
 ejemplo, si se desea hacer un análisis sintáctico (de la estructura
 de una oración), se debe hacer un corpus anotado con POS (Part Of
@@ -508,11 +520,11 @@ anotación pragmática, etc.
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/estructuras_de_corpus.png}
-\caption{\label{fig:orgfb89153}Diferentes estructuras de corpus}
+\caption{\label{fig:org600b24e}Diferentes estructuras de corpus}
 \end{figure}
 
 \subsection{Analítica de datos}
-\label{sec:orgdd24117}
+\label{sec:org696124a}
 La analítica de datos es una disciplina heterogenea que auna
 diversas áreas de de estudio, como la teoría de la computación, la
 estadística, los negocios y cualquier otro dominio sobre el cual es aplicada
@@ -547,7 +559,7 @@ En cuanto a la información específica de la metodología, este
 proyecto se guió por la metodología CRIPS-DM
 
 \subsection{CRISP-DM}
-\label{sec:orgba74543}
+\label{sec:org9492e17}
 El Cross Industry Standard Process for Data Mining (CRISP-DM) es
 un modelo que sirve de base para cualquier proceso de analítica de
 datos. Este consta de 6 fases: 1) Entendimiento del negocio (¿Qué
@@ -571,7 +583,7 @@ trabajo no es producir un modelo utilizado en un entorno empresarial.
 
 
 \section{MARCO REFERENCIAL}
-\label{sec:org35c4cce}
+\label{sec:org5e1bcf5}
 
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
@@ -622,7 +634,7 @@ en conceptos linguísticos, para lo cual se recurrió a  los conceptos
 presentados en el marco teórico.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:orga4a6548}
+\label{sec:orgbf593d6}
 El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
 metodología CRISP-DM, que se considera un estándar \emph{de facto} para
 proyectos de minería de datos. Esta metodología ayudará organizar
@@ -631,7 +643,7 @@ el proceso de mi investigación, que vá desde el acceso a los corpus
 los resultados).
 
 \subsection{Entendimiento del negocio}
-\label{sec:org8299494}
+\label{sec:org4ef2bfd}
 
 El resultado tangible del modelo de literariedad propuesto son dos
 métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
@@ -674,14 +686,14 @@ metáfora y metonímia,
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org3e188ae}
+\label{sec:orgce592df}
 
 En esta sección, se enumeraran las distintas fuentes de datos,
 que en este caso vendrían a ser los diferentes tipos de corpus.
 
 
 \subsubsection{El corpus de referencia}
-\label{sec:org10a131a}
+\label{sec:org645e1b2}
 
 El corpus de referencia es un compendio de muestras
 que terminará por representar un consenso sobre
@@ -696,7 +708,7 @@ compuesto de muestras seleccionadas según criterios aptos
 
 
 \subsubsection{El corpus objetivo}
-\label{sec:orgf25fa24}
+\label{sec:org0297895}
 
 El corpus objetivo serán los mensajes sobre los cuales se
 computarán las dos medidas de \emph{metáfora} y \emph{metonimia}.
@@ -710,7 +722,7 @@ persona que profiere una oración utiliza un subconjunto
 mucho más pequeño de la lengua a la que pertenece.  
 
 \subsubsection{La red semántica}
-\label{sec:org25515d8}
+\label{sec:orgaca902a}
 
 La red semántica es un tipo de corpus particular que no solamente
 consta de palabras anotadas, como el de Brown, sino que vincula
@@ -725,7 +737,7 @@ el algoritmo.
 
 
 \subsubsection{Resumen de entendimiento de los datos}
-\label{sec:org8523e0b}
+\label{sec:orgd5e99c9}
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/entendimiento_de_los_datos.png}
@@ -734,7 +746,7 @@ el algoritmo.
 
 
 \subsection{Preparación de los datos}
-\label{sec:orgad93403}
+\label{sec:org99d089a}
 \label{sec:preparacion_datos}
 La tarea de preparación de los datos consitirá principalmente en
 seleccionar los distintos tipos de corpus de manera significativa
@@ -742,7 +754,7 @@ y coherente.  A continuación, describiré cómo se conformaron los
 corpus y qué criterios se utilizaron.
 
 \subsubsection{Corpus de referencia}
-\label{sec:orgaacf8d7}
+\label{sec:org0ca390d}
 
 El corpus de referencia representa la \emph{lengua} (\emph{langue}). Por lo
 tanto debe estar compuesto de una muestra de textos
@@ -854,7 +866,7 @@ utilizará como corpus de referencia.
 \end{longtable}
 
 \subsubsection{Corpus objetivo}
-\label{sec:orgb4bb994}
+\label{sec:orgae3dd16}
 En contrapartida al corpus de referencia, el corpus objetivo representa el
 \emph{habla} (\emph{parole}). Así, estos son considerados mensajes que serán interpretados
 por el receptor con relación al consenso de la lengua compartida entre emisor y
@@ -1021,9 +1033,9 @@ cód & nombre & categoría \\ \hline
 \label{tab:corpus_objetivo5}
 \end{table}
 \subsection{Modelamiento}
-\label{sec:org28a909c}
+\label{sec:org84c956a}
 \subsubsection{Selección de técnica de modelado}
-\label{sec:orgcbcf678}
+\label{sec:org7809fdf}
 
 Esta investigación se enmarca dentro de un enfoque mixto, en
 donde se utilizan métodos tanto cualitativos (el marco teórico) como
@@ -1043,7 +1055,7 @@ una formulación cuantificable con los métodos descritos.
 
 
 \subsubsection{Diseño experimental}
-\label{sec:org432493c}
+\label{sec:orgd71dac2}
 
 Una vez formulado el modelo, se conduce un experimento que evaluará si produce resultados
 satisfactorios. El objetivo del experimento es escudriñar si los valores arrojados para
@@ -1076,9 +1088,10 @@ seleccionado.
 
 
 \subsubsection{Presentación del modelo}
-\label{sec:org002dd7e}
-El modelo diseñado se basa en las siguientes ecuaciones. Para una visión a más alto nivel del
-procedimiento se puede ver la figura \ref{fig:metodologia}
+\label{sec:org296ae4d}
+El modelo diseñado se basa en las siguientes ecuaciones. Para una
+visión a más alto nivel del procedimiento se puede ver la figura
+\ref{fig:metodologia}.
 
       \begin{equation}\label{eq:mensaje}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -1092,13 +1105,18 @@ vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} \\
 vector\ uso(w) = \{freq(s_1),freq(s_2),freq(s_3), \dots, freq(s_j) \} \\
 \end{equation}
 
+
 \begin{equation}\label{eq:uso}
-uso(w) = \frac{\mu (vector\ uso)}{freq(w)}
+\mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
+\end{equation}
+
+\begin{equation}\label{eq:uso}
+uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \end{equation}
 
 
 \begin{equation}\label{eq:indice_metafórico}
-indice\ metaforico(mensaje) =  \Sigma_i^j \frac{uso(w_i)}{\mu( vector\ semantico(w_i))}
+indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
 
 
@@ -1107,7 +1125,7 @@ N = \{n_1, n_2, n_3, \dots , n_j\}
 \end{equation}
 
 \begin{equation}\label{eq:metonimia}
-met(n) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2)}
+met(n_i) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2))}
 \end{equation}
 
 \begin{equation}\label{eq:indice_metonimia}
@@ -1116,69 +1134,79 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
 
 En primer lugar, un mensaje es cualquier cadena de texto. Una vez
-tokenizado, se obtienen las palabras  \(w\) mostradas en
-la ecuación \ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
+tokenizado, se obtienen las palabras \(w\) mostradas en la ecuación
+\ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
 primero el cálculo del vector semántico. Un vector semantico está
-compuesto de sinónimos \(s\) del la palabra inicial (ecuación \ref{eq:vector_semantico}). Cuando se
-termina de obtener los campos semánticos de cada palabra del mensaje,
-se obtiene una matriz semántica. Luego, por cada vector semantico, se
-calcula un vector de uso que cuenta la frecuencia de cada componente
-del vector semantico \(s\) en el corpus de referencia \ref{eq:vector_uso}. La suma de
-todos los vectores de uso de un mensaje se conoce como la matriz de
-uso. Se puede apreciar las relación de las matrices semántica y de uso con
+compuesto de sinónimos \(s\) del la palabra inicial (ecuación
+\ref{eq:vector_semantico}). Cuando se termina de obtener los campos
+semánticos de cada palabra del mensaje, se obtiene una matriz
+semántica. Luego, por cada vector semantico, se calcula un vector de
+uso que cuenta la frecuencia de cada componente del vector semantico
+\(s\) en el corpus de referencia \ref{eq:vector_uso}. La suma de todos
+los vectores de uso de un mensaje se conoce como la matriz de uso. Se
+puede apreciar las relación de las matrices semántica y de uso con
 entre sí en la figura \ref{fig:matrices}.
 
-Seguidamente, para cada vector de uso se calcula el uso, que es
-la relación entre la media del vector de uso y la frecuencia de la
-palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la palabra se utiliza más veces
-que la media del vector de uso, se considera que la palabra está
-siendo utilizada de manera más rara (más frecuente que lo indicaría
-que se debe usar por su vector de uso), por ende el resultado del
-cociente es mas alto y su aporte al índice metaforico mayor. El índice
-metafórico es la suma de todos los usos, por lo que el índice en principio
-solo captura si un mensaje es mas 'metafórico' que otro si tiene un número más alto
-que otro mensaje y manteniendo lo longitud del mensaje.
-
-
-Ahora, con respecto al Índice metonímico, se parte de la idea de que
-un mensaje está compuesto de ngramas \(n\) (ver ecuación \ref{eq:ngramas}. Los ngramas son de nivel 2,
-es decir, que se toman pares de palabras constiguas (ver figura \ref{fig:metonimia}) .
-Luego para cada \(n\) se calcula la metonimia. La metonimia está dado por el numero de letras similares
-entre los terminos \(n\) del bigrama \ref{eq:metonimia}. Por último, el Índice metonímico está dado
-por la suma de la metonimima para cada ngrama. 
-
-
-
-\begin{figure}[!H]
-\centering
-\includegraphics[width=0.7\textwidth]{./assets/metodologia.jpg}
-\caption{\label{fig:metodologia}Metodología}
-\end{figure}
-
-\begin{enumerate}
-\item Matrices de semántica y de uso
-\label{sec:org56aa1a6}
-
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{./assets/matrices.jpg}
-\caption{\label{fig:matrices}Abstracciones necesarias para el índice metafórico}
+\caption{\label{fig:matrices}Transformación de matriz semántica a matríz de uso}
 \end{figure}
-\item Índice Metonímico
-\label{sec:orgb9a0d9c}
 
-\begin{figure}[!H]
+Seguidamente, para cada vector de uso se calcula el uso, que es la
+relación entre la media del vector de uso y la frecuencia de la
+palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la
+palabra se utiliza más veces que la media del vector de uso, se
+considera que la palabra está siendo utilizada de manera más rara (más
+frecuente que lo indicaría que se debe usar por su vector de uso), por
+ende el resultado del cociente es mas alto y su aporte al índice
+metaforico mayor. El índice metafórico es la suma de todos los usos,
+por lo que el índice en principio solo captura si un mensaje es mas
+'metafórico' que otro si tiene un número más alto que otro mensaje y
+manteniendo la longitud del mensaje.
+
+Ahora, con respecto al Índice metonímico, se parte de la idea de que
+un mensaje está compuesto de ngramas \(n\) (ver ecuación
+\ref{eq:ngramas}). Los ngramas son de nivel 2, es decir, que se toman
+pares de palabras constiguas (ver figura \ref{fig:metonimia}) .  Luego
+para cada \(n\) se calcula la metonimia. La metonimia está dado por el
+numero de letras similares entre los terminos \(n\) del bigrama
+\ref{eq:metonimia}. Por último, el Índice metonímico está dado por la
+suma de la metonimima para cada n-grama.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth]{./assets/metodologia.jpg}
+\caption{\label{fig:metodologia}Etapas de procesamiento para cada índice}
+\end{figure}
+
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.7\textwidth]{./assets/metonimia.jpg}
 \caption{\label{fig:metonimia}Concepto de metonimia}
 \end{figure}
-\end{enumerate}
 \subsection{Despliegue}
-\label{sec:orge8f4580}
+\label{sec:org1cc358a}
+En las secciones \ref{sec:org9699b00}, \ref{sec:org6dd940b} y
+\ref{sec:org6fb9d56} se presentarán los resultados del experimento
+según los parámetros descritos en las secciones anteriores.
+La presentación va en creciente órden de abstracción, partiendo
+de los datos brutos, pasando por su visualización, hasta llegar
+a las Conclusiones 
 
 \subsubsection{Índices por muestra}
-\label{sec:org4ea5a78}
+\label{sec:org9699b00}
+En esta sección, se muestran los resultados producidos por el modelo
+para cada uno de los corpus objetivos definidos en la sección
+\ref{sec:org99d089a}. En cada tabla se presentan el índice
+metafórico y el índice metonímico para el representante de cada
+categoría en las columnas 'metafora' y 'metonimia',
+respectivamente. La columna 'w' simplemente representa el número de
+palabras totales en el texto procesado, en caso de que en un futuro se
+desee hacer comparaciones entre textos de diferentes tamaños.
 
+Estos valores no tienen ningún tipo de procesamiento y para apreciarlos, es mejor
+consultar las secciones \ref{sec:org6dd940b} y \ref{sec:org6fb9d56}.
 \begin{center}
     \begin{longtable}{| p{.20\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
     \caption{Muestra 1}
@@ -1297,9 +1325,24 @@ por la suma de la metonimima para cada ngrama.
     \label{muestra5}
 \end{center}
 \subsubsection{Gráficos por muestra}
-\label{sec:orgadccf66}
+\label{sec:org6dd940b}
+En esta sección se presentan los gráficos para cada uno de los corpus objetivos
+definidos en \ref{sec:org99d089a}. Cada cúmulo de gráficos consta de 2 filas.
+La primera fila muestra el puntaje para el \textbf{índice metafórico} (izquierda) y
+el \textbf{índice metonímico} (derecha) a través de las categorías, como están
+definidas en el corpus de Brown. Por otro lado, en la segunda fila
+se presentan los mismos puntajes para las metacategorías de de \textbf{ficción}
+y \textbf{no ficción}. Las metacategorias son agrupaciones de categorías del corpus
+de Brown y tienen el objetivo de evidenciar más claramente el comportamiento
+de los dos índices de manera más general.
 
-\begin{figure}[!htbp]
+Para la producción de estos gráficos, se tomaron los resultados presentados en \ref{sec:org9699b00}, y
+se normalizaron con la técnica Min Max. En cada corpus objetivo, por lo tanto, se evidencia que
+hay una categoría con el valor mínimo de 0 y otra con el valor máximo de 1. Esto evidencia
+mejor la relación entre las distintas categorias en cuanto a las dos medidas postulados: la metáfora
+y la metonimia.
+
+\begin{figure}[H]
 \centering
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metafora.png}
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metonimia.png}
@@ -1309,7 +1352,7 @@ por la suma de la metonimima para cada ngrama.
 \end{figure}
 
 
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metafora.png}
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metonimia.png}
@@ -1318,7 +1361,7 @@ por la suma de la metonimima para cada ngrama.
 \caption{\label{fig:c2_resultados}Resultados muestra 2}
 \end{figure}
 
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metafora.png}
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metonimia.png}
@@ -1327,7 +1370,7 @@ por la suma de la metonimima para cada ngrama.
 \caption{\label{fig:c3_resultados}Resultados muestra 3}
 \end{figure}
 
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metafora.png}
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metonimia.png}
@@ -1336,7 +1379,7 @@ por la suma de la metonimima para cada ngrama.
 \caption{\label{fig:c4_resultados}Resultados muestra 4}
 \end{figure}
 
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metafora.png}
 \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metonimia.png}
@@ -1347,31 +1390,82 @@ por la suma de la metonimima para cada ngrama.
 
 
 \subsubsection{Gráficos totales}
-\label{sec:org40b5bf2}
-\begin{figure}[!H]
+\label{sec:org6fb9d56}
+En esta sección se presentan los gráficos para el \textbf{índice metafórico} y el \textbf{índice metonímico}
+teniendo en cuenta su comportamiento a lo largo de todos los corpus objetivos. Por lo tanto,
+cada boxplot está constuido de 5 muestras (correspondientes a 1 representante de cada corpus
+objetivo) para cada categoría, por lo que se puede obtener una noción más clara del IQR, la mediana
+, los datos atípicos en cada categoría y metacategoría.
+
+La visualización del comportamiento de los indicadores será necesaria para las Conclusiones (\ref{sec:orgb82e547}).
+
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metafora.png}
 \caption{\label{fig:metafora_categorias} Índice metafórico por categorías a través de las muestras }
 \end{figure}
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metonimia.png}
 \caption{\label{fig:metonimia_categorias} Índice metonímico por categorías a través de las muestras  }
 \end{figure}
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metafora_total.png}
 \caption{\label{fig:metafora_total} Índice metafórico por metacategorías a través de muestras }
 \end{figure}
 
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metonimia_total.png}
 \caption{\label{fig:metonimia_total} Índice metonimica por metacategoria a través de muestras }
 \end{figure}
 
+\subsection{Evaluación}
+\label{sec:org38bfd3e}
+Según lo contempla el proceso de analítica de datos (ver sección \ref{sec:org696124a}),
+es necesario someter a prueba los modelos postulados. Sin embargo, como el modelo propuesto
+no se enmarca dentro de Machine Learning, no se dispone de un algoritmo de clasificación
+per se, que luego de pueda evaluar con un set de validación.
+
+Sin embargo, teniendo en cuenta los hipótesis planteadas en la sección \ref{sec:orgd71dac2},
+se pueden realizar pruebas estadísticas que pueden aportar una fundamentación cuantitativa,
+para las hipótesis que lo permitan.
+
+Así, para la H\textsubscript{1}, que plantea que las metacategorías de ficción y no ficción tengan un
+índice metaforico significativamente distinto se formula una prueba ANOVA, a lo largo de
+todas las muestras, entre los textos de ficción y no ficción, con el siguiente resultado:
+
+\begin{verbatim}
+>>> anova_metafora
+F_onewayResult(statistic=51.510567153609514, pvalue=9.812579375438188e-10)
+
+\end{verbatim}
+
+Por lo tanto, se como el valor-p para la prueba ANOVA es inferior a 0.01 y
+el estadístico \(F\) es muy alto, se puede afirmar que el algoritmo genera valores
+significativamente distintos entre las metacategorías de ficción y no ficción,
+con una confianza mayor al 99\%.
+
+Así mismo, si se hace una prueba ANOVA para el índice metonímico para las
+metacategorías de ficción y no ficción se obtiene que:
+
+
+\begin{verbatim}
+  >>> anova_metonimia
+F_onewayResult(statistic=4.327636012671773, pvalue=0.04157136345702674)
+
+\end{verbatim}
+
+Por lo tanto, como el valor-p para la prueba es inferior a 0.05 y el estadístico
+\(F\) es más alto que 1, se puede aformar que el algoritmo genera valores
+significativamente distintos entre las metacategorias de ficción y no ficción
+con una confianza de 95\%.
+
+
+
 \section{CONCLUSIONES}
-\label{sec:org30c1460}
+\label{sec:orgb82e547}
 
 Para concluir el presente trabajo. Primero se señalarán los
 resultados del experimento frente a las hipótesis planteadas.
@@ -1380,7 +1474,7 @@ planteado. Por último, se señalaran trabajos futuros para profundizar
 más en la pregunta de investigación.
 
 \subsection{Las hipótesis planteadas}
-\label{sec:orga8c4e35}
+\label{sec:orgf8f949c}
 
 Para la hipótesis H\textsubscript{1} se observa en \ref{fig:metafora_total} que el
 índice metafórico es, en promedio, más alto para las categorias de no
@@ -1443,7 +1537,7 @@ el algoritmo propuesto es capaz de:
 \end{itemize}
 
 \subsection{Crítica del modelo}
-\label{sec:orga36078d}
+\label{sec:org3ad6599}
 
 
 En términos generales, se considera que el modelo es razonablemente exitoso. En general no
@@ -1469,10 +1563,10 @@ alcances de esta investigación.
 
 
 \subsection{Trabajo futuro}
-\label{sec:orgf3d57f4}
+\label{sec:org3c9d778}
 
 \subsubsection{El índice metafórico}
-\label{sec:org45e01bb}
+\label{sec:orgabc0681}
 Para trabajos futuros es necesario repetir más veces este mismo experimento, aumentando el número de muestras.
 Luego, se podría plantear el mismo documento con un corpus distinto, tal vez con categorias individuales
 distintas, pero conservando las mismas metacategorías:ficción y no ficción. Si el resultado sigue
@@ -1487,7 +1581,7 @@ espurias.
 
 
 \subsubsection{El índice metonímico}
-\label{sec:org610eacd}
+\label{sec:org6be8136}
 
 El algoritmo para metonimia fue realizado de la manera más \emph{naive} posible, lo que puede ser una causa
 de la variabilidad de este índice entre una misma categoria a lo largo de las muestras. Un siguiente
@@ -1502,6 +1596,6 @@ la implementación del índice.
 
 
 
-\bibliographystyle{unsrt}
+\bibliographystyle{ieeetr}
 \bibliography{biblio} 
 \end{document}

@@ -1,10 +1,27 @@
 
 #+AUTHOR: Jonatan Ahumada Fernández
 #+TITLE: Modelo de literariedad usando redes semánticas y n-gramas
-#+LaTeX_CLASS_OPTIONS: [twoside]
+#+LaTeX_CLASS_OPTIONS: [12pt,letterpaper,twoside]
 #+LATEX_HEADER: \input{mytitle}
 #+LATEX_HEADER: \usepackage{longtable}
-#+OPTIONS: broken-links:t 
+#+LATEX_HEADER: \usepackage{float}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \usepackage{mathptmx}
+#+LATEX_HEADER: \usepackage{fancyhdr}
+#+LATEX_HEADER: \pagestyle{fancy}
+#+LATEX_HEADER: \fancyhf{}
+#+LATEX_HEADER: \fancyhead[R]{\thepage}
+#+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+
+#+LATEX_HEADER: \setlength{\parindent}{1.25cm}
+
+#+OPTIONS: broken-links:t
+
+#+BEGIN_EXPORT latex
+\doublespacing
+\raggedright
+\setlength{\parindent}{1.25cm}
+#+END_EXPORT
 ** FORMULACIÓN DEL PROBLEMA
 *** Introducción
 
@@ -981,8 +998,9 @@ cód & nombre & categoría \\ \hline
  
    
 ****  Presentación del modelo
-El modelo diseñado se basa en las siguientes ecuaciones. Para una visión a más alto nivel del
-procedimiento se puede ver la figura \ref{fig:metodologia}
+El modelo diseñado se basa en las siguientes ecuaciones. Para una
+visión a más alto nivel del procedimiento se puede ver la figura
+\ref{fig:metodologia}.
 
       \begin{equation}\label{eq:mensaje}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
@@ -996,13 +1014,18 @@ vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} \\
 vector\ uso(w) = \{freq(s_1),freq(s_2),freq(s_3), \dots, freq(s_j) \} \\
 \end{equation}
 
+
 \begin{equation}\label{eq:uso}
-uso(w) = \frac{\mu (vector\ uso)}{freq(w)}
+\mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
+\end{equation}
+
+\begin{equation}\label{eq:uso}
+uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \end{equation}
 
 
 \begin{equation}\label{eq:indice_metafórico}
-indice\ metaforico(mensaje) =  \Sigma_i^j \frac{uso(w_i)}{\mu( vector\ semantico(w_i))}
+indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
 
 
@@ -1011,7 +1034,7 @@ N = \{n_1, n_2, n_3, \dots , n_j\}
 \end{equation}
 
 \begin{equation}\label{eq:metonimia}
-met(n) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2)}
+met(n_i) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2))}
 \end{equation}
 
 \begin{equation}\label{eq:indice_metonimia}
@@ -1020,69 +1043,83 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
 
 En primer lugar, un mensaje es cualquier cadena de texto. Una vez
-tokenizado, se obtienen las palabras  $w$ mostradas en
-la ecuación \ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
+tokenizado, se obtienen las palabras $w$ mostradas en la ecuación
+\ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
 primero el cálculo del vector semántico. Un vector semantico está
-compuesto de sinónimos $s$ del la palabra inicial (ecuación \ref{eq:vector_semantico}). Cuando se
-termina de obtener los campos semánticos de cada palabra del mensaje,
-se obtiene una matriz semántica. Luego, por cada vector semantico, se
-calcula un vector de uso que cuenta la frecuencia de cada componente
-del vector semantico $s$ en el corpus de referencia \ref{eq:vector_uso}. La suma de
-todos los vectores de uso de un mensaje se conoce como la matriz de
-uso. Se puede apreciar las relación de las matrices semántica y de uso con
+compuesto de sinónimos $s$ del la palabra inicial (ecuación
+\ref{eq:vector_semantico}). Cuando se termina de obtener los campos
+semánticos de cada palabra del mensaje, se obtiene una matriz
+semántica. Luego, por cada vector semantico, se calcula un vector de
+uso que cuenta la frecuencia de cada componente del vector semantico
+$s$ en el corpus de referencia \ref{eq:vector_uso}. La suma de todos
+los vectores de uso de un mensaje se conoce como la matriz de uso. Se
+puede apreciar las relación de las matrices semántica y de uso con
 entre sí en la figura \ref{fig:matrices}.
 
-Seguidamente, para cada vector de uso se calcula el uso, que es
-la relación entre la media del vector de uso y la frecuencia de la
-palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la palabra se utiliza más veces
-que la media del vector de uso, se considera que la palabra está
-siendo utilizada de manera más rara (más frecuente que lo indicaría
-que se debe usar por su vector de uso), por ende el resultado del
-cociente es mas alto y su aporte al índice metaforico mayor. El índice
-metafórico es la suma de todos los usos, por lo que el índice en principio
-solo captura si un mensaje es mas 'metafórico' que otro si tiene un número más alto
-que otro mensaje y manteniendo lo longitud del mensaje.
-
-
-Ahora, con respecto al Índice metonímico, se parte de la idea de que
-un mensaje está compuesto de ngramas $n$ (ver ecuación \ref{eq:ngramas}. Los ngramas son de nivel 2,
-es decir, que se toman pares de palabras constiguas (ver figura \ref{fig:metonimia}) .
-Luego para cada $n$ se calcula la metonimia. La metonimia está dado por el numero de letras similares
-entre los terminos $n$ del bigrama \ref{eq:metonimia}. Por último, el Índice metonímico está dado
-por la suma de la metonimima para cada ngrama. 
-
-
-  
-#+BEGIN_EXPORT latex
-    \begin{figure}[!H]
-    \centering
-    \includegraphics[width=0.7\textwidth]{./assets/metodologia.jpg}
-    \caption{\label{fig:metodologia}Metodología}
-    \end{figure}
-#+END_EXPORT
-
-***** Matrices de semántica y de uso
-
-    #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+ #+BEGIN_EXPORT latex
+    \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{./assets/matrices.jpg}
-    \caption{\label{fig:matrices}Abstracciones necesarias para el índice metafórico}
+    \caption{\label{fig:matrices}Transformación de matriz semántica a matríz de uso}
     \end{figure}
 #+END_EXPORT
-***** Índice Metonímico
 
-     #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+Seguidamente, para cada vector de uso se calcula el uso, que es la
+relación entre la media del vector de uso y la frecuencia de la
+palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la
+palabra se utiliza más veces que la media del vector de uso, se
+considera que la palabra está siendo utilizada de manera más rara (más
+frecuente que lo indicaría que se debe usar por su vector de uso), por
+ende el resultado del cociente es mas alto y su aporte al índice
+metaforico mayor. El índice metafórico es la suma de todos los usos,
+por lo que el índice en principio solo captura si un mensaje es mas
+'metafórico' que otro si tiene un número más alto que otro mensaje y
+manteniendo la longitud del mensaje.
+
+Ahora, con respecto al Índice metonímico, se parte de la idea de que
+un mensaje está compuesto de ngramas $n$ (ver ecuación
+\ref{eq:ngramas}). Los ngramas son de nivel 2, es decir, que se toman
+pares de palabras constiguas (ver figura \ref{fig:metonimia}) .  Luego
+para cada $n$ se calcula la metonimia. La metonimia está dado por el
+numero de letras similares entre los terminos $n$ del bigrama
+\ref{eq:metonimia}. Por último, el Índice metonímico está dado por la
+suma de la metonimima para cada n-grama.
+  
+#+BEGIN_EXPORT latex
+    \begin{figure}[H]
+    \centering
+    \includegraphics[width=0.7\textwidth]{./assets/metodologia.jpg}
+    \caption{\label{fig:metodologia}Etapas de procesamiento para cada índice}
+    \end{figure}
+#+END_EXPORT
+
+#+BEGIN_EXPORT latex
+    \begin{figure}[H]
     \centering
     \includegraphics[width=0.7\textwidth]{./assets/metonimia.jpg}
     \caption{\label{fig:metonimia}Concepto de metonimia}
     \end{figure}
 #+END_EXPORT
 *** Despliegue
+En las secciones [[Índices por muestra]], [[Gráficos por muestra]] y
+[[Gráficos totales]] se presentarán los resultados del experimento
+según los parámetros descritos en las secciones anteriores.
+La presentación va en creciente órden de abstracción, partiendo
+de los datos brutos, pasando por su visualización, hasta llegar
+a las Conclusiones [[Conclusiones]]
 
 **** Índices por muestra
+En esta sección, se muestran los resultados producidos por el modelo
+para cada uno de los corpus objetivos definidos en la sección
+[[Preparación de los datos]]. En cada tabla se presentan el índice
+metafórico y el índice metonímico para el representante de cada
+categoría en las columnas 'metafora' y 'metonimia',
+respectivamente. La columna 'w' simplemente representa el número de
+palabras totales en el texto procesado, en caso de que en un futuro se
+desee hacer comparaciones entre textos de diferentes tamaños.
 
+Estos valores no tienen ningún tipo de procesamiento y para apreciarlos, es mejor
+consultar las secciones [[Gráficos por muestra]] y [[Gráficos totales]].
 \begin{center}
     \begin{longtable}{| p{.20\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
     \caption{Muestra 1}
@@ -1201,9 +1238,24 @@ por la suma de la metonimima para cada ngrama.
     \label{muestra5}
 \end{center}
 **** Gráficos por muestra
+En esta sección se presentan los gráficos para cada uno de los corpus objetivos
+definidos en [[Preparación de los datos]]. Cada cúmulo de gráficos consta de 2 filas.
+La primera fila muestra el puntaje para el *índice metafórico* (izquierda) y
+el *índice metonímico* (derecha) a través de las categorías, como están
+definidas en el corpus de Brown. Por otro lado, en la segunda fila
+se presentan los mismos puntajes para las metacategorías de de *ficción*
+y *no ficción*. Las metacategorias son agrupaciones de categorías del corpus
+de Brown y tienen el objetivo de evidenciar más claramente el comportamiento
+de los dos índices de manera más general.
+
+Para la producción de estos gráficos, se tomaron los resultados presentados en [[Índices por muestra]], y
+se normalizaron con la técnica Min Max. En cada corpus objetivo, por lo tanto, se evidencia que
+hay una categoría con el valor mínimo de 0 y otra con el valor máximo de 1. Esto evidencia
+mejor la relación entre las distintas categorias en cuanto a las dos medidas postulados: la metáfora
+y la metonimia.
 
 #+BEGIN_EXPORT latex
-    \begin{figure}[!htbp]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metafora.png}
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c1_metonimia.png}
@@ -1215,7 +1267,7 @@ por la suma de la metonimima para cada ngrama.
 
 
 #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metafora.png}
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c2_metonimia.png}
@@ -1226,7 +1278,7 @@ por la suma de la metonimima para cada ngrama.
 #+END_EXPORT
 
 #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metafora.png}
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c3_metonimia.png}
@@ -1237,7 +1289,7 @@ por la suma de la metonimima para cada ngrama.
 #+END_EXPORT
 
 #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metafora.png}
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c4_metonimia.png}
@@ -1248,7 +1300,7 @@ por la suma de la metonimima para cada ngrama.
 #+END_EXPORT
 
 #+BEGIN_EXPORT latex
-    \begin{figure}[!H]
+    \begin{figure}[H]
     \centering
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metafora.png}
     \includegraphics[width=.45\linewidth]{./resultados/graphs/muestra/c5_metonimia.png}
@@ -1258,24 +1310,32 @@ por la suma de la metonimima para cada ngrama.
     \end{figure}
 #+END_EXPORT
 
-
+ 
 **** Gráficos totales
+ En esta sección se presentan los gráficos para el *índice metafórico* y el *índice metonímico*
+ teniendo en cuenta su comportamiento a lo largo de todos los corpus objetivos. Por lo tanto,
+ cada boxplot está constuido de 5 muestras (correspondientes a 1 representante de cada corpus
+ objetivo) para cada categoría, por lo que se puede obtener una noción más clara del IQR, la mediana
+ , los datos atípicos en cada categoría y metacategoría.
+
+ La visualización del comportamiento de los indicadores será necesaria para las Conclusiones ([[CONCLUSIONES]]).
+ 
 #+begin_export latex
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metafora.png}
 \caption{\label{fig:metafora_categorias} Índice metafórico por categorías a través de las muestras }
 \end{figure}
 #+end_export
 #+begin_export latex
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/accum_cat_metonimia.png}
 \caption{\label{fig:metonimia_categorias} Índice metonímico por categorías a través de las muestras  }
 \end{figure}
 #+end_export
 #+begin_export latex
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metafora_total.png}
 \caption{\label{fig:metafora_total} Índice metafórico por metacategorías a través de muestras }
@@ -1283,13 +1343,55 @@ por la suma de la metonimima para cada ngrama.
 #+end_export
 
 #+begin_export latex
-\begin{figure}[!H]
+\begin{figure}[H]
 \centering
 \includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metonimia_total.png}
 \caption{\label{fig:metonimia_total} Índice metonimica por metacategoria a través de muestras }
 \end{figure}
 #+end_export
 
+*** Evaluación
+   Según lo contempla el proceso de analítica de datos (ver sección [[Analítica de datos]]),
+   es necesario someter a prueba los modelos postulados. Sin embargo, como el modelo propuesto
+   no se enmarca dentro de Machine Learning, no se dispone de un algoritmo de clasificación
+   per se, que luego de pueda evaluar con un set de validación.
+
+   Sin embargo, teniendo en cuenta los hipótesis planteadas en la sección [[Diseño experimental]],
+   se pueden realizar pruebas estadísticas que pueden aportar una fundamentación cuantitativa,
+   para las hipótesis que lo permitan.
+
+   Así, para la H_{1}, que plantea que las metacategorías de ficción y no ficción tengan un
+   índice metaforico significativamente distinto se formula una prueba ANOVA, a lo largo de
+   todas las muestras, entre los textos de ficción y no ficción, con el siguiente resultado:
+
+   #+begin_src python
+       >>> anova_metafora
+       F_onewayResult(statistic=51.510567153609514, pvalue=9.812579375438188e-10)
+
+   #+end_src
+
+   Por lo tanto, se como el valor-p para la prueba ANOVA es inferior a 0.01 y
+   el estadístico $F$ es muy alto, se puede afirmar que el algoritmo genera valores
+   significativamente distintos entre las metacategorías de ficción y no ficción,
+   con una confianza mayor al 99%.
+
+   Así mismo, si se hace una prueba ANOVA para el índice metonímico para las
+   metacategorías de ficción y no ficción se obtiene que:
+
+   
+      #+begin_src python
+	>>> anova_metonimia
+      F_onewayResult(statistic=4.327636012671773, pvalue=0.04157136345702674)
+
+   #+end_src
+
+   Por lo tanto, como el valor-p para la prueba es inferior a 0.05 y el estadístico
+   $F$ es más alto que 1, se puede aformar que el algoritmo genera valores
+   significativamente distintos entre las metacategorias de ficción y no ficción
+   con una confianza de 95%.
+
+
+   
 ** CONCLUSIONES 
 
 Para concluir el presente trabajo. Primero se señalarán los
@@ -1414,6 +1516,6 @@ alcances de esta investigación.
 
 
      
-\bibliographystyle{unsrt}
+\bibliographystyle{ieeetr}
 \bibliography{biblio} 
 
