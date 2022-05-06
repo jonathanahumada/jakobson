@@ -4,6 +4,7 @@
 #+LaTeX_CLASS_OPTIONS: [12pt,letterpaper,twoside]
 #+LATEX_HEADER: \input{mytitle}
 #+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage[spanish]{babel}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \usepackage{mathptmx}
@@ -12,6 +13,7 @@
 #+LATEX_HEADER: \fancyhf{}
 #+LATEX_HEADER: \fancyhead[R]{\thepage}
 #+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LANGUAGE: es
 
 #+LATEX_HEADER: \setlength{\parindent}{1.25cm}
 
