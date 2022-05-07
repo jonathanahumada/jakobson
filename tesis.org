@@ -48,7 +48,7 @@ una máquina?
 
 
 *** Planteamiento del problema
-Roman Jakobson propone que la /literariedad/ de un texto está dada por
+    Roman Jakobson propone que la /literariedad/ de un texto está dada por
 dos componentes de lenguaje: la diacronía y la sincronía. Estos
 elementos fueron expandidos de la teoría linguística de Saussure.
 Más tarde, puestos en el contexto del análisis de la poesía,
@@ -107,9 +107,10 @@ Tal vacío genera que el estudio académico de la literatura no pueda
 sustentarse en datos 'duros' o ,por lo menos, cuantitativos propias
 del método científico. Por otro lado, los diversas y posibles formas
 de calcular la 'creatividad', la 'rima' o la 'belleza' de un texto,
-propuesto por otros investigadores, pueden considerarse casuísticos,
-acoplados a las objetivos y circunstancias de cada investigación en
-particular, desde la perspectiva de la linguística general.
+propuesto por otros investigadores, pueden considerarse
+casuísticos,\cite{kaplan2007computational} acoplados a las objetivos y
+circunstancias de cada investigación en particular, desde la
+perspectiva de la linguística general.
 
 Así, se necesita un modelo de la /literariedad/ que exprese
 concretamente la metáfora y la metonimia. Bien sea para ampliar las
@@ -316,7 +317,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    del lenguaje natural [[NLP]], y tiene un fuerte componente de
    lingüística general [[Lingüística general]].
 
-   #+CAPTION: Relación de linguística computacional con otras areas tomado de \cite{gelbuhk2004}
+   #+CAPTION: Relación de linguística computacional con otras areas tomado de \cite{gelbukh2004}
    #+LABEL: fig:mapa_linguistica
    [[./assets/mapa_linguistica.png]]
 
@@ -407,7 +408,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
      ejemplo es el desarrollo del modelo de Google, que
      codifica las palabras de tal forma que agiliza el cálculo
      de similitud entre conceptos, conservando la noción
-     de múltiples grados de similaridad \cite{{mikolov2013efficient}.
+     de múltiples grados de similaridad \cite{mikolov2013efficient}.
 
      En este trabajo, la técnica de vectorización utilizada es
      la /bag of words/, que es una técnica basada en la *frequencia*.
@@ -519,6 +520,46 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     
 ** MARCO REFERENCIAL
    
+Los trabajos más similares sobre el cálculo de literariedad son los de
+Cranenburgh \cite{van2019vector} y Louwerse
+\cite{louwerse2008computationally}. En ambos trabajos los autores
+hacen una alusión explícita al concepto (/literariness/). No obstante,
+estos dos trabajos pasan por alto las bases linguísticas del concepto
+y se presenta la /literariedad/ como una medida percibida por el
+lector, y poco articulada. Por ejemplo, Cranenbourgh afirma:
+
+#+begin_quote
+However much debated the topic of literary quality is, one thing we do
+know: we cannot readily pinpoint what ‘literary’ means. Literary
+theory has insisted for a number of years that it lies mostly outside
+of the text itself (cf. Bourdieu, 1996), but this claim is at odds
+with the intuitions of readers, of which the
+\cite[pg. 58]{van2015identifying}
+
+#+end_quote
+
+
+De igual forma, Lowerse coincide y menciona:
+
+
+#+begin_quote
+(...) whether literary texts overall are linguistically different from
+non-literary texts is a question that has not been satisfactorily
+answered.\cite[pg. 176]{louwerse2008computationally}
+#+end_quote
+
+
+Como es evidente, esta investigación toma el enfoque opuesto a estos
+trabajos previos. En concreto: se parte del supuesto de que la noción
+de literariedad está suficientemente descrita por Roman Jakobson como
+para ser modelada computacionalmente.  La otra divergencia de este
+trabajo con respecto a estos, es que no se hace uso de Machine
+Learning. En los trabajos citados, se define la literariedad como
+aquellos patrones que producen la classificación más apta. En este
+trabajo, en contraparte, se parte de un modelo y luego se prueba
+experimentalmente.
+
+
 El trabajo de Delmonte \cite{delmonte2013computing} presenta a
 SPARSAR, un sistema para calcular automáticamente el estilo de la
 poesía. SPARSAR funciona sobre sistemas previos del mismo autor, como,
@@ -1520,4 +1561,4 @@ alcances de esta investigación.
      
 \bibliographystyle{ieeetr}
 \bibliography{biblio} 
-
+\nocite{*}

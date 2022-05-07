@@ -1,77 +1,93 @@
 \begin{thebibliography}{10}
 
 \bibitem{eijembaum2010teoria}
-Boris Eijembaum.
-\newblock La teor{\'\i}a del" m{\'e}todo formal".
-\newblock In {\em Textos de teor{\'\i}as y cr{\'\i}tica literarias:(del
-  formalismo a los estudios postcoloniales)}, pages 33--62. Anthropos, 2010.
+B.~Eijembaum, ``La teor{\'\i}a del" m{\'e}todo formal",'' in {\em Textos de
+  teor{\'\i}as y cr{\'\i}tica literarias:(del formalismo a los estudios
+  postcoloniales)}, pp.~33--62, Anthropos, 2010.
 
 \bibitem{jakobson1981linguistica}
-Roman Jakobson and Ana Mar{\'\i}a~Guti{\'e}rrez Cabello.
-\newblock {\em Ling{\"u}{\'\i}stica y po{\'e}tica}.
+R.~Jakobson and A.~M.~G. Cabello, {\em Ling{\"u}{\'\i}stica y po{\'e}tica}.
 \newblock C{\'a}tedra Espa{\~n}a, 1981.
 
 \bibitem{alonso1945curso}
-Ferdinand De~Saussure.
-\newblock Curso de ling{\"u}{\'\i}stica general.
-\newblock {\em Buenos Aires: Losada. Original de Ferdinand de}, 1945.
+F.~De~Saussure, ``Curso de ling{\"u}{\'\i}stica general,'' {\em Buenos Aires:
+  Losada. Original de Ferdinand de}, 1945.
 
 \bibitem{gelbukh2004}
-Igor~A. Bolshakov and Alexander Gelbukh.
-\newblock {\em Computational Linguistics: Models, Resources, Applications}.
+I.~A. Bolshakov and A.~Gelbukh, {\em Computational Linguistics: Models,
+  Resources, Applications}.
 \newblock Mexico City: Centro de Investigacio{\'\o}n en Computaci{\'\o}n,
   Instituto Polit{\'\e}cnico Nacional, 1981.
 
+\bibitem{kaplan2007computational}
+D.~M. Kaplan and D.~M. Blei, ``A computational approach to style in american
+  poetry,'' in {\em Seventh IEEE International Conference on Data Mining (ICDM
+  2007)}, pp.~553--558, IEEE, 2007.
+
 \bibitem{manning1999foundations}
-Christopher Manning and Hinrich Schutze.
-\newblock {\em Foundations of statistical natural language processing}.
+C.~Manning and H.~Schutze, {\em Foundations of statistical natural language
+  processing}.
 \newblock MIT press, 1999.
 
 \bibitem{jha_abhishek_vectorization}
-Author~Abhishek Jha, Abhishek Jha~An inquisitive guy who currently~builds
-  models, wants to build Skynet one day. Follow~this space, Abhishek Jha,
-  An~inquisitive guy who currently~builds models, wants to build Skynet one
-  day. Follow~this space, and Follow~me on.
-\newblock Vectorization techniques in nlp [guide], Dec 2021.
+A.~Jha, ``Vectorization techniques in nlp [guide],'' Dec 2021.
+
+\bibitem{mikolov2013efficient}
+``Efficient estimation of word representations in vector space,'' {\em arXiv
+  preprint arXiv:1301.3781}, 2013.
 
 \bibitem{indurkhya2010handbook}
-Nitin Indurkhya and Fred~J Damerau.
-\newblock {\em Handbook of natural language processing}, volume~2.
+N.~Indurkhya and F.~J. Damerau, {\em Handbook of natural language processing},
+  vol.~2.
 \newblock CRC Press, 2010.
 
 \bibitem{bird2009natural}
-Steven Bird, Ewan Klein, and Edward Loper.
-\newblock {\em Natural language processing with Python: analyzing text with the
-  natural language toolkit}.
+S.~Bird, E.~Klein, and E.~Loper, {\em Natural language processing with Python:
+  analyzing text with the natural language toolkit}.
 \newblock " O'Reilly Media, Inc.", 2009.
 
 \bibitem{nelli2018python}
-Fabio Nelli.
-\newblock Python data analytics.
-\newblock {\em Apress Media, California}, 2018.
+F.~Nelli, ``Python data analytics,'' {\em Apress Media, California}, 2018.
+
+\bibitem{van2019vector}
+A.~van Cranenburgh, K.~van Dalen-Oskam, and J.~van Zundert, ``Vector space
+  explorations of literary language,'' {\em Language Resources and Evaluation},
+  vol.~53, no.~4, pp.~625--650, 2019.
+
+\bibitem{louwerse2008computationally}
+M.~Louwerse, N.~Benesh, and B.~Zhang, ``Computationally discriminating literary
+  from non-literary texts,'' {\em Directions in empirical literary studies: In
+  honor of Willie Van Peer}, vol.~5, pp.~175--191, 2008.
+
+\bibitem{van2015identifying}
+A.~van Cranenburgh and C.~Koolen, ``Identifying literary texts with bigrams,''
+  in {\em Proceedings of the Fourth Workshop on Computational Linguistics for
+  Literature}, pp.~58--67, 2015.
 
 \bibitem{delmonte2013computing}
-Rodolfo Delmonte.
-\newblock Computing poetry style.
-\newblock In {\em ESSEM@ AI* IA}, pages 148--155, 2013.
+R.~Delmonte, ``Computing poetry style.,'' in {\em ESSEM@ AI* IA}, pp.~148--155,
+  2013.
 
 \bibitem{delmonte2005venses}
-Rodolfo Delmonte, Sara Tonelli, Marco Aldo~Piccolino Boniforti, and Antonella
-  Bristot.
-\newblock Venses--a linguistically-based system for semantic evaluation.
-\newblock In {\em Machine Learning Challenges Workshop}, pages 344--371.
-  Springer, 2005.
+R.~Delmonte, S.~Tonelli, M.~A.~P. Boniforti, and A.~Bristot, ``Venses--a
+  linguistically-based system for semantic evaluation,'' in {\em Machine
+  Learning Challenges Workshop}, pp.~344--371, Springer, 2005.
 
 \bibitem{zuniga2017automatic}
-Daniel~F Zu{\~n}iga, Teresa Amido, and Jorge~E Camargo.
-\newblock Automatic computation of poetic creativity in parallel corpora.
-\newblock In {\em Colombian Conference on Computing}, pages 710--720. Springer,
-  2017.
+D.~F. Zu{\~n}iga, T.~Amido, and J.~E. Camargo, ``Automatic computation of
+  poetic creativity in parallel corpora,'' in {\em Colombian Conference on
+  Computing}, pp.~710--720, Springer, 2017.
 
 \bibitem{kaplan2006computational}
-D~Kaplan.
-\newblock Computational analysis and visualized comparison of style in american
-  poetry.
-\newblock {\em Unpublished undergraduate thesis}, 2006.
+D.~Kaplan, ``Computational analysis and visualized comparison of style in
+  american poetry,'' {\em Unpublished undergraduate thesis}, 2006.
+
+\bibitem{chuit2019epistemologia}
+R.~Chuit-Roganovich, ``Epistemolog{\'\i}a de la teor{\'\i}a literaria: objeto y
+  m{\'e}todo en el formalismo ruso,'' {\em Aisthesis}, no.~66, pp.~13--35,
+  2019.
+
+\bibitem{klarreich_2019}
+E.~Klarreich, ``Bookish math,'' Aug 2019.
 
 \end{thebibliography}
