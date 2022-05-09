@@ -517,16 +517,24 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     
 
     
-    
 ** MARCO REFERENCIAL
-   
-Los trabajos más similares sobre el cálculo de literariedad son los de
-Cranenburgh \cite{van2019vector} y Louwerse
-\cite{louwerse2008computationally}. En ambos trabajos los autores
-hacen una alusión explícita al concepto (/literariness/). No obstante,
-estos dos trabajos pasan por alto las bases linguísticas del concepto
-y se presenta la /literariedad/ como una medida percibida por el
-lector, y poco articulada. Por ejemplo, Cranenbourgh afirma:
+
+En la revisión de la literatura hecha se encontraron, a groso modo,
+dos tipos de trabajos que se consideran antecedentes cercanos. Esta
+distinción es importante porque cada categoría tiene un enfoque
+distinto sobre el problema de la /literariedad/. A continuación,
+se presentarán estos dos tipos de trabajo y luego se hará una
+breve síntesis.
+
+El primer tipo de trabajo tiene un enfoque basado en /Machine
+Learning/ y los autores por lo general se muestran escépticos al
+concepto. Dentro de estos, los más relevantes son los de Cranenburgh
+\cite{van2019vector} y Louwerse \cite{louwerse2008computationally}. En
+ambos trabajos los autores hacen una alusión explícita al concepto
+(/literariness/). No obstante, estos dos trabajos pasan por alto las
+bases linguísticas del concepto y se presenta la /literariedad/ como
+una medida percibida por el lector, y poco articulada. Por ejemplo,
+Cranenbourgh afirma:
 
 #+begin_quote
 However much debated the topic of literary quality is, one thing we do
@@ -550,63 +558,81 @@ answered.\cite[pg. 176]{louwerse2008computationally}
 
 
 Como es evidente, esta investigación toma el enfoque opuesto a estos
-trabajos previos. En concreto: se parte del supuesto de que la noción
-de literariedad está suficientemente descrita por Roman Jakobson como
-para ser modelada computacionalmente.  La otra divergencia de este
-trabajo con respecto a estos, es que no se hace uso de Machine
-Learning. En los trabajos citados, se define la literariedad como
-aquellos patrones que producen la classificación más apta. En este
-trabajo, en contraparte, se parte de un modelo y luego se prueba
-experimentalmente.
+trabajos previos. En concreto: en esta se parte del supuesto de que la
+/literariedad/ está suficientemente descrita por Roman Jakobson y que
+es algo 'dentro del texto', no dependiente de apreciaciones
+subjetivas. Por consiguiente, se omiten los contra-argumentos usuales
+en contra de la /literariedad/ \cite{chuit2019epistemologia} , el
+/formalismo/ o, de manera más generalizada, el /estructuralismo/.
+
+La otra divergencia de este trabajo con respecto a este primer tipo,
+se da a nivel del uso de tecnologías. En este no se hace uso de
+Machine Learning. En los trabajos citados, se define la literariedad
+como aquellos patrones que producen la classificación más apta. En
+este trabajo, en contraparte, se parte de un modelo y luego se evalua
+experimentalmente. Se podría decir, a manera de síntesis, que en este
+tipo de trabajo la /literariedad/ se encuentra. En este trabajo, en
+cambio, la /literariedad/ se modela.
+
+Ahora bien, el segundo tipo de trabajo tiene un enfoque basado en
+estadística y vectorización, pero no emplea de forma explícita el
+concepto /literariedad/ u otra fundamentación linguística. Sus
+inicios, segun Blei, inician en \cite{klarreich_2019}. En los trabajos
+de este tipo, los autores, partiendo de un interés muy delimitado
+buscan medir una característica concreta: determinar el orígen de un
+texto \cite{klarreich_2019}, obtener una herramienta de visualización
+gráfica \cite{kaplan2006computational}, determinar el grado de
+creatividad de una traducción \cite{zuniga2017automatic} o, en
+términos más generales, capturar el /estilo/
+\cite{delmonte2005veneses} \cite{delmonte2013computing}.
 
 
-El trabajo de Delmonte \cite{delmonte2013computing} presenta a
-SPARSAR, un sistema para calcular automáticamente el estilo de la
-poesía. SPARSAR funciona sobre sistemas previos del mismo autor, como,
-por ejemplo, un analizador semántico \cite{delmonte2005venses}.
-Delmonte tiene una larga trayectoria en el modelamiento de conceptos
-lingüísticos "difíciles", como la prosodia y la rima en términos
-cuantitativos.
+La característica principal es que proponen una extensa lista de
+medidas posibles sobre un texto y luego proceden a
+vectorizarlas. Dentro de este tipo de trabajo, el más relevante es
+Kaplan Blei, en cuyo primer trabajo
+\cite{kaplan2006computational} de tesis de pregrado visualiza 84
+métricas distintas en un espacio vectorial y luego formaliza en un
+artículo científico. \cite{kaplan2007computational}.
 
-El aporte principal de Delmonte fue su innovación al momento de aplicar
-herramientas comunes de NLP (tokenizadores, splitters y NER) con el fin
-de analizar aspectos estilísticos de un texto. Los modelos de Delmonte
-son muy cercanos a la teoría lingüística y propone soluciones a aspectos
-complejos del análisis lingüístico. Esta proximidad me llevo a
-plantearme la pregunta ¿qué otros aspectos del lenguaje valdría la pena
-modelar que aún no hayan sido abordados desde una perspectiva
-computacional? Así mismo, Delmonte reporta que hay pocos trabajos en el
-área con este mismo enfoque. Esta fue una inspiración para explorar más
-en el tema y ofrecer un enfoque distinto, tal como él lo hizo.
+Los trabajos de Kaplan, son luego citados por el trabajo de Delmonte
+\cite{delmonte2013computing} \cite{delmonte2005veneses}. La trayectoria
+de Delmonte es bastante amplia en su alcance. Iniciando con módulos
+que calculan similaridades semánticas en un texto \cite{delmonte2005veneses},
+luego aprovecha las ideas de Kaplan para desarrollar un sistema multi-modular
+que abarca prácticamente todas las áreas de estudio de la linguística:
+semántica, fonética, gramática e incluso aspectos que tienen que ver
+con la rima (prosodia).
 
-Sin embargo, Delmonte no revela detalles de implementación de sus sis-
-temas en los artículos revisados. Además, sus sistemas tienen una
-alcance mucho mayor que el dispuesto para este trabajo, por lo que para
-mayores detalles tuve que referirme a otros trabajos.
+A pesar de el trabajo de Delmonte es el más rico y complejo no solo
+dentro de este tipo, sino de toda la bibliografía consultada,
+realmente nunca hace alusión al concepto de /literariedad/. Lo más
+relevante del trabajo de Delmonte es el uso constante de las mismas
+herramientas (tokenizadores, splitters, n-gramas y NER) para construir
+módulos de creciente complejidad. 
 
-El trabajo de \cite{zuniga2017automatic} establece una métrica para
-medir el grado de creatividad en la poesía, basándose en qué tanto de
-la rima se conserva en la traducción de un poema con respecto al
-original. Tomé de Zuñiga la idea de establecer una métrica para un
-aspecto tradicionalmente cualitativo (la creatividad). Lo que
-diferencia este trabajo del de Delmonte, es su aproximación
-matemática. Particularmente, Zuñiga ofreció una forma naive de
-calcular similitud en rima, sin necesidad de recurrir a construcciones
-que requieren de recursos léxicos complejos como una ontología para
-fonemas, etc.
 
-Por último, el trabajo de \cite{kaplan2006computational} es una tesis
-de pregrado sobre el cálculo del estilo de la poesía desde una
-perspectiva estadística. Kaplan fue una inspiración para Delmonte, por
-lo tanto debía formar parte de la revisión bibliográfica. Kaplan
-formuló un modelo que media 84 métricas distintas para cada documento,
-luego transformó el modelo de 84 métricas para visualizarlo en un
-espacio 3D y poder comparar distintas obras literarias. Esto inspiró
-la idea inicial de obtener una métrica más general para analizar un
-texto, que no tenga que recurrir un trabajo de compilación de métricas
-existentes, como lo hizo Kaplan. Tal métrica debería estar sustentada
-en conceptos linguísticos, para lo cual se recurrió a  los conceptos
-presentados en el marco teórico.
+El aporte principal de Delmonte fue su innovación al momento de
+aplicar herramientas comunes de NLP (tokenizadores, splitters y NER)
+con el fin de analizar aspectos a lo largo de las distintas áreas de
+la lingüistica. Por lo tanto, sus modelos son mucho más informados y
+propone soluciones a aspectos complejos del análisis lingüístico que los
+autores anteriores no abordan.
+
+Por último, dentro de este segundo tipo de trabajo, tiene mención
+especial el trabajo de \cite{zuniga2017automatic}. Aquí se establece
+una métrica para medir el grado de creatividad en la poesía, basándose
+en qué tanto de la rima se conserva en la traducción de un poema con
+respecto al original. De aquí se tomó la idea de establecer una
+métrica para un aspecto tradicionalmente cualitativo (la creatividad),
+desde una perspectiva /hand-crafted/. Lo que diferenció este trabajo
+del de Delmonte, es su aproximación matemática. Aquí se proveen
+fórmulas para cada una de las 7 medidas propuestas. El grado de
+complejidad para cada medida es sencillo, pero se obtienen buenos
+resultados.  Lo que fue un ejemplo tremendo para este trabajo, pues
+muestra las ventajas del /hand-crafted features/, en contraposición al
+de /learned-features/. Esto destacó el valor de formular medidas
+propias por sobre las de un algoritmo no supervisado.
 
 ** DISEÑO METODOLÓGICO
    El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
@@ -1432,7 +1458,6 @@ y la metonimia.
    $F$ es más alto que 1, se puede aformar que el algoritmo genera valores
    significativamente distintos entre las metacategorias de ficción y no ficción
    con una confianza de 95%.
-
 
    
 ** CONCLUSIONES 
