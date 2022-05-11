@@ -9,6 +9,10 @@ B.~Eijembaum, ``La teor{\'\i}a del" m{\'e}todo formal",'' in {\em Textos de
 R.~Jakobson and A.~M.~G. Cabello, {\em Ling{\"u}{\'\i}stica y po{\'e}tica}.
 \newblock C{\'a}tedra Espa{\~n}a, 1981.
 
+\bibitem{jakobson1956two}
+R.~Jakobson, ``Two aspects of language and two types of aphasic disturbances,''
+  {\em Fundamentals of language}, vol.~1, pp.~69--96, 1956.
+
 \bibitem{alonso1945curso}
 F.~De~Saussure, ``Curso de ling{\"u}{\'\i}stica general,'' {\em Buenos Aires:
   Losada. Original de Ferdinand de}, 1945.
@@ -18,11 +22,6 @@ I.~A. Bolshakov and A.~Gelbukh, {\em Computational Linguistics: Models,
   Resources, Applications}.
 \newblock Mexico City: Centro de Investigacio{\'\o}n en Computaci{\'\o}n,
   Instituto Polit{\'\e}cnico Nacional, 1981.
-
-\bibitem{kaplan2007computational}
-D.~M. Kaplan and D.~M. Blei, ``A computational approach to style in american
-  poetry,'' in {\em Seventh IEEE International Conference on Data Mining (ICDM
-  2007)}, pp.~553--558, IEEE, 2007.
 
 \bibitem{manning1999foundations}
 C.~Manning and H.~Schutze, {\em Foundations of statistical natural language
@@ -54,33 +53,15 @@ A.~van Cranenburgh, K.~van Dalen-Oskam, and J.~van Zundert, ``Vector space
   explorations of literary language,'' {\em Language Resources and Evaluation},
   vol.~53, no.~4, pp.~625--650, 2019.
 
-\bibitem{louwerse2008computationally}
-M.~Louwerse, N.~Benesh, and B.~Zhang, ``Computationally discriminating literary
-  from non-literary texts,'' {\em Directions in empirical literary studies: In
-  honor of Willie Van Peer}, vol.~5, pp.~175--191, 2008.
-
 \bibitem{van2015identifying}
 A.~van Cranenburgh and C.~Koolen, ``Identifying literary texts with bigrams,''
   in {\em Proceedings of the Fourth Workshop on Computational Linguistics for
   Literature}, pp.~58--67, 2015.
 
-\bibitem{delmonte2013computing}
-R.~Delmonte, ``Computing poetry style.,'' in {\em ESSEM@ AI* IA}, pp.~148--155,
-  2013.
-
-\bibitem{delmonte2005venses}
-R.~Delmonte, S.~Tonelli, M.~A.~P. Boniforti, and A.~Bristot, ``Venses--a
-  linguistically-based system for semantic evaluation,'' in {\em Machine
-  Learning Challenges Workshop}, pp.~344--371, Springer, 2005.
-
-\bibitem{zuniga2017automatic}
-D.~F. Zu{\~n}iga, T.~Amido, and J.~E. Camargo, ``Automatic computation of
-  poetic creativity in parallel corpora,'' in {\em Colombian Conference on
-  Computing}, pp.~710--720, Springer, 2017.
-
-\bibitem{kaplan2006computational}
-D.~Kaplan, ``Computational analysis and visualized comparison of style in
-  american poetry,'' {\em Unpublished undergraduate thesis}, 2006.
+\bibitem{louwerse2008computationally}
+M.~Louwerse, N.~Benesh, and B.~Zhang, ``Computationally discriminating literary
+  from non-literary texts,'' {\em Directions in empirical literary studies: In
+  honor of Willie Van Peer}, vol.~5, pp.~175--191, 2008.
 
 \bibitem{chuit2019epistemologia}
 R.~Chuit-Roganovich, ``Epistemolog{\'\i}a de la teor{\'\i}a literaria: objeto y
@@ -89,5 +70,28 @@ R.~Chuit-Roganovich, ``Epistemolog{\'\i}a de la teor{\'\i}a literaria: objeto y
 
 \bibitem{klarreich_2019}
 E.~Klarreich, ``Bookish math,'' Aug 2019.
+
+\bibitem{kaplan2006computational}
+D.~Kaplan, ``Computational analysis and visualized comparison of style in
+  american poetry,'' {\em Unpublished undergraduate thesis}, 2006.
+
+\bibitem{zuniga2017automatic}
+D.~F. Zu{\~n}iga, T.~Amido, and J.~E. Camargo, ``Automatic computation of
+  poetic creativity in parallel corpora,'' in {\em Colombian Conference on
+  Computing}, pp.~710--720, Springer, 2017.
+
+\bibitem{delmonte2005venses}
+R.~Delmonte, S.~Tonelli, M.~A.~P. Boniforti, and A.~Bristot, ``Venses--a
+  linguistically-based system for semantic evaluation,'' in {\em Machine
+  Learning Challenges Workshop}, pp.~344--371, Springer, 2005.
+
+\bibitem{delmonte2013computing}
+R.~Delmonte, ``Computing poetry style.,'' in {\em ESSEM@ AI* IA}, pp.~148--155,
+  2013.
+
+\bibitem{kaplan2007computational}
+D.~M. Kaplan and D.~M. Blei, ``A computational approach to style in american
+  poetry,'' in {\em Seventh IEEE International Conference on Data Mining (ICDM
+  2007)}, pp.~553--558, IEEE, 2007.
 
 \end{thebibliography}

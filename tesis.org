@@ -4,7 +4,7 @@
 #+LaTeX_CLASS_OPTIONS: [12pt,letterpaper,twoside]
 #+LATEX_HEADER: \input{mytitle}
 #+LATEX_HEADER: \usepackage{longtable}
-#+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \usepackage[spanish,english]{babel}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \usepackage{mathptmx}
@@ -23,6 +23,56 @@
 \doublespacing
 \raggedright
 \setlength{\parindent}{1.25cm}
+#+END_EXPORT
+
+
+   
+
+   
+
+#+BEGIN_EXPORT latex
+\selectlanguage{spanish}
+\begin{abstract}
+    En el presente trabajo se formula un modelo para calcular el
+   concepto de \emph{literariedad}, a través de dos medidas cuantitativas:
+   el \emph{indice metafórico} y el \emph{índice metonímico}. Tanto la
+   \emph{literariedad} como la \emph{metáfora} y la \emph{metonimia} no son conceptos
+   \emph{ad hoc}, sino que son modelados a partir del área de la
+   lingüistica estructural y, en particular, del lingüista Roman
+   Jakobson. Luego de formular el modelo, se evalúa a través de un
+   diseño experimental que se basa en el uso del Corpus de Brown. En
+   el experimento, se corren 5 muestras conformadas de 12 textos de
+   categorias diferentes. Los resultados experimentales muestran que
+   el \emph{índice metafórico} reporta consistentemente valores
+   significativamente más altos para las categorías de ficción, que
+   era el resultado esperado. Por otro lado, los resultados del
+   \emph{índice metonímico} muestran consistentemente valores más altos
+   para las categorías de no-ficción y en particular para los
+   comunicados gubernamentales, que era un resultado inesperado, pero
+   consistente con las teorías. El estadístico F y el valor-p de los
+   índices apuntan a que los resultados no son aleatorios, sino  consistentes
+   a lo largo de las muestras. 
+\end{abstract}
+
+\selectlanguage{english} 
+\begin{abstract}
+ The present work formulates a model for the concept of \emph{literariness}, by
+ finding two quantitative measures: the \emph{metaphorical index} and the \emph{metonymical index}.
+ The concepts of \emph{literariness}, \emph{metaphor} and \emph{metonymy} are not \emph{ad hoc}
+ constructs, but are modelled after the tenets of structural linguistics and, in particular,
+ from the works of linguist Roman Jakobson. After formulating the model, it is evaluated through
+ an experimental design based on the use of the Brown Corpus. In the experiment, 5 samples
+ formed by 12 texts of different categories are run.  The experimental results show that
+ the \emph{metaphorical index} reports values significatively higher than non-fiction consistently,
+ which was the expected result. On the other hand, the results of the \emph{metonymical index} show
+ giger values for the non-fiction categories consistently and, in particular, for governmental
+ communications, wich wasn't an expected result but is justifiable from a theoretical perspective.
+ The F-statistic and the p-value for the indexes show that these results are not random, but
+ consistent along the samples.
+\end{abstract}
+
+
+\selectlanguage{spanish}
 #+END_EXPORT
 ** FORMULACIÓN DEL PROBLEMA
 *** Introducción
@@ -48,79 +98,117 @@ una máquina?
 
 
 *** Planteamiento del problema
-    Roman Jakobson propone que la /literariedad/ de un texto está dada por
-dos componentes de lenguaje: la diacronía y la sincronía. Estos
-elementos fueron expandidos de la teoría linguística de Saussure.
-Más tarde, puestos en el contexto del análisis de la poesía,
-Jakobson renombró esos dos ejes como /metáfora/ y /metonímia/, en su texto
-"Linguística y poética". 
+
+    Roman Jakobson, en su conferencia /Lingüística y poética/
+    \cite{jakobson1981linguistica} y en su texto /Dos aspectos del lenguaje y dos
+    tipos de afasia/ \cite{jakobson1956two} propone que la
+    /literariedad/ de un texto está dada por dos componentes del acto
+    linguístico: la selección y la combinación. Estos dos conceptos se
+    conciben como oposiciones binarias y fueron expandidos de la
+    teoría linguística de Saussure, que en un principio fueron
+    planteados como los componentes de diacronía y sincronía de la
+    lengua (ver figura [[ejes_saussure]]). Puestos en el contexto del
+    análisis de la poesía, Jakobson renombró esos dos ejes como
+    /metáfora/ y /metonímia/.
 
 
 
-#+CAPTION:Distinción entre sincronía y diacronía
+#+CAPTION:Distinción inicial entre sincronía y diacronía según Saussure, tomado de \cite{alonso1945curso}
+#+LABEL:ejes_saussure
 [[./assets/clasificacion_saussure.png]]
 
-¿Es posible  modelar algorítmicamente  tales conceptos? Según
-Jakobson, en el estudio de la /literariedad/ se omite el factor emisor
-y factor receptor. Tan solo se centra en el mensaje. Representado
- únicamente a través de un /medio/ particular: en este caso, la palabra escrita.
-Es, por lo tanto,  /factible/ que un autómata pueda medir y presentar tales
-características. 
+¿Es posible modelar algorítmicamente tales conceptos? Según Jakobson,
+en el acto de lenguaje intervienen 6 factores (ver figura
+[[factores_jakobson]]). Sin embargo, cuando se estudia la /literariedad/,
+o la poética en general, Jakobson nos indica que nos debemos centrar
+nuestra atención en el factor Mensaje: "Esta función no es la única
+que posee el arte verbal, pero sí es la más sobresaliente y
+determinante, mientras que en el esto de las actividades verbales
+actúa como constitutivo subsidiario y accesorio" \cite{jakobson1981linguistica}.
+Así, al estudiar la /literariedad/ deberiamos poner un segundo plano
+los aspectos que lidian con la intención (Hablante), la interpretación
+(el receptor), los problemas de la lógica o referentes (Contexto) o
+problemas dentro del mismo lenguaje (Código). 
+
+La /literariedad/ se encuentra, entonces, en el Mensaje. En otros
+términos, puede considerarse lo que está 'dentro del texto'. Aquello
+que es patente.  En términos más simples: en la secuencia de sonidos
+que percibimos como un mensaje, expresado a través de la palabra
+escrita. Siguiendo el análisis de Jakobson, se puede teorizar que
+si se considera una cadena de textos como un mensaje, podríamos
+entonces hallar la /metáfora/ y la /metonimia/ y, por ende,
+una medida para /literariedad/.
+
 
 #+CAPTION:Factores de comunicación de Roman Jakobson \cite{jakobson1981linguistica}
+#+LABEL: factores_jakobson
 [[./assets/factores_comunicacion.png]]
 
-Saussure ofrece ya un modelo cualitativo muy bien esbozado en teoría,
-que es el que luego Jakobson utilizará para definir la literariaded.
-Sin embargo, aunque existe un planteamiento cualitativo del problema,
-no se halló en la bibliografía consultada un modelo computacional que
-modelara el concepto y lo implementara. 
 
-#+CAPTION: Modelo cualitativo inicial expuesto por Ferdinand De Saussure tomado de \cite{eijembaum2010teoria}
-[[./assets/delimitacion_saussure.png]]
+Las similitudes de los conceptos tanto de Saussure como de Jakobson
+con las estructuras lineales y secuenciales de la computación son
+evidentes a manera conceptual. Por ejemplo, en la figura
+[[ejes_saussure2]], el eje AB se considera el /eje de simultaneidades/,
+mientras que el eje CD se considera el /eje de sucesiones/
+\cite[pg. 106]{alonso1945curso}.
 
-Preliminarmente, se puede observar que el modelo de Saussure se
-fundamenta en una estructura bastante familiar en la computación: la
-secuencia \cite{alonso1945curso}. Así, el objetivo de este trabajo es modelar e implementar el
-modelo de /literariedad/ de Roman Jakobson utilizando redes semánticas
-y n-gramas.
+Aunque Saussure y Jakobson ofrecen un modelo cualitativo, no se halló
+en la bibliografía consultada un modelo computacional que modelara el
+concepto y lo implementara. Así, el objetivo de este trabajo es
+modelar e implementar el modelo de /literariedad/ de Roman Jakobson
+utilizando herramientas básicas del procesamiento del lenguaje
+natural.
 
+
+#+CAPTION: Ejemplo de estructuras secuenciales en el pensamiento de Saussure. Aquí se describe prototípicamente la selección y combinación de Roman Jakobson. Tomado de \cite{alonso1945curso}
+#+LABEL: ejes_saussure2
+[[./assets/ejes_saussure.png]]
 
 *** Justificacón
 
-Si bien existen infinitas operaciones realizables sobre un texto
-computarizado, hay pocas que tengan un enfoque humanístico, sea
-este linguístico, literario o estético. Este
-enfoque busca generar una mayor comprensión del fenómeno literario,
-en contraposición a los enfoques 'típicos' --y hoy en día
-indispensables-- de procesamiento de lenguaje: extracción de
-información, clasificación con base a un modelo predictivo, entre
-muchos otros \cite{gelbukh2004}.
+En términos generales, el foco principal de la linguística
+computacional han sido las aplicaciones que giran en torno a la
+extracción de información, y su 'comprehensión' por parte de la
+máquina. Por ejemplo, /text preparation/, /information retrieval/,
+/automatic translation/, /text classification/, entre otros
+\cite{gelbukh2004}.
 
-Más aún, dentro de este subcunjunto reducido, pocos están guiados por
-aquello que Gelbuhk llama 'la ciencia fundamental'. A saber, la
-linguística. En otras palabras, hay un vacío en el campo de la
-linguística computacional en lo que se refiere a modelos que procuran
-cuantificar esta perspectiva.
+Sin embargo, las aplicaciones con un enfoque humanístico, sea este
+linguístico, literario o estético son relativamente escazos, tal como
+lo reportan la mayoría de autores consultados (ver sección [[MARCO
+REFERENCIAL]]).  Más aún, dentro de este subcunjunto reducido, pocos
+están guiados por aquello que Gelbuhk llama 'la ciencia fundamental',
+la lingüistica o, desde una perspectiva de analítica de datos, la
+comprensión del dominio. Más particularmente, no se encuentran modelos
+que aborden los conceptos de /literariedad/, /selección/ y /combinación/
+de forma explícita, a pesar de que son ideas seminales de la lingüística
+de Roman Jakobson y, por ende, del llamado enfoque estructuralista.
 
-Tal vacío genera que el estudio académico de la literatura no pueda
-sustentarse en datos 'duros' o ,por lo menos, cuantitativos propias
-del método científico. Por otro lado, los diversas y posibles formas
-de calcular la 'creatividad', la 'rima' o la 'belleza' de un texto,
-propuesto por otros investigadores, pueden considerarse
-casuísticos,\cite{kaplan2007computational} acoplados a las objetivos y
-circunstancias de cada investigación en particular, desde la
-perspectiva de la linguística general.
+El vacío de aplicaciones de estos conceptos es una oportunidad para
+brindarle al estudio académico de la literatura herramientas basadas
+en datos 'duros' o ,por lo menos, cuantitativos propias del método
+científico. Por lo tanto, un modelo de la /literariedad/, sustentado
+en los planteamientos da lingüística diferencial, ampliaría las
+aplicaciones de la lingüistica computacional y permitiría someter a
+escrutinio los planteamientos de dicha teoría desde un enfoque
+experimental.
 
-Así, se necesita un modelo de la /literariedad/ que exprese
-concretamente la metáfora y la metonimia. Bien sea para ampliar las
-aplicaciones de la linguistica computacional o para someter a
-escrutinio los planteamientos de la teoría.
+Por otro lado, las escazas pero variopintas investigaciones en el área
+muestran un creciente interés en calcular la 'creatividad', la 'rima'
+o el 'estilo' de un texto. Sin embargo, esta misma diversidad de
+enfoques evidencia al mismo tiempo una falta de cohesión entre las
+disciplinas humanísticas y las ciencias (ver sección [[MARCO
+REFERENCIAL]]). El autor de esta investigación cree que los conceptos de
+la lingüistica estructural pueden aportar --si bien modestamente-- a
+formar un mejor diálogo entre estas disciplinas y ofrecer perspectivas
+que otros investigadores podrían valorar en un futuro.
 
-En esta investigación se formulará y evaluará un modelo para obtener
-una medida cuantitativa para el concepto de /literariedad/ de Roman
-Jakobson utilizando redes semánticas y n-gramas. De este modo, la
-presente investigación respondería a la pregunta ¿Cómo medir
+Por los motivos expuestos, en esta investigación se formulará y
+evaluará un modelo para obtener una medida cuantitativa para el
+concepto de /literariedad/ de Roman Jakobson utilizando las
+herramientas elementales del procesamiento de lenguaje natural y
+aplicando los postulados de la linguística estructural. De este modo,
+la presente investigación respondería a la pregunta ¿Cómo medir
 computarizadamente la /literariedad/ de un texto según el marco de la
 lingüística de Jakobson?
 
@@ -133,32 +221,31 @@ Lingüística computacional
 
 *** Alcances y delimitaciones:
 
-Para computar una métrica de /literariedad/ será necesario comparar
-un /corpus objetivo/ con respecto a un /corpus de referencia,/ este
-último representará el ‘uso corriente de la lengua'. La primera
-limitación de este trabajo es que no se compilará un corpus propio, sino
-que partirá de los de acceso libre. La mayoría de estos se encuentran en
-inglés. Por este motivo, el corpus de referencia más a la mano es
-WordNet, que al ser una ontología ya contiene las anotaciones necesarias
-para mi objetivo. A saber, una lista de sinónimos por palabras. Por otro
-lado, el corpus objetivo no tiene que estar anotado (utilizaré un
-PlainTextCorpus), pero de algún modo tiene que ser razonable su
-comparación con el corpus objetivo. Por ejemplo, los resultados del
-modelo serían muy difíciles de evaluar si la relación entre corpus
-objetivo y de referencia sobrepasa los 2 siglos, dada la naturaleza
-fluida de la lengua.
-    
-La segunda limitación concierne a la formulación de los algoritmos en sí
-mismos. Me limitaré a formular los modelos más naive posibles. Por
-ejemplo, (retomando el ejemplo previo) dada una palabra se considerará
-un sinónimo todas las palabras listadas como tal en el corpus de
-referencia, sin considerar los sub-problemas que esto podría conllevar.
+Para computar una métrica de /literariedad/ será necesario comparar un
+/corpus objetivo/ con respecto a un /corpus de referencia,/ este
+último representará el ‘uso corriente de la lengua' (ver sección
+[[Lengua]]). La primera delimitación de este trabajo es que no se
+compilará un corpus propio, sino que partirá de los de acceso
+libre. La mayoría de estos se encuentran en inglés. Por este motivo,
+los corpus utilizados son el Corpus de Brown y Wordnet, para
+que haya una congruencia de idiomas. Los criterios
+utilizados para hacer los corpus comparables se detallan en la sección
+[[Preparación de los datos.]]
+
+La segunda limitación concierne a la formulación de los algoritmos en
+sí mismos. Este trabajo se limitará a formular los modelos más naive
+posibles. Por ejemplo, (retomando el ejemplo previo) dada una palabra
+se considerará un sinónimo todas las palabras listadas como tal en el
+corpus de referencia, sin considerar los sub-problemas que esto podría
+conllevar. Por ejemplo, algunos problemas podrían ser que los sinónimos
+no sean suficientemente cercanos en su significado o que no se encuentren
+sinónimos suficientes.
 
 En general, el alcance de este proyecto es formular e implementar un
 modelo general que muestre cómo sería viable implementar el concepto de
 /literariedad/, sin ahondar en los detalles que se desprenden de cada
 fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
-las diferentes partes de una oración en el computo final, etc).
+las diferentes partes de una oración en el computo final?, etc).
 
 ** OBJETIVO GENERAL
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
@@ -179,48 +266,90 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 
 
   La /literariedad/ es, según Jakobson, la cualidad de un objeto
-  literario en cuanto tal. Por lo tanto, la /literariedad/ no depende de
-  ningún factor extrínseco, como su emisor, su valor histórico, las
-  ventas de tal o cual libro, las citaciones, etc. La /literariedad/ se
-  da exclusivamente por atributos propios del fenómeno del lenguaje.
+  literario en cuanto tal:
+
+  #+begin_quote
+  
+  El objeto de la ciencia de la literatura no es la
+  literatura, sino la literariedad (\emph{literaturnost'}), es decir,
+  aquello que hace de una obra determinada una obra
+  literaria. \cite[pg. 37]{eijembaum2010teoria}
+  #+end_quote
+
+  Por lo tanto, la /literariedad/ no depende de ningún factor extrínseco,
+  como su emisor, su valor histórico, sus ventas,
+  número de citaciones, etc. La /literariedad/ se da exclusivamente por
+  atributos propios del fenómeno del lenguaje.
 
   Para analizar la /literariedad/, se deben analizar las dos operaciones
-  más básicas de la conducta verbal: /la selección/ y /la combinación./
+  más básicas de la conducta verbal: /la selección/ y /la combinación./ 
 
 
-**** Selección (ver linguística sincrónica):
+
+  
+*** Roman Jakobson
+
+    La lingüistica de Jakobson se basa en los postulados de la lingüistica
+    de Saussure. Sin embargo, es clave resaltar que Jakobson propuso una crítica
+    a las ideas de Saussure y, en particular, postuló que los ejes de diacronía
+    y sincronía corresponden a 'operaciones' más profundas, que están presentes
+    en todo acto de habla. En el siguiente fragmento, se puede apreciar su
+    diferencia con respecto a Saussure:
+
+    #+begin_quote
+    The fundamental role which these two operations play in language
+    was clearly realized by Ferdinand de Saussure. Yet of the two
+    varieties of combination-concurrence and concatenation-it was only
+    the latter, the temporal sequence, which was recognized by the
+    Geneva linguist. Despite his own insight into the phoneme as a set
+    of concurrent distinctive features (/éléments différentiels
+    des phonèmes/), the scholar succumbed to the traditional belief
+    in the linear character of language "which excludes the
+    possibility of pronouncing two elements at the same time ".
+    \cite[99]{jakobson1956two}
+    #+end_quote
+
+**** Selección:
 
    La selección estudia qué palabra selecciona un hablante entre las
    palabras existentes de la lengua, más o menos similares y hasta
    cierto punto equivalentes. La selección se basa en la sinonimia o
-   antonimia de una palabra. En otros términos, en su semántica.
+   antonimia de una palabra. En otros términos, en su semántica. \cite{jakobson1956two}
   
    
-**** Combinación (ver linguística diacrónica):
+**** Combinación:
 
    La combinación estudia el "entramado de la secuencia" de un
    mensaje. Es decir, el mensaje considerado como una secuencia
    temporal y/o ordenada de palabras. La combinación se basa en la
    proximidad o, en otras palabras, en la relación de una palabra con
-   la que la sucede o antecede en un mensaje.
-
-
+   la que la sucede o antecede en un mensaje. \cite{jakobson1956two}
 
 *** Poética 
     La poética procura responder a la pregunta de ¿qué hace que un
-    mensaje (verbal o de otra naturaleza) sea una obra de arte? Lidia
-    principalmente con cuestiones estéticas del lenguaje. Sin embargo,
-    para hacer un analisis exhaustivo, la poética debe hacer uso de la
-    linguística, puesto que esta última estudia el lenguaje en todo su
-    conjunto. La /literariedad/ podría, entonces, considerarse un
-    concepto enmarcado en la poética, porque se preguntá qué hace que
-    un texto sea literario y por qué es distinto de otro que no lo es.
+    mensaje sea una obra de arte? Lidia principalmente con cuestiones
+    estéticas del lenguaje. Sin embargo, para hacer un análisis
+    exhaustivo, la poética debe hacer uso de la linguística, puesto
+    que esta última estudia el lenguaje en todo su conjunto. La
+    /literariedad/ podría, entonces, considerarse un concepto
+    enmarcado en la poética, porque se preguntá qué hace que un texto
+    sea literario y por qué es distinto de otro que no lo es.
+
+    #+begin_quote
+     El objeto principal de la poética es la diferencia específica del
+     arte verbal con respecto a otras artes y a otros tipos de conducta
+     verbal; por eso está destinada a ocupar un puesto preeminente dentro
+     de los estudios literarios.\cite[pg. 121]{jakobson1981linguistica}
+    #+end_quote
+
+
+
 
 *** Linguística
     
   La lingüística es la ciencia que estudia el lenguaje.
   Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
-  fonología, morfología, sintaxis, semántica y pragmática.
+  fonología, morfología, sintaxis, semántica y pragmática. \cite{gelbukh2004}
 
   La lingüística es un campo de estudio interdisciplinar e involucra
   disciplinas heterogéneas como la lógica y la neurolingüistica. Sin
@@ -234,8 +363,8 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    diferencial del lenguaje/.
 
    El modelo diferencial se caracteriza porque propone dos ejes
-   principales existentes en todo fenómeno lingüístico: el /eje de
-   sincronía/ y el /eje de diacronía/.
+   principales existentes en la lenguo: el /eje de
+   sincronía/ y el /eje de diacronía/.\cite{alonso1945curso}
 
    Estos dos ejes son la base de lo que Jakobson considera /selección/ y
    /combinación/.
@@ -250,27 +379,32 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    posibles palabras que un hablante pudo haber seleccionado para
    expresar una misma idea. Por ejemplo, para referirse a un
    niño, un hablante puede utilizar la las palabras "niño", "chico",
-   "jovencito", o "párvulo".
-
+   "jovencito", o "párvulo". En la perspectiva de Jakobson, el
+   eje de sicronía pasa a ser la selección (ver seleccion en [[Selección]]).
 
 **** Lingüística diacrónica 
 
    La linguística diacrónica estudia los cambios sucesivos en el
    lenguaje, producidos por la actividad constante del /eje
-   sincrónico/. En la perspectiva de Jakobson, un /mensaje/ tiene en
-   sí mismo un eje diacrónico. Tal eje mide la similaridad entre cada
-   término del mensaje entindido como secuencia. Un ejemplo se puede
-   apreciar en la oracion "I like Ike". An esta se evidencia una
-   repetición de sonidos similares: [ay layk ayk]. La similaridad, no
-   está dada por el significado, sino que aquí se proyecta a lo largo
-   del tiempo:"(...) para decirlo de un modo más técnico: todo
-   secuencia es un símil."
+   sincrónico/. Saussure plantea en un principio a la lingüistica
+   diacrónica como el estudio de los cambios históricos en de la
+   lengua \cite{alonso1945curso}.
+
+
+   Sin embargo, en la perspectiva de Jakobson, un /mensaje/ tiene en
+   sí mismo un eje diacrónico (ver combinación en [[Combinación]]). Tal
+   eje mide la similaridad entre cada término del mensaje entindido
+   como secuencia. En /Linguística y Poética/,
+   \cite{jakobson1981linguistica}, Jakobson propone como ejemplo la
+   oracion "I like Ike". An esta se evidencia una repetición de
+   sonidos similares: [ay layk ayk]. La similaridad, no está dada por
+   el significado, sino que aquí se proyecta a lo largo del tiempo.
 
 *** Lenguaje
      En términos simples, el lenguaje es la facultad de formular y
      comprender signos o símbolos, ya sean hablados, escritos,
      imágenes, etc.  En otros términos, el lenguaje es una capacidad
-     general. Sin embargo, para Saussure, la lengua tiene una
+     general. Sin embargo, para Saussure, el lenguaje tiene una
      característica doble: que es al mismo tiempo un sistema
      establecido y la constante evolución de tal sistema. Estos dos
      componentes son la /lengua/ y el /habla/.
@@ -523,18 +657,21 @@ En la revisión de la literatura hecha se encontraron, a groso modo,
 dos tipos de trabajos que se consideran antecedentes cercanos. Esta
 distinción es importante porque cada categoría tiene un enfoque
 distinto sobre el problema de la /literariedad/. A continuación,
-se presentarán estos dos tipos de trabajo y luego se hará una
-breve síntesis.
+se presentarán estos dos tipos (Tipo I y II)  de trabajo y se mencionarán los
+aspectos relevantes para el presente trabajo. 
 
+
+*** Tipo I
 El primer tipo de trabajo tiene un enfoque basado en /Machine
-Learning/ y los autores por lo general se muestran escépticos al
-concepto. Dentro de estos, los más relevantes son los de Cranenburgh
-\cite{van2019vector} y Louwerse \cite{louwerse2008computationally}. En
-ambos trabajos los autores hacen una alusión explícita al concepto
-(/literariness/). No obstante, estos dos trabajos pasan por alto las
-bases linguísticas del concepto y se presenta la /literariedad/ como
-una medida percibida por el lector, y poco articulada. Por ejemplo,
-Cranenbourgh afirma:
+Learning/, tienen un componente explorativo, y los autores por lo
+general se muestran escépticos al concepto de /literariedad/. Dentro
+de estos, los más relevantes son los de Cranenburgh
+\cite{van2019vector} \cite{van2015identifying} y Louwerse
+\cite{louwerse2008computationally}. En ambos trabajos los autores
+hacen una alusión explícita al concepto (/literariness/). No obstante,
+estos dos trabajos pasan por alto las bases linguísticas del concepto
+y se presenta la /literariedad/ como una medida percibida por el
+lector, y poco articulada. Por ejemplo, Cranenbourgh afirma:
 
 #+begin_quote
 However much debated the topic of literary quality is, one thing we do
@@ -556,47 +693,59 @@ non-literary texts is a question that has not been satisfactorily
 answered.\cite[pg. 176]{louwerse2008computationally}
 #+end_quote
 
-
 Como es evidente, esta investigación toma el enfoque opuesto a estos
 trabajos previos. En concreto: en esta se parte del supuesto de que la
 /literariedad/ está suficientemente descrita por Roman Jakobson y que
 es algo 'dentro del texto', no dependiente de apreciaciones
-subjetivas. Por consiguiente, se omiten los contra-argumentos usuales
-en contra de la /literariedad/ \cite{chuit2019epistemologia} , el
-/formalismo/ o, de manera más generalizada, el /estructuralismo/.
+subjetivas. Por consiguiente, se suspende el juicio con respecto a los
+contra-argumentos usuales en contra de la /literariedad/
+\cite{chuit2019epistemologia}, el /formalismo/ o, de manera más
+generalizada, el /estructuralismo/ y se aboca a proponer y validar
+un modelo. 
 
-La otra divergencia de este trabajo con respecto a este primer tipo,
-se da a nivel del uso de tecnologías. En este no se hace uso de
-Machine Learning. En los trabajos citados, se define la literariedad
-como aquellos patrones que producen la classificación más apta. En
-este trabajo, en contraparte, se parte de un modelo y luego se evalua
-experimentalmente. Se podría decir, a manera de síntesis, que en este
-tipo de trabajo la /literariedad/ se encuentra. En este trabajo, en
-cambio, la /literariedad/ se modela.
+La otra divergencia del presente trabajo con respecto a este primer
+tipo, se da a nivel del uso de tecnologías. En el presente trabajo no
+se hace uso de Machine Learning, entendiendo este término como el uso
+de modelos bayesianos (Latent Dirchlet Allocation), modelos de
+regresión lineal (Suppport Vector Machines), redes neuronales
+(Paragraph Vectors).
 
+Consiguientemente, en los trabajos citados (exceptuando a
+\cite{louwerse2008computationally}), se entiende la literariedad como
+aquellos patrones que producen la classificación más apta. En el
+presente trabajo, en contraparte, se formula un modelo basado en la
+teoría y luego se evalua experimentalmente. Se podría decir, a manera
+de síntesis, que en los trabajos de tipo I la /literariedad/ se
+encuentra. En este trabajo, en cambio, la /literariedad/ se modela.
+
+
+
+*** Tipo II
 Ahora bien, el segundo tipo de trabajo tiene un enfoque basado en
 estadística y vectorización, pero no emplea de forma explícita el
-concepto /literariedad/ u otra fundamentación linguística. Sus
-inicios, segun Blei, inician en \cite{klarreich_2019}. En los trabajos
-de este tipo, los autores, partiendo de un interés muy delimitado
-buscan medir una característica concreta: determinar el orígen de un
-texto \cite{klarreich_2019}, obtener una herramienta de visualización
-gráfica \cite{kaplan2006computational}, determinar el grado de
-creatividad de una traducción \cite{zuniga2017automatic} o, en
-términos más generales, capturar el /estilo/
-\cite{delmonte2005veneses} \cite{delmonte2013computing}.
+concepto /literariedad/ u otra fundamentación de la linguística
+saussureana. Sus inicios, segun Blei, inician en
+\cite{klarreich_2019}. En los trabajos de este tipo, los autores,
+partiendo de un interés muy delimitado buscan medir una característica
+concreta: determinar el orígen de un texto \cite{klarreich_2019},
+obtener una herramienta de visualización gráfica
+\cite{kaplan2006computational}, determinar el grado de creatividad de
+una traducción \cite{zuniga2017automatic} o, en términos más
+generales, capturar el /estilo/ \cite{delmonte2005venses}
+\cite{delmonte2013computing}.
 
 
-La característica principal es que proponen una extensa lista de
-medidas posibles sobre un texto y luego proceden a
-vectorizarlas. Dentro de este tipo de trabajo, el más relevante es
-Kaplan Blei, en cuyo primer trabajo
+Su característica principal es que proponen una extensa lista de
+medidas posibles sobre un texto, forman un espacio vectorial y luego
+hacen uso de alguna técnica de reducción de dimensionalidad (Principal
+Component Analysis, Support Vector Machines). Dentro de este tipo de
+trabajo, el más relevante es Kaplan Blei, en cuyo primer trabajo
 \cite{kaplan2006computational} de tesis de pregrado visualiza 84
 métricas distintas en un espacio vectorial y luego formaliza en un
 artículo científico. \cite{kaplan2007computational}.
 
 Los trabajos de Kaplan, son luego citados por el trabajo de Delmonte
-\cite{delmonte2013computing} \cite{delmonte2005veneses}. La trayectoria
+\cite{delmonte2013computing} \cite{delmonte2005venses}. La trayectoria
 de Delmonte es bastante amplia en su alcance. Iniciando con módulos
 que calculan similaridades semánticas en un texto \cite{delmonte2005veneses},
 luego aprovecha las ideas de Kaplan para desarrollar un sistema multi-modular
