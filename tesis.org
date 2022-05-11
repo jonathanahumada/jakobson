@@ -13,6 +13,8 @@
 #+LATEX_HEADER: \fancyhf{}
 #+LATEX_HEADER: \fancyhead[R]{\thepage}
 #+LATEX_HEADER: \renewcommand{\headrulewidth}{0pt}
+#+LATEX_HEADER: \usepackage{lscape}
+#+LATEX_HEADER: \usepackage{booktabs}
 #+LANGUAGE: es
 
 #+LATEX_HEADER: \setlength{\parindent}{1.25cm}
@@ -230,16 +232,25 @@ libre. La mayoría de estos se encuentran en inglés. Por este motivo,
 los corpus utilizados son el Corpus de Brown y Wordnet, para
 que haya una congruencia de idiomas. Los criterios
 utilizados para hacer los corpus comparables se detallan en la sección
-[[Preparación de los datos.]]
+[[Preparación de los datos]].
 
 La segunda limitación concierne a la formulación de los algoritmos en
 sí mismos. Este trabajo se limitará a formular los modelos más naive
-posibles. Por ejemplo, (retomando el ejemplo previo) dada una palabra
-se considerará un sinónimo todas las palabras listadas como tal en el
+posibles.
+
+En el caso del índice metafórico, dada una palabra, se
+considerará un sinónimo todas las palabras listadas como tal en el
 corpus de referencia, sin considerar los sub-problemas que esto podría
-conllevar. Por ejemplo, algunos problemas podrían ser que los sinónimos
-no sean suficientemente cercanos en su significado o que no se encuentren
-sinónimos suficientes.
+conllevar. Por ejemplo, algunos problemas podrían ser que los
+sinónimos no sean suficientemente cercanos en su significado o que no
+se encuentren sinónimos suficientes.
+
+En el caso del índice metonímico, la secuencia lineal será modelada
+con bigramas haciendo uso de la noción de /graphic word/ (ver sección
+[[tokenización]]).  Es decir, se harán pares de palabras considerando cada
+palabra una secuencia de caracteres separadas por un especio, sin
+entrar a considerar alternativas más precisas. Por ejemplo, como
+formar los n-gramas con base en sílabas o fonemas, etc.
 
 En general, el alcance de este proyecto es formular e implementar un
 modelo general que muestre cómo sería viable implementar el concepto de
@@ -261,7 +272,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 4) Evaluar el algoritmo de manera cuantitativa y cualitativa
 
 ** MARCO TEÓRICO
-
+   
 *** Literariedad
 
 
@@ -440,7 +451,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 *** Lingüística Computacional
 
    Es la intersección entre la computación y la lingüística. Por lo
-   general, se preocupa acerca de cómo procesar automáticamente el
+   general, se preocupa por cómo procesar automáticamente el
    lenguaje natural, para lo cual genera modelos lingüísticos sobre los
    que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
@@ -461,8 +472,8 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     inglés), es a menudo considerado sinónimo con la lingüística
     computacional \cite{gelbukh2004}.  Sin embargo, el NLP se refiere
     concretamente a la aplicación práctica de la linguística
-    computacional para procesar automáticamente (a menudo en enormes
-    cantidades) mensajes de lenguaje natural y obtener de estos alguna
+    computacional para procesar automáticamente) mensajes (a menudo en
+    enormes cantidades) de lenguaje natural y obtener de estos alguna
     información o un acción sin intermedio de un humanano.
 
     En este trabajo, se utilizan algunas herramientas típicas del
@@ -471,18 +482,19 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     que se parte una herramienta computacional en particular: NLTK.
     
 **** NLTK
-  El Natural Language Toolkit (NLTK) es un módulo de Python que
-  ofrece una interfaz para tareas comunes en la lingüística
-  computacional. La ventaja principal de NLTK es que se considera a
-  sí mismo un /toolkit/. Esto significa que no impone una estructura
-  de procesamiento definida a la vez que ofrece un extenso abanico de
+  El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
+  una interfaz para tareas comunes en la lingüística computacional. La
+  ventaja principal de NLTK es que se considera a sí mismo un
+  /toolkit/. Esto significa que no impone una estructura de
+  procesamiento definida, sino que a ofrece un extenso abanico de
   herramientas, tales como: tokenizacion, filtros, generación de
   n-gramas, análisis sintáctico de oraciones, entre otras.
 
   Se seleccionó esta herramienta porque no impone una estructura
   rígida en cuantó que cómo procesar el texto, lo que la hizo
   idónea para perseguir los objetivos interdisciplinares de esta
-  investigación. Es
+  investigación. En cuanto a las herramientas concretas utilizadas,
+  se expondrán a continuación.
   
 **** N-gramas
 
@@ -693,21 +705,21 @@ non-literary texts is a question that has not been satisfactorily
 answered.\cite[pg. 176]{louwerse2008computationally}
 #+end_quote
 
-Como es evidente, esta investigación toma el enfoque opuesto a estos
-trabajos previos. En concreto: en esta se parte del supuesto de que la
-/literariedad/ está suficientemente descrita por Roman Jakobson y que
-es algo 'dentro del texto', no dependiente de apreciaciones
-subjetivas. Por consiguiente, se suspende el juicio con respecto a los
-contra-argumentos usuales en contra de la /literariedad/
-\cite{chuit2019epistemologia}, el /formalismo/ o, de manera más
-generalizada, el /estructuralismo/ y se aboca a proponer y validar
-un modelo. 
+Como es evidente, la presente investigación toma el enfoque opuesto a
+estos trabajos previos. En concreto: en la presente se parte del
+supuesto de que la /literariedad/ está suficientemente descrita por
+Roman Jakobson y que es algo 'dentro del texto', no dependiente de
+apreciaciones subjetivas. Por consiguiente, se suspende el juicio con
+respecto a los contra-argumentos usuales en contra de la
+/literariedad/ \cite{chuit2019epistemologia}, el /formalismo/ o, de
+manera más generalizada, el /estructuralismo/ y se aboca a proponer y
+validar un modelo.
 
 La otra divergencia del presente trabajo con respecto a este primer
 tipo, se da a nivel del uso de tecnologías. En el presente trabajo no
 se hace uso de Machine Learning, entendiendo este término como el uso
 de modelos bayesianos (Latent Dirchlet Allocation), modelos de
-regresión lineal (Suppport Vector Machines), redes neuronales
+regresión lineal (Suppport Vector Machines) o redes neuronales
 (Paragraph Vectors).
 
 Consiguientemente, en los trabajos citados (exceptuando a
@@ -808,94 +820,114 @@ propias por sobre las de un algoritmo no supervisado.
 
 
     ¿Cuál sería el beneficio de obtener este resultado? Se podría
-    comparar las métricas de n mensajes cualesquiera y tener una
+    comparar las métricas de $n$ mensajes cualesquiera y tener una
     medida objetiva con las cuales compararlas. Algunos casos de uso
     posible serían:
     
-    - determinar si un mensaje que yo he escrito es más metáforico o
-      metonímico que otro.
+    - determinar si un mensaje personal que he escrito es más
+      metáforico o metonímico que otro,
       
-    - determinar si un mensajes de una misma categoria (por ejemplo,
-      del mismo autor, o del mismo género) tienen medidas de métadora
-      y metonímia similares.
+    - determinar si un mensaje de una misma categoria (por ejemplo,
+      del mismo autor, o del mismo género) tienen medidas de metáfora
+      y metonímia similares,
 
-    - correr grandes grupos de mensajes, por ejemplo, 'poemas de la
-      escuela simbolistas' y compararlo con 'poemas realistas' y
-      verificar si hay o no una diferencia sustancial desde el punto
-      de vista linguístico .
+    - comparación literaria, por ejemplo, poemas de la escuela
+      simbolista y compararlo con poemas realistas y verificar si
+      hay o no una diferencia sustancial desde el punto de vista
+      linguístico,
       
-    Como se puede apreciar (ref:fig:posibles_usos), las aplicaciones
+    Como se puede apreciar en la figura [[fig:posibles_usos]], las aplicaciones
     del modelo en principio supondrían un factor adicional para ser
     considerado para el estudio literario, cuya naturaleza es
     cualitativa. Sin embargo, si el modelo demuestra ser efectivo,
     podría llegar a ser una medida de similitud para un texto, lo que
     implicaría que se podría clasificar un texto con base en su
-    metáfora y metonímia,
+    metáfora y metonímia.
     
     
 *** Entendimiento de los datos
 
-    En esta sección, se enumeraran las distintas fuentes de datos,
-    que en este caso vendrían a ser los diferentes tipos de corpus.
+    En esta sección, se enumeran las distintas fuentes de datos o
+    recursos, que en este caso vendrían a ser los diferentes tipos de
+    corpus necesarios para el modelo. Cada fuente se utiliza para
+    formar un componente dentro del modelo (nivel de abstracción), que
+    guarda una relación con la teoría lingüística.  Estas relaciones
+    están sintetizadas en la figura [[Entendimiento de los datos]].
+    A continuación, se describe cada tipo de dato, vinculándolo con su
+    recurso, la tecnología implicada y la teoría.
 
+    #+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
+    #+LABEL: Entendimiento de los datos
+    [[./assets/entendimiento_de_los_datos.png]]
+
+    
      
 **** El corpus de referencia
 
-     El corpus de referencia es un compendio de muestras
-     que terminará por representar un consenso sobre
-     el uso de la /lengua/. Su correlación teórica
-     es el eje de diacronía y cumple la función de
-     cristalizar una lengua en un lugar y un tiempo establecido.
-     A nivel de implementación, se trata de un cadena muy larga
-     compuesto de muestras seleccionadas según criterios aptos
-     (ver sección sobre preparación de los datos).
+     El corpus de referencia es un compendio de muestras textuales que
+     representa un consenso sobre el uso de la /lengua/
+     (ver [[Lengua]]). Su correlación teórica es el eje de diacronía (ver
+     [[Lingüística sincrónica]]) y cumple la función de cristalizar una
+     lengua en un lugar y un tiempo establecido.
 
+     Desde un punto de vista técnico, es una cadena de texto de
+     longitud arbitraria sobre la cual se forma una bolsa de palabras
+     (ver [[Bag of words]]) basada en frequencias.
 
-
+     Como fuente del corpus de referencia, se utiliza el Corpus de
+     Brown. El Corpus de Brown se accede a través de la librería NLTK
+     de Python (ver [[NLTK]]), que provee una descarga asistida a través
+     de su módulo `nltk.corpus`.
+     
 
 **** El corpus objetivo
 
      El corpus objetivo serán los mensajes sobre los cuales se
-     computarán las dos medidas de /metáfora/ y /metonimia/.
-     Su correlativo teórico es el /habla/ y son los
-     textos que el usuario final del final del sistema desea
-     someter a análisis. A nivel de implementación, cada mensaje
-     es una cadena (que corresponde a un documento real), pero
-     en su totalidad el corpus objetivo es mucho más pequeño
-     que el corpus de referencia, del mismo modo en que una
-     persona que profiere una oración utiliza un subconjunto
-     mucho más pequeño de la lengua a la que pertenece.  
+     computarán las dos medidas de /metáfora/ y /metonimia/.  Su
+     correlativo teórico es el /habla/ y son los textos que el usuario
+     final del final del sistema desea someter a análisis.
+
+     A nivel técnico, cada mensaje es una sola cadena de texto de
+     longitud arbitaria.
+
+     Como fuente de los corpus objetivo, también se utiliza el Corpus
+     de Brown, puesto que, siguiendo los postulados de la teoría, el
+     /habla/ se debe estudiar en relación con la /lengua/. Los
+     detalles sobre qué téxtos específicos del Corpus de Brown son
+     utilizados como corpus objetivo están detallados en la sección
+     [[Preparación de los datos]].
+
+
      
 **** La red semántica
 
-     La red semántica es un tipo de corpus particular que no solamente
-     consta de palabras anotadas, como el de Brown, sino que vincula
-     las palabras por su relación conceptual con otras palabras. La
-     red semántica correspondería a la facultad de asociar conceptos
-     con las "imágenes acústicas" (las palabras) de Saussure. En esta
-     investigación, la red semántica se utilizará para obtener
-     sínonimos de palabras, que representarán conceptos. Tal red
-     no será implementada, sino que será un servicio utilizado por
-     el algoritmo. 
+     La red semántica es un componente que permite vincular palabras
+     entre sí en virtud de su significado. Su correlativo teórico
+     es la noción de lenguaje mismo, entiendo por este la facultad
+     de comprender sistemas de signos (ver [[Lenguaje]]).
+
+     A nivel técnico, la red semántica no se preparará o implementará
+     de ningún modo, sino que se utilizará el recurso WordNet. WordNet
+     es una base de datos léxica que, entre sus muchas aplicaciones,
+     puede funcionar como red semántica porque provee sets de
+     sinonimos (llamados /synsets/) para las palabras
+     \cite{fellbaum_1998}. El accesso a la WordNet también lo provee la
+     libreria NLTK a través de su módulo `nltk.corpus`.
      
      
 
-**** Resumen de entendimiento de los datos
-#+CAPTION: Resumen de las fuentes de datos utilizadas para cada concepto
-[[./assets/entendimiento_de_los_datos.png]]
-
-      
 *** Preparación de los datos
-    \label{sec:preparacion_datos}
-    La tarea de preparación de los datos consitirá principalmente en
-    seleccionar los distintos tipos de corpus de manera significativa
-    y coherente.  A continuación, describiré cómo se conformaron los
-    corpus y qué criterios se utilizaron.
+    \label{sec:preparacion_datos} La tarea de preparación de los datos
+    consiste principalmente en seleccionar confeccionar los corpus
+    necesarios para el modelo (corpus de referencia y corpus objetivo)
+    a partir del corpus de Brown, seleccionando cada los textos de
+    manera significativa y coherente.  A continuación, se describen los
+    criterios utilizados para realizar la selección de textos.
 
 **** Corpus de referencia
      
      El corpus de referencia representa la /lengua/ (/langue/). Por lo
-     tanto debe estar compuesto de una muestra de textos
+     tanto, debe estar compuesto de una muestra de textos
      comparativamente mucho más grande los mensajes individuales que
      serán contrastados con este. ¿Cómo construir un corpus tal?
 
@@ -920,13 +952,14 @@ propias por sobre las de un algoritmo no supervisado.
      los motivos anteriores, se escogió el corpus de Brown, que
      presenta las siguientes características:
 
-     - todas las muestras del corpus pertenecen al año 1961
-     - todas las muestras del corpus se imprimieron en Estados Unidos durante ese año
-     - todos los autores son hablantes nativos de inglés
-     - la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown
-     - la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año
-     - tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías
-     - los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido
+     - todas las muestras del corpus pertenecen al año 1961,
+     - todas las muestras del corpus se imprimieron en Estados Unidos durante ese año,
+     - todos los autores son hablantes nativos de inglés,
+     - la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown,
+     - la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año,
+     - tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías,
+     - el número de textos por categoría guarda la relación entre los textos publicados de esa categoría durante ese año y
+     - los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
 
      En la tabla \ref{tab:corpus_referencia} se muestra lo que se
      utilizará como corpus de referencia.
@@ -1021,10 +1054,10 @@ propias por sobre las de un algoritmo no supervisado.
      seleccionada para la categoría está ausente en el corpus objetivo. Así,
      el corpus objetivo presenta las siguientes características:
 
-     - es una muestra 'miniatura' del corpus de Brown
-     - la relación de tamaño entre el corpus objetivo y el corpus de Brown es de 1:5
-     - Cada categoría en el cropus objetivo tiene su correlativo en el de referencia y viceversa
-     - el tamaño de cada muestra es de cerca de 2000 palabras
+     - es una muestra 'miniatura' del corpus de Brown,
+     - la relación de tamaño entre el corpus objetivo y el corpus de Brown es de 1:5,
+     - cada categoría en el cropus objetivo tiene su correlativo en el de referencia y viceversa,
+     - el tamaño de cada muestra es de cerca de 2000 palabras.
 
      A continuación, se presenta un resumen del corpus objetivo en las
      tablas \ref{tab:corpus_objetivo1},
@@ -1203,10 +1236,10 @@ cód & nombre & categoría \\ \hline
 
    Además, dentro de cada muestra, se espera que se cumplan ciertas hipótesis:
 
-   - H1: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción
-   - H2: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestras
-   - H3: Se espera que la categoría 'Belles Lettres' tenga un indíce metafórico más alta entre las categorías de no-ficción
-   - H4: Se espera que la categoria 'Learned' tenga un indice metonímico bajo en general
+   - H_1: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
+   - H_2: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestras.
+   - H_3: Se espera que la categoría 'Belles Lettres' tenga un indíce metafórico más alta entre las categorías de no-ficción.
+   - H_4: Se espera que la categoria 'Learned' tenga un indice metonímico bajo en general.
 
 
    No se formularán más hipotesis acerca del índice metonímico, pues según los planteamientos teóricos este indicador
@@ -1216,35 +1249,82 @@ cód & nombre & categoría \\ \hline
  
    
 ****  Presentación del modelo
+     
 El modelo diseñado se basa en las siguientes ecuaciones. Para una
 visión a más alto nivel del procedimiento se puede ver la figura
 \ref{fig:metodologia}.
+
+En primer lugar, un mensaje es cualquier cadena de texto. Una vez
+tokenizado, se obtienen las palabras $w$ mostradas en la ecuación
+\ref{eq:mensaje}.
+
 
       \begin{equation}\label{eq:mensaje}
 mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
 \end{equation}
 
+
+ Luego, para cada una de las palabras, se hace
+primero el cálculo del vector semántico. Un vector semantico está
+compuesto de sinónimos $s$ del la palabra inicial (ecuación
+\ref{eq:vector_semantico}).
+
+
 \begin{equation}\label{eq:vector_semantico}
 vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} \\
 \end{equation}
 
+
+Cuando se termina de obtener los campos
+semánticos de cada palabra del mensaje, se obtiene una matriz
+semántica. Luego, por cada vector semantico, se calcula un vector de
+uso que cuenta la frecuencia de cada componente del vector semantico
+$s$ en el corpus de referencia \ref{eq:vector_uso}.
+
 \begin{equation}\label{eq:vector_uso}
-vector\ uso(w) = \{freq(s_1),freq(s_2),freq(s_3), \dots, freq(s_j) \} \\
+vector\ uso(w) = \{freq_{referencia}(s_1),freq_{referencia}(s_2),freq_{referencia}(s_3), \dots, freq_{referencia}(s_j) \} \\
 \end{equation}
+
+
+La suma de todos los vectores de uso de un mensaje se conoce como la
+matriz de uso. Se puede apreciar las relación de las matrices
+semántica y de uso con entre sí en la figura \ref{fig:matrices}.
 
 
 \begin{equation}\label{eq:uso}
 \mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
 \end{equation}
 
+
+Seguidamente, para cada vector de uso se calcula el uso, que es la
+relación entre la media del vector de uso y la frecuencia de la
+palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la
+palabra se utiliza más veces que la media del vector de uso, se
+considera que la palabra está siendo utilizada de manera más rara (más
+frecuente que lo indicaría que se debe usar por su vector de uso), por
+ende el resultado del cociente es mas alto y su aporte al índice
+metaforico mayor.
+
 \begin{equation}\label{eq:uso}
 uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \end{equation}
 
 
+
+ El índice metafórico es la suma de todos los usos, por lo que el
+índice en principio solo captura si un mensaje es mas 'metafórico' que
+otro si tiene un número más alto que otro mensaje y manteniendo la
+longitud del mensaje.
+
+
 \begin{equation}\label{eq:indice_metafórico}
 indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
+
+
+Ahora, con respecto al Índice metonímico, se parte de la idea de que
+un mensaje está compuesto de ngramas $n$ (ver ecuación
+\ref{eq:ngramas}).
 
 
 \begin{equation}\label{eq:ngramas}
@@ -1255,24 +1335,20 @@ N = \{n_1, n_2, n_3, \dots , n_j\}
 met(n_i) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2))}
 \end{equation}
 
+Los n-gramas son de nivel 2, es decir, que se toman pares de palabras
+constiguas (ver figura \ref{fig:metonimia}) .  Luego para cada $n$ se
+calcula la metonimia. La metonimia está dado por el numero de letras
+similares entre los terminos $n$ del bigrama.  \ref{eq:metonimia}.
+
+
+Por último, el Índice metonímico está dado por la
+suma de la metonimima para cada n-grama.
+
+
 \begin{equation}\label{eq:indice_metonimia}
 indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 
-
-En primer lugar, un mensaje es cualquier cadena de texto. Una vez
-tokenizado, se obtienen las palabras $w$ mostradas en la ecuación
-\ref{eq:mensaje}. Luego, para cada una de las palabras, se hace
-primero el cálculo del vector semántico. Un vector semantico está
-compuesto de sinónimos $s$ del la palabra inicial (ecuación
-\ref{eq:vector_semantico}). Cuando se termina de obtener los campos
-semánticos de cada palabra del mensaje, se obtiene una matriz
-semántica. Luego, por cada vector semantico, se calcula un vector de
-uso que cuenta la frecuencia de cada componente del vector semantico
-$s$ en el corpus de referencia \ref{eq:vector_uso}. La suma de todos
-los vectores de uso de un mensaje se conoce como la matriz de uso. Se
-puede apreciar las relación de las matrices semántica y de uso con
-entre sí en la figura \ref{fig:matrices}.
 
  #+BEGIN_EXPORT latex
     \begin{figure}[H]
@@ -1282,26 +1358,8 @@ entre sí en la figura \ref{fig:matrices}.
     \end{figure}
 #+END_EXPORT
 
-Seguidamente, para cada vector de uso se calcula el uso, que es la
-relación entre la media del vector de uso y la frecuencia de la
-palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la
-palabra se utiliza más veces que la media del vector de uso, se
-considera que la palabra está siendo utilizada de manera más rara (más
-frecuente que lo indicaría que se debe usar por su vector de uso), por
-ende el resultado del cociente es mas alto y su aporte al índice
-metaforico mayor. El índice metafórico es la suma de todos los usos,
-por lo que el índice en principio solo captura si un mensaje es mas
-'metafórico' que otro si tiene un número más alto que otro mensaje y
-manteniendo la longitud del mensaje.
 
-Ahora, con respecto al Índice metonímico, se parte de la idea de que
-un mensaje está compuesto de ngramas $n$ (ver ecuación
-\ref{eq:ngramas}). Los ngramas son de nivel 2, es decir, que se toman
-pares de palabras constiguas (ver figura \ref{fig:metonimia}) .  Luego
-para cada $n$ se calcula la metonimia. La metonimia está dado por el
-numero de letras similares entre los terminos $n$ del bigrama
-\ref{eq:metonimia}. Por último, el Índice metonímico está dado por la
-suma de la metonimima para cada n-grama.
+
   
 #+BEGIN_EXPORT latex
     \begin{figure}[H]
@@ -1619,34 +1677,35 @@ más en la pregunta de investigación.
 
 *** Las hipótesis planteadas
 
-Para la hipótesis H_{1} se observa en \ref{fig:metafora_total} que el
-índice metafórico es, en promedio, más alto para las categorias de no
-ficción a lo largo la muestras que para las categorias de no
-ficción. De hecho, en promedio, las obras de ficción reportan un
-índice metafórico un poco más de 3 veces más alto. Esto es consistente
-con la intuición, que nos dicta que en las obras de ficción se hace
-uso de un vocabulario más amplio y distinguido, lo que aporta más al
-índice metafórico.
+Para la hipótesis H_{1} se observa en la figura
+\ref{fig:metafora_total} que el índice metafórico es, en promedio, más
+alto para las categorias de no ficción que para las categorias de no
+ficción, a lo largo las 5 muestras. De hecho, en promedio, las obras
+de ficción reportan un índice metafórico 252% más alto (0.635572) que
+las de no ficción (0.256140). Esto es consistente con la intuición,
+que nos dicta que en las obras de ficción se hace uso de un
+vocabulario más amplio y distinguido, lo que aporta más al índice
+metafórico.
 
 En cuanto a la hipótesis H_{2}, las medias para las categorias
-/reportage/ y /editorial/ son cercabis (0.14 y 0.11,
+/reportage/ y /editorial/ son cercanas (0.14 y 0.11,
 respectivamente). En el gráfico \ref{fig:metafora_categorias} se puede
 apreciar que el rango interquartil (IRQ) es muy similar. Esto es
 consistente con el resultado esperado, puesto que estas dos categorías
 son similares entre sí: ambas están conformadas por textos que
-aparecieron en publicaciones periódicas. Por lo tanto, comparten
-muchos parámetros linguísticos similares en cuanto al vocabulario. Por
-lo tanto, sú indice metafórico debe ser similar a lo largo de las
-muestras.
+aparecieron en publicaciones periódicas. Como comparten muchos
+parámetros linguísticos similares en cuanto al vocabulario (misma
+audiencia, año, medio, etc), su indice metafórico debe ser similar a
+lo largo de las muestras.
 
-Luego, para la hipótesis H_{3} se puede observar que la categoria
-/Belles Lettres/ es la tercera más categoría con el índice metafórico
-más alto (con un 0.30). Queda por debajo de /Religion/ (0.31) por un
-punto y de /Reviews/ (0.42). Este resultado no es el esperado, pero es
+Luego, para la hipótesis H_{3}, se puede observar que la categoría
+/Belles Lettres/ es la tercera más con el índice metafórico más alto
+(con un 0.30). Queda por debajo de /Religion/ (0.31) por un punto porcentual y de
+/Reviews/ (0.42). Este resultado no es el esperado, pero es
 comprensible si se tiene en cuenta que la categoría /Reviews/ está
 compuesta de críticas a obras de arte como música clásica, libros y
 obras de teatro, cuyo vocabulario puede terminar aportando más al
-índice metafórico que las biografías y caras de la categoría /Belles
+índice metafórico que las biografías y cartas de la categoría /Belles
 Lettres/.
 
 Por último, para la hipótesis H_{4}, se observa que la categoría
@@ -1664,7 +1723,7 @@ conativa o fática.
 
 Ahora bien, en la hipótesis inicial no se contemplo que, según lo
 encontrado en este experimento, las obras de ficción por lo general
-tienen un índice metonímico más bajo que las de no ficción (ver \ref{fig:metonimia_total}. Esto
+tienen un índice metonímico más bajo que las de no ficción (ver \ref{fig:metonimia_total}). Esto
 parece apuntar a una relación inversa entre el índice metaforico
 y el índice metonómico. Sin embargo, esa discusión está por fuera
 de los alcances de la presente investigación.
@@ -1680,25 +1739,34 @@ de los alcances de la presente investigación.
 *** Crítica del modelo
 
 
-En términos generales, se considera que el modelo es razonablemente exitoso. En general no
-hay resultados inconsistentes con la intuición, salvo el comportamiento del índice metonimico
-a lo largo de una categoria. Sin embargo, si se considera las metacategorias de ficción y no
-ficción, en la muestras se evidencia claramente que hay una consistencia en los resultados.
+En términos generales, se considera que el modelo es razonablemente
+exitoso. En general no hay resultados inconsistentes con la intuición,
+salvo el comportamiento del índice metonimico a lo largo de una
+categoria. Sin embargo, si se considera las metacategorias de ficción
+y no ficción, en la muestras se evidencia claramente que hay una
+consistencia en los resultados.
 
-Una debilidad significativa del modelo es su dependencia de la con la red semántica. Esto
-ocasiona que dada una palabra, su vector semantico quede asociado con palabras muy dificiles de
-encontrar,lo que incide en su puntuación total. Esto particularmente se evidencia en algunas palabras
-comunes que no se encuentran tan solo porque son pronombres o adverbios que empiezan con mayúscula
-cuando la red los espera en minúscula. Es posible que esto esté afectando el modelo, pero no es claro
-a priori de qué manera lo hace porque se haría necesario un análisis multivariado para cada una de las
-variables. Ahora bien, esta falencia no parece ser tan pronunciado, ya que la diferencia entra las metacategorias
-es evidente y resulta inverosímil atribuir la concordancia con la intuición y el juicio experto a un mero error.
+Una debilidad significativa del modelo es su dependencia de la con la
+red semántica. Esto ocasiona que dada una palabra, su vector semantico
+quede asociado con palabras muy dificiles de encontrar,lo que incide
+en su puntuación total. Esto particularmente se evidencia en algunas
+palabras comunes que no se encuentran tan solo porque son pronombres o
+adverbios que empiezan con mayúscula cuando la red los espera en
+minúscula. Es posible que esto esté afectando el modelo, pero no es
+claro a priori de qué manera lo hace porque se haría necesario un
+análisis multivariado para cada una de las variables. Ahora bien, esta
+falencia no parece ser tan pronunciado, ya que la diferencia entra las
+metacategorias es evidente y resulta inverosímil atribuir la
+concordancia con la intuición y el juicio experto a un mero error.
 
-Sin embargo, para tener una fundamentación más rigurosa de la idoneidad del algoritmo se debe diseñar un
-experimento que mire los resulados de cada vector de uso por palabra y verificar como el número de sinónimos,
-la media de esos sinónimos y la frecuencia de la palabra original en los corpus se compartan. Una tarea que no es
-fácil por la dependencia de las variables de otras. Este aspecto es muy importante hacerlo, pero se sale de los
-alcances de esta investigación. 
+Sin embargo, para tener una fundamentación más rigurosa de la
+idoneidad del algoritmo se debe diseñar un experimento que mire los
+resultados de cada vector de uso por palabra y verificar como el
+número de sinónimos, la media de esos sinónimos y la frecuencia de la
+palabra original en los corpus se compartan. Una tarea que no es fácil
+por la dependencia de las variables de otras. Este aspecto es muy
+importante hacerlo, pero se sale de los alcances de esta
+investigación.
 
 
 
@@ -1736,3 +1804,100 @@ alcances de esta investigación.
 \bibliographystyle{ieeetr}
 \bibliography{biblio} 
 \nocite{*}
+\newpage
+\appendix
+
+
+\begin{landscape}
+\tiny
+\section{Resultados de todas las muestras procesadas}
+
+\begin{longtable}{llrrrlrr}
+\toprule
+{} &                      categoria &      metafora &   metonimia &     w & metacategoria &  metafora\_n &  metonimia\_n \\
+\midrule
+\endfirsthead
+
+\toprule
+{} &                      categoria &      metafora &   metonimia &     w & metacategoria &  metafora\_n &  metonimia\_n \\
+\midrule
+\endhead
+\midrule
+\multicolumn{8}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+0  &                      reportage &  8.805142e+05 &  232.266917 &  2340 &   non-fiction &    0.216791 &     0.243219 \\
+1  &                      editorial &  8.803244e+05 &  245.719532 &  2262 &   non-fiction &    0.216371 &     0.464895 \\
+2  &                        reviews &  9.298024e+05 &  242.953762 &  2370 &   non-fiction &    0.325935 &     0.419319 \\
+3  &                       religion &  8.501277e+05 &  264.683072 &  2314 &   non-fiction &    0.149503 &     0.777381 \\
+4  &               skills \& hobbies &  8.317817e+05 &  242.632252 &  2232 &   non-fiction &    0.108878 &     0.414021 \\
+5  &                   popular lore &  8.338258e+05 &  265.839881 &  2222 &   non-fiction &    0.113405 &     0.796443 \\
+6  &                 belles lettres &  8.776905e+05 &  229.785870 &  2288 &   non-fiction &    0.210538 &     0.202335 \\
+7  &                  miscellaneous &  7.826133e+05 &  278.192915 &  2214 &       neither &    0.000000 &     1.000000 \\
+8  &                        learned &  8.632080e+05 &  266.998264 &  2254 &   non-fiction &    0.178469 &     0.815531 \\
+9  &                general fiction &  8.912116e+05 &  249.950161 &  2264 &       fiction &    0.240479 &     0.534608 \\
+10 &  mistery and detective fiction &  1.032944e+06 &  244.615024 &  2446 &       fiction &    0.554330 &     0.446694 \\
+11 &                science fiction &  1.064427e+06 &  235.067805 &  2412 &       fiction &    0.624045 &     0.289372 \\
+12 &  adventure and western fiction &  1.234204e+06 &  229.817769 &  2560 &       fiction &    1.000000 &     0.202861 \\
+13 &         romance and love story &  9.934131e+05 &  217.506968 &  2428 &       fiction &    0.466794 &     0.000000 \\
+14 &                      reportage &  8.692052e+05 &  233.995925 &  2277 &   non-fiction &    0.303963 &     0.031965 \\
+15 &                      editorial &  7.772415e+05 &  252.298095 &  2200 &   non-fiction &    0.000000 &     0.291451 \\
+16 &                        reviews &  9.780952e+05 &  242.322657 &  2415 &   non-fiction &    0.663871 &     0.150020 \\
+17 &                       religion &  8.314664e+05 &  234.210911 &  2213 &   non-fiction &    0.179226 &     0.035013 \\
+18 &               skills \& hobbies &  8.332094e+05 &  237.433386 &  2279 &   non-fiction &    0.184987 &     0.080701 \\
+19 &                   popular lore &  9.653912e+05 &  270.544500 &  2369 &   non-fiction &    0.621881 &     0.550146 \\
+20 &                 belles lettres &  8.631398e+05 &  279.744550 &  2289 &   non-fiction &    0.283915 &     0.680583 \\
+21 &                  miscellaneous &  8.734267e+05 &  302.273843 &  2416 &       neither &    0.317916 &     1.000000 \\
+22 &                        learned &  9.124770e+05 &  241.599983 &  2189 &   non-fiction &    0.446987 &     0.139774 \\
+23 &                general fiction &  1.025250e+06 &  243.062518 &  2440 &       fiction &    0.819728 &     0.160510 \\
+24 &  mistery and detective fiction &  9.595842e+05 &  231.741345 &  2370 &       fiction &    0.602687 &     0.000000 \\
+25 &                science fiction &  1.049848e+06 &  260.930594 &  2486 &       fiction &    0.901030 &     0.413841 \\
+26 &  adventure and western fiction &  1.079791e+06 &  232.909893 &  2383 &       fiction &    1.000000 &     0.016568 \\
+27 &         romance and love story &  9.690752e+05 &  261.194633 &  2332 &       fiction &    0.634057 &     0.417585 \\
+28 &                      reportage &  8.329611e+05 &  253.461402 &  2275 &   non-fiction &    0.149926 &     0.154154 \\
+29 &                      editorial &  7.987510e+05 &  266.662093 &  2234 &   non-fiction &    0.049805 &     0.422430 \\
+30 &                        reviews &  8.841941e+05 &  249.018673 &  2320 &   non-fiction &    0.299868 &     0.063865 \\
+31 &                       religion &  8.318658e+05 &  266.059867 &  2332 &   non-fiction &    0.146721 &     0.410191 \\
+32 &               skills \& hobbies &  8.503835e+05 &  263.101035 &  2257 &   non-fiction &    0.200916 &     0.350059 \\
+33 &                   popular lore &  8.692219e+05 &  245.876166 &  2264 &   non-fiction &    0.256049 &     0.000000 \\
+34 &                 belles lettres &  8.710944e+05 &  275.374260 &  2311 &   non-fiction &    0.261529 &     0.599486 \\
+35 &                  miscellaneous &  8.391560e+05 &  295.081798 &  2360 &       neither &    0.168057 &     1.000000 \\
+36 &                        learned &  7.817333e+05 &  246.081765 &  2182 &   non-fiction &    0.000000 &     0.004178 \\
+37 &                general fiction &  9.246787e+05 &  258.496462 &  2325 &       fiction &    0.418352 &     0.256481 \\
+38 &  mistery and detective fiction &  1.123420e+06 &  259.706130 &  2428 &       fiction &    1.000000 &     0.281065 \\
+39 &                science fiction &  9.359945e+05 &  248.550450 &  2364 &       fiction &    0.451469 &     0.054349 \\
+40 &  adventure and western fiction &  1.032713e+06 &  250.647083 &  2380 &       fiction &    0.734532 &     0.096959 \\
+41 &         romance and love story &  9.975592e+05 &  251.745846 &  2320 &       fiction &    0.631648 &     0.119289 \\
+42 &                      reportage &  7.390055e+05 &  273.291853 &  2217 &   non-fiction &    0.000000 &     1.000000 \\
+43 &                      editorial &  8.393927e+05 &  252.962796 &  2230 &   non-fiction &    0.269841 &     0.525491 \\
+44 &                        reviews &  8.971668e+05 &  267.320868 &  2356 &   non-fiction &    0.425138 &     0.860629 \\
+45 &                       religion &  9.719024e+05 &  265.226063 &  2410 &   non-fiction &    0.626028 &     0.811733 \\
+46 &               skills \& hobbies &  9.136364e+05 &  260.778308 &  2295 &   non-fiction &    0.469408 &     0.707916 \\
+47 &                   popular lore &  8.272986e+05 &  263.910992 &  2256 &   non-fiction &    0.237332 &     0.781038 \\
+48 &                 belles lettres &  9.481685e+05 &  263.538820 &  2403 &   non-fiction &    0.562231 &     0.772351 \\
+49 &                  miscellaneous &  8.634832e+05 &  246.399778 &  2207 &       neither &    0.334596 &     0.372302 \\
+50 &                        learned &  8.425692e+05 &  231.378440 &  2205 &   non-fiction &    0.278379 &     0.021683 \\
+51 &                general fiction &  9.175579e+05 &  230.449509 &  2296 &       fiction &    0.479949 &     0.000000 \\
+52 &  mistery and detective fiction &  8.667315e+05 &  245.560095 &  2288 &       fiction &    0.343328 &     0.352702 \\
+53 &                science fiction &  1.102842e+06 &  248.079801 &  2461 &       fiction &    0.977993 &     0.411516 \\
+54 &  adventure and western fiction &  9.767892e+05 &  253.204165 &  2349 &       fiction &    0.639163 &     0.531125 \\
+55 &         romance and love story &  1.111029e+06 &  248.497089 &  2422 &       fiction &    1.000000 &     0.421256 \\
+56 &                      reportage &  8.043079e+05 &  254.575644 &  2244 &   non-fiction &    0.023678 &     0.551521 \\
+57 &                      editorial &  7.978480e+05 &  256.403003 &  2241 &   non-fiction &    0.003261 &     0.584515 \\
+58 &                        reviews &  9.262954e+05 &  234.463584 &  2342 &   non-fiction &    0.409220 &     0.188386 \\
+59 &                       religion &  9.359318e+05 &  233.241442 &  2317 &   non-fiction &    0.439676 &     0.166320 \\
+60 &               skills \& hobbies &  9.168846e+05 &  232.225114 &  2370 &   non-fiction &    0.379478 &     0.147970 \\
+61 &                   popular lore &  7.968161e+05 &  263.726336 &  2258 &   non-fiction &    0.000000 &     0.716742 \\
+62 &                 belles lettres &  8.613437e+05 &  239.365589 &  2359 &   non-fiction &    0.203940 &     0.276895 \\
+63 &                  miscellaneous &  8.631730e+05 &  279.414446 &  2316 &       neither &    0.209722 &     1.000000 \\
+64 &                        learned &  9.070694e+05 &  255.345328 &  2334 &   non-fiction &    0.348456 &     0.565418 \\
+65 &                general fiction &  8.701799e+05 &  224.029887 &  2345 &       fiction &    0.231867 &     0.000000 \\
+66 &  mistery and detective fiction &  9.142198e+05 &  256.184163 &  2331 &       fiction &    0.371055 &     0.580564 \\
+67 &                science fiction &  1.000556e+06 &  255.785265 &  2369 &       fiction &    0.643922 &     0.573362 \\
+68 &  adventure and western fiction &  8.356933e+05 &  228.397175 &  2279 &       fiction &    0.122872 &     0.078854 \\
+69 &         romance and love story &  1.113221e+06 &  261.254637 &  2546 &       fiction &    1.000000 &     0.672114 \\
+\end{longtable}
+\end{landscape}
