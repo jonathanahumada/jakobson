@@ -6,8 +6,9 @@ B.~Eijembaum, ``La teor{\'\i}a del" m{\'e}todo formal",'' in {\em Textos de
   postcoloniales)}, pp.~33--62, Anthropos, 2010.
 
 \bibitem{jakobson1981linguistica}
-R.~Jakobson and A.~M.~G. Cabello, {\em Ling{\"u}{\'\i}stica y po{\'e}tica}.
-\newblock C{\'a}tedra Espa{\~n}a, 1981.
+R.~Jakobson, ``Ling{\"u}{\'\i}stica y po{\'e}tica,'' in {\em Textos de
+  teor{\'\i}as y cr{\'\i}tica literarias:(del formalismo a los estudios
+  postcoloniales)}, pp.~121--136, 1981.
 
 \bibitem{jakobson1956two}
 R.~Jakobson, ``Two aspects of language and two types of aphasic disturbances,''
@@ -93,5 +94,9 @@ R.~Delmonte, ``Computing poetry style.,'' in {\em ESSEM@ AI* IA}, pp.~148--155,
 D.~M. Kaplan and D.~M. Blei, ``A computational approach to style in american
   poetry,'' in {\em Seventh IEEE International Conference on Data Mining (ICDM
   2007)}, pp.~553--558, IEEE, 2007.
+
+\bibitem{fellbaum_1998}
+C.~Fellbaum, {\em WordNet: An Electronic Lexical Database}.
+\newblock Bradford Books, 1998.
 
 \end{thebibliography}

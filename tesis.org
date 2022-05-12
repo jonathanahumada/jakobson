@@ -123,10 +123,10 @@ una máquina?
 en el acto de lenguaje intervienen 6 factores (ver figura
 [[factores_jakobson]]). Sin embargo, cuando se estudia la /literariedad/,
 o la poética en general, Jakobson nos indica que nos debemos centrar
-nuestra atención en el factor Mensaje: "Esta función no es la única
+nuestra atención en el factor Mensaje: 'Esta función no es la única
 que posee el arte verbal, pero sí es la más sobresaliente y
 determinante, mientras que en el esto de las actividades verbales
-actúa como constitutivo subsidiario y accesorio" \cite{jakobson1981linguistica}.
+actúa como constitutivo subsidiario y accesorio' \cite{jakobson1981linguistica}.
 Así, al estudiar la /literariedad/ deberiamos poner un segundo plano
 los aspectos que lidian con la intención (Hablante), la interpretación
 (el receptor), los problemas de la lógica o referentes (Contexto) o
@@ -759,7 +759,7 @@ artículo científico. \cite{kaplan2007computational}.
 Los trabajos de Kaplan, son luego citados por el trabajo de Delmonte
 \cite{delmonte2013computing} \cite{delmonte2005venses}. La trayectoria
 de Delmonte es bastante amplia en su alcance. Iniciando con módulos
-que calculan similaridades semánticas en un texto \cite{delmonte2005veneses},
+que calculan similaridades semánticas en un texto \cite{delmonte2005venses},
 luego aprovecha las ideas de Kaplan para desarrollar un sistema multi-modular
 que abarca prácticamente todas las áreas de estudio de la linguística:
 semántica, fonética, gramática e incluso aspectos que tienen que ver
@@ -964,9 +964,10 @@ propias por sobre las de un algoritmo no supervisado.
      En la tabla \ref{tab:corpus_referencia} se muestra lo que se
      utilizará como corpus de referencia.
 
-     
 
-    \begin{longtable}{| p{.20\textwidth} | p{.40\textwidth} | p{.20\textwidth}|} 
+     \small
+    
+    \begin{longtable}[c]{| p{.05\textwidth} | p{.40\textwidth} | p{.20\textwidth}|} 
     \hline
         cód.  & nombre  & categoria  \\ \hline
         a01 & Political Reportage & reportage  \\ \hline
@@ -1033,7 +1034,7 @@ propias por sobre las de un algoritmo no supervisado.
   \caption{Corpus de referencia}
 \label{tab:corpus_referencia}
 \end{longtable}
-
+\normalsize
 **** Corpus objetivo
      En contrapartida al corpus de referencia, el corpus objetivo representa el
      /habla/ (/parole/). Así, estos son considerados mensajes que serán interpretados
@@ -1064,7 +1065,7 @@ propias por sobre las de un algoritmo no supervisado.
      \ref{tab:corpus_objetivo2}, \ref{tab:corpus_objetivo3},
      \ref{tab:corpus_objetivo4} y \ref{tab:corpus_objetivo5}.
 
-    
+    \small
      
      \begin{table}[!ht]
       \centering
@@ -1158,7 +1159,7 @@ cód & nombre & categoría \\ \hline
         f03 & I've Been Here before! & popular lore \\ \hline
         g03 & The Chances of Accidental War & belles lettres \\ \hline
         h03 & 87th Congress: 1st Session. House Document No. 247. & miscellaneous \\ \hline
-        j03 & The Normal Forces and Their Thermodynamic Significance & learned \\ \hline
+        j03 & The Normal Forces and Their Thermodynamic (...) & learned \\ \hline
         k03 & Not to the Swift & general fiction \\ \hline
         l06 & Hunter at Large & mistery and detective fiction \\ \hline
         m04 & The Planet with No Nightmare & science fiction \\ \hline
@@ -1198,6 +1199,30 @@ cód & nombre & categoría \\ \hline
   \caption{Corpus objetivo 5}
   \label{tab:corpus_objetivo5}
   \end{table}
+  \normalsize
+
+**** Resumen
+     Un resumen de los datos implicados en el experimento se puede ver en la figura \ref{tab:resumen_preparacion}.
+
+
+       \begin{table}[!ht]
+      \centering
+
+      \begin{tabular}{|c|c|}
+      \hline
+        Atributo & Cantidad \\ \hline
+        Textos en corpus de referencia & 60 \\ \hline
+        Categorías en corpus de referencia  & 13 \\ \hline
+       Textos en corpus objetivo & 70 \\ \hline
+       Textos en muestra de corpus objetivo & 14 \\ \hline
+       Muestras de corpus objetivo & 5 \\ \hline
+       Categorías por muestra & 14  \\ \hline
+       Total de textos usados & 130  \\ \hline
+      \end{tabular}
+  \caption{Resumen de datos utilizados}
+  \label{tab:resumen_preparacion}
+  \end{table}
+    
 *** Modelamiento
 **** Selección de técnica de modelado
 
@@ -1258,9 +1283,9 @@ En primer lugar, un mensaje es cualquier cadena de texto. Una vez
 tokenizado, se obtienen las palabras $w$ mostradas en la ecuación
 \ref{eq:mensaje}.
 
-
-      \begin{equation}\label{eq:mensaje}
-mensaje = \{ w_1, w_2, w_3, \dots , w_j \} \\
+\begin{equation}
+\label{eq:mensaje}
+mensaje = \{ w_1, w_2, w_3, \dots , w_j \}
 \end{equation}
 
 
@@ -1270,54 +1295,62 @@ compuesto de sinónimos $s$ del la palabra inicial (ecuación
 \ref{eq:vector_semantico}).
 
 
-\begin{equation}\label{eq:vector_semantico}
-vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} \\
+\begin{equation}
+\label{eq:vector_semantico}
+vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} 
 \end{equation}
 
 
-Cuando se termina de obtener los campos
-semánticos de cada palabra del mensaje, se obtiene una matriz
-semántica. Luego, por cada vector semantico, se calcula un vector de
-uso que cuenta la frecuencia de cada componente del vector semantico
-$s$ en el corpus de referencia \ref{eq:vector_uso}.
+Cuando se terminan de obtener los campos semánticos de cada palabra del
+mensaje, se obtiene una /matriz semántica/. Luego, por cada vector
+semántico, se calcula un vector de uso que cuenta la frecuencia de
+cada componente del vector semántico $s$ en el corpus de referencia
+(ecuación \ref{eq:vector_uso}).
 
-\begin{equation}\label{eq:vector_uso}
-vector\ uso(w) = \{freq_{referencia}(s_1),freq_{referencia}(s_2),freq_{referencia}(s_3), \dots, freq_{referencia}(s_j) \} \\
+\begin{equation}
+\label{eq:vector_uso}
+vector\ uso(w) = \{freq_{referencia}(s_1),freq_{referencia}(s_2),freq_{referencia}(s_3), \dots, freq_{referencia}(s_j) \} 
 \end{equation}
 
 
 La suma de todos los vectores de uso de un mensaje se conoce como la
-matriz de uso. Se puede apreciar las relación de las matrices
-semántica y de uso con entre sí en la figura \ref{fig:matrices}.
-
-
-\begin{equation}\label{eq:uso}
-\mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
-\end{equation}
+/matriz de uso/. Se puede apreciar las relación de las matrices
+semántica y de uso entre sí en la figura \ref{fig:matrices}.
 
 
 Seguidamente, para cada vector de uso se calcula el uso, que es la
-relación entre la media del vector de uso y la frecuencia de la
-palabra en el corpus objetivo (ecuación \ref{eq:uso}). Así, si la
-palabra se utiliza más veces que la media del vector de uso, se
-considera que la palabra está siendo utilizada de manera más rara (más
-frecuente que lo indicaría que se debe usar por su vector de uso), por
-ende el resultado del cociente es mas alto y su aporte al índice
-metaforico mayor.
+relación entre la media del vector de uso (ecuación \ref{eq:promedio})
+y la frecuencia de la palabra en el corpus objetivo (ecuación
+\ref{eq:uso}).
 
-\begin{equation}\label{eq:uso}
+
+\begin{equation}
+\label{eq:promedio}
+\mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
+\end{equation}
+
+\begin{equation}
+\label{eq:uso}
 uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \end{equation}
 
+Así, si la palabra se utiliza más veces que la media del vector de
+uso, se considera que la palabra está siendo utilizada de manera más
+'singular' (más frecuente que lo indicado que se debe usar por su
+vector de uso), por ende el resultado del cociente es mas alto y su
+aporte al índice metaforico mayor.
 
 
- El índice metafórico es la suma de todos los usos, por lo que el
+
+
+ El /índice metafórico/ es la suma de todos los usos, por lo que el
 índice en principio solo captura si un mensaje es mas 'metafórico' que
 otro si tiene un número más alto que otro mensaje y manteniendo la
 longitud del mensaje.
 
 
-\begin{equation}\label{eq:indice_metafórico}
+\begin{equation}
+\label{eq:indice_metafórico}
 indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
 
@@ -1327,22 +1360,25 @@ un mensaje está compuesto de ngramas $n$ (ver ecuación
 \ref{eq:ngramas}).
 
 
-\begin{equation}\label{eq:ngramas}
+\begin{equation}
+\label{eq:ngramas}
 N = \{n_1, n_2, n_3, \dots , n_j\}
 \end{equation}
 
-\begin{equation}\label{eq:metonimia}
+\begin{equation}
+\label{eq:metonimia}
 met(n_i) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2))}
 \end{equation}
 
 Los n-gramas son de nivel 2, es decir, que se toman pares de palabras
 constiguas (ver figura \ref{fig:metonimia}) .  Luego para cada $n$ se
 calcula la metonimia. La metonimia está dado por el numero de letras
-similares entre los terminos $n$ del bigrama.  \ref{eq:metonimia}.
+similares entre los terminos $n$ del bigrama (ecuación
+\ref{eq:metonimia}).
 
 
-Por último, el Índice metonímico está dado por la
-suma de la metonimima para cada n-grama.
+Por último, el /índice metonímico/ está dado por la suma de la
+metonimima para cada n-grama.
 
 
 \begin{equation}\label{eq:indice_metonimia}
@@ -1357,8 +1393,6 @@ indice\ metonimia = \Sigma_i^j met(n_i)
     \caption{\label{fig:matrices}Transformación de matriz semántica a matríz de uso}
     \end{figure}
 #+END_EXPORT
-
-
 
   
 #+BEGIN_EXPORT latex
@@ -1376,13 +1410,14 @@ indice\ metonimia = \Sigma_i^j met(n_i)
     \caption{\label{fig:metonimia}Concepto de metonimia}
     \end{figure}
 #+END_EXPORT
+
 *** Despliegue
 En las secciones [[Índices por muestra]], [[Gráficos por muestra]] y
 [[Gráficos totales]] se presentarán los resultados del experimento
 según los parámetros descritos en las secciones anteriores.
 La presentación va en creciente órden de abstracción, partiendo
 de los datos brutos, pasando por su visualización, hasta llegar
-a las Conclusiones [[Conclusiones]]
+a las Conclusiones [[Conclusiones]].
 
 **** Índices por muestra
 En esta sección, se muestran los resultados producidos por el modelo
@@ -1396,6 +1431,8 @@ desee hacer comparaciones entre textos de diferentes tamaños.
 
 Estos valores no tienen ningún tipo de procesamiento y para apreciarlos, es mejor
 consultar las secciones [[Gráficos por muestra]] y [[Gráficos totales]].
+
+\small
 \begin{center}
     \begin{longtable}{| p{.20\textwidth} | p{.25\textwidth} | p{.25\textwidth}|p{.10\textwidth}|}
     \caption{Muestra 1}
@@ -1513,6 +1550,8 @@ consultar las secciones [[Gráficos por muestra]] y [[Gráficos totales]].
 \end{longtable}
     \label{muestra5}
 \end{center}
+
+\normalsize
 **** Gráficos por muestra
 En esta sección se presentan los gráficos para cada uno de los corpus objetivos
 definidos en [[Preparación de los datos]]. Cada cúmulo de gráficos consta de 2 filas.
