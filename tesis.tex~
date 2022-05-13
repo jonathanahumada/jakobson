@@ -1,4 +1,4 @@
-% Created 2022-05-12 jue 23:15
+% Created 2022-05-13 vie 13:35
 % Intended LaTeX compiler: pdflatex
 \documentclass[12pt,letterpaper,twoside]{article}
 \usepackage[utf8]{inputenc}
@@ -51,7 +51,7 @@
 
 
 \section{RESUMEN}
-\label{sec:orgd91bfbe}
+\label{sec:org1776a24}
 
 En el presente trabajo se formula un modelo para calcular el concepto
 de \emph{literariedad}, a través de dos medidas cuantitativas: el
@@ -95,9 +95,9 @@ p-value for the indexes show that these results are not random, but
 consistent along the samples.  
 
 \section{FORMULACIÓN DEL PROBLEMA}
-\label{sec:orgd63a25c}
+\label{sec:orgddc152b}
 \subsection{Introducción}
-\label{sec:orgd6d0638}
+\label{sec:org214cfad}
 
 ¿Qué constituye la esencia de un texto? ¿Qué diferencia un texto
 considerado 'literario' de aquél que no lo es? Esta pregunta se ha
@@ -120,64 +120,65 @@ una máquina?
 
 
 \subsection{Planteamiento del problema}
-\label{sec:orgaf16c7c}
+\label{sec:orgb048d6e}
 
 Roman Jakobson, en su conferencia \emph{Lingüística y poética}
-\cite{jakobson1981linguistica} y en su texto \emph{Dos aspectos del lenguaje y dos
-tipos de afasia} \cite{jakobson1956two} propone que la
-\emph{literariedad} de un texto está dada por dos componentes del acto
-linguístico: la selección y la combinación. Estos dos conceptos se
-conciben como oposiciones binarias y fueron expandidos de la
-teoría linguística de Saussure, que en un principio fueron
-planteados como los componentes de diacronía y sincronía de la
-lengua (ver figura \ref{fig:org76968bc}). Puestos en el contexto del
-análisis de la poesía, Jakobson renombró esos dos ejes como
-\emph{metáfora} y \emph{metonímia}.
+\cite{jakobson1981linguistica} y en su ensayo \emph{Dos aspectos del
+lenguaje y dos tipos de afasia} \cite{jakobson1956two} propone que
+la \emph{literariedad} de un texto está dada por dos componentes del
+acto linguístico: la \emph{selección} y la \emph{combinación}. Estos dos
+conceptos fueron formulados a partir de la teoría linguística de
+Saussure, que en un principio fueron planteados como los
+componentes de diacronía y sincronía de la lengua (ver figura
+\ref{fig:org9e9777a}). Puestos en el contexto del análisis de la poesía,
+Jakobson renombró esos dos ejes como \emph{metáfora} y \emph{metonímia}.
 
 
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/clasificacion_saussure.png}
-\caption{\label{fig:org76968bc}Distinción inicial entre sincronía y diacronía según Saussure, tomado de \cite{alonso1945curso}}
+\caption{\label{fig:org9e9777a}Distinción inicial entre sincronía y diacronía según Saussure, tomado de \cite{alonso1945curso}}
 \end{figure}
 
-¿Es posible modelar algorítmicamente tales conceptos? Según Jakobson,
-en el acto de lenguaje intervienen 6 factores (ver figura
-\ref{fig:orgb4f01ad}). Sin embargo, cuando se estudia la \emph{literariedad},
-o la poética en general, Jakobson nos indica que nos debemos centrar
-nuestra atención en el factor Mensaje: 'Esta función no es la única
-que posee el arte verbal, pero sí es la más sobresaliente y
-determinante, mientras que en el esto de las actividades verbales
-actúa como constitutivo subsidiario y accesorio' \cite{jakobson1981linguistica}.
-Así, al estudiar la \emph{literariedad} deberiamos poner un segundo plano
-los aspectos que lidian con la intención (Hablante), la interpretación
-(el receptor), los problemas de la lógica o referentes (Contexto) o
-problemas dentro del mismo lenguaje (Código). 
+¿Es posible modelar algorítmicamente tales conceptos? ¿No parecen
+estar por fuera del dominio de la computación? La teoría parece
+sugerirlo. Según Jakobson, en el acto de lenguaje intervienen 6
+factores (ver figura \ref{fig:orga9bb29d}). Sin embargo, cuando se
+estudia la \emph{literariedad}, o la poética en general, Jakobson nos
+indica que nos debemos centrar nuestra atención en el factor Mensaje:
+'Esta función no es la única que posee el arte verbal, pero sí es la
+más sobresaliente y determinante, mientras que en el esto de las
+actividades verbales actúa como constitutivo subsidiario y accesorio'
+\cite{jakobson1981linguistica}.  Así, al estudiar la \emph{literariedad}
+deberiamos poner un segundo plano los aspectos que lidian con la
+intención (Hablante), la interpretación (el receptor), los problemas
+de la lógica o referentes (Contexto) o problemas dentro del mismo
+lenguaje (Código).
 
-La \emph{literariedad} se encuentra, entonces, en el Mensaje. En otros
-términos, puede considerarse lo que está 'dentro del texto'. Aquello
-que es patente.  En términos más simples: en la secuencia de sonidos
-que percibimos como un mensaje, expresado a través de la palabra
-escrita. Siguiendo el análisis de Jakobson, se puede teorizar que
-si se considera una cadena de textos como un mensaje, podríamos
-entonces hallar la \emph{metáfora} y la \emph{metonimia} y, por ende,
-una medida para \emph{literariedad}.
+La \emph{literariedad} se encuentra, entonces, en el Mensaje. Aquello que
+es concreto y medible.  En términos más simples: en la secuencia de
+sonidos que percibimos como un mensaje, expresado a través de la
+palabra escrita. Siguiendo el análisis de Jakobson, se puede teorizar
+que si se considera una cadena de textos como un mensaje, podríamos
+entonces hallar la \emph{metáfora} y la \emph{metonimia} y, por ende, una medida
+para \emph{literariedad}.
 
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=.9\linewidth]{./assets/factores_comunicacion.png}
-\caption{\label{fig:orgb4f01ad}Factores de comunicación de Roman Jakobson \cite{jakobson1981linguistica}}
+\includegraphics[width=250px]{./assets/factores_comunicacion.png}
+\caption{\label{fig:orga9bb29d}Factores de comunicación de Roman Jakobson. Tomado de \cite{jakobson1981linguistica}}
 \end{figure}
 
 
 Las similitudes de los conceptos tanto de Saussure como de Jakobson
 con las estructuras lineales y secuenciales de la computación son
-evidentes a manera conceptual. Por ejemplo, en la figura
-\ref{fig:orgbe370aa}, el eje AB se considera el \emph{eje de simultaneidades},
-mientras que el eje CD se considera el \emph{eje de sucesiones}
-\cite[pg. 106]{alonso1945curso}.
+evidentes a manera conceptual. A lo largo de sus obras, ambos
+linguístas se refieren a los conceptos como ejes, estructuras lineales
+y secuenciales.  Por ejemplo, en la figura \ref{fig:org61ad975}, el eje AB
+se considera el \emph{eje de simultaneidades}, mientras que el eje CD se
+considera el \emph{eje de sucesiones} \cite[pg. 106]{alonso1945curso}.
 
 Aunque Saussure y Jakobson ofrecen un modelo cualitativo, no se halló
 en la bibliografía consultada un modelo computacional que modelara el
@@ -189,12 +190,12 @@ natural.
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=.9\linewidth]{./assets/ejes_saussure.png}
-\caption{\label{fig:orgbe370aa}Ejemplo de estructuras secuenciales en el pensamiento de Saussure. Aquí se describe prototípicamente la selección y combinación de Roman Jakobson. Tomado de \cite{alonso1945curso}}
+\includegraphics[width=250px]{./assets/ejes_saussure.png}
+\caption{\label{fig:org61ad975}Ejemplo de estructuras secuenciales en el pensamiento de Saussure. Aquí se describe prototípicamente la selección y combinación de Roman Jakobson. Tomado de \cite{alonso1945curso}}
 \end{figure}
 
 \subsection{Justificacón}
-\label{sec:org197d1b6}
+\label{sec:org0469bad}
 
 En términos generales, el foco principal de la linguística
 computacional han sido las aplicaciones que giran en torno a la
@@ -205,7 +206,7 @@ máquina. Por ejemplo, \emph{text preparation}, \emph{information retrieval},
 
 Sin embargo, las aplicaciones con un enfoque humanístico, sea este
 linguístico, literario o estético son relativamente escazos, tal como
-lo reportan la mayoría de autores consultados (ver sección \ref{sec:orgb2794b8}).  Más aún, dentro de este subcunjunto reducido, pocos
+lo reportan la mayoría de autores consultados (ver sección \ref{sec:orgd34644f}).  Más aún, dentro de este subcunjunto reducido, pocos
 están guiados por aquello que Gelbuhk llama 'la ciencia fundamental',
 la lingüistica o, desde una perspectiva de analítica de datos, la
 comprensión del dominio. Más particularmente, no se encuentran modelos
@@ -226,7 +227,7 @@ Por otro lado, las escazas pero variopintas investigaciones en el área
 muestran un creciente interés en calcular la 'creatividad', la 'rima'
 o el 'estilo' de un texto. Sin embargo, esta misma diversidad de
 enfoques evidencia al mismo tiempo una falta de cohesión entre las
-disciplinas humanísticas y las ciencias (ver sección \ref{sec:orgb2794b8}). El autor de esta investigación cree que los conceptos de
+disciplinas humanísticas y las ciencias (ver sección \ref{sec:orgd34644f}). El autor de esta investigación cree que los conceptos de
 la lingüistica estructural pueden aportar --si bien modestamente-- a
 formar un mejor diálogo entre estas disciplinas y ofrecer perspectivas
 que otros investigadores podrían valorar en un futuro.
@@ -241,35 +242,31 @@ computarizadamente la \emph{literariedad} de un texto según el marco de la
 lingüística de Jakobson?
 
 \subsubsection{\textbf{Palabras clave:}}
-\label{sec:orge95718c}
-NLP, computational linguistics, literariness,literary theory, poetics, theory of formal method
+\label{sec:org0192243}
+NLP, computational linguistics, literariness, literary theory, poetics, theory of formal method
 
 \subsubsection{\textbf{Área de conocimiento:}}
-\label{sec:org0dd6203}
+\label{sec:orgbd54f85}
 
 Lingüística computacional
 
 \subsection{Alcances y delimitaciones:}
-\label{sec:org44d46c8}
+\label{sec:org4488230}
 
-Para computar una métrica de \emph{literariedad} será necesario comparar un
-\emph{corpus objetivo} con respecto a un \emph{corpus de referencia,} este
-último representará el ‘uso corriente de la lengua' (ver sección
-\ref{sec:org98063f5}). La primera delimitación de este trabajo es que no se
-compilará un corpus propio, sino que partirá de los de acceso
-libre. La mayoría de estos se encuentran en inglés. Por este motivo,
-los corpus utilizados son el Corpus de Brown y Wordnet, para
-que haya una congruencia de idiomas. Los criterios
-utilizados para hacer los corpus comparables se detallan en la sección
-\ref{sec:org903d0a5}.
+ La primera delimitación de este trabajo es que no se compilará un
+corpus propio, sino que utilizará recursos de acceso libre. La mayoría
+de estos se encuentran en inglés. Por este motivo, los corpus
+utilizados son el Corpus de Brown y Wordnet, para que haya una
+congruencia de idiomas. Los criterios utilizados para hacer los corpus
+comparables se detallan en la sección \ref{sec:orgfbee95f}.
 
 La segunda limitación concierne a la formulación de los algoritmos en
-sí mismos. Este trabajo se limitará a formular los modelos más naive
+sí mismos. Este trabajo se limitará a formular los modelos más \emph{naive}
 posibles.
 
-En el caso del índice metafórico, dada una palabra, se
-considerará un sinónimo todas las palabras listadas como tal en el
-corpus de referencia, sin considerar los sub-problemas que esto podría
+En el caso del índice metafórico, dada una palabra, se considerará un
+sinónimo todas las palabras listadas como tal en el corpus de
+referencia, sin considerar los sub-problemas que esto podría
 conllevar. Por ejemplo, algunos problemas podrían ser que los
 sinónimos no sean suficientemente cercanos en su significado o que no
 se encuentren sinónimos suficientes.
@@ -277,38 +274,39 @@ se encuentren sinónimos suficientes.
 En el caso del índice metonímico, la secuencia lineal será modelada
 con bigramas haciendo uso de la noción de \emph{graphic word} (ver sección
 ).  Es decir, se harán pares de palabras considerando cada
-palabra una secuencia de caracteres separadas por un especio, sin
+palabra una secuencia de caracteres separadas por un espacio, sin
 entrar a considerar alternativas más precisas. Por ejemplo, como
 formar los n-gramas con base en sílabas o fonemas, etc.
 
 En general, el alcance de este proyecto es formular e implementar un
-modelo general que muestre cómo sería viable implementar el concepto de
-\emph{literariedad}, sin ahondar en los detalles que se desprenden de cada
-fase del flujo de NLP (por ejemplo, ¿cómo tokenizar?, ¿Qué peso tendrían
-las diferentes partes de una oración en el computo final?, etc).
+modelo general que muestre cómo sería viable implementar el concepto
+de \emph{literariedad}, sin ahondar en los detalles de implementación que
+se desprenden de cada fase del flujo de NLP (por ejemplo, ¿cómo
+tokenizar?, ¿Qué peso tendrían las diferentes partes de una oración en
+el computo final?, etc).
 
 \section{OBJETIVO GENERAL}
-\label{sec:orgdc3c42e}
+\label{sec:org71c6e3a}
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
 
 \section{OBJETIVOS ESPECÍFICOS}
-\label{sec:orga0e6d10}
+\label{sec:org526c4b2}
 
 \begin{enumerate}
-\item Construir el corpus necesario para representar el \emph{eje diacrónico}
-\item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus
-\item Diseñar e implementar algoritmo para calcular la \emph{metonimia} sobre un corpus
-\item Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo
-\item Correr el algoritmo sobre los corpus objetivo
-\item Evaluar el algoritmo de manera cuantitativa y cualitativa
+\item Construir el corpus necesario para representar el \emph{eje sincrónico}.
+\item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
+\item Diseñar e implementar algoritmo para calcular la \emph{metonimia} sobre un corpus.
+\item Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
+\item Correr el algoritmo sobre los corpus objetivo.
+\item Evaluar el algoritmo de manera cuantitativa y cualitativa.
 \end{enumerate}
 
 \section{MARCO TEÓRICO}
-\label{sec:org981f0f0}
+\label{sec:org1e5216a}
 
 \subsection{Literariedad}
-\label{sec:org935a077}
+\label{sec:org4c97727}
 
 
 
@@ -334,18 +332,18 @@ lingüísticos y, por lo tanto, es objetivamente analizable si se
 utiliza el método adecuado.
 
 Las herramientas analíticas que brinda Jakobson, son los conceptos
-de \emph{metáfora} y \emph{metonímia} (ver sección \ref{sec:orgcc53ec2}).  Este tipo
+de \emph{metáfora} y \emph{metonímia} (ver sección \ref{sec:org72a9a19}).  Este tipo
 de análisis pasó a conocerse como análisis estructuralista, porque
 se basa en el estudio de presuntas estructuras existentes por debajo
 de los fenómenos emergentes que, en un principio, parecen
 subjetivos. En este trabajo se proponen algoritmos que producen una
 medida cuantitativa tanto para la \emph{metafora} como para la \emph{metonimia}
 para un texto dado. Estos conceptos se explican con mayor
-detalle a continuación ( ver sección \ref{sec:orgcc53ec2}).
+detalle a continuación ( ver sección \ref{sec:org72a9a19}).
 
 
 \subsection{Roman Jakobson}
-\label{sec:orgcc53ec2}
+\label{sec:org72a9a19}
 
 Roman Jakobson fue un lingüista ruso americano. Se considera una
 figura clave tanto en movimiento del formalismo ruso, así como en
@@ -372,7 +370,7 @@ possibility of pronouncing two elements at the same time ".
 \end{quote}
 
 La propuesta clave de Jakobson fue el concepto de \emph{literiedad}
-(ver sección \ref{sec:org935a077}). Tal concepto se basa en un análisis
+(ver sección \ref{sec:org4c97727}). Tal concepto se basa en un análisis
 estructural de dos componentes la \emph{selección} y \emph{combinación},
 también llamados \emph{metáfora} y \emph{metonimia}.
 
@@ -383,7 +381,7 @@ literatura.
 
 
 \subsubsection{Selección (o Metáfora)}
-\label{sec:orgf971a5c}
+\label{sec:orgc1ec974}
 
 La selección o \emph{metáfora} es un principio de organización que
 funciona a partir de  sustituciones. Se evidencia cuando un hablante
@@ -399,7 +397,7 @@ la similaridad o disimilaridad de significados.
 
 
 \subsubsection{Combinación (o Metonimia)}
-\label{sec:org725eaab}
+\label{sec:org98a5f99}
 
 La combinación o \emph{metonímia} es un principio de organización que
 funciona a partir de relaciones de proximidad entre los signos,
@@ -416,7 +414,7 @@ en la relación de una palabra con la que la sucede o antecede en un
 mensaje.
 
 \subsection{Poética}
-\label{sec:orgec36f7e}
+\label{sec:orgee7e037}
 La poética procura responder a la pregunta de ¿qué hace que un
 mensaje sea una obra de arte? Lidia principalmente con cuestiones
 estéticas del lenguaje. Sin embargo, para hacer un análisis
@@ -436,13 +434,13 @@ de los estudios literarios.\cite[pg. 121]{jakobson1981linguistica}
 
 
 \subsection{Estructuralismo}
-\label{sec:orgd370bf0}
+\label{sec:orgdf69f9c}
 
 El \emph{estructuralismo} se entiende como un método utilizado entre
 varias disciplinas humanísticas, como literatura, antropología e
 historia, entre otras.  Se considera que el origen del movimiento
 estructuralista fueron las ideas de la lingüística de Saussure
-(). Hay, por lo tanto, diversos objetos de estudio
+(\ref{sec:orgb2d9ee2}). Hay, por lo tanto, diversos objetos de estudio
 sobre los cuales se les puede aplicar el método estructuralista.
 Gerard Genette, en \emph{Estructuralismo y Crítica Literaria}, delimita
 los alcances y delimitaciónes del método:
@@ -458,7 +456,7 @@ descubrirlos.  \cite[pg. 145]{genette1996estructuralismo}
 \end{quote}
 
 En el marco de este trabajo, las estructuras a estudiar se limitan
-a la \emph{metáfora} y la \emph{metonimia} (ver \ref{sec:orgcc53ec2}), que son
+a la \emph{metáfora} y la \emph{metonimia} (ver \ref{sec:org72a9a19}), que son
 las que el juicio experto propone como más importantes. Ahora
 bien, es pertinente resaltar que, como se evidencia en algunos
 trabajos del marco referencial, los problemas del estructuralismo
@@ -471,19 +469,20 @@ en el caso de los modelos no supervisados, existe un debate acerca
 de qué interpretación darle a las medidas escogidas por el
 algoritmo \cite{van2019vector}.
 \subsection{Linguística}
-\label{sec:org87b0bc7}
+\label{sec:org57cfb66}
 
-La lingüística es la ciencia que estudia el lenguaje.
-Tradicionalmente, esta ciencia se subdivide en las ramas de fonética,
-fonología, morfología, sintaxis, semántica y pragmática. \cite{gelbukh2004}
+La lingüística es la ciencia que estudia la lengua.
+Tradicionalmente, esta ciencia se subdivide en las ramas de
+fonética, fonología, morfología, sintaxis, semántica y
+pragmática. \cite{gelbukh2004}
 
 La lingüística es un campo de estudio interdisciplinar e involucra
 disciplinas heterogéneas como la lógica y la neurolingüistica. Sin
 embargo, se considera que hay un núcleo común llamado \emph{linguística
 general}.
 
-\subsubsection{Lingüística General:}
-\label{sec:orgf3d3452}
+\subsubsection{Lingüística General}
+\label{sec:orgb2d9ee2}
 
 Se conoce como lingüística general al paradigma lingüístico
 establecido por Ferdinand De Saussure, también llamado \emph{modelo
@@ -498,21 +497,27 @@ Estos dos ejes son la base de lo que Jakobson considera \emph{selección} y
 
 
 \subsubsection{Lingüística sincrónica}
-\label{sec:org619517e}
+\label{sec:org1de4d43}
 
 Cuando Saussure habla de lingüística sincrónica, se refiere al
 estudio del estado actual de la lengua, sin tener en cuenta los
 cambios históricos de esta. Luego, la linguística sincrónica lidia,
 por ejemplo, con las formas en que los hablantes vinculan los
 signos (significantes) con los significados a través de reglas de
-sintaxis, de pronunciamiento, de léxico, etc. Sin embargo, el
-estudio diacrónico tiene en cuenta que esto solo aplica para
-ese instante particular y siempre se tiene en cuenta la relación
-con el \emph{eje diacrónico}. En la perspectiva de Jakobson, el eje de
-sicronía pasa a ser la selección (ver seleccion en ).
+sintaxis, de pronunciamiento, de léxico, etc.
+
+En la linguística sincrónica, se asumen las convenciones lingüisticas
+que están operando en un momento y espacio delimitado, formando una
+'foto' del estado de la lengua. En este trabajo, el \emph{eje sincrónico}
+se representa en la noción de \emph{corpus de referencia}, que es una muestra
+representativa del uso de la lengua en un periodo y espacio delimitado.
+Más información sobre el corpus de referencia se da en la sección \ref{sec:orgfbee95f}.
+
+En la perspectiva de Jakobson, el eje de sicronía pasa a ser la
+\emph{selección} (ver seleccion en \ref{sec:org72a9a19}).
 
 \subsubsection{Lingüística diacrónica}
-\label{sec:orgcd47943}
+\label{sec:org7ae3c46}
 
 La linguística diacrónica estudia los cambios sucesivos en la
 lengua, producidos por la actividad constante del \emph{eje
@@ -522,11 +527,10 @@ lengua \cite{alonso1945curso}.
 
 
 Sin embargo, en la perspectiva de Jakobson, un \emph{mensaje} tiene en
-sí mismo un eje diacrónico (ver combinación en ).
-como secuencia. 
+sí mismo un eje diacrónico (ver combinación en \ref{sec:org72a9a19}).
 
 \subsection{Lenguaje}
-\label{sec:org9be22e2}
+\label{sec:orgd46ee03}
 En términos simples, el lenguaje es la facultad de formular y
 comprender signos o símbolos, ya sean hablados, escritos,
 imágenes, etc.  En otros términos, el lenguaje es una capacidad
@@ -536,7 +540,7 @@ establecido y la constante evolución de tal sistema. Estos dos
 componentes son la \emph{lengua} y el \emph{habla}.
 
 \subsubsection{Lengua}
-\label{sec:org98063f5}
+\label{sec:org2de8069}
 
 La lengua (\emph{langue}) es uno de los dos componentes del
 \emph{lenguaje}.  La lengua es fenómeno social y se equipara a una
@@ -551,7 +555,7 @@ que significan las palabras \cite[pg. 102]{alonso1945curso}. La
 contraparte de la \emph{lengua}, es el \emph{habla} .
 
 \subsubsection{Habla}
-\label{sec:org8e0bd51}
+\label{sec:org5906a2f}
 El habla (\emph{parole}) es uno de los dos componentes del
 \emph{lenguaje}. El habla es el uso individual de la lengua.
 Evidentemente, cuando un individuo habla puede modificar
@@ -566,7 +570,7 @@ perspectiva doble: \emph{diacrónica} y \emph{sincrónica}.
 
 
 \subsection{Lingüística Computacional}
-\label{sec:org226f904}
+\label{sec:orge5184c4}
 
 Es la intersección entre la computación y la lingüística. Por lo
 general, se preocupa por cómo procesar automáticamente el
@@ -575,25 +579,25 @@ que luego se pueden definir operaciones comunes \cite{gelbukh2004}.
 
 
 La lingüística computacional es en sí misma un campo amplio y
-heterogéneo(ver \ref{fig:org02d906a}).
+heterogéneo(ver \ref{fig:org73e2913}).
 Este trabajo se incribe concretamente dentro del procesamiento
-del lenguaje natural \ref{sec:org7537703}, y tiene un fuerte componente de
+del lenguaje natural \ref{sec:org8ad1548}, y tiene un fuerte componente de
 lingüística general .
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/mapa_linguistica.png}
-\caption{\label{fig:org02d906a}Relación de linguística computacional con otras areas tomado de \cite{gelbukh2004}}
+\caption{\label{fig:org73e2913}Relación de linguística computacional con otras areas tomado de \cite{gelbukh2004}}
 \end{figure}
 
 
 \subsection{NLP}
-\label{sec:org7537703}
+\label{sec:org8ad1548}
 El procesamiento del lenguaje natural (NLP, por sus siglas en
 inglés), es a menudo considerado sinónimo con la lingüística
 computacional \cite{gelbukh2004}.  Sin embargo, el NLP se refiere
 concretamente a la aplicación práctica de la linguística
-computacional para procesar automáticamente) mensajes (a menudo en
+computacional para procesar automáticamente mensajes (a menudo en
 enormes cantidades) de lenguaje natural y obtener de estos alguna
 información o un acción sin intermedio de un humanano.
 
@@ -603,7 +607,7 @@ en a continuación. Sin embargo, es necesario hacer explítico de
 que se parte una herramienta computacional en particular: NLTK.
 
 \subsubsection{NLTK}
-\label{sec:org76f9d4b}
+\label{sec:orga398835}
 El Natural Language Toolkit (NLTK) es un módulo de Python que ofrece
 una interfaz para tareas comunes en la lingüística computacional. La
 ventaja principal de NLTK es que se considera a sí mismo un
@@ -613,13 +617,13 @@ herramientas, tales como: tokenizacion, filtros, generación de
 n-gramas, análisis sintáctico de oraciones, entre otras.
 
 Se seleccionó esta herramienta porque no impone una estructura
-rígida en cuantó que cómo procesar el texto, lo que la hizo
+rígida en cuantó a cómo procesar el texto, lo que la hizo
 idónea para perseguir los objetivos interdisciplinares de esta
 investigación. En cuanto a las herramientas concretas utilizadas,
 se expondrán a continuación.
 
 \subsubsection{N-gramas}
-\label{sec:orgfb1eeed}
+\label{sec:org41f0918}
 
 Los N-gramas son una herramienta común en el procesamiento
 de lenguaje natural y tienen diversas aplicaciones. Desde sus
@@ -640,12 +644,12 @@ como una herramienta que captura la 'memoria' o 'relación'
 de dos palabras adyacentes dentro de un mensaje. No se
 utilizarán funciones de probabilidad, sino que se hará
 un cálculo de similitud utilizando el algoritmo descrito
-en la sección  \ref{sec:orge1e077d}, utilizando
+en la sección  \ref{sec:org4f24e82}, utilizando
 n-gramas de nivel 2 o \textbf{bigramas}.
 
 
 \subsubsection{Tokenización}
-\label{sec:orge4d34d1}
+\label{sec:org967bd01}
 La tokenización es el proceso mediante el cual se separa la entrada
 de un programa NLP en unidades de análisis más pequeñas llamadas
 \textbf{tokens}. Un token puede ser una palabra, aunque no necesariamente
@@ -663,7 +667,7 @@ incluyendo signos de puntuación y otros caracteres alphanumericos.
 
 
 \subsubsection{Vectorización}
-\label{sec:orgbd92f94}
+\label{sec:org185f7a1}
 La vectorización es el proceso de tomar una característica o medida
 y representarla como una secuencia números reales, como un vector. A menudo,
 tal representación permite visualizar las características en un espacio
@@ -672,20 +676,24 @@ vectorial, aunque la visualización no es la ventaja crucial.
 La vectorización es una técnica utilizada a lo largo de muchos
 dominios y tiene una larga historia en el proceso de transformar
 un concepto a una entrada que sea interpretable por una máquina
-\cite{jha_abhishek_vectorization}.  Continuamente, catalizadas por
-el auge del Machine Learning, se desarrollan técnicas de
+\cite{jha_abhishek_vectorization}.  Continuamente, catalizadas
+por el auge del Machine Learning, se desarrollan técnicas de
 vectorización que ayudan a hacer los cálculos de similitud entre
-vectores más eficientes, dependiento del objetivo. Un buen
-ejemplo es el desarrollo del modelo de Google, que
-codifica las palabras de tal forma que agiliza el cálculo
-de similitud entre conceptos, conservando la noción
-de múltiples grados de similaridad \cite{mikolov2013efficient}.
+vectores más eficientes, dependiento del objetivo. Por ejemplo,
+el estado del arte en cuanto a vectorización en NLP es el
+paradigma Word2Vec desarrollado por de Google, que codifica las
+palabras de tal forma que agiliza el cálculo de similitud entre
+conceptos, conservando la noción de múltiples grados de
+similaridad \cite{mikolov2013efficient}.
 
 En este trabajo, la técnica de vectorización utilizada es
-la \emph{bag of words}, que es una técnica basada en la \textbf{frequencia}.
+inspirada en la \emph{bag of words}, que es una técnica basada en la
+\textbf{frequencia}. La complejidad de utilizada en algoritmos como el
+Word2Vec que hacen uso de redes neuronales, está por fuera del alcance
+de este trabajo.
 
 \subsubsection{Bag of words}
-\label{sec:orgb7b6edb}
+\label{sec:org64646bc}
 
 Es una técnica de vectorización frecuentemente utilizada en NLP.
 Se considera de complejidad sencilla, pero funciona exitosamente
@@ -697,20 +705,22 @@ tokenizada se construye un \emph{vocabulario}.  Este es set de cada
 palabra utilizada en la entrada.  Luego, se procede a asociar a
 cada palabra del vocabulario a su frecuencia en el texto, con lo
 cual se obtiene un histograma de palabras. En la última etápa,
-usualmente se utiliza una matriz llana en la que cada fila
-corresponde con una oración y cada columna representa una entrada
-en el vocabulario \cite{jha_abhishek_vectorization}.
+usualmente se utiliza una matriz llana (\emph{sparse matrix}) en la
+que cada fila corresponde con una oración y cada columna
+representa una entrada en el vocabulario
+\cite{jha_abhishek_vectorization}.
 
 No obstante, para en este trabajo no se utilizará este enfoque
 tradicional.  Sino que el proceso de vectorizacións seguirá los
-pasos descritos en la sección \ref{sec:orge1e077d}. Sin embargo,
-es necesario mencionar que la técnica de bag of words conlleva
+pasos descritos en la sección \ref{sec:org4f24e82}. Sin embargo,
+es necesario mencionar que la técnica de \emph{bag of words} conlleva
 a los siguientes supuestos: 1) se asume que el orden de las
 palabras en la entrada no importa, tan solo la frecuencia
 de cada entrada y 2) la existencia de las palabras en el
-vocabulario es indenpiente una de la otra.  
+vocabulario es indepiente una de la otra.  
+
 \subsubsection{Corpus}
-\label{sec:org9f861e2}
+\label{sec:orge0ba3ee}
 
 
 Un corpus es una colección de textos auténticos que pueden ser
@@ -721,23 +731,26 @@ colección arbitraria), categorizados (una colección escogida según
 algún criterio), temporales (una colección organizada
 cronológicamente) o solapados (un documento puede pertenecer a
 varias colecciones) \cite{bird2009natural} (ver figura
-\ref{fig:org0ec12ed}). Además, el formato del corpus varía
+\ref{fig:org7c4e43e}). Además, el formato del corpus varía
 significativamente de acuerdo al objeto de la investigación. Por
 ejemplo, si se desea hacer un análisis sintáctico (de la estructura
 de una oración), se debe hacer un corpus anotado con POS (Part Of
 Speech tag); para hacer un análisis pragmático se utiliza una
 anotación pragmática, etc.
 
-
+En este trabajo, se utilizará un categorizado. Las categorías del
+corpus se considerarán como indicadores de un juicio experto, sobre
+las cuales se formularan hipótesis. Más detalles sobre el corpus utilizado
+se encuentran en la sección \ref{sec:org9b18437}.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/estructuras_de_corpus.png}
-\caption{\label{fig:org0ec12ed}Diferentes estructuras de corpus}
+\caption{\label{fig:org7c4e43e}Diferentes estructuras de corpus}
 \end{figure}
 
 \subsection{Analítica de datos}
-\label{sec:orgae1b8d8}
+\label{sec:org8c3ca39}
 La analítica de datos es una disciplina heterogenea que auna
 diversas áreas de de estudio, como la teoría de la computación, la
 estadística, los negocios y cualquier otro dominio sobre el cual es aplicada
@@ -772,7 +785,7 @@ En cuanto a la información específica de la metodología, este
 proyecto se guió por la metodología CRIPS-DM
 
 \subsection{CRISP-DM}
-\label{sec:orgd040455}
+\label{sec:org4fcb124}
 El Cross Industry Standard Process for Data Mining (CRISP-DM) es
 un modelo que sirve de base para cualquier proceso de analítica de
 datos. Este consta de 6 fases: 1) Entendimiento del negocio (¿Qué
@@ -796,7 +809,7 @@ trabajo no es producir un modelo utilizado en un entorno empresarial.
 
 
 \section{MARCO REFERENCIAL}
-\label{sec:orgb2794b8}
+\label{sec:orgd34644f}
 
 En la revisión de la literatura se encontraron, a groso modo,
 dos tipos de trabajos que se consideran antecedentes cercanos. Esta
@@ -807,7 +820,7 @@ aspectos relevantes para el presente trabajo.
 
 
 \subsection{Tipo I}
-\label{sec:org17075f1}
+\label{sec:orgcbea387}
 El primer tipo de trabajo tiene un enfoque basado en \emph{Machine
 Learning}, tienen un componente explorativo, y los autores por lo
 general se muestran escépticos al concepto de \emph{literariedad}. Dentro
@@ -866,7 +879,7 @@ encuentra. En este trabajo, en cambio, la \emph{literariedad} se modela.
 
 
 \subsection{Tipo II}
-\label{sec:org292d37c}
+\label{sec:org4ec20c4}
 Ahora bien, el segundo tipo de trabajo tiene un enfoque basado en
 estadística y vectorización, pero no emplea de forma explícita el
 concepto \emph{literariedad} u otra fundamentación de la linguística
@@ -915,22 +928,24 @@ propone soluciones a aspectos complejos del análisis lingüístico que los
 autores anteriores no abordan.
 
 Por último, dentro de este segundo tipo de trabajo, tiene mención
-especial el trabajo de \cite{zuniga2017automatic}. Aquí se establece
-una métrica para medir el grado de creatividad en la poesía, basándose
-en qué tanto de la rima se conserva en la traducción de un poema con
-respecto al original. De aquí se tomó la idea de establecer una
-métrica para un aspecto tradicionalmente cualitativo (la creatividad),
-desde una perspectiva \emph{hand-crafted}. Lo que diferenció este trabajo
-del de Delmonte, es su aproximación matemática. Aquí se proveen
-fórmulas para cada una de las 7 medidas propuestas. El grado de
-complejidad para cada medida es sencillo, pero se obtienen buenos
-resultados.  Lo que fue un ejemplo tremendo para este trabajo, pues
-muestra las ventajas del \emph{hand-crafted features}, en contraposición al
-de \emph{learned-features}. Esto destacó el valor de formular medidas
-propias por sobre las de un algoritmo no supervisado.
+especial el trabajo de Zúñiga et al.\cite{zuniga2017automatic}. Aquí
+se establece una métrica para medir el grado de creatividad en la
+poesía, basándose en qué tanto de la rima se conserva en la traducción
+de un poema con respecto al original. De aquí se tomó la idea de
+establecer una métrica para un aspecto tradicionalmente cualitativo
+(la creatividad), desde una perspectiva \emph{hand-crafted}. Lo que
+diferencia este trabajo del de Delmonte, es la claridad en su
+aproximación matemática. Aquí se proveen fórmulas para cada una de las
+7 medidas propuestas. El grado de complejidad para cada medida es
+relativamente sencillo (si se compara con modelos basados ML), pero se
+obtienen buenos resultados.  Este trabajo fue un ejemplo muy
+significativo para el presente, pues muestra las ventajas del enfoque
+de \emph{hand-crafted features} , en contraposición al de
+\emph{learned-features}. Esto destacó el valor de formular medidas propias
+por sobre las de un algoritmo no supervisado.
 
 \section{DISEÑO METODOLÓGICO}
-\label{sec:org4829476}
+\label{sec:org9b18437}
 El diseño metodológico seguirá --a grandes rasgos-- los pasos de la
 metodología CRISP-DM, que se considera un estándar \emph{de facto} para
 proyectos de minería de datos. Esta metodología ayudará organizar
@@ -939,7 +954,7 @@ el proceso de mi investigación, que vá desde el acceso a los corpus
 los resultados).
 
 \subsection{Entendimiento del negocio}
-\label{sec:org40aac6b}
+\label{sec:org0bc93e9}
 
 El resultado tangible del modelo de literariedad propuesto son dos
 métricas cuantitativas: \emph{metáfora} y \emph{metonímia}.  Estas métricas
@@ -982,46 +997,46 @@ metáfora y metonímia.
 
 
 \subsection{Entendimiento de los datos}
-\label{sec:org79fd8fc}
+\label{sec:org8d1ad19}
 
 En esta sección, se enumeran las distintas fuentes de datos o
 recursos, que en este caso vendrían a ser los diferentes tipos de
 corpus necesarios para el modelo. Cada fuente se utiliza para
 formar un componente dentro del modelo (nivel de abstracción), que
 guarda una relación con la teoría lingüística.  Estas relaciones
-están sintetizadas en la figura \ref{fig:orga2a70e7}.
+están sintetizadas en la figura \ref{fig:org87a303f}.
 A continuación, se describe cada tipo de dato, vinculándolo con su
 recurso, la tecnología implicada y la teoría.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.9\linewidth]{./assets/entendimiento_de_los_datos.png}
-\caption{\label{fig:orga2a70e7}Resumen de las fuentes de datos utilizadas para cada concepto}
+\caption{\label{fig:org87a303f}Resumen de las fuentes de datos utilizadas para cada concepto}
 \end{figure}
 
 
 
 \subsubsection{El corpus de referencia}
-\label{sec:org77a305b}
+\label{sec:org6c659ba}
 
 El corpus de referencia es un compendio de muestras textuales que
-representa un consenso sobre el uso de la \emph{lengua}
-(ver \ref{sec:org98063f5}). Su correlación teórica es el eje de diacronía (ver
-\ref{sec:org619517e}) y cumple la función de cristalizar una
+representa un consenso sobre el uso de la \emph{lengua} (ver
+\ref{sec:org2de8069}). Su correlación teórica es el eje de sincronía (ver
+\ref{sec:org1de4d43}) y cumple la función de cristalizar una
 lengua en un lugar y un tiempo establecido.
 
 Desde un punto de vista técnico, es una cadena de texto de
 longitud arbitraria sobre la cual se forma una bolsa de palabras
-(ver \ref{sec:orgb7b6edb}) basada en frequencias.
+(ver \ref{sec:org64646bc}) basada en frequencias.
 
 Como fuente del corpus de referencia, se utiliza el Corpus de
 Brown. El Corpus de Brown se accede a través de la librería NLTK
-de Python (ver \ref{sec:org76f9d4b}), que provee una descarga asistida a través
+de Python (ver \ref{sec:orga398835}), que provee una descarga asistida a través
 de su módulo `nltk.corpus`.
 
 
 \subsubsection{El corpus objetivo}
-\label{sec:org4be0090}
+\label{sec:org9944fdb}
 
 El corpus objetivo serán los mensajes sobre los cuales se
 computarán las dos medidas de \emph{metáfora} y \emph{metonimia}.  Su
@@ -1036,17 +1051,17 @@ de Brown, puesto que, siguiendo los postulados de la teoría, el
 \emph{habla} se debe estudiar en relación con la \emph{lengua}. Los
 detalles sobre qué téxtos específicos del Corpus de Brown son
 utilizados como corpus objetivo están detallados en la sección
-\ref{sec:org903d0a5}.
+\ref{sec:orgfbee95f}.
 
 
 
 \subsubsection{La red semántica}
-\label{sec:org9724977}
+\label{sec:orgb182798}
 
 La red semántica es un componente que permite vincular palabras
 entre sí en virtud de su significado. Su correlativo teórico
 es la noción de lenguaje mismo, entiendo por este la facultad
-de comprender sistemas de signos (ver \ref{sec:org9be22e2}).
+de comprender sistemas de signos (ver \ref{sec:orgd46ee03}).
 
 A nivel técnico, la red semántica no se preparará o implementará
 de ningún modo, sino que se utilizará el recurso WordNet. WordNet
@@ -1059,7 +1074,7 @@ libreria NLTK a través de su módulo `nltk.corpus`.
 
 
 \subsection{Preparación de los datos}
-\label{sec:org903d0a5}
+\label{sec:orgfbee95f}
 \label{sec:preparacion_datos} La tarea de preparación de los datos
 consiste principalmente en seleccionar confeccionar los corpus
 necesarios para el modelo (corpus de referencia y corpus objetivo)
@@ -1068,7 +1083,7 @@ manera significativa y coherente.  A continuación, se describen los
 criterios utilizados para realizar la selección de textos.
 
 \subsubsection{Corpus de referencia}
-\label{sec:org3340635}
+\label{sec:org07773d6}
 
 El corpus de referencia representa la \emph{lengua} (\emph{langue}). Por lo
 tanto, debe estar compuesto de una muestra de textos
@@ -1182,7 +1197,7 @@ utilizará como corpus de referencia.
 \end{longtable}
 \normalsize
 \subsubsection{Corpus objetivo}
-\label{sec:org019485d}
+\label{sec:orgfba964c}
 En contrapartida al corpus de referencia, el corpus objetivo representa el
 \emph{habla} (\emph{parole}). Así, estos son considerados mensajes que serán interpretados
 por el receptor con relación al consenso de la lengua compartida entre emisor y
@@ -1216,7 +1231,7 @@ tablas \ref{tab:corpus_objetivo1},
 
 \small
 
-   \begin{table}[!ht]
+   \begin{table}[H]
     \centering
 
     \begin{tabular}{|l|l|l|}
@@ -1244,7 +1259,7 @@ tablas \ref{tab:corpus_objetivo1},
 
 
 
-     \begin{table}[!ht]
+     \begin{table}[H]
       \centering
       \begin{tabular}{|l|l|l|}
       \hline
@@ -1269,7 +1284,7 @@ cód & nombre & categoría \\ \hline
   \end{table}
 
 
-\begin{table}[!ht]
+\begin{table}[H]
  \centering
 
  \begin{tabular}{|l|l|l|}
@@ -1295,7 +1310,7 @@ cód & nombre & categoría \\ \hline
   \end{table}
 
 
-   \begin{table}[!ht]
+   \begin{table}[H]
       \centering
  \begin{tabular}{|l|l|l|}
  \hline
@@ -1323,7 +1338,7 @@ cód & nombre & categoría \\ \hline
   \end{table}
 
 
-      \begin{table}[!ht]
+      \begin{table}[H]
     \centering
 
     \begin{tabular}{|l|l|l|}
@@ -1351,7 +1366,7 @@ cód & nombre & categoría \\ \hline
 \normalsize
 
 \subsubsection{Resumen}
-\label{sec:org210862e}
+\label{sec:orgf8522a3}
 Un resumen de los datos implicados en el experimento se puede ver en la figura \ref{tab:resumen_preparacion}.
 
 
@@ -1374,9 +1389,9 @@ Un resumen de los datos implicados en el experimento se puede ver en la figura \
 \end{table}
 
 \subsection{Modelamiento}
-\label{sec:org10ce3a7}
+\label{sec:orgeb39f5e}
 \subsubsection{Selección de técnica de modelado}
-\label{sec:orga0cdfb0}
+\label{sec:org347faec}
 
 Esta investigación se enmarca dentro de un enfoque mixto, en
 donde se utilizan métodos tanto cualitativos (el marco teórico) como
@@ -1396,7 +1411,7 @@ una formulación cuantificable con los métodos descritos.
 
 
 \subsubsection{Diseño experimental}
-\label{sec:org95aa426}
+\label{sec:org220afc4}
 
 Una vez formulado el modelo, se conduce un experimento que evaluará si produce resultados
 satisfactorios. El objetivo del experimento es escudriñar si los valores arrojados para
@@ -1409,10 +1424,8 @@ muestras del Corpus de Brown  de tal modo que cada categoría está representada
 en cada muestra. Así, luego de procesar las muestras, se compararán los resultados por
 cada categoría.
 
-El modelo se considerará existoso si los valores del índice metafórico e índice metonímico
-son consistentes a lo largo de las muestras para cada categoría.
-
-Además, dentro de cada muestra, se espera que se cumplan ciertas hipótesis:
+Desde un punto de vista cualitativo, el modelo se considerará exitoso si se cumplen dentro
+de un márgen de duda razonable, las siguientes hipótesis sobre su comportamiento:
 
 \begin{itemize}
 \item H\textsubscript{1}: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
@@ -1422,14 +1435,19 @@ Además, dentro de cada muestra, se espera que se cumplan ciertas hipótesis:
 \end{itemize}
 
 
-No se formularán más hipotesis acerca del índice metonímico, pues según los planteamientos teóricos este indicador
-es sensible especialmente al género de poesía, que no está presente en la muestra por las limitaciones del corpus
-seleccionado.
+Como se observa, no se formulan más hipotesis acerca del índice
+metonímico, pues según los planteamientos de Jakobson, la metonimia
+es de difícil comprensión \cite{jakobson1956two}. Por lo tanto, es
+muy riesgoso postular hipóstesis demasiado específicas sobre su
+comportamiento.
 
+Desde el punto de vista cuantitativo, el modelo se considerará existoso
+si los resultados son consistentes a lo largo de las 5 muestras propuestas. Dicha evaluación
+se realiza en la sección \ref{sec:org98c0305}.
 
 
 \subsubsection{Presentación del modelo}
-\label{sec:orge1e077d}
+\label{sec:org4f24e82}
 
 El modelo diseñado se basa en las siguientes ecuaciones. Para una
 visión a más alto nivel del procedimiento se puede ver la figura
@@ -1493,7 +1511,7 @@ uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 Así, si la palabra se utiliza más veces que la media del vector de
 uso, se considera que la palabra está siendo utilizada de manera más
 'singular' (más frecuente que lo indicado que se debe usar por su
-vector de uso), por ende el resultado del cociente es mas alto y su
+vector de uso), por ende el resultado del cociente es más alto y su
 aporte al índice metaforico mayor.
 
 
@@ -1561,20 +1579,50 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \caption{\label{fig:metonimia}Concepto de metonimia}
 \end{figure}
 
+\subsubsection{Ejemplos de implementación}
+\label{sec:orgfd0fba8}
+En las figuras \ref{fig:cod_vector_semantico} y
+\ref{fig:cod_metonimia} se muestran fragmentos funcionales del
+código desarrollado, para ejemplificar mejor algunos conceptos
+modelados en las fórmulas. Las matrices completas se proveerán
+como anexos a este trabajo.
+
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=.8\linewidth]{./assets/codigo_vector_semantico.png}
+\caption{\label{fig:cod_vector_semantico}El vector semántico captura los sinónimos de una palabra, intercambiables entre si}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=.8\linewidth]{./assets/codigo_metonimia.png}
+\caption{\label{fig:cod_metonimia}La metonimia calcula la similitud entre una secuencia de palabras}
+\end{figure}
+
+
+
 \subsection{Despliegue}
-\label{sec:org5a0b31a}
-En las secciones \ref{sec:org2d2a23e}, \ref{sec:org771eb8c} y
-\ref{sec:orgafe20a4} se presentarán los resultados del experimento
+\label{sec:orgb0f9dcc}
+En las secciones \ref{sec:orgcfc3e2b}, \ref{sec:org6f1fdef} y
+\ref{sec:org73f4407} se presentarán los resultados del experimento
 según los parámetros descritos en las secciones anteriores.
 La presentación va en creciente órden de abstracción, partiendo
 de los datos brutos, pasando por su visualización, hasta llegar
 a las Conclusiones .
 
+Los datos obtenidos por los modulos desarrollados, que serán
+entregados como anexos, fueron procesados con las librerias de Python: Pandas;
+para agrupaciones y datos descriptivos, Seaborn; para gráficos, y
+Scypy y Scickit Learn; para las operaciones de normalización y pruebas
+de hipótesis, respectivamente.
+
 \subsubsection{Índices por muestra}
-\label{sec:org2d2a23e}
+\label{sec:orgcfc3e2b}
 En esta sección, se muestran los resultados producidos por el modelo
 para cada uno de los corpus objetivos definidos en la sección
-\ref{sec:org903d0a5}. En cada tabla se presentan el índice
+\ref{sec:orgfbee95f}. En cada tabla se presentan el índice
 metafórico y el índice metonímico para el representante de cada
 categoría en las columnas 'metafora' y 'metonimia',
 respectivamente. La columna 'w' simplemente representa el número de
@@ -1582,7 +1630,7 @@ palabras totales en el texto procesado, en caso de que en un futuro se
 desee hacer comparaciones entre textos de diferentes tamaños.
 
 Estos valores no tienen ningún tipo de procesamiento y para apreciarlos, es mejor
-consultar las secciones \ref{sec:org771eb8c} y \ref{sec:orgafe20a4}.
+consultar las secciones \ref{sec:org6f1fdef} y \ref{sec:org73f4407}.
 
 \small
 \begin{center}
@@ -1705,9 +1753,9 @@ consultar las secciones \ref{sec:org771eb8c} y \ref{sec:orgafe20a4}.
 
 \normalsize
 \subsubsection{Gráficos por muestra}
-\label{sec:org771eb8c}
+\label{sec:org6f1fdef}
 En esta sección se presentan los gráficos para cada uno de los corpus objetivos
-definidos en \ref{sec:org903d0a5}. Cada cúmulo de gráficos consta de 2 filas.
+definidos en \ref{sec:orgfbee95f}. Cada cúmulo de gráficos consta de 2 filas.
 La primera fila muestra el puntaje para el \textbf{índice metafórico} (izquierda) y
 el \textbf{índice metonímico} (derecha) a través de las categorías, como están
 definidas en el corpus de Brown. Por otro lado, en la segunda fila
@@ -1716,11 +1764,12 @@ y \textbf{no ficción}. Las metacategorias son agrupaciones de categorías del c
 de Brown y tienen el objetivo de evidenciar más claramente el comportamiento
 de los dos índices de manera más general.
 
-Para la producción de estos gráficos, se tomaron los resultados presentados en \ref{sec:org2d2a23e}, y
-se normalizaron con la técnica Min Max. En cada corpus objetivo, por lo tanto, se evidencia que
-hay una categoría con el valor mínimo de 0 y otra con el valor máximo de 1. Esto evidencia
-mejor la relación entre las distintas categorias en cuanto a las dos medidas postulados: la metáfora
-y la metonimia.
+Para la producción de estos gráficos, se tomaron los resultados
+presentados en \ref{sec:orgcfc3e2b}, y se normalizaron con la técnica
+min-max. En cada corpus objetivo, por lo tanto, se evidencia que hay
+una categoría con el valor mínimo de 0 y otra con el valor máximo
+de 1. Esto evidencia mejor la relación entre las distintas categorias
+en cuanto a las dos medidas postulados: la metáfora y la metonimia.
 
 \begin{figure}[H]
 \centering
@@ -1770,14 +1819,14 @@ y la metonimia.
 
 
 \subsubsection{Gráficos totales}
-\label{sec:orgafe20a4}
+\label{sec:org73f4407}
 En esta sección se presentan los gráficos para el \textbf{índice metafórico} y el \textbf{índice metonímico}
 teniendo en cuenta su comportamiento a lo largo de todos los corpus objetivos. Por lo tanto,
 cada boxplot está constuido de 5 muestras (correspondientes a 1 representante de cada corpus
 objetivo) para cada categoría, por lo que se puede obtener una noción más clara del IQR, la mediana
 , los datos atípicos en cada categoría y metacategoría.
 
-La visualización del comportamiento de los indicadores será necesaria para las Conclusiones (\ref{sec:org5692bed}).
+La visualización del comportamiento de los indicadores será necesaria para las Conclusiones (\ref{sec:org53c94e3}).
 
 \begin{figure}[H]
 \centering
@@ -1802,19 +1851,26 @@ La visualización del comportamiento de los indicadores será necesaria para las
 \end{figure}
 
 \subsection{Evaluación}
-\label{sec:org0ad71da}
-Según lo contempla el proceso de analítica de datos (ver sección \ref{sec:orgae1b8d8}),
-es necesario someter a prueba los modelos postulados. Sin embargo, como el modelo propuesto
-no se enmarca dentro de Machine Learning, no se dispone de un algoritmo de clasificación
-per se, que luego de pueda evaluar con un set de validación.
+\label{sec:org98c0305}
+Según lo contempla el proceso de analítica de datos (ver sección
+\ref{sec:org8c3ca39}), es necesario someter a prueba los modelos
+postulados.  Como el modelo propuesto no se enmarca dentro de
+Machine Learning, los resultados no se pueden evaluar como si se
+tratase de un algoritmo de clasificación per se, en términos de una
+matriz de confusión con relación a un set de entrenamiento. Sin
+embargo, CRISP-DM contempla que la evaluación se haga de diversas
+maneras, según sean los objetivos.
 
-Sin embargo, teniendo en cuenta los hipótesis planteadas en la sección \ref{sec:org95aa426},
-se pueden realizar pruebas estadísticas que pueden aportar una fundamentación cuantitativa,
-para las hipótesis que lo permitan.
+Cualitatitavemente, la evaluación se desorrallará en las
+Conclusiones. Cuantitativamente, no obstante, se puede hacer uso
+del análisis de variancia (ANOVA) para aportar una fundamentación
+cuantitativa al análisis de hipótesis que lo permitan. 
 
-Así, para la H\textsubscript{1}, que plantea que las metacategorías de ficción y no ficción tengan un
-índice metaforico significativamente distinto se formula una prueba ANOVA, a lo largo de
-todas las muestras, entre los textos de ficción y no ficción, con el siguiente resultado:
+Así, para la H\textsubscript{1}, que plantea que las metacategorías de ficción y
+no ficción tengan un índice metaforico significativamente distinto
+se formula una prueba ANOVA, a lo largo de todas las muestras,
+entre los textos de ficción y no ficción, con el siguiente
+resultado:
 
 \begin{verbatim}
 >>> anova_metafora
@@ -1822,10 +1878,11 @@ F_onewayResult(statistic=51.510567153609514, pvalue=9.812579375438188e-10)
 
 \end{verbatim}
 
-Por lo tanto, se como el valor-p para la prueba ANOVA es inferior a 0.01 y
-el estadístico \(F\) es muy alto, se puede afirmar que el algoritmo genera valores
-significativamente distintos entre las metacategorías de ficción y no ficción,
-con una confianza mayor al 99\%.
+Por lo tanto, como el valor-p para la prueba ANOVA es inferior a
+0.01 y el estadístico \(F\) es muy alto, se puede afirmar que el
+algoritmo genera valores significativamente distintos entre las
+metacategorías de ficción y no ficción, con una confianza mayor al
+99\%.
 
 Así mismo, si se hace una prueba ANOVA para el índice metonímico para las
 metacategorías de ficción y no ficción se obtiene que:
@@ -1842,22 +1899,25 @@ Por lo tanto, como el valor-p para la prueba es inferior a 0.05 y el estadístic
 significativamente distintos entre las metacategorias de ficción y no ficción
 con una confianza de 95\%.
 
+En términos generales, se puede afirmar que los valores que arrojan
+los índices no son aleatorios, porque la variación entre los grupos
+es mayor que la variación dentro de ellos.
 
 \section{CONCLUSIONES}
-\label{sec:org5692bed}
+\label{sec:org53c94e3}
 
 Para concluir el presente trabajo, primero se señalarán los resultados
 del experimento frente a las hipótesis planteadas y los hallazgos.
-Posteriormente, se expondrán las críticas posibles al modelo
-planteado. Por último, se señalaran trabajos futuros para profundizar
+Posteriormente, se discutirán los aciertos y desaciertos  del modelo
+planteado. Por último, se señalarán trabajos futuros para profundizar
 más en la pregunta de investigación.
 
 \subsection{Las hipótesis planteadas}
-\label{sec:org532305c}
+\label{sec:org3ac20b1}
 
 Para la hipótesis H\textsubscript{1} se observa en la figura
 \ref{fig:metafora_total} que el índice metafórico es, en promedio, más
-alto para las categorias de no ficción que para las categorias de no
+alto para las categorias de ficción que para las categorias de no
 ficción, a lo largo las 5 muestras. De hecho, en promedio, las obras
 de ficción reportan un índice metafórico 252\% más alto (0.635572) que
 las de no ficción (0.256140). Esto es consistente con la intuición,
@@ -1900,7 +1960,7 @@ los factores de comunicación de Jakobson se centran en las funciones
 conativa o fática.
 
 \subsection{Hallazgos}
-\label{sec:org60278ce}
+\label{sec:orgcf98a55}
 
 Además de la validación de hipótesis iniciales, hubo un hallazgo
 notable en el experimento que concierne al comportamiento del
@@ -1915,12 +1975,15 @@ más alto (0.87).
 Esto, visto cuantitativamente, parece apuntar a una relación
 inversamente proporcional entre el índice metafórico y el índice
 metonímico. Por otro lado, cualitativamente, esta observación
-podría tener una implicación notable.  El hallazgo corresponde a
-que Jakobson alude al 'emparentamiento' de los principios de
-métafora y metonimia a dos movimientos artísticos: el Romanticismo
-(metáfora) y el Realismo (metonimia). Como conclusión de su ensayo
-\emph{Two Aspects of Language and Two Types of Aphasic Disturbances},
-Jakobson anota:
+podría tener una implicación notable.  Jakobson alude al
+'emparentamiento' de los principios de métafora y metonimia a dos
+movimientos artísticos: el Romanticismo (metáfora) y el Realismo
+(metonimia). Con esto quiere decir que los textos de carácter más
+realista utilizan principalmente la metonimia como operación
+principal. Por otro lado, los textos más figurativos, como la
+poesía y la ficción utilizan principalmente la metáfora.  Como
+conclusión de su ensayo \emph{Two Aspects of Language and Two Types of
+Aphasic Disturbances}, Jakobson anota:
 
 \begin{quote}
 (\ldots{})  it is generally realized that Romanticism is closely linked
@@ -1934,7 +1997,7 @@ parezca corroborarla.
 
 
 \subsection{Discusión}
-\label{sec:org3ee5eb9}
+\label{sec:org6c559fc}
 
 
 Desde una perspectiva experimental, se considera que el modelo es
@@ -1967,12 +2030,12 @@ afines al polo 'Realista' (periódicos, reportes, artículos, etc) y
 la metáfora con textos afines al polo del 'Romanticismo'
 (historias, fábulas, fantasía, etc).
 
-\item Este enfoque tiene algunas ventajas y desventajas con respecto
-a un enfoque de Machine Learning. Como ventaja, no se requiere
-un \emph{training set}. Como desventaja, el valor de los índices
-debe ser comparado entre textos según un contexto dado por
-el corpus de referencia. Esta, sin embargo, es la postura
-de estructuralista.
+\item Este enfoque tiene algunas ventajas y desventajas con respecto a un
+enfoque de Machine Learning. Como ventaja, no se requiere un
+\emph{training set}. Como desventaja, el valor de los índices debe ser
+comparado entre textos según un contexto dado por el corpus de
+referencia. Esta, sin embargo, es la postura estructuralista, pues
+una apreciación literaria siempre se hace con respecto a otra.
 \end{enumerate}
 
 
@@ -1985,7 +2048,9 @@ numerosas optimizaciones. Algunas de ellas son:
 capture también los casos en los que una palabra se usa menos veces
 que lo que corresponda según el promedio de su vector de uso. En
 este momento, solo está detectando los casos en los que la palabra
-se utiliza más.
+se utiliza más. Una posible vía sería ubicar si la palabra utilizada
+se enmarca en un extremo de una distribución de la frecuencia de esa
+palabra, por ejemplo.
 
 \item El componente de red semántica es completamente dependiente de la
 base de datos de WordNet. Esto ocasiona que dada una palabra, su
@@ -1996,7 +2061,9 @@ red semántica se pueda configurar y/o alimentar progresivamente.
 
 \item Se debe explorar cómo plantear mejor el promedio del vector de uso,
 tomando en cuanto el número de documentos en donde aparece la
-palabra, no solo las frecuencias en bruto.
+palabra, no solo las frecuencias en bruto. Este tipo de noción se
+captura, por ejemplo, en el índice de frecuencia invertida (Inverse
+Frequency Index).
 \end{itemize}
 
 
@@ -2004,15 +2071,15 @@ palabra, no solo las frecuencias en bruto.
 \item Para la medida de metonimia, la repetición de sonidos solo se está
 teniendo en cuenta para palabras consecutivas, cuando en realidad la
 metonimia suele darse por elementos sintacticos distintos. Por
-ejemplo, se puede dar entre oraciones, ente párrafos, entre estrofas
-etc. Sin embargo, el cálculo de esto necesitaria incorporar POS al
-modelo, lo que complejizaría significativamente la implementación
-del índice.
+ejemplo, entre sílabas o fonemas. Sin embargo, el cálculo de esto
+necesitaria incorporar POS al modelo, lo que complejizaría
+significativamente la implementación del índice en corpus que no
+estén anotados.
 \end{itemize}
 
 
 \subsection{Trabajo futuro}
-\label{sec:org5c0aff8}
+\label{sec:org1bc9fae}
 
 Por último, hay estudios que se pueden realizar sin hacer ningún
 tipo de alteración a los algoritmos propuestos. El primer paso,

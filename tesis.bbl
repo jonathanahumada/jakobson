@@ -8,7 +8,7 @@ B.~Eijembaum, ``La teor{\'\i}a del" m{\'e}todo formal",'' in {\em Textos de
 \bibitem{jakobson1981linguistica}
 R.~Jakobson, ``Ling{\"u}{\'\i}stica y po{\'e}tica,'' in {\em Textos de
   teor{\'\i}as y cr{\'\i}tica literarias:(del formalismo a los estudios
-  postcoloniales)}, pp.~121--136, 1981.
+  postcoloniales)}, pp.~121--136, C{\'a}tedra Espa{\~n}a, 1981.
 
 \bibitem{jakobson1956two}
 R.~Jakobson, ``Two aspects of language and two types of aphasic disturbances,''
@@ -23,6 +23,11 @@ I.~A. Bolshakov and A.~Gelbukh, {\em Computational Linguistics: Models,
   Resources, Applications}.
 \newblock Mexico City: Centro de Investigacio{\'\o}n en Computaci{\'\o}n,
   Instituto Polit{\'\e}cnico Nacional, 1981.
+
+\bibitem{van2019vector}
+A.~van Cranenburgh, K.~van Dalen-Oskam, and J.~van Zundert, ``Vector space
+  explorations of literary language,'' {\em Language Resources and Evaluation},
+  vol.~53, no.~4, pp.~625--650, 2019.
 
 \bibitem{manning1999foundations}
 C.~Manning and H.~Schutze, {\em Foundations of statistical natural language
@@ -49,10 +54,11 @@ S.~Bird, E.~Klein, and E.~Loper, {\em Natural language processing with Python:
 \bibitem{nelli2018python}
 F.~Nelli, ``Python data analytics,'' {\em Apress Media, California}, 2018.
 
-\bibitem{van2019vector}
-A.~van Cranenburgh, K.~van Dalen-Oskam, and J.~van Zundert, ``Vector space
-  explorations of literary language,'' {\em Language Resources and Evaluation},
-  vol.~53, no.~4, pp.~625--650, 2019.
+\bibitem{wirth2000crisp}
+R.~Wirth and J.~Hipp, ``Crisp-dm: Towards a standard process model for data
+  mining,'' in {\em Proceedings of the 4th international conference on the
+  practical applications of knowledge discovery and data mining}, vol.~1,
+  pp.~29--40, Manchester, 2000.
 
 \bibitem{van2015identifying}
 A.~van Cranenburgh and C.~Koolen, ``Identifying literary texts with bigrams,''
@@ -98,5 +104,10 @@ D.~M. Kaplan and D.~M. Blei, ``A computational approach to style in american
 \bibitem{fellbaum_1998}
 C.~Fellbaum, {\em WordNet: An Electronic Lexical Database}.
 \newblock Bradford Books, 1998.
+
+\bibitem{genette1966estructuralismo}
+R.~Jakobson, ``Estructuralismo y cr{\'\i}tica literaria,'' in {\em Textos de
+  teor{\'\i}as y cr{\'\i}tica literarias:(del formalismo a los estudios
+  postcoloniales)}, pp.~139--153, C{\'a}tedra Espa{\~n}a, 1966.
 
 \end{thebibliography}
