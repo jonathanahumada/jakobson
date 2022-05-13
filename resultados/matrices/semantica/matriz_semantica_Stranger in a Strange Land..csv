@@ -1,0 +1,875 @@
+w,vector_semantico
+guru,"['guru', 'Guru']",Stranger in a Strange Land.
+inevitability,"['inevitability', 'inevitableness']",Stranger in a Strange Land.
+mind,"['brain', 'creative_thinker', 'mind', 'judgement', 'head', 'judgment', 'idea', 'take_care', 'listen', 'bear_in_mind', 'intellect', 'nous', 'psyche', 'beware', 'thinker', 'heed']",Stranger in a Strange Land.
+individual,"['mortal', 'case-by-case', 'soul', 'individual', 'person', 'somebody', 'single', 'someone', 'private', 'item-by-item']",Stranger in a Strange Land.
+bishops,['bishop'],Stranger in a Strange Land.
+For,[],Stranger in a Strange Land.
+next,"['following', 'succeeding', 'adjacent', 'future', 'next', 'side_by_side']",Stranger in a Strange Land.
+gripes,"['holler', 'grapple', 'bellyache', 'grip', 'kick', 'griping', 'gripes', 'fascinate', 'beef', 'grouse', 'intestinal_colic', 'squawk', 'gripe', 'transfix', 'spellbind', 'crab', 'colic', 'bitch']",Stranger in a Strange Land.
+by,"['aside', 'away', 'by', 'past']",Stranger in a Strange Land.
+last,"['death', 'live_on', 'in_conclusion', 'finally', 'finish', 'close', 'last', 'live', 'terminal', 'hold_up', 'final_stage', 'endure', 'finale', 'utmost', 'last-place', 'end', 'lastly', ""cobbler's_last"", 'final', 'lowest', 'stopping_point', 'go', 'hold_out', 'concluding', 'finis', 'net', 'conclusion', 'survive', ""shoemaker's_last""]",Stranger in a Strange Land.
+heaved,"['heave_up', 'heave', 'pant', 'heft_up', 'puff', 'surge', 'gasp', 'gag', 'retch', 'heft', 'billow', 'buckle', 'warp']",Stranger in a Strange Land.
+them,[],Stranger in a Strange Land.
+Before,"['in_front', 'ahead', 'earlier', 'before']",Stranger in a Strange Land.
+stars,"['virtuoso', 'star_topology', 'star', 'superstar', 'mavin', 'adept', 'wizard', 'sensation', 'maven', 'whizz', 'wiz', 'headliner', 'champion', 'lead', 'ace', 'principal', 'whiz', 'hotshot', 'genius', 'asterisk']",Stranger in a Strange Land.
+real,"['material', 'real', 'real_number', 'genuine', 'existent', 'literal', 'substantial', 'tangible', 'really', 'rattling', 'veridical', 'actual', 'very']",Stranger in a Strange Land.
+That,[],Stranger in a Strange Land.
+touch,"['allude', 'adjoin', 'impact', 'touching', 'have-to_doe_with', 'tactile_sensation', 'refer', 'jot', 'soupcon', 'match', 'skin_senses', 'partake', 'bear_on', 'come_to', 'touch', 'equal', 'signature', 'ghost', 'sense_of_touch', 'pertain', 'bear_upon', 'speck', 'extend_to', 'cutaneous_senses', 'advert', 'feeling', 'affect', 'tactual_sensation', 'touch_modality', 'hint', 'tinge', 'trace', 'tint', 'rival', 'touch_sensation', 'meet', 'contact', 'tinct', 'touch_on', 'disturb', 'reach', 'spot', 'pinch', 'stir', 'mite', 'relate', 'concern']",Stranger in a Strange Land.
+scheduled,"['scheduled', 'schedule']",Stranger in a Strange Land.
+chipper,"['chipper', 'jaunty', 'debonair', 'debonaire']",Stranger in a Strange Land.
+forced,"['squeeze', 'ram', 'strained', 'force', 'thrust', 'wedge', 'drive', 'coerce', 'push', 'draw', 'hale', 'pressure', 'storm', 'pull', 'forced', 'constrained', 'impel']",Stranger in a Strange Land.
+AD,"['advertising', 'anno_Domini', 'advertizement', 'advertizing', 'advertisement', 'ad', 'A.D.', 'AD', 'advert']",Stranger in a Strange Land.
+If,[],Stranger in a Strange Land.
+got,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",Stranger in a Strange Land.
+Yes,['yes'],Stranger in a Strange Land.
+later,"['by_and_by', 'recent', 'later', 'tardy', 'ulterior', 'belated', 'subsequently', 'after', 'later_on', 'former', 'afterwards', 'posterior', 'afterward', 'late', 'previous']",Stranger in a Strange Land.
+human,"['human', 'homo', 'human_being', 'man']",Stranger in a Strange Land.
+as,"['every_bit', 'AS', 'a', 'group_A', 'arsenic', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'American_Samoa', 'angstrom', 'atomic_number_33', 'As', 'as', 'equally', 'A', 'adenine', 'axerophthol', 'ampere', 'angstrom_unit', 'vitamin_A', 'Eastern_Samoa']",Stranger in a Strange Land.
+always,"['perpetually', 'invariably', 'ever', 'constantly', 'incessantly', 'always', ""e'er"", 'forever']",Stranger in a Strange Land.
+show,"['shew', 'read', 'demonstrate', 'evince', 'establish', 'present', 'express', 'testify', 'usher', 'render', 'demo', 'picture', 'designate', 'appearance', 'bear_witness', 'show', 'point', 'evidence', 'display', 'indicate', 'depict', 'show_up', 'register', 'record', 'exhibit', 'prove']",Stranger in a Strange Land.
+planet,"['planet', 'satellite', 'major_planet']",Stranger in a Strange Land.
+home,"['home_plate', 'habitation', 'menage', 'abode', 'home_base', 'rest_home', 'plate', 'household', 'family', 'internal', 'national', 'place', 'dwelling_house', 'home', 'nursing_home', 'domicile', 'house', 'dwelling', 'base', 'interior']",Stranger in a Strange Land.
+news,"['news_program', 'intelligence', 'newsworthiness', 'tidings', 'word', 'news_show', 'news']",Stranger in a Strange Land.
+downstairs,"['downstairs', 'downstair', 'below', 'on_a_lower_floor', 'down_the_stairs']",Stranger in a Strange Land.
+England,['England'],Stranger in a Strange Land.
+My,[],Stranger in a Strange Land.
+other,"['early', 'former', 'other']",Stranger in a Strange Land.
+Stinky,"['lousy', 'unpleasant-smelling', 'rotten', 'ill-smelling', 'malodourous', 'malodorous', 'stinky', 'icky', 'shitty', 'stinking', 'crappy']",Stranger in a Strange Land.
+generations,"['coevals', 'generation', 'propagation', 'contemporaries', 'genesis', 'multiplication']",Stranger in a Strange Land.
+another,"['some_other', 'another']",Stranger in a Strange Land.
+shouldn't,[],Stranger in a Strange Land.
+spoke,"['radius', 'address', 'rundle', 'verbalise', 'rung', 'mouth', 'talk', 'spoke', 'utter', 'verbalize', 'speak', 'wheel_spoke']",Stranger in a Strange Land.
+CD,"['standard_candle', 'candle', 'cadmium', '400', 'certificate_of_deposit', 'cd', 'four_hundred', 'candela', 'Cd', 'CD', 'compact_disk', 'atomic_number_48', 'compact_disc']",Stranger in a Strange Land.
+away,"['outside', 'forth', 'aside', 'by', 'off', 'out', 'away']",Stranger in a Strange Land.
+pronounced,"['judge', 'articulate', 'pronounce', 'enounce', 'say', 'enunciate', 'sound_out', 'pronounced', 'label', 'marked']",Stranger in a Strange Land.
+grokking,[],Stranger in a Strange Land.
+Short's,[],Stranger in a Strange Land.
+same,"['Saami', 'Saame', 'Lapp', 'Sami', 'Lapplander', 'Same', 'same', 'like']",Stranger in a Strange Land.
+gotten,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",Stranger in a Strange Land.
+Where,[],Stranger in a Strange Land.
+grown,"['rise', 'farm', 'develop', 'adult', 'spring_up', 'mature', 'maturate', 'grow', 'originate', 'full-grown', 'fully_grown', 'get', 'big', 'turn', 'acquire', 'grownup', 'arise', 'raise', 'produce', 'uprise', 'grown']",Stranger in a Strange Land.
+totality,"['totality', 'sum', 'aggregate', 'integrality', 'entirety', 'total', 'entireness']",Stranger in a Strange Land.
+punctuation,"['punctuation_mark', 'punctuation']",Stranger in a Strange Land.
+and,[],Stranger in a Strange Land.
+beauty,"['smasher', 'sweetheart', 'beauty', 'looker', 'dish', 'beaut', 'mantrap', 'stunner', 'ravisher', 'peach', 'lulu', 'knockout']",Stranger in a Strange Land.
+knotty,"['problematic', 'gnarly', 'elusive', 'knobbed', 'Byzantine', 'knotted', 'convoluted', 'involved', 'snarled', 'knotty', 'snarly', 'gnarled', 'problematical', 'tough', 'baffling', 'tangled', 'tortuous']",Stranger in a Strange Land.
+extremely,"['exceedingly', 'super', 'extremely', 'passing', 'highly']",Stranger in a Strange Land.
+quicker,"['quick', 'warm', 'faster', 'fast', 'straightaway', 'quicker', 'speedy', 'flying', 'ready', 'immediate', 'agile', 'prompt', 'spry', 'nimble']",Stranger in a Strange Land.
+girls,"['girlfriend', 'young_woman', 'lady_friend', 'fille', 'girl', 'missy', 'miss', 'young_lady', 'little_girl', 'female_child', 'daughter']",Stranger in a Strange Land.
+Daily,"['day-by-day', 'day_by_day', 'casual', 'everyday', 'daily', 'day-after-day', 'day-to-day']",Stranger in a Strange Land.
+happened,"['bump', 'come_about', 'hap', 'fall_out', 'pass_off', 'find', 'materialize', 'encounter', 'happen', 'befall', 'pass', 'take_place', 'chance', 'go_on', 'bechance', 'occur', 'materialise']",Stranger in a Strange Land.
+Of,[],Stranger in a Strange Land.
+else,[],Stranger in a Strange Land.
+Ben,['ben'],Stranger in a Strange Land.
+Earth,"['earthly_concern', 'Earth', 'ground', 'earth', 'dry_land', 'terra_firma', 'solid_ground', 'world', 'globe', 'land', 'worldly_concern']",Stranger in a Strange Land.
+Their,[],Stranger in a Strange Land.
+him,[],Stranger in a Strange Land.
+Come,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'ejaculate', 'occur', 'come_up', 'seed', 'come', 'number', 'arrive', 'hail', 'fare', 'seminal_fluid', 'get', 'descend', 'fall', 'total', 'issue_forth', 'add_up', 'do', 'cum', 'follow', 'semen']",Stranger in a Strange Land.
+salted,"['salt-cured', 'salt', 'salted', 'brine-cured']",Stranger in a Strange Land.
+helped,"['assist', 'help_oneself', 'serve', 'aid', 'avail', 'help', 'facilitate']",Stranger in a Strange Land.
+proclaimed,"['glorify', 'proclaim', 'exalt', 'proclaimed', 'exclaim', 'predicate', 'extol', 'announced', 'laud', 'promulgate']",Stranger in a Strange Land.
+half,"['half', 'one-half']",Stranger in a Strange Land.
+closer,"['close', 'nearer', 'skinny', 'cheeseparing', 'tightlipped', 'closelipped', 'closer', 'nigh', 'finisher', 'penny-pinching', 'snug', 'airless', 'near', 'tight', 'nigher', 'stuffy', 'confining', 'close-fitting', 'closemouthed', 'unaired', 'secretive', 'faithful']",Stranger in a Strange Land.
+Guardian,"['shielder', 'guardian', 'protector', 'defender']",Stranger in a Strange Land.
+rejected,"['turn_away', 'refuse', 'pass_up', 'disapprove', 'scorn', 'rule_out', 'spurned', 'disdain', 'freeze_off', 'winnow_out', 'turn_down', 'rejected', 'jilted', 'eliminate', 'reject', 'spurn', 'decline', 'resist', 'pooh-pooh']",Stranger in a Strange Land.
+The,[],Stranger in a Strange Land.
+understanding,"['sympathize', 'realize', 'read', 'interpret', 'savvy', 'sympathy', 'empathize', 'agreement', 'apprehension', 'intellect', 'discernment', 'empathise', 'understanding', 'see', 'translate', 'understand', 'reason', 'infer', 'sympathise', 'realise']",Stranger in a Strange Land.
+hold,"['grip', 'grasp', 'nurse', 'keep', 'take_for', 'book', 'defend', 'control', 'concur', 'hold_in', 'curb', 'reserve', 'adjudge', 'custody', 'cargo_area', 'cargo_deck', 'wait', 'clench', 'harbor', 'carry', 'keep_back', 'hold_up', 'handle', 'delay', 'defy', 'declare', 'halt', 'arrest', 'time_lag', 'cargo_hold', 'concord', 'take_hold', 'oblige', 'support', 'postponement', 'confine', 'take', 'guard', 'apply', 'give', 'withstand', 'hold', 'throw', 'have_got', 'harbour', 'accommodate', 'prevail', 'appreciation', 'restrain', 'obligate', 'bind', 'admit', 'maintain', 'deem', 'moderate', 'clutch', 'have', 'hold_back', 'storage_area', 'clutches', 'clasp', 'contain', 'check', 'view_as', 'go_for', 'detention', 'handgrip', 'make', 'sustain', 'detainment', 'obtain', 'retain', 'bear', 'entertain', 'agree']",Stranger in a Strange Land.
+light,"['twinkle', 'illumine', 'get_off', 'Light_Within', 'lightly', 'promiscuous', 'igniter', 'wanton', 'faint', 'calorie-free', 'wakeful', 'Light', 'illume', 'lightness', 'light_source', 'ignite', 'clear', 'sluttish', 'luminousness', 'ignitor', 'tripping', 'Inner_Light', 'scant', 'sparkle', 'brightness_level', 'lighter', 'swooning', 'light-colored', 'unclouded', 'clean', 'idle', 'luminosity', 'lighting', 'get_down', 'unaccented', 'weak', 'fall', 'visible_radiation', 'spark', 'light', 'easy', 'perch', 'unhorse', 'low-cal', 'brightness', 'illuminate', 'abstemious', 'light-headed', 'short', 'lite', 'Christ_Within', 'light_up', 'loose', 'fire_up', 'lightsome', 'luminance', 'visible_light', 'illumination', 'alight', 'lightheaded', 'dismount']",Stranger in a Strange Land.
+start,"['offset', 'protrude', 'take_off', 'lead_off', 'commencement', 'get-go', 'set_about', 'commence', 'starting', 'bulge', 'initiate', 'take_up', 'originate', 'showtime', 'start_out', 'start_up', 'startle', 'starting_signal', 'get', 'come_out', 'part', 'kickoff', 'starting_time', 'jump', 'get_down', 'depart', 'go', 'first', 'head_start', 'pop_out', 'beginning', 'get_going', 'outset', 'scratch', 'bulge_out', 'start', 'pop', 'begin', 'bug_out', 'set_out', 'embark_on', 'set_forth', 'scratch_line', 'starting_line', 'set_off']",Stranger in a Strange Land.
+up,"['improving', 'upwardly', 'astir', 'upwards', 'upward', 'up']",Stranger in a Strange Land.
+it'll,[],Stranger in a Strange Land.
+brother,"['brother', 'comrade', 'crony', 'buddy', 'Brother', 'pal', 'sidekick', 'blood_brother', 'chum']",Stranger in a Strange Land.
+don't,[],Stranger in a Strange Land.
+America,"['America', 'U.S.', 'the_States', 'United_States', 'United_States_of_America', 'US', 'U.S.A.', 'USA']",Stranger in a Strange Land.
+pool,"['pond', 'kitty', 'pool', 'consortium', 'puddle', 'syndicate', 'pocket_billiards']",Stranger in a Strange Land.
+remained,"['persist', 'continue', 'rest', 'stay', 'stay_on', 'remain']",Stranger in a Strange Land.
+ripple,"['burble', 'babble', 'bubble', 'cockle', 'guggle', 'riffle', 'ripple', 'ruffle', 'rippling', 'undulate', 'gurgle', 'wavelet']",Stranger in a Strange Land.
+Digby,[],Stranger in a Strange Land.
+growing-waiting,[],Stranger in a Strange Land.
+life,"['animation', 'life_sentence', 'life_history', 'spirit', 'life_story', 'life-time', 'liveliness', 'biography', 'aliveness', 'life', 'lifespan', 'living', 'sprightliness', 'lifetime']",Stranger in a Strange Land.
+looking,"['front', 'depend', 'reckon', 'seem', 'expect', 'calculate', 'looking_at', 'appear', 'wait', 'await', 'looking_for', 'see', 'take_care', 'sounding', 'search', 'look', 'attend', 'count', 'face', 'looking', 'bet']",Stranger in a Strange Land.
+Tabernacle,"['synagogue', 'tabernacle', 'temple', 'Mormon_Tabernacle', 'Tabernacle']",Stranger in a Strange Land.
+meantime,"['interim', 'lag', 'meanwhile', 'in_the_meantime', 'meantime']",Stranger in a Strange Land.
+Mahmoud,[],Stranger in a Strange Land.
+tasted,"['try_out', 'savour', 'try', 'sample', 'savor', 'taste', 'smack']",Stranger in a Strange Land.
+consisting,"['comprise', 'lie', 'lie_in', 'consist', 'dwell']",Stranger in a Strange Land.
+disappearance,"['disappearance', 'disappearing', 'fade']",Stranger in a Strange Land.
+there's,[],Stranger in a Strange Land.
+shape,"['human_body', 'SHAPE', 'chassis', 'regulate', 'shape', 'contour', 'work', 'mould', 'condition', 'embodiment', 'conformation', 'physique', 'determine', 'anatomy', 'figure', 'bod', 'influence', 'material_body', 'soma', 'configuration', 'form', 'Supreme_Headquarters_Allied_Powers_Europe', 'pattern', 'frame', 'cast', 'forge', 'flesh', 'physical_body', 'mold', 'build']",Stranger in a Strange Land.
+seemed,"['appear', 'look', 'seem']",Stranger in a Strange Land.
+spaces,"['quad', 'blank_space', 'outer_space', 'blank', 'infinite', 'place', 'space', 'distance']",Stranger in a Strange Land.
+Palermo,['Palermo'],Stranger in a Strange Land.
+most,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'to_the_highest_degree', 'nigh']",Stranger in a Strange Land.
+necessity,"['requisite', 'requirement', 'essential', 'necessary', 'necessity']",Stranger in a Strange Land.
+Ardent,"['torrid', 'perfervid', 'warm', 'fiery', 'fervid', 'ardent', 'impassioned', 'fervent']",Stranger in a Strange Land.
+Sicily,"['Sicilia', 'Sicily']",Stranger in a Strange Land.
+President,"['chairwoman', 'president', 'chairperson', 'chairman', 'chair', 'prexy', 'Chief_Executive', 'United_States_President', 'President_of_the_United_States', 'President']",Stranger in a Strange Land.
+stupid,"['stunned', 'pudden-head', 'dazed', 'stupefied', 'stupe', 'pudding_head', 'stupid_person', 'dolt', 'pillock', 'poor_fish', 'stupid', 'dullard', 'unintelligent']",Stranger in a Strange Land.
+nestling,"['snuggle', 'tike', 'child', 'nestling', 'nipper', 'shaver', 'cuddle', 'draw_close', 'nestle', 'nuzzle', 'youngster', 'nest', 'minor', 'baby_bird', 'small_fry', 'tiddler', 'kid', 'fry', 'tyke']",Stranger in a Strange Land.
+Technician,['technician'],Stranger in a Strange Land.
+Indian,"['Amerindic', 'Indian', 'American_Indian', 'American-Indian_language', 'Amerind', 'Red_Indian', 'Amerindian_language', 'Native_American']",Stranger in a Strange Land.
+sands,"['sands', 'sand', 'moxie', 'Amandine_Aurore_Lucie_Dupin', 'grit', 'George_Sand', 'guts', 'Baroness_Dudevant', 'littoral', 'backbone', 'litoral', 'gumption', 'littoral_zone', 'Sand', 'sandpaper']",Stranger in a Strange Land.
+work,"['body_of_work', 'knead', 'sour', 'play', 'piece_of_work', 'shape', 'bring', 'oeuvre', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'lick', 'act_upon', 'puzzle_out', 'exploit', 'make_for', 'work_out', 'act', 'go', 'figure_out', 'workplace', 'operate', 'influence', 'process', 'turn', 'solve', 'run', 'function', 'form', 'crop', 'study', 'make', 'cultivate', 'forge', 'mold', 'employment']",Stranger in a Strange Land.
+powers,"['ability', 'exponent', 'baron', 'force', 'office', 'powerfulness', 'power', 'business_leader', 'magnate', 'index', 'mogul', 'big_businessman', 'superpower', 'major_power', 'top_executive', 'world_power', 'great_power', 'king', 'tycoon', 'mightiness', 'might']",Stranger in a Strange Land.
+clinches,"['squeeze', 'clamp', 'hug', 'clench', 'clinch']",Stranger in a Strange Land.
+D,"['calciferol', 'vitamin_D', 'cholecalciferol', 'D', '500', 'ergocalciferol', 'viosterol', 'five_hundred', 'd']",Stranger in a Strange Land.
+few,['few'],Stranger in a Strange Land.
+Warm,"['quick', 'affectionate', 'warm', 'lovesome', 'warmly', 'warm_up', 'fond', 'tender', 'ardent', 'strong']",Stranger in a Strange Land.
+Bishop,['bishop'],Stranger in a Strange Land.
+known,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'known', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",Stranger in a Strange Land.
+discovered,"['detect', 'get_a_line', 'distinguish', 'discover', 'find', 'break', 'strike', 'name', 'come_upon', 'chance_on', 'observe', 'unwrap', 'notice', 'let_on', 'bring_out', 'reveal', 'learn', 'pick_up', 'chance_upon', 'identify', 'key', 'discovered', 'give_away', 'see', 'describe', 'expose', 'ascertained', 'get_word', 'come_across', 'happen_upon', 'let_out', 'find_out', 'key_out', 'hear', 'divulge', 'light_upon', 'attain', 'get_wind', 'fall_upon', 'observed', 'disclose']",Stranger in a Strange Land.
+reviewed,"['brush_up', 'review', 'look_back', 'critique', 'reexamine', 'retrospect', 'refresh', 'survey', 'go_over']",Stranger in a Strange Land.
+angel,"['Angel', 'backer', 'holy_person', 'holy_man', 'saint', 'Angel_Falls', 'angel']",Stranger in a Strange Land.
+!,[],Stranger in a Strange Land.
+threes-fulfilled,[],Stranger in a Strange Land.
+disappointed,"['defeated', 'foiled', 'disappointed', 'frustrated', 'discomfited', 'disappoint', 'let_down', 'thwarted']",Stranger in a Strange Land.
+bed,"['sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'screw', 'have_sex', 'have_it_off', 'layer', 'sack_out', 'know', 'hump', 'go_to_bed', 'bonk', 'go_to_sleep', 'have_a_go_at_it', 'hit_the_sack', 'bottom', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'turn_in', 'kip_down', 'eff', 'get_it_on', 'make_love', 'get_laid', 'bang', 'hit_the_hay', 'retire', 'crawl_in', 'jazz', 'seam', 'sleep_together']",Stranger in a Strange Land.
+Miracle,['miracle'],Stranger in a Strange Land.
+first,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",Stranger in a Strange Land.
+professional,"['professional_person', 'professional', 'pro', 'master']",Stranger in a Strange Land.
+voice,"['vocalisation', 'part', 'spokesperson', 'articulation', 'representative', 'voice', 'vocalize', 'interpreter', 'vocalise', 'vocalism', 'sound', 'vocalization', 'vox', 'phonation']",Stranger in a Strange Land.
+Hi,"['hi', 'howdy', ""Hawai'i"", 'hullo', 'hello', 'Aloha_State', 'how-do-you-do', 'HI', 'Hawaii']",Stranger in a Strange Land.
+spring,"['recoil', 'take_form', 'leap', 'resile', 'leaping', 'rebound', 'natural_spring', 'bounce', 'saltation', 'take_shape', 'outpouring', 'springiness', 'outflow', 'give', 'jump', 'fountain', 'ricochet', 'spring', 'take_a_hop', 'form', 'springtime', 'reverberate', 'bound']",Stranger in a Strange Land.
+Anyhow,"['anyhow', 'in_any_event', 'at_any_rate', 'anyway', 'in_any_case', 'anyways']",Stranger in a Strange Land.
+doing,"['behave', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",Stranger in a Strange Land.
+having,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",Stranger in a Strange Land.
+am,"['comprise', 'cost', 'americium', 'make_up', 'live', 'represent', 'Artium_Magister', 'AM', 'embody', 'constitute', 'equal', 'personify', 'atomic_number_95', 'Master_of_Arts', 'MA', 'Am', 'amplitude_modulation', 'follow', 'be', 'exist']",Stranger in a Strange Land.
+check,"['watch', 'check-out_procedure', 'confirmation', 'checker', 'baulk', 'stay', 'see_to_it', 'ascertain', 'break', 'check_mark', 'bank_check', 'mark', 'impediment', 'chink', 'check_over', 'insure', 'control', 'curb', 'hold_in', 'hitch', 'match', 'condition', 'stoppage', 'tick_off', 'fit', 'learn', 'check_up_on', 'delay', 'halt', 'arrest', 'chip', 'mark_off', 'assure', 'retard', 'handicap', 'gibe', 'hindrance', 'balk', 'crack', 'tally', 'see', 'substantiation', 'check_out', 'hold', 'chequer', 'turn_back', 'determine', 'moderate', 'correspond', 'hinderance', 'cheque', 'suss_out', 'go_over', 'ensure', 'check_into', 'hold_back', 'find_out', 'stop', 'discipline', 'train', 'contain', 'deterrent', 'assay', 'check', 'look_into', 'check_off', 'chit', 'tick', 'tab', 'agree', 'verification', 'bridle', 'checkout', 'jibe']",Stranger in a Strange Land.
+look,"['front', 'depend', 'flavour', 'reckon', 'seem', 'facial_expression', 'expect', 'calculate', 'looking_at', 'appear', 'expression', 'wait', 'feel', 'await', 'see', 'spirit', 'feeling', 'take_care', 'aspect', 'flavor', 'search', 'look', 'attend', 'smell', 'count', 'face', 'tone', 'looking', 'bet']",Stranger in a Strange Land.
+miss,"['young_woman', 'drop', 'fille', 'girl', 'lack', 'missy', 'neglect', 'miss', 'omit', 'overleap', 'young_lady', 'overlook', 'pretermit', 'leave_out', 'escape', 'Miss', 'lose', 'misfire']",Stranger in a Strange Land.
+Larry,[],Stranger in a Strange Land.
+much,"['a_great_deal', 'a_good_deal', 'a_lot', 'practically', 'often', 'much', 'very_much', 'lots']",Stranger in a Strange Land.
+loose,"['promiscuous', 'wanton', 'informal', 'relax', 'open', 'unaffixed', 'sluttish', 'lax', 'unloose', 'liberal', 'on_the_loose', 'idle', 'free', 'release', 'liberate', 'light', 'easy', 'let_loose', 'escaped', 'unloosen', 'loosen', 'loose', 'unleash', 'slack', 'at_large']",Stranger in a Strange Land.
+make,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'shuffle', 'take', 'progress_to', 'brand', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'shuffling', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",Stranger in a Strange Land.
+are,"['comprise', 'follow', 'embody', 'constitute', 'be', 'ar', 'equal', 'personify', 'cost', 'are', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+estimate,"['appraisal', 'approximation', 'judge', 'forecast', 'estimation', 'gauge', 'idea', 'approximate', 'reckon', 'guess', 'figure', 'count_on', 'calculate', 'estimate']",Stranger in a Strange Land.
+fleeting,"['fugitive', 'flutter', 'momentaneous', 'momentary', 'fleet', 'pass_off', 'fleeting', 'flit', 'pass', 'dart', 'evanesce', 'fade', 'blow_over']",Stranger in a Strange Land.
+goodness,"['good', 'goodness']",Stranger in a Strange Land.
+edition,"['version', 'variant', 'variation', 'edition']",Stranger in a Strange Land.
+dismissed,"['brush_aside', 'throw_out', 'send_packing', 'dismissed', 'ignore', 'give_the_sack', 'send_away', 'dismiss', 'give_the_axe', 'laid-off', 'dissolve', 'fire', 'sack', 'give_notice', 'usher_out', 'displace', 'fired', 'terminate', 'push_aside', 'disregard', 'discharged', 'can', 'pink-slipped', 'drop', 'brush_off', 'discount', 'force_out']",Stranger in a Strange Land.
+clear-headed,[],Stranger in a Strange Land.
+spend,"['expend', 'pass', 'drop', 'spend']",Stranger in a Strange Land.
+I've,[],Stranger in a Strange Land.
+sigh,"['suspiration', 'suspire', 'sigh']",Stranger in a Strange Land.
+warm,"['quick', 'affectionate', 'warm', 'lovesome', 'warmly', 'warm_up', 'fond', 'tender', 'ardent', 'strong']",Stranger in a Strange Land.
+National,"['national', 'subject', 'home', 'interior', 'internal']",Stranger in a Strange Land.
+ever,"['ever', 'ever_so', 'always', ""e'er"", 'of_all_time']",Stranger in a Strange Land.
+considerate,['considerate'],Stranger in a Strange Land.
+because,[],Stranger in a Strange Land.
+straighten,"['neaten', 'square_away', 'unbend', 'roll_out', 'straighten', 'straighten_out', 'tidy_up', 'tidy', 'clean_up']",Stranger in a Strange Land.
+promotion,"['advancement', 'packaging', 'publicity', 'promotion', 'furtherance', 'promotional_material', 'forwarding']",Stranger in a Strange Land.
+without,[],Stranger in a Strange Land.
+darling,"['deary', 'Darling', 'favourite', 'dear', 'pet', 'darling', 'beloved', 'ducky', 'Darling_River', 'favorite', 'dearie']",Stranger in a Strange Land.
+hand-woven,[],Stranger in a Strange Land.
+We,[],Stranger in a Strange Land.
+out,"['stunned', 'knocked_out', 'forbidden', 'taboo', 'extinct', 'come_out_of_the_closet', 'prohibited', ""KO'd"", 'proscribed', 'kayoed', 'tabu', 'verboten', 'out', 'away', 'come_out']",Stranger in a Strange Land.
+saw,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'proverb', 'power_saw', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'saw', 'assure', 'sawing_machine', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'adage', 'figure', 'picture', 'come_across', 'examine', 'go_out', 'construe', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'byword', 'escort', 'realise', 'get_wind']",Stranger in a Strange Land.
+nymphs,"['houri', 'nymph']",Stranger in a Strange Land.
+normal,"['rule', 'pattern', 'normal', 'convention', 'formula']",Stranger in a Strange Land.
+among,[],Stranger in a Strange Land.
+weary,"['tire', 'aweary', 'outwear', 'wear_upon', 'pall', 'wear_out', 'tire_out', 'weary', 'fag', 'jade', 'fatigue', 'wear_down', 'fag_out', 'wear']",Stranger in a Strange Land.
+?,[],Stranger in a Strange Land.
+speeded,"['hotfoot', 'belt_along', 'race', 'rush', 'travel_rapidly', 'rush_along', 'hie', 'speed_up', 'hasten', 'cannonball_along', 'pelt_along', 'quicken', 'step_on_it', 'hurry', 'bucket_along', 'zip', 'speed', 'accelerate']",Stranger in a Strange Land.
+congregation,"['fold', 'congregation', 'faithful', 'congregating']",Stranger in a Strange Land.
+He,"['atomic_number_2', 'he', 'He', 'helium']",Stranger in a Strange Land.
+barometric,"['barometrical', 'barometric']",Stranger in a Strange Land.
+A,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",Stranger in a Strange Land.
+personae,"['character', 'part', 'persona', 'role', 'theatrical_role', 'image']",Stranger in a Strange Land.
+uneasy,"['restless', 'anxious', 'awkward', 'queasy', 'ill_at_ease', 'uneasy', 'nervous', 'unquiet']",Stranger in a Strange Land.
+learning,"['eruditeness', 'get_a_line', 'watch', 'read', 'discover', 'ascertain', 'con', 'scholarship', 'acquisition', 'learn', 'pick_up', 'encyclopaedism', 'learnedness', 'teach', 'encyclopedism', 'take', 'see', 'determine', 'get_word', 'memorize', 'acquire', 'find_out', 'erudition', 'learning', 'hear', 'check', 'larn', 'study', 'instruct', 'get_wind', 'memorise']",Stranger in a Strange Land.
+breathing,"['respiration', 'ventilation', 'breathe', 'suspire', 'take_a_breath', 'rest', 'emit', 'pass_off', ""catch_one's_breath"", 'respire', 'eupnoeic', 'take_a_breather', 'external_respiration', 'eupneic', 'breathing']",Stranger in a Strange Land.
+naked,"['defenseless', 'au_naturel', 'nude', 'bare', 'naked', 'raw']",Stranger in a Strange Land.
+understand,"['understand', 'sympathize', 'see', 'read', 'realize', 'interpret', 'infer', 'translate', 'realise', 'sympathise', 'empathize', 'empathise']",Stranger in a Strange Land.
+the,[],Stranger in a Strange Land.
+uncurled,"['uncurl', 'uncurled']",Stranger in a Strange Land.
+assistant,"['helper', 'assistant', 'help', 'adjunct', 'supporter']",Stranger in a Strange Land.
+equator,['equator'],Stranger in a Strange Land.
+millennia,"['millennium', 'millenary']",Stranger in a Strange Land.
+Self's,[],Stranger in a Strange Land.
+Then,"['then', 'so', 'and_then', 'and_so']",Stranger in a Strange Land.
+cold,"['coldness', 'moth-eaten', 'frigid', 'dusty', 'cold-blooded', 'frigidness', 'frigidity', 'inhuman', 'low_temperature', 'stale', 'common_cold', 'insensate', 'cold']",Stranger in a Strange Land.
+ship,"['ship', 'embark', 'transport', 'send']",Stranger in a Strange Land.
+ways,"['manner', 'means', 'agency', 'direction', 'elbow_room', 'style', 'way', 'slipway', 'fashion', 'path', 'mode', 'way_of_life', 'shipway', 'ways', 'room']",Stranger in a Strange Land.
+Boone,"['Boone', 'Daniel_Boone']",Stranger in a Strange Land.
+like,"['corresponding', 'similar', 'wish', 'alike', 'comparable', 'the_likes_of', 'the_like', 'care', 'same', 'ilk', 'like']",Stranger in a Strange Land.
+rock-steady,"['steady-going', 'dependable', 'rock-steady']",Stranger in a Strange Land.
+worried,"['worried', 'worry', 'interest', 'vex', 'distressed', 'upset', 'care', 'disquieted', 'apprehensive', 'concern', 'occupy', 'disturbed']",Stranger in a Strange Land.
+been,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+indicted,['indict'],Stranger in a Strange Land.
+deduced,"['deduce', 'deduct', 'derive', 'infer']",Stranger in a Strange Land.
+which,[],Stranger in a Strange Land.
+weakness,"['failing', 'weakness', 'impuissance', 'helplessness']",Stranger in a Strange Land.
+ill-starred,"['ill-fated', 'unlucky', 'ill-starred', 'doomed', 'ill-omened']",Stranger in a Strange Land.
+Anne,['Anne'],Stranger in a Strange Land.
+limited,"['confine', 'circumscribe', 'special', 'fix', 'modified', 'determine', 'trammel', 'restrict', 'limited', 'restrain', 'throttle', 'circumscribed', 'limit', 'express', 'specify', 'define', 'set', 'bound']",Stranger in a Strange Land.
+yourself,[],Stranger in a Strange Land.
+sentence,"['condemn', 'judgment_of_conviction', 'sentence', 'doom', 'condemnation', 'conviction', 'prison_term', 'time']",Stranger in a Strange Land.
+made,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'made', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",Stranger in a Strange Land.
+This,[],Stranger in a Strange Land.
+conditions,"['qualify', 'shape', 'specify', 'conditions', 'condition', 'circumstance', 'weather_condition', 'stipulation', 'precondition', 'weather', 'experimental_condition', 'term', 'consideration', 'discipline', 'stipulate', 'train', 'check', 'atmospheric_condition', 'status']",Stranger in a Strange Land.
+we,[],Stranger in a Strange Land.
+toward,[],Stranger in a Strange Land.
+opened,"['open', 'open_up', 'spread_out', 'afford', 'opened', 'give', 'spread', 'unfold']",Stranger in a Strange Land.
+after,"['later', 'later_on', 'subsequently', 'after', 'afterwards', 'afterward']",Stranger in a Strange Land.
+Douglas,"['Little_Giant', 'Stephen_A._Douglas', 'Douglas', 'Stephen_Arnold_Douglas']",Stranger in a Strange Land.
+come,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'ejaculate', 'occur', 'come_up', 'seed', 'come', 'number', 'arrive', 'hail', 'fare', 'seminal_fluid', 'get', 'descend', 'fall', 'total', 'issue_forth', 'add_up', 'do', 'cum', 'follow', 'semen']",Stranger in a Strange Land.
+right,"['compensate', 'rightfulness', 'right_on', 'right_hand', 'ripe', 'in_good_order', 'powerful', 'redress', 'decently', 'right_field', 'right-hand', 'mightily', 'the_right_way', 'mighty', 'right', 'justly', 'veracious', 'properly', 'aright', 'decent', 'right_wing', 'correctly', 'proper', 'rectify', 'rightfield', 'flop', 'correct', 'good']",Stranger in a Strange Land.
+Do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",Stranger in a Strange Land.
+Even,"['yet', 'flush', 'eve', 'evening', 'even_out', 'level', 'fifty-fifty', 'eventide', 'even', 'regular', 'tied', 'still']",Stranger in a Strange Land.
+still,"['nonetheless', 'notwithstanding', 'tranquil', 'calm', 'withal', 'placid', 'hush_up', 'distillery', 'unruffled', 'even', 'yet', 'hush', 'static', 'smooth', 'ease', 'soundless', 'however', 'quieten', 'tranquilize', 'allay', 'motionless', 'still', 'all_the_same', 'stock-still', 'calm_down', 'shut_up', 'tranquillise', 'relieve', 'silent', 'tranquillize', 'even_so', 'nevertheless', 'stillness', 'silence', 'lull', 'inactive', 'noneffervescent', 'quiet']",Stranger in a Strange Land.
+darkness,"['duskiness', 'dark', 'shadow', 'wickedness', 'swarthiness', 'iniquity', 'darkness']",Stranger in a Strange Land.
+colder,"['frigid', 'moth-eaten', 'cold-blooded', 'dusty', 'inhuman', 'stale', 'insensate', 'cold']",Stranger in a Strange Land.
+punk,"['tinder', 'strong-armer', 'punk_rock', 'tough', 'touchwood', 'sleazy', 'punk_rocker', 'tinny', 'kindling', 'chintzy', 'cheap', 'punk', 'hood', 'hoodlum', 'toughie', 'goon', 'crummy', 'cheesy', 'spunk', 'bum', 'thug']",Stranger in a Strange Land.
+get,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",Stranger in a Strange Land.
+more,"['more', 'More', 'more_than', 'Sir_Thomas_More', 'to_a_greater_extent', 'Thomas_More']",Stranger in a Strange Land.
+at,"['at', 'astatine', 'atomic_number_85', 'At']",Stranger in a Strange Land.
+went,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'proceed', 'hold_up', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'run', 'function', 'choke', 'drop_dead', 'travel', 'blend', 'sound', 'pop_off', 'move', 'rifle', 'survive']",Stranger in a Strange Land.
+candidate,"['prospect', 'candidate', 'nominee', 'campaigner']",Stranger in a Strange Land.
+Joseph,"['Chief_Joseph', 'Joseph']",Stranger in a Strange Land.
+started,"['protrude', 'take_off', 'lead_off', 'commence', 'set_about', 'bulge', 'initiate', 'take_up', 'originate', 'start_out', 'set_off', 'startle', 'get', 'come_out', 'part', 'depart', 'jump', 'get_down', 'go', 'pop_out', 'get_going', 'bulge_out', 'start', 'pop', 'begin', 'bug_out', 'set_out', 'embark_on', 'set_forth', 'start_up']",Stranger in a Strange Land.
+turned,"['plough', 'sour', 'move_around', 'reverse', 'bend', 'change_by_reversal', 'change_state', 'deform', 'work', 'grow', 'ferment', 'flex', 'off', 'sprain', 'rick', 'become', 'wrench', 'release', 'turn', 'turned', 'turn_over', 'wrick', 'call_on', 'twist', 'plow']",Stranger in a Strange Land.
+louse,"['dirt_ball', 'worm', 'bird_louse', 'insect', 'louse', 'biting_louse', 'sucking_louse', 'plant_louse']",Stranger in a Strange Land.
+worse,"['sorry', 'worsened', 'risky', 'spoiled', 'regretful', 'spoilt', 'big', 'forged', 'bad', 'unfit', 'unsound', 'tough', 'high-risk', 'defective', 'speculative', 'worse', 'uncollectible']",Stranger in a Strange Land.
+parents,"['raise', 'rear', 'bring_up', 'parent', 'nurture']",Stranger in a Strange Land.
+kissing,"['necking', 'hugging', 'snuggling', 'petting', 'buss', 'cuddling', 'smooching', 'osculate', 'kiss', 'snog', 'fondling', 'kissing', 'caressing']",Stranger in a Strange Land.
+serviettes,"['napkin', 'serviette', 'table_napkin']",Stranger in a Strange Land.
+Okay,"['o.k.', 'fine', 'hunky-dory', 'approve', 'ok', 'sanction', 'okay', 'okeh', 'all_right', 'OK', 'okey', 'alright', 'O.K.']",Stranger in a Strange Land.
+teaches,"['Edward_Teach', 'Blackbeard', 'learn', 'instruct', 'Edward_Thatch', 'teach', 'Teach', 'Thatch']",Stranger in a Strange Land.
+waiting,"['waiting', 'waitress', 'wait', 'look', 'ready_and_waiting', 'expect', 'await', 'hold_back', 'hold_off']",Stranger in a Strange Land.
+triumphantly,['triumphantly'],Stranger in a Strange Land.
+ethereal,"['aeriform', 'gossamer', 'aery', 'airy', 'supernal', 'celestial', 'aerial', 'ethereal']",Stranger in a Strange Land.
+be,"['exist', 'beryllium', 'comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'atomic_number_4', 'make_up', 'glucinium', 'represent', 'Be', 'live']",Stranger in a Strange Land.
+almost,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'nigh']",Stranger in a Strange Land.
+translated,"['understand', 'render', 'read', 'interpret', 'transform', 'translate']",Stranger in a Strange Land.
+posture,"['military_posture', 'position', 'model', 'sit', 'carriage', 'attitude', 'bearing', 'posture', 'strength', 'military_strength', 'military_capability', 'stance', 'pose']",Stranger in a Strange Land.
+with-but-after,[],Stranger in a Strange Land.
+between,"['between', 'betwixt', ""'tween""]",Stranger in a Strange Land.
+company,"['accompany', 'caller', 'companion', 'companionship', 'fellowship', 'keep_company', 'party', ""ship's_company"", 'company', 'society', 'troupe']",Stranger in a Strange Land.
+Second,"['second', 'endorsement', 'irregular', 'indorsement', 'secondly', 'arcsecond', 'secondment', 'instant', 'minute', 'sec', 's', 'second_base', 'moment', '2nd', '2d', 'mo', 'indorse', 'second_gear', 'bit', 'back', 'endorse']",Stranger in a Strange Land.
+neither,['neither'],Stranger in a Strange Land.
+down,"['down', 'gloomy', 'down_in_the_mouth', 'low', 'bolt_down', 'toss_off', 'polish', 'John_L._H._Down', 'downwardly', 'downward', 'drink_down', 'blue', 'knock_down', 'refine', 'consume', 'dispirited', 'pour_down', 'devour', 'pull_down', 'Down', 'pile', 'go_through', 'mastered', 'downcast', 'push_down', 'low-spirited', 'land', 'down_pat', 'pop', 'fine-tune', 'depressed', 'cut_down', 'grim', 'downwards', 'down_feather', 'shoot_down', 'belt_down', 'kill', 'downhearted']",Stranger in a Strange Land.
+studied,"['hit_the_books', 'take', 'consider', 'meditate', 'read', 'studied', 'analyse', 'canvas', 'analyze', 'contemplate', 'study', 'examine', 'learn', 'canvass']",Stranger in a Strange Land.
+while,"['patch', 'spell', 'piece', 'while']",Stranger in a Strange Land.
+Manchester,['Manchester'],Stranger in a Strange Land.
+wailing,"['roar', 'yawl', 'whimper', 'wailful', 'mewl', 'yaup', 'lamenting', 'howl', 'pule', 'ululate', 'bawling', 'wailing', 'wail']",Stranger in a Strange Land.
+let,"['permit', 'have', 'Lashkar-e-Tayyiba', 'rent', 'Lashkar-e-Taiba', 'LET', 'countenance', 'lease', 'Army_of_the_Righteous', 'Army_of_the_Pure', 'net_ball', 'let', 'Lashkar-e-Toiba', 'allow', 'get']",Stranger in a Strange Land.
+ran,"['race', 'play', 'incline', 'take_to_the_woods', 'course', 'tend', 'hunt', 'hunt_down', 'lean', 'melt_down', 'consort', 'hightail_it', 'turn_tail', 'die_hard', 'melt', 'unravel', 'flow', 'scat', 'work', 'persist', 'track_down', 'carry', 'lam', 'run_away', 'draw', 'endure', 'bunk', 'fly_the_coop', 'range', 'break_away', 'feed', 'head_for_the_hills', 'go', 'prevail', 'operate', 'extend', 'pass', 'black_market', 'lead', 'run', 'function', 'guide', 'ladder', 'scarper', 'execute', 'bleed', 'be_given', 'campaign', 'escape', 'ply', 'move', 'run_for']",Stranger in a Strange Land.
+until,[],Stranger in a Strange Land.
+Hell,"['hell', 'snake_pit', 'perdition', 'underworld', 'pit', 'hellhole', 'nether_region', 'Scheol', 'blaze', 'infernal_region', 'Inferno', 'Hades', 'netherworld', 'sin', 'the_pits', 'hell_on_earth', 'Hell', 'inferno']",Stranger in a Strange Land.
+Science,"['scientific_discipline', 'skill', 'science']",Stranger in a Strange Land.
+snack,"['nosh', 'collation', 'bite', 'snack']",Stranger in a Strange Land.
+horizon,"['purview', 'skyline', 'view', 'visible_horizon', 'horizon', 'sensible_horizon', 'apparent_horizon', 'celestial_horizon']",Stranger in a Strange Land.
+l'Osservatore,[],Stranger in a Strange Land.
+know,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",Stranger in a Strange Land.
+spot-promoted,[],Stranger in a Strange Land.
+Man,"['military_man', 'humanity', 'homo', 'world', 'Isle_of_Man', 'humans', 'Man', 'human_being', 'serviceman', 'piece', 'adult_male', 'valet', 'human_beings', 'human', ""gentleman's_gentleman"", 'man', 'human_race', 'valet_de_chambre', 'humankind', 'military_personnel', 'gentleman', 'mankind']",Stranger in a Strange Land.
+hour,"['hr', 'hour', '60_minutes', 'time_of_day', 'minute']",Stranger in a Strange Land.
+party,"['company', 'political_party', 'party']",Stranger in a Strange Land.
+Antares,['Antares'],Stranger in a Strange Land.
+entirely,"['exclusively', 'whole', 'altogether', 'solely', 'totally', 'completely', 'only', 'wholly', 'alone', 'all', 'entirely']",Stranger in a Strange Land.
+Muslim,"['Moslem', 'Islamic', 'Muslim']",Stranger in a Strange Land.
+reported,"['describe', 'cover', 'account', 'report', 'reported']",Stranger in a Strange Land.
+brush,"['coppice', 'brush', 'copse', 'clash', 'light_touch', 'skirmish', 'encounter', 'thicket', 'brushing', 'brushwood', 'sweep']",Stranger in a Strange Land.
+we'll,[],Stranger in a Strange Land.
+free,"['devoid', 'costless', 'innocent', 'complimentary', 'unblock', 'give_up', 'unloose', 'liberal', 'rid', 'dislodge', 'absolve', 'barren', 'gratuitous', 'free', 'disembarrass', 'discharge', 'disengage', 'spare', 'release', 'unfreeze', 'relinquish', 'liberate', 'resign', 'gratis', 'justify', 'relieve', 'detached', 'exempt', 'destitute', 'unloosen', 'free_people', 'loose']",Stranger in a Strange Land.
+Heaven,"['paradise', 'promised_land', 'Heaven', 'nirvana', 'Eden', 'Shangri-la', 'heaven']",Stranger in a Strange Land.
+too,"['to_a_fault', 'overly', 'likewise', 'also', 'too', 'besides', 'excessively', 'as_well']",Stranger in a Strange Land.
+four,"['quatern', 'four', 'quaternion', 'tetrad', '4', 'quadruplet', 'Little_Joe', 'iv', 'four-spot', 'quaternity', 'IV', 'quartet', 'foursome', 'quaternary']",Stranger in a Strange Land.
+jewel,"['precious_stone', 'jewel', 'gem', 'bejewel']",Stranger in a Strange Land.
+seeing,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'beholding', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'sightedness', 'assure', 'visit', 'go_through', 'eyesight', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'seeing', 'get_word', 'come_across', 'visual_perception', 'figure', 'picture', 'examine', 'go_out', 'construe', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",Stranger in a Strange Land.
+period,"['point', 'period', 'time_period', 'catamenia', 'full_point', 'menses', 'menstruum', 'period_of_time', 'geological_period', 'menstruation', 'full_stop', 'flow', 'stop']",Stranger in a Strange Land.
+Are,"['comprise', 'follow', 'embody', 'constitute', 'be', 'ar', 'equal', 'personify', 'cost', 'are', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+ancient,"['ancient', 'antediluvian']",Stranger in a Strange Land.
+Food,"['intellectual_nourishment', 'food', 'nutrient', 'food_for_thought', 'solid_food']",Stranger in a Strange Land.
+struggling,"['struggle', 'contend', 'fight', 'scramble', 'skin', 'sputter', 'shin', 'struggling', 'clamber', 'shinny']",Stranger in a Strange Land.
+crime,"['offence', 'criminal_offense', 'criminal_offence', 'offense', 'law-breaking', 'crime']",Stranger in a Strange Land.
+but,"['simply', 'only', 'just', 'merely', 'but']",Stranger in a Strange Land.
+answered,"['reply', 'answer', 'resolve', 'respond', 'suffice', 'serve', 'do']",Stranger in a Strange Land.
+hesitated,"['pause', 'waffle', 'waver', 'hesitate']",Stranger in a Strange Land.
+called,"['address', 'holler', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'shout_out', 'foretell', 'visit', 'call_off', 'cry', 'telephone', 'predict', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'prognosticate', 'anticipate']",Stranger in a Strange Land.
+face,"['boldness', 'front', 'font', 'grimace', 'confront', 'facial_expression', 'typeface', 'present', 'expression', 'brass', 'side', 'face_up', 'aspect', 'human_face', 'look', 'cheek', 'case', 'face', 'nerve', 'fount']",Stranger in a Strange Land.
+Mr.,"['Mister', 'Mr.', 'Mr']",Stranger in a Strange Land.
+patience,"['forbearance', 'longanimity', 'solitaire', 'patience']",Stranger in a Strange Land.
+on,"['on', 'along']",Stranger in a Strange Land.
+Everest,"['Mt._Everest', 'Everest', 'Mount_Everest']",Stranger in a Strange Land.
+It,"['IT', 'information_technology']",Stranger in a Strange Land.
+grokked,[],Stranger in a Strange Land.
+friendly,"['favorable', 'well-disposed', 'friendly']",Stranger in a Strange Land.
+list,"['heel', 'number', 'name', 'lean', 'tilt', 'listing', 'inclination', 'leaning', 'list']",Stranger in a Strange Land.
+age,"['age', 'eld', 'mature', 'geezerhood', 'long_time', 'maturate', 'get_on', 'years', 'senesce', 'old_age', 'historic_period']",Stranger in a Strange Land.
+Mars,"['mar', 'Mars', 'Red_Planet', 'Mar', 'spoil', 'deflower', 'vitiate', 'blemish', 'defect', 'impair', 'mutilate', 'March']",Stranger in a Strange Land.
+for,[],Stranger in a Strange Land.
+asked,"['ask', 'necessitate', 'take', 'inquire', 'postulate', 'involve', 'enquire', 'expect', 'call_for', 'need', 'require', 'demand']",Stranger in a Strange Land.
+calm,"['serene', 'equanimity', 'calm', 'tranquil', 'cool_it', 'quieten', 'tranquilize', 'settle_down', 'cool_off', 'still', 'chill_out', 'calmness', 'sedate', 'calm_down', 'composure', 'calm_air', 'tranquillise', 'simmer_down', 'tranquillize', 'becalm', 'unagitated', 'lull', 'quiet', 'steady']",Stranger in a Strange Land.
+Kiss,"['osculation', 'candy_kiss', 'buss', 'osculate', 'snog', 'kiss']",Stranger in a Strange Land.
+ignored,"['cut', 'brush_aside', 'dismiss', 'ignored', 'snub', 'neglect', 'ignore', 'brush_off', 'discount', 'push_aside', 'disregard', 'neglected', 'unheeded']",Stranger in a Strange Land.
+usually,"['usually', 'unremarkably', 'normally', 'commonly', 'ordinarily']",Stranger in a Strange Land.
+their,[],Stranger in a Strange Land.
+word,"['word', 'word_of_honor', 'Holy_Writ', 'parole', 'countersign', 'formulate', 'discussion', 'Word', 'give_voice', 'Holy_Scripture', 'intelligence', 'articulate', 'Book', 'phrase', 'watchword', 'Bible', 'Son', 'news', 'Good_Book', 'give-and-take', 'Scripture', 'tidings', 'Christian_Bible', 'password', 'Word_of_God', 'Logos']",Stranger in a Strange Land.
+barefoot,"['barefoot', 'shoeless', 'barefooted']",Stranger in a Strange Land.
+you're,[],Stranger in a Strange Land.
+seen,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'assure', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'come_across', 'figure', 'picture', 'examine', 'construe', 'go_out', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",Stranger in a Strange Land.
+a,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",Stranger in a Strange Land.
+ahead,"['in_the_lead', 'forrader', 'before', 'beforehand', 'in_front', 'forwards', 'leading', 'onward', 'onwards', 'out_front', 'in_advance', 'forward', 'ahead']",Stranger in a Strange Land.
+together,"['unitedly', 'in_concert', 'together']",Stranger in a Strange Land.
+approaching,"['go_up', 'approach', 'near', 'draw_near', 'come_near', 'come_on', 'go_about', 'forthcoming', 'coming', 'draw_close', 'border_on', 'set_about', 'upcoming', 'approaching']",Stranger in a Strange Land.
+trip,"['get_off', 'head_trip', 'turn_on', 'trip', 'spark_off', 'actuate', 'trip_up', 'tripper', 'stumble', 'trigger_off', 'jaunt', 'misstep', 'activate', 'spark', 'touch_off', 'trip-up', 'trigger', 'trip_out', 'travel', 'slip', 'set_off']",Stranger in a Strange Land.
+outside,"['exterior', 'outside', 'outdoor', 'out_of_doors', 'remote', 'external', 'extraneous', 'out-of-door', 'outdoors', 'alfresco', 'away', 'international']",Stranger in a Strange Land.
+three,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'iii', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'tierce', 'trio', 'terzetto', 'trine', 'trey']",Stranger in a Strange Land.
+could,[],Stranger in a Strange Land.
+cusp,"['leaflet', 'cusp']",Stranger in a Strange Land.
+actions,"['litigate', 'carry_through', 'natural_action', 'accomplish', 'execute', 'action_at_law', 'sue', 'carry_out', 'action', 'military_action', 'action_mechanism', 'process', 'activeness', 'fulfil', 'natural_process', 'activity', 'fulfill', 'legal_action']",Stranger in a Strange Land.
+identical,"['indistinguishable', 'superposable', 'identical', 'selfsame', 'monovular', 'very']",Stranger in a Strange Land.
+ABC,"['ABC', ""ABC's"", 'ABCs', 'first_rudiment', 'alphabet', 'rudiment', 'first_principle']",Stranger in a Strange Land.
+finished,"['end', 'end_up', 'wind_up', 'finished', 'land_up', 'finish_up', 'fetch_up', 'finish', 'ruined', 'polish_off', 'terminate', 'cease', 'complete', 'eat_up', 'stop']",Stranger in a Strange Land.
+arrive,"['come', 'arrive', 'make_it', 'go_far', 'get_in', 'get']",Stranger in a Strange Land.
+here,"['hither', 'here', 'Hera', 'Here']",Stranger in a Strange Land.
+able,"['able-bodied', 'capable', 'able']",Stranger in a Strange Land.
+off,"['bump_off', 'remove', 'cancelled', 'sour', 'hit', 'slay', 'polish_off', 'forth', 'dispatch', 'away', 'turned', 'off', 'murder']",Stranger in a Strange Land.
+of,[],Stranger in a Strange Land.
+said,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'aforesaid', 'enunciate', 'state', 'allege', 'sound_out', 'said', 'aforementioned']",Stranger in a Strange Land.
+But,"['simply', 'only', 'just', 'merely', 'but']",Stranger in a Strange Land.
+Dawn,"['dawning', 'break_of_the_day', 'come_home', 'cockcrow', 'get_across', 'first_light', 'sunrise', 'morning', 'penetrate', 'break_of_day', 'sunup', 'fall_into_place', 'dawn', 'dayspring', 'aurora', 'sink_in', 'daybreak', 'get_through', 'click']",Stranger in a Strange Land.
+stood,"['tolerate', 'stick_out', 'abide', 'fend', 'digest', 'put_up', 'place_upright', 'remain_firm', 'stand', 'resist', 'stomach', 'suffer', 'bear', 'endure', 'brook', 'stand_up', 'support']",Stranger in a Strange Land.
+wings,"['wings', 'fender', 'annex', 'offstage', 'backstage', 'extension', 'fly', 'flank', 'annexe', 'wing']",Stranger in a Strange Land.
+she,[],Stranger in a Strange Land.
+bothered,"['inconvenience_oneself', 'inconvenience', 'rile', 'get_at', 'bother', 'put_out', 'nark', 'nettle', 'fazed', 'disoblige', 'bothered', 'trouble', 'gravel', 'vex', 'discommode', 'irritate', 'daunted', 'annoy', 'get_to', 'rag', 'incommode', 'trouble_oneself', 'chafe', 'devil']",Stranger in a Strange Land.
+As,"['every_bit', 'AS', 'a', 'group_A', 'arsenic', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'American_Samoa', 'angstrom', 'atomic_number_33', 'As', 'as', 'equally', 'A', 'adenine', 'axerophthol', 'ampere', 'angstrom_unit', 'vitamin_A', 'Eastern_Samoa']",Stranger in a Strange Land.
+Hills,"['hill', 'Benny_Hill', 'Alfred_Hawthorne', 'James_Jerome_Hill', 'Hill', 'J._J._Hill', 'mound', ""pitcher's_mound""]",Stranger in a Strange Land.
+Thou,"['yard', 'thou', 'thousand', '1000', 'G', 'chiliad', 'one_thousand', 'M', 'grand', 'K']",Stranger in a Strange Land.
+square,"['foursquare', 'square_toes', 'lame', 'feather', 'hearty', 'substantial', 'square_up', 'straightforward', 'straight', 'public_square', 'square', 'squarely', 'solid', 'second_power', 'satisfying']",Stranger in a Strange Land.
+student,"['pupil', 'scholar', 'scholarly_person', 'bookman', 'student', 'educatee']",Stranger in a Strange Land.
+miracle,['miracle'],Stranger in a Strange Land.
+no,"['atomic_number_102', 'No', 'nobelium', 'no', 'no_more']",Stranger in a Strange Land.
+do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",Stranger in a Strange Land.
+BCD,[],Stranger in a Strange Land.
+self,"['ego', 'self']",Stranger in a Strange Land.
+parlor,"['front_room', 'sitting_room', 'living_room', 'parlor', 'parlour', 'living-room']",Stranger in a Strange Land.
+Sunday,"['William_Ashley_Sunday', 'Dominicus', 'Sunday', 'Billy_Sunday', ""Lord's_Day"", 'Sun']",Stranger in a Strange Land.
+rolling,"['trilled', 'roll_out', 'ramble', 'rove', 'revolve', 'wheeling', 'pealing', 'drift', 'rolled', 'seethe', 'wander', 'tramp', 'range', 'wheel', 'pluck', 'roam', 'vagabond', 'twine', 'swan', 'wrap', 'hustle', 'roll_up', 'wave', 'turn_over', 'flap', 'cast', 'wind', 'rolling', 'undulate', 'peal', 'roll', 'stray']",Stranger in a Strange Land.
+than,[],Stranger in a Strange Land.
+poet,['poet'],Stranger in a Strange Land.
+fool,"['frivol_away', 'take_in', 'fool_around', 'sucker', 'fall_guy', 'mark', 'soft_touch', 'dupe', 'put_on', 'jester', 'put_one_over', 'fool_away', 'gull', 'saphead', 'put_one_across', 'arse_around', 'mug', 'shoot', 'patsy', 'befool', 'chump', 'fritter_away', 'dissipate', 'sap', 'tomfool', 'horse_around', 'motley_fool', 'fool', 'cod', 'muggins', 'fritter', 'slang']",Stranger in a Strange Land.
+worship,"['hero-worship', 'revere', 'idolize', 'idolise', 'adoration', 'worship']",Stranger in a Strange Land.
+or,"['operating_room', 'operating_theatre', 'operating_theater', 'Oregon', 'surgery', 'Beaver_State', 'OR']",Stranger in a Strange Land.
+how,[],Stranger in a Strange Land.
+Beverly,[],Stranger in a Strange Land.
+came,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'occur', 'come_up', 'come', 'number', 'arrive', 'hail', 'fare', 'get', 'descend', 'fall', 'total', 'issue_forth', 'do', 'add_up', 'follow']",Stranger in a Strange Land.
+room,"['way', 'board', 'room', 'elbow_room']",Stranger in a Strange Land.
+had,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",Stranger in a Strange Land.
+think,"['think', 'imagine', 'retrieve', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'opine', 'mean', 'consider', 'suppose', 'intend', 'believe', 'remember', 'recall', 'conceive', 'cerebrate', 'call_back']",Stranger in a Strange Land.
+grok,"['grok', 'grasp', 'dig', 'compass', 'savvy', 'get_the_picture', 'comprehend', 'apprehend']",Stranger in a Strange Land.
+brothers,"['brother', 'comrade', 'crony', 'buddy', 'Brother', 'pal', 'sidekick', 'blood_brother', 'chum']",Stranger in a Strange Land.
+simply,"['plainly', 'simply', 'only', 'just', 'merely', 'but']",Stranger in a Strange Land.
+tears,"['weeping', 'rent', 'tears', 'charge', 'tear', 'displume', 'split', 'bout', 'binge', 'crying', 'bust', 'pull', 'deplume', 'pluck', 'shoot', 'buck', 'snag', 'rip', 'shoot_down', 'deplumate', 'snap', 'teardrop', 'rupture']",Stranger in a Strange Land.
+to,[],Stranger in a Strange Land.
+knew,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",Stranger in a Strange Land.
+gave,"['return', 'break', 'establish', 'present', 'contribute', 'open', 'cave_in', 'devote', 'pass_on', 'commit', 'chip_in', 'founder', 'generate', 'collapse', 'afford', 'render', 'apply', 'grant', 'give', 'feed', 'kick_in', 'hold', 'throw', 'give_way', 'sacrifice', 'dedicate', 'pass', 'fall_in', 'impart', 'have', 'turn_over', 'consecrate', 'ease_up', 'pay', 'leave', 'move_over', 'yield', 'gift', 'make', 'hand', 'reach']",Stranger in a Strange Land.
+earlier,"['in_the_first_place', 'other', 'before', 'originally', 'former', 'early', 'sooner', 'earlier', 'earliest', 'in_the_beginning', 'to_begin_with']",Stranger in a Strange Land.
+Tibetan,['Tibetan'],Stranger in a Strange Land.
+duck,"['elude', 'put_off', 'parry', ""duck's_egg"", 'sidestep', 'douse', 'circumvent', 'skirt', 'duck', 'dodge', 'fudge', 'dip', 'hedge', 'evade']",Stranger in a Strange Land.
+heart,"['gist', 'marrow', 'middle', 'sum', 'tenderness', 'kernel', 'pith', 'affectionateness', 'nub', 'heart', 'centre', 'nitty-gritty', 'essence', 'center', 'substance', 'philia', 'heart_and_soul', 'inwardness', 'spirit', 'mettle', 'core', 'warmness', 'bosom', 'ticker', 'fondness', 'pump', 'affection', 'warmheartedness', 'nerve', 'meat', 'spunk', 'eye']",Stranger in a Strange Land.
+match,"['twin', 'couple', 'pit', 'cope_with', 'peer', 'catch', 'match', 'lucifer', 'mate', 'equal', 'fit', 'touch', 'gibe', 'compeer', 'tally', 'correspond', 'equalize', 'equate', 'rival', 'friction_match', 'oppose', 'check', 'meet', 'pair', 'mates', 'agree', 'play_off', 'equalise', 'jibe']",Stranger in a Strange Land.
+tiny,"['lilliputian', 'bantam', 'midget', 'tiny', 'petite', 'diminutive', 'flyspeck']",Stranger in a Strange Land.
+submit,"['submit', 'take', 'give_in', 'render', 'reconcile', 'subject', 'pass_on', 'accede', 'relegate', 'put_in', 'state', 'bow', 'present', 'defer', 'put_forward', 'resign', 'posit']",Stranger in a Strange Land.
+Now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']",Stranger in a Strange Land.
+listened,"['mind', 'hear', 'take_heed', 'listen', 'heed']",Stranger in a Strange Land.
+blue,"['spicy', 'racy', 'gentle', 'sorry', 'down', 'gloomy', 'low', 'blueness', 'blue_devil', 'bluing', 'gamy', 'blue-blooded', 'blue_air', 'blueing', 'disconsolate', 'blue', 'blue_sky', 'dispirited', 'drab', 'gamey', 'blueish', 'downcast', 'puritanic', 'low-spirited', 'dismal', 'Amytal', 'aristocratic', 'dingy', 'drear', 'puritanical', 'amobarbital_sodium', 'juicy', 'wild_blue_yonder', 'depressed', 'aristocratical', 'bluish', 'grim', 'risque', 'dark', 'dreary', 'blue_angel', 'naughty', 'patrician', 'blasphemous', 'profane', 'down_in_the_mouth', 'downhearted']",Stranger in a Strange Land.
+angelic,"['saintlike', 'saintly', 'angelical', 'angelic', 'seraphic', 'sweet', 'cherubic', 'sainted', 'beatific']",Stranger in a Strange Land.
+Fine,"['o.k.', 'fine', 'ticket', 'hunky-dory', 'exquisitely', 'ok', 'okay', 'finely', 'amercement', 'all_right', 'delicately', 'OK', 'alright', 'mulct', 'very_well']",Stranger in a Strange Land.
+many,['many'],Stranger in a Strange Land.
+On,"['on', 'along']",Stranger in a Strange Land.
+felt,"['experience', 'finger', 'matt-up', 'mat', 'matte_up', 'matte', 'sense', 'find', 'mat_up', 'feel', 'felt', 'felt_up', 'palpate']",Stranger in a Strange Land.
+little,"['picayune', 'lilliputian', 'slight', 'small', 'niggling', 'piffling', 'piddling', 'fiddling', 'short', 'footling', 'petty', 'trivial', 'little', 'minuscule']",Stranger in a Strange Land.
+Jubal's,[],Stranger in a Strange Land.
+immediate,"['quick', 'straightaway', 'contiguous', 'immediate', 'prompt']",Stranger in a Strange Land.
+underwater,"['subaqueous', 'submerged', 'submersed', 'subaquatic', 'underwater']",Stranger in a Strange Land.
+delighted,"['enchant', 'ravish', 'transport', 'enthral', 'enthralled', 'enrapture', 'enthrall', 'beguiled', 'please', 'enjoy', 'entranced', 'revel', 'captivated', 'charmed', 'delight', 'delighted']",Stranger in a Strange Land.
+take,"['accept', 'remove', 'take_in', 'contract', 'return', 'take_away', 'read', 'rent', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'payoff', 'consume', 'learn', 'proceeds', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'takings', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'issue', 'contain', 'yield', 'study', 'ingest', 'make', 'take_aim', 'drive', 'choose', 'select', 'convey', 'charter']",Stranger in a Strange Land.
+India,"['India', 'Republic_of_India', 'Bharat']",Stranger in a Strange Land.
+meditations,"['meditation', 'speculation']",Stranger in a Strange Land.
+answer,"['resolution', 'result', 'reply', 'answer', 'resolve', 'solution', 'respond', 'suffice', 'solvent', 'response', 'serve', 'do']",Stranger in a Strange Land.
+request,"['asking', 'postulation', 'petition', 'quest', 'request', 'call_for', 'bespeak']",Stranger in a Strange Land.
+midnight,['midnight'],Stranger in a Strange Land.
+they,[],Stranger in a Strange Land.
+United,"['unify', 'joined', 'united', 'link', 'connect', 'unite', 'combine', 'join', 'link_up', 'merge']",Stranger in a Strange Land.
+left,"['exit', 'pull_up_stakes', 'will', 'left_hand', 'provide', 'unexpended', 'left-hand', 'remaining', 'forget', 'go_away', 'allow', 'get_out', 'result', 'leftfield', 'pass_on', 'left_over', 'allow_for', 'leftover', 'depart', 'left_wing', 'entrust', 'give', 'go_forth', 'go_out', 'lead', 'leave_alone', 'impart', 'bequeath', 'left_field', 'odd', 'left', 'leave', 'leave_behind']",Stranger in a Strange Land.
+cast,"['vomit', 'sick', 'spew', 'plaster_cast', 'shape', 'be_sick', 'project', 'ramble', 'hurtle', 'rove', 'hurl', 'shed', 'regurgitate', 'disgorge', 'drift', 'mould', 'cast_of_characters', 'regorge', 'wander', 'tramp', 'contrive', 'throw_away', 'cast_off', 'couch', 'throw_up', 'draw', 'vomit_up', 'purge', 'cat', 'range', 'shake_off', 'puke', 'roam', 'put', 'upchuck', 'casting', 'vagabond', 'throw', 'plaster_bandage', 'swan', 'retch', 'stamp', 'barf', 'form', 'drop', 'frame', 'cast', 'redact', 'dramatis_personae', 'throw_off', 'chuck', 'mold', 'spue', 'roll', 'stray', 'honk']",Stranger in a Strange Land.
+sooner,"['preferably', 'Sooner', 'sooner', 'earlier', 'rather', 'Oklahoman']",Stranger in a Strange Land.
+me,"['ME', 'Maine', 'Pine_Tree_State']",Stranger in a Strange Land.
+asleep,"['numb', 'benumbed', 'departed', 'at_rest', 'asleep', 'deceased', 'gone', 'at_peace']",Stranger in a Strange Land.
+halo,"['anchor_ring', 'glory', 'ring', 'doughnut', 'annulus', 'halo', 'nimbus', 'gloriole', 'aura', 'aureole']",Stranger in a Strange Land.
+stepped,"['maltreat', 'abuse', 'step', 'tread', 'mistreat', 'ill-treat', 'ill-use', 'pace']",Stranger in a Strange Land.
+Record,"['disk', 'record_book', 'read', 'book', 'disc', 'phonograph_recording', 'criminal_record', 'memorialise', 'phonograph_record', 'platter', 'show', 'commemorate', 'immortalise', 'enter', 'memorialize', 'immortalize', 'register', 'record', 'put_down', 'track_record', 'tape']",Stranger in a Strange Land.
+suspicion,"['hunch', 'misgiving', 'mistrust', 'suspiciousness', 'suspicion', 'distrust', 'intuition']",Stranger in a Strange Land.
+time,"['clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'prison_term', 'time']",Stranger in a Strange Land.
+field,"['field', 'orbit', 'airfield', 'field_of_force', 'landing_field', 'playing_field', 'force_field', 'line_of_business', 'field_of_honor', 'playing_area', 'battlefield', 'field_of_operations', 'subject', 'battleground', 'domain', 'theater', 'athletic_field', 'field_of_study', 'sphere', 'field_of_view', 'theater_of_operations', 'theatre_of_operations', 'bailiwick', 'subject_field', 'discipline', 'area', 'plain', 'champaign', 'arena', 'field_of_operation', 'study', 'theatre', 'subject_area', 'field_of_battle', 'flying_field']",Stranger in a Strange Land.
+then,"['then', 'so', 'and_then', 'and_so']",Stranger in a Strange Land.
+troubled,"['troubled', 'inconvenience_oneself', 'turbulent', 'pain', 'inconvenience', 'disruptive', 'unhinge', 'bother', 'put_out', 'disquiet', 'disoblige', 'ail', 'distract', 'tumultuous', 'perturb', 'trouble', 'riotous', 'upset', 'discommode', 'disorder', 'cark', 'incommode', 'disturb', 'trouble_oneself']",Stranger in a Strange Land.
+shall,[],Stranger in a Strange Land.
+Mike,"['microphone', 'mike']",Stranger in a Strange Land.
+fine,"['o.k.', 'fine', 'ticket', 'hunky-dory', 'exquisitely', 'ok', 'okay', 'finely', 'amercement', 'all_right', 'delicately', 'OK', 'alright', 'mulct', 'very_well']",Stranger in a Strange Land.
+militant,"['competitive', 'activist', 'warring', 'militant', 'hawkish', 'belligerent', 'war-ridden', 'warlike']",Stranger in a Strange Land.
+legal,"['effectual', 'legal', 'sound']",Stranger in a Strange Land.
+Taught,"['learn', 'teach', 'instruct']",Stranger in a Strange Land.
+Martians,['Martian'],Stranger in a Strange Land.
+Presently,"['currently', 'before_long', 'shortly', 'presently', 'soon']",Stranger in a Strange Land.
+defend,"['oppose', 'fend_for', 'guard', 'hold', 'fight', 'fight_back', 'fight_down', 'defend', 'champion', 'maintain', 'represent', 'support']",Stranger in a Strange Land.
+Happy,"['felicitous', 'glad', 'well-chosen', 'happy']",Stranger in a Strange Land.
+differently,"['other_than', 'otherwise', 'differently']",Stranger in a Strange Land.
+AB,"['AB', 'ab', 'Bachelor_of_Arts', 'Av', 'abdominal', 'type_AB', 'Ab', 'BA', 'Artium_Baccalaurens', 'group_AB', 'abdominal_muscle']",Stranger in a Strange Land.
+Her,[],Stranger in a Strange Land.
+crystal,"['vitreous_silica', 'crystal', 'watch_crystal', 'crystallization', 'watch_glass', 'quartz_glass', 'lechatelierite', 'quartz']",Stranger in a Strange Land.
+future,"['future_tense', 'succeeding', 'future', 'next', 'futurity', 'hereafter', 'time_to_come']",Stranger in a Strange Land.
+spent,"['worn-out', 'drop', 'washed-out', 'fagged', 'played_out', 'expend', 'spent', 'dog-tired', 'pass', 'spend', 'worn_out', 'fatigued', 'exhausted']",Stranger in a Strange Land.
+oxygen,"['atomic_number_8', 'oxygen', 'O']",Stranger in a Strange Land.
+alone,"['exclusively', 'solely', 'unparalleled', 'solitary', 'unaccompanied', 'lone', 'only', 'unique', 'unequalled', 'lonely', 'alone', 'solo', 'entirely', 'unequaled']",Stranger in a Strange Land.
+table,"['put_over', 'set_back', 'postpone', 'tabularize', 'put_off', 'mesa', 'tabularise', 'remit', 'table', 'tabular_array', 'defer', 'prorogue', 'tabulate', 'board', 'hold_over', 'shelve']",Stranger in a Strange Land.
+just,"['barely', 'precisely', 'simply', 'upright', 'only', 'exactly', 'scarce', 'equitable', 'hardly', 'just', 'scarcely', 'merely', 'just_now', 'good', 'but', 'fair']",Stranger in a Strange Land.
+Miss,"['young_woman', 'drop', 'fille', 'girl', 'lack', 'missy', 'neglect', 'miss', 'omit', 'overleap', 'young_lady', 'overlook', 'pretermit', 'leave_out', 'escape', 'Miss', 'lose', 'misfire']",Stranger in a Strange Land.
+purses,"['bag', 'purse', 'handbag', 'pocketbook', 'wrinkle']",Stranger in a Strange Land.
+Times,"['times', 'clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'multiplication', 'prison_term', 'time']",Stranger in a Strange Land.
+plan,"['design', 'contrive', 'architectural_plan', 'be_after', 'program', 'project', 'programme', 'plan']",Stranger in a Strange Land.
+following,"['watch', 'accompany', 'surveil', 'come_after', 'next', 'adopt', 'survey', 'pursuit', 'observe', 'keep_abreast', 'stick_with', 'come', 'followers', 'watch_over', 'play_along', 'keep_up', 'take_after', 'espouse', 'travel_along', 'undermentioned', 'following', 'abide_by', 'chase', 'fall_out', 'pursual', 'trace', 'succeed', 'conform_to', 'comply', 'pursue', 'follow', 'stick_to', 'be', 'postdate', 'keep_an_eye_on']",Stranger in a Strange Land.
+over,"['over', 'all_over', ""o'er"", 'terminated', 'concluded', 'complete', 'ended']",Stranger in a Strange Land.
+Oh,"['OH', 'Ohio', 'Buckeye_State']",Stranger in a Strange Land.
+arms,"['gird', 'branch', 'fortify', 'sleeve', 'arms', 'coat_of_arms', 'build_up', 'blazonry', 'weapon_system', 'munition', 'weapons_system', 'weaponry', 'weapon', 'subdivision', 'blazon', 'limb', 'arm', 'implements_of_war']",Stranger in a Strange Land.
+words,"['word', 'word_of_honor', 'Holy_Writ', 'run-in', 'row', 'parole', 'countersign', 'formulate', 'discussion', 'Word', 'give_voice', 'Holy_Scripture', 'lyric', 'intelligence', 'articulate', 'Book', 'words', ""actor's_line"", 'phrase', 'quarrel', 'watchword', 'Bible', 'Son', 'speech', 'language', 'news', 'Christian_Bible', 'Good_Book', 'give-and-take', 'Scripture', 'tidings', 'dustup', 'wrangle', 'password', 'Word_of_God', 'Logos']",Stranger in a Strange Land.
+attraction,"['magnet', 'attracter', 'attractiveness', 'attraction', 'attractive_feature', 'draw', 'attractive_force', 'drawing_card', 'attractor']",Stranger in a Strange Land.
+go,"['exit', 'expire', 'give_out', 'live_on', 'go_game', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'disco_biscuit', 'proceed', 'hold_up', 'fling', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'whirl', 'XTC', 'crack', 'ecstasy', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'X', 'turn', 'hold_out', 'extend', 'croak', 'pass', 'die', 'lead', 'belong', 'start', 'get_going', 'run', 'function', 'choke', 'drop_dead', 'conk_out', 'cristal', 'travel', 'Adam', 'blend', 'hug_drug', 'tour', 'sound', 'pop_off', 'move', 'spell', 'rifle', 'survive', 'offer']",Stranger in a Strange Land.
+flowers,"['prime', 'flush', 'heyday', 'blossom', 'peak', 'flower', 'efflorescence', 'bloom']",Stranger in a Strange Land.
+idea,"['musical_theme', 'approximation', 'mind', 'estimation', 'idea', 'melodic_theme', 'theme', 'thought', 'estimate']",Stranger in a Strange Land.
+subject,"['field', 'capable', 'subjugate', 'dependent', 'open', 'submit', 'matter', 'guinea_pig', 'topic', 'national', 'subject', 'field_of_study', 'bailiwick', 'subject_field', 'discipline', 'issue', 'theme', 'study', 'depicted_object', 'case', 'subject_area', 'content']",Stranger in a Strange Land.
+floods,"['rising_tide', 'flood_tide', 'flood_lamp', 'outpouring', 'inundate', 'swamp', 'overflow', 'deluge', 'flowage', 'photoflood', 'oversupply', 'alluvion', 'inundation', 'floodlight', 'glut', 'flood', 'torrent']",Stranger in a Strange Land.
+assume,"['accept', 'seize', 'adopt', 'strike', 'sham', 'don', 'take_up', 'put_on', 'take_for_granted', 'presume', 'simulate', 'feign', 'take', 'assume', 'acquire', 'wear', 'take_on', 'take_over', 'arrogate', 'bear', 'usurp', 'get_into']",Stranger in a Strange Land.
+now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']",Stranger in a Strange Land.
+have,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'wealthy_person', 'induce', 'rich_person', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",Stranger in a Strange Land.
+yoga,['yoga'],Stranger in a Strange Land.
+male,"['male_person', 'Male', 'male', 'virile', 'manful', 'manlike', 'manly']",Stranger in a Strange Land.
+lights,"['twinkle', 'illumine', 'get_off', 'Light_Within', 'igniter', 'Light', 'illume', 'lightness', 'light_source', 'ignite', 'luminousness', 'ignitor', 'Inner_Light', 'sparkle', 'brightness_level', 'lighter', 'luminosity', 'lighting', 'get_down', 'fall', 'visible_radiation', 'spark', 'light', 'perch', 'unhorse', 'brightness', 'illuminate', 'Christ_Within', 'light_up', 'fire_up', 'luminance', 'visible_light', 'illumination', 'alight', 'dismount']",Stranger in a Strange Land.
+her,[],Stranger in a Strange Land.
+lay,"['position', 'put', 'lie', 'repose', 'rest', 'dwell', 'lay', 'ballad', 'laic', 'secular', 'put_down', 'lie_in', 'place', 'lie_down', 'set', 'consist', 'pose']",Stranger in a Strange Land.
+I'm,[],Stranger in a Strange Land.
+God,"['deity', 'immortal', 'divinity', 'graven_image', 'God', 'god', 'Supreme_Being', 'idol']",Stranger in a Strange Land.
+each,"['for_each_one', 'each', 'apiece', 'to_each_one', 'from_each_one']",Stranger in a Strange Land.
+quiet,"['serenity', 'tranquillity', 'calm', 'tranquil', 'placid', 'muted', 'unruffled', 'tranquility', 'hush', 'smooth', 'quieten', 'tranquilize', 'still', 'restrained', 'repose', 'calm_down', 'placidity', 'quiesce', 'tranquillise', 'quiet_down', 'tranquillize', 'subdued', 'pipe_down', 'hushed', 'silence', 'lull', 'quietly', 'quiet']",Stranger in a Strange Land.
+kissed,"['kiss', 'snog', 'osculate', 'buss']",Stranger in a Strange Land.
+events,"['consequence', 'outcome', 'event', 'issue', 'result', 'case', 'effect', 'upshot']",Stranger in a Strange Land.
+all,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']",Stranger in a Strange Land.
+announced,"['harbinger', 'herald', 'announce', 'denote', 'foretell', 'proclaimed', 'declare', 'annunciate', 'announced']",Stranger in a Strange Land.
+strong,"['hard', 'inviolable', 'warm', 'stiff', 'substantial', 'secure', 'impregnable', 'unattackable', 'potent', 'solid', 'firm', 'strong', 'unassailable']",Stranger in a Strange Land.
+comfortable,"['well-off', 'well-to-do', 'well-fixed', 'well-situated', 'prosperous', 'well-heeled', 'comfy', 'easy', 'comfortable']",Stranger in a Strange Land.
+elevation,"['pinnacle', 'elevation', 'raising', 'lift', 'top', 'altitude', 'summit', 'natural_elevation', 'EL', 'ALT', 'aggrandizement', 'acme', 'peak', 'tiptop', 'superlative', 'height', 'aggrandisement', 'meridian']",Stranger in a Strange Land.
+whom,[],Stranger in a Strange Land.
+First,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",Stranger in a Strange Land.
+my,[],Stranger in a Strange Land.
+he'll,[],Stranger in a Strange Land.
+promoted,"['boost', 'further', 'raise', 'promote', 'advertize', 'advance', 'push', 'kick_upstairs', 'upgrade', 'elevate', 'advertise', 'encourage']",Stranger in a Strange Land.
+Otherwise,"['other_than', 'otherwise', 'differently']",Stranger in a Strange Land.
+nests,"['snuggle', 'nuzzle', 'cuddle', 'draw_close', 'nestle', 'nest']",Stranger in a Strange Land.
+didn't,[],Stranger in a Strange Land.
+secret,"['underground', 'confidential', 'hugger-mugger', 'hidden', 'secluded', 'secret', 'mystic', 'clandestine', 'undercover', 'privy', 'cloak-and-dagger', 'private', 'surreptitious', 'mystical', 'orphic', 'hole-and-corner', 'arcanum', 'hush-hush', 'occult', 'mysterious', 'mystery', 'unavowed', 'closed_book', 'enigma']",Stranger in a Strange Land.
+jumping,"['rise', 'alternate', 'climb_up', 'stand_out', 'jump_out', 'leap', 'jumping', 'stick_out', 'leap_out', 'jump-start', 'chute', 'startle', 'pass_over', 'skip', 'derail', 'jump', 'skip_over', 'parachute', 'start', 'spring', 'jump_off', 'jumpstart', 'bound']",Stranger in a Strange Land.
+beautiful,['beautiful'],Stranger in a Strange Land.
+saved,"['deliver', 'bring_through', 'write', 'pull_through', 'redeem', 'keep', 'saved', 'economise', 'hold_open', 'salvage', 'protected', 'save', 'spare', 'economize', 'lay_aside', 'salve', 'relieve', 'save_up', 'carry_through', 'make_unnecessary', 'keep_open', 'preserve']",Stranger in a Strange Land.
+denunciations,"['denouncement', 'denunciation']",Stranger in a Strange Land.
+question,"['enquiry', 'question', 'query', 'interrogation', 'doubtfulness', 'oppugn', 'call_into_question', 'doubt', 'head', 'interrogative_sentence', 'interview', 'wonder', 'interrogative', 'interrogate', 'dubiousness', 'inquiry', 'motion']",Stranger in a Strange Land.
+examined,"['test', 'try_out', 'see', 'analyse', 'canvas', 'try', 'analyze', 'study', 'examine', 'probe', 'essay', 'canvass', 'prove']",Stranger in a Strange Land.
+ago,"['ago', 'agone']",Stranger in a Strange Land.
+Universe,"['creation', 'population', 'macrocosm', 'world', 'existence', 'universe_of_discourse', 'cosmos', 'universe']",Stranger in a Strange Land.
+corporate,"['corporal', 'corporate', 'collective', 'embodied', 'bodied', 'incarnate', 'incorporated']",Stranger in a Strange Land.
+workers,"['prole', 'proletarian', 'actor', 'doer', 'worker']",Stranger in a Strange Land.
+deep,"['recondite', 'cryptical', 'deep', 'thick', 'abstruse', 'deeply', 'trench', 'mysterious', 'mystifying', 'cryptic', 'late', 'rich', 'inscrutable', 'oceanic_abyss', 'bass']",Stranger in a Strange Land.
+bother,"['hassle', 'inconvenience_oneself', 'infliction', 'fuss', 'botheration', 'pain', 'pain_in_the_neck', 'inconvenience', 'rile', 'get_at', 'bother', 'put_out', 'nark', 'nettle', 'disoblige', 'trouble', 'gravel', 'vex', 'discommode', 'irritate', 'annoy', 'get_to', 'pain_in_the_ass', 'rag', 'incommode', 'trouble_oneself', 'annoyance', 'chafe', 'devil']",Stranger in a Strange Land.
+grow,"['mature', 'rise', 'maturate', 'grow', 'arise', 'raise', 'originate', 'farm', 'develop', 'turn', 'acquire', 'produce', 'uprise', 'spring_up', 'get']",Stranger in a Strange Land.
+chain,"['mountain_range', 'range_of_mountains', 'Ernst_Boris_Chain', 'chemical_chain', 'strand', 'Chain', 'chain', 'mountain_chain', 'string', 'range', 'Sir_Ernst_Boris_Chain', 'concatenation', 'chain_of_mountains']",Stranger in a Strange Land.
+lavishly,"['extravagantly', 'lavishly', 'richly']",Stranger in a Strange Land.
+helpful,['helpful'],Stranger in a Strange Land.
+preliminary,"['prelim', 'preliminary', 'overture', 'prelude']",Stranger in a Strange Land.
+certain,"['sealed', 'sure', 'certain']",Stranger in a Strange Land.
+quickening,"['acceleration', 'speedup', 'vivify', 'revive', 'speed_up', 'revivify', 'animate', 'repair', 'quicken', 'whet', 'recreate', 'invigorate', 'reanimate', 'quickening', 'renovate', 'speed', 'accelerate']",Stranger in a Strange Land.
+Short,"['curt', 'unretentive', 'forgetful', 'poor', 'shortsighted', 'suddenly', 'unforesightful', 'shortly', 'scant', 'curtly', 'little', 'inadequate', 'shortstop', 'light', 'short-change', 'short_circuit', 'myopic', 'brusk', 'unawares', 'short', 'abruptly', 'short-circuit', 'dead', 'brusque']",Stranger in a Strange Land.
+Repeating,"['reprize', 'retell', 'repetition', 'reduplicate', 'reiterate', 'reprise', 'duplicate', 'take_over', 'repeat', 'ingeminate', 'double', 'restate', 'echo', 'repeating', 'recapitulate', 'recur', 'replicate', 'iterate']",Stranger in a Strange Land.
+date,"['day_of_the_month', 'date', 'see', 'date_stamp', 'appointment', 'engagement', 'escort', 'go_out', 'go_steady', 'particular_date']",Stranger in a Strange Land.
+shifting,"['budge', 'lurch', 'switch', 'change', 'shifting', 'shifty', 'shift', 'wobble', 'reposition', 'dislodge', 'change_over', 'transfer', 'stir', 'agitate', 'careen', 'tilt', 'pitch', 'unfirm']",Stranger in a Strange Land.
+through,"['through', 'done', 'through_with', 'through_and_through']",Stranger in a Strange Land.
+breathlessly,['breathlessly'],Stranger in a Strange Land.
+colossal,"['colossal', 'prodigious', 'stupendous']",Stranger in a Strange Land.
+forward,"['forrader', 'forward-moving', 'fore', 'advancing', 'forwards', 'frontward', 'forrard', 'frontwards', 'forrad', 'forth', 'onward', 'onwards', 'forward', 'ahead', 'send_on']",Stranger in a Strange Land.
+language,"['linguistic_communication', 'spoken_language', 'words', 'spoken_communication', 'oral_communication', 'speech_communication', 'nomenclature', 'terminology', 'voice_communication', 'linguistic_process', 'speech', 'language', 'lyric']",Stranger in a Strange Land.
+discipline,"['subject_field', 'field', 'train', 'condition', 'subject', 'check', 'study', 'subject_area', 'field_of_study', 'sort_out', 'correct', 'correction', 'bailiwick', 'discipline']",Stranger in a Strange Land.
+wasn't,[],Stranger in a Strange Land.
+setup,"['setup', 'apparatus', 'frame-up']",Stranger in a Strange Land.
+Shadow,"['phantasma', 'shade', 'tail', 'dark', 'fantasm', 'phantasm', 'shadow', 'shadower', 'overshadow', 'apparition', 'trace', 'vestige', 'shade_off', 'dwarf', 'tincture', 'phantom', 'darkness']",Stranger in a Strange Land.
+temperature,['temperature'],Stranger in a Strange Land.
+eyes,"['oculus', 'centre', 'middle', 'eyes', 'eyeball', 'center', 'optic', 'eye', 'heart']",Stranger in a Strange Land.
+less,"['to_a_lesser_extent', 'less', 'lupus_erythematosus', 'LE']",Stranger in a Strange Land.
+interrupted,"['off-and-on', 'interrupt', 'cut_off', 'break', 'break_up', 'disturb', 'interrupted', 'disrupt', 'fitful']",Stranger in a Strange Land.
+it,"['IT', 'information_technology']",Stranger in a Strange Land.
+campaign,"['crusade', 'movement', 'hunting_expedition', 'military_campaign', 'fight', 'drive', 'press', 'campaign', 'push', 'political_campaign', 'safari', 'agitate', 'effort', 'cause', 'take_the_field', 'run']",Stranger in a Strange Land.
+unexplained,['unexplained'],Stranger in a Strange Land.
+once,"['at_one_time', 'erstwhile', 'one_time', 'once', 'erst', 'in_one_case', 'formerly']",Stranger in a Strange Land.
+advanced,"['gain_ground', 'ripe', 'throw_out', 'get_along', 'shape_up', 'bring_forward', 'move_on', 'modern', 'win', 'innovative', 'promote', 'pass_on', 'advance', 'kick_upstairs', 'sophisticated', 'upgrade', 'set_ahead', 'in_advance', 'boost', 'further', 'make_headway', 'get_ahead', 'progress', 'come_along', 'come_on', 'elevate', 'go_on', 'march_on', 'supercharge', 'gain', 'get_on', 'raise', 'forward-looking', 'advanced', 'encourage', 'pull_ahead']",Stranger in a Strange Land.
+chelas,"['pincer', 'chela', 'nipper', 'claw']",Stranger in a Strange Land.
+explain,"['excuse', 'explain', 'explicate']",Stranger in a Strange Land.
+bet,"['play', 'depend', 'wager', 'look', 'count', 'reckon', 'stakes', 'calculate', 'bet', 'stake']",Stranger in a Strange Land.
+Day,"['daytime', 'daylight', 'day', 'sidereal_day', 'Clarence_Day', 'solar_day', 'twenty-four_hours', 'twenty-four_hour_period', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'Day', '24-hour_interval']",Stranger in a Strange Land.
+jackass,"['jack', 'cuckoo', 'zany', 'goofball', 'goof', 'goose', 'twat', 'bozo', 'jackass', 'fathead']",Stranger in a Strange Land.
+Or,"['operating_room', 'operating_theatre', 'operating_theater', 'Oregon', 'surgery', 'Beaver_State', 'OR']",Stranger in a Strange Land.
+growing,"['rise', 'growing', 'development', 'farm', 'develop', 'spring_up', 'mature', 'maturate', 'grow', 'originate', 'get', 'ontogeny', 'growth', 'ontogenesis', 'turn', 'acquire', 'arise', 'raise', 'maturation', 'produce', 'uprise']",Stranger in a Strange Land.
+incompletely,['incompletely'],Stranger in a Strange Land.
+Check,"['watch', 'check-out_procedure', 'confirmation', 'checker', 'baulk', 'stay', 'see_to_it', 'ascertain', 'break', 'check_mark', 'bank_check', 'mark', 'impediment', 'chink', 'check_over', 'insure', 'control', 'curb', 'hold_in', 'hitch', 'match', 'condition', 'stoppage', 'tick_off', 'fit', 'learn', 'check_up_on', 'delay', 'halt', 'arrest', 'chip', 'mark_off', 'assure', 'retard', 'handicap', 'gibe', 'hindrance', 'balk', 'crack', 'tally', 'see', 'substantiation', 'check_out', 'hold', 'chequer', 'turn_back', 'determine', 'moderate', 'correspond', 'hinderance', 'cheque', 'suss_out', 'go_over', 'ensure', 'check_into', 'hold_back', 'find_out', 'stop', 'discipline', 'train', 'contain', 'deterrent', 'assay', 'check', 'look_into', 'check_off', 'chit', 'tick', 'tab', 'agree', 'verification', 'bridle', 'checkout', 'jibe']",Stranger in a Strange Land.
+pending,['pending'],Stranger in a Strange Land.
+nirvana,"['paradise', 'promised_land', 'nirvana', 'Eden', 'Shangri-la', 'heaven', 'enlightenment']",Stranger in a Strange Land.
+cosmic,['cosmic'],Stranger in a Strange Land.
+women,"['woman', 'womanhood', 'fair_sex', 'char', 'cleaning_woman', 'cleaning_lady', 'adult_female', 'charwoman']",Stranger in a Strange Land.
+Coming,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'come_up', 'approaching', 'occur', 'orgasm', 'come', 'number', 'arrive', 'forthcoming', 'hail', 'fare', 'get', 'descend', 'advent', 'fall', 'total', 'issue_forth', 'upcoming', 'add_up', 'climax', 'do', 'follow', 'approach', 'sexual_climax', 'coming']",Stranger in a Strange Land.
+loaded,"['dilute', 'soaked', 'affluent', 'sloshed', 'squiffy', 'charge', 'crocked', 'loaded', 'pie-eyed', 'slopped', 'pissed', 'cockeyed', 'flush', 'stiff', 'load', 'lade', 'wet', 'laden', 'fuddled', 'pixilated', 'adulterate', 'ladened', 'soused', 'stretch', 'tight', 'sozzled', 'plastered', 'besotted', 'wealthy', 'smashed', 'blotto', 'debase', 'moneyed', 'blind_drunk', 'load_up']",Stranger in a Strange Land.
+Hoy,"['lighter', 'hoy', 'flatboat', 'barge']",Stranger in a Strange Land.
+precious,"['preciously', 'valued', 'cute', 'treasured', 'wanted', 'precious', 'cherished']",Stranger in a Strange Land.
+changes,"['exchange', 'switch', 'change', 'convert', 'shift', 'modify', 'alter', 'alteration', 'vary', 'commute', 'modification', 'transfer', 'interchange', 'variety', 'deepen']",Stranger in a Strange Land.
+rolled,"['trilled', 'roll_out', 'ramble', 'rove', 'revolve', 'drift', 'rolled', 'seethe', 'wander', 'tramp', 'involute', 'range', 'wheel', 'furled', 'pluck', 'roam', 'vagabond', 'twine', 'swan', 'wrap', 'hustle', 'roll_up', 'wave', 'turn_over', 'flap', 'cast', 'wind', 'rolling', 'undulate', 'roll', 'stray']",Stranger in a Strange Land.
+yet,"['nonetheless', 'notwithstanding', 'withal', 'heretofore', 'in_time', 'even', 'up_to_now', 'yet', 'til_now', 'however', 'until_now', 'thus_far', 'still', 'so_far', 'all_the_same', 'as_yet', 'even_so', 'nevertheless', 'hitherto']",Stranger in a Strange Land.
+Boss,"['foreman', 'party_boss', 'boss', 'gaffer', 'knob', 'genus_Bos', 'honcho', 'Bos', 'emboss', 'chief', 'hirer', 'political_boss', 'stamp', 'brag']",Stranger in a Strange Land.
+learned,"['get_a_line', 'watch', 'read', 'discover', 'ascertain', 'con', 'well-educated', 'learned', 'learn', 'pick_up', 'conditioned', 'knowing', 'knowledgeable', 'teach', 'take', 'well-read', 'see', 'determine', 'erudite', 'get_word', 'memorize', 'acquire', 'find_out', 'hear', 'check', 'larn', 'lettered', 'study', 'instruct', 'get_wind', 'memorise']",Stranger in a Strange Land.
+Well,"['fountainhead', 'advantageously', 'wellspring', 'swell', 'well', 'easily', 'intimately', 'comfortably', 'considerably', 'good', 'substantially']",Stranger in a Strange Land.
+accepted,"['take_on', 'accept', 'take', 'consent', 'accepted', 'recognized', 'go_for', 'swallow', 'recognised', 'take_over', 'assume', 'admit', 'bear', 'live_with', 'have']",Stranger in a Strange Land.
+Foster,"['Stephen_Collins_Foster', 'further', 'nurture', 'Foster', 'surrogate', 'Stephen_Foster', 'foster']",Stranger in a Strange Land.
+being,"['organism', 'comprise', 'beingness', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'being', 'existence', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+liked,"['liked', 'like', 'care', 'wish']",Stranger in a Strange Land.
+Don't,[],Stranger in a Strange Land.
+need,"['ask', 'necessitate', 'require', 'take', 'want', 'pauperism', 'postulate', 'motive', 'pauperization', 'involve', 'indigence', 'call_for', 'need', 'motivation', 'penury', 'demand']",Stranger in a Strange Land.
+sad,"['sorry', 'pitiful', 'lamentable', 'distressing', 'deplorable', 'sad']",Stranger in a Strange Land.
+',[],Stranger in a Strange Land.
+discorporate,"['discorporate', 'unembodied', 'unbodied', 'bodiless', 'disembodied']",Stranger in a Strange Land.
+kept,"['hold_on', 'keep', 'prevent', 'observe', 'hold_open', 'proceed', 'keep_back', 'stay_fresh', 'keep_on', 'go_along', 'kept', 'save', 'continue', 'hold', 'restrain', 'maintain', 'unbroken', 'hold_back', 'go_on', 'keep_open', 'celebrate', 'sustain', 'retain', 'preserve']",Stranger in a Strange Land.
+Senator,['senator'],Stranger in a Strange Land.
+sit,"['sit_around', 'model', 'sit', 'posture', 'sit_down', 'seat', 'baby-sit', 'ride', 'pose']",Stranger in a Strange Land.
+faster,"['quick', 'immobile', 'faster', 'degenerate', 'fast', 'profligate', 'loyal', 'truehearted', 'dissolute', 'libertine', 'quicker', 'riotous', 'flying', 'dissipated', 'debauched', 'firm', 'degraded']",Stranger in a Strange Land.
+sexes,"['arouse', 'sexuality', 'wind_up', 'sex', 'gender', 'sexual_urge', 'excite', 'turn_on', 'sexual_practice', 'sexual_activity', 'sex_activity']",Stranger in a Strange Land.
+going,"['exit', 'expire', 'give_out', 'live_on', 'departure', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'expiration', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'leaving', 'work', 'go_bad', 'loss', 'proceed', 'conk', 'hold_up', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'going_away', 'break_down', 'get', 'become', 'sledding', 'depart', 'going', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'release', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'passing', 'extend', 'pass', 'die', 'lead', 'belong', 'start', 'get_going', 'run', 'function', 'choke', 'drop_dead', 'travel', 'blend', 'sound', 'pop_off', 'move', 'rifle', 'survive']",Stranger in a Strange Land.
+when,[],Stranger in a Strange Land.
+often,"['a_great_deal', 'oft', 'frequently', 'often', 'much', 'oftentimes', 'ofttimes']",Stranger in a Strange Land.
+Archangel,"['Angelica_Archangelica', 'garden_angelica', 'archangel']",Stranger in a Strange Land.
+total,"['tot', 'totality', 'sum_up', 'tally', 'entire', 'sum', 'aggregate', 'come', 'summate', 'number', 'add', 'tote_up', 'add_together', 'total', 'amount', 'tot_up', 'add_up', 'full']",Stranger in a Strange Land.
+urged,"['cheer', 'urge', 'pep_up', 'inspire', 'exhort', 'recommend', 'urge_on', 'root_on', 'barrack', 'press', 'advocate']",Stranger in a Strange Land.
+At,"['at', 'astatine', 'atomic_number_85', 'At']",Stranger in a Strange Land.
+long-distance,['long-distance'],Stranger in a Strange Land.
+enough,"['sufficiency', 'adequate', 'decent', 'enough', 'plenty']",Stranger in a Strange Land.
+supreme,"['sovereign', 'supreme']",Stranger in a Strange Land.
+nor,[],Stranger in a Strange Land.
+tray,['tray'],Stranger in a Strange Land.
+nothing,"['aught', 'cipher', 'zilch', 'nix', 'nada', 'goose_egg', 'nil', 'nothing', 'zero', 'cypher', 'zippo', 'null', 'zip', 'naught']",Stranger in a Strange Land.
+you'll,[],Stranger in a Strange Land.
+sank,"['drop', 'sink', 'subside', 'fall_off', 'settle', 'slump', 'slide_down', 'drop_down', 'pass', 'bury', 'dip', 'lapse', 'go_down', 'go_under']",Stranger in a Strange Land.
+lots,"['sight', 'piles', 'flock', 'spate', 'gobs', 'parcel_out', 'dole_out', 'mickle', 'wads', 'circle', 'band', 'distribute', 'Lot', 'heaps', 'scads', 'fortune', 'stack', 'caboodle', 'quite_a_little', 'a_great_deal', 'tidy_sum', 'raft', 'oodles', 'draw', 'luck', 'bunch', 'destiny', 'administer', 'deal', 'pile', 'mess', 'dispense', 'scores', 'shell_out', 'mint', 'stacks', 'wad', 'mete_out', 'slew', 'dish_out', 'passel', 'rafts', 'hatful', 'dozens', 'lot', 'mass', 'fate', 'heap', 'plenty', 'allot', 'great_deal', 'loads', 'muckle', 'pot', 'good_deal', 'lashings', 'a_lot', 'tons', 'a_good_deal', 'slews', 'much', 'deal_out', 'batch', 'mountain', 'very_much', 'lots', 'portion', 'peck', 'set', 'circumstances']",Stranger in a Strange Land.
+people,"['hoi_polloi', 'the_great_unwashed', 'multitude', 'citizenry', 'mass', 'people', 'masses']",Stranger in a Strange Land.
+with,[],Stranger in a Strange Land.
+Paradise,"['paradise', 'promised_land', 'nirvana', 'Eden', 'Shangri-la', 'Paradise', 'heaven']",Stranger in a Strange Land.
+behaved,"['comport', 'act', 'carry', 'conduct', 'behave', 'acquit', 'bear', 'deport', 'do']",Stranger in a Strange Land.
+merge,"['unify', 'flux', 'mix', 'meld', 'commingle', 'blend', 'unite', 'immix', 'combine', 'coalesce', 'fuse', 'merge', 'conflate']",Stranger in a Strange Land.
+he,"['atomic_number_2', 'he', 'He', 'helium']",Stranger in a Strange Land.
+sparse,"['sparse', 'thin']",Stranger in a Strange Land.
+own,"['ain', 'have', 'possess', 'own']",Stranger in a Strange Land.
+aloud,"['loudly', 'loud', 'aloud', 'out_loud']",Stranger in a Strange Land.
+wants,"['deprivation', 'deficiency', 'want', 'lack', 'privation', 'wish', 'wishing', 'need', 'desire', 'neediness', 'require']",Stranger in a Strange Land.
+inquire,"['ask', 'investigate', 'inquire', 'enquire', 'wonder']",Stranger in a Strange Land.
+everybody,[],Stranger in a Strange Land.
+dressed,"['dressed-up', 'line_up', 'trim', 'garmented', 'robed', 'dress_up', 'preen', 'dressed', 'raiment', 'togged_up', 'tog', 'decorate', 'groom', 'coif', 'garment', 'plume', 'clip', 'dressed_to_kill', 'arrange', 'garnish', 'dolled_up', 'dress_out', 'cut_back', 'curry', 'attired', 'polished', 'garb', 'spruced_up', 'dress', 'garbed', 'dressed_to_the_nines', 'coiffure', 'appareled', 'habilimented', 'fit_out', 'coiffe', 'get_dressed', 'primp', 'clothe', 'do', 'lop', 'apparel', 'prune', 'habilitate', 'snip', 'crop', 'enclothe', 'set', 'spiffed_up']",Stranger in a Strange Land.
+Absent-minded,[],Stranger in a Strange Land.
+Heavenly,"['heavenly', 'celestial']",Stranger in a Strange Land.
+Church's,[],Stranger in a Strange Land.
+done,"['behave', 'done', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'through_with', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'through', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",Stranger in a Strange Land.
+one,"['i', 'matchless', 'one_and_only', '1', 'single', 'unmatched', 'nonpareil', 'unmatchable', 'unity', 'unrivaled', 'peerless', 'unrivalled', 'ane', 'one', 'ace', 'I', 'unitary']",Stranger in a Strange Land.
+hemisphere,"['cerebral_hemisphere', 'hemisphere']",Stranger in a Strange Land.
+ought,[],Stranger in a Strange Land.
+--,[],Stranger in a Strange Land.
+T.,[],Stranger in a Strange Land.
+You,[],Stranger in a Strange Land.
+Time,"['clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'prison_term', 'time']",Stranger in a Strange Land.
+dig,"['prod', 'grok', 'grasp', 'savvy', 'shot', 'delve', 'drudge', 'hollow', 'jab', 'labor', 'poke', 'cut_into', 'dig', 'compass', 'dig_up', 'excavate', 'gibe', 'stab', 'get_the_picture', 'barb', 'slam', 'toil', 'fag', 'digging', 'comprehend', 'turn_over', 'archeological_site', 'travail', 'shaft', 'grind', 'dig_out', 'moil', 'excavation', 'labour', 'apprehend', 'jibe']",Stranger in a Strange Land.
+merged,"['unify', 'flux', 'mix', 'meld', 'commingle', 'blend', 'unite', 'immix', 'combine', 'merged', 'unified', 'coalesce', 'fuse', 'integrated', 'merge', 'incorporate', 'conflate', 'incorporated']",Stranger in a Strange Land.
+hall,"['Charles_Martin_Hall', 'Marguerite_Radclyffe_Hall', 'dormitory', 'mansion', 'anteroom', 'entrance_hall', 'lobby', 'foyer', 'hall', 'Radclyffe_Hall', 'Charles_Francis_Hall', 'hallway', 'vestibule', 'antechamber', 'manor_hall', 'residence', 'mansion_house', 'Granville_Stanley_Hall', 'residence_hall', 'dorm', 'manse', 'G._Stanley_Hall', 'Asaph_Hall', 'Hall', 'student_residence']",Stranger in a Strange Land.
+household,"['house', 'household', 'menage', 'family', 'home']",Stranger in a Strange Land.
+feel,"['experience', 'finger', 'spirit', 'feeling', 'flavor', 'look', 'flavour', 'sense', 'smell', 'find', 'feel', 'tone', 'tactile_property', 'palpate']",Stranger in a Strange Land.
+secretaries,"['secretary', 'repository', 'secretarial_assistant', 'secretaire', 'escritoire', 'writing_table']",Stranger in a Strange Land.
+bridge,"['nosepiece', 'bridge_circuit', 'bridge_over', 'span', 'bridgework', 'bridge', 'bridge_deck']",Stranger in a Strange Land.
+gay,"['festive', 'jolly', 'queer', 'homosexual', 'mirthful', 'jovial', 'cheery', 'jocund', 'sunny', 'braw', 'homophile', 'homo', 'festal', 'gay', 'merry', 'brave']",Stranger in a Strange Land.
+pressure,"['atmospheric_pressure', 'squeeze', 'insistency', 'force', 'imperativeness', 'pressing', 'force_per_unit_area', 'insistence', 'pressure_sensation', 'air_pressure', 'blackmail', 'coerce', 'pressure', 'hale', 'blackjack', 'press', 'pressure_level']",Stranger in a Strange Land.
+side,"['slope', 'position', 'incline', 'face', 'side_of_meat', 'side', 'English']",Stranger in a Strange Land.
+mean,"['average', 'think', 'signify', 'have_in_mind', 'mingy', 'meanspirited', 'stand_for', 'think_of', 'entail', 'mean', 'mean_value', 'beggarly', 'miserly', 'bastardly', 'hateful', 'intend', 'imply', 'tight', 'base']",Stranger in a Strange Land.
+way,"['means', 'agency', 'direction', 'elbow_room', 'right_smart', 'style', 'way', 'fashion', 'path', 'way_of_life', 'mode', 'manner', 'room']",Stranger in a Strange Land.
+tolerance,"['permissiveness', 'leeway', 'margin', 'tolerance', 'allowance']",Stranger in a Strange Land.
+teach,"['Edward_Teach', 'Blackbeard', 'learn', 'instruct', 'Edward_Thatch', 'teach', 'Teach', 'Thatch']",Stranger in a Strange Land.
+stolen,"['steal', 'slip']",Stranger in a Strange Land.
+Eternity,"['infinity', 'eternity', 'timelessness', 'timeless_existence']",Stranger in a Strange Land.
+fact,['fact'],Stranger in a Strange Land.
+gang,"['ring', 'crowd', 'crew', 'mob', 'gang_up', 'pack', 'bunch', 'work_party', 'gang']",Stranger in a Strange Land.
+witness,"['watcher', 'witnesser', 'witness', 'viewer', 'attestor', 'attestator', 'see', 'looker', 'find', 'spectator', 'informant', 'attestant']",Stranger in a Strange Land.
+indeed,"['so', 'indeed']",Stranger in a Strange Land.
+diapers,"['napkin', 'diaper', 'nappy']",Stranger in a Strange Land.
+repeatedly,['repeatedly'],Stranger in a Strange Land.
+act,"['play', 'behave', 'act_as', 'represent', 'work', 'playact', 'number', 'human_action', 'deed', 'act', 'roleplay', 'turn', 'enactment', 'pretend', 'do', 'bit', 'human_activity', 'routine', 'move', 'dissemble']",Stranger in a Strange Land.
+water,"['H2O', 'piss', 'irrigate', 'water_system', 'urine', 'water', 'pee', 'body_of_water', 'weewee', 'piddle', 'water_supply']",Stranger in a Strange Land.
+snow,"['Snow', 'blow', 'play_false', 'Baron_Snow_of_Leicester', 'coke', 'nose_candy', 'C', 'snow', 'lead_by_the_nose', 'C._P._Snow', 'bamboozle', 'hoodwink', 'snowfall', ""pull_the_wool_over_someone's_eyes"", 'Charles_Percy_Snow']",Stranger in a Strange Land.
+Grandmothers',[],Stranger in a Strange Land.
+taught,"['learn', 'teach', 'instruct']",Stranger in a Strange Land.
+building,"['construct', 'edifice', 'ramp_up', 'build_up', 'work_up', 'progress', 'make', 'establish', 'building', 'build', 'construction']",Stranger in a Strange Land.
+tried,"['judge', 'try', 'attempt', 'tried_and_true', 'essay', 'adjudicate', 'tested', 'try_on', 'well-tried', 'time-tested', 'try_out', 'render', 'seek', 'strain', 'sample', 'examine', 'tried', 'taste', 'test', 'assay', 'hear', 'stress', 'prove']",Stranger in a Strange Land.
+not,"['not', 'non']",Stranger in a Strange Land.
+chicken,"['poulet', 'yellow-bellied', 'wimp', 'chickenhearted', 'crybaby', 'volaille', 'chicken', 'yellow', 'white-livered', 'Gallus_gallus', 'lily-livered']",Stranger in a Strange Land.
+switch,"['switch_over', 'flip', 'alternate', 'electrical_switch', 'flip-flop', 'substitution', 'replacement', 'tack', 'electric_switch', 'switching', 'change_over', 'swap', 'exchange', 'permutation', 'shift', 'throw', 'swop', 'transposition', 'interchange', 'switch', 'trade', 'change']",Stranger in a Strange Land.
+cook,"['falsify', 'Captain_Cook', 'cook', 'fix', 'fake', 'Cook', 'misrepresent', 'make', 'manipulate', 'ready', 'wangle', 'Captain_James_Cook', 'prepare', 'fudge', 'James_Cook']",Stranger in a Strange Land.
+newly,"['new', 'fresh', 'newly', 'freshly']",Stranger in a Strange Land.
+Get,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",Stranger in a Strange Land.
+glorious,"['brilliant', 'splendid', 'splendiferous', 'glorious', 'magnificent', 'resplendent']",Stranger in a Strange Land.
+System,"['arrangement', 'system', 'organization', 'scheme', 'organisation', 'system_of_rules']",Stranger in a Strange Land.
+Booker,"['booking_agent', 'booker']",Stranger in a Strange Land.
+week,"['week', 'workweek', 'hebdomad', 'calendar_week']",Stranger in a Strange Land.
+languages,"['linguistic_communication', 'spoken_language', 'words', 'spoken_communication', 'oral_communication', 'speech_communication', 'nomenclature', 'terminology', 'voice_communication', 'linguistic_process', 'speech', 'language', 'lyric']",Stranger in a Strange Land.
+new,"['unexampled', 'newfangled', 'young', 'freshly', 'fresh', 'New', 'newly', 'novel', 'new', 'raw', 'Modern']",Stranger in a Strange Land.
+again,"['once_more', 'again', 'over_again', 'once_again']",Stranger in a Strange Land.
+in,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",Stranger in a Strange Land.
+cherish,"['care_for', 'cherish', 'treasure', 'hold_dear']",Stranger in a Strange Land.
+that,[],Stranger in a Strange Land.
+snickered,"['snigger', 'snicker']",Stranger in a Strange Land.
+second,"['second', 'endorsement', 'irregular', 'indorsement', 'secondly', 'arcsecond', 'secondment', 'instant', 'minute', 'sec', 's', 'second_base', 'moment', '2nd', '2d', 'mo', 'indorse', 'second_gear', 'bit', 'back', 'endorse']",Stranger in a Strange Land.
+you,[],Stranger in a Strange Land.
+Martian,['Martian'],Stranger in a Strange Land.
+this,[],Stranger in a Strange Land.
+conclave,['conclave'],Stranger in a Strange Land.
+can't,[],Stranger in a Strange Land.
+;,[],Stranger in a Strange Land.
+during,[],Stranger in a Strange Land.
+spreading,"['broadcast', 'pass_around', 'spreading', 'public_exposure', 'distribute', 'disperse', 'open', 'spread_out', 'go_around', 'fan_out', 'spread', 'scatter', 'circularize', 'propagate', 'overspread', 'circulate', 'airing', 'diffuse', 'circularise', 'dissemination', 'disseminate', 'unfold']",Stranger in a Strange Land.
+aside,"['digression', 'divagation', 'apart', 'excursus', 'parenthesis', 'aside', 'by', 'away']",Stranger in a Strange Land.
+domes,"['domed_stadium', 'bonce', 'bean', 'noodle', 'noggin', 'dome', 'covered_stadium', 'attic']",Stranger in a Strange Land.
+recriminations,['recrimination'],Stranger in a Strange Land.
+wide,"['all-embracing', 'spacious', 'wide-cut', 'wide_of_the_mark', 'panoptic', 'extensive', 'blanket', 'across-the-board', 'astray', 'widely', 'all-encompassing', 'encompassing', 'wide', 'broad', 'wide-eyed', 'all-inclusive', 'full']",Stranger in a Strange Land.
+Digby's,[],Stranger in a Strange Land.
+agreed,"['match', 'tally', 'check', 'fit_in', 'hold', 'fit', 'accord', 'in_agreement', 'correspond', 'harmonise', 'agree', 'concord', 'consort', 'concur', 'agreed', 'gibe', 'harmonize', 'jibe']",Stranger in a Strange Land.
+both,['both'],Stranger in a Strange Land.
+difficulty,"['trouble', 'difficultness', 'difficulty']",Stranger in a Strange Land.
+presumed,"['take_for_granted', 'dare', 'presume', 'assume', 'make_bold']",Stranger in a Strange Land.
+tiptoeing,"['tippytoe', 'tip', 'tiptoe']",Stranger in a Strange Land.
+southern,"['southerly', 'southern']",Stranger in a Strange Land.
+Federation,"['confederacy', 'federation', 'confederation']",Stranger in a Strange Land.
+sexual,"['sexual', 'intimate']",Stranger in a Strange Land.
+fit,"['outfit', 'convulsion', 'scene', 'match', 'fit', 'gibe', 'suit', 'tally', 'go', 'accommodate', 'correspond', 'fit_out', 'equip', 'tantrum', 'conform_to', 'conniption', 'primed', 'check', 'meet', 'burst', 'paroxysm', 'agree', 'set', 'jibe']",Stranger in a Strange Land.
+unique,"['unparalleled', 'unequalled', 'unique', 'alone', 'singular', 'unequaled']",Stranger in a Strange Land.
+pleasing,"['pleasing', 'please', 'delight']",Stranger in a Strange Land.
+plants,"['embed', 'engraft', 'institute', 'found', 'constitute', 'plant', 'imbed', 'industrial_plant', 'establish', 'set', 'implant', 'works', 'flora', 'plant_life']",Stranger in a Strange Land.
+That'll,[],Stranger in a Strange Land.
+patterns,"['rule', 'model', 'design', 'radiation_diagram', 'form', 'pattern', 'shape', 'practice', 'normal', 'figure', 'approach_pattern', 'radiation_pattern', 'traffic_pattern', 'blueprint', 'convention', 'formula']",Stranger in a Strange Land.
+saying,"['expression', 'enjoin', 'articulate', 'locution', 'saying', 'tell', 'suppose', 'say', 'aver', 'read', 'order', 'pronounce', 'enounce', 'enunciate', 'state', 'allege', 'sound_out']",Stranger in a Strange Land.
+summer,"['summer', 'summertime']",Stranger in a Strange Land.
+Fosterites,[],Stranger in a Strange Land.
+",",[],Stranger in a Strange Land.
+memorize,"['learn', 'memorise', 'con', 'memorize']",Stranger in a Strange Land.
+ripples,"['burble', 'babble', 'bubble', 'cockle', 'guggle', 'riffle', 'ripple', 'ruffle', 'rippling', 'undulate', 'gurgle', 'wavelet']",Stranger in a Strange Land.
+turn,"['plough', 'turn_of_events', 'move_around', 'play', 'sour', 'reverse', 'bend', 'turning', 'change_by_reversal', 'change_state', 'deform', 'work', 'good_turn', 'grow', 'crook', 'ferment', 'bout', 'number', 'flex', 'sprain', 'rick', 'round', 'become', 'act', 'wrench', 'go', 'release', 'turn', 'turn_over', 'wrick', 'call_on', 'bit', 'twist', 'tour', 'routine', 'plow', 'spell']",Stranger in a Strange Land.
+CB,[],Stranger in a Strange Land.
+November,"['November', 'Nov']",Stranger in a Strange Land.
+medium,"['average', 'metier', 'intermediate', 'mass_medium', 'culture_medium', 'spiritualist', 'sensitive', 'medium']",Stranger in a Strange Land.
+Monitor,"['monitoring_device', 'monitor_lizard', 'supervise', 'reminder', 'proctor', 'Monitor', 'varan', 'admonisher', 'monitor']",Stranger in a Strange Land.
+walking,"['walking', 'walk', 'walk-to', 'take_the_air']",Stranger in a Strange Land.
+run,"['race', 'play', 'incline', 'take_to_the_woods', 'course', 'tend', 'streamlet', 'running_play', 'hunt', 'hunt_down', 'lean', 'melt_down', 'trial', 'consort', 'turn_tail', 'hightail_it', 'die_hard', 'melt', 'unravel', 'flow', 'running_game', 'scat', 'work', 'persist', 'track_down', 'rill', 'carry', 'lam', 'run_away', 'draw', 'political_campaign', 'endure', 'bunk', 'fly_the_coop', 'range', 'outpouring', 'streak', 'tally', 'foot_race', 'break_away', 'discharge', 'head_for_the_hills', 'go', 'feed', 'prevail', 'operate', 'extend', 'pass', 'black_market', 'lead', 'footrace', 'run', 'function', 'running', 'guide', 'test', 'ladder', 'scarper', 'execute', 'ravel', 'be_given', 'bleed', 'campaign', 'escape', 'ply', 'move', 'runnel', 'run_for', 'rivulet']",Stranger in a Strange Land.
+hindered,"['block', 'impede', 'handicap', 'embarrass', 'hamper', 'hinder', 'stymy', 'stymie', 'blockade', 'obstruct']",Stranger in a Strange Land.
+resumed,"['take_up', 'sum_up', 'restart', 'summarize', 're-start', 'summarise', 'resume']",Stranger in a Strange Land.
+ranking,"['higher-ranking', 'ranking', 'outrank', 'grade', 'rate', 'superior', 'order', 'place', 'rank', 'range']",Stranger in a Strange Land.
+before,"['in_front', 'ahead', 'earlier', 'before']",Stranger in a Strange Land.
+thing,"['thing', 'affair', 'matter']",Stranger in a Strange Land.
+warily,['warily'],Stranger in a Strange Land.
+dear,"['heartfelt', 'honey', 'lamb', 'love', 'high-priced', 'dearest', 'dear', 'near', 'earnest', 'pricey', 'darling', 'beloved', 'affectionately', 'pricy', 'devout', 'costly', 'dearly', 'good']",Stranger in a Strange Land.
+only,"['exclusively', 'only_if', 'solely', 'solitary', 'simply', 'only_when', 'lone', 'only', 'lonesome', 'alone', 'just', 'merely', 'entirely', 'sole', 'but']",Stranger in a Strange Land.
+matsyendra,['matsyendra'],Stranger in a Strange Land.
+smell,"['aroma', 'scent', 'sense', 'olfactory_sensation', 'flavour', 'olfactory_property', 'smell_out', 'odor', 'feel', 'olfaction', 'smelling', 'spirit', 'feeling', 'odour', 'smack', 'flavor', 'look', 'smell', 'sense_of_smell', 'tone', 'olfactory_perception', 'olfactory_modality', 'reek']",Stranger in a Strange Land.
+Major,"['major', 'John_Major', 'Major', 'John_Roy_Major', 'John_R._Major']",Stranger in a Strange Land.
+probably,"['believably', 'plausibly', 'credibly', 'probably', 'likely', 'belike', 'in_all_probability', 'in_all_likelihood']",Stranger in a Strange Land.
+L'Unita,[],Stranger in a Strange Land.
+softly,"['lightly', 'quietly', 'softly', 'gently', 'piano']",Stranger in a Strange Land.
+Mrs.,"['Mrs.', 'Mrs']",Stranger in a Strange Land.
+integrity,"['unity', 'integrity', 'wholeness']",Stranger in a Strange Land.
+clock,"['clock', 'time']",Stranger in a Strange Land.
+price-cutting,[],Stranger in a Strange Land.
+did,"['behave', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",Stranger in a Strange Land.
+church,"['church', 'church_building', 'Christian_church', 'church_service']",Stranger in a Strange Land.
+say,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'enunciate', 'state', 'allege', 'sound_out']",Stranger in a Strange Land.
+Is,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+world,"['populace', 'earthly_concern', 'humanity', 'world', 'global', 'universe', 'Earth', 'humans', 'public', 'existence', 'globe', 'human_beings', 'earth', 'domain', 'worldwide', 'world-wide', 'man', 'reality', 'human_race', 'cosmos', 'creation', 'humankind', 'mankind', 'worldly_concern', 'macrocosm', 'planetary']",Stranger in a Strange Land.
+They,[],Stranger in a Strange Land.
+Let's,[],Stranger in a Strange Land.
+selves,"['ego', 'self']",Stranger in a Strange Land.
+calmed,"['simmer_down', 'sedate', 'calm', 'becalm', 'lull', 'calm_down', 'tranquilize', 'quieten', 'cool_off', 'settle_down', 'quiet', 'tranquillise', 'steady', 'still', 'chill_out', 'tranquillize', 'cool_it']",Stranger in a Strange Land.
+minded,"['mind', 'apt', 'take_care', 'listen', 'bear_in_mind', 'beware', 'minded', 'given', 'disposed', 'tending', 'heed']",Stranger in a Strange Land.
+so,"['then', 'and_then', 'thusly', 'indeed', 'hence', 'sol', 'therefore', 'thence', 'and_so', 'so', 'soh', 'thus']",Stranger in a Strange Land.
+unknown,"['unsung', 'alien', 'nameless', 'strange', 'terra_incognita', 'unidentified', 'unnamed', 'stranger', 'obscure', 'unknown_quantity', 'unknown', 'unknown_region']",Stranger in a Strange Land.
+variety,"['kind', 'diverseness', 'diversity', 'change', 'form', 'mixture', 'potpourri', 'mixed_bag', 'motley', 'variety_show', 'multifariousness', 'miscellanea', 'miscellany', 'smorgasbord', 'variety', 'assortment', 'sort', 'salmagundi']",Stranger in a Strange Land.
+high,"['senior_high_school', 'in_high_spirits', 'gamy', 'luxuriously', 'senior_high', 'highschool', 'high-pitched', 'high_up', 'heights', 'gamey', 'mellow', 'high', 'high_school', 'high_gear', 'eminent', 'richly']",Stranger in a Strange Land.
+bodily,"['somatic', 'corporal', 'bodily', 'corporeal']",Stranger in a Strange Land.
+his,[],Stranger in a Strange Land.
+finger,"['finger', 'digit', 'fingerbreadth', ""finger's_breadth"", 'feel', 'thumb']",Stranger in a Strange Land.
+25,"['xxv', '25', 'twenty-five', 'XXV']",Stranger in a Strange Land.
+carry,"['behave', 'acquit', 'expect', 'have_a_bun_in_the_oven', 'express', 'persuade', 'transmit', 'stockpile', 'carry', 'conduct', 'comport', 'take', 'gestate', 'hold', 'extend', 'pack', 'impart', 'deport', 'run', 'channel', 'stock', 'transport', 'post', 'contain', 'sway', 'bear', 'convey', 'dribble']",Stranger in a Strange Land.
+equated,"['match', 'equal', 'liken', 'correspond', 'equate', 'equalize', 'equalise', 'compare']",Stranger in a Strange Land.
+humans,"['human_beings', 'human', 'humans', 'humanity', 'homo', 'world', 'humankind', 'human_being', 'man', 'mankind', 'human_race']",Stranger in a Strange Land.
+Fosterite,[],Stranger in a Strange Land.
+preoccupied,"['haunted', 'preoccupied', 'preoccupy', 'bemused', 'deep_in_thought', 'lost', 'taken_up', 'obsessed']",Stranger in a Strange Land.
+Rig-Veda,['Rig-Veda'],Stranger in a Strange Land.
+held,"['nurse', 'keep', 'take_for', 'book', 'defend', 'control', 'concur', 'hold_in', 'curb', 'reserve', 'adjudge', 'harbor', 'carry', 'keep_back', 'hold_up', 'held', 'defy', 'declare', 'halt', 'arrest', 'concord', 'take_hold', 'oblige', 'support', 'confine', 'take', 'guard', 'apply', 'give', 'withstand', 'hold', 'throw', 'have_got', 'harbour', 'accommodate', 'prevail', 'restrain', 'obligate', 'moderate', 'bind', 'admit', 'deem', 'maintain', 'have', 'hold_back', 'contain', 'check', 'view_as', 'go_for', 'obtain', 'make', 'sustain', 'retain', 'bear', 'entertain', 'agree']",Stranger in a Strange Land.
+sat,"['sit_around', 'model', 'Saturday', 'sit', 'posture', 'Sat', 'sit_down', 'Sabbatum', 'seat', 'baby-sit', 'ride', 'pose']",Stranger in a Strange Land.
+published,"['issue', 'promulgated', 'write', 'put_out', 'bring_out', 'release', 'publish', 'published', 'print']",Stranger in a Strange Land.
+stopped,"['barricade', 'hold_on', 'finish', 'break', 'lay_off', 'discontinue', 'block_up', 'stopped_up', 'give_up', 'stopped-up', 'stopped', 'halt', 'arrest', 'stop_over', 'end', 'kibosh', 'turn_back', 'terminate', 'block_off', 'bar', 'hold_back', 'stop', 'block', 'quit', 'intercept', 'contain', 'check', 'cease', 'blockade', 'break_off']",Stranger in a Strange Land.
+marks,"['Saint_Mark', 'bell_ringer', 'distinguish', 'stigmatise', 'stigma', 'sucker', 'Deutschmark', ""bull's_eye"", 'pit', 'fall_guy', 'Simon_Marks', 'pock', 'mark', 'soft_touch', 'German_mark', 'Gospel_According_to_Mark', 'scar', 'notice', 'tick_off', 'marker', 'stigmatize', 'stain', 'score', 'St._Mark', 'mark_off', 'Deutsche_Mark', 'print', 'gull', 'cross_off', 'differentiate', 'denounce', 'cross_out', 'tag', 'Mark', 'brand', 'First_Baron_Marks_of_Broughton', 'mug', 'patsy', 'sign', 'nock', 'marking', 'chump', 'scratch', 'cross', 'strike_off', 'commemorate', 'punctuate', 'label', 'target', 'home_run', 'scrape', 'grade', 'crisscross', 'check', 'strike_out', 'note', 'check_off', 'fool', 'tick', 'Marks', 'set']",Stranger in a Strange Land.
+female,"['female', 'female_person', 'distaff']",Stranger in a Strange Land.
+Afterwards,"['later', 'later_on', 'subsequently', 'after', 'afterwards', 'afterward']",Stranger in a Strange Land.
+there,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']",Stranger in a Strange Land.
+compared,"['liken', 'compare', 'equate']",Stranger in a Strange Land.
+swami,['swami'],Stranger in a Strange Land.
+Supreme,"['sovereign', 'supreme']",Stranger in a Strange Land.
+Jones,"['John_Paul_Jones', 'Jones', 'Mary_Harris_Jones', 'Mother_Jones', 'Bobby_Jones', 'Inigo_Jones', 'John_Luther_Jones', 'Casey_Jones', 'Daniel_Jones', 'Robert_Tyre_Jones']",Stranger in a Strange Land.
+),[],Stranger in a Strange Land.
+see,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'assure', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'come_across', 'figure', 'picture', 'examine', 'construe', 'go_out', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",Stranger in a Strange Land.
+suggested,"['intimate', 'indicate', 'advise', 'hint', 'suggest', 'paint_a_picture', 'propose', 'evoke']",Stranger in a Strange Land.
+'',[],Stranger in a Strange Land.
+States,"['say', 'State_Department', 'State', 'express', 'body_politic', 'submit', 'nation', 'commonwealth', 'United_States_Department_of_State', 'put_forward', 'res_publica', 'province', 'DoS', 'land', 'Department_of_State', 'tell', 'country', 'state_of_matter', 'state', 'posit']",Stranger in a Strange Land.
+what,[],Stranger in a Strange Land.
+Romano,[],Stranger in a Strange Land.
+swim,"['swim', 'float', 'swimming', 'drown']",Stranger in a Strange Land.
+should,[],Stranger in a Strange Land.
+English,"['English_people', 'English_language', 'side', 'English']",Stranger in a Strange Land.
+funeral,['funeral'],Stranger in a Strange Land.
+Listen,"['mind', 'hear', 'take_heed', 'listen', 'heed']",Stranger in a Strange Land.
+ends,"['close', 'death', 'end', 'goal', 'destruction', 'conclusion', 'oddment', 'final_stage', 'finish', 'terminate', 'ending', 'cease', 'remnant', 'last', 'closing', 'remainder', 'terminal', 'stop']",Stranger in a Strange Land.
+picnicked,['picnic'],Stranger in a Strange Land.
+Ones,"['1', 'single', 'unity', 'one', 'ace', 'I']",Stranger in a Strange Land.
+grass,"['sess', 'dope', 'betray', 'locoweed', 'grass_over', 'Gunter_Wilhelm_Grass', 'weed', 'sens', 'Gunter_Grass', 'forage', 'denounce', 'give_away', 'skunk', 'supergrass', 'grass', 'green_goddess', 'pot', 'eatage', 'pasture', 'Mary_Jane', 'snitch', 'shop', 'shit', 'stag', 'Grass', 'smoke', 'tell_on', 'rat', 'pasturage', 'gage']",Stranger in a Strange Land.
+Huey,[],Stranger in a Strange Land.
+lonely,"['solitary', 'lone', 'lonesome', 'lonely', 'alone', 'unfrequented']",Stranger in a Strange Land.
+looked,"['appear', 'wait', 'see', 'search', 'look', 'front', 'take_care', 'attend', 'count', 'seem', 'depend', 'calculate', 'face', 'reckon', 'expect', 'await', 'bet']",Stranger in a Strange Land.
+were,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+very,"['identical', 'real', 'selfsame', 'really', 'rattling', 'very']",Stranger in a Strange Land.
+bound,"['stick', 'bond', 'border', 'recoil', 'adhere', 'tie_down', 'constipate', 'hold_fast', 'limit', 'bandage', 'leap', 'resile', 'leaping', 'rebound', 'bounce', 'trammel', 'attach', 'saltation', 'articled', 'indentured', 'oblige', 'bandaged', 'confine', 'jump', 'hold', 'obligate', 'restrict', 'truss', 'restrain', 'bounds', 'bind', 'ricochet', 'spring', 'boundary', 'tie_up', 'take_a_hop', 'stick_to', 'apprenticed', 'tie', 'edge', 'reverberate', 'throttle', 'destined', 'bound']",Stranger in a Strange Land.
+verse,"['poetise', 'rhyme', 'poesy', 'poetize', 'verse_line', 'versify', 'verse', 'poetry']",Stranger in a Strange Land.
+Some,"['approximately', 'about', 'roughly', 'around', 'or_so', 'just_about', 'some', 'more_or_less', 'close_to']",Stranger in a Strange Land.
+is,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+(,[],Stranger in a Strange Land.
+vs,"['cinque', 'V', 'quintet', 'volt', 'vanadium', 'quint', 'quintuplet', 'Phoebe', 'five', 'atomic_number_23', 'fivesome', 'Little_Phoebe', 'pentad', 'fin', '5', 'v']",Stranger in a Strange Land.
+from,[],Stranger in a Strange Land.
+requisition,"['requisition', 'requisition_form', 'sequestration']",Stranger in a Strange Land.
+Assembly,"['gathering', 'forum', 'fabrication', 'assemblage', 'assembly', 'meeting_place']",Stranger in a Strange Land.
+eat,"['exhaust', 'deplete', 'eat_on', 'feed', 'use_up', 'corrode', 'consume', 'run_through', 'eat', 'wipe_out', 'eat_up', 'rust']",Stranger in a Strange Land.
+required,"['requisite', 'ask', 'necessitate', 'take', 'needed', 'mandatory', 'want', 'postulate', 'required', 'involve', 'compulsory', 'call_for', 'expect', 'needful', 'command', 'need', 'require', 'demand']",Stranger in a Strange Land.
+reconstruct,"['construct', 'remodel', 'redo', 'rebuild', 'reconstruct', 'restore', 'retrace']",Stranger in a Strange Land.
+quoted,"['cite', 'quote']",Stranger in a Strange Land.
+thought,"['think', 'sentiment', 'imagine', 'retrieve', 'view', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'thought', 'opine', 'intellection', 'mean', 'consider', 'suppose', 'intend', 'idea', 'believe', 'persuasion', 'remember', 'thought_process', 'recall', 'opinion', 'thinking', 'conceive', 'cerebrate', 'cerebration', 'mentation', 'call_back']",Stranger in a Strange Land.
+Greatness,"['sizeableness', 'immenseness', 'wideness', 'vastness', 'greatness', 'grandness', 'immensity', 'illustriousness', 'enormousness']",Stranger in a Strange Land.
+art,"['artwork', 'artistry', 'graphics', 'nontextual_matter', 'artistic_creation', 'prowess', 'artistic_production', 'art', 'fine_art']",Stranger in a Strange Land.
+help,"['helper', 'assistant', 'assist', 'help_oneself', 'service', 'serve', 'supporter', 'assistance', 'aid', 'avail', 'help', 'facilitate']",Stranger in a Strange Land.
+pieces,"['opus', 'nibble', 'while', 'slice', 'composition', 'tack', 'firearm', 'patch', 'put_together', 'set_up', 'piece', 'part', 'musical_composition', 'small-arm', 'man', 'art_object', 'assemble', 'tack_together', 'piece_of_music', 'bit', ""objet_d'art"", 'pick', 'spell']",Stranger in a Strange Land.
+unless,[],Stranger in a Strange Land.
+faction,"['camarilla', 'sect', 'faction', 'cabal', 'junto']",Stranger in a Strange Land.
+if,[],Stranger in a Strange Land.
+Hello,"['hi', 'howdy', 'hullo', 'hello', 'how-do-you-do']",Stranger in a Strange Land.
+stayed,"['persist', 'stick', 'rest', 'abide', 'continue', 'ride_out', 'stay', 'appease', 'stay_put', 'delay', 'stay_on', 'remain', 'stick_around', 'quell', 'detain', 'outride', 'last_out', 'bide']",Stranger in a Strange Land.
+violent,"['trigger-happy', 'fierce', 'vehement', 'violent', 'crimson', 'tearing', 'wild', 'red']",Stranger in a Strange Land.
+encounter,"['play', 'clash', 'run_into', 'find', 'receive', 'meeting', 'skirmish', 'encounter', 'happen', 'confrontation', 'brush', 'run_across', 'see', 'come_across', 'chance', 'bump', 'take_on', 'coming_upon', 'meet', 'showdown', 'face-off']",Stranger in a Strange Land.
+isn't,[],Stranger in a Strange Land.
+would,[],Stranger in a Strange Land.
+different,"['different', 'unlike', 'dissimilar']",Stranger in a Strange Land.
+Mount,"['rise', 'hop_on', 'climb_up', 'wax', 'bestride', 'go_up', 'put_on', 'mount_up', 'riding_horse', 'climb_on', 'jump_on', 'mount', 'ride', 'get_on', 'mountain', 'saddle_horse', 'setting', 'backing', 'climb']",Stranger in a Strange Land.
+Asleep,"['numb', 'benumbed', 'departed', 'at_rest', 'asleep', 'deceased', 'gone', 'at_peace']",Stranger in a Strange Land.
+conversations,['conversation'],Stranger in a Strange Land.
+Old,"['old', 'one-time', 'erstwhile', 'sure-enough', 'Old', 'former', 'sometime', 'quondam', 'honest-to-goodness', 'honest-to-god', 'onetime', 'older', 'previous']",Stranger in a Strange Land.
+pranha,[],Stranger in a Strange Land.
+your,[],Stranger in a Strange Land.
+himself,[],Stranger in a Strange Land.
+ours,[],Stranger in a Strange Land.
+shook,"['stir', 'judder', 'shook', 'shake_up', 'stimulate', 'sway', 'agitate', 'excite', 'rock', 'throw_off', 'shake_off', 'didder', 'escape_from', 'shake']",Stranger in a Strange Land.
+was,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'WA', 'Washington', 'make_up', 'Evergreen_State', 'live', 'represent', 'exist']",Stranger in a Strange Land.
+boy,"['son', 'boy', 'male_child']",Stranger in a Strange Land.
+gone,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'foregone', 'conk', 'proceed', 'hold_up', 'fit', 'bypast', 'run_low', 'bygone', 'done_for', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'at_rest', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'kaput', 'run', 'function', 'gone', 'at_peace', 'choke', 'drop_dead', 'departed', 'travel', 'blend', 'asleep', 'sound', 'pop_off', 'move', 'deceased', 'rifle', 'survive']",Stranger in a Strange Land.
+Popes,"['pontiff', 'Vicar_of_Christ', 'Pope', 'pope', 'Bishop_of_Rome', 'Catholic_Pope', 'Holy_Father', 'Roman_Catholic_Pope', 'Alexander_Pope']",Stranger in a Strange Land.
+telling,"['distinguish', 'singing', 'recount', 'say', 'order', 'secern', 'tattle', 'impressive', 'secernate', 'telltale', 'weighty', 'enjoin', 'severalise', 'separate', 'assure', 'cogent', 'differentiate', 'apprisal', 'revealing', 'recite', 'relation', 'tell_apart', 'notification', 'telling', 'severalize', 'evidence', 'tell', 'state', 'recounting', 'narrate']",Stranger in a Strange Land.
+performance,"['operation', 'public_presentation', 'carrying_out', 'functioning', 'execution', 'carrying_into_action', 'performance']",Stranger in a Strange Land.
+cherished,"['care_for', 'treasured', 'wanted', 'treasure', 'precious', 'hold_dear', 'cherish', 'cherished']",Stranger in a Strange Land.
+:,[],Stranger in a Strange Land.
+What,[],Stranger in a Strange Land.
+W.,[],Stranger in a Strange Land.
+discorporated,[],Stranger in a Strange Land.
+puzzle,"['teaser', 'stick', 'baffle', 'amaze', 'mystify', 'puzzler', 'bewilder', 'get', 'beat', 'perplex', 'vex', 'nonplus', 'mystifier', 'gravel', 'stupefy', 'pose', 'flummox', 'puzzle', 'dumbfound']",Stranger in a Strange Land.
+In,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",Stranger in a Strange Land.
+Class,"['course_of_instruction', 'classify', 'assort', 'form', 'category', 'grade', 'stratum', 'social_class', 'course', 'sort_out', 'separate', 'socio-economic_class', 'family', 'class', 'division', 'course_of_study', 'year', 'sort']",Stranger in a Strange Land.
+Christian,"['christian', 'Christian']",Stranger in a Strange Land.
+dark,"['sorry', 'sour', 'colored', 'gloomy', 'night', 'nighttime', 'saturnine', 'dark-skinned', 'sinister', 'glowering', 'disconsolate', 'blue', 'moody', 'drab', 'iniquity', 'dour', 'darkness', 'non-white', 'morose', 'dismal', 'black', 'glum', 'dingy', 'drear', 'sullen', 'wickedness', 'coloured', 'benighted', 'grim', 'dreary', 'dark', 'shadow', 'obscure']",Stranger in a Strange Land.
+``,[],Stranger in a Strange Land.
+service,"['armed_service', 'serving', 'divine_service', 'Service', 'overhaul', 'servicing', 'military_service', 'service', 'table_service', 'service_of_process', 'religious_service', 'avail', 'serve', 'Robert_William_Service', 'help', 'inspection_and_repair']",Stranger in a Strange Land.
+Jubal,[],Stranger in a Strange Land.
+ready,"['quick', 'cook', 'fix', 'make', 'ready', 'gear_up', 'prepare', 'set_up', 'set']",Stranger in a Strange Land.
+warts,"['wart', 'verruca']",Stranger in a Strange Land.
+batting,"['flutter', 'batten', 'drub', 'bat', 'cream', 'lick', 'batting', 'clobber', 'thrash']",Stranger in a Strange Land.
+puppyish,"['puppyish', 'puppylike']",Stranger in a Strange Land.
+purpose,"['design', 'aim', 'use', 'role', 'purport', 'resolve', 'intention', 'intent', 'purpose', 'determination', 'propose', 'function']",Stranger in a Strange Land.
+continued,"['stay', 'go_forward', 'keep', 'stay_on', 'proceed', 'cover', 'bear_on', 'carry_on', 'uphold', 'keep_on', 'go_along', 'continue', 'extend', 'go_on', 'retain', 'remain', 'persist_in', 'continued', 'preserve']",Stranger in a Strange Land.
+confirmation,"['ratification', 'confirmation', 'check', 'substantiation', 'verification']",Stranger in a Strange Land.
+read,"['understand', 'take', 'scan', 'read', 'say', 'register', 'record', 'learn', 'study', 'interpret', 'show', 'translate']",Stranger in a Strange Land.
+couldn't,[],Stranger in a Strange Land.
+worst,"['sorry', 'spoiled', 'worst', 'tough', 'defective', 'pip', 'unfit', 'unsound', 'rack_up', 'regretful', 'big', 'forged', 'mop_up', 'risky', 'spoilt', 'bad', 'whip', 'high-risk', 'speculative', 'uncollectible']",Stranger in a Strange Land.
+.,[],Stranger in a Strange Land.
+why,"['why', 'wherefore']",Stranger in a Strange Land.
+well,"['fountainhead', 'advantageously', 'wellspring', 'swell', 'well', 'easily', 'intimately', 'comfortably', 'considerably', 'good', 'substantially']",Stranger in a Strange Land.
+night,"['Nox', 'dark', 'night', 'nighttime', 'Night']",Stranger in a Strange Land.
+junior,"['Junior', 'next-to-last', 'Jnr', 'third-year', 'junior', 'Jr']",Stranger in a Strange Land.
+forget,"['block', 'leave', 'bury', 'forget', 'draw_a_blank', 'blank_out']",Stranger in a Strange Land.
+true,"['avowedly', 'true_up', 'unfeigned', 'confessedly', 'truthful', 'rightful', 'dead_on_target', 'genuine', 'dependable', 'honest', 'straight', 'reliable', 'true', 'on-key', 'admittedly', 'lawful']",Stranger in a Strange Land.
+wanted,"['require', 'want', 'cherished', 'treasured', 'need', 'desire', 'precious', 'wanted']",Stranger in a Strange Land.
+never,"[""ne'er"", 'never']",Stranger in a Strange Land.
+simultaneously,"['simultaneously', 'at_the_same_time']",Stranger in a Strange Land.
+took,"['accept', 'remove', 'take_in', 'contract', 'take_away', 'rent', 'read', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'consume', 'learn', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'contain', 'study', 'drive', 'ingest', 'make', 'take_aim', 'choose', 'select', 'convey', 'charter']",Stranger in a Strange Land.
+those,[],Stranger in a Strange Land.
+into,[],Stranger in a Strange Land.
+want,"['deprivation', 'deficiency', 'want', 'lack', 'privation', 'wish', 'wishing', 'need', 'desire', 'neediness', 'require']",Stranger in a Strange Land.
+magazine,"['powder_store', 'clip', 'cartridge_clip', 'mag', 'cartridge', 'magazine', 'powder_magazine', 'cartridge_holder', 'magazine_publisher']",Stranger in a Strange Land.
+elections,['election'],Stranger in a Strange Land.
+organs,"['electronic_organ', 'pipe_organ', 'Hammond_organ', 'reed_organ', 'variety_meat', 'organs', 'electric_organ', 'harmonium', 'organ']",Stranger in a Strange Land.
+helping,"['serving', 'assist', 'help_oneself', 'helping', 'serve', 'portion', 'aid', 'avail', 'help', 'facilitate']",Stranger in a Strange Land.
+concept,"['conception', 'construct', 'concept']",Stranger in a Strange Land.
+trance,"['enchant', 'entrance', 'bewitch', 'enamour', 'beguile', 'fascinate', 'captivate', 'becharm', 'enamor', 'trance', 'charm', 'enchantment', 'spell', 'catch', 'capture']",Stranger in a Strange Land.
+who,"['World_Health_Organization', 'WHO']",Stranger in a Strange Land.
+some,"['approximately', 'about', 'roughly', 'around', 'or_so', 'just_about', 'some', 'more_or_less', 'close_to']",Stranger in a Strange Land.
+has,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'HA', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'hour_angle', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",Stranger in a Strange Land.
+Same,"['Saami', 'Saame', 'Lapp', 'Sami', 'Lapplander', 'Same', 'same', 'like']",Stranger in a Strange Land.
+jealousy,"['green-eyed_monster', 'jealousy']",Stranger in a Strange Land.
+something,[],Stranger in a Strange Land.
+I,"['i', 'iodine', '1', 'single', 'iodin', 'unity', 'ane', 'one', 'ace', 'I', 'atomic_number_53']",Stranger in a Strange Land.
+His,[],Stranger in a Strange Land.
+poisoned,"['envenom', 'poison']",Stranger in a Strange Land.
+homesick,['homesick'],Stranger in a Strange Land.
+phrase,"['articulate', 'phrasal_idiom', 'phrase', 'formulate', 'musical_phrase', 'idiomatic_expression', 'word', 'give_voice', 'set_phrase', 'idiom']",Stranger in a Strange Land.
+an,"['Associate_in_Nursing', 'AN']",Stranger in a Strange Land.
+brought,"['work', 'institute', 'take', 'make_for', 'play', 'bestow', 'impart', 'add', 'bring_in', 'fetch', 'wreak', 'lend', 'bring', 'land', 'contribute', 'convey', 'get']",Stranger in a Strange Land.
+increased,"['increased', 'increase']",Stranger in a Strange Land.
+Sure,"['certainly', 'for_certain', 'surely', 'trusted', 'sure_as_shooting', 'certain', 'sure_enough', 'indisputable', 'sure', 'for_sure']",Stranger in a Strange Land.
+although,[],Stranger in a Strange Land.
+upset,"['perturbation', 'worried', 'broken', 'derangement', 'bowl_over', 'tip_over', 'discompose', 'overturn', 'discomfit', 'knock_over', 'disturbed', 'disordered', 'confused', 'distressed', 'trouble', 'upset', 'disturbance', 'tump_over', 'swage', 'turnover', 'disorder', 'turn_over', 'disconcert', 'overturned', 'untune', 'upturned', 'overthrow', 'disturb', 'disquieted']",Stranger in a Strange Land.
+heard,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'heard', 'get_wind', 'find_out']",Stranger in a Strange Land.
+others,[],Stranger in a Strange Land.
+pleased,"['please', 'pleased', 'delight', 'proud_of']",Stranger in a Strange Land.
+plenty,"['sight', 'flock', 'spate', 'mickle', 'plenteousness', 'stack', 'quite_a_little', 'plentifulness', 'tidy_sum', 'raft', 'plentitude', 'deal', 'pile', 'mess', 'mint', 'wad', 'slew', 'passel', 'hatful', 'lot', 'mass', 'plenitude', 'enough', 'heap', 'plenty', 'great_deal', 'muckle', 'pot', 'good_deal', 'batch', 'mountain', 'peck']",Stranger in a Strange Land.
+can,"['ass', 'tush', 'backside', 'give_the_sack', 'stern', 'bathroom', 'behind', 'canful', 'butt', 'nates', 'fundament', 'tail_end', 'privy', 'keister', 'send_away', 'dismiss', 'rear_end', 'fanny', 'give_the_axe', 'lav', 'potty', 'arse', 'john', 'fire', 'hindquarters', 'seat', 'rump', 'bottom', 'sack', 'throne', 'give_notice', 'rear', 'lavatory', 'displace', 'derriere', 'terminate', 'posterior', 'buttocks', 'can', 'can_buoy', 'pot', 'stool', 'crapper', 'buns', 'tail', 'tin', 'tooshie', 'commode', 'put_up', 'toilet', 'tin_can', 'force_out', 'hind_end', 'prat', 'bum']",Stranger in a Strange Land.
+lotus,"['genus_Lotus', 'Nelumbo_nucifera', 'white_lily', 'sacred_lotus', 'Indian_lotus', 'white_lotus', 'lotus', 'Nymphaea_lotus', 'Egyptian_water_lily', 'Lotus']",Stranger in a Strange Land.
+Part,"['take_off', 'region', 'section', 'parting', 'split_up', 'break', 'share', 'partly', 'character', 'split', 'office', 'break_up', 'contribution', 'start_out', 'percentage', 'separate', 'piece', 'part', 'depart', 'role', 'voice', 'theatrical_role', 'disunite', 'constituent', 'start', 'component_part', 'function', 'set_out', 'persona', 'component', 'set_forth', 'portion', 'division', 'partially', 'divide', 'set_off']",Stranger in a Strange Land.
+long,"['retentive', 'long', 'farseeing', 'recollective', 'longsighted', 'hanker', 'farsighted', 'tenacious', 'foresighted', 'yearn', 'prospicient', 'foresightful']",Stranger in a Strange Land.
+hungry,"['athirst', 'hungry', 'thirsty']",Stranger in a Strange Land.
+sell,"['sell', 'trade', 'deal', 'betray']",Stranger in a Strange Land.
+hear,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'get_wind', 'find_out']",Stranger in a Strange Land.
+night-sight,"['twilight_vision', 'scotopic_vision', 'night_vision', 'night-sight']",Stranger in a Strange Land.
+back,"['second', 'book_binding', 'hind', 'plunk_for', 'backrest', 'backward', 'stake', 'back_up', 'rearward', 'cover', 'vertebral_column', 'backbone', 'support', 'rear', 'bet_on', 'backwards', 'rachis', 'indorse', 'plump_for', 'dorsum', 'rearwards', 'game', 'binding', 'hinder', 'back', 'punt', 'endorse', 'gage', 'spine', 'spinal_column']",Stranger in a Strange Land.
+It's,[],Stranger in a Strange Land.
+alive,"['awake', 'active', 'animated', 'alive', 'live', 'alert']",Stranger in a Strange Land.
+coming,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'come_up', 'approaching', 'occur', 'orgasm', 'come', 'number', 'arrive', 'forthcoming', 'hail', 'fare', 'get', 'descend', 'advent', 'fall', 'total', 'issue_forth', 'upcoming', 'add_up', 'climax', 'do', 'follow', 'approach', 'sexual_climax', 'coming']",Stranger in a Strange Land.
+dead,"['drained', 'numb', 'idle', 'suddenly', 'beat', 'stagnant', 'utterly', 'short', 'deadened', 'abruptly', 'perfectly', 'all_in', 'bushed', 'utter', 'absolutely', 'dead']",Stranger in a Strange Land.
+foster,"['Stephen_Collins_Foster', 'further', 'nurture', 'Foster', 'surrogate', 'Stephen_Foster', 'foster']",Stranger in a Strange Land.
+I'll,[],Stranger in a Strange Land.

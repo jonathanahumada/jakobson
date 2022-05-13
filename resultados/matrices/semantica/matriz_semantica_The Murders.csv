@@ -1,0 +1,728 @@
+w,vector_semantico
+like,"['wish', 'like', 'corresponding', 'comparable', 'the_like', 'care', 'same', 'alike', 'ilk', 'similar', 'the_likes_of']",The Murders
+Then,"['then', 'and_so', 'so', 'and_then']",The Murders
+seen,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'run_into', 'interpret', 'date', 'take_care', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",The Murders
+join,"['get_together', 'connect', 'link', 'fall_in', 'join', 'bring_together', 'conjoin', 'articulation', 'link_up', 'union', 'unite', 'junction', 'sum', 'joint', 'juncture']",The Murders
+amusedly,[],The Murders
+I,"['ane', 'unity', 'single', '1', 'iodin', 'I', 'i', 'one', 'atomic_number_53', 'ace', 'iodine']",The Murders
+into,[],The Murders
+passed,"['overtake', 'make_it', 'exit', 'snuff_it', 'kick_the_bucket', 'overhaul', 'fleet', 'travel_by', 'slip_by', 'fall_out', 'egest', 'go_through', 'fall', 'go_by', 'occur', 'slide_by', 'clear', 'evanesce', 'draw', 'drop_dead', 'lapse', 'overstep', 'top', 'conk', 'give', 'devolve', 'go', 'pass_away', 'spend', 'decease', 'transcend', 'pass_on', 'expire', 'pop_off', ""cash_in_one's_chips"", 'return', 'glide_by', 'happen', 'excrete', 'give-up_the_ghost', 'take_place', 'croak', 'go_on', 'hand', 'go_across', 'elapse', 'pass_by', 'pass', 'guide', 'buy_the_farm', 'exceed', 'perish', 'authorize', 'put_across', 'choke', 'go_along', 'pass_along', 'come_about', 'extend', 'fade', 'lead', 'sink', 'blow_over', 'run', 'pass_off', 'die', 'communicate', 'legislate', 'hap', 'surpass', 'go_past', 'reach', 'slip_away', 'make_pass', 'eliminate', 'authorise', 'turn_over']",The Murders
+toward,[],The Murders
+split,"['divide', 'break_open', 'fragmented', 'schism', 'break_up', 'split', 'part', 'rip', 'burst', 'snag', 'disconnected', 'dissever', 'cleave', 'rent', 'carve_up', 'break', 'rive', 'stock_split', 'disunited', 'split_up', 'separate', 'tear', 'Split']",The Murders
+station,"['post', 'send', 'place', 'station']",The Murders
+poker,"['poker', 'salamander', 'fire_hook', 'poker_game', 'stove_poker']",The Murders
+We'd,[],The Murders
+Murder,"['mutilate', 'murder', 'dispatch', 'mangle', 'bump_off', 'off', 'slay', 'slaying', 'polish_off', 'remove', 'execution', 'hit']",The Murders
+So,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",The Murders
+floor,"['blow_out_of_the_water', 'coldcock', 'take_aback', 'storey', 'level', 'deck', 'flooring', 'story', 'trading_floor', 'shock', 'floor', 'dump', 'knock_down', 'ball_over', 'base']",The Murders
+been,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",The Murders
+end,"['close', 'end', 'terminal', 'finish', 'stop', 'last', 'conclusion', 'goal', 'final_stage', 'death', 'cease', 'ending', 'remainder', 'oddment', 'remnant', 'destruction', 'terminate', 'closing']",The Murders
+down,"['pile', 'blue', 'downcast', 'downhearted', 'land', 'kill', 'low-spirited', 'down_pat', 'consume', 'fine-tune', 'downwardly', 'dispirited', 'push_down', 'refine', 'polish', 'toss_off', 'knock_down', 'low', 'devour', 'down_feather', 'down', 'go_through', 'depressed', 'Down', 'grim', 'cut_down', 'shoot_down', 'pull_down', 'downward', 'drink_down', 'gloomy', 'bolt_down', 'John_L._H._Down', 'pop', 'belt_down', 'down_in_the_mouth', 'pour_down', 'downwards', 'mastered']",The Murders
+feel,"['feel', 'flavor', 'smell', 'experience', 'flavour', 'tone', 'sense', 'finger', 'palpate', 'find', 'feeling', 'spirit', 'tactile_property', 'look']",The Murders
+darkness,"['darkness', 'duskiness', 'wickedness', 'dark', 'iniquity', 'shadow', 'swarthiness']",The Murders
+waiting,"['wait', 'waitress', 'waiting', 'hold_off', 'await', 'hold_back', 'expect', 'ready_and_waiting', 'look']",The Murders
+discussed,"['hash_out', 'talk_over', 'talk_about', 'discourse', 'discuss']",The Murders
+fourteen,"['fourteen', '14', 'xiv', 'XIV']",The Murders
+ones,"['unity', 'single', '1', 'I', 'one', 'ace']",The Murders
+detailed,"['detailed', 'elaborated', 'detail', 'elaborate']",The Murders
+filling,"['make_full', 'replete', 'satiate', 'fulfill', 'occupy', 'fulfil', 'meet', 'filling', 'pick', 'satisfy', 'weft', 'fill', 'take', 'woof', 'sate', 'fill_up']",The Murders
+bat,"['drub', 'squash_racket', 'cream', 'at-bat', 'clobber', 'thrash', 'flutter', 'squash_racquet', 'bat', 'chiropteran', 'cricket_bat', 'lick']",The Murders
+Sure-sure,[],The Murders
+lighted,"['illumine', 'illume', 'alight', 'fall', 'ignite', 'well-lighted', 'light', 'illuminate', 'light_up', 'fire_up', 'illuminated', 'unhorse', 'get_off', 'lit', 'dismount', 'perch', 'get_down', 'lighted']",The Murders
+question,"['dubiousness', 'query', 'interrogation', 'inquiry', 'head', 'call_into_question', 'interrogate', 'enquiry', 'oppugn', 'doubtfulness', 'interrogative_sentence', 'doubt', 'interview', 'wonder', 'motion', 'question', 'interrogative']",The Murders
+known,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'known', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",The Murders
+A,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",The Murders
+game,"['gamy', 'bet_on', 'spunky', 'gage', 'halt', 'plot', 'spirited', 'crippled', 'back', 'gritty', 'gimpy', 'mettlesome', 'biz', 'stake', 'game', 'lame', 'gamey', 'secret_plan', 'punt', 'halting']",The Murders
+Maxine's,[],The Murders
+pocket,"['pocket', 'bag', 'air_pocket', 'sac', 'air_hole', 'sack', 'scoop', 'pouch']",The Murders
+'',[],The Murders
+window,"['window', 'windowpane']",The Murders
+himself,[],The Murders
+than,[],The Murders
+met,"['conform_to', 'touch', 'receive', 'come_across', 'assemble', 'gather', 'run_across', 'contact', 'fill', 'get_together', 'converge', 'play', 'cope_with', 'fulfill', 'encounter', 'satisfy', 'fit', 'take_on', 'foregather', 'run_into', 'suffer', 'forgather', 'match', 'fulfil', 'adjoin', 'see', 'meet']",The Murders
+opened,"['opened', 'give', 'afford', 'open', 'spread', 'open_up', 'spread_out', 'unfold']",The Murders
+prints,"['photographic_print', 'mark', 'print', 'impress', 'publish']",The Murders
+dead,"['deadened', 'bushed', 'numb', 'perfectly', 'dead', 'suddenly', 'beat', 'idle', 'utter', 'short', 'absolutely', 'stagnant', 'utterly', 'drained', 'abruptly', 'all_in']",The Murders
+would,[],The Murders
+grinned,['grin'],The Murders
+talked,"['peach', 'blab_out', 'babble_out', 'let_the_cat_out_of_the_bag', 'tattle', 'lecture', 'verbalize', 'spill', 'mouth', 'sing', 'verbalise', 'utter', 'babble', 'blab', 'talk', 'speak', 'spill_the_beans']",The Murders
+Besides,"['also', 'likewise', 'besides', 'as_well', 'too', 'in_any_case']",The Murders
+Manny,[],The Murders
+And,[],The Murders
+walked,"['walk', 'take_the_air']",The Murders
+I'd,[],The Murders
+across,"['across', 'crosswise', 'crossways']",The Murders
+as,"['adenine', 'group_A', 'arsenic', 'AS', 'angstrom_unit', 'As', 'as', 'Eastern_Samoa', 'angstrom', 'every_bit', 'a', 'ampere', 'type_A', 'axerophthol', 'atomic_number_33', 'vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'equally', 'amp', 'American_Samoa', 'antiophthalmic_factor']",The Murders
+book,"['Christian_Bible', 'account_book', 'Scripture', 'leger', 'hold', 'Quran', 'rule_book', 'record', 'book', 'Koran', 'Word', 'Book', 'Bible', 'record_book', 'script', 'volume', ""al-Qur'an"", 'ledger', 'Word_of_God', 'Holy_Writ', 'Holy_Scripture', 'reserve', 'book_of_account', 'playscript', 'Good_Book']",The Murders
+deep,"['thick', 'cryptical', 'inscrutable', 'rich', 'deeply', 'late', 'trench', 'mysterious', 'cryptic', 'mystifying', 'abstruse', 'deep', 'oceanic_abyss', 'bass', 'recondite']",The Murders
+talking,"['peach', 'blab_out', 'babble_out', 'let_the_cat_out_of_the_bag', 'tattle', 'lecture', 'verbalize', 'spill', 'talking', 'mouth', 'sing', 'verbalise', 'utter', 'babble', 'blab', 'talk', 'speak', 'spill_the_beans']",The Murders
+we've,[],The Murders
+they,[],The Murders
+cents,"['centime', 'penny', 'cent']",The Murders
+you,[],The Murders
+When,[],The Murders
+I've,[],The Murders
+exaggerating,"['hyperbolize', 'overstate', 'exaggerate', 'hyperbolise', 'overdraw', 'overdo', 'amplify', 'magnify']",The Murders
+How,[],The Murders
+plunge,"['dive', 'absorb', 'immerse', 'launch', 'plunge', 'steep', 'soak_up', 'dump', 'souse', 'engulf', 'douse', 'engross', 'dip', 'dunk', 'plunk']",The Murders
+bottle,"['nursing_bottle', 'feeding_bottle', 'bottleful', 'bottle']",The Murders
+at,"['At', 'atomic_number_85', 'astatine', 'at']",The Murders
+harder,"['laborious', 'gruelling', 'surd', 'tough', 'hard', 'concentrated', 'intemperate', 'heavy', 'grueling', 'firmly', 'punishing', 'operose', 'unvoiced', 'heavily', 'intemperately', 'severe', 'strong', 'difficult', 'knockout', 'arduous', 'severely', 'backbreaking', 'toilsome', 'voiceless']",The Murders
+doubt,"['dubiousness', 'uncertainty', 'incertitude', 'doubtfulness', 'doubt', 'dubiety', 'question']",The Murders
+took,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'carry', 'ingest', 'make', 'rent', 'shoot', 'assume', 'remove', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",The Murders
+decide,"['determine', 'decide', 'adjudicate', 'settle', ""make_up_one's_mind"", 'resolve']",The Murders
+much,"['a_good_deal', 'often', 'a_lot', 'a_great_deal', 'very_much', 'much', 'lots', 'practically']",The Murders
+turned,"['call_on', 'sour', 'change_by_reversal', 'wrench', 'plow', 'release', 'become', 'bend', 'flex', 'ferment', 'reverse', 'work', 'turn', 'off', 'move_around', 'turned', 'twist', 'change_state', 'plough', 'rick', 'deform', 'grow', 'wrick', 'sprain', 'turn_over']",The Murders
+One,"['ane', 'unitary', 'peerless', 'unity', 'single', 'unrivaled', 'unmatched', '1', 'one_and_only', 'unrivalled', 'I', 'unmatchable', 'i', 'one', 'nonpareil', 'ace', 'matchless']",The Murders
+if,[],The Murders
+together,"['together', 'unitedly', 'in_concert']",The Murders
+our,[],The Murders
+show-down,[],The Murders
+breath,"['hint', 'intimation', 'breather', 'breathing_space', 'breathing_spell', 'breath', 'breathing_place', 'breathing_time']",The Murders
+About,"['roughly', 'more_or_less', 'near', 'nigh', 'close_to', 'well-nigh', 'nearly', 'just_about', 'about', 'approximately', 'almost', 'or_so', 'astir', 'around', 'virtually', 'most', 'some']",The Murders
+the,[],The Murders
+telling,"['differentiate', 'narrate', 'assure', 'recite', 'telltale', 'secern', 'order', 'tattle', 'singing', 'impressive', 'secernate', 'state', 'severalize', 'notification', 'tell', 'cogent', 'relation', 'recount', 'recounting', 'distinguish', 'enjoin', 'tell_apart', 'telling', 'revealing', 'severalise', 'say', 'evidence', 'apprisal', 'weighty', 'separate']",The Murders
+There,"['on_that_point', 'at_that_place', 'in_that_location', 'in_that_respect', 'there', 'thither']",The Murders
+pockets,"['pocket', 'bag', 'air_pocket', 'sac', 'air_hole', 'sack', 'scoop', 'pouch']",The Murders
+which,[],The Murders
+Willy,[],The Murders
+meanwhile,"['interim', 'in_the_meantime', 'meanwhile', 'lag', 'meantime']",The Murders
+taken,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'carry', 'ingest', 'make', 'rent', 'shoot', 'assume', 'remove', 'interpreted', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'taken', 'take', 'have', 'acquire']",The Murders
+building,"['edifice', 'progress', 'make', 'ramp_up', 'build_up', 'establish', 'construct', 'construction', 'work_up', 'building', 'build']",The Murders
+swallow,"['swallow', 'bury', 'live_with', 'immerse', 'deglutition', 'accept', 'withdraw', 'eat_up', 'take_back', 'unsay', 'drink', 'get_down', 'swallow_up', 'sup']",The Murders
+step,"['gradation', 'step', 'whole_tone', 'whole_step', 'tread', 'stair', 'dance_step', 'pace', 'footstep', 'footfall', 'mistreat', 'stride', 'maltreat', 'tone', 'footprint', 'ill-treat', 'ill-use', ""stone's_throw"", 'abuse', 'measure', 'footmark']",The Murders
+clapped,"['applaud', 'acclaim', 'spat', 'clap']",The Murders
+candle,"['taper', 'cd', 'candle', 'standard_candle', 'wax_light', 'candela']",The Murders
+sure,"['sure_enough', 'for_sure', 'indisputable', 'surely', 'sure', 'trusted', 'certainly', 'for_certain', 'certain', 'sure_as_shooting']",The Murders
+thinking,"['thinking', 'cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'cerebration', 'consider', 'recall', 'call_back', 'think', 'recollect', 'intend', 'suppose', 'thought', 'intelligent', 'thought_process', 'imagine', 'reasoning', 'conceive', 'intellection', 'opine', 'call_up', 'believe', 'mentation']",The Murders
+slept,"['sleep', 'kip', ""log_Z's"", 'slumber', ""catch_some_Z's""]",The Murders
+Out,"['verboten', 'out', 'taboo', 'prohibited', 'knocked_out', 'come_out_of_the_closet', 'proscribed', 'kayoed', 'stunned', 'tabu', 'come_out', 'forbidden', 'away', 'extinct', ""KO'd""]",The Murders
+we're,[],The Murders
+wearing,"['jade', 'wearing', 'have_on', 'put_on', 'fall_apart', 'fag_out', 'wear_out', 'get_into', 'don', 'wear_upon', 'wear_thin', 'endure', 'wear_off', 'eroding', 'wearying', 'tire', 'assume', 'tire_out', 'wearing_away', 'tiring', 'hold_out', 'erosion', 'break', 'exhausting', 'bust', 'fag', 'wear_down', 'bear', 'weary', 'fatigue', 'eating_away', 'wear', 'outwear']",The Murders
+ago,"['agone', 'ago']",The Murders
+are,"['personify', 'equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'are', 'ar', 'represent', 'comprise']",The Murders
+wide,"['panoptic', 'encompassing', 'wide_of_the_mark', 'all-encompassing', 'across-the-board', 'all-inclusive', 'broad', 'blanket', 'all-embracing', 'widely', 'spacious', 'astray', 'wide-cut', 'extensive', 'full', 'wide', 'wide-eyed']",The Murders
+watermelon,"['watermelon_vine', 'Citrullus_vulgaris', 'watermelon']",The Murders
+It,"['IT', 'information_technology']",The Murders
+He'd,[],The Murders
+handed,"['pass_on', 'handed', 'pass', 'give', 'reach', 'hand', 'turn_over']",The Murders
+they'd,[],The Murders
+Solid,"['solid', 'firm', 'satisfying', 'hearty', 'self-coloured', 'upstanding', 'self-colored', 'substantial', 'solidness', 'unanimous', 'whole', 'strong', 'square', 'solid_state']",The Murders
+halfway,"['halfway', 'middle', 'midway', 'center']",The Murders
+sense,"['signified', 'sensory_faculty', 'feel', 'sentiency', 'smell', 'mother_wit', 'gumption', 'sensation', 'common_sense', 'sense', 'horse_sense', 'sentience', 'good_sense', 'smell_out']",The Murders
+second,"['instant', 'endorsement', 'bit', 's', 'sec', 'secondment', '2nd', 'secondly', 'minute', 'indorsement', 'second', 'endorse', 'back', 'indorse', 'irregular', 'mo', 'second_gear', 'second_base', 'arcsecond', 'moment', '2d']",The Murders
+habits,"['habit', 'wont', 'use', 'drug_abuse', 'riding_habit', 'substance_abuse']",The Murders
+over,"['complete', 'all_over', 'concluded', ""o'er"", 'ended', 'terminated', 'over']",The Murders
+any,"['any', 'whatsoever', 'whatever']",The Murders
+before,"['ahead', 'before', 'in_front', 'earlier']",The Murders
+somewhere,"['someplace', 'somewhere']",The Murders
+pieces,"['art_object', 'while', 'bit', 'assemble', 'patch', 'part', 'put_together', 'man', ""objet_d'art"", 'firearm', 'slice', 'nibble', 'opus', 'piece', 'musical_composition', 'spell', 'pick', 'composition', 'piece_of_music', 'set_up', 'tack_together', 'small-arm', 'tack']",The Murders
+didn't,[],The Murders
+every,['every'],The Murders
+sighed,"['sigh', 'suspire']",The Murders
+off,"['murder', 'sour', 'dispatch', 'bump_off', 'off', 'slay', 'polish_off', 'remove', 'cancelled', 'turned', 'away', 'hit', 'forth']",The Murders
+assume,"['usurp', 'put_on', 'get_into', 'take_over', 'simulate', 'adopt', 'don', 'accept', 'arrogate', 'seize', 'presume', 'assume', 'take_on', 'sham', 'take_for_granted', 'bear', 'take_up', 'strike', 'wear', 'feign', 'take', 'acquire']",The Murders
+:,[],The Murders
+lived,"['survive', 'last', 'inhabit', 'endure', 'experience', 'hold_up', 'know', 'dwell', 'be', 'exist', 'hold_out', 'live', 'go', 'populate', 'live_on', 'subsist']",The Murders
+heard,"['hear', 'discover', 'get_a_line', 'pick_up', 'learn', 'find_out', 'try', 'take_heed', 'get_wind', 'heard', 'listen', 'get_word', 'see']",The Murders
+change,"['convert', 'exchange', 'vary', 'alteration', 'alter', 'change', 'variety', 'modify', 'commute', 'shift', 'interchange', 'modification', 'transfer', 'switch', 'deepen']",The Murders
+You,[],The Murders
+Being,"['cost', 'existence', 'equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'being', 'beingness', 'organism', 'personify', 'represent', 'comprise']",The Murders
+more,"['More', 'to_a_greater_extent', 'Sir_Thomas_More', 'Thomas_More', 'more', 'more_than']",The Murders
+gave,"['pay', 'dedicate', 'impart', 'ease_up', 'fall_in', 'founder', 'devote', 'return', 'open', 'hold', 'feed', 'give', 'present', 'give_way', 'throw', 'cave_in', 'commit', 'consecrate', 'make', 'generate', 'yield', 'collapse', 'apply', 'grant', 'establish', 'gift', 'break', 'sacrifice', 'afford', 'kick_in', 'hand', 'reach', 'pass_on', 'chip_in', 'pass', 'contribute', 'move_over', 'leave', 'have', 'render', 'turn_over']",The Murders
+flat,"['savourless', 'two-dimensional', 'unconditional', 'directly', 'flavourless', 'flavorless', 'monotonous', 'flat_tire', 'level', 'matted', 'compressed', 'flatcar', 'insipid', 'prostrate', 'categorical', 'vapid', 'bland', 'plane', 'flatbed', '2-dimensional', 'matt', 'apartment', 'matte', 'savorless', 'straight', 'flat', 'mat', 'categoric', 'monotonic', 'monotone']",The Murders
+inflections,"['inflection', 'flexion', 'inflexion', 'prosody', 'modulation', 'flection']",The Murders
+He,"['helium', 'He', 'atomic_number_2', 'he']",The Murders
+got,"['bring_forth', 'pose', 'pay_off', 'receive', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'fix', 'flummox', 'pay_back', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",The Murders
+bout,"['round', 'bout', 'binge', 'tear', 'bust', 'turn']",The Murders
+other,"['other', 'early', 'former']",The Murders
+fumbled,"['blunder', 'bodge', 'ball_up', 'mishandle', 'grope', 'bobble', 'botch', 'fluff', 'bumble', 'foul_up', 'flub', 'mess_up', 'bollocks', 'fuck_up', 'botch_up', 'blow', 'muck_up', 'louse_up', 'fumble', 'muff', 'spoil', 'screw_up', 'bollix', 'bollocks_up', 'bungle', 'bollix_up']",The Murders
+be,"['Be', 'equal', 'constitute', 'glucinium', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'beryllium', 'cost', 'personify', 'represent', 'comprise', 'atomic_number_4']",The Murders
+rather,"['kind_of', 'instead', 'rather', 'sort_of', 'preferably', 'quite', 'kinda', 'sooner']",The Murders
+jug,"['put_away', 'incarcerate', 'imprison', 'gaol', 'jail', 'put_behind_bars', 'jugful', 'jug', 'immure', 'lag', 'remand']",The Murders
+way,"['mode', 'right_smart', 'direction', 'means', 'style', 'elbow_room', 'manner', 'fashion', 'path', 'way', 'way_of_life', 'room', 'agency']",The Murders
+dug,"['jab', 'cut_into', 'savvy', 'prod', 'dig', 'moil', 'apprehend', 'excavate', 'grok', 'toil', 'hollow', 'travail', 'drudge', 'poke', 'grind', 'compass', 'labor', 'get_the_picture', 'comprehend', 'grasp', 'fag', 'dig_up', 'dig_out', 'stab', 'turn_over', 'dug', 'labour', 'delve']",The Murders
+nodded,['nod'],The Murders
+again,"['once_again', 'again', 'once_more', 'over_again']",The Murders
+clockwork,['clockwork'],The Murders
+few,['few'],The Murders
+show,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'appearance', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'display', 'evidence', 'demo', 'render']",The Murders
+Charlie's,[],The Murders
+key,"['key', 'fundamental', 'Key', 'cardinal', 'tonality', 'Francis_Scott_Key', 'primal', 'name', 'discover', 'key_fruit', 'distinguish', 'central', 'headstone', 'identify', 'paint', 'keystone', 'key_out', 'samara', 'Florida_key', 'cay', 'winder', 'describe']",The Murders
+cinch,"['walkover', 'duck_soup', ""child's_play"", 'picnic', 'girth', 'snap', 'cinch', 'pushover', 'piece_of_cake', 'breeze']",The Murders
+jist,[],The Murders
+Seaton,[],The Murders
+order,"['parliamentary_procedure', 'parliamentary_law', 'regularise', 'purchase_order', 'ordination', 'dictate', 'order', 'monastic_order', 'ordering', 'lodge', 'rules_of_order', 'arrange', 'guild', 'tell', 'place', 'put', 'rate', 'ordain', 'social_club', 'Order', 'rank', 'govern', 'consecrate', 'society', 'club', 'rescript', 'prescribe', 'orderliness', 'order_of_magnitude', 'enjoin', 'Holy_Order', 'gild', 'edict', 'decree', 'fiat', 'grade', 'say', 'regularize', 'set_up', 'regulate', 'range', 'ordinate']",The Murders
+everything,[],The Murders
+bone,"['bone', 'ivory', 'off-white', 'os', 'drum', 'mug_up', 'swot_up', 'osseous_tissue', 'swot', 'cram', 'grind_away', 'debone', 'get_up', 'pearl', 'bone_up']",The Murders
+happened,"['materialize', 'pass_off', 'come_about', 'bump', 'pass', 'bechance', 'materialise', 'hap', 'take_place', 'go_on', 'encounter', 'find', 'chance', 'fall_out', 'befall', 'occur', 'happen']",The Murders
+Which,[],The Murders
+cover,"['compensate', 'natural_covering', 'top', 'spread_over', 'screen', 'encompass', 'overcompensate', 'incubate', 'covering_fire', 'cut_through', 'cross', 'report', 'enshroud', 'plow', 'track', 'extend', 'cover', 'binding', 'hide', 'overlay', 'wrap_up', 'screening', 'underwrite', 'cover_version', 'back', 'pass_over', 'breed', 'get_over', 'comprehend', 'embrace', 'book_binding', 'masking', 'concealment', 'cut_across', 'address', 'shroud', 'covert', 'cover_up', 'continue', 'cover_song', 'hatch', 'insure', 'deal', 'blanket', 'traverse', 'get_across', 'covering', 'cover_charge', 'handle', 'brood', 'treat']",The Murders
+hard,"['laborious', 'gruelling', 'surd', 'tough', 'hard', 'concentrated', 'intemperate', 'heavy', 'grueling', 'firmly', 'punishing', 'operose', 'unvoiced', 'heavily', 'intemperately', 'severe', 'strong', 'difficult', 'knockout', 'arduous', 'severely', 'backbreaking', 'toilsome', 'voiceless']",The Murders
+trace,"['hint', 'touch', 'tincture', 'ghost', 'hound', 'vestige', 'trace', 'retrace', 'decipher', 'tracing', 'follow', 'draw', 'hunt', 'shadow', 'delineate', 'line', 'describe', 'suggestion']",The Murders
+because,[],The Murders
+travel,"['locomote', 'journey', 'move', 'move_around', 'travel', 'change_of_location', 'go', 'traveling', 'trip', 'jaunt', 'locomotion', 'travelling']",The Murders
+virgin,"['virginal', 'vestal', 'Virgo', 'Virgo_the_Virgin', 'virgin', 'virtuous', 'pure', 'Virgin']",The Murders
+early,"['other', 'early_on', 'early', 'ahead_of_time', 'betimes', 'too_soon', 'former']",The Murders
+poem,"['poem', 'verse_form']",The Murders
+We,[],The Murders
+Colored,"['colorise', 'emblazon', 'color', 'color_in', 'gloss', 'colorful', 'biased', 'colored_person', 'colour', 'one-sided', 'coloured', 'colourize', 'colorize', 'dyed', 'dark', 'slanted', 'colored', 'discolor', 'dark-skinned', 'bleached', 'tinge', 'discolour', 'distort', 'colour_in', 'colourise', 'non-white']",The Murders
+bum,"['derriere', 'arse', 'ass', 'prat', 'hind_end', 'posterior', 'crummy', 'tail_end', 'chintzy', 'arse_about', 'dirty_dog', 'butt', 'nates', 'loafer', 'skunk', 'stern', 'cheesy', 'rear_end', 'so-and-so', 'backside', 'rump', 'lounge_about', 'mooch', 'git', 'rat', 'tail', 'bum_about', 'frig_around', 'sponge', 'loaf', 'cheap', 'rotter', 'lounge_around', 'tush', 'idler', 'grub', 'arse_around', 'fundament', 'puke', 'do-nothing', 'buttocks', 'buns', 'bum_around', 'loll', 'sleazy', 'scum_bag', ""waste_one's_time"", 'hindquarters', 'stinkpot', 'rear', 'tooshie', 'tramp', 'loll_around', 'behind', 'tinny', 'cadge', 'seat', 'punk', 'bottom', 'fanny', 'stinker', 'keister', 'layabout', 'fuck_off', 'hobo', 'crumb', 'can', 'lowlife', 'bum']",The Murders
+padded,"['embellish', 'trudge', 'cushioned', 'dramatise', 'slog', 'fill_out', 'padded', 'lard', 'pad', 'aggrandise', 'bolster', 'plod', 'blow_up', 'footslog', 'cushiony', 'tramp', 'dramatize', 'embroider', 'aggrandize']",The Murders
+shoulder,"['shoulder', 'berm', 'shoulder_joint', 'articulatio_humeri']",The Murders
+crack,"['quip', 'scissure', 'wisecrack', 'gap', 'offer', 'crack_up', 'tiptop', 'sally', 'break_up', 'crevice', 'first-rate', 'A-one', 'snap', 'shot', 'top-notch', 'go', 'ace', 'crack', 'fracture', 'tornado', 'cleft', 'collapse', 'fissure', 'cracking', 'tops', 'break', 'crack_cocaine', 'crock_up', 'topnotch', 'whirl', 'cranny', 'pass', 'chap', 'check', 'fling', 'break_through', 'super']",The Murders
+or,"['operating_theater', 'operating_theatre', 'surgery', 'Oregon', 'OR', 'operating_room', 'Beaver_State']",The Murders
+street,['street'],The Murders
+What,[],The Murders
+suggested,"['hint', 'indicate', 'advise', 'intimate', 'paint_a_picture', 'propose', 'suggest', 'evoke']",The Murders
+questioning,"['wondering', 'quizzical', 'call_into_question', 'interrogate', 'query', 'skeptical', 'oppugn', 'inquiring', 'speculative', 'questioning', 'doubting', 'wonder', 'inquisitive', 'sceptical', 'question', 'interview']",The Murders
+finger,"['digit', 'feel', 'finger', 'thumb', ""finger's_breadth"", 'fingerbreadth']",The Murders
+far,"['FAR', 'ALIR', 'Former_Armed_Forces', 'far', 'Army_for_the_Liberation_of_Rwanda', 'Interahamwe']",The Murders
+away,"['out', 'by', 'off', 'away', 'aside', 'outside', 'forth']",The Murders
+hours,"['minute', 'hour', '60_minutes', 'hours', 'time_of_day', 'hr']",The Murders
+empty,"['abandon', 'empty-bellied', 'evacuate', 'hollow', 'discharge', 'vacuous', 'void', 'vacate', 'empty']",The Murders
+nice,"['skillful', 'prissy', 'overnice', 'courteous', 'Nice', 'dainty', 'squeamish', 'gracious', 'decent', 'nice']",The Murders
+three,"['deuce-ace', 'trine', 'tercet', 'III', 'leash', 'trinity', 'troika', 'trey', 'ternion', 'trio', 'triplet', 'terzetto', '3', 'triad', 'ternary', 'three', 'threesome', 'tierce', 'iii']",The Murders
+here,"['here', 'Here', 'hither', 'Hera']",The Murders
+sat,"['baby-sit', 'sit_around', 'Sabbatum', 'Saturday', 'pose', 'seat', 'sit_down', 'model', 'Sat', 'posture', 'sit', 'ride']",The Murders
+hoping,"['hope', 'go_for', 'hop', 'desire', 'trust', 'skip', 'hop-skip']",The Murders
+never,"[""ne'er"", 'never']",The Murders
+evening,"['flush', 'eve', 'eventide', 'even', 'level', 'evening', 'even_out']",The Murders
+can't,[],The Murders
+knew,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",The Murders
+we,[],The Murders
+tiny,"['petite', 'bantam', 'flyspeck', 'tiny', 'midget', 'diminutive', 'lilliputian']",The Murders
+yourself,[],The Murders
+anyway,"['at_any_rate', 'in_any_event', 'anyway', 'anyhow', 'anyways', 'in_any_case']",The Murders
+get,"['bring_forth', 'pose', 'pay_off', 'receive', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'fix', 'flummox', 'pay_back', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",The Murders
+for,[],The Murders
+Right,"['compensate', 'veracious', 'flop', 'properly', 'rightfulness', 'powerful', 'decently', 'justly', 'correct', 'the_right_way', 'good', 'proper', 'mightily', 'aright', 'right-hand', 'redress', 'right_on', 'mighty', 'rightfield', 'decent', 'right_hand', 'right', 'ripe', 'right_wing', 'right_field', 'correctly', 'in_good_order', 'rectify']",The Murders
+except,"['demur', 'exclude', 'take_out', 'leave_out', 'omit', 'except', 'leave_off']",The Murders
+intact,"['integral', 'entire', 'intact', 'inviolate']",The Murders
+?,[],The Murders
+planned,"['be_after', 'project', 'design', 'aforethought', 'plotted', 'plan', 'planned', 'contrive']",The Murders
+see,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'run_into', 'interpret', 'date', 'take_care', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",The Murders
+house,"['family', 'business_firm', 'household', 'menage', 'theatre', 'put_up', 'star_sign', 'mansion', 'sign_of_the_zodiac', 'home', 'domiciliate', 'theater', 'firm', 'sign', 'planetary_house', 'house']",The Murders
+holding,"['holding', 'take_hold', 'entertain', 'hold_up', 'defy', 'defend', 'obligate', 'hold', 'confine', 'accommodate', 'book', 'bind', 'give', 'contain', 'oblige', 'view_as', 'keep_back', 'halt', 'sustain', 'throw', 'retain', 'belongings', 'harbour', 'keeping', 'support', 'prevail', 'declare', 'maintain', 'property', 'nurse', 'obtain', 'adjudge', 'take_for', 'go_for', 'hold_in', 'carry', 'moderate', 'make', 'curb', 'harbor', 'take', 'hold_back', 'retention', 'concur', 'guard', 'restrain', 'bear', 'reserve', 'admit', 'control', 'withstand', 'agree', 'keep', 'concord', 'check', 'arrest', 'have_got', 'deem', 'have', 'apply']",The Murders
+really,"['really', 'rattling', 'in_truth', 'truly', 'real', 'actually', 'very', 'genuinely']",The Murders
+Dig,"['jab', 'gibe', 'cut_into', 'savvy', 'prod', 'dig', 'moil', 'apprehend', 'excavate', 'excavation', 'grok', 'toil', 'shot', 'hollow', 'travail', 'drudge', 'slam', 'archeological_site', 'poke', 'grind', 'compass', 'labor', 'get_the_picture', 'shaft', 'comprehend', 'jibe', 'digging', 'fag', 'barb', 'dig_up', 'dig_out', 'grasp', 'delve', 'stab', 'labour', 'turn_over']",The Murders
+sleep,"['sleep', 'eternal_rest', 'nap', 'eternal_sleep', 'quietus', 'kip', 'rest', ""log_Z's"", 'slumber', ""catch_some_Z's"", 'sopor']",The Murders
+quiet,"['restrained', 'quietly', 'quieten', 'quiet', 'placid', 'hush', 'subdued', 'calm', 'smooth', 'tranquil', 'pipe_down', 'unruffled', 'lull', 'tranquillize', 'quiet_down', 'tranquility', 'silence', 'tranquillity', 'still', 'quiesce', 'tranquillise', 'tranquilize', 'placidity', 'serenity', 'repose', 'hushed', 'muted', 'calm_down']",The Murders
+better,"['proficient', 'sound', 'meliorate', 'easily', 'respectable', 'well', 'better', 'salutary', 'considerably', 'full', 'advantageously', 'serious', 'estimable', 'effective', 'in_effect', 'intimately', 'skilful', 'just', 'bettor', 'practiced', 'dear', 'good', 'best', 'adept', 'comfortably', 'punter', 'break', 'safe', 'amend', 'honest', 'near', 'ameliorate', 'skillful', 'right', 'unspoilt', 'expert', 'improve', 'ripe', 'undecomposed', 'unspoiled', 'substantially', 'secure', 'in_force', 'honorable', 'upright', 'dependable', 'wagerer', 'beneficial']",The Murders
+he,"['helium', 'He', 'atomic_number_2', 'he']",The Murders
+told,"['differentiate', 'narrate', 'assure', 'secernate', 'severalise', 'recount', 'state', 'severalize', 'say', 'evidence', 'recite', 'secern', 'order', 'distinguish', 'separate', 'tell', 'enjoin', 'tell_apart']",The Murders
+friends,"['champion', 'acquaintance', 'admirer', 'Quaker', 'friend', 'Friend', 'protagonist', 'ally', 'supporter', 'booster']",The Murders
+third,"['one-third', 'third_base', '3rd', 'tierce', 'third_gear', 'tertiary', 'thirdly', 'third']",The Murders
+couple,"['span', 'pair', 'yoke', 'twain', 'twin', 'mates', 'couple_on', 'couple', 'duo', 'pair_off', 'dyad', 'couple_up', 'copulate', 'duet', 'couplet', 'brace', 'twosome', 'duad', 'distich', 'match', 'mate', 'partner_off']",The Murders
+itself,[],The Murders
+bindle,[],The Murders
+weapon,"['weapon', 'weapon_system', 'artillery', 'arm']",The Murders
+you'd,[],The Murders
+tonight,"['this_night', 'tonight', 'this_evening']",The Murders
+expense,"['disbursement', 'expense', 'write_off', 'disbursal', 'write_down']",The Murders
+gets,"['bring_forth', 'pose', 'pay_off', 'receive', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'fix', 'flummox', 'pay_back', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",The Murders
+winos,"['drunk', 'inebriate', 'rummy', 'wino', 'drunkard', 'sot']",The Murders
+Young,"['Thomas_Young', 'immature', 'vernal', 'new', 'young', 'Young', 'Lester_Willis_Young', 'Whitney_Young', 'Pres_Young', 'Danton_True_Young', 'Whitney_Moore_Young_Jr.', 'Cy_Young', 'offspring', 'untested', 'unseasoned', 'Edward_Young', 'youthful', 'untried', 'Brigham_Young', 'Loretta_Young', 'youth']",The Murders
+Cosmo,[],The Murders
+visit,"['confab', 'confabulate', 'travel_to', 'chew_the_fat', 'chaffer', 'bring_down', 'chat', 'chatter', 'gossip', 'chitchat', 'jaw', 'inflict', 'visit', 'call_in', 'natter', 'chit-chat', 'shoot_the_breeze', 'impose', 'sojourn', 'call', 'inspect', 'claver', 'see']",The Murders
+moving,"['proceed', 'prompt', 'impress', 'travel', 'make_a_motion', 'act', 'go', 'run', 'moving', 'motivate', 'displace', 'actuate', 'incite', 'propel', 'locomote', 'affect', 'strike', 'move', 'be_active']",The Murders
+knocking,"['tap', 'knocking', 'criticise', 'bump', 'strike_hard', 'criticize', 'rap', 'pink', 'ping', 'knock', 'pick_apart']",The Murders
+bucks,"['hitch', 'clam', 'sawhorse', 'Buck', 'dollar', 'Pearl_Buck', 'vaulting_horse', 'charge', 'long_horse', 'shoot', 'one_dollar_bill', 'shoot_down', 'jerk', 'horse', 'sawbuck', 'Pearl_Sydenstricker_Buck', 'dollar_bill', 'buck', 'tear', 'go_against']",The Murders
+is,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",The Murders
+Git,"['skunk', 'crumb', 'puke', 'stinker', 'so-and-so', 'scum_bag', 'git', 'rat', 'bum', 'dirty_dog', 'stinkpot', 'lowlife', 'rotter']",The Murders
+death,"['end', 'expiry', 'last', 'death', 'dying', 'Death', 'destruction', 'demise', 'decease']",The Murders
+enemies,"['opposition', 'foe', 'enemy', 'foeman']",The Murders
+Same,"['Lapplander', 'like', 'same', 'Saami', 'Same', 'Saame', 'Lapp', 'Sami']",The Murders
+apartment,"['apartment', 'flat']",The Murders
+Nothing,"['zip', 'naught', 'nix', 'goose_egg', 'zippo', 'zilch', 'cipher', 'cypher', 'aught', 'nothing', 'zero', 'null', 'nil', 'nada']",The Murders
+till,"['boulder_clay', 'trough', 'public_treasury', 'cashbox', 'money_box', 'till']",The Murders
+only,"['solely', 'only', 'entirely', 'simply', 'solitary', 'lone', 'only_if', 'but', 'sole', 'just', 'alone', 'merely', 'exclusively', 'lonesome', 'only_when']",The Murders
+wait,"['wait', 'look', 'time_lag', 'waiting', 'hold_off', 'waitress', 'await', 'hold_back', 'expect', 'delay', 'postponement', 'hold']",The Murders
+Or,"['operating_theater', 'operating_theatre', 'surgery', 'Oregon', 'OR', 'operating_room', 'Beaver_State']",The Murders
+picture,"['image', 'motion_picture', 'pic', 'project', 'painting', 'delineation', 'show', 'word_picture', 'figure', 'word-painting', 'film', 'characterization', 'fancy', 'mental_picture', 'depict', 'exposure', 'movie', 'ikon', 'photo', 'picture_show', 'pictorial_matter', 'motion-picture_show', 'visualize', 'impression', 'envision', 'flick', 'scene', 'picture', 'characterisation', 'photograph', 'icon', 'moving_picture', 'video', 'visualise', 'moving-picture_show', 'render', 'see', 'depiction']",The Murders
+sure-sure,[],The Murders
+spread,"['bed_covering', 'scatter', 'bedcover', 'overspread', 'gap', 'open', 'fan_out', 'bedspread', 'disperse', 'spreading', 'banquet', 'propagate', 'facing_pages', 'go_around', 'broadcast', 'distribute', 'circulate', 'circularize', 'spreadhead', 'pass_around', 'cattle_ranch', 'ranch', 'paste', 'disseminate', 'cattle_farm', 'counterpane', 'spread_out', 'bed_cover', 'diffuse', 'circularise', 'outspread', 'feast', 'spread_head', 'dispersed', 'spread', 'unfold']",The Murders
+heartbeat,"['instant', 'flash', 'jiffy', 'trice', 'pulse', 'blink_of_an_eye', 'wink', 'twinkling', 'beat', 'pulsation', 'heartbeat', 'split_second', 'New_York_minute']",The Murders
+gauged,"['gauge', 'estimate', 'approximate', 'judge', 'guess']",The Murders
+some,"['roughly', 'more_or_less', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",The Murders
+afternoon,"['afternoon', 'good_afternoon']",The Murders
+domestic,"['domestic', 'domestic_help', 'house_servant', 'domesticated']",The Murders
+Kenneth,[],The Murders
+sound,"['legal', 'sound', 'profound', 'vocalize', 'strait', 'vocalise', 'level-headed', 'audio', 'heavy', 'well-grounded', 'go', 'voice', 'good', 'speech_sound', 'levelheaded', 'fathom', 'intelligent', 'effectual', 'auditory_sensation', 'phone', 'wakeless', 'healthy', 'reasoned']",The Murders
+wipe,"['pass_over', 'wipe', 'rub']",The Murders
+hour,"['minute', 'hour', '60_minutes', 'time_of_day', 'hr']",The Murders
+bit,"['number', 'bit', 'prick', 'fleck', 'minute', 'flake', 'second', 'seize_with_teeth', 'act', 'snatch', 'turn', 'spot', 'scrap', 'burn', 'mo', 'piece', 'morsel', 'sting', 'bite', 'chip', 'routine', 'moment']",The Murders
+went,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'go_bad', 'kick_the_bucket', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'travel', 'run_short', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'start', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'last', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'move']",The Murders
+matters,"['topic', 'issue', 'subject', 'matter', 'thing', 'weigh', 'affair', 'count']",The Murders
+nailed,"['blast', 'breeze_through', 'pinpoint', 'peg', 'pass_with_flying_colors', 'sweep_through', 'apprehend', 'complete', 'nail', 'boom', 'ace', 'nab', 'smash', 'collar', 'pick_up', 'nail_down', 'cop', 'sail_through', 'arrest']",The Murders
+mine,['mine'],The Murders
+borderline,"['mete', 'boundary_line', 'border', 'borderline', 'delimitation', 'marginal']",The Murders
+bus,"['bus_topology', 'jitney', 'passenger_vehicle', 'charabanc', 'busbar', 'autobus', 'motorbus', 'jalopy', 'heap', 'omnibus', 'bus', 'double-decker', 'coach', 'motorcoach']",The Murders
+an,"['Associate_in_Nursing', 'AN']",The Murders
+boards,"['plug-in', 'table', 'display_panel', 'boards', 'add-in', 'circuit_card', 'control_panel', 'gameboard', 'control_board', 'instrument_panel', 'dining_table', 'get_on', 'card', 'plank', 'panel', 'board', 'room', 'display_board', 'circuit_board']",The Murders
+want,"['privation', 'neediness', 'wish', 'deficiency', 'need', 'want', 'desire', 'wishing', 'require', 'lack', 'deprivation']",The Murders
+all,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",The Murders
+On,"['on', 'along']",The Murders
+two,"['deuce', 'two', 'II', 'ii', '2']",The Murders
+capacity,"['capability', 'mental_ability', 'content', 'capacity', 'capacitance', 'electrical_capacity']",The Murders
+To,[],The Murders
+boy,"['male_child', 'boy', 'son']",The Murders
+bread,"['wampum', 'loot', 'clams', 'cabbage', 'kale', 'bread', 'breadstuff', 'dough', 'moolah', 'lolly', 'simoleons', 'lettuce', 'dinero', 'lucre', 'staff_of_life', 'scratch', 'pelf', 'sugar', 'gelt', 'shekels', 'boodle']",The Murders
+Larry,[],The Murders
+go,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'offer', 'go_bad', 'kick_the_bucket', 'hug_drug', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'ecstasy', 'travel', 'run_short', 'Adam', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'crack', 'XTC', 'cristal', 'turn', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'spell', 'start', 'X', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'whirl', 'go_game', 'last', 'disco_biscuit', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'fling', 'move', 'tour']",The Murders
+just,"['good', 'only', 'exactly', 'merely', 'simply', 'scarcely', 'just', 'barely', 'scarce', 'fair', 'but', 'precisely', 'upright', 'equitable', 'hardly', 'just_now']",The Murders
+body,"['personify', 'consistency', 'physical_structure', 'eubstance', 'trunk', 'soundbox', 'body', 'organic_structure', 'torso', 'dead_body', 'consistence']",The Murders
+remaining,"['stay', 'persist', 'remain', 'continue', 'left_over', 'rest', 'left', 'leftover', 'odd', 'remaining', 'unexpended', 'stay_on']",The Murders
+play,"['frolic', ""child's_play"", 'sport', 'playact', 'manoeuvre', 'gambol', 'diddle', 'caper', 'make_for', 'spiel', 'act_as', 'trifle', 'looseness', 'act', 'run', 'work', 'bet', 'dally', 'wreak', 'turn', 'play', 'wager', 'drama', 'dramatic_play', 'flirt', 'swordplay', 'period_of_play', 'free_rein', 'encounter', 'bid', 'take_on', 'represent', 'bring', 'playing_period', 'gaming', 'roleplay', 'romp', 'gambling', 'fun', 'recreate', 'shimmer', 'maneuver', 'toy', 'fiddle', 'meet']",The Murders
+Listen,"['hear', 'mind', 'take_heed', 'heed', 'listen']",The Murders
+jazz,"['fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'idle_words', 'sleep_with', 'have_intercourse', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'nothingness', 'wind', 'bonk', 'malarkey', 'be_intimate', 'lie_with', 'screw', 'hump', 'malarky', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it']",The Murders
+a,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",The Murders
+asked,"['inquire', 'call_for', 'enquire', 'involve', 'need', 'take', 'expect', 'postulate', 'ask', 'require', 'demand', 'necessitate']",The Murders
+dusting,"['dust', 'dot', 'scatter', 'disperse', 'sprinkle']",The Murders
+danger,"['peril', 'danger', 'risk']",The Murders
+taverns,"['tavern', 'tap_house']",The Murders
+tore,"['torus', 'pull', 'shoot', 'snap', 'shoot_down', 'charge', 'buck', 'pluck', 'rupture', 'tore', 'displume', 'tear', 'bust', 'deplumate', 'deplume']",The Murders
+one,"['ane', 'unitary', 'peerless', 'unity', 'single', 'unrivaled', 'unmatched', '1', 'one_and_only', 'unrivalled', 'I', 'unmatchable', 'i', 'one', 'nonpareil', 'ace', 'matchless']",The Murders
+crate,"['crate', 'crateful']",The Murders
+guy,"['rib', 'jest_at', 'bozo', 'ridicule', 'laugh_at', 'Guy', 'guy_cable', 'roast', 'hombre', 'guy_wire', 'guy_rope', 'cat', 'guy', 'make_fun', 'poke_fun', 'blackguard']",The Murders
+cold,"['dusty', 'low_temperature', 'frigidness', 'cold-blooded', 'common_cold', 'frigid', 'insensate', 'frigidity', 'stale', 'inhuman', 'coldness', 'moth-eaten', 'cold']",The Murders
+town,"['township', 'townsfolk', 'townspeople', 'Ithiel_Town', 'Town', 'town']",The Murders
+sooner,"['Sooner', 'earlier', 'rather', 'preferably', 'Oklahoman', 'sooner']",The Murders
+position,"['billet', 'status', 'pose', 'perspective', 'lieu', 'posture', 'post', 'military_position', 'set', 'side', 'lay', 'stance', 'attitude', 'locating', 'place', 'situation', 'put', 'spot', 'positioning', 'emplacement', 'berth', 'spatial_relation', 'view', 'stead', 'position', 'office', 'placement', 'location']",The Murders
+plans,"['be_after', 'architectural_plan', 'project', 'programme', 'program', 'plan', 'contrive', 'design']",The Murders
+day,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'daytime', 'Day', 'twenty-four_hour_period', '24-hour_interval', 'Clarence_Shepard_Day_Jr.']",The Murders
+rainy,"['rainy', 'showery']",The Murders
+thunk,['thunk'],The Murders
+unrolled,"['unfurl', 'wind_off', 'unroll', 'unwind']",The Murders
+Thinking,"['thinking', 'cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'cerebration', 'consider', 'recall', 'call_back', 'think', 'recollect', 'intend', 'suppose', 'thought', 'intelligent', 'thought_process', 'imagine', 'reasoning', 'conceive', 'intellection', 'opine', 'call_up', 'believe', 'mentation']",The Murders
+sherry,['sherry'],The Murders
+moment,"['minute', 'instant', 'import', 'mo', 'bit', 'here_and_now', 'second', 'consequence', 'moment', 'present_moment']",The Murders
+If,[],The Murders
+coin,"['coin', 'strike', 'mint']",The Murders
+ridiculous,"['pathetic', 'ludicrous', 'ridiculous', 'preposterous', 'farcical', 'nonsensical', 'cockeyed', 'derisory', 'laughable', 'absurd', 'silly', 'idiotic']",The Murders
+along,"['on', 'along']",The Murders
+memorized,"['learn', 'memorise', 'memorize', 'con']",The Murders
+once,"['erstwhile', 'in_one_case', 'one_time', 'at_one_time', 'once', 'erst', 'formerly']",The Murders
+Wells's,[],The Murders
+reason,"['argue', 'rationality', 'intellect', 'ground', 'reasonableness', 'grounds', 'conclude', 'reason_out', 'understanding', 'reason', 'cause']",The Murders
+drink,"['swallow', 'booze', 'drink_in', 'deglutition', 'pledge', 'drink', 'salute', 'potable', 'drinkable', 'tope', 'wassail', 'boozing', 'imbibe', 'beverage', 'crapulence', 'drinking', 'fuddle', 'toast', 'drunkenness']",The Murders
+habitat,"['habitat', 'home_ground']",The Murders
+reassured,"['reassured', 'assure', 'reassure']",The Murders
+Lemon,"['lemon_yellow', 'stinker', 'Citrus_limon', 'gamboge', 'lemon', 'maize', 'lemon_tree']",The Murders
+triple-checked,[],The Murders
+twice,"['doubly', 'double', 'twice']",The Murders
+painted,"['piebald', 'pied', 'multicolour', 'paint', 'multi-colour', 'particoloured', 'varicolored', 'varicoloured', 'multi-color', 'multicolor', 'multicolored', 'multicoloured', 'motley', 'particolored', 'multi-colored', 'calico', 'painted', 'multi-coloured']",The Murders
+intervals,"['interval', 'separation', 'musical_interval', 'time_interval']",The Murders
+set,"['pose', 'localize', 'plant', 'hardening', 'hardened', 'solidifying', 'fructify', 'go_down', 'determine', 'prepare', 'rig', 'jell', 'set', 'Set', 'specify', 'localise', 'correct', 'go_under', 'mark', 'do', 'fixed', 'Seth', 'coiffe', 'coiffure', 'lay', 'arrange', 'sic', 'band', 'ready', 'countersink', 'adjust', 'curing', 'congeal', 'place', 'put', 'dictated', 'located', 'primed', 'limit', 'dress', 'lot', 'fix', 'fit', 'exercise_set', 'typeset', 'coif', 'readiness', 'gear_up', 'bent', 'position', 'rigid', 'situated', 'define', 'laid', 'placed', 'solidification', 'set_up', 'stage_set', 'lay_out', 'determined', 'circle']",The Murders
+weren't,[],The Murders
+Winsett,[],The Murders
+won't,[],The Murders
+Gloves,"['baseball_mitt', 'boxing_glove', 'mitt', 'glove', 'baseball_glove']",The Murders
+City,"['metropolis', 'city', 'urban_center']",The Murders
+after,"['subsequently', 'later', 'later_on', 'afterward', 'after', 'afterwards']",The Murders
+mattered,"['weigh', 'count', 'matter']",The Murders
+work,"['act_upon', 'puzzle_out', 'sour', 'crop', 'mold', 'study', 'influence', 'make_for', 'function', 'cultivate', 'body_of_work', 'shape', 'act', 'work', 'go', 'run', 'wreak', 'form', 'forge', 'knead', 'figure_out', 'piece_of_work', 'play', 'lick', 'turn', 'operate', 'make', 'put_to_work', 'mould', 'work_out', 'oeuvre', 'exercise', 'solve', 'bring', 'workplace', 'work_on', 'exploit', 'employment', 'do_work', 'ferment', 'process']",The Murders
+working,"['act_upon', 'puzzle_out', 'sour', 'crop', 'operative', 'mold', 'influence', 'make_for', 'function', 'cultivate', 'shape', 'act', 'work', 'go', 'run', 'working', 'wreak', 'form', 'forge', 'knead', 'figure_out', 'play', 'lick', 'turn', 'operate', 'make', 'mould', 'work_out', 'functional', 'exercise', 'workings', 'solve', 'bring', 'work_on', 'running', 'exploit', 'on_the_job', 'do_work', 'put_to_work', 'ferment', 'process']",The Murders
+her,[],The Murders
+six,"['six', 'half_a_dozen', 'sextet', 'VI', 'half_dozen', 'sextuplet', 'vi', 'hexad', 'six-spot', 'half-dozen', 'sise', 'sixer', '6', 'sestet', 'Captain_Hicks']",The Murders
+out,"['verboten', 'out', 'taboo', 'prohibited', 'knocked_out', 'come_out_of_the_closet', 'proscribed', 'kayoed', 'stunned', 'tabu', 'come_out', 'forbidden', 'away', 'extinct', ""KO'd""]",The Murders
+shook,"['shake', 'shook', 'judder', 'shake_up', 'stir', 'didder', 'excite', 'escape_from', 'sway', 'stimulate', 'agitate', 'shake_off', 'throw_off', 'rock']",The Murders
+",",[],The Murders
+set-up,[],The Murders
+unpadded,[],The Murders
+Nice,"['skillful', 'prissy', 'overnice', 'courteous', 'Nice', 'dainty', 'squeamish', 'gracious', 'decent', 'nice']",The Murders
+background,"['background_signal', 'backdrop', 'backcloth', 'ground', 'background_knowledge', 'setting', 'downplay', 'background', 'desktop', 'scope', 'play_down', 'screen_background']",The Murders
+days,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'Clarence_Shepard_Day_Jr.', 'daytime', 'Day', 'days', 'twenty-four_hour_period', '24-hour_interval', 'years']",The Murders
+otherwise,"['differently', 'other_than', 'otherwise']",The Murders
+cause,"['grounds', 'effort', 'causal_agent', 'crusade', 'reason', 'movement', 'induce', 'do', 'stimulate', 'causal_agency', 'make', 'suit', 'lawsuit', 'drive', 'cause', 'case', 'get', 'campaign', 'causa', 'have']",The Murders
+stay,"['stoppage', 'last_out', 'persist', 'remain', 'hitch', 'stick', 'stop', 'halt', 'stay_put', 'detain', 'delay', 'abide', 'outride', 'bide', 'appease', 'ride_out', 'stay', 'continue', 'quell', 'rest', 'check', 'arrest', 'stick_around', 'stay_on']",The Murders
+Good,"['proficient', 'sound', 'respectable', 'well', 'salutary', 'full', 'serious', 'estimable', 'effective', 'in_effect', 'commodity', 'skilful', 'just', 'dear', 'practiced', 'good', 'adept', 'thoroughly', 'safe', 'trade_good', 'honest', 'near', 'goodness', 'skillful', 'right', 'unspoilt', 'expert', 'ripe', 'undecomposed', 'unspoiled', 'secure', 'in_force', 'soundly', 'honorable', 'upright', 'dependable', 'beneficial']",The Murders
+scene,"['scene', 'aspect', 'prospect', 'tantrum', 'picture', 'setting', 'vista', 'shot', 'view', 'fit', 'panorama', 'conniption', 'scenery']",The Murders
+!,[],The Murders
+leaning,"['be_given', 'canted', 'incline', 'tend', 'tip', 'tendency', 'lean', 'run', 'tilted', 'tipped', 'angle', 'atilt', 'list', 'slant', 'leaning', 'propensity', 'proclivity', 'tilt', 'inclination']",The Murders
+burning,"['burning_at_the_stake', 'incinerate', 'burn', 'burning', 'cut', 'burn_off', 'glow', 'electrocution', 'burn_up', 'cauterise', 'burn_down', 'cauterize', 'sting', 'sunburn', 'combustion', 'fire', 'bite', 'combust']",The Murders
+kayo,"['KO', 'kayo', 'knock_out', 'knock_cold', 'knockout']",The Murders
+match,"['peer', 'pair', 'touch', 'gibe', 'twin', 'mates', 'catch', 'rival', 'lucifer', 'couple', 'friction_match', 'equalize', 'equal', 'cope_with', 'tally', 'oppose', 'compeer', 'fit', 'correspond', 'jibe', 'match', 'pit', 'equate', 'equalise', 'mate', 'agree', 'check', 'play_off', 'meet']",The Murders
+deal,"['spate', 'contend', 'administer', 'good_deal', 'dole_out', 'wad', 'pile', 'batch', 'mountain', 'mint', 'allot', 'look_at', 'mete_out', 'hatful', 'heap', 'plenty', 'parcel_out', 'conduct', 'plow', 'business_deal', 'trade', 'flock', 'portion_out', 'manage', 'cover', 'peck', 'dish_out', 'consider', 'grapple', 'distribute', 'great_deal', 'make_out', 'tidy_sum', 'make_do', 'shell_out', 'pot', 'deal_out', 'mickle', 'divvy_up', 'lot', 'mess', 'raft', 'muckle', 'carry_on', 'cope', 'hand', 'mass', 'stack', 'quite_a_little', 'address', 'apportion', 'slew', 'passel', 'care', 'deal', 'softwood', 'dispense', 'sight', 'bargain', 'get_by', 'share', 'take', 'handle', 'sell', 'treat']",The Murders
+blanket,"['panoptic', 'encompassing', 'cover', 'across-the-board', 'mantle', 'all-encompassing', 'all-inclusive', 'broad', 'blanket', 'all-embracing', 'extensive', 'wide']",The Murders
+broke,"['divulge', 'better', 'demote', 'split', 'unwrap', 'snap_off', 'stop', 'give_way', 'ruin', 'bump', 'reveal', 'stony-broke', 'break', 'bust', 'break_out', 'bankrupt', 'soften', 'bring_out', 'break_down', 'offend', 'part', 'give', 'come_apart', 'go', 'get_out', 'break_away', 'develop', 'give_away', 'infract', 'expose', 'interrupt', 'intermit', 'violate', 'split_up', 'wear', 'give_out', 'check', 'breach', 'founder', 'discontinue', 'dampen', 'stone-broke', 'burst', 'let_out', 'break_dance', 'break-dance', 'disclose', 'fracture', 'collapse', 'fail', 'weaken', 'broke', 'fall_in', 'break_in', 'go_bad', 'fall_apart', 'wear_out', 'break_up', 'break_off', 'cave_in', 'erupt', 'crack', 'transgress', 'discover', 'smash', 'die', 'pause', 'conk_out', 'let_on', 'damp', 'relegate', 'kick_downstairs', 'recrudesce', 'get_around', 'separate', 'skint', 'go_against']",The Murders
+Less,"['LE', 'lupus_erythematosus', 'to_a_lesser_extent', 'less']",The Murders
+lend,"['loan', 'impart', 'contribute', 'bestow', 'lend', 'add', 'bring']",The Murders
+Here's,[],The Murders
+final,"['concluding', 'terminal', 'net', 'last', 'final_examination', 'final', 'final_exam']",The Murders
+mileage,"['fuel_consumption_rate', 'gasoline_mileage', 'mileage', 'milage', 'gas_mileage']",The Murders
+him,[],The Murders
+swung,"['drop', 'dangle', 'get_around', 'sway', 'swing_over', 'swing_out', 'sweep', 'swing']",The Murders
+maybe,"['maybe', 'perhaps', 'mayhap', 'possibly', 'peradventure', 'perchance']",The Murders
+men,"['men', 'Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'work_force', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'workforce', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'manpower', 'human', 'human_being', 'military_personnel', 'valet', 'hands']",The Murders
+chord,"['chord', 'harmonise', 'harmonize']",The Murders
+scoop,"['liquid_ecstasy', 'scoop', 'easy_lay', 'outdo', 'trump', 'scoop_up', 'soap', 'Georgia_home_boy', 'best', 'outflank', 'exclusive', 'scoopful', 'max', 'grievous_bodily_harm', 'scoop_shovel', 'pocket', 'take_up', 'goop', 'scoop_out', 'lift_out']",The Murders
+swap,"['trade', 'swap', 'barter', 'swop', 'switch']",The Murders
+sister,"['baby', 'sis', 'Sister', 'sister', 'babe']",The Murders
+my,[],The Murders
+there,"['on_that_point', 'at_that_place', 'in_that_location', 'in_that_respect', 'there', 'thither']",The Murders
+Patchen's,[],The Murders
+several,"['various', 'respective', 'several']",The Murders
+lead,"['precede', 'top', 'atomic_number_82', 'conduce', 'lead-in', 'chair', 'conduct', 'track', 'principal', 'tip', 'extend', 'lead', 'steer', 'confidential_information', 'leash', 'result', 'star', 'run', 'jumper_cable', 'go', 'pencil_lead', 'spark_advance', 'lead_story', 'head', 'moderate', 'wind', 'lede', 'trail', 'hint', 'tether', 'direct', 'jumper_lead', 'Pb', 'guide', 'pass', 'contribute', 'leading', 'booster_cable', 'leave', 'take']",The Murders
+his,[],The Murders
+wall,"['rampart', 'wall', 'palisade', 'fence_in', 'fence', 'paries', 'surround', 'bulwark']",The Murders
+comfortable,"['easy', 'well-heeled', 'well-off', 'comfortable', 'well-fixed', 'prosperous', 'well-to-do', 'well-situated', 'comfy']",The Murders
+Kid,"['Kyd', 'nestling', 'fry', 'banter', 'tyke', 'youngster', 'Thomas_Kid', 'josh', 'Kid', 'child', 'kid', 'Thomas_Kyd', 'small_fry', 'nipper', 'shaver', 'jolly', 'tiddler', 'kidskin', 'minor', 'pull_the_leg_of', 'tike', 'chaff']",The Murders
+touched,"['come_to', 'touch', 'stir', 'tint', 'disturb', 'rival', 'relate', 'impact', 'have-to_doe_with', 'stirred', 'contact', 'touched', 'equal', 'extend_to', 'fey', 'partake', 'tinct', 'pertain', 'touch_on', 'moved', 'refer', 'allude', 'affected', 'reach', 'concern', 'advert', 'affect', 'bear_upon', 'match', 'bear_on', 'tinge', 'adjoin', 'meet']",The Murders
+wine,"['wine-coloured', 'wine-colored', 'vino', 'wine']",The Murders
+blowing,"['bodge', 'ball_up', 'mishandle', 'boast', 'bobble', 'botch', 'suck', 'fluff', 'squander', 'bumble', 'burn_out', 'foul_up', 'blow_out', 'tout', 'fellate', 'flub', 'mess_up', 'bollocks', 'fuck_up', 'blowing', 'waste', 'shove_along', 'bluster', 'botch_up', 'brag', 'blow', 'swash', 'muck_up', 'go_down_on', 'louse_up', 'drift', 'fumble', 'shoot_a_line', 'gasconade', 'muff', 'spoil', 'screw_up', 'bollix', 'bollocks_up', 'shove_off', 'vaunt', 'be_adrift', 'float', 'bungle', 'bollix_up', 'gas']",The Murders
+A.M.,"['a.m.', 'A.M.', 'ante_meridiem']",The Murders
+another's,[],The Murders
+on,"['on', 'along']",The Murders
+back,"['rearward', 'bet_on', 'hinder', 'binding', 'cover', 'gage', 'plump_for', 'back_up', 'second', 'backwards', 'support', 'endorse', 'backrest', 'back', 'indorse', 'backbone', 'vertebral_column', 'hind', 'spinal_column', 'stake', 'rachis', 'book_binding', 'rear', 'game', 'punt', 'backward', 'dorsum', 'rearwards', 'plunk_for', 'spine']",The Murders
+score,"['grievance', 'sexual_conquest', 'nock', 'mark', 'tally', 'make', 'rack_up', 'grade', 'grudge', 'scotch', 'seduce', 'musical_score', 'hit', 'account', 'score']",The Murders
+had,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'have_got', 'take', 'have']",The Murders
+week,"['workweek', 'hebdomad', 'week', 'calendar_week']",The Murders
+ourselves,[],The Murders
+he'd,[],The Murders
+even,"['flush', 'eve', 'eventide', 'even', 'regular', 'level', 'evening', 'yet', 'tied', 'still', 'fifty-fifty', 'even_out']",The Murders
+hypothetical,"['supposititious', 'hypothetical', 'suppositional', 'conjectural', 'divinatory', 'hypothetic', 'supposed', 'suppositious']",The Murders
+deserted,"['desolate', 'abandon', 'deserted', 'derelict', 'desert', 'abandoned', 'forsake', 'defect']",The Murders
+straw,"['drinking_straw', 'wheat', 'husk', 'straw', 'stubble', 'chaff', 'stalk', 'shuck', 'pale_yellow', 'strew']",The Murders
+left,"['impart', 'left_wing', 'exit', 'allow', 'left-hand', 'pull_up_stakes', 'leftfield', 'result', 'lead', 'entrust', 'left_field', 'will', 'give', 'forget', 'leftover', 'remaining', 'unexpended', 'get_out', 'go_forth', 'depart', 'left', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'left_over', 'leave_alone', 'left_hand', 'odd', 'leave', 'provide']",The Murders
+middle,"['in-between', 'midsection', 'mediate', 'centre', 'midway', 'halfway', 'midriff', 'eye', 'middle', 'heart', 'center']",The Murders
+Shall,[],The Murders
+Cool,"['cool_down', 'assuredness', 'nerveless', 'cool_off', 'aplomb', 'coolheaded', 'chill', 'sang-froid', 'cool', 'poise']",The Murders
+case,"['character', 'vitrine', 'eccentric', 'font', 'pillowcase', 'showcase', 'face', 'fount', ""compositor's_case"", 'guinea_pig', 'type', 'incase', 'slip', 'instance', 'caseful', 'display_case', 'sheath', 'subject', 'encase', 'suit', 'example', 'lawsuit', 'grammatical_case', 'event', 'casing', 'cause', 'shell', 'case', 'pillow_slip', 'typeface', 'causa', ""typesetter's_case""]",The Murders
+last,"['finish', 'terminal', 'conclusion', 'final_stage', 'hold_up', 'lowest', 'concluding', 'survive', 'net', 'finale', 'endure', ""cobbler's_last"", ""shoemaker's_last"", 'finis', 'last-place', 'live', 'go', 'lastly', 'close', 'end', 'finally', 'utmost', 'death', 'hold_out', 'in_conclusion', 'live_on', 'last', 'final', 'stopping_point']",The Murders
+flushed,"['crimson', 'flush', 'reddened', 'even', 'rose-cheeked', 'level', 'sluice', 'red-faced', 'purge', 'flushed', 'rosy', 'rosy-cheeked', 'blush', 'scour', 'red', 'redden', 'even_out']",The Murders
+party,"['company', 'party', 'political_party']",The Murders
+th',[],The Murders
+am,"['MA', 'atomic_number_95', 'AM', 'amplitude_modulation', 'make_up', 'personify', 'comprise', 'Artium_Magister', 'equal', 'cost', 'exist', 'live', 'Master_of_Arts', 'constitute', 'embody', 'represent', 'americium', 'Am', 'follow', 'be']",The Murders
+point,"['point', 'compass_point', 'detail', 'percentage_point', 'target', 'dot', 'period', 'full_stop', 'show', 'manoeuvre', 'decimal_point', 'bespeak', 'aim', 'channelise', 'full_point', 'breaker_point', 'indicate', 'designate', 'sharpen', 'tip', 'taper', 'stop', 'pointedness', 'level', 'item', 'steer', 'stage', 'charge', 'place', 'orient', 'head', 'spot', 'channelize', 'power_point', 'point_in_time', 'luff', 'direct', 'repoint', 'distributor_point', 'gunpoint', 'signal', 'degree', 'guide', 'betoken', 'manoeuver', 'maneuver', 'peak']",The Murders
+while,"['while', 'spell', 'piece', 'patch']",The Murders
+of,[],The Murders
+read,"['record', 'register', 'understand', 'show', 'scan', 'learn', 'say', 'translate', 'read', 'interpret', 'take', 'study']",The Murders
+hold,"['clasp', 'take_hold', 'entertain', 'hold_up', 'defy', 'custody', 'defend', 'obligate', 'hold', 'storage_area', 'confine', 'accommodate', 'book', 'bind', 'give', 'contain', 'oblige', 'view_as', 'keep_back', 'clutches', 'halt', 'sustain', 'detainment', 'throw', 'clench', 'retain', 'harbour', 'support', 'prevail', 'delay', 'detention', 'declare', 'maintain', 'nurse', 'obtain', 'adjudge', 'take_for', 'go_for', 'clutch', 'carry', 'hold_in', 'cargo_hold', 'make', 'moderate', 'curb', 'harbor', 'take', 'hold_back', 'concur', 'grasp', 'guard', 'restrain', 'have', 'grip', 'cargo_deck', 'wait', 'bear', 'time_lag', 'reserve', 'admit', 'control', 'deem', 'handgrip', 'cargo_area', 'withstand', 'keep', 'agree', 'concord', 'check', 'arrest', 'have_got', 'appreciation', 'handle', 'postponement', 'apply']",The Murders
+That,[],The Murders
+least,"['to_the_lowest_degree', 'least']",The Murders
+record,"['register', 'show', 'commemorate', 'memorialize', 'disk', 'read', 'immortalize', 'record', 'book', 'memorialise', 'record_book', 'disc', 'enter', 'phonograph_record', 'immortalise', 'put_down', 'platter', 'tape', 'criminal_record', 'track_record', 'phonograph_recording']",The Murders
+In,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",The Murders
+handkerchief,"['hankey', 'handkerchief', 'hanky', 'hankie']",The Murders
+Two,"['deuce', 'two', 'II', 'ii', '2']",The Murders
+shirt,['shirt'],The Murders
+commit,"['dedicate', 'devote', 'pull', 'give', 'entrust', 'charge', 'commit', 'send', 'place', 'put', 'confide', 'perpetrate', 'consecrate', 'institutionalize', 'invest', 'practice', 'institutionalise', 'intrust', 'trust']",The Murders
+think,"['cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'consider', 'recall', 'call_back', 'recollect', 'think', 'suppose', 'imagine', 'conceive', 'opine', 'call_up', 'believe', 'intend']",The Murders
+made,"['stool', 'urinate', 'realize', 'lay_down', 'wee', 'take_a_crap', 'micturate', 'prepare', 'take_in', 'make_up', 'crap', 'pretend', 'hit', 'induce', 'hold', 'bring_in', 'do', 'give', 'piss', 'arrive_at', 'throw', 'stimulate', 'take_a_shit', 'work', 'ready', 'create', 'pee', 'score', 'form', 'realise', 'made', 'puddle', 'name', 'defecate', 'cook', 'make', 'nominate', 'constitute', 'establish', 'make_believe', 'fix', 'progress_to', 'make_water', 'shit', 'take_a_leak', 'wee-wee', 'cause', 'reach', 'build', 'piddle', 'pee-pee', 'ca-ca', 'clear', 'pass_water', 'attain', 'earn', 'gain', 'seduce', 'spend_a_penny', 'get', 'construct', 'draw', 'pull_in', 'get_to', 'relieve_oneself', 'take', 'have', 'produce']",The Murders
+fire,"['give_notice', 'blast', 'arouse', 'discharge', 'enkindle', 'flak', 'elicit', 'flack', 'flaming', 'attack', 'sack', 'fervor', 'fervency', 'burn_down', 'fire', 'fervour', 'dismiss', 'open_fire', 'displace', 'burn', 'ardor', 'fuel', 'kindle', 'firing', 'flame', 'give_the_sack', 'go_off', 'evoke', 'ardour', 'raise', 'provoke', 'fervidness', 'force_out', 'give_the_axe', 'send_away', 'can', 'terminate']",The Murders
+us,"['u', 'uracil', 'the_States', 'uranium', 'U.S.A.', 'United_States', 'United_States_of_America', 'US', 'U', 'atomic_number_92', 'U.S.', 'America', 'USA']",The Murders
+they're,[],The Murders
+long,"['foresightful', 'recollective', 'hanker', 'yearn', 'tenacious', 'prospicient', 'foresighted', 'farseeing', 'retentive', 'long', 'longsighted', 'farsighted']",The Murders
+matches,"['peer', 'pair', 'touch', 'gibe', 'twin', 'mates', 'catch', 'rival', 'lucifer', 'couple', 'friction_match', 'equalize', 'equal', 'cope_with', 'tally', 'oppose', 'compeer', 'fit', 'correspond', 'jibe', 'match', 'pit', 'equate', 'equalise', 'mate', 'agree', 'check', 'play_off', 'meet']",The Murders
+bring,"['convey', 'play', 'make_for', 'institute', 'impart', 'bring_in', 'contribute', 'bestow', 'get', 'lend', 'add', 'work', 'land', 'take', 'wreak', 'fetch', 'bring']",The Murders
+drunker,"['drunk', 'inebriated', 'intoxicated']",The Murders
+little,"['picayune', 'petty', 'trivial', 'slight', 'minuscule', 'little', 'short', 'small', 'footling', 'piddling', 'piffling', 'lilliputian', 'fiddling', 'niggling']",The Murders
+might,"['might', 'power', 'mightiness']",The Murders
+yuh,[],The Murders
+both,['both'],The Murders
+talk,"['public_lecture', 'talk_of_the_town', 'blab_out', 'let_the_cat_out_of_the_bag', 'tattle', 'verbalize', 'talking', 'mouth', 'verbalise', 'spill_the_beans', 'peach', 'spill', 'babble', 'blab', 'lecture', 'speak', 'babble_out', 'sing', 'utter', 'talk']",The Murders
+fact,['fact'],The Murders
+--,[],The Murders
+Fifth,"['twenty_percent', 'one-fifth', 'fifth_part', '5th', 'fifth']",The Murders
+Patchen,[],The Murders
+picked,"['break_up', 'nibble', 'find_fault', 'peck', 'piece', 'cull', 'pluck', 'pick', 'foot', 'clean', 'blame', 'beak', 'plunk']",The Murders
+clean,"['houseclean', 'uninfected', 'uncontaminating', 'clean', 'scavenge', 'cleanse', 'fairly', 'unclouded', 'white', 'light', 'plum', 'clean-living', 'fair', 'sporting', 'unobjectionable', 'plumb', 'clean_and_jerk', 'strip', 'pick', 'make_clean', 'blank', 'neat', 'sporty', 'clear', 'fresh', 'sportsmanlike', 'clean_house']",The Murders
+autopsy,"['post-mortem_examination', 'postmortem', 'postmortem_examination', 'necropsy', 'PM', 'autopsy', 'post-mortem']",The Murders
+named,"['key', 'name', 'discover', 'cite', 'diagnose', 'make', 'nominate', 'refer', 'constitute', 'distinguish', 'identify', 'list', 'call', 'mention', 'key_out', 'bring_up', 'appoint', 'describe', 'advert']",The Murders
+But,"['only', 'simply', 'but', 'just', 'merely']",The Murders
+that's,[],The Murders
+Perfect,"['complete', 'consummate', 'sodding', 'perfective_tense', 'stark', 'thoroughgoing', 'gross', 'perfect', 'perfect_tense', 'hone', 'staring', 'unadulterated', 'arrant', 'double-dyed', 'utter', 'pure', 'everlasting', 'perfective']",The Murders
+From,[],The Murders
+will,"['bequeath', 'volition', 'will', 'testament', 'leave']",The Murders
+saw,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'adage', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'byword', 'saw', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'power_saw', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'proverb', 'run_into', 'interpret', 'date', 'take_care', 'sawing_machine', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",The Murders
+killed,"['down', 'pop', 'belt_down', 'pour_down', 'obliterate', 'shoot_down', 'stamp_out', 'wipe_out', 'defeat', 'vote_down', 'toss_off', 'drink_down', 'kill', 'vote_out', 'bolt_down']",The Murders
+hundred,"['C', 'century', 'hundred', 'c', '100', 'one_hundred', 'one_C']",The Murders
+blow,"['bodge', 'C', 'ball_up', 'mishandle', 'blast', 'boast', 'bobble', 'botch', 'suck', 'fluff', 'squander', 'setback', 'bumble', 'burn_out', 'foul_up', 'blow_out', 'nose_candy', 'tout', 'fellate', 'flub', 'mess_up', 'bollocks', 'shock', 'fuck_up', 'waste', 'shove_along', 'bluster', 'reverse', 'botch_up', 'brag', 'reversal', 'blow', 'puff', 'muck_up', 'go_down_on', 'swash', 'bump', 'louse_up', 'drift', 'fumble', 'coke', 'shoot_a_line', 'gasconade', 'muff', 'spoil', 'screw_up', 'bollix', 'bollocks_up', 'shove_off', 'vaunt', 'float', 'be_adrift', 'bungle', 'black_eye', 'snow', 'bollix_up', 'gas', 'gust']",The Murders
+place,"['point', 'billet', 'pose', 'localize', 'target', 'lieu', 'order', 'post', 'come_in', 'aim', 'station', 'set', 'localise', 'shoes', 'piazza', 'lay', 'site', 'blank_space', 'commit', 'send', 'place', 'property', 'situation', 'put', 'rate', 'spot', 'rank', 'berth', 'come_out', 'invest', 'home', 'stead', 'direct', 'identify', 'position', 'office', 'topographic_point', 'seat', 'grade', 'plaza', 'space', 'range', 'locate']",The Murders
+put,"['set', 'couch', 'pose', 'position', 'frame', 'cast', 'lay', 'redact', 'arrange', 'set_up', 'assign', 'commit', 'order', 'invest', 'put_option', 'place', 'put']",The Murders
+Pops,"['tonic', 'bulge_out', 'pop_up', 'protrude', 'bug_out', 'pop_music', 'kill', 'pop_out', 'papa', 'bulge', 'soda', 'toss_off', 'pappa', 'down', 'soda_water', 'start', 'drink_down', 'come_out', 'popping', 'dada', 'bolt_down', 'soda_pop', 'pop', 'crop_up', 'belt_down', 'dad', 'pour_down', 'pa', 'daddy']",The Murders
+stayed,"['stay', 'outride', 'last_out', 'persist', 'remain', 'continue', 'quell', 'bide', 'rest', 'appease', 'stay_put', 'ride_out', 'stick_around', 'detain', 'delay', 'stick', 'abide', 'stay_on']",The Murders
+said,"['aforesaid', 'suppose', 'state', 'said', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin', 'aforementioned']",The Murders
+no,"['no_more', 'nobelium', 'no', 'No', 'atomic_number_102']",The Murders
+flicking,"['flick', 'riff', 'ruffle', 'riffle', 'click', 'jerk', 'flicker', 'snap', 'leaf', 'thumb', 'flip']",The Murders
+until,[],The Murders
+dark,"['saturnine', 'sour', 'drear', 'blue', 'sinister', 'sullen', 'dour', 'shadow', 'drab', 'dingy', 'wickedness', 'iniquity', 'glowering', 'coloured', 'grim', 'dreary', 'darkness', 'dark', 'gloomy', 'colored', 'dismal', 'obscure', 'night', 'dark-skinned', 'morose', 'moody', 'benighted', 'nighttime', 'sorry', 'black', 'glum', 'disconsolate', 'non-white']",The Murders
+used,"['expend', 'utilise', 'practice', 'utilize', 'habituate', 'employ', 'exploited', 'used', 'secondhand', 'use', 'victimised', 'ill-used', 'victimized', 'put-upon', 'apply']",The Murders
+D-night,[],The Murders
+was,"['Evergreen_State', 'equal', 'constitute', 'follow', 'Washington', 'exist', 'be', 'embody', 'make_up', 'live', 'WA', 'cost', 'personify', 'represent', 'comprise']",The Murders
+digging,"['jab', 'cut_into', 'savvy', 'prod', 'dig', 'moil', 'apprehend', 'excavate', 'excavation', 'grok', 'toil', 'hollow', 'travail', 'drudge', 'poke', 'grind', 'compass', 'labor', 'get_the_picture', 'comprehend', 'grasp', 'digging', 'fag', 'dig_up', 'dig_out', 'delve', 'stab', 'labour', 'turn_over']",The Murders
+wooden,['wooden'],The Murders
+His,[],The Murders
+date,"['escort', 'date', 'go_steady', 'engagement', 'appointment', 'particular_date', 'day_of_the_month', 'date_stamp', 'go_out', 'see']",The Murders
+public,"['world', 'public', 'populace']",The Murders
+bought,"['purchase', ""grease_one's_palms"", 'buy', 'bribe', 'corrupt']",The Murders
+thing,"['affair', 'thing', 'matter']",The Murders
+brought,"['convey', 'play', 'make_for', 'institute', 'impart', 'bring_in', 'contribute', 'bestow', 'get', 'lend', 'add', 'work', 'land', 'take', 'wreak', 'fetch', 'bring']",The Murders
+rooms,"['suite', 'elbow_room', 'rooms', 'way', 'board', 'room']",The Murders
+killing,"['obliterate', 'wipe_out', 'violent_death', 'kill', 'vote_down', 'toss_off', 'sidesplitting', 'down', 'shoot_down', 'defeat', 'drink_down', 'bolt_down', 'pop', 'belt_down', 'putting_to_death', 'pour_down', 'stamp_out', 'killing', 'cleanup', 'vote_out']",The Murders
+rendezvous,"['rendezvous', 'tryst']",The Murders
+against,[],The Murders
+so,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",The Murders
+can,"['derriere', 'arse', 'stool', 'crapper', 'ass', 'give_notice', 'prat', 'hind_end', 'posterior', 'tail_end', 'terminate', 'canful', 'butt', 'commode', 'nates', 'lavatory', 'bathroom', 'stern', 'can_buoy', 'rear_end', 'sack', 'backside', 'rump', 'pot', 'fire', 'tush', 'dismiss', 'tin', 'displace', 'fundament', 'buttocks', 'buns', 'give_the_sack', 'rear', 'tooshie', 'put_up', 'behind', 'potty', 'privy', 'john', 'seat', 'throne', 'bottom', 'fanny', 'toilet', 'lav', 'keister', 'force_out', 'give_the_axe', 'send_away', 'tail', 'can', 'tin_can', 'hindquarters', 'bum']",The Murders
+anything,[],The Murders
+pipe,"['tobacco_pipe', 'pipe', 'shriek', 'shrill', 'pipework', 'pipe_up', 'organ_pipe', 'pipage', 'tube', 'piping']",The Murders
+``,[],The Murders
+less,"['LE', 'lupus_erythematosus', 'to_a_lesser_extent', 'less']",The Murders
+between,"['between', ""'tween"", 'betwixt']",The Murders
+try,"['prove', 'endeavor', 'taste', 'try', 'effort', 'seek', 'try_out', 'stress', 'try_on', 'endeavour', 'sample', 'hear', 'test', 'assay', 'essay', 'examine', 'judge', 'strain', 'attempt', 'render', 'adjudicate']",The Murders
+struck,"['come_to', 'come_across', 'light_upon', 'walk_out', 'fall_upon', 'mint', 'struck', 'impress', 'hit', 'impinge_on', 'expunge', 'chance_upon', 'fall', 'discover', 'chance_on', 'strickle', 'assume', 'come_upon', 'smitten', 'collide_with', 'scratch', 'run_into', 'happen_upon', 'excise', 'shine', 'take_up', 'attain', 'affect', 'strike', 'stricken', 'take', 'move', 'coin']",The Murders
+We've,[],The Murders
+kill,"['down', 'pop', 'belt_down', 'putting_to_death', 'pour_down', 'shoot_down', 'stamp_out', 'obliterate', 'killing', 'defeat', 'vote_down', 'toss_off', 'drink_down', 'wipe_out', 'kill', 'vote_out', 'bolt_down']",The Murders
+group,"['group', 'aggroup', 'grouping', 'mathematical_group', 'radical', 'chemical_group']",The Murders
+Men,"['men', 'Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'work_force', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'workforce', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'manpower', 'human', 'human_being', 'military_personnel', 'valet', 'hands']",The Murders
+.,[],The Murders
+beside,[],The Murders
+whenever,[],The Murders
+man,"['Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'human', 'human_being', 'military_personnel', 'valet']",The Murders
+waist,"['shank', 'waistline', 'waist']",The Murders
+buddy,"['chum', 'brother', 'sidekick', 'pal', 'buddy', 'crony']",The Murders
+found,"['institute', 'plant', 'receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'base', 'retrieve', 'launch', 'rule', 'found', 'line_up', 'chance', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'constitute', 'establish', 'encounter', 'find', 'find_oneself', 'ground', 'set_up', 'get', 'ascertain', 'detect', 'obtain', 'see']",The Murders
+Pops's,[],The Murders
+smoothly,"['smoothly', 'swimmingly']",The Murders
+consisted,"['consist', 'dwell', 'lie_in', 'lie', 'comprise']",The Murders
+reminded,"['cue', 'prompt', 'remind']",The Murders
+could,[],The Murders
+natural,"['natural', 'lifelike', 'cancel', 'innate', 'rude', 'instinctive', 'born', 'raw']",The Murders
+first,"['beginning', 'for_the_first_time', 'kickoff', 'showtime', 'inaugural', 'first_of_all', '1st', 'low_gear', 'maiden', 'first_base', 'initiatory', 'world-class', 'low', 'foremost', 'initiative', 'first', 'firstly', 'start', 'number_one', 'offset', 'first_gear', 'starting_time', 'outset', 'get-go', 'first_off', 'number_1', 'first-class_honours_degree', 'commencement']",The Murders
+thoroughly,"['exhaustively', 'soundly', 'thoroughly', 'good']",The Murders
+sidewise,"['sideway', 'sideways', 'sidewise']",The Murders
+piece,"['art_object', 'while', 'bit', 'assemble', 'patch', 'part', 'put_together', 'man', ""objet_d'art"", 'firearm', 'slice', 'nibble', 'opus', 'piece', 'musical_composition', 'spell', 'pick', 'composition', 'piece_of_music', 'set_up', 'tack_together', 'small-arm', 'tack']",The Murders
+from,[],The Murders
+big,"['liberal', 'magnanimous', 'self-aggrandizing', 'braggy', 'freehanded', 'openhanded', 'prominent', 'full-grown', 'grownup', 'bighearted', 'large', 'handsome', 'cock-a-hoop', 'bountiful', 'heavy', 'gravid', 'with_child', 'grown', 'bounteous', 'vainglorious', 'fully_grown', 'swelled', 'braggart', 'vauntingly', 'crowing', 'great', 'big', 'adult', 'boastful', 'bad', 'expectant', 'enceinte', 'boastfully', 'self-aggrandising', 'bragging', 'giving']",The Murders
+Wearing,"['jade', 'wearing', 'have_on', 'put_on', 'fall_apart', 'fag_out', 'wear_out', 'get_into', 'don', 'wear_upon', 'wear_thin', 'endure', 'wear_off', 'eroding', 'wearying', 'tire', 'assume', 'tire_out', 'wearing_away', 'tiring', 'hold_out', 'erosion', 'break', 'exhausting', 'bust', 'fag', 'wear_down', 'bear', 'weary', 'fatigue', 'eating_away', 'wear', 'outwear']",The Murders
+up,"['upwards', 'upward', 'upwardly', 'improving', 'up', 'astir']",The Murders
+rough,"['roughly', 'boisterous', 'raspy', 'approximate', 'rough_out', 'uncut', 'gravelly', 'unsmooth', 'jolting', 'jolty', 'scratchy', 'grating', 'rough_in', 'rough', 'jumpy', 'crude', 'harsh', 'fierce', 'approximative', 'rocky', 'pugnacious', 'bumpy', 'rasping']",The Murders
+drew,"['absorb', 'draw_and_quarter', 'thread', 'sop_up', 'suck', 'take_in', 'line', 'draw_in', 'pull', 'take_out', 'trace', 'John_Drew', 'withdraw', 'depict', 'soak_up', 'run', 'eviscerate', 'get_out', 'drag', 'Drew', 'puff', 'quarter', 'make', 'imbibe', 'attract', 'cast', 'string', 'disembowel', 'pull_out', 'draw_off', 'delineate', 'tie', 'pull_back', 'suck_up', 'take_up', 'pass', 'guide', 'get', 'draw', 'pull_in', 'reap', 'force', 'describe']",The Murders
+things,"['things', 'thing', 'affair', 'matter']",The Murders
+time,"['clock', 'metre', 'sentence', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip']",The Murders
+them,[],The Murders
+seat,"['derriere', 'arse', 'ass', 'prat', 'hind_end', 'posterior', 'tail_end', 'sit', 'butt', 'nates', 'stern', 'rear_end', 'backside', 'rump', 'place', 'tush', 'fundament', 'buttocks', 'buns', 'invest', 'rear', 'tooshie', 'behind', 'seat', 'sit_down', 'bottom', 'fanny', 'keister', 'induct', 'tail', 'can', 'hindquarters', 'bum']",The Murders
+Charlie,[],The Murders
+called,"['anticipate', 'call_off', 'ring', 'cry', 'send_for', 'visit', 'name', 'scream', 'yell', 'foretell', 'shout', 'call_in', 'holler', 'squall', 'forebode', 'hollo', 'bid', 'address', 'predict', 'phone', 'call', 'telephone', 'call_up', 'shout_out', 'promise', 'prognosticate']",The Murders
+say,"['suppose', 'state', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin']",The Murders
+leave,"['impart', 'leave_of_absence', 'exit', 'allow', 'pull_up_stakes', 'result', 'lead', 'entrust', 'will', 'give', 'forget', 'get_out', 'go_forth', 'farewell', 'depart', 'leave-taking', 'parting', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'leave_alone', 'leave', 'provide']",The Murders
+whether,[],The Murders
+room,"['way', 'elbow_room', 'room', 'board']",The Murders
+he's,[],The Murders
+times,"['clock', 'metre', 'sentence', 'multiplication', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip', 'times']",The Murders
+morning,"['dawn', 'aurora', 'forenoon', 'morning', 'sunup', 'good_morning', 'dawning', 'cockcrow', 'morning_time', 'first_light', 'dayspring', 'sunrise', 'morn', 'daybreak', 'break_of_day', 'break_of_the_day']",The Murders
+drinks,"['swallow', 'booze', 'drink_in', 'deglutition', 'pledge', 'drink', 'salute', 'potable', 'drinkable', 'tope', 'wassail', 'boozing', 'imbibe', 'beverage', 'crapulence', 'drinking', 'fuddle', 'toast', 'drunkenness']",The Murders
+stood,"['suffer', 'stick_out', 'bear', 'place_upright', 'brook', 'remain_firm', 'endure', 'fend', 'tolerate', 'stand', 'stomach', 'digest', 'stand_up', 'support', 'resist', 'abide', 'put_up']",The Murders
+and,[],The Murders
+same,"['Lapplander', 'like', 'same', 'Saami', 'Same', 'Saame', 'Lapp', 'Sami']",The Murders
+diagrams,"['plot', 'diagram']",The Murders
+hurry,"['rush', 'zip', 'speed', 'travel_rapidly', 'haste', 'hasten', 'hurry', 'hastiness', 'rushing', 'festinate', 'look_sharp', 'hurriedness', 'precipitation']",The Murders
+around,"['roughly', 'more_or_less', 'round', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",The Murders
+myself,[],The Murders
+did,"['set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'behave', 'practice']",The Murders
+also,"['also', 'likewise', 'besides', 'as_well', 'too']",The Murders
+me,"['ME', 'Pine_Tree_State', 'Maine']",The Murders
+hung,"['flow', 'hang_up', 'fall', 'string_up', 'pay_heed', 'hang', 'cling', 'give_ear', 'attend', 'advert']",The Murders
+cement,"['cementum', 'cement']",The Murders
+let,"['LET', 'Lashkar-e-Tayyiba', 'Army_of_the_Righteous', 'rent', 'permit', 'Army_of_the_Pure', 'let', 'countenance', 'allow', 'Lashkar-e-Taiba', 'get', 'lease', 'net_ball', 'have', 'Lashkar-e-Toiba']",The Murders
+money,['money'],The Murders
+ledge,"['ledge', 'shelf']",The Murders
+This,[],The Murders
+retain,"['continue', 'keep_on', 'keep_back', 'keep', 'retain', 'hold_back', 'hold']",The Murders
+where,[],The Murders
+whispered,"['whispered', 'whisper']",The Murders
+quite,"['quite_a', 'rather', 'quite', 'quite_an']",The Murders
+it,"['IT', 'information_technology']",The Murders
+irregular,"['unorthodox', 'irregular', 'maverick', 'atypical', 'unpredictable', 'guerilla', 'guerrilla', 'temporary', 'second', 'insurgent']",The Murders
+arrangements,"['organisation', 'agreement', 'placement', 'system', 'arranging', 'arrangement', 'musical_arrangement', 'organization', 'transcription']",The Murders
+another,"['some_other', 'another']",The Murders
+trial,"['tryout', 'trial', 'trial_run', 'visitation', 'run', 'tribulation', 'test']",The Murders
+looked,"['face', 'wait', 'reckon', 'take_care', 'see', 'depend', 'seem', 'appear', 'await', 'front', 'expect', 'bet', 'attend', 'count', 'search', 'look', 'calculate']",The Murders
+still,"['stillness', 'nonetheless', 'quieten', 'quiet', 'withal', 'placid', 'nevertheless', 'hush', 'inactive', 'calm', 'smooth', 'static', 'even_so', 'tranquil', 'ease', 'yet', 'notwithstanding', 'distillery', 'hush_up', 'unruffled', 'lull', 'however', 'tranquillize', 'even', 'allay', 'silence', 'still', 'soundless', 'relieve', 'silent', 'all_the_same', 'shut_up', 'tranquillise', 'tranquilize', 'motionless', 'stock-still', 'calm_down', 'noneffervescent']",The Murders
+front,"['forepart', 'figurehead', 'presence', 'social_movement', 'straw_man', 'strawman', 'front_man', 'breast', 'front_end', 'nominal_head', 'front', 'front_line', 'battlefront', 'movement', 'face', 'look']",The Murders
+Radic,[],The Murders
+straightened,"['tidy', 'straighten_out', 'neaten', 'square_away', 'straighten', 'tidy_up', 'roll_out', 'clean_up', 'unbend']",The Murders
+including,"['let_in', 'admit', 'include']",The Murders
+I'll,[],The Murders
+something,[],The Murders
+words,"['Christian_Bible', 'countersign', 'language', 'give-and-take', 'run-in', 'Scripture', 'formulate', ""actor's_line"", 'quarrel', 'intelligence', 'discussion', 'parole', 'Logos', 'word', 'news', 'Word', 'speech', 'Book', 'Bible', 'row', 'lyric', 'phrase', 'tidings', 'wrangle', 'articulate', 'Son', 'password', 'Word_of_God', 'dustup', 'words', 'Holy_Writ', 'Holy_Scripture', 'watchword', 'give_voice', 'word_of_honor', 'Good_Book']",The Murders
+ahead,"['in_advance', 'ahead', 'forrader', 'in_front', 'onward', 'onwards', 'forwards', 'in_the_lead', 'leading', 'out_front', 'beforehand', 'forward', 'before']",The Murders
+Well,"['good', 'considerably', 'comfortably', 'easily', 'substantially', 'wellspring', 'well', 'intimately', 'swell', 'fountainhead', 'advantageously']",The Murders
+murdered,"['mutilate', 'murder', 'dispatch', 'murdered', 'mangle', 'bump_off', 'off', 'slay', 'polish_off', 'remove', 'hit']",The Murders
+;,[],The Murders
+I'm,[],The Murders
+citizen,['citizen'],The Murders
+keep,"['prevent', 'save', 'proceed', 'donjon', 'preserve', 'go_along', 'living', 'bread_and_butter', 'hold', 'stay_fresh', 'dungeon', 'keep_back', 'sustain', 'retain', 'support', 'livelihood', 'maintain', 'observe', 'go_on', 'hold_open', 'hold_back', 'restrain', 'hold_on', 'sustenance', 'celebrate', 'continue', 'keep_on', 'keep_open', 'keep']",The Murders
+fuzz,"['copper', 'pig', 'cop', 'bull', 'tomentum', 'hair', 'fuzz', 'blur']",The Murders
+finished,"['complete', 'finish', 'end', 'finished', 'ruined', 'wind_up', 'finish_up', 'stop', 'end_up', 'cease', 'polish_off', 'eat_up', 'land_up', 'fetch_up', 'terminate']",The Murders
+too,"['excessively', 'also', 'likewise', 'besides', 'as_well', 'overly', 'too', 'to_a_fault']",The Murders
+take,"['take_aim', 'hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'return', 'pick_out', 'ask', 'take_in', 'conduct', 'require', 'claim', 'consume', 'study', 'aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'takings', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'issue', 'carry', 'proceeds', 'ingest', 'make', 'rent', 'yield', 'shoot', 'assume', 'remove', 'take_on', 'payoff', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",The Murders
+careful,"['careful', 'thrifty', 'heedful', 'deliberate', 'measured']",The Murders
+don't,[],The Murders
+haven't,[],The Murders
+short,"['short-change', 'dead', 'short', 'brusk', 'forgetful', 'scant', 'unforesightful', 'curtly', 'light', 'shortsighted', 'unretentive', 'shortstop', 'poor', 'myopic', 'brusque', 'unawares', 'little', 'short-circuit', 'shortly', 'short_circuit', 'suddenly', 'curt', 'inadequate', 'abruptly']",The Murders
+hesitated,"['waver', 'waffle', 'hesitate', 'pause']",The Murders
+forward,"['fore', 'frontward', 'ahead', 'forrader', 'onward', 'send_on', 'forward-moving', 'forth', 'forwards', 'frontwards', 'onwards', 'forrad', 'advancing', 'forward', 'forrard']",The Murders
+different,"['dissimilar', 'different', 'unlike']",The Murders
+an',[],The Murders
+completely,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",The Murders
+by,"['aside', 'by', 'past', 'away']",The Murders
+light,"['calorie-free', 'spark', 'illumine', 'lite', 'ignite', 'Inner_Light', 'igniter', 'wanton', 'lightness', 'short', 'lighter', 'unhorse', 'clean', 'dismount', 'scant', 'get_down', 'wakeful', 'promiscuous', 'Light', 'unclouded', 'easy', 'ignitor', 'illume', 'abstemious', 'light', 'sparkle', 'illuminate', 'light_up', 'fire_up', 'tripping', 'visible_light', 'loose', 'luminance', 'perch', 'lightsome', 'fall', 'unaccented', 'brightness_level', 'lightheaded', 'low-cal', 'faint', 'lightly', 'lighting', 'Christ_Within', 'idle', 'light-colored', 'illumination', 'twinkle', 'brightness', 'alight', 'clear', 'luminosity', 'light-headed', 'light_source', 'swooning', 'luminousness', 'get_off', 'Light_Within', 'visible_radiation', 'sluttish', 'weak']",The Murders
+sitting,"['baby-sit', 'sit_around', 'pose', 'seat', 'sit_down', 'seance', 'sitting', 'posing', 'model', 'seated', 'posture', 'sit', 'session', 'ride']",The Murders
+stuck,"['hold_fast', 'wedge', 'pose', 'amaze', 'baffle', 'cling', 'beat', 'perplex', 'stick', 'stand_by', 'lodge', 'bind', 'mystify', 'vex', 'stay_put', 'cohere', 'stuck', 'stick_to', 'cleave', 'stupefy', 'bewilder', 'dumbfound', 'puzzle', 'flummox', 'sting', 'gravel', 'stay', 'stick_by', 'deposit', 'get', 'adhere', 'stick_around', 'nonplus', 'bond']",The Murders
+neither,['neither'],The Murders
+trying,"['prove', 'nerve-racking', 'taste', 'try', 'seek', 'try_out', 'stress', 'try_on', 'sample', 'hear', 'trying', 'test', 'assay', 'essay', 'examine', 'judge', 'strain', 'nerve-wracking', 'attempt', 'stressful', 'render', 'adjudicate']",The Murders
+Jist,[],The Murders
+fall,"['flow', 'declension', 'autumn', 'decline', 'go_down', 'accrue', 'surrender', 'return', 'diminish', 'settle', 'nightfall', 'declivity', 'drop', 'declination', 'decrease', 'light', 'crepuscule', 'dusk', 'evenfall', 'hang', 'devolve', 'gloam', 'descent', 'crepuscle', 'capitulation', 'lessen', 'come_down', 'Fall', 'fall', 'twilight', 'pin', 'spill', 'downslope', 'fall_down', 'dip', 'descend', 'precipitate', 'come', 'shine', 'gloaming', 'tumble', 'pass', 'strike', 'downfall', 'free_fall']",The Murders
+pad,"['embellish', 'trudge', 'dramatise', 'pad_of_paper', 'inkpad', 'slog', 'fill_out', 'digs', 'stamp_pad', 'lard', 'pad', 'aggrandise', 'bolster', 'plod', 'tablet', 'blow_up', 'footslog', 'lodgings', 'tramp', 'inking_pad', 'diggings', 'launchpad', 'launch_pad', 'dramatize', 'launch_area', 'embroider', 'launching_pad', 'aggrandize', 'domiciliation']",The Murders
+later,"['subsequently', 'previous', 'later', 'ulterior', 'posterior', 'afterward', 'late', 'recent', 'after', 'later_on', 'tardy', 'belated', 'by_and_by', 'afterwards', 'former']",The Murders
+with,[],The Murders
+length,"['length', 'distance', 'duration']",The Murders
+fell,"['savage', 'vanish', 'flow', 'felled_seam', 'go_down', 'accrue', 'return', 'diminish', 'fly', 'settle', 'drop', 'decrease', 'light', 'hide', 'hang', 'devolve', 'lessen', 'come_down', 'fall', 'barbarous', 'cut_down', 'brutal', 'fell', 'fall_down', 'strike_down', 'descend', 'precipitate', 'vicious', 'come', 'shine', 'pass', 'strike', 'roughshod', 'cruel']",The Murders
+safe,"['good', 'safety', 'rubber', 'condom', 'secure', 'prophylactic', 'safe', 'dependable']",The Murders
+night,"['Night', 'Nox', 'dark', 'night', 'nighttime']",The Murders
+fifty,"['l', 'L', 'fifty_dollar_bill', '50', 'fifty']",The Murders
+loosely,"['broadly', 'generally', 'slackly', 'broadly_speaking', 'loosely']",The Murders
+enthusiastic,['enthusiastic'],The Murders
+drinking,"['booze', 'drink_in', 'drinking', 'imbibing', 'imbibe', 'salute', 'imbibition', 'fuddle', 'toast', 'pledge', 'tope', 'drunkenness', 'drink', 'crapulence', 'wassail', 'boozing']",The Murders
+nobody,"['nonentity', 'cipher', 'nobody', 'cypher']",The Murders
+fingerprints,"['fingerprint', 'fingermark']",The Murders
+lid,"['eyelid', 'lid', 'chapeau', 'hat', 'palpebra']",The Murders
+He'll,[],The Murders
+draw,"['absorb', 'draw_and_quarter', 'thread', 'sop_up', 'attractor', 'standoff', 'suck', 'take_in', 'line', 'draw_in', 'pull', 'take_out', 'haul', 'trace', 'withdraw', 'depict', 'soak_up', 'run', 'eviscerate', 'get_out', 'drag', 'puff', 'quarter', 'make', 'hooking', 'imbibe', 'attract', 'cast', 'lot', 'string', 'disembowel', 'pull_out', 'draw_off', 'delineate', 'tie', 'pull_back', 'attracter', 'suck_up', 'draw_play', 'attraction', 'drawing_card', 'take_up', 'pass', 'guide', 'draw_poker', 'haulage', 'hook', 'get', 'draw', 'pull_in', 'reap', 'force', 'describe']",The Murders
+inside,"['interior', 'at_bottom', 'deep_down', 'indoors', 'at_heart', 'inner', 'privileged', 'within', 'inwardly', 'inside', 'in_spite_of_appearance']",The Murders
+goes,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'offer', 'go_bad', 'kick_the_bucket', 'hug_drug', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'ecstasy', 'travel', 'run_short', 'Adam', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'crack', 'XTC', 'cristal', 'turn', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'spell', 'start', 'X', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'whirl', 'go_game', 'last', 'disco_biscuit', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'fling', 'move', 'tour']",The Murders
+guttered,['gutter'],The Murders
+crime,"['criminal_offence', 'criminal_offense', 'law-breaking', 'offense', 'crime', 'offence']",The Murders
+tomorrow,['tomorrow'],The Murders
+reached,"['touch', 'get_hold_of', 'accomplish', 'hit', 'contact', 'strive', 'give', 'extend_to', 'arrive_at', 'achieve', 'make', 'reach_out', 'strain', 'progress_to', 'get_through', 'hand', 'reach', 'pass_on', 'attain', 'pass', 'gain', 'get_to', 'turn_over']",The Murders
+It's,[],The Murders
+groped,"['grope', 'fumble']",The Murders
+minute,"['minute', 'instant', 'hour', 'mo', 'bit', 'second', 'narrow', 'infinitesimal', 'min', 'arcminute', 'minute_of_arc', 'moment']",The Murders
+visited,"['confab', 'confabulate', 'travel_to', 'chew_the_fat', 'chaffer', 'bring_down', 'chat', 'chatter', 'gossip', 'chitchat', 'jaw', 'inflict', 'visit', 'call_in', 'natter', 'chit-chat', 'shoot_the_breeze', 'impose', 'call', 'inspect', 'claver', 'see']",The Murders
+seemed,"['appear', 'look', 'seem']",The Murders
+give,"['pay', 'dedicate', 'impart', 'ease_up', 'fall_in', 'founder', 'devote', 'return', 'open', 'hold', 'feed', 'spring', 'springiness', 'give', 'present', 'give_way', 'throw', 'cave_in', 'commit', 'consecrate', 'make', 'generate', 'yield', 'collapse', 'apply', 'grant', 'establish', 'gift', 'break', 'afford', 'sacrifice', 'kick_in', 'hand', 'reach', 'pass_on', 'chip_in', 'pass', 'contribute', 'move_over', 'leave', 'have', 'render', 'turn_over']",The Murders
+We'll,[],The Murders
+were,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",The Murders
+tired,"['jade', 'shopworn', 'well-worn', 'fag_out', 'exhaust', 'wear_out', 'wear_upon', 'play_out', 'tired', 'tire', 'banal', 'pall', 'bore', 'tire_out', 'old-hat', 'fag', 'stock', 'wear_down', 'trite', 'fatigue', 'weary', 'timeworn', 'hackneyed', 'run_down', 'wear', 'threadbare', 'sap', 'commonplace', 'outwear']",The Murders
+consistent,"['coherent', 'reproducible', 'logical', 'ordered', 'consistent', 'uniform']",The Murders
+tell,"['differentiate', 'narrate', 'assure', 'recite', 'secern', 'order', 'secernate', 'state', 'severalize', 'tell', 'recount', 'Tell', 'distinguish', 'enjoin', 'tell_apart', 'William_Tell', 'severalise', 'say', 'evidence', 'separate']",The Murders
+fare,"['come', 'do', 'transportation', 'get_along', 'make_out', 'menu', 'fare']",The Murders
+your,[],The Murders
+introduced,"['introduce', 'bring_in', 'precede', 'put_in', 'inaugurate', 'acquaint', 'present', 'stick_in', 'enter', 'preface', 'premise', 'usher_in', 'insert', 'bring_out', 'innovate', 'inclose', 'infix', 'enclose']",The Murders
+abstractly,['abstractly'],The Murders
+stopped,"['finish', 'quit', 'intercept', 'blockade', 'terminate', 'kibosh', 'discontinue', 'turn_back', 'stop', 'stopped-up', 'stopped_up', 'halt', 'cease', 'stop_over', 'break_off', 'block_off', 'end', 'stopped', 'block_up', 'give_up', 'hold_back', 'break', 'hold_on', 'bar', 'block', 'check', 'arrest', 'contain', 'lay_off', 'barricade']",The Murders
+now,"['today', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'nowadays', 'directly', 'at_present', 'like_a_shot', 'immediately']",The Murders
+half,"['one-half', 'half']",The Murders
+you're,[],The Murders
+wouldn't,[],The Murders
+there's,[],The Murders
+real,"['genuine', 'really', 'rattling', 'literal', 'veridical', 'existent', 'tangible', 'real', 'substantial', 'actual', 'very', 'real_number', 'material']",The Murders
+safely,['safely'],The Murders
+An,"['Associate_in_Nursing', 'AN']",The Murders
+decided,"['distinct', 'determine', 'decide', 'adjudicate', 'decided', 'settle', ""make_up_one's_mind"", 'resolve']",The Murders
+They,[],The Murders
+drunk,"['booze', 'drunk', 'inebriate', 'drink_in', 'rummy', 'inebriated', 'imbibe', 'fuddle', 'wino', 'toast', 'drunkard', 'pledge', 'tope', 'sot', 'drink', 'salute', 'wassail', 'intoxicated']",The Murders
+that,[],The Murders
+Almost,"['near', 'nigh', 'well-nigh', 'nearly', 'almost', 'about', 'virtually', 'most']",The Murders
+what,[],The Murders
+kick,"['thrill', 'kick_back', 'bitch', 'kicking', 'recoil', 'sound_off', 'charge', 'quetch', 'plain', 'rush', 'bang', 'kvetch', 'give_up', 'beef', 'flush', 'gripe', 'kick', 'squawk', 'complain', 'boot']",The Murders
+sharply,"['sharp', 'acutely', 'sharply', 'precipitously', 'aggressively', 'crisply']",The Murders
+need,"['pauperism', 'call_for', 'pauperization', 'motivation', 'involve', 'need', 'take', 'postulate', 'ask', 'motive', 'penury', 'indigence', 'require', 'demand', 'necessitate', 'want']",The Murders
+feet,"['pes', 'metrical_foot', 'ft', 'fundament', 'metrical_unit', 'animal_foot', 'understructure', 'groundwork', 'human_foot', 'substructure', 'foot', 'infantry', 'foundation', 'invertebrate_foot', 'base']",The Murders
+cops,"['copper', 'nab', 'glom', 'pig', 'snitch', 'cop', 'collar', 'bull', 'thieve', 'pick_up', 'hook', 'knock_off', 'nail', 'fuzz', 'arrest', 'apprehend']",The Murders
+have,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'wealthy_person', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'rich_person', 'have_got', 'take', 'have']",The Murders
+bottles,"['nursing_bottle', 'feeding_bottle', 'bottleful', 'bottle']",The Murders
+repeated,"['repeated', 'retell', 'repeat', 'iterate', 'take_over', 'replicate', 'reiterate', 'reduplicate', 'reprise', 'ingeminate', 'recurrent', 'recapitulate', 'double', 'duplicate', 'reprize', 'restate', 'echo', 'perennial', 'recur']",The Murders
+effect,"['outcome', 'upshot', 'effect', 'issue', 'essence', 'result', 'set_up', 'consequence', 'impression', 'core', 'gist', 'event', 'force', 'burden', 'effectuate']",The Murders
+gloves,"['baseball_mitt', 'boxing_glove', 'mitt', 'glove', 'baseball_glove']",The Murders
+showing,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'showing', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'screening', 'shew', 'usher', 'viewing', 'demonstrate', 'establish', 'bear_witness', 'picture', 'display', 'evidence', 'demo', 'render']",The Murders
+guess,"['speculation', 'estimate', 'approximate', 'guesswork', 'guessing', 'surmise', 'guess', 'pretend', 'surmisal', 'hypothesis', 'reckon', 'gauge', 'shot', 'think', 'supposition', 'suppose', 'venture', 'judge', 'imagine', 'conjecture', 'infer', 'opine', 'dead_reckoning', 'hazard']",The Murders
+Wait,"['wait', 'look', 'time_lag', 'waiting', 'hold_off', 'waitress', 'await', 'hold_back', 'expect', 'delay', 'postponement', 'hold']",The Murders
+hit,"['come_to', 'hitting', 'collision', 'hit', 'stumble', 'impinge_on', 'pip', 'bump_off', 'slay', 'polish_off', 'arrive_at', 'smasher', 'score', 'bang', 'smash', 'dispatch', 'make', 'tally', 'shoot', 'rack_up', 'off', 'remove', 'collide_with', 'striking', 'run_into', 'reach', 'murder', 'attain', 'gain', 'strike']",The Murders
+Could,[],The Murders
+flip,"['summersault', 'flip_out', 'riffle', 'alternate', 'toss', 'somerset', 'flip_over', 'somersault', 'twitch', 'flip', 'somersaulting', 'sky', 'insolent', 'summerset', 'impudent', 'throw', 'leaf', 'riff', 'snotty-nosed', 'interchange', 'thumb', 'flick', 'pitch', 'pass', 'flip-flop', 'switch', 'tack', 'turn_over']",The Murders
+pull,"['wrench', 'overstretch', 'deplumate', 'draw_in', 'draw_out', 'pull_up', 'pull', 'take_out', 'rip', 'pluck', 'pulling', 'commit', 'root_for', 'get_out', 'drag', 'deplume', 'puff', 'perpetrate', 'attract', 'extract', 'pull_out', 'twist', 'rive', 'draw', 'pull_in', 'clout', 'rend', 'displume', 'tear', 'force']",The Murders
+do,"['brawl', 'doh', 'set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'DO', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'Doctor_of_Osteopathy', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'ut', 'bash', 'behave', 'practice']",The Murders
+not,"['not', 'non']",The Murders
+possible,"['potential', 'possible']",The Murders
+yet,"['til_now', 'nonetheless', 'withal', 'nevertheless', 'even_so', 'so_far', 'until_now', 'in_time', 'yet', 'notwithstanding', 'thus_far', 'however', 'as_yet', 'even', 'hitherto', 'still', 'heretofore', 'all_the_same', 'up_to_now']",The Murders
+added,"['impart', 'tot_up', 'summate', 'append', 'tally', 'total', 'contribute', 'tot', 'bestow', 'add', 'lend', 'sum_up', 'supply', 'add_up', 'add_together', 'sum', 'tote_up', 'bring']",The Murders
+we'll,[],The Murders
+gone,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'done_for', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'foregone', 'go_bad', 'kick_the_bucket', 'get_going', 'blend', 'survive', 'become', 'function', 'departed', 'bypast', 'extend', 'lead', 'endure', 'kaput', 'give-up_the_ghost', 'deceased', 'travel', 'run_short', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'depart', 'gone', 'croak', 'die', 'rifle', 'operate', 'at_rest', 'conk_out', 'belong', 'asleep', 'start', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'last', 'pass', 'buy_the_farm', 'get', 'bygone', 'perish', 'drop_dead', 'give_out', 'move', 'at_peace']",The Murders
+Frisco,[],The Murders
+Take,"['take_aim', 'hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'return', 'pick_out', 'ask', 'take_in', 'conduct', 'require', 'claim', 'consume', 'study', 'aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'takings', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'issue', 'carry', 'proceeds', 'ingest', 'make', 'rent', 'yield', 'shoot', 'assume', 'remove', 'take_on', 'payoff', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",The Murders
+tin,"['tin', 'cannister', 'canister', 'atomic_number_50', 'Sn', 'can', 'tin_can', 'put_up']",The Murders
+who,"['World_Health_Organization', 'WHO']",The Murders
+gin,"['gin_rummy', 'gin', 'snare', 'noose', 'knock_rummy', 'cotton_gin']",The Murders
+risk,"['peril', 'jeopardy', 'risk', 'run_a_risk', 'endangerment', 'risk_of_exposure', 'take_chances', 'take_a_chance', 'danger', 'gamble', 'adventure', 'risk_of_infection', 'chance', 'hazard', 'lay_on_the_line', 'put_on_the_line']",The Murders
+find,"['breakthrough', 'uncovering', 'receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'retrieve', 'rule', 'line_up', 'chance', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'encounter', 'find', 'find_oneself', 'get', 'ascertain', 'detect', 'discovery', 'obtain', 'see']",The Murders
+going,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'go_bad', 'kick_the_bucket', 'get_going', 'release', 'blend', 'survive', 'sledding', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'travel', 'run_short', 'give_way', 'leaving', 'go', 'run', 'work', 'live', 'pass_away', 'blend_in', 'depart', 'croak', 'die', 'rifle', 'operate', 'departure', 'passing', 'loss', 'belong', 'conk_out', 'start', 'hold_out', 'going', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'last', 'pass', 'expiration', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'going_away', 'move']",The Murders
+enough,"['sufficiency', 'adequate', 'decent', 'plenty', 'enough']",The Murders
+this,[],The Murders
+hand,"['hired_man', 'pass_on', 'pass', 'give', 'helping_hand', 'deal', 'mitt', 'bridge_player', 'manus', 'paw', 'hired_hand', 'turn_over', 'handwriting', 'hand', 'reach', 'script']",The Murders
+Also,"['also', 'likewise', 'besides', 'as_well', 'too']",The Murders
+food,"['intellectual_nourishment', 'food_for_thought', 'nutrient', 'food', 'solid_food']",The Murders
+near,"['approximate', 'most', 'draw_near', 'come_on', 'go_up', 'about', 'cheeseparing', 'dear', 'penny-pinching', 'close', 'nigh', 'good', 'approach', 'draw_close', 'near', 'well-nigh', 'come_near', 'nearly', 'almost', 'skinny', 'virtually']",The Murders
+let's,[],The Murders
+come,"['issue_forth', 'number', 'come_up', 'come_in', 'seed', 'do', 'make_out', 'seminal_fluid', 'fare', 'fall', 'get_along', 'semen', 'descend', 'occur', 'total', 'come', 'ejaculate', 'arrive', 'hail', 'get', 'follow', 'add_up', 'amount', 'cum', 'derive']",The Murders
+murder,"['mutilate', 'murder', 'dispatch', 'mangle', 'bump_off', 'off', 'slay', 'slaying', 'polish_off', 'remove', 'execution', 'hit']",The Murders
+pitch,"['cant', 'monger', 'sales_talk', 'toss', 'lurch', 'huckster', 'incline', 'flip', 'vend', 'sky', 'pitching', 'hawk', 'sales_pitch', 'gear', 'tar', 'peddle', 'pitch', 'slant', 'rake', 'delivery', 'cant_over', 'set_up', 'deliver', 'pitch_shot', 'auction_pitch', 'slope', 'shift', 'tilt']",The Murders
+pint,"['dry_pint', 'pint']",The Murders
+right,"['compensate', 'veracious', 'flop', 'properly', 'rightfulness', 'powerful', 'decently', 'justly', 'correct', 'the_right_way', 'good', 'proper', 'mightily', 'aright', 'right-hand', 'redress', 'right_on', 'mighty', 'rightfield', 'decent', 'right_hand', 'right', 'ripe', 'right_wing', 'right_field', 'correctly', 'in_good_order', 'rectify']",The Murders
+we'd,[],The Murders
+to,[],The Murders
+equivalent,"['equivalent', 'equivalent_weight', 'eq', 'tantamount', 'combining_weight']",The Murders
+care,"['precaution', 'like', 'attention', 'wish', 'manage', 'charge', 'guardianship', 'forethought', 'tending', 'aid', 'caution', 'worry', 'tutelage', 'concern', 'fear', 'care', 'maintenance', 'deal', 'give_care', 'upkeep', 'handle']",The Murders
+Mexico,"['United_Mexican_States', 'Mexico']",The Murders
+soundly,"['good', 'soundly', 'thoroughly']",The Murders
+The,[],The Murders
+level's,[],The Murders
+drank,"['booze', 'drink_in', 'imbibe', 'fuddle', 'toast', 'pledge', 'tope', 'drink', 'salute', 'wassail']",The Murders
+C'mon,[],The Murders
+stakes,"['game', 'wager', 'stakes', 'punt', 'gage', 'interest', 'jeopardize', 'venture', 'stake', 'adventure', 'bet', 'impale', 'post', 'hazard', 'bet_on', 'back']",The Murders
+agin,[],The Murders
+Our,[],The Murders
+Maxine,[],The Murders
+notes,"['billet', 'Federal_Reserve_note', 'annotation', 'bill', 'government_note', 'eminence', 'remark', 'distinction', 'musical_note', 'line', ""banker's_bill"", 'notice', 'short_letter', 'mark', 'observe', 'notation', 'tone', 'promissory_note', 'note_of_hand', 'banknote', 'preeminence', 'bank_bill', 'note', 'mention', 'bank_note', 'take_note', 'greenback', 'take_down']",The Murders
+alibi,"['self-justification', 'alibi', 'excuse', 'exculpation']",The Murders
+then,"['then', 'and_so', 'so', 'and_then']",The Murders
+but,"['only', 'simply', 'but', 'just', 'merely']",The Murders
+Seaton's,[],The Murders
+does,"['Department_of_Energy', 'set', 'do', 'suffice', 'manage', 'coiffe', 'doe', 'coiffure', 'execute', 'arrange', 'DOE', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'behave', 'practice', 'Energy', 'Energy_Department']",The Murders
+learned,"['find_out', 'well-read', 'memorise', 'read', 'determine', 'knowledgeable', 'study', 'hear', 'teach', 'learned', 'instruct', 'learn', 'memorize', 'get_word', 'erudite', 'discover', 'watch', 'get_a_line', 'pick_up', 'knowing', 'well-educated', 'conditioned', 'con', 'lettered', 'larn', 'get_wind', 'ascertain', 'check', 'take', 'acquire', 'see']",The Murders
+solid,"['solid', 'firm', 'satisfying', 'hearty', 'self-coloured', 'upstanding', 'self-colored', 'substantial', 'solidness', 'unanimous', 'whole', 'strong', 'square', 'solid_state']",The Murders
+they'll,[],The Murders
+word,"['Christian_Bible', 'countersign', 'give-and-take', 'Scripture', 'formulate', 'intelligence', 'discussion', 'parole', 'Logos', 'word', 'news', 'Word', 'Book', 'Bible', 'phrase', 'tidings', 'articulate', 'Son', 'password', 'Word_of_God', 'Holy_Writ', 'Holy_Scripture', 'watchword', 'give_voice', 'word_of_honor', 'Good_Book']",The Murders
+friend,"['champion', 'acquaintance', 'admirer', 'Quaker', 'friend', 'Friend', 'protagonist', 'ally', 'supporter', 'booster']",The Murders
+All,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",The Murders
+about,"['roughly', 'more_or_less', 'near', 'nigh', 'close_to', 'well-nigh', 'nearly', 'just_about', 'about', 'approximately', 'almost', 'or_so', 'astir', 'around', 'virtually', 'most', 'some']",The Murders
+accomplice,"['accomplice', 'confederate']",The Murders
+You'd,[],The Murders
+Let's,[],The Murders
+boarded,"['board', 'room', 'get_on']",The Murders
+chance,"['casual', 'risk', 'run_a_risk', 'bump', 'prospect', 'take_chances', 'take_a_chance', 'gamble', 'adventure', 'encounter', 'probability', 'find', 'chance', 'luck', 'hazard', 'opportunity', 'fortune', 'happen']",The Murders
+blaring,"['beep', 'blare', 'blast', 'claxon', 'toot', 'clamor', 'din', 'cacophony', 'honk', 'blaring', 'blasting']",The Murders
+o'clock,"[""o'clock""]",The Murders
+when,[],The Murders
+louder,"['gaudy', 'tawdry', 'flash', 'gimcrack', 'garish', 'brassy', 'loud', 'meretricious', 'tacky', 'trashy', 'tatty', 'cheap', 'forte', 'flashy']",The Murders
+looking,"['depend', 'appear', 'face', 'search', 'look', 'calculate', 'reckon', 'await', 'expect', 'bet', 'looking_at', 'looking', 'front', 'wait', 'take_care', 'seem', 'sounding', 'looking_for', 'attend', 'count', 'see']",The Murders
+taking,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'fetching', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'winning', 'carry', 'ingest', 'make', 'rent', 'taking', 'shoot', 'assume', 'remove', 'pickings', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",The Murders
+thought,"['thinking', 'cerebrate', 'cogitate', 'mean', 'guess', 'persuasion', 'reckon', 'remember', 'retrieve', 'cerebration', 'idea', 'consider', 'recall', 'sentiment', 'call_back', 'think', 'recollect', 'opinion', 'intend', 'suppose', 'thought', 'view', 'thought_process', 'imagine', 'conceive', 'intellection', 'opine', 'call_up', 'believe', 'mentation']",The Murders
+Doris,['Doris'],The Murders
+course,"['track', 'flow', 'course_of_study', 'trend', 'course_of_action', 'grade', 'of_course', 'naturally', 'course_of_instruction', 'course', 'path', 'run', 'feed', 'line', 'form', 'class', 'row']",The Murders
+reference,"['acknowledgment', 'character', 'source', 'denotation', 'citation', 'reference_point', 'computer_address', 'character_reference', 'extension', 'cite', 'credit', 'reference_work', 'book_of_facts', 'reference', 'address', 'mention', 'quotation', 'reference_book', 'point_of_reference', 'consultation']",The Murders
+weeks,"['workweek', 'hebdomad', 'week', 'calendar_week']",The Murders
+through,"['done', 'through', 'through_and_through', 'through_with']",The Murders
+pulled,"['overstretch', 'deplumate', 'draw_in', 'draw_out', 'pull_up', 'pull', 'take_out', 'rip', 'pluck', 'commit', 'root_for', 'get_out', 'deplume', 'perpetrate', 'attract', 'extract', 'pull_out', 'rive', 'pull_in', 'draw', 'rend', 'displume', 'tear', 'force']",The Murders
+Now,"['today', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'nowadays', 'directly', 'at_present', 'like_a_shot', 'immediately']",The Murders
+rummy,"['drunk', 'inebriate', 'rummy', 'funny', 'singular', 'wino', 'drunkard', 'peculiar', 'sot', 'odd', 'rum', 'queer', 'curious']",The Murders
+cop,"['copper', 'nab', 'glom', 'pig', 'snitch', 'cop', 'collar', 'bull', 'thieve', 'pick_up', 'hook', 'knock_off', 'nail', 'fuzz', 'arrest', 'apprehend']",The Murders
+stashed,"['hive_up', 'squirrel_away', 'stash', 'cache', 'hoard', 'lay_away']",The Murders
+dreamlessly,[],The Murders
+know,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",The Murders
+dirty,"['muddy', 'grime', 'filthy', 'cheating', 'soil', 'unclean', 'unsportsmanlike', 'sordid', 'dingy', 'lousy', 'bemire', 'pestiferous', 'foul', 'muddied', 'marked-up', 'begrime', 'soiled', 'colly', 'dirty', 'contaminating', 'unsporting', 'ill-gotten']",The Murders
+in,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",The Murders
+dope,"['boob', 'green_goddess', 'locoweed', 'dumbbell', 'skunk', 'gage', 'cola', 'sens', 'smoke', 'booby', 'pot', 'poop', 'sess', 'grass', 'the_skinny', 'dope_up', 'Mary_Jane', 'low-down', 'dummy', 'weed', 'dope', 'pinhead']",The Murders
+hands,"['men', 'mitt', 'custody', 'manus', 'work_force', 'give', 'handwriting', 'script', 'helping_hand', 'workforce', 'paw', 'hired_hand', 'hand', 'reach', 'manpower', 'pass_on', 'pass', 'deal', 'bridge_player', 'hands', 'hired_man', 'turn_over']",The Murders
+produce,"['garden_truck', 'bring_forth', 'green_groceries', 'raise', 'acquire', 'green_goods', 'make', 'give_rise', 'bring_on', 'farm', 'get', 'bring_out', 'grow', 'bring_about', 'create', 'develop', 'produce']",The Murders

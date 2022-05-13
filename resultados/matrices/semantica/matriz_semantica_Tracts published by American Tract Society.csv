@@ -1,0 +1,789 @@
+w,vector_semantico
+kept,"['celebrate', 'sustain', 'kept', 'save', 'keep_back', 'proceed', 'maintain', 'hold_open', 'prevent', 'unbroken', 'keep_on', 'keep_open', 'hold_on', 'stay_fresh', 'preserve', 'continue', 'observe', 'keep', 'restrain', 'retain', 'hold_back', 'hold', 'go_along', 'go_on']",Tracts published by American Tract Society
+left,"['get_out', 'leave_alone', 'go_away', 'left', 'left-hand', 'entrust', 'remaining', 'allow_for', 'exit', 'left_over', 'left_hand', 'go_out', 'pull_up_stakes', 'leftfield', 'go_forth', 'leftover', 'odd', 'impart', 'allow', 'leave', 'provide', 'depart', 'unexpended', 'left_wing', 'will', 'pass_on', 'bequeath', 'forget', 'leave_behind', 'left_field', 'lead', 'result', 'give']",Tracts published by American Tract Society
+Word,"['Word', 'Holy_Scripture', 'articulate', 'parole', 'password', 'countersign', 'formulate', 'Book', 'phrase', 'word_of_honor', 'Bible', 'Scripture', 'give_voice', 'Son', 'Logos', 'tidings', 'watchword', 'Christian_Bible', 'Holy_Writ', 'news', 'give-and-take', 'intelligence', 'Word_of_God', 'Good_Book', 'discussion', 'word']",Tracts published by American Tract Society
+joy,"['joyfulness', 'pleasure', 'gladden', 'joy', 'joyousness', 'delight', 'rejoice']",Tracts published by American Tract Society
+sin,"['sine', 'trespass', 'sinfulness', 'transgress', 'drop_the_ball', 'goof', 'Sin', 'wickedness', 'sinning', 'blunder', 'hell', 'sin', 'boob']",Tracts published by American Tract Society
+experiment,"['experimentation', 'try_out', 'experiment']",Tracts published by American Tract Society
+authoritative,"['classical', 'classic', 'authorized', 'authoritative', 'authorised', 'important', 'definitive']",Tracts published by American Tract Society
+filling,"['weft', 'take', 'replete', 'satisfy', 'make_full', 'sate', 'meet', 'fill_up', 'fulfill', 'fill', 'fulfil', 'occupy', 'satiate', 'woof', 'filling', 'pick']",Tracts published by American Tract Society
+practical,"['hard-nosed', 'practical', 'pragmatic', 'hardheaded', 'virtual']",Tracts published by American Tract Society
+night,"['nighttime', 'Night', 'night', 'Nox', 'dark']",Tracts published by American Tract Society
+works,"['kit_and_caboodle', 'piece_of_work', 'whole_kit_and_caboodle', 'employment', 'make', 'whole_kit_and_boodle', 'whole_works', 'whole_kit', 'bring', 'industrial_plant', 'kit_and_boodle', 'function', 'solve', 'wreak', 'works', 'deeds', 'oeuvre', 'operate', 'exploit', 'do_work', 'crop', 'work', 'exercise', 'mould', 'knead', 'form', 'workplace', 'whole_shebang', 'process', 'body_of_work', 'work_out', 'forge', 'play', 'whole_caboodle', 'plant', 'workings', 'make_for', 'cultivate', 'run', 'study', 'full_treatment', 'act', 'act_upon', 'shape', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",Tracts published by American Tract Society
+wonderful,"['marvelous', 'terrific', 'fantastic', 'grand', 'howling', 'wonderful', 'marvellous', 'wondrous', 'tremendous', 'rattling']",Tracts published by American Tract Society
+greater,"['large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'greater', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'dandy', 'peachy', 'expectant', 'smashing', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",Tracts published by American Tract Society
+with,[],Tracts published by American Tract Society
+doubt,"['dubiety', 'uncertainty', 'incertitude', 'question', 'dubiousness', 'doubt', 'doubtfulness']",Tracts published by American Tract Society
+utterly,"['absolutely', 'perfectly', 'utterly', 'dead']",Tracts published by American Tract Society
+offers,"['crack', 'whirl', 'provide', 'pop_the_question', 'volunteer', 'offer_up', 'offering', 'bid', 'go', 'offer', 'put_up', 'extend', 'fling', 'pass', 'proffer', 'declare_oneself', 'propose', 'tender']",Tracts published by American Tract Society
+like,"['corresponding', 'wish', 'like', 'similar', 'ilk', 'same', 'alike', 'the_likes_of', 'comparable', 'the_like', 'care']",Tracts published by American Tract Society
+written,"['written', 'pen', 'compose', 'save', 'publish', 'drop_a_line', 'scripted', 'write', 'spell', 'indite']",Tracts published by American Tract Society
+spirit,"['disembodied_spirit', 'spirit', 'intent', 'life', 'tone', 'spirit_up', 'feeling', 'flavour', 'emotional_state', 'inspirit', 'look', 'purport', 'heart', 'flavor', 'smell', 'liveliness', 'sprightliness', 'feel']",Tracts published by American Tract Society
+scientists,['scientist'],Tracts published by American Tract Society
+Why,"['wherefore', 'why']",Tracts published by American Tract Society
+country,"['commonwealth', 'country', 'rural_area', 'body_politic', 'land', 'state', 'nation', 'res_publica', 'area']",Tracts published by American Tract Society
+who,"['World_Health_Organization', 'WHO']",Tracts published by American Tract Society
+past,"['past_tense', 'retiring', 'past', 'yesteryear', 'preceding', 'past_times', 'by']",Tracts published by American Tract Society
+weaken,"['damp', 'countermine', 'subvert', 'de-escalate', 'step_down', 'weaken', 'sabotage', 'break', 'dampen', 'undermine', 'counteract', 'soften']",Tracts published by American Tract Society
+stayed,"['bide', 'stick', 'abide', 'outride', 'continue', 'appease', 'remain', 'stick_around', 'detain', 'rest', 'stay', 'ride_out', 'persist', 'quell', 'last_out', 'stay_put', 'stay_on', 'delay']",Tracts published by American Tract Society
+am,"['cost', 'Master_of_Arts', 'Artium_Magister', 'live', 'atomic_number_95', 'constitute', 'americium', 'Am', 'represent', 'make_up', 'be', 'amplitude_modulation', 'equal', 'embody', 'comprise', 'exist', 'follow', 'AM', 'personify', 'MA']",Tracts published by American Tract Society
+privileges,"['perquisite', 'favor', 'prerogative', 'exclusive_right', 'privilege', 'favour']",Tracts published by American Tract Society
+150,"['cl', 'one_hundred_fifty', '150']",Tracts published by American Tract Society
+In,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",Tracts published by American Tract Society
+interpolations,"['interpellation', 'interpolation', 'interposition', 'interjection', 'insertion']",Tracts published by American Tract Society
+putting,"['putting', 'put', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'putt', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",Tracts published by American Tract Society
+For,[],Tracts published by American Tract Society
+value,"['value', 'evaluate', 'prise', 'valuate', 'respect', 'economic_value', 'esteem', 'appraise', 'appreciate', 'treasure', 'note_value', 'time_value', 'rate', 'prize', 'measure', 'assess']",Tracts published by American Tract Society
+troubles,"['distract', 'inconvenience_oneself', 'incommode', 'upset', 'fuss', 'trouble_oneself', 'ail', 'disoblige', 'problem', 'inconvenience', 'perturb', 'put_out', 'worry', 'unhinge', 'disquiet', 'trouble', 'pain', 'cark', 'difficulty', 'hassle', 'bother', 'discommode', 'disorder', 'disturb']",Tracts published by American Tract Society
+presence,"['presence', 'mien', 'bearing', 'comportment', 'front']",Tracts published by American Tract Society
+Hebrew,"['Israelite', 'Jew', 'Hebrew', 'Hebraic', 'Hebraical']",Tracts published by American Tract Society
+wonders,"['wonderment', 'admiration', 'wonder', 'inquire', 'enquire', 'question', 'marvel', 'curiosity']",Tracts published by American Tract Society
+made,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'make_up', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'made', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",Tracts published by American Tract Society
+So,"['sol', 'thusly', 'therefore', 'indeed', 'and_so', 'soh', 'thus', 'thence', 'then', 'and_then', 'hence', 'so']",Tracts published by American Tract Society
+trusteth,[],Tracts published by American Tract Society
+knowledge,"['cognition', 'noesis', 'knowledge']",Tracts published by American Tract Society
+claim,"['claim', 'exact', 'title', 'lay_claim', 'take', 'call', 'arrogate']",Tracts published by American Tract Society
+body,"['trunk', 'dead_body', 'body', 'consistence', 'eubstance', 'torso', 'organic_structure', 'physical_structure', 'personify', 'soundbox', 'consistency']",Tracts published by American Tract Society
+life,"['lifetime', 'life-time', 'spirit', 'aliveness', 'life', 'lifespan', 'biography', 'life_story', 'life_sentence', 'animation', 'life_history', 'liveliness', 'sprightliness', 'living']",Tracts published by American Tract Society
+glow,"['glow', 'gleam', 'shine', 'luminescence', 'radiate', 'gleaming', 'radiance', 'incandescence', 'glowing', 'lambency', 'burn', 'beam', 'freshness']",Tracts published by American Tract Society
+perfect,"['staring', 'perfective_tense', 'perfective', 'gross', 'perfect', 'consummate', 'sodding', 'thoroughgoing', 'arrant', 'pure', 'stark', 'double-dyed', 'perfect_tense', 'everlasting', 'hone', 'unadulterated', 'complete', 'utter']",Tracts published by American Tract Society
+called,"['ring', 'shout_out', 'anticipate', 'promise', 'cry', 'shout', 'yell', 'predict', 'foretell', 'call_off', 'forebode', 'squall', 'visit', 'call', 'phone', 'hollo', 'call_in', 'name', 'prognosticate', 'holler', 'telephone', 'send_for', 'address', 'scream', 'bid', 'call_up']",Tracts published by American Tract Society
+to,[],Tracts published by American Tract Society
+in,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",Tracts published by American Tract Society
+God,"['idol', 'deity', 'immortal', 'divinity', 'God', 'Supreme_Being', 'god', 'graven_image']",Tracts published by American Tract Society
+losing,"['recede', 'turn_a_loss', 'lose', 'fall_behind', 'suffer', 'mislay', 'fall_back', 'misplace', 'drop_off', 'miss']",Tracts published by American Tract Society
+fearful,"['dreaded', 'frightening', 'timorous', 'trepid', 'fearsome', 'direful', 'terrible', 'dire', 'awful', 'horrific', 'fearful', 'frightful', 'dreadful', 'cowardly', 'horrendous', 'dread']",Tracts published by American Tract Society
+happy,"['felicitous', 'well-chosen', 'happy', 'glad']",Tracts published by American Tract Society
+forgotten,"['forgotten', 'forget', 'block', 'disregarded', 'bury', 'blank_out', 'draw_a_blank', 'leave']",Tracts published by American Tract Society
+United,"['unify', 'combine', 'united', 'connect', 'link', 'link_up', 'merge', 'joined', 'unite', 'join']",Tracts published by American Tract Society
+patients,"['patient', 'patient_role', 'affected_role']",Tracts published by American Tract Society
+rockets,"['roquette', 'arugula', 'skyrocket', 'Eruca_sativa', 'rocket_salad', 'rocket_engine', 'Eruca_vesicaria_sativa', 'garden_rocket', 'projectile', 'rocket']",Tracts published by American Tract Society
+Himself,[],Tracts published by American Tract Society
+makes,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'brand', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'shuffling', 'make_up', 'shuffle', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",Tracts published by American Tract Society
+earthly,['earthly'],Tracts published by American Tract Society
+Truth,"['trueness', 'Truth', 'Sojourner_Truth', 'the_true', 'true_statement', 'accuracy', 'verity', 'truth']",Tracts published by American Tract Society
+radiant,"['beamy', 'beaming', 'refulgent', 'radiant', 'effulgent']",Tracts published by American Tract Society
+temporarily,['temporarily'],Tracts published by American Tract Society
+century,"['C', '100', 'hundred', 'one_C', 'century']",Tracts published by American Tract Society
+television,"['telecasting', 'television_set', 'boob_tube', 'TV', 'television_system', 'video', 'idiot_box', 'tv_set', 'tv', 'television_receiver', 'goggle_box', 'telly', 'television']",Tracts published by American Tract Society
+depart,"['take_leave', 'deviate', 'go_away', 'sidetrack', 'diverge', 'straggle', 'start_out', 'set_off', 'pull_up_stakes', 'digress', 'leave', 'vary', 'depart', 'set_out', 'quit', 'take_off', 'set_forth', 'part', 'go', 'start']",Tracts published by American Tract Society
+though,['though'],Tracts published by American Tract Society
+radio,"['wireless', 'radio_set', 'radio', 'radiocommunication', 'tuner', 'receiving_set', 'radio_receiver']",Tracts published by American Tract Society
+half,"['half', 'one-half']",Tracts published by American Tract Society
+wrote,"['pen', 'compose', 'save', 'publish', 'drop_a_line', 'write', 'spell', 'indite']",Tracts published by American Tract Society
+functions,"['map', 'function', 'officiate', 'subprogram', 'procedure', 'operate', 'purpose', 'work', 'mapping', 'role', 'occasion', 'office', 'subroutine', 'single-valued_function', 'run', 'serve', 'mathematical_function', 'part', 'affair', 'use', 'go', 'social_occasion', 'social_function', 'routine']",Tracts published by American Tract Society
+destroy,"['ruin', 'destruct', 'put_down', 'destroy', 'demolish']",Tracts published by American Tract Society
+Psalm,"['Psalm', 'psalm']",Tracts published by American Tract Society
+:,[],Tracts published by American Tract Society
+continue,"['proceed', 'bear_on', 'preserve', 'continue', 'keep', 'carry_on', 'retain', 'remain', 'keep_on', 'cover', 'persist_in', 'stay', 'extend', 'go_along', 'go_forward', 'uphold', 'go_on', 'stay_on']",Tracts published by American Tract Society
+holding,"['sustain', 'view_as', 'make', 'curb', 'confine', 'keep_back', 'retention', 'have_got', 'property', 'defend', 'hold_up', 'have', 'concur', 'maintain', 'support', 'admit', 'arrest', 'concord', 'entertain', 'accommodate', 'obligate', 'bear', 'throw', 'harbour', 'nurse', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'moderate', 'take_hold', 'belongings', 'halt', 'declare', 'keeping', 'take', 'holding', 'restrain', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'adjudge', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'withstand', 'agree', 'reserve']",Tracts published by American Tract Society
+inspired,"['divine', 'invigorate', 'enliven', 'cheer', 'pep_up', 'exalt', 'exhort', 'revolutionise', 'instigate', 'inhale', 'breathe_in', 'prompt', 'barrack', 'elysian', 'animate', 'revolutionize', 'urge', 'inspire', 'inspired', 'root_on', 'urge_on']",Tracts published by American Tract Society
+spiritually,['spiritually'],Tracts published by American Tract Society
+any,"['whatever', 'any', 'whatsoever']",Tracts published by American Tract Society
+ask,"['involve', 'expect', 'necessitate', 'take', 'inquire', 'enquire', 'postulate', 'require', 'ask', 'demand', 'call_for', 'need']",Tracts published by American Tract Society
+them,[],Tracts published by American Tract Society
+Jesus,"['Good_Shepherd', 'Redeemer', 'Christ', 'the_Nazarene', 'Jesus_of_Nazareth', 'Deliverer', 'Saviour', 'Savior', 'Jesus', 'Jesus_Christ']",Tracts published by American Tract Society
+``,[],Tracts published by American Tract Society
+share,"['portion_out', 'deal', 'partake', 'divvy_up', 'part', 'apportion', 'contribution', 'ploughshare', 'portion', 'parcel', 'share', 'plowshare', 'percentage', 'partake_in']",Tracts published by American Tract Society
+help,"['assistance', 'serve', 'assistant', 'aid', 'avail', 'help_oneself', 'helper', 'service', 'facilitate', 'supporter', 'help', 'assist']",Tracts published by American Tract Society
+through,"['through_and_through', 'done', 'through', 'through_with']",Tracts published by American Tract Society
+'',[],Tracts published by American Tract Society
+religious,"['spiritual', 'religious']",Tracts published by American Tract Society
+truly,"['unfeignedly', 'genuinely', 'really', 'in_truth', 'truly', 'sincerely', 'rightfully']",Tracts published by American Tract Society
+Testaments,"['Testament', 'testament', 'will']",Tracts published by American Tract Society
+every,['every'],Tracts published by American Tract Society
+Americans,"['American_language', 'American', 'American_English']",Tracts published by American Tract Society
+Read,"['understand', 'say', 'take', 'study', 'read', 'interpret', 'register', 'translate', 'learn', 'show', 'scan', 'record']",Tracts published by American Tract Society
+Peace,"['peacefulness', 'serenity', 'public_security', 'peace', 'repose', 'heartsease', 'peace_treaty', 'peace_of_mind', 'ataraxis', 'pacification']",Tracts published by American Tract Society
+Prophet,"['vaticinator', 'prophet', 'seer', 'prophesier', 'oracle']",Tracts published by American Tract Society
+States,"['state_of_matter', 'Department_of_State', 'commonwealth', 'United_States_Department_of_State', 'submit', 'province', 'posit', 'body_politic', 'tell', 'express', 'state', 'say', 'country', 'DoS', 'State', 'land', 'State_Department', 'nation', 'res_publica', 'put_forward']",Tracts published by American Tract Society
+four,"['iv', 'quartet', 'four-spot', 'quadruplet', '4', 'IV', 'four', 'quaternary', 'quatern', 'quaternity', 'foursome', 'tetrad', 'Little_Joe', 'quaternion']",Tracts published by American Tract Society
+marriages,"['man_and_wife', 'marriage', 'wedlock', 'married_couple', 'union', 'spousal_relationship', 'wedding', 'matrimony', 'marriage_ceremony']",Tracts published by American Tract Society
+has,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'hour_angle', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'HA', 'hold', 'receive']",Tracts published by American Tract Society
+refute,"['controvert', 'rebut', 'refute']",Tracts published by American Tract Society
+constantly,"['always', 'perpetually', 'forever', 'constantly', 'incessantly', 'invariably']",Tracts published by American Tract Society
+whether,[],Tracts published by American Tract Society
+dismissing,"['give_notice', 'sack', 'throw_out', 'terminate', 'brush_off', 'dismiss', 'discount', 'disregard', 'brush_aside', 'give_the_sack', 'ignore', 'dissolve', 'give_the_axe', 'drop', 'displace', 'force_out', 'send_away', 'fire', 'push_aside', 'can', 'usher_out', 'send_packing']",Tracts published by American Tract Society
+opposed,"['fight_back', 'fight', 'pit', 'play_off', 'match', 'fight_down', 'contradict', 'react', 'counterbalance', 'opposed', 'controvert', 'defend', 'oppose']",Tracts published by American Tract Society
+was,"['constitute', 'WA', 'equal', 'Evergreen_State', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify', 'Washington']",Tracts published by American Tract Society
+forms,"['mannequin', 'variant', 'organise', 'make', 'pattern', 'physique', 'figure', 'contour', 'material_body', 'imprint', 'bod', 'soma', 'conformation', 'class', 'constitute', 'organize', 'course', 'mannikin', 'build', 'anatomy', 'phase', 'word_form', 'variety', 'flesh', 'kind', 'physical_body', 'manakin', 'work', 'mould', 'form', 'descriptor', 'cast', 'take_shape', 'forge', 'manikin', 'frame', 'chassis', 'grade', 'signifier', 'strain', 'spring', 'shape', 'configuration', 'human_body', 'sort', 'var.', 'mold', 'take_form']",Tracts published by American Tract Society
+Thou,"['G', 'yard', 'M', 'grand', 'K', 'one_thousand', 'chiliad', 'thou', 'thousand', '1000']",Tracts published by American Tract Society
+recorded,"['enter', 'recorded', 'memorialize', 'read', 'immortalise', 'tape', 'commemorate', 'immortalize', 'register', 'put_down', 'show', 'memorialise', 'record']",Tracts published by American Tract Society
+years,"['years', 'yr', 'old_age', 'age', 'twelvemonth', 'class', 'days', 'eld', 'geezerhood', 'year', 'long_time']",Tracts published by American Tract Society
+for,[],Tracts published by American Tract Society
+step,"['footstep', 'pace', 'stride', 'ill-use', 'ill-treat', 'footprint', 'tone', 'tread', 'whole_tone', 'footfall', 'abuse', 'dance_step', 'mistreat', 'footmark', 'gradation', 'step', 'maltreat', 'whole_step', ""stone's_throw"", 'stair', 'measure']",Tracts published by American Tract Society
+"70,000,000",[],Tracts published by American Tract Society
+sense,"['common_sense', 'smell_out', 'sensation', 'sense', 'horse_sense', 'good_sense', 'mother_wit', 'gumption', 'signified', 'sentience', 'sentiency', 'smell', 'sensory_faculty', 'feel']",Tracts published by American Tract Society
+Saviour,"['Good_Shepherd', 'Redeemer', 'Christ', 'the_Nazarene', 'Jesus_of_Nazareth', 'Deliverer', 'savior', 'Saviour', 'Savior', 'saviour', 'Jesus', 'deliverer', 'Jesus_Christ', 'rescuer']",Tracts published by American Tract Society
+He,"['He', 'helium', 'atomic_number_2', 'he']",Tracts published by American Tract Society
+been,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Tracts published by American Tract Society
+leads,"['trail', 'tip', 'jumper_cable', 'booster_cable', 'confidential_information', 'leash', 'track', 'lead_story', 'guide', 'spark_advance', 'lead-in', 'contribute', 'Pb', 'conduce', 'pencil_lead', 'jumper_lead', 'head', 'precede', 'leading', 'leave', 'steer', 'direct', 'wind', 'lede', 'top', 'pass', 'principal', 'moderate', 'chair', 'atomic_number_82', 'run', 'take', 'lead', 'tether', 'result', 'conduct', 'go', 'extend', 'star', 'hint']",Tracts published by American Tract Society
+important,"['of_import', 'crucial', 'significant', 'important', 'authoritative']",Tracts published by American Tract Society
+beyond,['beyond'],Tracts published by American Tract Society
+inculcated,"['instill', 'infuse', 'inculcate']",Tracts published by American Tract Society
+merely,"['simply', 'merely', 'only', 'just', 'but']",Tracts published by American Tract Society
+gain,"['arrive_at', 'make', 'put_on', 'take_in', 'clear', 'hit', 'realise', 'addition', 'win', 'amplification', 'make_headway', 'earn', 'pull_ahead', 'gain_ground', 'pull_in', 'profit', 'acquire', 'benefit', 'attain', 'increase', 'derive', 'gather', 'reach', 'bring_in', 'get_ahead', 'gain', 'realize', 'advance']",Tracts published by American Tract Society
+room,"['way', 'room', 'elbow_room', 'board']",Tracts published by American Tract Society
+public,"['public', 'populace', 'world']",Tracts published by American Tract Society
+bread,"['moolah', 'clams', 'loot', 'gelt', 'lolly', 'cabbage', 'kale', 'scratch', 'boodle', 'sugar', 'lettuce', 'wampum', 'shekels', 'pelf', 'staff_of_life', 'breadstuff', 'bread', 'dough', 'simoleons', 'lucre', 'dinero']",Tracts published by American Tract Society
+looked,"['expect', 'appear', 'reckon', 'wait', 'look', 'attend', 'face', 'bet', 'depend', 'see', 'await', 'calculate', 'take_care', 'count', 'seem', 'front', 'search']",Tracts published by American Tract Society
+props,"['airplane_propeller', 'prop_up', 'prop', 'props', 'shore_up', 'airscrew', 'shore', 'property']",Tracts published by American Tract Society
+likewise,"['besides', 'also', 'similarly', 'alike', 'likewise', 'as_well', 'too']",Tracts published by American Tract Society
+substitutes,"['fill-in', 'replacement', 'sub', 'stand_in', 'reliever', 'relief', 'step_in', 'deputise', 'interchange', 'backup', 'second-stringer', 'deputize', 'substitute', 'stand-in', 'exchange', 'fill_in', 'replace', 'backup_man', 'reserve']",Tracts published by American Tract Society
+herpetology,['herpetology'],Tracts published by American Tract Society
+exception,"['exception', 'elision', 'exclusion']",Tracts published by American Tract Society
+some,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",Tracts published by American Tract Society
+privilege,"['perquisite', 'favor', 'prerogative', 'exclusive_right', 'privilege', 'favour']",Tracts published by American Tract Society
+followed,"['stick_with', 'succeed', 'accompany', 'espouse', 'postdate', 'keep_an_eye_on', 'watch', 'pursue', 'surveil', 'fall_out', 'stick_to', 'keep_abreast', 'play_along', 'survey', 'come_after', 'take_after', 'be', 'abide_by', 'conform_to', 'keep_up', 'observe', 'watch_over', 'comply', 'come', 'adopt', 'follow', 'trace', 'travel_along']",Tracts published by American Tract Society
+need,"['motivation', 'involve', 'necessitate', 'want', 'take', 'call_for', 'motive', 'postulate', 'require', 'penury', 'ask', 'pauperism', 'demand', 'pauperization', 'indigence', 'need']",Tracts published by American Tract Society
+and,[],Tracts published by American Tract Society
+"$200,000,000",[],Tracts published by American Tract Society
+hearty,"['red-blooded', 'lusty', 'hearty', 'satisfying', 'full-blooded', 'solid', 'square', 'substantial']",Tracts published by American Tract Society
+guiding,"['guiding', 'draw', 'channelise', 'guide', 'maneuver', 'manoeuver', 'manoeuvre', 'head', 'direct', 'steer', 'guide_on', 'point', 'directing', 'pass', 'run', 'channelize', 'lead', 'take', 'directive', 'conduct', 'directional']",Tracts published by American Tract Society
+message,"['substance', 'content', 'subject_matter', 'message']",Tracts published by American Tract Society
+believe,"['conceive', 'trust', 'believe', 'think', 'consider']",Tracts published by American Tract Society
+duties,"['tariff', 'duty', 'obligation', 'responsibility']",Tracts published by American Tract Society
+portion,"['fate', 'portion', 'helping', 'allot', 'lot', 'serving', 'percentage', 'component', 'component_part', 'parcel', 'luck', 'constituent', 'assign', 'circumstances', 'destiny', 'dower', 'dowry', 'fortune', 'dowery', 'part', 'share']",Tracts published by American Tract Society
+link,"['connection', 'radio_link', 'link', 'tie-in', 'join', 'contact', 'connect', 'connectedness', 'link_up', 'connexion', 'tie_in', 'unite', 'inter-group_communication', 'colligate', 'data_link', 'relate', 'nexus', 'tie', 'associate', 'yoke', 'linkup', 'liaison']",Tracts published by American Tract Society
+Before,"['before', 'in_front', 'earlier', 'ahead']",Tracts published by American Tract Society
+Father,"['generate', 'father', 'Padre', 'forefather', 'Father', 'founding_father', 'mother', 'engender', 'Fatherhood', 'Church_Father', 'male_parent', 'begetter', 'get', 'beget', 'Father-God', 'don', 'Father_of_the_Church', 'founder', 'beginner', 'bring_forth', 'sire']",Tracts published by American Tract Society
+spirituality,"['spiritism', 'spiritualism', 'spirituality', 'spiritualty', 'church_property', 'otherworldliness']",Tracts published by American Tract Society
+relatives,"['congener', 'congenator', 'relation', 'congeneric', 'relative']",Tracts published by American Tract Society
+naturally,"['of_course', 'naturally', 'by_nature', 'course']",Tracts published by American Tract Society
+tendered,"['tenderize', 'offer', 'bid', 'tenderise', 'tender']",Tracts published by American Tract Society
+Are,"['constitute', 'equal', 'are', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'personify', 'exist', 'follow', 'ar']",Tracts published by American Tract Society
+reported,"['describe', 'reported', 'cover', 'report', 'account']",Tracts published by American Tract Society
+all,"['entirely', 'all', 'whole', 'completely', 'totally', 'altogether', 'wholly']",Tracts published by American Tract Society
+vital,"['full_of_life', 'life-sustaining', 'vital', 'critical', 'lively']",Tracts published by American Tract Society
+Book,"['script', 'Word', 'Koran', 'Holy_Scripture', 'book_of_account', 'Book', 'leger', 'volume', 'rule_book', 'Quran', 'Bible', 'Scripture', 'record', 'account_book', 'ledger', 'book', 'Christian_Bible', 'Holy_Writ', ""al-Qur'an"", 'record_book', 'Word_of_God', 'Good_Book', 'playscript', 'hold', 'reserve']",Tracts published by American Tract Society
+gazing,"['gaze', 'stare']",Tracts published by American Tract Society
+times,"['metre', 'time', 'prison_term', 'fourth_dimension', 'times', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'multiplication']",Tracts published by American Tract Society
+profit,"['profits', 'gain', 'profit', 'earnings', 'turn_a_profit', 'benefit', 'lucre', 'net', 'net_income', 'net_profit']",Tracts published by American Tract Society
+dearest,"['costly', 'love', 'high-priced', 'honey', 'heartfelt', 'dear', 'pricey', 'pricy', 'dearest', 'earnest', 'devout', 'beloved', 'darling', 'near', 'good']",Tracts published by American Tract Society
+sputniks,['sputnik'],Tracts published by American Tract Society
+out,"['come_out', 'forbidden', 'taboo', 'stunned', 'tabu', 'away', 'extinct', 'kayoed', 'prohibited', 'proscribed', 'come_out_of_the_closet', 'out', 'verboten', 'knocked_out', ""KO'd""]",Tracts published by American Tract Society
+events,"['case', 'upshot', 'outcome', 'consequence', 'result', 'event', 'effect', 'issue']",Tracts published by American Tract Society
+average,"['norm', 'mediocre', 'intermediate', 'average_out', 'modal', 'medium', 'average', 'median', 'mean', 'fair', 'middling', 'ordinary']",Tracts published by American Tract Society
+ministering,['minister'],Tracts published by American Tract Society
+newspaper,"['newsprint', 'newspaper', 'paper', 'newspaper_publisher']",Tracts published by American Tract Society
+too,"['excessively', 'overly', 'besides', 'also', 'to_a_fault', 'likewise', 'as_well', 'too']",Tracts published by American Tract Society
+significant,"['meaning', 'significant', 'pregnant', 'important', 'substantial']",Tracts published by American Tract Society
+Gospel,"['gospel', 'religious_doctrine', 'creed', 'gospel_truth', 'church_doctrine', 'gospel_singing', 'evangel', 'Gospels', 'Gospel']",Tracts published by American Tract Society
+Unfortunately,"['alas', 'regrettably', 'unluckily', 'unfortunately']",Tracts published by American Tract Society
+modern,"['New', 'modern', 'modernistic', 'innovative', 'mod', 'forward-looking', 'Modern', 'modern_font', 'Bodoni_font', 'Bodoni', 'advanced']",Tracts published by American Tract Society
+8,"['eighter', 'ogdoad', '8', 'eighter_from_Decatur', 'octet', 'VIII', 'octad', 'octonary', 'viii', 'eight']",Tracts published by American Tract Society
+standards,"['touchstone', 'standard', 'monetary_standard', 'banner', 'criterion', 'measure']",Tracts published by American Tract Society
+",",[],Tracts published by American Tract Society
+praise,"['congratulations', 'praise', 'extolment', 'kudos']",Tracts published by American Tract Society
+Genesis,"['generation', 'Book_of_Genesis', 'genesis', 'Genesis']",Tracts published by American Tract Society
+Such,['such'],Tracts published by American Tract Society
+assurance,"['self-assurance', 'self-confidence', 'confidence', 'sureness', 'assurance', 'pledge', 'authority']",Tracts published by American Tract Society
+such,['such'],Tracts published by American Tract Society
+Test,"['test', 'exam', 'tryout', 'run', 'mental_test', 'try', 'prove', 'essay', 'quiz', 'trial', 'examination', 'mental_testing', 'examine', 'screen', 'psychometric_test', 'trial_run', 'try_out']",Tracts published by American Tract Society
+let,"['allow', 'LET', 'countenance', 'get', 'Lashkar-e-Tayyiba', 'Lashkar-e-Taiba', 'have', 'Lashkar-e-Toiba', 'permit', 'lease', 'Army_of_the_Pure', 'Army_of_the_Righteous', 'let', 'rent', 'net_ball']",Tracts published by American Tract Society
+mouth-watering,"['savoury', 'mouth-watering', 'savory']",Tracts published by American Tract Society
+New,"['unexampled', 'New', 'freshly', 'new', 'newly', 'raw', 'Modern', 'young', 'newfangled', 'fresh', 'novel']",Tracts published by American Tract Society
+captured,"['get', 'entrance', 'becharm', 'trance', 'bewitch', 'captivate', 'enchant', 'charm', 'beguile', 'catch', 'enamor', 'fascinate', 'appropriate', 'seize', 'capture', 'conquer', 'enamour']",Tracts published by American Tract Society
+intimate,"['sexual', 'suggest', 'familiar', 'knowledgeable', 'intimate', 'inner', 'adumbrate', 'insinuate', 'cozy', 'internal', 'confidant', 'informal', 'versed']",Tracts published by American Tract Society
+full-time,['full-time'],Tracts published by American Tract Society
+Higher,"['eminent', 'gamey', 'higher', 'mellow', 'high', 'in_high_spirits', 'high-pitched', 'gamy']",Tracts published by American Tract Society
+come,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",Tracts published by American Tract Society
+suicides,"['felo-de-se', 'suicide', 'self-destruction', 'self-annihilation']",Tracts published by American Tract Society
+And,[],Tracts published by American Tract Society
+.,[],Tracts published by American Tract Society
+pray,"['implore', 'beg', 'pray']",Tracts published by American Tract Society
+mycology,['mycology'],Tracts published by American Tract Society
+inexpressibly,[],Tracts published by American Tract Society
+number,"['number', 'total', 'telephone_number', 'identification_number', 'list', 'figure', 'issue', 'numerate', 'count', 'amount', 'keep_down', 'add_up', 'phone_number', 'enumerate', 'act', 'bit', 'come', 'routine', 'turn', 'numeral']",Tracts published by American Tract Society
+sure,"['sure', 'certain', 'for_sure', 'sure_as_shooting', 'for_certain', 'trusted', 'indisputable', 'surely', 'certainly', 'sure_enough']",Tracts published by American Tract Society
+17,"['XVII', '17', 'xvii', 'seventeen']",Tracts published by American Tract Society
+when,[],Tracts published by American Tract Society
+up,"['up', 'astir', 'upward', 'improving', 'upwardly', 'upwards']",Tracts published by American Tract Society
+next,"['succeeding', 'next', 'future', 'following', 'adjacent', 'side_by_side']",Tracts published by American Tract Society
+While,"['patch', 'spell', 'piece', 'while']",Tracts published by American Tract Society
+floundering,"['flounder', 'stagger']",Tracts published by American Tract Society
+itself,[],Tracts published by American Tract Society
+Isaiah,"['Isaiah', 'Book_of_Isaiah']",Tracts published by American Tract Society
+reasons,"['intellect', 'reason', 'reason_out', 'reasonableness', 'rationality', 'argue', 'understanding', 'conclude', 'cause', 'grounds', 'ground']",Tracts published by American Tract Society
+formulate,"['develop', 'explicate', 'excogitate', 'invent', 'phrase', 'articulate', 'word', 'forge', 'contrive', 'formulate', 'give_voice', 'devise']",Tracts published by American Tract Society
+by,"['away', 'by', 'aside', 'past']",Tracts published by American Tract Society
+fortune-tellers,[],Tracts published by American Tract Society
+),[],Tracts published by American Tract Society
+still,"['distillery', 'stillness', 'even', 'static', 'silent', 'quieten', 'all_the_same', 'even_so', 'inactive', 'calm', 'placid', 'allay', 'still', 'calm_down', 'lull', 'quiet', 'silence', 'tranquil', 'tranquillize', 'yet', 'noneffervescent', 'hush', 'soundless', 'nonetheless', 'notwithstanding', 'shut_up', 'unruffled', 'smooth', 'tranquillise', 'ease', 'stock-still', 'relieve', 'however', 'nevertheless', 'tranquilize', 'motionless', 'hush_up', 'withal']",Tracts published by American Tract Society
+earth,"['worldly_concern', 'earth', 'globe', 'terra_firma', 'world', 'Earth', 'dry_land', 'land', 'solid_ground', 'ground', 'earthly_concern']",Tracts published by American Tract Society
+What,[],Tracts published by American Tract Society
+as,"['A', 'atomic_number_33', 'axerophthol', 'amp', 'American_Samoa', 'type_A', 'adenine', 'as', 'group_A', 'every_bit', 'AS', 'Eastern_Samoa', 'vitamin_A', 'equally', 'deoxyadenosine_monophosphate', 'angstrom', 'a', 'ampere', 'arsenic', 'As', 'angstrom_unit', 'antiophthalmic_factor']",Tracts published by American Tract Society
+bliss,"['seventh_heaven', 'bliss', 'cloud_nine', 'walking_on_air', 'blissfulness']",Tracts published by American Tract Society
+seeming,"['apparent', 'appear', 'seeming', 'look', 'ostensible', 'seem']",Tracts published by American Tract Society
+they'll,[],Tracts published by American Tract Society
+representative,"['illustration', 'congressman', 'voice', 'interpreter', 'representative', 'congresswoman', 'spokesperson', 'example', 'instance']",Tracts published by American Tract Society
+discuss,"['discus', 'hash_out', 'talk_over', 'talk_about', 'saucer', 'discourse', 'discuss']",Tracts published by American Tract Society
+daring,"['presume', 'venturous', 'make_bold', 'boldness', 'venturesome', 'audacious', 'hardihood', 'avant-garde', 'hardiness', 'daring', 'defy', 'dare']",Tracts published by American Tract Society
+aware,"['cognisant', 'cognizant', 'aware', 'mindful']",Tracts published by American Tract Society
+tested,"['tried', 'test', 'essay', 'quiz', 'try', 'well-tried', 'tried_and_true', 'prove', 'examine', 'screen', 'time-tested', 'try_out', 'tested']",Tracts published by American Tract Society
+implied,"['involve', 'imply', 'incriminate', 'connote', 'entail', 'mean', 'inculpate']",Tracts published by American Tract Society
+light,"['light_up', 'spark', 'ignitor', 'lightheaded', 'light-headed', 'luminance', 'lite', 'calorie-free', 'easy', 'Christ_Within', 'igniter', 'clear', 'sparkle', 'Inner_Light', 'faint', 'light_source', 'light-colored', 'visible_radiation', 'ignite', 'lightness', 'twinkle', 'perch', 'get_down', 'short', 'idle', 'illume', 'loose', 'illuminate', 'wanton', 'illumine', 'tripping', 'luminousness', 'light', 'unhorse', 'weak', 'lighting', 'lightly', 'alight', 'scant', 'fall', 'visible_light', 'brightness', 'unaccented', 'abstemious', 'sluttish', 'Light_Within', 'swooning', 'wakeful', 'illumination', 'Light', 'lightsome', 'low-cal', 'fire_up', 'promiscuous', 'unclouded', 'brightness_level', 'dismount', 'clean', 'lighter', 'get_off', 'luminosity']",Tracts published by American Tract Society
+I,"['one', 'I', 'iodin', 'atomic_number_53', 'single', 'ace', 'i', 'iodine', 'unity', '1', 'ane']",Tracts published by American Tract Society
+stood,"['remain_firm', 'stomach', 'tolerate', 'abide', 'digest', 'endure', 'bear', 'fend', 'place_upright', 'support', 'stand', 'put_up', 'resist', 'stand_up', 'suffer', 'brook', 'stick_out']",Tracts published by American Tract Society
+Pragmatism,"['realism', 'pragmatism']",Tracts published by American Tract Society
+abide,"['stomach', 'abide', 'bide', 'digest', 'endure', 'bear', 'tolerate', 'support', 'stand', 'put_up', 'stay', 'suffer', 'brook', 'stick_out']",Tracts published by American Tract Society
+more,"['Thomas_More', 'more', 'to_a_greater_extent', 'Sir_Thomas_More', 'More', 'more_than']",Tracts published by American Tract Society
+most,"['nigh', 'virtually', 'about', 'most', 'nearly', 'well-nigh', 'almost', 'near', 'to_the_highest_degree']",Tracts published by American Tract Society
+deep,"['recondite', 'inscrutable', 'abstruse', 'trench', 'mysterious', 'oceanic_abyss', 'deep', 'deeply', 'rich', 'mystifying', 'thick', 'late', 'cryptic', 'bass', 'cryptical']",Tracts published by American Tract Society
+advances,"['cash_advance', 'boost', 'set_ahead', 'get_along', 'throw_out', 'win', 'make_headway', 'raise', 'come_along', 'encourage', 'pull_ahead', 'gain_ground', 'progression', 'feeler', 'procession', 'betterment', 'shape_up', 'forward_motion', 'advancement', 'kick_upstairs', 'get_on', 'promote', 'approach', 'move_on', 'come_on', 'march_on', 'overture', 'bring_forward', 'rise', 'onward_motion', 'pass_on', 'get_ahead', 'improvement', 'progress', 'gain', 'upgrade', 'supercharge', 'further', 'elevate', 'go_on', 'advance']",Tracts published by American Tract Society
+Him,[],Tracts published by American Tract Society
+path,"['track', 'way_of_life', 'itinerary', 'course', 'route', 'way', 'path']",Tracts published by American Tract Society
+into,[],Tracts published by American Tract Society
+member,"['extremity', 'appendage', 'penis', 'phallus', 'fellow_member', 'member']",Tracts published by American Tract Society
+commendable,"['admirably', 'applaudable', 'praiseworthy', 'laudable', 'praiseworthily', 'laudably', 'commendable']",Tracts published by American Tract Society
+my,[],Tracts published by American Tract Society
+joys,"['joyfulness', 'pleasure', 'gladden', 'joy', 'joyousness', 'delight', 'rejoice']",Tracts published by American Tract Society
+difficult,"['unmanageable', 'hard', 'difficult']",Tracts published by American Tract Society
+stiff,"['plastered', 'pixilated', 'starchy', 'cockeyed', 'sloshed', 'buckram', 'loaded', 'rigid', 'cadaver', 'besotted', 'fuddled', 'smashed', 'tight', 'remains', 'blotto', 'slopped', 'soused', 'unwavering', 'stiffly', 'unbendable', 'pie-eyed', 'clay', 'firm', 'potent', 'steadfast', 'pissed', 'blind_drunk', 'unshakable', 'stiff', 'sozzled', 'wet', 'steady', 'crocked', 'soaked', 'squiffy', 'corpse', 'unfaltering', 'strong']",Tracts published by American Tract Society
+an,"['Associate_in_Nursing', 'AN']",Tracts published by American Tract Society
+Never,"[""ne'er"", 'never']",Tracts published by American Tract Society
+beat,"['pound', 'outwit', 'bushed', 'tick', 'wash_up', 'dumbfound', 'beat_up', 'nonplus', 'heartbeat', 'stupefy', 'dead', 'shell', 'beatnik', 'round', 'vex', 'thump', 'scramble', 'exhaust', 'pulsation', 'stick', 'ticktock', 'bewilder', 'beat_out', 'ticktack', 'tucker_out', 'tucker', 'meter', 'outsmart', 'all_in', 'metre', 'get', 'rhythm', 'baffle', 'work_over', 'outfox', 'gravel', 'vanquish', 'amaze', 'mystify', 'flap', 'circumvent', 'pose', 'quiver', 'pulse', 'cadence', 'pulsate', 'puzzle', 'flummox', 'beat', 'thrum', 'overreach', 'musical_rhythm', 'perplex', 'drum', 'trounce', 'bunk', 'crush', 'measure']",Tracts published by American Tract Society
+50,"['fifty', '50', 'L', 'l']",Tracts published by American Tract Society
+alone,"['solitary', 'lonely', 'entirely', 'unaccompanied', 'unique', 'only', 'solo', 'alone', 'unequaled', 'exclusively', 'solely', 'unparalleled', 'lone', 'unequalled']",Tracts published by American Tract Society
+spite,"['wound', 'venom', 'bruise', 'spitefulness', 'maliciousness', 'offend', 'injure', 'malice', 'cattiness', 'bitchiness', 'nastiness', 'hurt', 'spite']",Tracts published by American Tract Society
+gave,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",Tracts published by American Tract Society
+hope,"['Leslie_Townes_Hope', 'Hope', 'hope', 'promise', 'go_for', 'trust', 'Bob_Hope', 'desire']",Tracts published by American Tract Society
+Your,[],Tracts published by American Tract Society
+appetites,"['appetite', 'appetence', 'appetency']",Tracts published by American Tract Society
+look,"['take_care', 'flavour', 'calculate', 'look', 'bet', 'see', 'smell', 'search', 'tone', 'expect', 'appear', 'reckon', 'feeling', 'face', 'depend', 'count', 'front', 'feel', 'spirit', 'attend', 'facial_expression', 'flavor', 'wait', 'seem', 'expression', 'aspect', 'await', 'looking', 'looking_at']",Tracts published by American Tract Society
+deepest,"['recondite', 'inscrutable', 'abstruse', 'mysterious', 'deep', 'rich', 'mystifying', 'thick', 'cryptic', 'bass', 'cryptical']",Tracts published by American Tract Society
+all-time,['all-time'],Tracts published by American Tract Society
+generation,"['contemporaries', 'coevals', 'propagation', 'genesis', 'generation', 'multiplication']",Tracts published by American Tract Society
+avenues,"['avenue', 'boulevard']",Tracts published by American Tract Society
+assuredly,['assuredly'],Tracts published by American Tract Society
+thousand,"['G', 'yard', 'M', 'grand', 'K', 'one_thousand', 'chiliad', 'thou', 'm', 'k', 'thousand', '1000']",Tracts published by American Tract Society
+men,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'homo', 'humanity', 'piece', 'men', 'manpower', 'humans', 'Man', 'human_being', 'military_personnel', 'hands', 'gentleman', 'serviceman', 'man', 'work_force', 'human_beings', 'workforce', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",Tracts published by American Tract Society
+noticed,"['noticed', 'point_out', 'detect', 'observe', 'note', 'notice', 'find', 'acknowledge', 'comment', 'mark', 'remark', 'discover']",Tracts published by American Tract Society
+appear,"['come_out', 'appear', 'look', 'seem', 'come_along']",Tracts published by American Tract Society
+neither,['neither'],Tracts published by American Tract Society
+about,"['nigh', 'around', 'virtually', 'about', 'astir', 'approximately', 'roughly', 'most', 'nearly', 'well-nigh', 'close_to', 'or_so', 'almost', 'more_or_less', 'some', 'near', 'just_about']",Tracts published by American Tract Society
+words,"['quarrel', 'Word', 'Holy_Scripture', 'articulate', 'parole', 'password', 'countersign', 'lyric', 'formulate', 'row', 'Book', 'wrangle', 'speech', 'phrase', 'word_of_honor', 'words', 'Bible', 'Scripture', 'give_voice', 'Son', 'Logos', 'run-in', 'tidings', 'watchword', ""actor's_line"", 'Christian_Bible', 'Holy_Writ', 'news', 'give-and-take', 'intelligence', 'Word_of_God', 'Good_Book', 'language', 'discussion', 'dustup', 'word']",Tracts published by American Tract Society
+obviously,"['evidently', 'patently', 'plainly', 'obviously', 'plain', 'apparently', 'manifestly']",Tracts published by American Tract Society
+Virgin,"['virtuous', 'vestal', 'virgin', 'pure', 'Virgo', 'Virgo_the_Virgin', 'Virgin', 'virginal']",Tracts published by American Tract Society
+gnawing,"['wear_away', 'gnaw', 'gnaw_at', 'erode', 'eat_at']",Tracts published by American Tract Society
+Russians,['Russian'],Tracts published by American Tract Society
+leave,"['get_out', 'leave_alone', 'go_away', 'entrust', 'allow_for', 'exit', 'go_out', 'pull_up_stakes', 'go_forth', 'impart', 'allow', 'leave', 'provide', 'depart', 'leave-taking', 'will', 'pass_on', 'farewell', 'bequeath', 'forget', 'leave_behind', 'lead', 'parting', 'result', 'give', 'leave_of_absence']",Tracts published by American Tract Society
+claims,"['claim', 'exact', 'title', 'lay_claim', 'take', 'call', 'arrogate']",Tracts published by American Tract Society
+Head,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",Tracts published by American Tract Society
+why,"['wherefore', 'why']",Tracts published by American Tract Society
+sinners,"['sinner', 'evildoer']",Tracts published by American Tract Society
+wilt,"['wilt_disease', 'droop', 'wilting', 'wilt']",Tracts published by American Tract Society
+bars,"['legal_community', 'cake', 'BAR', 'stop', 'Browning_automatic_rifle', 'debar', 'banish', 'exclude', 'stripe', 'blockade', 'barroom', 'block_off', 'taproom', 'block', 'bars', 'relegate', 'prevention', 'barricade', 'legal_profession', 'streak', 'saloon', 'parallel_bars', 'block_up', 'ginmill', 'bar', 'measure']",Tracts published by American Tract Society
+fool,"['frivol_away', 'tomfool', 'patsy', 'sucker', 'put_on', 'take_in', 'saphead', 'muggins', 'dupe', 'fool_away', 'put_one_over', 'befool', 'fall_guy', 'chump', 'slang', 'sap', 'mug', 'fritter_away', 'arse_around', 'mark', 'motley_fool', 'put_one_across', 'soft_touch', 'horse_around', 'fool', 'dissipate', 'cod', 'gull', 'fool_around', 'jester', 'fritter', 'shoot']",Tracts published by American Tract Society
+drink,"['beverage', 'tope', 'booze', 'imbibe', 'boozing', 'drink_in', 'pledge', 'salute', 'drunkenness', 'wassail', 'drinkable', 'drink', 'toast', 'drinking', 'potable', 'swallow', 'deglutition', 'fuddle', 'crapulence']",Tracts published by American Tract Society
+Our,[],Tracts published by American Tract Society
+evidences,"['certify', 'manifest', 'bear_witness', 'prove', 'evidence', 'tell', 'demonstrate', 'show', 'grounds', 'attest', 'testify']",Tracts published by American Tract Society
+old,"['honest-to-god', 'former', 'sometime', 'erstwhile', 'older', 'quondam', 'honest-to-goodness', 'sure-enough', 'old', 'previous', 'onetime', 'Old', 'one-time']",Tracts published by American Tract Society
+believeth,[],Tracts published by American Tract Society
+speaking,"['public_speaking', 'utter', 'speech_production', 'address', 'talk', 'speak', 'mouth', 'speaking', 'oral_presentation', 'verbalize', 'speechmaking', 'verbalise']",Tracts published by American Tract Society
+become,"['get', 'suit', 'go', 'turn', 'become']",Tracts published by American Tract Society
+it,"['IT', 'information_technology']",Tracts published by American Tract Society
+Now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",Tracts published by American Tract Society
+national,"['home', 'internal', 'interior', 'subject', 'national']",Tracts published by American Tract Society
+How,[],Tracts published by American Tract Society
+however,"['still', 'nonetheless', 'notwithstanding', 'yet', 'however', 'all_the_same', 'even_so', 'withal', 'nevertheless']",Tracts published by American Tract Society
+easier,"['comfortable', 'light', 'well-off', 'leisurely', 'easy', 'prosperous', 'gentle', 'promiscuous', 'easygoing', 'well-fixed', 'well-heeled', 'loose', 'sluttish', 'wanton', 'well-to-do', 'well-situated', 'soft']",Tracts published by American Tract Society
+between,"[""'tween"", 'between', 'betwixt']",Tracts published by American Tract Society
+No,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",Tracts published by American Tract Society
+A.D.,"['A.D.', 'anno_Domini', 'AD']",Tracts published by American Tract Society
+drowning,"['drown', 'overwhelm', 'swim', 'submerge']",Tracts published by American Tract Society
+trying,"['seek', 'try', 'render', 'hear', 'test', 'adjudicate', 'sample', 'attempt', 'stressful', 'prove', 'try_on', 'stress', 'judge', 'try_out', 'strain', 'essay', 'taste', 'trying', 'nerve-racking', 'examine', 'assay', 'nerve-wracking']",Tracts published by American Tract Society
+traditional,['traditional'],Tracts published by American Tract Society
+use,"['economic_consumption', 'utilization', 'employment', 'employ', 'utilisation', 'use_of_goods_and_services', 'enjoyment', 'function', 'utilise', 'habituate', 'purpose', 'usage', 'exercise', 'habit', 'practice', 'expend', 'role', 'utilize', 'manipulation', 'use', 'consumption', 'usance', 'apply']",Tracts published by American Tract Society
+above,"['above', 'to_a_higher_place', 'in_a_higher_place', 'higher_up', 'supra']",Tracts published by American Tract Society
+satisfy,"['satisfy', 'fulfill', 'meet', 'gratify', 'live_up_to', 'fill', 'fulfil']",Tracts published by American Tract Society
+includes,"['let_in', 'include', 'admit']",Tracts published by American Tract Society
+grown,"['spring_up', 'uprise', 'big', 'full-grown', 'adult', 'arise', 'originate', 'raise', 'grow', 'acquire', 'maturate', 'develop', 'get', 'fully_grown', 'grownup', 'rise', 'produce', 'mature', 'turn', 'grown', 'farm']",Tracts published by American Tract Society
+limits,"['terminal_point', 'point_of_accumulation', 'limitation', 'confine', 'circumscribe', 'demarcation_line', 'demarcation', 'limit', 'bound', 'set', 'define', 'trammel', 'determine', 'limit_point', 'fix', 'throttle', 'boundary', 'restrain', 'terminus_ad_quem', 'restrict', 'specify']",Tracts published by American Tract Society
+away,"['forth', 'aside', 'outside', 'off', 'away', 'out', 'by']",Tracts published by American Tract Society
+ceremonies,"['ceremony', 'observance', 'ceremonial', 'ceremonial_occasion']",Tracts published by American Tract Society
+Resting,"[""catch_one's_breath"", 'lie', 'take_a_breather', 'remain', 'reside', 'pillow', 'rest', 'stay', 'repose', 'perch', 'breathe', 'roost']",Tracts published by American Tract Society
+commands,"['instruction', 'bidding', 'dictation', 'overlook', 'statement', 'dominate', 'control', 'command', 'require', 'overtop', 'program_line', 'bid', 'mastery']",Tracts published by American Tract Society
+true,"['unfeigned', 'dependable', 'on-key', 'true_up', 'lawful', 'admittedly', 'avowedly', 'honest', 'reliable', 'genuine', 'straight', 'true', 'rightful', 'dead_on_target', 'truthful', 'confessedly']",Tracts published by American Tract Society
+is,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Tracts published by American Tract Society
+their,[],Tracts published by American Tract Society
+learned,"['memorise', 'lettered', 'knowledgeable', 'teach', 'erudite', 'see', 'hear', 'well-educated', 'get_wind', 'memorize', 'learned', 'pick_up', 'conditioned', 'watch', 'acquire', 'find_out', 'ascertain', 'well-read', 'determine', 'check', 'larn', 'discover', 'study', 'get_word', 'take', 'con', 'read', 'instruct', 'learn', 'get_a_line', 'knowing']",Tracts published by American Tract Society
+apparent,"['apparent', 'evident', 'manifest', 'seeming', 'ostensible', 'patent', 'plain', 'unmistakable']",Tracts published by American Tract Society
+helps,"['assistance', 'serve', 'assistant', 'aid', 'avail', 'help_oneself', 'helper', 'service', 'facilitate', 'supporter', 'help', 'assist']",Tracts published by American Tract Society
+Here,"['here', 'Hera', 'hither', 'Here']",Tracts published by American Tract Society
+at,"['atomic_number_85', 'At', 'at', 'astatine']",Tracts published by American Tract Society
+outcome,"['upshot', 'outcome', 'consequence', 'result', 'event', 'effect', 'final_result', 'issue', 'termination', 'resultant']",Tracts published by American Tract Society
+shivering,"['trembling', 'shaky', 'chill', 'thrill', 'shivering', 'throb', 'shiver', 'shudder']",Tracts published by American Tract Society
+feel,"['tactile_property', 'palpate', 'finger', 'spirit', 'experience', 'tone', 'feeling', 'flavour', 'sense', 'look', 'flavor', 'find', 'smell', 'feel']",Tracts published by American Tract Society
+Son,"['Son', 'Logos', 'son', 'Word', 'boy']",Tracts published by American Tract Society
+being,"['constitute', 'existence', 'equal', 'being', 'organism', 'embody', 'comprise', 'cost', 'represent', 'make_up', 'live', 'be', 'exist', 'beingness', 'follow', 'personify']",Tracts published by American Tract Society
+dominating,"['overshadow', 'ascendent', 'command', 'rule', 'eclipse', 'ascendant', 'master', 'overlooking', 'commanding', 'dominating', 'overlook', 'bossy', 'prevail', 'high-and-mighty', 'predominate', 'reign', 'peremptory', 'overtop', 'dominate', 'magisterial', 'autocratic']",Tracts published by American Tract Society
+personal,['personal'],Tracts published by American Tract Society
+affections,"['tenderness', 'philia', 'heart', 'warmness', 'warmheartedness', 'fondness', 'affectionateness', 'affection']",Tracts published by American Tract Society
+fruits,"['fruit', 'yield']",Tracts published by American Tract Society
+were,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Tracts published by American Tract Society
+say,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",Tracts published by American Tract Society
+promised,"['predict', 'anticipate', 'promise', 'foretell', 'forebode', 'assure', 'prognosticate', 'call']",Tracts published by American Tract Society
+name,"['gens', 'describe', 'make', 'advert', 'list', 'figure', 'diagnose', 'key', 'refer', 'constitute', 'appoint', 'public_figure', 'key_out', 'cite', 'call', 'name', 'epithet', 'identify', 'mention', 'distinguish', 'discover', 'bring_up', 'nominate']",Tracts published by American Tract Society
+nothing,"['cipher', 'nil', 'zip', 'aught', 'zero', 'nada', 'nothing', 'goose_egg', 'naught', 'zilch', 'cypher', 'nix', 'null', 'zippo']",Tracts published by American Tract Society
+myself,[],Tracts published by American Tract Society
+natural,"['born', 'lifelike', 'raw', 'rude', 'cancel', 'instinctive', 'natural', 'innate']",Tracts published by American Tract Society
+hearts,"['bosom', 'tenderness', 'fondness', 'affectionateness', 'substance', 'nitty-gritty', 'philia', 'meat', 'kernel', 'warmheartedness', 'nerve', 'marrow', 'nub', 'core', 'heart_and_soul', 'spirit', 'gist', 'ticker', 'hearts', 'eye', 'affection', 'inwardness', 'spunk', 'pump', 'heart', 'pith', 'mettle', 'center', 'sum', 'warmness', 'middle', 'essence', 'centre', 'Black_Maria']",Tracts published by American Tract Society
+Lord's,[],Tracts published by American Tract Society
+physical,"['strong-arm', 'forcible', 'physical']",Tracts published by American Tract Society
+yours,[],Tracts published by American Tract Society
+Bible-emancipated,[],Tracts published by American Tract Society
+bedside,['bedside'],Tracts published by American Tract Society
+said,"['order', 'say', 'aver', 'said', 'allege', 'aforementioned', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'aforesaid', 'enjoin']",Tracts published by American Tract Society
+according,"['harmonise', 'consort', 'grant', 'accord', 'agree', 'according', 'harmonize', 'fit_in', 'allot', 'concord']",Tracts published by American Tract Society
+higher,"['eminent', 'gamey', 'higher', 'mellow', 'high', 'in_high_spirits', 'high-pitched', 'gamy']",Tracts published by American Tract Society
+take,"['claim', 'return', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'issue', 'fill', 'rent', 'payoff', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'takings', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'yield', 'proceeds', 'get_hold_of', 'take', 'lead', 'film', 'remove', 'read', 'study', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",Tracts published by American Tract Society
+treatise,['treatise'],Tracts published by American Tract Society
+present,"['nowadays', 'submit', 'lay_out', 'stage', 'confront', 'demo', 'gift', 'introduce', 'face', 'salute', 'portray', 'award', 'represent', 'demonstrate', 'show', 'pose', 'exhibit', 'deliver', 'present', 'give', 'present_tense', 'acquaint']",Tracts published by American Tract Society
+America,"['U.S.', 'US', 'the_States', 'United_States_of_America', 'United_States', 'America', 'U.S.A.', 'USA']",Tracts published by American Tract Society
+talents,"['gift', 'natural_endowment', 'endowment', 'talent']",Tracts published by American Tract Society
+As,"['A', 'atomic_number_33', 'axerophthol', 'amp', 'American_Samoa', 'type_A', 'adenine', 'as', 'group_A', 'every_bit', 'AS', 'Eastern_Samoa', 'vitamin_A', 'equally', 'deoxyadenosine_monophosphate', 'angstrom', 'a', 'ampere', 'arsenic', 'As', 'angstrom_unit', 'antiophthalmic_factor']",Tracts published by American Tract Society
+divorce,"['dissociate', 'disassociate', 'disjoint', 'split_up', 'divorcement', 'disunite', 'divorce']",Tracts published by American Tract Society
+one,"['one', '1', 'unrivalled', 'I', 'unrivaled', 'unmatched', 'one_and_only', 'peerless', 'single', 'matchless', 'nonpareil', 'i', 'unitary', 'unmatchable', 'unity', 'ace', 'ane']",Tracts published by American Tract Society
+successes,"['winner', 'succeeder', 'achiever', 'success']",Tracts published by American Tract Society
+37,"['thirty-seven', 'xxxvii', '37']",Tracts published by American Tract Society
+troubled,"['distract', 'inconvenience_oneself', 'troubled', 'incommode', 'upset', 'trouble_oneself', 'ail', 'disoblige', 'tumultuous', 'turbulent', 'inconvenience', 'perturb', 'put_out', 'unhinge', 'disruptive', 'disquiet', 'trouble', 'pain', 'cark', 'riotous', 'bother', 'discommode', 'disorder', 'disturb']",Tracts published by American Tract Society
+receives,"['get', 'experience', 'have', 'invite', 'take_in', 'find', 'encounter', 'incur', 'obtain', 'welcome', 'meet', 'receive', 'pick_up']",Tracts published by American Tract Society
+may,"['May', 'Crataegus_laevigata', 'English_hawthorn', 'Crataegus_oxycantha', 'may', 'whitethorn']",Tracts published by American Tract Society
+how,[],Tracts published by American Tract Society
+glory,"['nimbus', 'glorification', 'aureole', 'aura', 'halo', 'glory', 'resplendence', 'resplendency', 'gloriole']",Tracts published by American Tract Society
+grow,"['maturate', 'develop', 'grow', 'spring_up', 'get', 'uprise', 'produce', 'acquire', 'mature', 'turn', 'arise', 'rise', 'farm', 'originate', 'raise']",Tracts published by American Tract Society
+because,[],Tracts published by American Tract Society
+Is,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Tracts published by American Tract Society
+inner,"['intimate', 'inside', 'inner', 'privileged', 'internal', 'interior']",Tracts published by American Tract Society
+state,"['state_of_matter', 'Department_of_State', 'commonwealth', 'United_States_Department_of_State', 'submit', 'province', 'posit', 'body_politic', 'tell', 'express', 'state', 'say', 'country', 'DoS', 'State', 'land', 'State_Department', 'nation', 'res_publica', 'put_forward']",Tracts published by American Tract Society
+geology,['geology'],Tracts published by American Tract Society
+another,"['some_other', 'another']",Tracts published by American Tract Society
+admiring,"['admire', 'look_up_to']",Tracts published by American Tract Society
+blessed,"['consecrate', 'blasted', 'blest', 'damn', 'infernal', 'blame', 'damned', 'deuced', 'goddamned', 'darned', 'blessed', 'sanctify', 'hallow', 'goddamn', 'bless', 'sign', 'Blessed', 'goddam', 'blamed', 'beatified']",Tracts published by American Tract Society
+void,"['invalidate', 'vacuum', 'nullity', 'void', 'quash', 'nullify', 'empty', 'avoid', 'evacuate', 'annul', 'nihility', 'nothingness', 'vitiate', 'emptiness', 'null', 'vacancy']",Tracts published by American Tract Society
+new,"['unexampled', 'New', 'freshly', 'new', 'newly', 'raw', 'Modern', 'young', 'newfangled', 'fresh', 'novel']",Tracts published by American Tract Society
+beheld,"['behold', 'lay_eyes_on']",Tracts published by American Tract Society
+only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",Tracts published by American Tract Society
+each,"['to_each_one', 'each', 'for_each_one', 'apiece', 'from_each_one']",Tracts published by American Tract Society
+himself,[],Tracts published by American Tract Society
+forever,"['everlastingly', 'always', 'forever_and_a_day', 'perpetually', 'forever', 'constantly', 'eternally', 'incessantly', 'evermore']",Tracts published by American Tract Society
+attempting,"['essay', 'seek', 'try', 'set_about', 'undertake', 'assay', 'attempt']",Tracts published by American Tract Society
+Old,"['honest-to-god', 'former', 'sometime', 'erstwhile', 'older', 'quondam', 'honest-to-goodness', 'sure-enough', 'old', 'previous', 'onetime', 'Old', 'one-time']",Tracts published by American Tract Society
+today,"['today', 'nowadays', 'now']",Tracts published by American Tract Society
+penalty,"['punishment', 'penalty', 'penalization', 'penalisation']",Tracts published by American Tract Society
+longings,"['long', 'yearning', 'longing', 'hungriness', 'hanker', 'yearn']",Tracts published by American Tract Society
+within,"['within', 'inside']",Tracts published by American Tract Society
+alienated,"['alien', 'disaffect', 'estrange', 'alienate', 'anomic', 'alienated', 'estranged', 'disoriented']",Tracts published by American Tract Society
+steak,['steak'],Tracts published by American Tract Society
+control,"['manipulate', 'ensure', 'curb', 'command', 'see', 'ascendance', 'insure', 'mastery', 'ascendency', 'restraint', 'ascendence', 'master', 'operate', 'control_condition', 'see_to_it', 'ascertain', 'verify', 'check', 'assure', 'contain', 'dominance', 'moderate', 'controller', 'control', 'ascendancy', 'hold_in', 'hold', 'keep_in_line']",Tracts published by American Tract Society
+warmth,"['lovingness', 'warmheartedness', 'warmness', 'warmth', 'passion', 'affectionateness', 'fondness', 'heat']",Tracts published by American Tract Society
+those,[],Tracts published by American Tract Society
+late,"['recent', 'former', 'latterly', 'belatedly', 'of_late', 'belated', 'recently', 'tardily', 'deep', 'late', 'lately', 'previous', 'later', 'tardy']",Tracts published by American Tract Society
+took,"['claim', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'rent', 'fill', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'get_hold_of', 'film', 'take', 'lead', 'remove', 'study', 'read', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",Tracts published by American Tract Society
+if,[],Tracts published by American Tract Society
+Jesus',[],Tracts published by American Tract Society
+directly,"['immediately', 'direct', 'directly', 'straightaway', 'like_a_shot', 'straight', 'instantly', 'right_away', 'now', 'at_once', 'flat', 'straight_off', 'forthwith']",Tracts published by American Tract Society
+perish,"['decease', 'exit', 'pop_off', 'conk', 'perish', 'buy_the_farm', 'expire', 'kick_the_bucket', 'die', 'go', ""cash_in_one's_chips"", 'drop_dead', 'snuff_it', 'pass_away', 'pass', 'choke', 'croak', 'give-up_the_ghost']",Tracts published by American Tract Society
+also,"['besides', 'also', 'likewise', 'as_well', 'too']",Tracts published by American Tract Society
+live,"['subsist', 'experience', 'endure', 'live', 'bouncy', 'alive', 'lively', 'springy', 'hold_up', 'hold_out', 'last', 'unrecorded', 'resilient', 'live_on', 'be', 'know', 'hot', 'dwell', 'go', 'survive', 'exist', 'inhabit', 'populate']",Tracts published by American Tract Society
+worked,"['make', 'bring', 'function', 'solve', 'wreak', 'operate', 'exploit', 'do_work', 'crop', 'exercise', 'work', 'mould', 'knead', 'form', 'process', 'work_out', 'forge', 'play', 'make_for', 'cultivate', 'run', 'act_upon', 'shape', 'act', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",Tracts published by American Tract Society
+Over,"['all_over', 'terminated', ""o'er"", 'over', 'concluded', 'complete', 'ended']",Tracts published by American Tract Society
+?,[],Tracts published by American Tract Society
+To,[],Tracts published by American Tract Society
+chain,"['Chain', 'range', 'mountain_chain', 'Sir_Ernst_Boris_Chain', 'range_of_mountains', 'Ernst_Boris_Chain', 'strand', 'chemical_chain', 'concatenation', 'mountain_range', 'chain_of_mountains', 'chain', 'string']",Tracts published by American Tract Society
+paid,"['ante_up', 'yield', 'devote', 'pay_off', 'bear', 'nonrecreational', 'make_up', 'give', 'compensate', 'pay', 'gainful', 'paid', 'pay_up', 'paying']",Tracts published by American Tract Society
+abiding,"['stomach', 'abide', 'bide', 'digest', 'endure', 'bear', 'tolerate', 'support', 'stand', 'put_up', 'enduring', 'stay', 'suffer', 'brook', 'imperishable', 'stick_out', 'abiding']",Tracts published by American Tract Society
+fill,"['take', 'replete', 'satisfy', 'make_full', 'sate', 'meet', 'fill_up', 'fulfill', 'filling', 'occupy', 'satiate', 'fulfil', 'fill']",Tracts published by American Tract Society
+long,"['long', 'prospicient', 'tenacious', 'farseeing', 'foresighted', 'retentive', 'hanker', 'recollective', 'longsighted', 'yearn', 'foresightful', 'farsighted']",Tracts published by American Tract Society
+test,"['test', 'exam', 'tryout', 'run', 'mental_test', 'try', 'prove', 'essay', 'quiz', 'trial', 'examination', 'mental_testing', 'examine', 'screen', 'psychometric_test', 'trial_run', 'try_out']",Tracts published by American Tract Society
+we,[],Tracts published by American Tract Society
+submitted,"['accede', 'posit', 'render', 'take', 'resign', 'submit', 'give_in', 'relegate', 'put_in', 'present', 'reconcile', 'subject', 'state', 'defer', 'bow', 'pass_on', 'put_forward']",Tracts published by American Tract Society
+His,[],Tracts published by American Tract Society
+while,"['patch', 'spell', 'piece', 'while']",Tracts published by American Tract Society
+ever,"['ever', 'always', ""e'er"", 'ever_so', 'of_all_time']",Tracts published by American Tract Society
+daily,"['casual', 'day-after-day', 'day-to-day', 'daily', 'day-by-day', 'everyday', 'day_by_day']",Tracts published by American Tract Society
+leadings,"['guide', 'contribute', 'conduce', 'head', 'precede', 'leading', 'leave', 'direct', 'leadership', 'top', 'pass', 'moderate', 'chair', 'run', 'take', 'lead', 'result', 'conduct', 'go', 'extend']",Tracts published by American Tract Society
+business,"['line', 'job', 'occupation', 'business_sector', 'patronage', 'business', 'business_organization', 'commercial_enterprise', 'stage_business', 'business_enterprise', 'business_organisation', 'line_of_work', 'concern', 'byplay', 'clientele', 'business_concern']",Tracts published by American Tract Society
+seemed,"['seem', 'appear', 'look']",Tracts published by American Tract Society
+scientific,['scientific'],Tracts published by American Tract Society
+do,"['make', 'brawl', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'DO', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'Doctor_of_Osteopathy', 'doh', 'coiffe', 'ut', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'bash']",Tracts published by American Tract Society
+Christ's,[],Tracts published by American Tract Society
+without,[],Tracts published by American Tract Society
+eminent,"['eminent', 'soaring', 'high', 'towering', 'lofty']",Tracts published by American Tract Society
+therefore,"['therefore', 'thus', 'thence', 'consequently', 'hence', 'so']",Tracts published by American Tract Society
+lose,"['recede', 'turn_a_loss', 'lose', 'fall_behind', 'suffer', 'mislay', 'fall_back', 'misplace', 'drop_off', 'miss']",Tracts published by American Tract Society
+man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",Tracts published by American Tract Society
+know,"['experience', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'live', 'screw', 'have_it_off', 'do_it', 'cognize', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'acknowledge', 'recognise', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'cognise', 'sleep_with', 'eff', 'recognize', 'have_intercourse']",Tracts published by American Tract Society
+belong,"['belong_to', 'belong', 'go']",Tracts published by American Tract Society
+better,"['punter', 'honest', 'undecomposed', 'easily', 'unspoilt', 'meliorate', 'skillful', 'intimately', 'adept', 'skilful', 'good', 'amend', 'practiced', 'proficient', 'beneficial', 'substantially', 'safe', 'improve', 'full', 'expert', 'salutary', 'bettor', 'respectable', 'upright', 'advantageously', 'unspoiled', 'effective', 'comfortably', 'well', 'break', 'better', 'near', 'ripe', 'in_effect', 'considerably', 'best', 'dependable', 'dear', 'wagerer', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'ameliorate', 'estimable']",Tracts published by American Tract Society
+means,"['substance', 'mean_value', 'have_in_mind', 'imply', 'think', 'signify', 'way', 'think_of', 'agency', 'entail', 'stand_for', 'means', 'intend', 'mean']",Tracts published by American Tract Society
+shall,[],Tracts published by American Tract Society
+Christian,"['christian', 'Christian']",Tracts published by American Tract Society
+relieve,"['allay', 'free', 'still', 'remedy', 'alleviate', 'save', 'exempt', 'salvage', 'let_off', 'excuse', 'lighten', 'take_over', 'ease', 'assuage', 'unbosom', 'salve', 'palliate', 'relieve']",Tracts published by American Tract Society
+forth,"['forth', 'forward', 'Forth_River', 'off', 'onward', 'away', 'Forth']",Tracts published by American Tract Society
+!,[],Tracts published by American Tract Society
+hungry,"['hungry', 'thirsty', 'athirst']",Tracts published by American Tract Society
+exchange,"['interchange', 'telephone_exchange', 'exchange', 'replace', 'switch_over', 'rally', 'commutation', 'central', 'change', 'substitution', 'convert', 'substitute', 'switch', 'commute']",Tracts published by American Tract Society
+doubting,"['questioning', 'doubting', 'doubt', 'skeptical', 'sceptical']",Tracts published by American Tract Society
+food,"['nutrient', 'food', 'intellectual_nourishment', 'solid_food', 'food_for_thought']",Tracts published by American Tract Society
+It,"['IT', 'information_technology']",Tracts published by American Tract Society
+heart,"['bosom', 'tenderness', 'fondness', 'affectionateness', 'substance', 'nitty-gritty', 'philia', 'meat', 'kernel', 'warmheartedness', 'nerve', 'marrow', 'nub', 'core', 'heart_and_soul', 'spirit', 'gist', 'ticker', 'eye', 'affection', 'inwardness', 'spunk', 'pump', 'heart', 'pith', 'mettle', 'center', 'sum', 'warmness', 'middle', 'essence', 'centre']",Tracts published by American Tract Society
+Heaven,"['paradise', 'heaven', 'Heaven', 'Shangri-la', 'Eden', 'promised_land', 'nirvana']",Tracts published by American Tract Society
+method,"['method_acting', 'method']",Tracts published by American Tract Society
+rush,"['flush', 'kick', 'cannonball_along', 'hasten', 'upsurge', 'hie', 'rushing', 'haste', 'Rush', 'rushed', 'spate', 'race', 'step_on_it', 'charge', 'look_sharp', 'bucket_along', 'Benjamin_Rush', 'induce', 'bang', 'thrill', 'rush', 'pelt_along', 'stimulate', 'hotfoot', 'belt_along', 'festinate', 'surge', 'speed', 'rush_along', 'first-come-first-serve', 'boot', 'hurry']",Tracts published by American Tract Society
+necks,"['make_out', 'neck', 'cervix', 'neck_opening']",Tracts published by American Tract Society
+first,"['number_one', 'beginning', 'showtime', 'inaugural', 'low', 'maiden', 'first-class_honours_degree', 'for_the_first_time', 'low_gear', 'kickoff', 'first_off', 'first_of_all', 'first_gear', 'initiatory', 'number_1', 'offset', 'get-go', 'initiative', 'world-class', 'outset', 'first_base', 'firstly', 'foremost', 'starting_time', 'start', 'commencement', 'first', '1st']",Tracts published by American Tract Society
+receive,"['get', 'experience', 'have', 'invite', 'take_in', 'find', 'encounter', 'incur', 'obtain', 'welcome', 'meet', 'receive', 'pick_up']",Tracts published by American Tract Society
+That,[],Tracts published by American Tract Society
+34,"['thirty-four', 'xxxiv', '34']",Tracts published by American Tract Society
+sins,"['sine', 'trespass', 'sinfulness', 'transgress', 'drop_the_ball', 'goof', 'Sin', 'wickedness', 'sinning', 'blunder', 'hell', 'sin', 'boob']",Tracts published by American Tract Society
+church,"['church_building', 'Christian_church', 'church_service', 'church']",Tracts published by American Tract Society
+science,"['skill', 'scientific_discipline', 'science']",Tracts published by American Tract Society
+John's,[],Tracts published by American Tract Society
+archaeology,"['archaeology', 'archeology']",Tracts published by American Tract Society
+afraid,['afraid'],Tracts published by American Tract Society
+soul,"['individual', 'mortal', 'soulfulness', 'soul', 'psyche', 'person', 'somebody', 'someone']",Tracts published by American Tract Society
+otherwise,"['otherwise', 'other_than', 'differently']",Tracts published by American Tract Society
+One,"['one', '1', 'unrivalled', 'I', 'unrivaled', 'unmatched', 'one_and_only', 'peerless', 'single', 'matchless', 'nonpareil', 'i', 'unitary', 'unmatchable', 'unity', 'ace', 'ane']",Tracts published by American Tract Society
+die,"['break_down', 'perish', 'kick_the_bucket', 'die', ""cash_in_one's_chips"", 'die_out', 'croak', 'exit', 'become_flat', 'buy_the_farm', 'expire', 'pass_away', 'decease', 'conk_out', 'dice', 'go_bad', 'pall', 'break', 'pass', 'give-up_the_ghost', 'pop_off', 'conk', 'go', 'drop_dead', 'snuff_it', 'give_out', 'choke', 'fail', 'give_way']",Tracts published by American Tract Society
+ministry,['ministry'],Tracts published by American Tract Society
+loves,"['be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'dearest', 'making_love', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'honey', 'bang', 'know', 'get_it_on', 'passion', 'beloved', 'sexual_love', 'erotic_love', 'get_laid', 'jazz', 'have_a_go_at_it', 'love_life', 'love', 'dear', 'lovemaking', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",Tracts published by American Tract Society
+same,"['Lapplander', 'like', 'Same', 'same', 'Saami', 'Saame', 'Lapp', 'Sami']",Tracts published by American Tract Society
+reverent,"['reverent', 'worshipful', 'godly']",Tracts published by American Tract Society
+mankind,"['humans', 'world', 'humankind', 'man', 'mankind', 'human_beings', 'humanity', 'human_race']",Tracts published by American Tract Society
+adult,"['fully_grown', 'pornographic', 'grownup', 'full-grown', 'big', 'adult', 'grown']",Tracts published by American Tract Society
+Spirit,"['disembodied_spirit', 'spirit', 'intent', 'life', 'tone', 'spirit_up', 'feeling', 'flavour', 'emotional_state', 'inspirit', 'look', 'purport', 'heart', 'flavor', 'smell', 'liveliness', 'sprightliness', 'feel']",Tracts published by American Tract Society
+became,"['get', 'suit', 'go', 'turn', 'become']",Tracts published by American Tract Society
+calm,"['composure', 'calmness', 'quieten', 'calm', 'chill_out', 'calm_down', 'lull', 'still', 'quiet', 'tranquil', 'unagitated', 'tranquillize', 'becalm', 'calm_air', 'cool_off', 'tranquillise', 'settle_down', 'tranquilize', 'steady', 'equanimity', 'sedate', 'cool_it', 'serene', 'simmer_down']",Tracts published by American Tract Society
+than,[],Tracts published by American Tract Society
+various,"['diverse', 'assorted', 'versatile', 'respective', 'several', 'various']",Tracts published by American Tract Society
+conditions,"['condition', 'consideration', 'term', 'status', 'stipulate', 'conditions', 'weather_condition', 'atmospheric_condition', 'experimental_condition', 'discipline', 'train', 'qualify', 'check', 'shape', 'weather', 'precondition', 'specify', 'circumstance', 'stipulation']",Tracts published by American Tract Society
+spiritual,"['apparitional', 'unearthly', 'Negro_spiritual', 'spiritual', 'religious', 'spectral', 'ghostlike', 'ghostly', 'phantasmal']",Tracts published by American Tract Society
+spoke,"['verbalize', 'spoke', 'rundle', 'address', 'talk', 'speak', 'mouth', 'radius', 'rung', 'wheel_spoke', 'utter', 'verbalise']",Tracts published by American Tract Society
+have,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'wealthy_person', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'rich_person', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Tracts published by American Tract Society
+inroads,['inroad'],Tracts published by American Tract Society
+cold,"['frigidness', 'cold', 'stale', 'frigid', 'common_cold', 'dusty', 'inhuman', 'low_temperature', 'moth-eaten', 'frigidity', 'cold-blooded', 'insensate', 'coldness']",Tracts published by American Tract Society
+bridge,"['bridgework', 'bridge_circuit', 'nosepiece', 'bridge', 'bridge_over', 'bridge_deck', 'span']",Tracts published by American Tract Society
+man's,[],Tracts published by American Tract Society
+upon,[],Tracts published by American Tract Society
+you're,[],Tracts published by American Tract Society
+opinions,"['vox_populi', 'legal_opinion', 'belief', 'ruling', 'feeling', 'public_opinion', 'popular_opinion', 'view', 'notion', 'thought', 'sentiment', 'persuasion', 'impression', 'opinion', 'judgment', 'judgement']",Tracts published by American Tract Society
+truth-packed,[],Tracts published by American Tract Society
+empty,"['empty', 'void', 'abandon', 'evacuate', 'discharge', 'hollow', 'empty-bellied', 'vacate', 'vacuous']",Tracts published by American Tract Society
+Although,[],Tracts published by American Tract Society
+group,"['group', 'aggroup', 'mathematical_group', 'chemical_group', 'radical', 'grouping']",Tracts published by American Tract Society
+nurse,"['entertain', 'nanny', 'nursemaid', 'wet-nurse', 'nurse', 'harbour', 'suck', 'harbor', 'give_suck', 'suckle', 'hold', 'breastfeed', 'lactate']",Tracts published by American Tract Society
+ends,"['cease', 'closing', 'conclusion', 'remnant', 'remainder', 'finish', 'goal', 'close', 'terminal', 'stop', 'terminate', 'destruction', 'oddment', 'end', 'final_stage', 'last', 'death', 'ending']",Tracts published by American Tract Society
+Bible-loving,[],Tracts published by American Tract Society
+acceptance,"['sufferance', 'espousal', 'toleration', 'acceptance', 'acceptation', 'adoption', ""banker's_acceptance"", 'credence']",Tracts published by American Tract Society
+The,[],Tracts published by American Tract Society
+you,[],Tracts published by American Tract Society
+innermost,"['innermost', 'inmost']",Tracts published by American Tract Society
+everlasting,"['eternal', 'eonian', 'perfect', 'pure', 'unceasing', 'sodding', 'utter', 'gross', 'stark', 'complete', 'consummate', 'aeonian', 'everlasting_flower', 'thoroughgoing', 'everlasting', 'unadulterated', 'staring', 'ageless', 'arrant', 'double-dyed', 'perpetual', 'unending']",Tracts published by American Tract Society
+God's,[],Tracts published by American Tract Society
+news,"['news_show', 'newsworthiness', 'tidings', 'news', 'news_program', 'word', 'intelligence']",Tracts published by American Tract Society
+due,"['referable', 'imputable', 'ascribable', 'due']",Tracts published by American Tract Society
+nature,['nature'],Tracts published by American Tract Society
+are,"['constitute', 'equal', 'are', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'personify', 'exist', 'follow', 'ar']",Tracts published by American Tract Society
+fortune,"['fortune', 'hazard', 'fate', 'portion', 'luck', 'destiny', 'chance', 'lot', 'circumstances']",Tracts published by American Tract Society
+love,"['be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'dearest', 'making_love', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'honey', 'bang', 'know', 'get_it_on', 'passion', 'beloved', 'sexual_love', 'erotic_love', 'get_laid', 'jazz', 'have_a_go_at_it', 'love_life', 'love', 'dear', 'lovemaking', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",Tracts published by American Tract Society
+uncertainty,"['dubiety', 'uncertainty', 'precariousness', 'uncertainness', 'incertitude', 'dubiousness', 'doubt', 'doubtfulness']",Tracts published by American Tract Society
+ago,"['agone', 'ago']",Tracts published by American Tract Society
+forget,"['forget', 'block', 'bury', 'blank_out', 'draw_a_blank', 'leave']",Tracts published by American Tract Society
+this,[],Tracts published by American Tract Society
+formed,"['constitute', 'mould', 'organize', 'spring', 'form', 'organise', 'shape', 'make', 'formed', 'take_shape', 'forge', 'imprint', 'mold', 'work', 'take_form']",Tracts published by American Tract Society
+world,"['mankind', 'earthly_concern', 'humanity', 'planetary', 'humans', 'macrocosm', 'earth', 'world-wide', 'globe', 'cosmos', 'domain', 'worldly_concern', 'Earth', 'man', 'global', 'human_beings', 'creation', 'existence', 'reality', 'universe', 'world', 'public', 'humankind', 'worldwide', 'populace', 'human_race']",Tracts published by American Tract Society
+felt,"['mat', 'palpate', 'finger', 'experience', 'felt', 'mat_up', 'matte_up', 'matte', 'sense', 'find', 'matt-up', 'felt_up', 'feel']",Tracts published by American Tract Society
+part,"['break_up', 'contribution', 'portion', 'partly', 'character', 'persona', 'percentage', 'disunite', 'partially', 'piece', 'function', 'section', 'start_out', 'component', 'set_off', 'component_part', 'constituent', 'theatrical_role', 'split', 'depart', 'set_out', 'role', 'break', 'office', 'take_off', 'separate', 'set_forth', 'split_up', 'voice', 'region', 'parting', 'part', 'divide', 'start', 'share', 'division']",Tracts published by American Tract Society
+his,[],Tracts published by American Tract Society
+fifty,"['L', '50', 'fifty_dollar_bill', 'fifty', 'l']",Tracts published by American Tract Society
+perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",Tracts published by American Tract Society
+rocket,"['roquette', 'arugula', 'skyrocket', 'Eruca_sativa', 'rocket_salad', 'rocket_engine', 'Eruca_vesicaria_sativa', 'garden_rocket', 'projectile', 'rocket']",Tracts published by American Tract Society
+whole,"['unhurt', 'whole', 'hale', 'entirely', 'all', 'unscathed', 'unit', 'completely', 'totally', 'altogether', 'wholly', 'unharmed', 'solid', 'unanimous']",Tracts published by American Tract Society
+promises,"['predict', 'anticipate', 'hope', 'promise', 'foretell', 'forebode', 'assure', 'prognosticate', 'call']",Tracts published by American Tract Society
+try,"['seek', 'try', 'render', 'effort', 'hear', 'test', 'adjudicate', 'sample', 'endeavor', 'attempt', 'prove', 'try_on', 'stress', 'judge', 'try_out', 'strain', 'essay', 'taste', 'examine', 'endeavour', 'assay']",Tracts published by American Tract Society
+critical,"['decisive', 'vital', 'critical']",Tracts published by American Tract Society
+needs,"['necessitate', 'needs', 'postulate', 'demand', 'call_for', 'of_necessity', 'motivation', 'want', 'indigence', 'involve', 'necessarily', 'motive', 'penury', 'take', 'inevitably', 'require', 'ask', 'pauperism', 'pauperization', 'need']",Tracts published by American Tract Society
+chasm,['chasm'],Tracts published by American Tract Society
+imagination,"['resourcefulness', 'imagination', 'mental_imagery', 'imaging', 'vision', 'imagery', 'imaginativeness', 'resource']",Tracts published by American Tract Society
+doctrine,"['philosophical_system', 'ism', 'doctrine', 'philosophy', 'school_of_thought']",Tracts published by American Tract Society
+accept,"['bear', 'go_for', 'take', 'have', 'assume', 'take_on', 'admit', 'accept', 'take_over', 'swallow', 'live_with', 'consent']",Tracts published by American Tract Society
+ministered,['minister'],Tracts published by American Tract Society
+John,"['toilet', 'whoremonger', 'St._John', 'John_Lackland', 'Gospel_According_to_John', 'John', 'john', 'King_John', 'John_the_Divine', 'bathroom', 'privy', 'trick', 'whoremaster', 'John_the_Evangelist', 'Saint_John', 'lav', 'lavatory', 'Saint_John_the_Apostle', 'can', 'St._John_the_Apostle']",Tracts published by American Tract Society
+benefits,"['welfare', 'gain', 'profit', 'benefit', 'do_good']",Tracts published by American Tract Society
+suffering,"['sustain', 'digest', 'endure', 'suffer', 'hurt', 'meet', 'stick_out', 'suffering', 'ache', 'have', 'support', 'agony', 'excruciation', 'wretched', 'get', 'stomach', 'tolerate', 'abide', 'distress', 'bear', 'woe', 'put_up', 'lose', 'miserable', 'brook', 'stand']",Tracts published by American Tract Society
+Satellites,"['planet', 'artificial_satellite', 'orbiter', 'satellite']",Tracts published by American Tract Society
+its,"['IT', 'information_technology']",Tracts published by American Tract Society
+souls,"['individual', 'mortal', 'soulfulness', 'soul', 'psyche', 'person', 'somebody', 'someone']",Tracts published by American Tract Society
+Because,[],Tracts published by American Tract Society
+cross,"['thwartwise', 'queer', 'cut_through', 'Cross', 'track', 'interbreed', 'hybridise', 'hybridizing', 'crown_of_thorns', 'get_over', 'traverse', 'cross', 'crossbreeding', 'transverse', 'mark', 'interbreeding', 'transversal', 'ill-tempered', 'baffle', 'bad-tempered', 'grumpy', 'hybridization', 'cover', 'crisscross', 'fussy', 'get_across', 'bilk', 'hybridisation', 'frustrate', 'thwart', 'crabby', 'sweep', 'hybridize', 'intersect', 'cut_across', 'crossing', 'pass_over', 'scotch', 'hybrid', 'spoil', 'grouchy', 'crossbreed', 'crabbed', 'foil', 'span']",Tracts published by American Tract Society
+questions,"['interrogative_sentence', 'interview', 'interrogation', 'motion', 'call_into_question', 'doubtfulness', 'wonder', 'enquiry', 'inquiry', 'oppugn', 'question', 'interrogative', 'head', 'doubt', 'dubiousness', 'query', 'interrogate']",Tracts published by American Tract Society
+short,"['unretentive', 'unawares', 'short-circuit', 'brusk', 'dead', 'curt', 'short_circuit', 'short-change', 'short', 'poor', 'little', 'shortstop', 'brusque', 'light', 'scant', 'forgetful', 'inadequate', 'myopic', 'shortly', 'unforesightful', 'abruptly', 'curtly', 'shortsighted', 'suddenly']",Tracts published by American Tract Society
+Man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",Tracts published by American Tract Society
+over,"['all_over', 'terminated', ""o'er"", 'over', 'concluded', 'complete', 'ended']",Tracts published by American Tract Society
+assuring,"['see_to_it', 'promise', 'guarantee', 'ascertain', 'reassure', 'ensure', 'control', 'assure', 'tell', 'see', 'check', 'assuring', 'secure', 'insure']",Tracts published by American Tract Society
+outer,"['forbidden', 'taboo', 'stunned', 'tabu', 'extinct', 'kayoed', 'prohibited', 'outer', 'proscribed', 'out', 'verboten', 'knocked_out', ""KO'd""]",Tracts published by American Tract Society
+doctor,"['physician', 'MD', 'sophisticate', 'repair', 'furbish_up', 'medico', 'Dr.', 'restore', 'Doctor', 'Doctor_of_the_Church', 'touch_on', 'bushel', 'doctor', 'mend', 'doc', 'doctor_up', 'fix']",Tracts published by American Tract Society
+Delinquency,"['willful_neglect', 'delinquency', 'juvenile_delinquency', 'dereliction']",Tracts published by American Tract Society
+Pleasure,"['pleasance', 'pleasure', 'joy', 'delight']",Tracts published by American Tract Society
+work,"['piece_of_work', 'employment', 'make', 'bring', 'function', 'solve', 'wreak', 'oeuvre', 'operate', 'exploit', 'do_work', 'crop', 'exercise', 'work', 'mould', 'knead', 'form', 'workplace', 'process', 'body_of_work', 'work_out', 'forge', 'play', 'make_for', 'cultivate', 'run', 'study', 'act_upon', 'act', 'shape', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",Tracts published by American Tract Society
+gives,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'springiness', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'spring', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",Tracts published by American Tract Society
+But,"['simply', 'merely', 'only', 'just', 'but']",Tracts published by American Tract Society
+At,"['atomic_number_85', 'At', 'at', 'astatine']",Tracts published by American Tract Society
+book,"['script', 'Word', 'Koran', 'Holy_Scripture', 'book_of_account', 'Book', 'leger', 'volume', 'rule_book', 'Quran', 'Bible', 'Scripture', 'record', 'account_book', 'ledger', 'book', 'Christian_Bible', 'Holy_Writ', ""al-Qur'an"", 'record_book', 'Word_of_God', 'Good_Book', 'playscript', 'hold', 'reserve']",Tracts published by American Tract Society
+then,"['then', 'and_so', 'and_then', 'so']",Tracts published by American Tract Society
+nearest,"['approximate', 'skinny', 'nigh', 'closest', 'dear', 'nighest', 'close', 'penny-pinching', 'nearest', 'cheeseparing', 'near', 'good']",Tracts published by American Tract Society
+Proof,"['proofread', 'validation', 'substantiation', 'proof', 'test_copy', 'cogent_evidence', 'trial_impression']",Tracts published by American Tract Society
+likeness,"['equate', 'compare', 'similitude', 'alikeness', 'likeness', 'liken', 'semblance']",Tracts published by American Tract Society
+they,[],Tracts published by American Tract Society
+amateurish,"['unskilled', 'inexpert', 'amateur', 'amateurish']",Tracts published by American Tract Society
+"80,000",[],Tracts published by American Tract Society
+best,"['honest', 'undecomposed', 'easily', 'unspoilt', 'intimately', 'skillful', 'adept', 'trump', 'skilful', 'good', 'practiced', 'proficient', 'beneficial', 'substantially', 'safe', 'full', 'expert', 'Best', 'Charles_Herbert_Best', 'topper', 'salutary', 'respectable', 'upright', 'advantageously', 'unspoiled', 'effective', 'comfortably', 'well', 'outdo', 'better', 'near', 'ripe', 'C._H._Best', 'in_effect', 'best', 'dependable', 'dear', 'serious', 'scoop', 'right', 'just', 'sound', 'honorable', 'in_force', 'outflank', 'considerably', 'secure', 'estimable']",Tracts published by American Tract Society
+fully,"['fully', 'full', 'to_the_full', 'in_full', 'amply']",Tracts published by American Tract Society
+sinless,"['impeccant', 'sinless', 'innocent']",Tracts published by American Tract Society
+astronomy,"['uranology', 'astronomy']",Tracts published by American Tract Society
+thing,"['affair', 'thing', 'matter']",Tracts published by American Tract Society
+associate,"['fellow', 'consort', 'familiar', 'associate_degree', 'associate', 'colligate', 'companion', 'affiliate', 'connect', 'comrade', 'relate', 'link', 'link_up', 'assort', 'consociate', 'tie_in']",Tracts published by American Tract Society
+moral,"['moral', 'lesson']",Tracts published by American Tract Society
+child,"['tyke', 'nipper', 'shaver', 'child', 'youngster', 'fry', 'tike', 'minor', 'nestling', 'kid', 'tiddler', 'small_fry', 'baby']",Tracts published by American Tract Society
+must,"['moldiness', 'mustiness', 'must']",Tracts published by American Tract Society
+high,"['senior_high_school', 'eminent', 'gamey', 'heights', 'senior_high', 'mellow', 'highschool', 'high_school', 'high_up', 'high', 'luxuriously', 'high_gear', 'in_high_spirits', 'high-pitched', 'richly', 'gamy']",Tracts published by American Tract Society
+discern,"['tell_apart', 'spot', 'make_out', 'distinguish', 'recognize', 'recognise', 'discern', 'pick_out']",Tracts published by American Tract Society
+whose,[],Tracts published by American Tract Society
+on,"['on', 'along']",Tracts published by American Tract Society
+although,[],Tracts published by American Tract Society
+hymn,"['anthem', 'hymn']",Tracts published by American Tract Society
+loving,"['loving', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",Tracts published by American Tract Society
+danger,"['risk', 'danger', 'peril']",Tracts published by American Tract Society
+Criticism,"['critique', 'unfavorable_judgment', 'criticism', 'literary_criticism']",Tracts published by American Tract Society
+Again,"['once_more', 'once_again', 'over_again', 'again']",Tracts published by American Tract Society
+Concordance,"['concord', 'harmony', 'concordance']",Tracts published by American Tract Society
+the,[],Tracts published by American Tract Society
+Lord,"['Maker', 'Almighty', 'Godhead', 'noble', 'nobleman', 'Jehovah', 'Divine', 'God_Almighty', 'master', 'Creator', 'lord', 'overlord', 'Lord']",Tracts published by American Tract Society
+so,"['sol', 'thusly', 'therefore', 'indeed', 'and_so', 'soh', 'thus', 'thence', 'then', 'and_then', 'hence', 'so']",Tracts published by American Tract Society
+asking,"['involve', 'expect', 'request', 'necessitate', 'need', 'take', 'inquire', 'enquire', 'postulate', 'require', 'ask', 'demand', 'call_for', 'asking']",Tracts published by American Tract Society
+fields,"['playing_field', 'athletic_field', 'bailiwick', 'Fields', 'field_of_force', 'field_of_operations', 'landing_field', 'field_of_honor', 'W._C._Fields', 'orbit', 'flying_field', 'airfield', 'theater_of_operations', 'battleground', 'battlefield', 'field_of_study', 'plain', 'domain', 'line_of_business', 'theater', 'area', 'field_of_operation', 'field_of_view', 'field', 'discipline', 'playing_area', 'field_of_battle', 'theatre_of_operations', 'subject_area', 'sphere', 'champaign', 'study', 'William_Claude_Dukenfield', 'subject', 'theatre', 'subject_field', 'force_field', 'arena']",Tracts published by American Tract Society
+want,"['wish', 'deficiency', 'wishing', 'want', 'deprivation', 'require', 'lack', 'privation', 'neediness', 'desire', 'need']",Tracts published by American Tract Society
+from,[],Tracts published by American Tract Society
+prayer,"['supplicant', 'supplication', 'prayer', 'entreaty', 'orison', 'petition', 'appeal']",Tracts published by American Tract Society
+many,['many'],Tracts published by American Tract Society
+future,"['hereafter', 'time_to_come', 'succeeding', 'future_tense', 'next', 'future', 'futurity']",Tracts published by American Tract Society
+race,"['airstream', 'cannonball_along', 'hasten', 'hie', 'race', 'wash', 'step_on_it', 'bucket_along', 'subspecies', 'slipstream', 'raceway', 'pelt_along', 'backwash', 'hotfoot', 'run', 'belt_along', 'speed', 'rush_along', 'rush']",Tracts published by American Tract Society
+these,[],Tracts published by American Tract Society
+different,"['different', 'dissimilar', 'unlike']",Tracts published by American Tract Society
+before,"['before', 'in_front', 'earlier', 'ahead']",Tracts published by American Tract Society
+You,[],Tracts published by American Tract Society
+resting,"[""catch_one's_breath"", 'lie', 'take_a_breather', 'remain', 'reside', 'pillow', 'rest', 'stay', 'repose', 'perch', 'breathe', 'roost']",Tracts published by American Tract Society
+precepts,"['precept', 'commandment', 'teaching', 'principle']",Tracts published by American Tract Society
+well,"['advantageously', 'swell', 'substantially', 'fountainhead', 'wellspring', 'well', 'easily', 'comfortably', 'intimately', 'considerably', 'good']",Tracts published by American Tract Society
+patient,"['patient', 'patient_role', 'affected_role']",Tracts published by American Tract Society
+claiming,"['claim', 'exact', 'lay_claim', 'take', 'arrogate']",Tracts published by American Tract Society
+determine,"['square_off', 'see', 'settle', 'watch', 'decide', 'limit', 'find_out', 'find', 'regulate', 'set', 'define', 'ascertain', 'determine', 'check', 'fix', 'shape', ""make_up_one's_mind"", 'influence', 'square_up', 'learn', 'specify', 'mold']",Tracts published by American Tract Society
+unto,[],Tracts published by American Tract Society
+which,[],Tracts published by American Tract Society
+entire,"['total', 'integral', 'full', 'intact', 'entire', 'stallion']",Tracts published by American Tract Society
+pain,"['painfulness', 'botheration', 'painful_sensation', 'nuisance', 'annoyance', 'ail', 'bother', 'pain_sensation', 'hurt', 'infliction', 'trouble', 'pain', 'pain_in_the_neck', 'hurting', 'anguish', 'pain_in_the_ass']",Tracts published by American Tract Society
+aching,"['yen', 'languish', 'pine', 'achy', 'ache', 'suffer', 'hurt', 'yearn', 'aching', 'smart']",Tracts published by American Tract Society
+accomplishments,"['skill', 'attainment', 'acquisition', 'accomplishment', 'acquirement', 'achievement']",Tracts published by American Tract Society
+overreached,"['outwit', 'beat', 'overreach', 'circumvent', 'outsmart', 'outfox']",Tracts published by American Tract Society
+textbook,"['text_edition', 'textbook', 'text', 'casebook', 'schoolbook', 'school_text']",Tracts published by American Tract Society
+faith,"['faith', 'trust', 'religion', 'religious_belief', 'organized_religion']",Tracts published by American Tract Society
+a,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",Tracts published by American Tract Society
+candy,"['glaze', 'sugarcoat', 'confect', 'candy']",Tracts published by American Tract Society
+follower,['follower'],Tracts published by American Tract Society
+realize,"['understand', 'bring_in', 'actualise', 'pull_in', 'gain', 'make', 'take_in', 'realize', 'actualize', 'substantiate', 'clear', 'see', 'agnize', 'realise', 'agnise', 'recognize', 'recognise', 'earn']",Tracts published by American Tract Society
+thus,"['thusly', 'therefore', 'thus', 'thence', 'frankincense', 'gum_olibanum', 'hence', 'olibanum', 'so']",Tracts published by American Tract Society
+Or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",Tracts published by American Tract Society
+give,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'springiness', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'spring', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",Tracts published by American Tract Society
+had,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Tracts published by American Tract Society
+me,"['ME', 'Maine', 'Pine_Tree_State']",Tracts published by American Tract Society
+already,['already'],Tracts published by American Tract Society
+vast,"['vast', 'immense', 'Brobdingnagian', 'huge']",Tracts published by American Tract Society
+your,[],Tracts published by American Tract Society
+thunder,"['roaring', 'smack', 'skag', 'boom', 'nose_drops', 'big_H', 'scag', 'hell_dust', 'thunder', 'roar']",Tracts published by American Tract Society
+themselves,[],Tracts published by American Tract Society
+put,"['put', 'put_option', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",Tracts published by American Tract Society
+filled,"['take', 'replete', 'satisfy', 'make_full', 'sate', 'meet', 'fill_up', 'fulfill', 'occupy', 'satiate', 'fulfil', 'fill', 'filled']",Tracts published by American Tract Society
+22,"['twenty-two', '22', 'XXII', 'xxii']",Tracts published by American Tract Society
+hell-bound,[],Tracts published by American Tract Society
+wisdom,"['wisdom', 'Wisdom', 'Wisdom_of_Solomon', 'soundness', 'sapience', 'wiseness']",Tracts published by American Tract Society
+trusting,"['rely', 'hope', 'swear', 'trust', 'believe', 'commit', 'trusting', 'confide', 'entrust', 'trustful', 'bank', 'intrust', 'desire']",Tracts published by American Tract Society
+even,"['still', 'fifty-fifty', 'even_out', 'flush', 'eve', 'even', 'level', 'regular', 'tied', 'yet', 'eventide', 'evening']",Tracts published by American Tract Society
+writer,"['author', 'writer']",Tracts published by American Tract Society
+never,"[""ne'er"", 'never']",Tracts published by American Tract Society
+gang,"['ring', 'mob', 'bunch', 'gang_up', 'work_party', 'crowd', 'pack', 'gang', 'crew']",Tracts published by American Tract Society
+Gaining,"['arrive_at', 'make', 'put_on', 'take_in', 'clear', 'hit', 'realise', 'win', 'make_headway', 'earn', 'pull_ahead', 'gain_ground', 'pull_in', 'profit', 'acquire', 'benefit', 'attain', 'derive', 'gather', 'reach', 'bring_in', 'get_ahead', 'gain', 'realize', 'advance']",Tracts published by American Tract Society
+cherished,"['hold_dear', 'precious', 'treasured', 'cherished', 'care_for', 'treasure', 'wanted', 'cherish']",Tracts published by American Tract Society
+no,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",Tracts published by American Tract Society
+face,"['grimace', 'look', 'font', 'confront', 'fount', 'brass', 'human_face', 'face', 'nerve', 'typeface', 'front', 'cheek', 'case', 'boldness', 'face_up', 'facial_expression', 'expression', 'aspect', 'present', 'side']",Tracts published by American Tract Society
+question,"['interrogative_sentence', 'interview', 'interrogation', 'motion', 'call_into_question', 'doubtfulness', 'wonder', 'enquiry', 'inquiry', 'oppugn', 'question', 'interrogative', 'head', 'doubt', 'dubiousness', 'query', 'interrogate']",Tracts published by American Tract Society
+terrible,"['severe', 'unspeakable', 'awful', 'tremendous', 'fearful', 'horrendous', 'wicked', 'abominable', 'direful', 'terrible', 'atrocious', 'frightening', 'dreaded', 'fearsome', 'painful', 'dire', 'horrific', 'dreadful', 'frightful', 'dread']",Tracts published by American Tract Society
+whosoever,[],Tracts published by American Tract Society
+great,"['large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'dandy', 'peachy', 'expectant', 'smashing', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",Tracts published by American Tract Society
+Come,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",Tracts published by American Tract Society
+born,"['digest', 'give_birth', 'endure', 'suffer', 'accept', 'stick_out', 'innate', 'expect', 'assume', 'behave', 'have', 'deport', 'wear', 'support', 'have_a_bun_in_the_oven', 'take_over', 'gestate', 'turn_out', 'born', 'stomach', 'tolerate', 'abide', 'bear', 'put_up', 'pay', 'contain', 'carry', 'acquit', 'brook', 'comport', 'natural', 'Max_Born', 'Born', 'yield', 'birth', 'deliver', 'stand', 'conduct', 'hold']",Tracts published by American Tract Society
+reveals,"['expose', 'let_out', 'uncover', 'unwrap', 'give_away', 'bring_out', 'break', 'divulge', 'unveil', 'reveal', 'let_on', 'disclose', 'discover']",Tracts published by American Tract Society
+order,"['put', 'range', 'place', 'society', 'monastic_order', 'regularise', 'consecrate', 'ordination', 'rate', 'enjoin', 'govern', 'prescribe', 'guild', 'order_of_magnitude', 'rules_of_order', 'tell', 'regulate', 'fiat', 'lodge', 'regularize', 'rescript', 'gild', 'order', 'edict', 'parliamentary_procedure', 'say', 'orderliness', 'Order', 'social_club', 'rank', 'dictate', 'grade', 'ordinate', 'ordering', 'arrange', 'ordain', 'decree', 'Holy_Order', 'set_up', 'purchase_order', 'parliamentary_law', 'club']",Tracts published by American Tract Society
+Let,"['allow', 'LET', 'countenance', 'get', 'Lashkar-e-Tayyiba', 'Lashkar-e-Taiba', 'have', 'Lashkar-e-Toiba', 'permit', 'lease', 'Army_of_the_Pure', 'Army_of_the_Righteous', 'let', 'rent', 'net_ball']",Tracts published by American Tract Society
+our,[],Tracts published by American Tract Society
+possibly,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",Tracts published by American Tract Society
+minds,"['creative_thinker', 'heed', 'intellect', 'take_care', 'idea', 'psyche', 'beware', 'listen', 'bear_in_mind', 'head', 'mind', 'nous', 'judgment', 'brain', 'judgement', 'thinker']",Tracts published by American Tract Society
+attend,"['go_to', 'serve', 'attend_to', 'hang', 'pay_heed', 'advert', 'look', 'attend', 'wait_on', 'see', 'give_ear', 'take_care', 'assist']",Tracts published by American Tract Society
+should,[],Tracts published by American Tract Society
+Cape,"['ness', 'mantle', 'cape']",Tracts published by American Tract Society
+might,"['might', 'power', 'mightiness']",Tracts published by American Tract Society
+outside,"['international', 'alfresco', 'outside', 'extraneous', 'remote', 'out_of_doors', 'away', 'external', 'outdoor', 'outdoors', 'exterior', 'out-of-door']",Tracts published by American Tract Society
+subjected,"['submit', 'subject', 'subjugate']",Tracts published by American Tract Society
+worshipping,"['hero-worship', 'idolize', 'idolise', 'worship', 'revere']",Tracts published by American Tract Society
+reign,"['predominate', 'sovereignty', 'reign', 'dominate', 'rule', 'prevail']",Tracts published by American Tract Society
+probability,"['probability', 'chance']",Tracts published by American Tract Society
+7,"['vii', 'seven', '7', 'heptad', 'septenary', 'VII', 'septet', 'sevener']",Tracts published by American Tract Society
+think,"['opine', 'cogitate', 'believe', 'suppose', 'guess', 'conceive', 'reckon', 'recall', 'intend', 'mean', 'recollect', 'consider', 'imagine', 'remember', 'think', 'cerebrate', 'call_back', 'call_up', 'retrieve']",Tracts published by American Tract Society
+sick,"['honk', 'crazy', 'purge', 'spew', 'disgusted', 'grim', 'brainsick', 'vomit_up', 'nauseated', 'regorge', 'be_sick', 'grisly', 'regurgitate', 'unbalanced', 'throw_up', 'vomit', 'gruesome', 'barf', 'cat', 'disgorge', 'disturbed', 'pallid', 'wan', 'nauseous', 'retch', 'sick_of', 'spue', 'cast', 'ghastly', 'sickish', 'macabre', 'ill', 'upchuck', 'tired_of', 'pale', 'sick', 'queasy', 'unhinged', 'demented', 'chuck', 'fed_up', 'mad', 'puke']",Tracts published by American Tract Society
+yearly,"['annual', 'yearbook', 'annually', 'yearly', 'every_year', 'each_year']",Tracts published by American Tract Society
+just,"['hardly', 'upright', 'just_now', 'simply', 'merely', 'only', 'scarcely', 'equitable', 'exactly', 'just', 'barely', 'but', 'scarce', 'fair', 'precisely', 'good']",Tracts published by American Tract Society
+almost,"['nigh', 'virtually', 'about', 'most', 'nearly', 'well-nigh', 'almost', 'near']",Tracts published by American Tract Society
+16,"['XVI', 'xvi', '16', 'sixteen']",Tracts published by American Tract Society
+nation,"['commonwealth', 'country', 'Nation', 'Carry_Nation', 'body_politic', 'land', 'state', 'Carry_Amelia_Moore_Nation', 'nation', 'res_publica']",Tracts published by American Tract Society
+miracle,['miracle'],Tracts published by American Tract Society
+real,"['existent', 'very', 'substantial', 'genuine', 'tangible', 'veridical', 'really', 'real_number', 'rattling', 'material', 'actual', 'real', 'literal']",Tracts published by American Tract Society
+Doubts,"['dubiety', 'uncertainty', 'incertitude', 'question', 'dubiousness', 'doubt', 'doubtfulness']",Tracts published by American Tract Society
+he,"['He', 'helium', 'atomic_number_2', 'he']",Tracts published by American Tract Society
+sweetly,"['sweet', 'sweetly']",Tracts published by American Tract Society
+noted,"['take_note', 'illustrious', 'noted', 'observe', 'renowned', 'far-famed', 'note', 'mark', 'notable', 'notice', 'take_down', 'celebrated', 'mention', 'remark', 'famed', 'famous']",Tracts published by American Tract Society
+strong,"['stiff', 'unassailable', 'unattackable', 'substantial', 'strong', 'warm', 'firm', 'solid', 'hard', 'inviolable', 'secure', 'potent', 'impregnable']",Tracts published by American Tract Society
+righteousness,['righteousness'],Tracts published by American Tract Society
+religions,"['religious_belief', 'organized_religion', 'faith', 'religion']",Tracts published by American Tract Society
+father,"['generate', 'father', 'Padre', 'forefather', 'Father', 'founding_father', 'mother', 'engender', 'Fatherhood', 'Church_Father', 'male_parent', 'begetter', 'get', 'beget', 'Father-God', 'don', 'Father_of_the_Church', 'founder', 'beginner', 'bring_forth', 'sire']",Tracts published by American Tract Society
+Canaveral's,[],Tracts published by American Tract Society
+critics,['critic'],Tracts published by American Tract Society
+see,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",Tracts published by American Tract Society
+after,"['subsequently', 'afterwards', 'after', 'later_on', 'later', 'afterward']",Tracts published by American Tract Society
+Only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",Tracts published by American Tract Society
+Revelation,"['divine_revelation', 'revealing', 'disclosure', 'Book_of_Revelation', 'Revelation_of_Saint_John_the_Divine', 'Revelation', 'Apocalypse', 'revelation']",Tracts published by American Tract Society
+would,[],Tracts published by American Tract Society
+3,"['iii', 'triad', 'leash', 'ternary', 'troika', 'terzetto', '3', 'trinity', 'triplet', 'trio', 'threesome', 'tierce', 'trine', 'deuce-ace', 'ternion', 'III', 'three', 'tercet', 'trey']",Tracts published by American Tract Society
+structure,"['anatomical_structure', 'structure', 'complex_body_part', 'construction', 'social_organisation', 'social_system', 'bodily_structure', 'social_organization', 'social_structure', 'body_structure']",Tracts published by American Tract Society
+fame,"['renown', 'celebrity', 'fame']",Tracts published by American Tract Society
+Mark,"['target', 'scrape', 'Gospel_According_to_Mark', 'patsy', 'sucker', 'nock', 'tick', 'punctuate', 'marking', 'pock', ""bull's_eye"", 'cross_out', 'stigma', 'differentiate', 'Deutschmark', 'fall_guy', 'stain', 'chump', 'check_off', 'brand', 'cross', 'mug', 'Mark', 'scratch', 'notice', 'set', 'Deutsche_Mark', 'mark', 'Saint_Mark', 'St._Mark', 'soft_touch', 'mark_off', 'stigmatize', 'tick_off', 'fool', 'marker', 'home_run', 'crisscross', 'score', 'stigmatise', 'cross_off', 'distinguish', 'check', 'strike_off', 'bell_ringer', 'grade', 'gull', 'print', 'sign', 'German_mark', 'label', 'note', 'commemorate', 'scar', 'denounce', 'tag', 'strike_out', 'pit']",Tracts published by American Tract Society
+again,"['once_more', 'once_again', 'over_again', 'again']",Tracts published by American Tract Society
+1,"['one', '1', 'I', 'single', 'i', 'unity', 'ace', 'ane']",Tracts published by American Tract Society
+disturbed,"['raise_up', 'distressed', 'crazy', 'upset', 'brainsick', 'mad', 'vex', 'interrupt', 'unbalanced', 'disturbed', 'disquieted', 'worried', 'maladjusted', 'shake_up', 'trouble', 'stir_up', 'commove', 'sick', 'unhinged', 'demented', 'touch', 'disturb', 'agitate']",Tracts published by American Tract Society
+engaged,"['affiance', 'employ', 'mesh', 'engage', 'charter', 'lock', 'occupy', 'rent', 'in_use', 'intermeshed', 'pursue', 'set-aside', 'busy', 'operate', 'hire', 'occupied', 'plight', 'engaged', 'enlist', 'engross', 'wage', 'prosecute', 'betroth', 'booked', 'take', 'absorb', 'meshed', 'lease']",Tracts published by American Tract Society
+hunger,"['thirst', 'starve', 'hunger', 'hungriness', 'thirstiness', 'lust', 'famish', 'crave']",Tracts published by American Tract Society
+of,[],Tracts published by American Tract Society
+noting,"['take_note', 'observe', 'note', 'mark', 'notice', 'take_down', 'mention', 'remark']",Tracts published by American Tract Society
+Looking,"['calculate', 'look', 'bet', 'see', 'search', 'looking_for', 'expect', 'appear', 'reckon', 'face', 'depend', 'count', 'front', 'attend', 'sounding', 'looking_at', 'wait', 'seem', 'await', 'looking', 'take_care']",Tracts published by American Tract Society
+Testament,"['Testament', 'testament', 'will']",Tracts published by American Tract Society
+very,"['very', 'selfsame', 'identical', 'really', 'rattling', 'real']",Tracts published by American Tract Society
+forgiveness,"['pardon', 'forgiveness']",Tracts published by American Tract Society
+keep,"['sustenance', 'celebrate', 'sustain', 'save', 'donjon', 'keep_back', 'dungeon', 'proceed', 'living', 'support', 'maintain', 'hold_open', 'prevent', 'livelihood', 'keep_on', 'keep_open', 'hold_on', 'stay_fresh', 'preserve', 'continue', 'observe', 'keep', 'restrain', 'retain', 'hold_back', 'bread_and_butter', 'hold', 'go_along', 'go_on']",Tracts published by American Tract Society
+speak,"['address', 'speak', 'talk', 'mouth', 'verbalize', 'utter', 'verbalise']",Tracts published by American Tract Society
+power,"['great_power', 'superpower', 'mogul', 'force', 'ability', 'major_power', 'tycoon', 'business_leader', 'powerfulness', 'world_power', 'king', 'big_businessman', 'magnate', 'mightiness', 'index', 'office', 'might', 'power', 'top_executive', 'baron', 'exponent']",Tracts published by American Tract Society
+;,[],Tracts published by American Tract Society
+day,"['Day', 'daylight', 'twenty-four_hour_period', 'sidereal_day', 'Clarence_Day', 'day', '24-hour_interval', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'solar_day', 'daytime', 'twenty-four_hours']",Tracts published by American Tract Society
+far,"['Army_for_the_Liberation_of_Rwanda', 'ALIR', 'Interahamwe', 'FAR', 'far', 'Former_Armed_Forces']",Tracts published by American Tract Society
+family,"['folk', 'menage', 'sept', 'class', 'household', 'kinfolk', 'kinsfolk', 'house', 'kin', 'kinsperson', 'fellowship', 'family_unit', 'family', 'mob', 'phratry', 'syndicate', 'family_line', 'home', 'crime_syndicate', 'category']",Tracts published by American Tract Society
+orbit,"['range', 'ambit', 'eye_socket', 'field', 'electron_orbit', 'orbital_cavity', 'revolve', 'reach', 'cranial_orbit', 'celestial_orbit', 'compass', 'domain', 'orb', 'scope', 'orbit', 'arena', 'sphere', 'area']",Tracts published by American Tract Society
+destined,"['destined', 'fate', 'designate', 'destine', 'bound', 'doom', 'intend', 'specify']",Tracts published by American Tract Society
+time,"['metre', 'time', 'prison_term', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'fourth_dimension']",Tracts published by American Tract Society
+promise,"['predict', 'anticipate', 'hope', 'promise', 'foretell', 'forebode', 'assure', 'prognosticate', 'call']",Tracts published by American Tract Society
+place,"['put', 'come_out', 'target', 'range', 'place', 'situation', 'aim', 'station', 'property', 'position', 'rate', 'lay', 'plaza', 'stead', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'seat', 'point', 'billet', 'commit', 'shoes', 'localize', 'identify', 'rank', 'office', 'pose', 'grade', 'localise', 'topographic_point', 'blank_space', 'home', 'spot', 'space', 'send', 'locate', 'lieu', 'berth', 'site', 'piazza']",Tracts published by American Tract Society
+Accept,"['bear', 'go_for', 'take', 'have', 'assume', 'take_on', 'admit', 'accept', 'take_over', 'swallow', 'live_with', 'consent']",Tracts published by American Tract Society
+devil's,[],Tracts published by American Tract Society
+If,[],Tracts published by American Tract Society
+human,"['man', 'human_being', 'homo', 'human']",Tracts published by American Tract Society
+(,[],Tracts published by American Tract Society
+lot,"['pot', 'stack', 'draw', 'fate', 'distribute', 'deal_out', 'portion', 'allot', 'lot', 'mickle', 'plenty', 'band', 'hatful', 'tidy_sum', 'deal', 'muckle', 'pile', 'slew', 'mete_out', 'mint', 'spate', 'mountain', 'parcel_out', 'dispense', 'set', 'dole_out', 'luck', 'administer', 'circumstances', 'bunch', 'peck', 'sight', 'circle', 'batch', 'Lot', 'dish_out', 'good_deal', 'mess', 'shell_out', 'caboodle', 'destiny', 'passel', 'wad', 'heap', 'fortune', 'flock', 'mass', 'quite_a_little', 'great_deal', 'raft']",Tracts published by American Tract Society
+received,"['get', 'experience', 'have', 'invite', 'take_in', 'standard', 'find', 'encounter', 'incur', 'obtain', 'welcome', 'meet', 'received', 'receive', 'pick_up']",Tracts published by American Tract Society
+peace,"['peacefulness', 'serenity', 'public_security', 'peace', 'repose', 'heartsease', 'peace_treaty', 'peace_of_mind', 'ataraxis', 'pacification']",Tracts published by American Tract Society
+recreation,"['recreation', 'refreshment', 'diversion']",Tracts published by American Tract Society
+own,"['possess', 'own', 'ain', 'have']",Tracts published by American Tract Society
+trust,"['hope', 'believe', 'confidence', 'entrust', 'rely', 'desire', 'trust', 'cartel', 'trustingness', 'swear', 'commit', 'corporate_trust', 'confide', 'faith', 'combine', 'trustfulness', 'bank', 'intrust', 'reliance']",Tracts published by American Tract Society
+Taste,"['gustatory_perception', 'try', 'gustatory_sensation', 'gustation', 'savor', 'discernment', 'sample', 'mouthful', 'appreciation', 'preference', 'penchant', 'predilection', 'taste_sensation', 'gustatory_modality', 'try_out', 'savour', 'perceptiveness', 'smack', 'taste', 'sense_of_taste', 'tasting', 'taste_perception']",Tracts published by American Tract Society
+where,[],Tracts published by American Tract Society
+shadow,"['tail', 'shadower', 'shade_off', 'phantom', 'overshadow', 'phantasm', 'phantasma', 'dark', 'fantasm', 'tincture', 'dwarf', 'shadow', 'trace', 'shade', 'vestige', 'darkness', 'apparition']",Tracts published by American Tract Society
+mind,"['creative_thinker', 'heed', 'intellect', 'take_care', 'idea', 'psyche', 'beware', 'listen', 'bear_in_mind', 'head', 'mind', 'nous', 'judgment', 'brain', 'judgement', 'thinker']",Tracts published by American Tract Society
+Bible,"['Word_of_God', 'Book', 'Good_Book', 'Word', 'Holy_Scripture', 'bible', 'Christian_Bible', 'Holy_Writ', 'Bible', 'Scripture']",Tracts published by American Tract Society
+flooding,"['swamp', 'inundate', 'implosion_therapy', 'flood', 'glut', 'oversupply', 'flooding', 'deluge']",Tracts published by American Tract Society
+loved,"['be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'make_out', 'fuck', 'loved', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",Tracts published by American Tract Society
+American,"['American_language', 'American', 'American_English']",Tracts published by American Tract Society
+friends,"['Quaker', 'admirer', 'friend', 'champion', 'ally', 'supporter', 'booster', 'Friend', 'acquaintance', 'protagonist']",Tracts published by American Tract Society
+sons,"['Son', 'Logos', 'son', 'Word', 'boy']",Tracts published by American Tract Society
+achievements,"['accomplishment', 'achievement']",Tracts published by American Tract Society
+that,[],Tracts published by American Tract Society
+came,"['number', 'total', 'occur', 'get_along', 'fare', 'make_out', 'hail', 'do', 'come_in', 'amount', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'descend', 'come', 'issue_forth', 'follow']",Tracts published by American Tract Society
+satisfying,"['hearty', 'cheering', 'substantial', 'satisfy', 'square', 'satisfying', 'solid', 'fulfill', 'meet', 'comforting', 'gratify', 'live_up_to', 'fill', 'fulfil']",Tracts published by American Tract Society
+now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",Tracts published by American Tract Society
+be,"['constitute', 'Be', 'equal', 'embody', 'cost', 'comprise', 'glucinium', 'represent', 'make_up', 'be', 'live', 'exist', 'follow', 'personify', 'beryllium', 'atomic_number_4']",Tracts published by American Tract Society
+proof,"['proofread', 'validation', 'substantiation', 'proof', 'test_copy', 'cogent_evidence', 'trial_impression']",Tracts published by American Tract Society
+developments,"['ontogenesis', 'maturation', 'growing', 'ontogeny', 'growth', 'development', 'evolution', 'developing', 'exploitation']",Tracts published by American Tract Society
+but,"['simply', 'merely', 'only', 'just', 'but']",Tracts published by American Tract Society
+ease,"['allay', 'still', 'informality', 'relaxation', 'alleviate', 'relief', 'simplicity', 'rest', 'simpleness', 'comfort', 'ease', 'repose', 'easiness', 'facilitate', 'relieve']",Tracts published by American Tract Society
+36,"['36', 'xxxvi', 'thirty-six']",Tracts published by American Tract Society
+balloons,"['billow', 'balloon', 'inflate']",Tracts published by American Tract Society
+pull,"['get_out', 'tear', 'force', 'draw', 'draw_out', 'extract', 'pull_up', 'puff', 'take_out', 'displume', 'rive', 'clout', 'deplume', 'pull_in', 'root_for', 'deplumate', 'pull_out', 'pulling', 'rip', 'drag', 'twist', 'pluck', 'rend', 'perpetrate', 'commit', 'pull', 'wrench', 'attract', 'draw_in', 'overstretch']",Tracts published by American Tract Society
+Christ,"['Good_Shepherd', 'Redeemer', 'Christ', 'the_Nazarene', 'Jesus_of_Nazareth', 'Deliverer', 'Saviour', 'Savior', 'christ', 'Jesus', 'Jesus_Christ', 'messiah']",Tracts published by American Tract Society
+marvelous,"['marvelous', 'terrific', 'fantastic', 'miraculous', 'improbable', 'grand', 'howling', 'wonderful', 'tall', 'marvellous', 'wondrous', 'tremendous', 'rattling']",Tracts published by American Tract Society
+Then,"['then', 'and_so', 'and_then', 'so']",Tracts published by American Tract Society
+An,"['Associate_in_Nursing', 'AN']",Tracts published by American Tract Society
+during,[],Tracts published by American Tract Society
+what,[],Tracts published by American Tract Society
+both,['both'],Tracts published by American Tract Society
+servant,"['handmaid', 'handmaiden', 'retainer', 'servant']",Tracts published by American Tract Society
+sum,"['total', 'join', 'substance', 'nitty-gritty', 'summate', 'meat', 'totality', 'sum_of_money', 'kernel', 'summarise', 'union', 'aggregate', 'marrow', 'nub', 'amount_of_money', 'amount', 'core', 'heart_and_soul', 'add', 'gist', 'tot_up', 'tot', 'add_together', 'tally', 'inwardness', 'sum_total', 'add_up', 'summation', 'sum_up', 'tote_up', 'sum', 'heart', 'pith', 'center', 'summarize', 'essence', 'centre']",Tracts published by American Tract Society
+bad,"['badly', 'big', 'spoilt', 'uncollectible', 'forged', 'defective', 'spoiled', 'sorry', 'tough', 'bad', 'risky', 'speculative', 'regretful', 'unfit', 'unsound', 'high-risk', 'badness']",Tracts published by American Tract Society
+follow,"['stick_with', 'succeed', 'accompany', 'espouse', 'postdate', 'keep_an_eye_on', 'watch', 'pursue', 'surveil', 'fall_out', 'stick_to', 'keep_abreast', 'play_along', 'survey', 'come_after', 'take_after', 'be', 'abide_by', 'conform_to', 'keep_up', 'observe', 'watch_over', 'comply', 'come', 'adopt', 'follow', 'trace', 'travel_along']",Tracts published by American Tract Society
+says,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",Tracts published by American Tract Society
+three,"['iii', 'triad', 'leash', 'ternary', 'troika', 'terzetto', '3', 'trinity', 'triplet', 'trio', 'threesome', 'tierce', 'trine', 'deuce-ace', 'ternion', 'III', 'three', 'tercet', 'trey']",Tracts published by American Tract Society
+not,"['non', 'not']",Tracts published by American Tract Society
+living,"['sustenance', 'subsist', 'experience', 'life', 'endure', 'live', 'animation', 'hold_up', 'support', 'hold_out', 'last', 'livelihood', 'aliveness', 'live_on', 'be', 'know', 'dwell', 'keep', 'bread_and_butter', 'go', 'survive', 'exist', 'inhabit', 'surviving', 'populate', 'living']",Tracts published by American Tract Society
+open,"['clear', 'exposed', 'opened', 'undetermined', 'unresolved', 'capable', 'surface', 'unfastened', 'loose', 'undefended', 'heart-to-heart', 'out-of-doors', 'overt', 'open_up', 'open_air', 'assailable', 'spread_out', 'undefendable', 'spread', 'unfold', 'afford', 'outdoors', 'candid', 'give', 'receptive', 'undecided', 'subject', 'open']",Tracts published by American Tract Society
+return,"['generate', 'return', 'recurrence', 'render', 'getting_even', 'regaining', 'repay', 'reappearance', 'issue', 'comeback', 'payoff', 'riposte', 'income_tax_return', 'take_back', 'restitution', 'rejoin', 'restoration', 'turn_back', 'tax_return', 'recall', 'refund', 'bring_back', 'come_back', 'reelect', 'counter', 'takings', 'return_key', 'fall', 'retrovert', 'retort', 'pass', 'regress', 'coming_back', 'revert', 'give_back', 'yield', 'hark_back', 'proceeds', 'take', 'deliver', 'devolve', 'rejoinder', 'replication', 'homecoming', 'give', 'paying_back']",Tracts published by American Tract Society
+save,"['lay_aside', 'save', 'carry_through', 'redeem', 'economise', 'pull_through', 'spare', 'hold_open', 'make_unnecessary', 'economize', 'save_up', 'write', 'keep_open', 'relieve', 'preserve', 'deliver', 'keep', 'salvage', 'salve', 'bring_through']",Tracts published by American Tract Society
+expressing,"['utter', 'convey', 'press_out', 'extract', 'express', 'give_tongue_to', 'show', 'carry', 'state', 'verbalize', 'evince', 'verbalise']",Tracts published by American Tract Society
+holds,"['sustain', 'view_as', 'clutch', 'make', 'curb', 'confine', 'keep_back', 'custody', 'have_got', 'grip', 'defend', 'hold_up', 'have', 'postponement', 'clutches', 'maintain', 'time_lag', 'support', 'concur', 'cargo_hold', 'grasp', 'admit', 'arrest', 'concord', 'delay', 'entertain', 'detainment', 'cargo_deck', 'accommodate', 'detention', 'appreciation', 'handle', 'throw', 'harbour', 'nurse', 'bear', 'obligate', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'wait', 'clench', 'moderate', 'clasp', 'storage_area', 'take_hold', 'halt', 'declare', 'take', 'agree', 'restrain', 'handgrip', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'adjudge', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'cargo_area', 'withstand', 'reserve']",Tracts published by American Tract Society
+joining,"['bring_together', 'connection', 'fall_in', 'get_together', 'connect', 'joining', 'link', 'link_up', 'connexion', 'conjoin', 'unite', 'join']",Tracts published by American Tract Society
+or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",Tracts published by American Tract Society
+invitation,['invitation'],Tracts published by American Tract Society
+Nor,[],Tracts published by American Tract Society
+convictions,"['sentence', 'strong_belief', 'judgment_of_conviction', 'condemnation', 'conviction', 'article_of_faith']",Tracts published by American Tract Society
+good,"['honest', 'undecomposed', 'unspoilt', 'skillful', 'adept', 'skilful', 'soundly', 'good', 'thoroughly', 'practiced', 'proficient', 'beneficial', 'trade_good', 'safe', 'goodness', 'full', 'expert', 'salutary', 'respectable', 'upright', 'unspoiled', 'effective', 'well', 'near', 'ripe', 'in_effect', 'dependable', 'dear', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'commodity', 'estimable']",Tracts published by American Tract Society
+Mary,"['Mary', 'The_Virgin', 'Madonna', 'Virgin_Mary', 'Blessed_Virgin']",Tracts published by American Tract Society
+deal,"['pot', 'stack', 'trade', 'business_deal', 'distribute', 'softwood', 'deal_out', 'make_do', 'allot', 'lot', 'mickle', 'cope', 'plenty', 'hatful', 'tidy_sum', 'care', 'deal', 'muckle', 'pile', 'slew', 'apportion', 'mete_out', 'carry_on', 'mint', 'spate', 'mountain', 'make_out', 'parcel_out', 'dispense', 'get_by', 'dole_out', 'administer', 'treat', 'grapple', 'portion_out', 'peck', 'handle', 'contend', 'sight', 'bargain', 'batch', 'dish_out', 'good_deal', 'cover', 'mess', 'shell_out', 'passel', 'wad', 'consider', 'manage', 'heap', 'hand', 'divvy_up', 'flock', 'take', 'sell', 'mass', 'address', 'quite_a_little', 'look_at', 'conduct', 'great_deal', 'share', 'plow', 'raft']",Tracts published by American Tract Society
+longing,"['long', 'yearning', 'longing', 'hungriness', 'hanker', 'yearn']",Tracts published by American Tract Society
+saving,"['lay_aside', 'save', 'carry_through', 'rescue', 'redeem', 'redeeming', 'economise', 'pull_through', 'saving', 'spare', 'hold_open', 'redemptive', 'economy', 'make_unnecessary', 'economize', 'deliverance', 'save_up', 'write', 'keep_open', 'relieve', 'delivery', 'preserve', 'deliver', 'keep', 'preservation', 'salvage', 'salve', 'bring_through']",Tracts published by American Tract Society
+weakest,"['frail', 'debile', 'washy', 'weak', 'light', 'feeble', 'faint', 'imperfect', 'unaccented', 'infirm', 'rickety', 'sapless', 'decrepit', 'weakly', 'watery', 'fallible']",Tracts published by American Tract Society
+older,"['honest-to-god', 'sr.', 'aged', 'former', 'one-time', 'sometime', 'senior', 'erstwhile', 'older', 'quondam', 'honest-to-goodness', 'sure-enough', 'old', 'elder', 'previous', 'onetime', 'Old', 'elderly']",Tracts published by American Tract Society
+yet,"['as_yet', 'even', 'all_the_same', 'even_so', 'still', 'until_now', 'yet', 'til_now', 'nonetheless', 'heretofore', 'notwithstanding', 'so_far', 'hitherto', 'nevertheless', 'however', 'in_time', 'thus_far', 'up_to_now', 'withal']",Tracts published by American Tract Society
+creatures,"['brute', 'fauna', 'puppet', 'animate_being', 'tool', 'beast', 'creature', 'wight', 'animal']",Tracts published by American Tract Society
+thee,[],Tracts published by American Tract Society
+begotten,"['generate', 'get', 'beget', 'mother', 'father', 'engender', 'bring_forth', 'begotten', 'sire']",Tracts published by American Tract Society
+giveth,[],Tracts published by American Tract Society
+amount,"['number', 'total', 'sum_of_money', 'come', 'sum', 'amount_of_money', 'amount', 'quantity', 'measure', 'add_up']",Tracts published by American Tract Society
+skill,"['skill', 'science', 'acquisition', 'accomplishment', 'acquirement', 'attainment']",Tracts published by American Tract Society
+modernists,['modernist'],Tracts published by American Tract Society
+Further,"['farther', 'promote', 'boost', 'encourage', 'foster', 'further', 'far', 'advance']",Tracts published by American Tract Society
+appreciation,"['perceptiveness', 'appreciation', 'taste', 'admiration', 'hold', 'discernment', 'grasp']",Tracts published by American Tract Society
+him,[],Tracts published by American Tract Society
+juvenile,"['puerile', 'juvenile_person', 'adolescent', 'juvenile', 'jejune']",Tracts published by American Tract Society
+often,"['ofttimes', 'oft', 'a_great_deal', 'oftentimes', 'much', 'often', 'frequently']",Tracts published by American Tract Society
+conviction,"['sentence', 'strong_belief', 'judgment_of_conviction', 'condemnation', 'conviction', 'article_of_faith']",Tracts published by American Tract Society
+guidance,"['steering', 'counsel', 'guidance', 'counseling', 'counselling', 'direction']",Tracts published by American Tract Society
+pay,"['ante_up', 'yield', 'devote', 'pay_off', 'bear', 'salary', 'make_up', 'earnings', 'give', 'compensate', 'pay', 'wage', 'pay_up', 'remuneration']",Tracts published by American Tract Society
+Perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",Tracts published by American Tract Society
+will,"['bequeath', 'volition', 'testament', 'will', 'leave']",Tracts published by American Tract Society
+redactions,"['redaction', 'editing']",Tracts published by American Tract Society
+folly,"['folly', 'tomfoolery', 'imbecility', 'indulgence', 'foolery', 'foolishness', 'stupidity', 'lunacy', 'craziness', 'madness', 'betise', 'unwiseness']",Tracts published by American Tract Society
+We,[],Tracts published by American Tract Society
+dear,"['dearly', 'costly', 'love', 'high-priced', 'honey', 'heartfelt', 'dear', 'pricey', 'pricy', 'dearest', 'earnest', 'affectionately', 'devout', 'beloved', 'darling', 'near', 'good', 'lamb']",Tracts published by American Tract Society
+professional,"['pro', 'professional', 'professional_person', 'master']",Tracts published by American Tract Society
+able,"['capable', 'able', 'able-bodied']",Tracts published by American Tract Society
+space,"['infinite', 'place', 'blank', 'blank_space', 'distance', 'space', 'outer_space', 'quad']",Tracts published by American Tract Society
+stand,"['point_of_view', 'digest', 'endure', 'base', 'suffer', 'viewpoint', 'stick_out', 'tie-up', 'fend', 'rack', 'support', 'resist', 'stand_up', 'stall', 'stomach', 'tolerate', 'abide', 'bear', 'bandstand', 'pedestal', 'place_upright', 'standpoint', 'outdoor_stage', 'put_up', 'brook', 'sales_booth', 'remain_firm', 'stand', 'standstill']",Tracts published by American Tract Society
+defenses,"['defense_mechanism', 'DoD', 'defensive_structure', 'refutation', 'defense_reaction', 'defending_team', 'United_States_Department_of_Defense', 'Department_of_Defense', 'Defense', 'vindication', 'defense_team', 'demurrer', 'defense', 'defensive_measure', 'defense_force', 'defence_mechanism', 'Defense_Department', 'defence', 'defence_reaction', 'denial', 'defence_force', 'defense_lawyers']",Tracts published by American Tract Society
+entering,"['enter', 'figure', 'recruit', 'ingress', 'entry', 'move_into', 'introduce', 'get_in', 'come_in', 'record', 'inscribe', 'entrance', 'go_into', 'go_in', 'incoming', 'participate', 'put_down', 'insert', 'accede', 'embark', 'enroll', 'infix', 'entering', 'get_into', 'enrol']",Tracts published by American Tract Society
+can,"['pot', 'butt', 'give_notice', 'stern', 'sack', 'toilet', 'tail_end', 'terminate', 'hindquarters', 'fanny', 'tush', 'can_buoy', 'tail', 'stool', 'throne', 'buttocks', 'buns', 'john', 'posterior', 'keister', 'tooshie', 'nates', 'give_the_sack', 'prat', 'seat', 'bathroom', 'canful', 'give_the_axe', 'ass', 'put_up', 'privy', 'potty', 'hind_end', 'bum', 'backside', 'behind', 'displace', 'can', 'commode', 'force_out', 'bottom', 'rear', 'crapper', 'lav', 'send_away', 'rump', 'fire', 'tin_can', 'rear_end', 'derriere', 'lavatory', 'fundament', 'arse', 'dismiss', 'tin']",Tracts published by American Tract Society
+vested,"['robe', 'invest', 'enthrone', 'vest', 'vested']",Tracts published by American Tract Society
+principle,"['precept', 'rule', 'rationale', 'principle']",Tracts published by American Tract Society

@@ -1,10 +1,10 @@
 
 #+AUTHOR: Jonatan Ahumada Fernández
-#+TITLE: Modelo de literariedad usando redes semánticas y n-gramas
+#+TITLE: Modelo de literariedad basado en la lingüistica de Roman Jakobson
 #+LaTeX_CLASS_OPTIONS: [12pt,letterpaper,twoside]
 #+LATEX_HEADER: \input{mytitle}
 #+LATEX_HEADER: \usepackage{longtable}
-#+LATEX_HEADER: \usepackage[spanish,english]{babel}
+#+LATEX_HEADER: \usepackage[spanish]{babel}
 #+LATEX_HEADER: \usepackage{float}
 #+LATEX_HEADER: \usepackage{setspace}
 #+LATEX_HEADER: \usepackage{mathptmx}
@@ -31,51 +31,50 @@
    
 
    
+** RESUMEN
 
-#+BEGIN_EXPORT latex
-\selectlanguage{spanish}
-\begin{abstract}
     En el presente trabajo se formula un modelo para calcular el
-   concepto de \emph{literariedad}, a través de dos medidas cuantitativas:
-   el \emph{indice metafórico} y el \emph{índice metonímico}. Tanto la
-   \emph{literariedad} como la \emph{metáfora} y la \emph{metonimia} no son conceptos
-   \emph{ad hoc}, sino que son modelados a partir del área de la
-   lingüistica estructural y, en particular, del lingüista Roman
-   Jakobson. Luego de formular el modelo, se evalúa a través de un
-   diseño experimental que se basa en el uso del Corpus de Brown. En
-   el experimento, se corren 5 muestras conformadas de 12 textos de
-   categorias diferentes. Los resultados experimentales muestran que
-   el \emph{índice metafórico} reporta consistentemente valores
-   significativamente más altos para las categorías de ficción, que
-   era el resultado esperado. Por otro lado, los resultados del
-   \emph{índice metonímico} muestran consistentemente valores más altos
-   para las categorías de no-ficción y en particular para los
-   comunicados gubernamentales, que era un resultado inesperado, pero
-   consistente con las teorías. El estadístico F y el valor-p de los
-   índices apuntan a que los resultados no son aleatorios, sino  consistentes
-   a lo largo de las muestras. 
-\end{abstract}
-
-\selectlanguage{english} 
-\begin{abstract}
- The present work formulates a model for the concept of \emph{literariness}, by
- finding two quantitative measures: the \emph{metaphorical index} and the \emph{metonymical index}.
- The concepts of \emph{literariness}, \emph{metaphor} and \emph{metonymy} are not \emph{ad hoc}
- constructs, but are modelled after the tenets of structural linguistics and, in particular,
- from the works of linguist Roman Jakobson. After formulating the model, it is evaluated through
- an experimental design based on the use of the Brown Corpus. In the experiment, 5 samples
- formed by 12 texts of different categories are run.  The experimental results show that
- the \emph{metaphorical index} reports values significatively higher than non-fiction consistently,
- which was the expected result. On the other hand, the results of the \emph{metonymical index} show
- giger values for the non-fiction categories consistently and, in particular, for governmental
- communications, wich wasn't an expected result but is justifiable from a theoretical perspective.
- The F-statistic and the p-value for the indexes show that these results are not random, but
- consistent along the samples.
-\end{abstract}
+   concepto de \emph{literariedad}, a través de dos medidas
+   cuantitativas: el \emph{indice metafórico} y el \emph{índicemetonímico}.
+   Tanto la \emph{literariedad} como la \emph{metáfora} y
+   la \emph{metonimia} no son conceptos \emph{ad hoc}, sino que son
+   modelados a partir del área de la lingüistica estructural y, en
+   particular, del lingüista Roman Jakobson. Luego de formular el
+   modelo, se evalúa a través de un diseño experimental que se basa en
+   el uso del Corpus de Brown. En el experimento, se corren 5 muestras
+   conformadas de 12 textos de categorias diferentes. Los resultados
+   experimentales muestran que el \emph{índice metafórico} reporta
+   consistentemente valores significativamente más altos para las
+   categorías de ficción, que era el resultado esperado. Por otro
+   lado, los resultados del \emph{índice metonímico} muestran
+   consistentemente valores más altos para las categorías de
+   no-ficción y en particular para los comunicados gubernamentales,
+   que era un resultado inesperado, pero consistente con las
+   teorías. El estadístico F y el valor-p de los índices apuntan a que
+   los resultados no son aleatorios, sino consistentes a lo largo de
+   las muestras.
 
 
-\selectlanguage{spanish}
-#+END_EXPORT
+
+ The present work formulates a model for the concept of
+ \emph{literariness}, by finding two quantitative measures: the
+ \emph{metaphorical index} and the \emph{metonymical index}.  The
+ concepts of \emph{literariness}, \emph{metaphor} and \emph{metonymy}
+ are not \emph{ad hoc} constructs, but are modelled after the tenets
+ of structural linguistics and, in particular, from the works of
+ linguist Roman Jakobson. After formulating the model, it is evaluated
+ through an experimental design based on the use of the Brown
+ Corpus. In the experiment, 5 samples formed by 12 texts of different
+ categories are run.  The experimental results show that the
+ \emph{metaphorical index} reports values significatively higher than
+ non-fiction consistently, which was the expected result. On the other
+ hand, the results of the \emph{metonymical index} show giger values
+ for the non-fiction categories consistently and, in particular, for
+ governmental communications, wich wasn't an expected result but is
+ justifiable from a theoretical perspective.  The F-statistic and the
+ p-value for the indexes show that these results are not random, but
+ consistent along the samples.  
+
 ** FORMULACIÓN DEL PROBLEMA
 *** Introducción
 
@@ -275,37 +274,52 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    
 *** Literariedad
 
+    
 
-  La /literariedad/ es, según Jakobson, la cualidad de un objeto
-  literario en cuanto tal:
+  La /literariedad/ es un concepto acuñado por el lingüista Roman
+  Jakobson en 1919 \cite{jakobson1981linguistica}. Según el autor, es
+  una característica que distingue un texto considerado literario de
+  otro tipo de texto no literario, (como, por ejemplo, un comunicado
+  de prensa, un manual de instrucciones, etc):
+
 
   #+begin_quote
-  
-  El objeto de la ciencia de la literatura no es la
-  literatura, sino la literariedad (\emph{literaturnost'}), es decir,
-  aquello que hace de una obra determinada una obra
+  El objeto de la ciencia de la literatura no es la literatura, sino
+  la literariedad (\emph{literaturnost'}), es decir, aquello que hace
+  de una obra determinada una obra
   literaria. \cite[pg. 37]{eijembaum2010teoria}
   #+end_quote
 
-  Por lo tanto, la /literariedad/ no depende de ningún factor extrínseco,
-  como su emisor, su valor histórico, sus ventas,
-  número de citaciones, etc. La /literariedad/ se da exclusivamente por
-  atributos propios del fenómeno del lenguaje.
+  Las implicación más grande del concepto de /literariedad/, es que
+  esta cualidad *no* depende de ningún factor extrínseco, como su
+  emisor, su valor histórico, sus ventas, el número de citaciones,
+  etc. La /literariedad/ se da exclusivamente por atributos
+  lingüísticos y, por lo tanto, es objetivamente analizable si se
+  utiliza el método adecuado.
 
-  Para analizar la /literariedad/, se deben analizar las dos operaciones
-  más básicas de la conducta verbal: /la selección/ y /la combinación./ 
-
-
+  Las herramientas analíticas que brinda Jakobson, son los conceptos
+  de /metáfora/ y /metonímia/ (ver sección [[Roman Jakobson]]).  Este tipo
+  de análisis pasó a conocerse como análisis estructuralista, porque
+  se basa en el estudio de presuntas estructuras existentes por debajo
+  de los fenómenos emergentes que, en un principio, parecen
+  subjetivos. En este trabajo se proponen algoritmos que producen una
+  medida cuantitativa tanto para la /metafora/ como para la /metonimia/
+  para un texto dado. Estos conceptos se explican con mayor
+  detalle a continuación ( ver sección [[Roman Jakobson]]).
 
   
 *** Roman Jakobson
 
-    La lingüistica de Jakobson se basa en los postulados de la lingüistica
-    de Saussure. Sin embargo, es clave resaltar que Jakobson propuso una crítica
-    a las ideas de Saussure y, en particular, postuló que los ejes de diacronía
-    y sincronía corresponden a 'operaciones' más profundas, que están presentes
-    en todo acto de habla. En el siguiente fragmento, se puede apreciar su
-    diferencia con respecto a Saussure:
+    Roman Jakobson fue un lingüista ruso americano. Se considera una
+    figura clave tanto en movimiento del formalismo ruso, así como en
+    el estructuralista.  La lingüística de Jakobson se basa en los
+    postulados de la lingüistica de Saussure. Sin embargo, es clave
+    resaltar que Jakobson propuso una crítica a las ideas de Saussure
+    y, en particular, postuló que los ejes de diacronía y sincronía
+    corresponden a 'operaciones' más profundas, que están presentes en
+    todo acto de habla e incluso, en todo objeto semiótico. En el
+    siguiente fragmento, se puede apreciar su diferencia con respecto
+    a Saussure:
 
     #+begin_quote
     The fundamental role which these two operations play in language
@@ -320,21 +334,47 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     \cite[99]{jakobson1956two}
     #+end_quote
 
-**** Selección:
+    La propuesta clave de Jakobson fue el concepto de /literiedad/
+    (ver sección [[Literariedad]]). Tal concepto se basa en un análisis
+    estructural de dos componentes la /selección/ y /combinación/,
+    también llamados /metáfora/ y /metonimia/.
 
-   La selección estudia qué palabra selecciona un hablante entre las
-   palabras existentes de la lengua, más o menos similares y hasta
-   cierto punto equivalentes. La selección se basa en la sinonimia o
-   antonimia de una palabra. En otros términos, en su semántica. \cite{jakobson1956two}
+    En las secciones siguientes de describirán estos conceptos, en la
+    medida en que apliquen al presente trabajo, puesto que, para el
+    lingüísta, estos dos conceptos son aplicables más ámbitos que a la
+    literatura.
+    
+
+**** Selección (o Metáfora)
+
+   La selección o /metáfora/ es un principio de organización que
+   funciona a partir de  sustituciones. Se evidencia cuando un hablante
+   selecciona entre las palabras existentes de la lengua.  Por
+   ejemplo, para referirse a un niño, un hablante puede utilizar las
+   palabras 'niño', 'chico', 'jovencito', o 'párvulo', pues todas
+   tienen un significado similar, pero a la vez guardan una relativa
+   diferencia entre ellas.  Por este motivo, Jakobson
+   \cite[pg. 128]{jakobson1981linguistica} plantea que la selección '
+   tiene lugar a base de una equivalencia, similitud, desigualdad,
+   sinonimia y antonimia'. En otros términos, la selección se basa en
+   la similaridad o disimilaridad de significados.
   
    
-**** Combinación:
+**** Combinación (o Metonimia)
 
-   La combinación estudia el "entramado de la secuencia" de un
-   mensaje. Es decir, el mensaje considerado como una secuencia
-   temporal y/o ordenada de palabras. La combinación se basa en la
-   proximidad o, en otras palabras, en la relación de una palabra con
-   la que la sucede o antecede en un mensaje. \cite{jakobson1956two}
+   La combinación o /metonímia/ es un principio de organización que
+   funciona a partir de relaciones de proximidad entre los signos,
+   cuando estos aparecen como una secuencia lineal y ordenada. Por
+   ejemplo, En /Linguística y Poética/,
+   \cite{jakobson1981linguistica}, Jakobson propone como ejemplo la
+   oracion "I like Ike". En esta se evidencia una repetición de
+   sonidos similares: [ay layk ayk]. La similaridad, no está dada por
+   el significado, sino que aquí se proyecta a lo largo del tiempo,
+   por la repetición de sonidos. Jakobson afirma que la combinación
+   'se basa en la proximidad'
+   \cite[pg. 128]{jakobson1981linguistica}. En términos más sencillos,
+   en la relación de una palabra con la que la sucede o antecede en un
+   mensaje.
 
 *** Poética 
     La poética procura responder a la pregunta de ¿qué hace que un
@@ -355,7 +395,40 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
 
 
 
+*** Estructuralismo
 
+    El /estructuralismo/ se entiende como un método utilizado entre
+    varias disciplinas humanísticas, como literatura, antropología e
+    historia, entre otras.  Se considera que el origen del movimiento
+    estructuralista fueron las ideas de la lingüística de Saussure
+    ([[Lingüística General]]). Hay, por lo tanto, diversos objetos de estudio
+    sobre los cuales se les puede aplicar el método estructuralista.
+    Gerard Genette, en /Estructuralismo y Crítica Literaria/, delimita
+    los alcances y delimitaciónes del método:
+
+    #+begin_quote
+ (..) el estructuralismo como método está destinado al estudio de las
+estructuras en todas partes donde se las encuentra; pero, en
+principio, las estructuras, por mucho que se quiera, no son objetos
+que se encuentran sino sistemas de relaciones latentes, concebidos más
+bien que percibidos, que el análisis construye a medida que los
+desentraña y que a veces corre el riesgo de inventar creyendo
+descubrirlos.  \cite[pg. 145]{genette1996estructuralismo}
+    #+end_quote
+
+    En el marco de este trabajo, las estructuras a estudiar se limitan
+    a la /metáfora/ y la /metonimia/ (ver [[Roman Jakobson]]), que son
+    las que el juicio experto propone como más importantes. Ahora
+    bien, es pertinente resaltar que, como se evidencia en algunos
+    trabajos del marco referencial, los problemas del estructuralismo
+    son similares a los problemas de los modelos no-supervisados de
+    Machine Learning. Por ejemplo, el estructuralismo pregunta ¿qué
+    relaciones en el objeto de estudio son las más pertinentes para
+    analizar? y en el machine learning se pregunta ¿cuáles son las
+    características (features) que producirán una mejor predicción? Y
+    en el caso de los modelos no supervisados, existe un debate acerca
+    de qué interpretación darle a las medidas escogidas por el
+    algoritmo \cite{van2019vector}.
 *** Linguística
     
   La lingüística es la ciencia que estudia el lenguaje.
@@ -374,8 +447,8 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    diferencial del lenguaje/.
 
    El modelo diferencial se caracteriza porque propone dos ejes
-   principales existentes en la lenguo: el /eje de
-   sincronía/ y el /eje de diacronía/.\cite{alonso1945curso}
+   principales existentes en la lengua: el /eje de sincronía/ y el
+   /eje de diacronía/.\cite{alonso1945curso}
 
    Estos dos ejes son la base de lo que Jakobson considera /selección/ y
    /combinación/.
@@ -383,33 +456,29 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
    
 **** Lingüística sincrónica
 
-   La linguística sincrónica se ocupa de las
-   operaciones que realiza un hablante, sean lógicas o psicológicas,
-   para formar un sistema linguístico. En el
-   marco de esta investigación el /eje sincrónico/ se referirá a las
-   posibles palabras que un hablante pudo haber seleccionado para
-   expresar una misma idea. Por ejemplo, para referirse a un
-   niño, un hablante puede utilizar la las palabras "niño", "chico",
-   "jovencito", o "párvulo". En la perspectiva de Jakobson, el
-   eje de sicronía pasa a ser la selección (ver seleccion en [[Selección]]).
+   Cuando Saussure habla de lingüística sincrónica, se refiere al
+   estudio del estado actual de la lengua, sin tener en cuenta los
+   cambios históricos de esta. Luego, la linguística sincrónica lidia,
+   por ejemplo, con las formas en que los hablantes vinculan los
+   signos (significantes) con los significados a través de reglas de
+   sintaxis, de pronunciamiento, de léxico, etc. Sin embargo, el
+   estudio diacrónico tiene en cuenta que esto solo aplica para
+   ese instante particular y siempre se tiene en cuenta la relación
+   con el /eje diacrónico/. En la perspectiva de Jakobson, el eje de
+   sicronía pasa a ser la selección (ver seleccion en [[Selección]]).
 
 **** Lingüística diacrónica 
 
-   La linguística diacrónica estudia los cambios sucesivos en el
-   lenguaje, producidos por la actividad constante del /eje
+   La linguística diacrónica estudia los cambios sucesivos en la
+   lengua, producidos por la actividad constante del /eje
    sincrónico/. Saussure plantea en un principio a la lingüistica
-   diacrónica como el estudio de los cambios históricos en de la
+   diacrónica como el estudio de los cambios históricos de la
    lengua \cite{alonso1945curso}.
 
 
    Sin embargo, en la perspectiva de Jakobson, un /mensaje/ tiene en
-   sí mismo un eje diacrónico (ver combinación en [[Combinación]]). Tal
-   eje mide la similaridad entre cada término del mensaje entindido
-   como secuencia. En /Linguística y Poética/,
-   \cite{jakobson1981linguistica}, Jakobson propone como ejemplo la
-   oracion "I like Ike". An esta se evidencia una repetición de
-   sonidos similares: [ay layk ayk]. La similaridad, no está dada por
-   el significado, sino que aquí se proyecta a lo largo del tiempo.
+   sí mismo un eje diacrónico (ver combinación en [[Combinación]]).
+   como secuencia. 
 
 *** Lenguaje
      En términos simples, el lenguaje es la facultad de formular y
@@ -427,12 +496,12 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
      /cristalización/ o un producto de la suma de asociaciones entre
      conceptos e imagenes acústicas en la mente de los hablantes. Por
      ejemplo, la lengua es lo que permite que dos hablantes bogotanos
-     puedan asociar en su mente el sonido de la palabra "chino" con el
-     concepto de "niño" o "infante", mientras que en otras partes del
-     mundo hispanohablante no existe tal asociación común.
-     En términos simples, la lengua es un entendimiento compartido de
-     lo que significan las palabras. La contraparte de la lengua,
-     es el habla. 
+     puedan asociar en su mente el sonido de la palabra 'chino' con el
+     concepto de 'niño' o 'infante', mientras que en otras partes del
+     mundo hispanohablante no existe tal asociación común.  En
+     términos simples, la lengua es un entendimiento compartido de lo
+     que significan las palabras \cite[pg. 102]{alonso1945curso}. La
+     contraparte de la /lengua/, es el /habla/ .
      
 **** Habla
      El habla (/parole/) es uno de los dos componentes del
@@ -650,7 +719,8 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     datos (¿Cómo organizamos los datos para modelar?), 4) Modelamiento
     (¿Qué técnicas de modelamiento deberíamos aplicar?), 5) Evaluación
     (¿El modelo cumple con los objetivos de negocio?) y 6) Despliegue
-    (¿Cómo acceden a los resultados los interesados?).
+    (¿Cómo acceden a los resultados los interesados?)
+    \cite{wirth2000crisp}.
 
     CRISP-DM se utiliza, por lo tanto, como una guía para
     asegurar que cada fase del proceso de análitica de datos
@@ -665,7 +735,7 @@ indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
     
 ** MARCO REFERENCIAL
 
-En la revisión de la literatura hecha se encontraron, a groso modo,
+En la revisión de la literatura se encontraron, a groso modo,
 dos tipos de trabajos que se consideran antecedentes cercanos. Esta
 distinción es importante porque cada categoría tiene un enfoque
 distinto sobre el problema de la /literariedad/. A continuación,
@@ -1708,8 +1778,8 @@ y la metonimia.
    
 ** CONCLUSIONES 
 
-Para concluir el presente trabajo. Primero se señalarán los
-resultados del experimento frente a las hipótesis planteadas.
+Para concluir el presente trabajo, primero se señalarán los resultados
+del experimento frente a las hipótesis planteadas y los hallazgos.
 Posteriormente, se expondrán las críticas posibles al modelo
 planteado. Por último, se señalaran trabajos futuros para profundizar
 más en la pregunta de investigación.
@@ -1738,7 +1808,7 @@ audiencia, año, medio, etc), su indice metafórico debe ser similar a
 lo largo de las muestras.
 
 Luego, para la hipótesis H_{3}, se puede observar que la categoría
-/Belles Lettres/ es la tercera más con el índice metafórico más alto
+/Belles Lettres/ es la tercera con índice metafórico más alto
 (con un 0.30). Queda por debajo de /Religion/ (0.31) por un punto porcentual y de
 /Reviews/ (0.42). Este resultado no es el esperado, pero es
 comprensible si se tiene en cuenta que la categoría /Reviews/ está
@@ -1760,83 +1830,131 @@ un énfasis en repetir sonidos a lo largo de una oración, puesto que
 los factores de comunicación de Jakobson se centran en las funciones
 conativa o fática.
 
-Ahora bien, en la hipótesis inicial no se contemplo que, según lo
-encontrado en este experimento, las obras de ficción por lo general
-tienen un índice metonímico más bajo que las de no ficción (ver \ref{fig:metonimia_total}). Esto
-parece apuntar a una relación inversa entre el índice metaforico
-y el índice metonómico. Sin embargo, esa discusión está por fuera
-de los alcances de la presente investigación.
+*** Hallazgos
+
+   Además de la validación de hipótesis iniciales, hubo un hallazgo
+   notable en el experimento que concierne al comportamiento del
+   índice metonímico. Se encontró que las obras de no ficción tienen
+   en promedio un índice metonímico más álto (0.41) que las obras de
+   ficción (0.21), casi un 100% más. Además, la metacategoría
+   'neither', que corresponde a una categoría difícil de categorizar,
+   el de los comunicados gubernamentales (la categoria 'miscellaneus'
+   en el Corpus de Brown), obtuvo el índice metonímico absolutamente
+   más alto (0.87).
+
+   Esto, visto cuantitativamente, parece apuntar a una relación
+   inversamente proporcional entre el índice metafórico y el índice
+   metonímico. Por otro lado, cualitativamente, esta observación
+   podría tener una implicación notable.  El hallazgo corresponde a
+   que Jakobson alude al 'emparentamiento' de los principios de
+   métafora y metonimia a dos movimientos artísticos: el Romanticismo
+   (metáfora) y el Realismo (metonimia). Como conclusión de su ensayo
+   /Two Aspects of Language and Two Types of Aphasic Disturbances/,
+   Jakobson anota:
+
+   #+begin_quote
+   (...)  it is generally realized that Romanticism is closely linked
+   with metaphor, whereas the equally intimate ties of Realism with
+   metonymy usually remain unnoticed. \cite[114]{jakobson1956two}
+   #+end_quote
+
+   Esta observación se cumple en experimento realizado y es notable
+   que el modelo propuesto --con las delimitaciones expuestas--
+   parezca corroborarla.
 
 
-    Con base en el análisis de las hipótesis, se puede señalar que
-    el algoritmo propuesto es capaz de:
-
-    - 'distinguir' entre dos metacategorias: los textos de ficción y los de no ficción
-    -  arrojar un índice metaforico consistentemente más alto que los de no-ficción para los textos de ficción
-    -  arrojar, para los textos de no ficción, un índice metonímico consistentemente mas alto que los de ficción 
-
-*** Crítica del modelo
+*** Discusión
 
 
-En términos generales, se considera que el modelo es razonablemente
-exitoso. En general no hay resultados inconsistentes con la intuición,
-salvo el comportamiento del índice metonimico a lo largo de una
-categoria. Sin embargo, si se considera las metacategorias de ficción
-y no ficción, en la muestras se evidencia claramente que hay una
-consistencia en los resultados.
+Desde una perspectiva experimental, se considera que el modelo es
+razonablemente exitoso dentro de los parámetros establecidos. En
+general no hay resultados inconsistentes con la intuición. Las pruebas
+ANOVA también parecen validar el comportamiento de los índices con
+valores-p buenos. Ahora bien, como lo señalan autores de ambas
+disciplinas, desde Cranenburgh y Louwerse, hasta Jakobson, una
+validación contundente de la nocíon abstracta de /literariedad/ es
+difícil de plantear experimentalmente. De ningún modo se pretende que
+este trabajo valide absolutamente el modelo planteado de
+/literariedad/, sino aportar a la discusión de NLP mostrando una
+posibilidad de análisis no explorada.
 
-Una debilidad significativa del modelo es su dependencia de la con la
-red semántica. Esto ocasiona que dada una palabra, su vector semantico
-quede asociado con palabras muy dificiles de encontrar,lo que incide
-en su puntuación total. Esto particularmente se evidencia en algunas
-palabras comunes que no se encuentran tan solo porque son pronombres o
-adverbios que empiezan con mayúscula cuando la red los espera en
-minúscula. Es posible que esto esté afectando el modelo, pero no es
-claro a priori de qué manera lo hace porque se haría necesario un
-análisis multivariado para cada una de las variables. Ahora bien, esta
-falencia no parece ser tan pronunciado, ya que la diferencia entra las
-metacategorias es evidente y resulta inverosímil atribuir la
-concordancia con la intuición y el juicio experto a un mero error.
+Teniendo esto en cuenta, las conclusiones más importantes de este
+trabajo se listan de la siguiente manera.
 
-Sin embargo, para tener una fundamentación más rigurosa de la
-idoneidad del algoritmo se debe diseñar un experimento que mire los
-resultados de cada vector de uso por palabra y verificar como el
-número de sinónimos, la media de esos sinónimos y la frecuencia de la
-palabra original en los corpus se compartan. Una tarea que no es fácil
-por la dependencia de las variables de otras. Este aspecto es muy
-importante hacerlo, pero se sale de los alcances de esta
-investigación.
 
+1) Los algoritmos propuestos producen un valor cuantitativo que es
+   capaz de 'distinguir' entre dos metacategorias: los textos de
+   ficción y los de no ficción, puntuándolos más alto o más bajo
+   según corresponda.
+
+2) Un enfoque basado en frequencias como el de /bag of words/ parece
+   ser suficiente para modelar los conceptos de /metafora/ y
+   /metonimia/.  Los resultados parecen avalar las observaciones de de
+   Jakobson en torno a la relación de la metonimia con textos más
+   afines al polo 'Realista' (periódicos, reportes, artículos, etc) y
+   la metáfora con textos afines al polo del 'Romanticismo'
+   (historias, fábulas, fantasía, etc).
+
+3) Este enfoque tiene algunas ventajas y desventajas con respecto
+   a un enfoque de Machine Learning. Como ventaja, no se requiere
+   un /training set/. Como desventaja, el valor de los índices
+   debe ser comparado entre textos según un contexto dado por
+   el corpus de referencia. Esta, sin embargo, es la postura
+   de estructuralista.
+   
+   
+Por otro lado, desde una perspectiva computacional, es claro que el
+modelo propuesto es tan solo una implementación inicial, susceptible a
+numerosas optimizaciones. Algunas de ellas son:
+
+- El índice metafórico podría usar una medida de distancia para que
+  capture también los casos en los que una palabra se usa menos veces
+  que lo que corresponda según el promedio de su vector de uso. En
+  este momento, solo está detectando los casos en los que la palabra
+  se utiliza más.
+
+- El componente de red semántica es completamente dependiente de la
+  base de datos de WordNet. Esto ocasiona que dada una palabra, su
+  vector semantico quede asociado con palabras muy dificiles de
+  encontrar o para nada pertinentes con el análisis que se desea
+  hacer,lo que incide en su puntuación total. El caso ideal, es que la
+  red semántica se pueda configurar y/o alimentar progresivamente.
+
+- Se debe explorar cómo plantear mejor el promedio del vector de uso,
+  tomando en cuanto el número de documentos en donde aparece la
+  palabra, no solo las frecuencias en bruto.
+
+
+-  Para la medida de metonimia, la repetición de sonidos solo se está
+  teniendo en cuenta para palabras consecutivas, cuando en realidad la
+  metonimia suele darse por elementos sintacticos distintos. Por
+  ejemplo, se puede dar entre oraciones, ente párrafos, entre estrofas
+  etc. Sin embargo, el cálculo de esto necesitaria incorporar POS al
+  modelo, lo que complejizaría significativamente la implementación
+  del índice.
 
 
 *** Trabajo futuro
 
-**** El índice metafórico
-    Para trabajos futuros es necesario repetir más veces este mismo experimento, aumentando el número de muestras.
-    Luego, se podría plantear el mismo documento con un corpus distinto, tal vez con categorias individuales
-    distintas, pero conservando las mismas metacategorías:ficción y no ficción. Si el resultado sigue
-    avalando la hipótesis H_{1} fortalecería la validez del modelo para capturar la 'metafora' en documentos.
+    Por último, hay estudios que se pueden realizar sin hacer ningún
+    tipo de alteración a los algoritmos propuestos. El primer paso,
+    sería correr el experimento sobre más muestras, hasta llegar una
+    cobertura del 100% de los textos del Corpus de Brown. En el
+    experimento sólo se utilizó 26% del Corpus de Brown (130 textos de
+    500).
 
-    Por otro lado, como se expuso en el marco teórico y en la presentación del modelo, el índice metafórico
-    es dependiende del corpus de referencia, que es una representación del concepto de /lengua/, y la
-    red semántica, que corresponde con el concepto de /lenguaje/. Así, para obtener resultados más
-    intuitivos se deberá disponder de la capacidad de configurar tanto el corpus de referencia como la
-    red semántica. Por ejemplo, para asociar palabras entre sí en la red semántica o quitar relaciones
-    espurias.
+    El segundo paso es correr el mismo diseño experimental en el
+    Corpus LOB, ya que está construido de la misma forma que el de
+    Brown y mantiene las categorías establecidas por este último. Una
+    comparación entre los resultados de los dos corpus sería muy
+    esclarecedor.
 
-
-**** El índice metonímico
-
-     El algoritmo para metonimia fue realizado de la manera más /naive/ posible, lo que puede ser una causa
-     de la variabilidad de este índice entre una misma categoria a lo largo de las muestras. Un siguiente
-     paso sería calcular la metonimia no por el número de letras iguales, sino tokenizar por sílabas y contar
-     las sílabas con una misma vocal como un aporte al índice.
-
-     Otra posible modificación es parametrizar el la aridad del n-grama, puesto que la repetición de sonidos
-     solo se está teniendo en cuenta para palabras consecutivas, cuando en realidad la metonimia suele darse
-     por elementos sintacticos distintos. Por ejemplo, se puede dar entre oraciones, ente párrafos, entre estrofas
-     etc. Sin embargo, el cálculo de esto necesitaria incorporar POS al modelo, lo que complejizaría significativamente
-     la implementación del índice. 
+    Un tercer paso es utilizar los índices propuestos como una
+    característica (/feature/) más dentro de un escenario de machine
+    learning. Por ejemplo, se podría evaluar cómo se clasifican los
+    textos según sus índices de metáfora y metonimia, y hacer
+    una comparación entre métodos de aprendizaje de máquina vs.
+    conocimiento de dominio. 
 
 
      

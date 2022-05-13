@@ -1,0 +1,718 @@
+w,vector_semantico
+mind,"['brain', 'creative_thinker', 'mind', 'judgement', 'head', 'judgment', 'idea', 'take_care', 'listen', 'bear_in_mind', 'intellect', 'nous', 'psyche', 'beware', 'thinker', 'heed']",The Valley
+impotence,"['impotence', 'powerlessness', 'impotency']",The Valley
+find,"['uncovering', 'detect', 'line_up', 'retrieve', 'discover', 'find', 'ascertain', 'receive', 'find_oneself', 'come_up', 'discovery', 'observe', 'notice', 'encounter', 'feel', 'happen', 'get', 'rule', 'witness', 'see', 'determine', 'find_out', 'chance', 'get_hold', 'incur', 'bump', 'regain', 'breakthrough', 'obtain', 'recover']",The Valley
+rustled,"['lift', 'rustle']",The Valley
+mark,"['Saint_Mark', 'bell_ringer', 'distinguish', 'stigmatise', 'stigma', 'sucker', 'Deutschmark', ""bull's_eye"", 'pit', 'fall_guy', 'pock', 'mark', 'soft_touch', 'German_mark', 'Gospel_According_to_Mark', 'scar', 'notice', 'tick_off', 'marker', 'stigmatize', 'stain', 'score', 'St._Mark', 'mark_off', 'Deutsche_Mark', 'print', 'gull', 'cross_off', 'differentiate', 'denounce', 'cross_out', 'tag', 'Mark', 'brand', 'mug', 'patsy', 'sign', 'nock', 'marking', 'chump', 'scratch', 'cross', 'strike_off', 'commemorate', 'punctuate', 'label', 'target', 'home_run', 'scrape', 'grade', 'crisscross', 'check', 'strike_out', 'note', 'check_off', 'fool', 'tick', 'set']",The Valley
+mist,"['cloud', 'fog', 'becloud', 'befog', 'mist', 'obscure', 'haze_over', 'obnubilate', 'mist_over']",The Valley
+by,"['aside', 'away', 'by', 'past']",The Valley
+last,"['death', 'live_on', 'in_conclusion', 'finally', 'finish', 'close', 'last', 'live', 'terminal', 'hold_up', 'final_stage', 'endure', 'finale', 'utmost', 'last-place', 'end', 'lastly', ""cobbler's_last"", 'final', 'lowest', 'stopping_point', 'go', 'hold_out', 'concluding', 'finis', 'net', 'conclusion', 'survive', ""shoemaker's_last""]",The Valley
+drunk,"['wassail', 'rummy', 'sot', 'toast', 'tope', 'drink_in', 'drunkard', 'fuddle', 'imbibe', 'wino', 'pledge', 'booze', 'intoxicated', 'drink', 'inebriated', 'drunk', 'inebriate', 'salute']",The Valley
+swirled,"['swirl', 'whirl', 'purl', 'twirl', 'whirlpool', 'eddy', 'twiddle']",The Valley
+them,[],The Valley
+dumped,"['coldcock', 'plunge', 'knock_down', 'deck', 'underprice', 'ditch', 'floor', 'dump']",The Valley
+stars,"['virtuoso', 'star_topology', 'star', 'superstar', 'mavin', 'adept', 'wizard', 'sensation', 'maven', 'whizz', 'wiz', 'headliner', 'champion', 'lead', 'ace', 'principal', 'whiz', 'hotshot', 'genius', 'asterisk']",The Valley
+suddenly,"['suddenly', 'short', 'abruptly', 'all_of_a_sudden', 'on_the_spur_of_the_moment', 'of_a_sudden', 'dead']",The Valley
+nothin,[],The Valley
+That,[],The Valley
+touch,"['allude', 'adjoin', 'impact', 'touching', 'have-to_doe_with', 'tactile_sensation', 'refer', 'jot', 'soupcon', 'match', 'skin_senses', 'partake', 'bear_on', 'come_to', 'touch', 'equal', 'signature', 'ghost', 'sense_of_touch', 'pertain', 'bear_upon', 'speck', 'extend_to', 'cutaneous_senses', 'advert', 'feeling', 'affect', 'tactual_sensation', 'touch_modality', 'hint', 'tinge', 'trace', 'tint', 'rival', 'touch_sensation', 'meet', 'contact', 'tinct', 'touch_on', 'disturb', 'reach', 'spot', 'pinch', 'stir', 'mite', 'relate', 'concern']",The Valley
+caravan,"['train', 'caravan', 'van', 'wagon_train']",The Valley
+stride,"['footstep', 'step', 'tread', 'stride', 'pace']",The Valley
+that's,[],The Valley
+If,[],The Valley
+fluttered,"['palpitate', 'quiver', 'flutter', 'waver', 'flicker', 'flitter', 'fleet', 'bat', 'flit', 'dart']",The Valley
+revealed,"['unwrap', 'discover', 'expose', 'let_on', 'bring_out', 'reveal', 'divulge', 'break', 'uncover', 'let_out', 'give_away', 'unveil', 'disclose']",The Valley
+got,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",The Valley
+twisting,"['twisty', 'spin', 'bend', 'curve', 'worm', 'deform', 'torture', 'flex', 'convolute', 'tortuous', 'wriggle', 'wrestle', 'sprain', 'twisting', 'whirl', 'rick', 'winding', 'overrefinement', 'wrench', 'twine', 'distortion', 'sophisticate', 'squirm', 'turn', 'writhe', 'wrick', 'twirl', 'wind', 'straining', 'twist', 'twist_around', 'voluminous', 'distort', 'pervert']",The Valley
+Yes,['yes'],The Valley
+horses,"['cavalry', 'gymnastic_horse', 'knight', 'horse_cavalry', 'Equus_caballus', 'horse', 'sawhorse', 'buck', 'sawbuck']",The Valley
+as,"['every_bit', 'AS', 'a', 'group_A', 'arsenic', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'American_Samoa', 'angstrom', 'atomic_number_33', 'As', 'as', 'equally', 'A', 'adenine', 'axerophthol', 'ampere', 'angstrom_unit', 'vitamin_A', 'Eastern_Samoa']",The Valley
+figure,"['human_body', 'chassis', 'forecast', 'shape', 'reckon', 'trope', 'name', 'count_on', 'project', 'visualise', 'calculate', 'fancy', 'digit', 'cipher', 'visualize', 'number', 'cypher', 'envision', 'image', 'physique', 'work_out', 'see', 'public_figure', 'anatomy', 'figure', 'bod', 'figure_of_speech', 'picture', 'material_body', 'soma', 'design', 'enter', 'form', 'pattern', 'frame', 'fig', 'flesh', 'physical_body', 'estimate', 'build', 'compute']",The Valley
+moon,"['moon_on', 'Moon', 'lunar_month', 'lunation', 'daydream', 'moonlight', 'moon', 'moon_around', 'Sun_Myung_Moon', 'synodic_month', 'moonshine']",The Valley
+whacked,"['whop', 'whacked', 'whack', 'wham', 'wallop']",The Valley
+desire,"['desire', 'trust', 'hope', 'want']",The Valley
+windless,['windless'],The Valley
+news,"['news_program', 'intelligence', 'newsworthiness', 'tidings', 'word', 'news_show', 'news']",The Valley
+My,[],The Valley
+other,"['early', 'former', 'other']",The Valley
+mare's,[],The Valley
+against,[],The Valley
+moved,"['make_a_motion', 'strike', 'proceed', 'actuate', 'locomote', 'prompt', 'propel', 'act', 'go', 'affect', 'displace', 'touched', 'incite', 'run', 'affected', 'stirred', 'be_active', 'impress', 'travel', 'moved', 'move', 'motivate']",The Valley
+maybe,"['perhaps', 'possibly', 'perchance', 'maybe', 'mayhap', 'peradventure']",The Valley
+glimmer,"['inkling', 'gleam', 'gleaming', 'glimmering', 'glimmer', 'intimation']",The Valley
+strung,"['thread', 'string', 'string_up', 'string_along', 'draw', 'strung']",The Valley
+away,"['outside', 'forth', 'aside', 'by', 'off', 'out', 'away']",The Valley
+gently,"['mildly', 'lightly', 'softly', 'gently']",The Valley
+flowed,"['feed', 'flux', 'course', 'fall', 'menstruate', 'run', 'flow', 'hang']",The Valley
+same,"['Saami', 'Saame', 'Lapp', 'Sami', 'Lapplander', 'Same', 'same', 'like']",The Valley
+dazzling,"['glary', 'blazing', 'blinding', 'glaring', 'bedazzle', 'dazzle', 'fulgurant', 'fulgent', 'daze', 'dazzling', 'eye-popping', 'fulgurous']",The Valley
+mountains,"['sight', 'flock', 'spate', 'mickle', 'stack', 'quite_a_little', 'tidy_sum', 'raft', 'pile', 'deal', 'mess', 'mint', 'wad', 'slew', 'passel', 'hatful', 'lot', 'mass', 'heap', 'mount', 'plenty', 'great_deal', 'muckle', 'pot', 'good_deal', 'batch', 'mountain', 'peck']",The Valley
+saddle,"['saddleback', 'bicycle_seat', 'charge', 'burden', 'saddle']",The Valley
+grown,"['rise', 'farm', 'develop', 'adult', 'spring_up', 'mature', 'maturate', 'grow', 'originate', 'full-grown', 'fully_grown', 'get', 'big', 'turn', 'acquire', 'grownup', 'arise', 'raise', 'produce', 'uprise', 'grown']",The Valley
+trailed,"['trail', 'hang_back', 'shack', 'train', 'chase', 'tag', 'tail', 'give_chase', 'dog', 'track', 'drop_behind', 'chase_after', 'drop_back', 'drag', 'go_after', 'get_behind']",The Valley
+and,[],The Valley
+son,"['Word', 'son', 'boy', 'Son', 'Logos']",The Valley
+refuse,"['garbage', 'deny', 'scraps', 'turn_away', 'refuse', 'food_waste', 'pass_up', 'resist', 'defy', 'reject', 'turn_down', 'decline']",The Valley
+leavin,[],The Valley
+barn,"['barn', 'b']",The Valley
+feathers,"['feather', 'fledge', 'plume', 'plumage', 'feathering', 'square']",The Valley
+stoop,"['crouch', 'condescend', 'bend', 'lower_oneself', 'stoup', 'bow', 'stoop', 'stoep']",The Valley
+bitterly,"['piercingly', 'bitterly', 'bitingly', 'bitter']",The Valley
+happened,"['bump', 'come_about', 'hap', 'fall_out', 'pass_off', 'find', 'materialize', 'encounter', 'happen', 'befall', 'pass', 'take_place', 'chance', 'go_on', 'bechance', 'occur', 'materialise']",The Valley
+untenanted,"['untenanted', 'unoccupied']",The Valley
+him,[],The Valley
+Beneath,"['to_a_lower_place', 'below', 'beneath', 'at_a_lower_place']",The Valley
+Come,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'ejaculate', 'occur', 'come_up', 'seed', 'come', 'number', 'arrive', 'hail', 'fare', 'seminal_fluid', 'get', 'descend', 'fall', 'total', 'issue_forth', 'add_up', 'do', 'cum', 'follow', 'semen']",The Valley
+nod,['nod'],The Valley
+sudden,['sudden'],The Valley
+treated,"['address', 'tempered', 'care_for', 'treated', 'cover', 'treat', 'handle', 'hardened', 'toughened', 'process', 'plow', 'do_by', 'deal', 'regale']",The Valley
+ranch,"['cattle_farm', 'ranch', 'spread', 'cattle_ranch']",The Valley
+doesn't,[],The Valley
+He's,[],The Valley
+The,[],The Valley
+gasps,"['pant', 'heave', 'puff', 'gasp']",The Valley
+they'll,[],The Valley
+bloodless,"['exsanguine', 'exsanguinous', 'white', 'blanched', 'bloodless', 'ashen', 'livid']",The Valley
+savage,"['wolf', 'crucify', 'cruel', 'barbarous', 'brute', 'uncivilised', 'roughshod', 'uncivilized', 'brutal', 'pillory', 'fierce', 'vicious', 'wildcat', 'beast', 'wild', 'ferocious', 'blast', 'savage', 'barbaric', 'furious', 'fell', 'barbarian', 'ferine', 'feral']",The Valley
+light,"['twinkle', 'illumine', 'get_off', 'Light_Within', 'lightly', 'promiscuous', 'igniter', 'wanton', 'faint', 'calorie-free', 'wakeful', 'Light', 'illume', 'lightness', 'light_source', 'ignite', 'clear', 'sluttish', 'luminousness', 'ignitor', 'tripping', 'Inner_Light', 'scant', 'sparkle', 'brightness_level', 'lighter', 'swooning', 'light-colored', 'unclouded', 'clean', 'idle', 'luminosity', 'lighting', 'get_down', 'unaccented', 'weak', 'fall', 'visible_radiation', 'spark', 'light', 'easy', 'perch', 'unhorse', 'low-cal', 'brightness', 'illuminate', 'abstemious', 'light-headed', 'short', 'lite', 'Christ_Within', 'light_up', 'loose', 'fire_up', 'lightsome', 'luminance', 'visible_light', 'illumination', 'alight', 'lightheaded', 'dismount']",The Valley
+Purvis,[],The Valley
+shyly,"['shyly', 'timidly', 'bashfully']",The Valley
+up,"['improving', 'upwardly', 'astir', 'upwards', 'upward', 'up']",The Valley
+Laurel,"['Stan_Laurel', 'bay_wreath', 'Arthur_Stanley_Jefferson_Laurel', 'laurel', 'laurel_wreath', 'Laurel']",The Valley
+don't,[],The Valley
+brother,"['brother', 'comrade', 'crony', 'buddy', 'Brother', 'pal', 'sidekick', 'blood_brother', 'chum']",The Valley
+fiercely,"['ferociously', 'fiercely']",The Valley
+horse's,[],The Valley
+warmth,"['passion', 'warmness', 'warmheartedness', 'fondness', 'warmth', 'affectionateness', 'lovingness', 'heat']",The Valley
+When,[],The Valley
+life,"['animation', 'life_sentence', 'life_history', 'spirit', 'life_story', 'life-time', 'liveliness', 'biography', 'aliveness', 'life', 'lifespan', 'living', 'sprightliness', 'lifetime']",The Valley
+pursuers,"['pursuer', 'chaser']",The Valley
+distance,"['length', 'aloofness', 'outdistance', 'space', 'distance', 'outstrip']",The Valley
+exit,"['exit', 'expire', 'departure', 'kick_the_bucket', 'decease', 'expiration', 'perish', 'buy_the_farm', 'loss', 'conk', 'get_out', 'way_out', 'outlet', 'snuff_it', 'going', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'release', 'croak', 'passing', 'go_out', 'die', 'pass', 'choke', 'issue', 'drop_dead', 'leave', 'pop_off']",The Valley
+With,[],The Valley
+blade,"['vane', 'sword', 'brand', 'blade', 'steel', 'leaf_blade']",The Valley
+there's,[],The Valley
+any,"['whatever', 'whatsoever', 'any']",The Valley
+even,"['yet', 'flush', 'eve', 'evening', 'even_out', 'level', 'fifty-fifty', 'eventide', 'even', 'regular', 'tied', 'still']",The Valley
+Big,"['handsome', 'great', 'adult', 'bountiful', 'openhanded', 'with_child', 'braggart', 'bighearted', 'expectant', 'giving', 'heavy', 'vainglorious', 'boastful', 'self-aggrandizing', 'magnanimous', 'liberal', 'full-grown', 'prominent', 'self-aggrandising', 'bounteous', 'fully_grown', 'swelled', 'cock-a-hoop', 'big', 'freehanded', 'braggy', 'enceinte', 'boastfully', 'crowing', 'large', 'grownup', 'bad', 'vauntingly', 'gravid', 'bragging', 'grown']",The Valley
+hollow,"['holler', 'dig', 'hole', 'excavate', 'core_out', 'hollow', 'vacuous', 'empty', 'hollow_out']",The Valley
+angrily,['angrily'],The Valley
+Help,"['helper', 'assistant', 'assist', 'help_oneself', 'service', 'serve', 'supporter', 'assistance', 'aid', 'avail', 'help', 'facilitate']",The Valley
+backed,"['back_up', 'second', 'backed', 'stake', 'game', 'back', 'bet_on', 'punt', 'endorse', 'indorse', 'plump_for', 'plunk_for', 'gage', 'support']",The Valley
+freed,"['unblock', 'give_up', 'unloose', 'rid', 'dislodge', 'absolve', 'free', 'disembarrass', 'discharge', 'disengage', 'release', 'unfreeze', 'relinquish', 'liberate', 'resign', 'justify', 'relieve', 'exempt', 'unloosen', 'loose']",The Valley
+All,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']",The Valley
+courage,"['courageousness', 'braveness', 'bravery', 'courage']",The Valley
+few,['few'],The Valley
+created,"['make', 'produce', 'create']",The Valley
+gained,"['gain_ground', 'take_in', 'realize', 'bring_in', 'benefit', 'derive', 'clear', 'win', 'put_on', 'advance', 'pull_in', 'make_headway', 'get_ahead', 'acquire', 'gather', 'gain', 'profit', 'earn', 'hit', 'reach', 'make', 'attain', 'realise', 'arrive_at', 'pull_ahead']",The Valley
+themselves,[],The Valley
+known,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'known', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",The Valley
+door,"['doorway', 'threshold', 'room_access', 'door']",The Valley
+!,[],The Valley
+blow,"['louse_up', 'reversal', 'fumble', 'bollocks_up', 'botch_up', 'shock', 'mess_up', 'suck', 'bluster', 'reverse', 'bollix', 'fellate', 'swash', 'gas', 'bollocks', 'waste', 'ball_up', 'bumble', 'botch', 'drift', 'setback', 'fluff', 'spoil', 'flub', 'float', 'brag', 'shoot_a_line', 'blow_out', 'burn_out', 'tout', 'gasconade', 'vaunt', 'blow', 'blast', 'bollix_up', 'bobble', 'coke', 'mishandle', 'nose_candy', 'C', 'muff', 'snow', 'puff', 'squander', 'boast', 'foul_up', 'black_eye', 'bodge', 'fuck_up', 'bump', 'bungle', 'screw_up', 'be_adrift', 'muck_up', 'shove_along', 'go_down_on', 'gust', 'shove_off']",The Valley
+mile,"['geographical_mile', 'statute_mile', 'nautical_mile', 'mile', 'sea_mile', 'knot', 'air_mile', 'international_mile', 'naut_mi', 'stat_mi', 'mil', 'Roman_mile', 'international_nautical_mile', 'land_mile', 'mi', 'Admiralty_mile', 'Swedish_mile']",The Valley
+Joe,[],The Valley
+begun,"['set_out', 'get_down', 'lead_off', 'start_out', 'commence', 'set_about', 'start', 'begin', 'get']",The Valley
+Lester,"['fifty', 'l', '50']",The Valley
+father,"['Fatherhood', 'founding_father', 'don', 'engender', 'Father_of_the_Church', 'founder', 'Father', 'bring_forth', 'generate', 'get', 'begetter', 'father', 'Padre', 'male_parent', 'Father-God', 'beginner', 'mother', 'sire', 'Church_Father', 'forefather', 'beget']",The Valley
+first,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",The Valley
+slept,"['sleep', ""catch_some_Z's"", ""log_Z's"", 'kip', 'slumber']",The Valley
+voice,"['vocalisation', 'part', 'spokesperson', 'articulation', 'representative', 'voice', 'vocalize', 'interpreter', 'vocalise', 'vocalism', 'sound', 'vocalization', 'vox', 'phonation']",The Valley
+And,[],The Valley
+staccato,"['disconnected', 'staccato']",The Valley
+kind,"['kind', 'form', 'tolerant', 'genial', 'sort', 'variety']",The Valley
+look,"['front', 'depend', 'flavour', 'reckon', 'seem', 'facial_expression', 'expect', 'calculate', 'looking_at', 'appear', 'expression', 'wait', 'feel', 'await', 'see', 'spirit', 'feeling', 'take_care', 'aspect', 'flavor', 'search', 'look', 'attend', 'smell', 'count', 'face', 'tone', 'looking', 'bet']",The Valley
+house,"['planetary_house', 'home', 'house', 'put_up', 'sign_of_the_zodiac', 'business_firm', 'star_sign', 'family', 'sign', 'household', 'menage', 'theater', 'theatre', 'domiciliate', 'firm', 'mansion']",The Valley
+much,"['a_great_deal', 'a_good_deal', 'a_lot', 'practically', 'often', 'much', 'very_much', 'lots']",The Valley
+loose,"['promiscuous', 'wanton', 'informal', 'relax', 'open', 'unaffixed', 'sluttish', 'lax', 'unloose', 'liberal', 'on_the_loose', 'idle', 'free', 'release', 'liberate', 'light', 'easy', 'let_loose', 'escaped', 'unloosen', 'loosen', 'loose', 'unleash', 'slack', 'at_large']",The Valley
+make,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'shuffle', 'take', 'progress_to', 'brand', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'shuffling', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",The Valley
+beneath,"['to_a_lower_place', 'below', 'beneath', 'at_a_lower_place']",The Valley
+are,"['comprise', 'follow', 'embody', 'constitute', 'be', 'ar', 'equal', 'personify', 'cost', 'are', 'make_up', 'live', 'represent', 'exist']",The Valley
+postures,"['military_posture', 'position', 'model', 'sit', 'carriage', 'attitude', 'bearing', 'posture', 'strength', 'military_strength', 'military_capability', 'stance', 'pose']",The Valley
+driftin,[],The Valley
+bold,"['bold_face', 'sheer', 'bold', 'boldface', 'bluff']",The Valley
+stay,"['stick', 'rest', 'abide', 'stay', 'stay_put', 'stay_on', 'quell', 'hitch', 'persist', 'ride_out', 'stoppage', 'appease', 'delay', 'halt', 'arrest', 'continue', 'last_out', 'bide', 'stop', 'outride', 'check', 'remain', 'stick_around', 'detain']",The Valley
+men,"['military_man', 'men', 'humanity', 'homo', 'world', 'Isle_of_Man', 'humans', 'Man', 'human_being', 'serviceman', 'piece', 'adult_male', 'valet', 'human_beings', 'human', 'work_force', 'workforce', ""gentleman's_gentleman"", 'hands', 'man', 'human_race', 'manpower', 'valet_de_chambre', 'humankind', 'military_personnel', 'gentleman', 'mankind']",The Valley
+break,"['snap_off', 'split_up', 'get_around', 'fail', 'jailbreak', 'split', 'wear_out', 'happy_chance', 'let_on', 'break_up', 'severance', 'collapse', 'smash', 'intermit', 'fracture', 'go', 'come_apart', 'break_dance', 'bump', 'breaking', 'recrudesce', 'offend', 'good_luck', 'suspension', 'rupture', 'falling_out', 'erupt', 'transgress', 'ruin', 'pause', 'break_out', 'open_frame', 'go_bad', 'demote', 'weaken', 'give_away', 'break_in', 'part', 'give', 'interrupt', 'expose', 'give_way', 'infract', 'disruption', 'fall_in', 'die', 'bankrupt', 'better', 'break_of_serve', 'prisonbreak', 'recess', 'break_off', 'soften', 'disclose', 'damp', 'give_out', 'discover', 'develop', 'cave_in', 'get_out', 'bring_out', 'reveal', 'respite', 'bust', 'rift', 'separate', 'break_down', 'crack', 'interruption', 'conk_out', 'let_out', 'breach', 'dampen', 'breakage', 'violate', 'go_against', 'break-dance', 'check', 'fall_apart', 'break', 'discontinue', 'prison-breaking', 'unwrap', 'breakout', 'relegate', 'founder', 'break_away', 'shift', 'fault', 'faulting', 'stop', 'wear', 'gap', 'burst', 'gaolbreak', 'time_out', 'divulge', 'geological_fault', 'intermission', 'kick_downstairs']",The Valley
+childish,"['childish', 'infantile']",The Valley
+slowly,"['tardily', 'lento', 'slowly', 'slow', 'easy']",The Valley
+child,"['nestling', 'nipper', 'shaver', 'minor', 'small_fry', 'tiddler', 'tike', 'baby', 'kid', 'youngster', 'fry', 'child', 'tyke']",The Valley
+hate,"['detest', 'hatred', 'hate']",The Valley
+desires,"['desire', 'trust', 'hope', 'want']",The Valley
+warm,"['quick', 'affectionate', 'warm', 'lovesome', 'warmly', 'warm_up', 'fond', 'tender', 'ardent', 'strong']",The Valley
+ever,"['ever', 'ever_so', 'always', ""e'er"", 'of_all_time']",The Valley
+patch,"['patch_up', 'piece', 'patch', 'fleck', 'while', 'dapple', 'plot', 'plot_of_land', 'darn', 'spot', 'temporary_hookup', 'mend', 'eyepatch', 'bandage', 'spell', 'plot_of_ground', 'speckle', 'maculation']",The Valley
+stain,"['stigma', 'smear', 'mark', 'maculate', 'smirch', 'stain', 'defile', 'discoloration', 'discolouration', 'filth', 'brand', 'blot', 'grease', 'grime', 'tarnish', 'dirt', 'sully', 'grunge', 'spot', 'soil']",The Valley
+accustomed,"['habitual', 'habituate', 'wonted', 'accustomed', 'customary', 'accustom']",The Valley
+We,[],The Valley
+out,"['stunned', 'knocked_out', 'forbidden', 'taboo', 'extinct', 'come_out_of_the_closet', 'prohibited', ""KO'd"", 'proscribed', 'kayoed', 'tabu', 'verboten', 'out', 'away', 'come_out']",The Valley
+saw,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'proverb', 'power_saw', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'saw', 'assure', 'sawing_machine', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'adage', 'figure', 'picture', 'come_across', 'examine', 'go_out', 'construe', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'byword', 'escort', 'realise', 'get_wind']",The Valley
+snarled,"['snarled', 'tangle', 'snarl_up', 'mat', 'knotty', 'snarly', 'snarl', 'snap', 'embrangle', 'entangle']",The Valley
+earth,"['earthly_concern', 'Earth', 'ground', 'earth', 'dry_land', 'terra_firma', 'solid_ground', 'world', 'globe', 'land', 'worldly_concern']",The Valley
+may,"['Crataegus_oxycantha', 'May', 'English_hawthorn', 'may', 'whitethorn', 'Crataegus_laevigata']",The Valley
+weary,"['tire', 'aweary', 'outwear', 'wear_upon', 'pall', 'wear_out', 'tire_out', 'weary', 'fag', 'jade', 'fatigue', 'wear_down', 'fag_out', 'wear']",The Valley
+They'll,[],The Valley
+flat,"['insipid', 'directly', 'level', 'categorical', 'compressed', 'matted', 'monotonous', 'flatcar', 'two-dimensional', 'flavourless', 'matt', 'flavorless', 'matte', 'flat_tire', 'bland', 'flatbed', 'apartment', 'flat', 'unconditional', 'savourless', '2-dimensional', 'prostrate', 'savorless', 'mat', 'categoric', 'vapid', 'monotonic', 'straight', 'monotone', 'plane']",The Valley
+?,[],The Valley
+He,"['atomic_number_2', 'he', 'He', 'helium']",The Valley
+A,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",The Valley
+understand,"['understand', 'sympathize', 'see', 'read', 'realize', 'interpret', 'infer', 'translate', 'realise', 'sympathise', 'empathize', 'empathise']",The Valley
+the,[],The Valley
+anythin,[],The Valley
+confinement,"['restriction', 'labor', 'parturiency', 'confinement', 'labour', 'childbed', 'travail', 'lying-in']",The Valley
+looped,"['loop', 'intertwine', 'curl', 'coil']",The Valley
+Then,"['then', 'so', 'and_then', 'and_so']",The Valley
+cold,"['coldness', 'moth-eaten', 'frigid', 'dusty', 'cold-blooded', 'frigidness', 'frigidity', 'inhuman', 'low_temperature', 'stale', 'common_cold', 'insensate', 'cold']",The Valley
+faces,"['boldness', 'front', 'font', 'grimace', 'confront', 'facial_expression', 'typeface', 'present', 'expression', 'brass', 'side', 'face_up', 'aspect', 'human_face', 'look', 'cheek', 'case', 'face', 'nerve', 'fount']",The Valley
+She,[],The Valley
+like,"['corresponding', 'similar', 'wish', 'alike', 'comparable', 'the_likes_of', 'the_like', 'care', 'same', 'ilk', 'like']",The Valley
+been,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",The Valley
+Clay,"['Clay', 'cadaver', 'stiff', 'Henry_Clay', 'remains', 'Lucius_DuBignon_Clay', 'mud', 'the_Great_Compromiser', 'Lucius_Clay', 'corpse', 'clay']",The Valley
+sleeve,"['sleeve', 'arm']",The Valley
+will,"['will', 'volition', 'leave', 'testament', 'bequeath']",The Valley
+pushing,"['pushing', 'labor', 'force', 'crusade', 'tug', 'bear_on', 'advertize', 'promote', 'crowd', 'fight', 'drive', 'push', 'campaign', 'agitate', 'advertise', 'labour', 'press']",The Valley
+which,[],The Valley
+half-breed,"['half-breed', 'half-bred', 'half-blooded']",The Valley
+owl,"['bird_of_night', 'owl', 'hooter', 'bird_of_Minerva']",The Valley
+floor,"['coldcock', 'storey', 'level', 'shock', 'blow_out_of_the_water', 'ball_over', 'deck', 'flooring', 'dump', 'knock_down', 'take_aback', 'base', 'floor', 'story', 'trading_floor']",The Valley
+chest,"['pectus', 'bureau', 'dresser', 'chest_of_drawers', 'thorax', 'chest', 'breast']",The Valley
+nights,"['Nox', 'dark', 'night', 'nighttime', 'Night']",The Valley
+made,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'made', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",The Valley
+we,[],The Valley
+after,"['later', 'later_on', 'subsequently', 'after', 'afterwards', 'afterward']",The Valley
+lathered,"['flog', 'lather', 'slash', 'strap', 'trounce', 'whip', 'lash', 'soap', 'welt']",The Valley
+come,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'ejaculate', 'occur', 'come_up', 'seed', 'come', 'number', 'arrive', 'hail', 'fare', 'seminal_fluid', 'get', 'descend', 'fall', 'total', 'issue_forth', 'add_up', 'do', 'cum', 'follow', 'semen']",The Valley
+its,"['IT', 'information_technology']",The Valley
+shadows,"['phantasma', 'shade', 'tail', 'dark', 'fantasm', 'phantasm', 'shadow', 'shadower', 'overshadow', 'apparition', 'trace', 'vestige', 'shade_off', 'dwarf', 'tincture', 'phantom', 'darkness']",The Valley
+cracked,"['whacky', 'bonkers', 'loopy', 'crackers', 'kookie', 'bats', 'break', 'loco', 'daft', 'kooky', 'loony', 'fruity', 'barmy', 'dotty', 'break_up', 'cracked', 'roughened', 'alligatored', 'break_through', 'round_the_bend', 'collapse', 'wacky', 'buggy', 'crack', 'haywire', 'around_the_bend', 'crack_up', 'chapped', 'check', 'balmy', 'snap', 'nutty', 'batty', 'crock_up', 'nuts']",The Valley
+Keep,"['hold_on', 'keep', 'sustenance', 'prevent', 'observe', 'hold_open', 'proceed', 'keep_back', 'stay_fresh', 'keep_on', 'support', 'go_along', 'save', 'continue', 'hold', 'bread_and_butter', 'restrain', 'maintain', 'living', 'go_on', 'hold_back', 'donjon', 'keep_open', 'dungeon', 'celebrate', 'livelihood', 'sustain', 'retain', 'preserve']",The Valley
+Do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",The Valley
+still,"['nonetheless', 'notwithstanding', 'tranquil', 'calm', 'withal', 'placid', 'hush_up', 'distillery', 'unruffled', 'even', 'yet', 'hush', 'static', 'smooth', 'ease', 'soundless', 'however', 'quieten', 'tranquilize', 'allay', 'motionless', 'still', 'all_the_same', 'stock-still', 'calm_down', 'shut_up', 'tranquillise', 'relieve', 'silent', 'tranquillize', 'even_so', 'nevertheless', 'stillness', 'silence', 'lull', 'inactive', 'noneffervescent', 'quiet']",The Valley
+killed,"['vote_down', 'defeat', 'down', 'drink_down', 'belt_down', 'shoot_down', 'bolt_down', 'pour_down', 'obliterate', 'pop', 'wipe_out', 'stamp_out', 'vote_out', 'kill', 'toss_off']",The Valley
+darkness,"['duskiness', 'dark', 'shadow', 'wickedness', 'swarthiness', 'iniquity', 'darkness']",The Valley
+sunlight,"['sunshine', 'sunlight', 'sun']",The Valley
+mock,"['bemock', 'mock']",The Valley
+get,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']",The Valley
+more,"['more', 'More', 'more_than', 'Sir_Thomas_More', 'to_a_greater_extent', 'Thomas_More']",The Valley
+at,"['at', 'astatine', 'atomic_number_85', 'At']",The Valley
+went,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'proceed', 'hold_up', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'run', 'function', 'choke', 'drop_dead', 'travel', 'blend', 'sound', 'pop_off', 'move', 'rifle', 'survive']",The Valley
+stand,"['sales_booth', 'abide', 'viewpoint', 'tie-up', 'standstill', 'stomach', 'stick_out', 'fend', 'place_upright', 'bandstand', 'endure', 'stand_up', 'support', 'rack', 'stand', 'remain_firm', 'point_of_view', 'suffer', 'outdoor_stage', 'brook', 'tolerate', 'pedestal', 'digest', 'put_up', 'resist', 'base', 'standpoint', 'stall', 'bear']",The Valley
+wherever,"['wherever', 'wheresoever']",The Valley
+turned,"['plough', 'sour', 'move_around', 'reverse', 'bend', 'change_by_reversal', 'change_state', 'deform', 'work', 'grow', 'ferment', 'flex', 'off', 'sprain', 'rick', 'become', 'wrench', 'release', 'turn', 'turned', 'turn_over', 'wrick', 'call_on', 'twist', 'plow']",The Valley
+stared,"['gaze', 'asterisk', 'star', 'stare']",The Valley
+paw,"['hand', 'manus', 'paw', 'mitt']",The Valley
+about,"['about', 'approximately', 'roughly', 'around', 'or_so', 'nearly', 'astir', 'near', 'almost', 'well-nigh', 'most', 'just_about', 'virtually', 'some', 'more_or_less', 'close_to', 'nigh']",The Valley
+tire,"['fatigue', 'play_out', 'bore', 'tyre', 'pall', 'wear_out', 'jade', 'exhaust', 'outwear', 'wear_upon', 'weary', 'fag', 'run_down', 'fag_out', 'wear', 'tire', 'tire_out', 'sap', 'wear_down']",The Valley
+parted,"['part', 'set_out', 'parted', 'depart', 'split', 'take_off', 'break', 'set_forth', 'split_up', 'break_up', 'disunite', 'start_out', 'start', 'separate', 'divide', 'set_off']",The Valley
+fell,"['accrue', 'return', 'cruel', 'vanish', 'precipitate', 'barbarous', 'strike', 'decrease', 'roughshod', 'flow', 'brutal', 'fall_down', 'settle', 'shine', 'come', 'vicious', 'devolve', 'fly', 'felled_seam', 'hang', 'descend', 'come_down', 'savage', 'fall', 'pass', 'light', 'go_down', 'cut_down', 'hide', 'drop', 'fell', 'strike_down', 'diminish', 'lessen']",The Valley
+be,"['exist', 'beryllium', 'comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'atomic_number_4', 'make_up', 'glucinium', 'represent', 'Be', 'live']",The Valley
+almost,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'nigh']",The Valley
+shirt,['shirt'],The Valley
+someone,"['mortal', 'soul', 'individual', 'person', 'somebody', 'someone']",The Valley
+crossed,"['frustrate', 'baffle', 'span', 'crossbreed', 'intersect', 'get_across', 'queer', 'spoil', 'cover', 'cut_across', 'interbreed', 'cut_through', 'hybridise', 'pass_over', 'track', 'foil', 'cross', 'thwart', 'sweep', 'hybridize', 'bilk', 'get_over', 'traverse', 'crossed', 'scotch']",The Valley
+campfire,['campfire'],The Valley
+hills,"['hill', 'Benny_Hill', 'Alfred_Hawthorne', 'James_Jerome_Hill', 'Hill', 'J._J._Hill', 'mound', ""pitcher's_mound""]",The Valley
+rose,"['rise', 'rose_wine', 'rebel', 'surface', 'develop', 'wax', 'climb_up', 'rise_up', 'come_up', 'spring_up', 'go_up', 'roseate', 'lift', 'grow', 'originate', 'rosebush', 'stand_up', 'jump', 'rear', 'move_up', 'prove', 'turn_out', 'mount', 'ascend', 'rosiness', 'blush_wine', 'arise', 'pink_wine', 'get_up', 'heighten', 'rosaceous', 'resurrect', 'rose', 'uprise', 'climb']",The Valley
+posted,"['posted', 'post', 'brand', 'carry', 'put_up', 'place', 'station', 'mail', 'send', 'stake']",The Valley
+neither,['neither'],The Valley
+down,"['down', 'gloomy', 'down_in_the_mouth', 'low', 'bolt_down', 'toss_off', 'polish', 'John_L._H._Down', 'downwardly', 'downward', 'drink_down', 'blue', 'knock_down', 'refine', 'consume', 'dispirited', 'pour_down', 'devour', 'pull_down', 'Down', 'pile', 'go_through', 'mastered', 'downcast', 'push_down', 'low-spirited', 'land', 'down_pat', 'pop', 'fine-tune', 'depressed', 'cut_down', 'grim', 'downwards', 'down_feather', 'shoot_down', 'belt_down', 'kill', 'downhearted']",The Valley
+tightened,"['fasten', 'constrain', 'tighten_up', 'stiffen', 'reduce', 'tighten']",The Valley
+smile,"['smiling', 'smile', 'grinning', 'grin']",The Valley
+pain,"['painful_sensation', 'pain_in_the_ass', 'hurt', 'pain_sensation', 'bother', 'infliction', 'botheration', 'trouble', 'pain', 'pain_in_the_neck', 'annoyance', 'hurting', 'ail', 'anguish', 'nuisance', 'painfulness']",The Valley
+pace,"['footstep', 'yard', 'step', 'tread', 'rate', 'tempo', 'stride', 'gait', 'pace']",The Valley
+let,"['permit', 'have', 'Lashkar-e-Tayyiba', 'rent', 'Lashkar-e-Taiba', 'LET', 'countenance', 'lease', 'Army_of_the_Righteous', 'Army_of_the_Pure', 'net_ball', 'let', 'Lashkar-e-Toiba', 'allow', 'get']",The Valley
+Silas,[],The Valley
+croaks,"['exit', 'grumble', 'expire', 'gnarl', 'kick_the_bucket', 'decease', 'perish', 'buy_the_farm', 'conk', 'murmur', 'mutter', 'snuff_it', 'cronk', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'croak', 'die', 'pass', 'choke', 'croaking', 'drop_dead', 'pop_off']",The Valley
+frail,"['delicate', 'frail', 'fragile', 'fallible', 'weak', 'imperfect']",The Valley
+prairie,['prairie'],The Valley
+know,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",The Valley
+party,"['company', 'political_party', 'party']",The Valley
+dissolve,"['fade_away', 'disband', 'fade_out', 'dismiss', 'unthaw', 'unfreeze', 'resolve', 'break_up', 'dissolve', 'melt', 'thaw', 'dethaw']",The Valley
+ashamed,['ashamed'],The Valley
+lamp,['lamp'],The Valley
+rode,"['bait', 'turn_on', 'taunt', 'tantalize', 'razz', 'hinge_upon', 'tease', 'sit', 'tantalise', 'depend_on', 'mount', 'ride', 'hinge_on', 'rally', 'devolve_on', 'rag', 'twit', 'drive', 'cod', 'depend_upon']",The Valley
+part,"['take_off', 'region', 'section', 'parting', 'split_up', 'break', 'share', 'partly', 'character', 'split', 'office', 'break_up', 'contribution', 'start_out', 'percentage', 'separate', 'piece', 'part', 'depart', 'role', 'voice', 'theatrical_role', 'disunite', 'constituent', 'start', 'component_part', 'function', 'set_out', 'persona', 'component', 'set_forth', 'portion', 'division', 'partially', 'divide', 'set_off']",The Valley
+somethin,[],The Valley
+free,"['devoid', 'costless', 'innocent', 'complimentary', 'unblock', 'give_up', 'unloose', 'liberal', 'rid', 'dislodge', 'absolve', 'barren', 'gratuitous', 'free', 'disembarrass', 'discharge', 'disengage', 'spare', 'release', 'unfreeze', 'relinquish', 'liberate', 'resign', 'gratis', 'justify', 'relieve', 'detached', 'exempt', 'destitute', 'unloosen', 'free_people', 'loose']",The Valley
+give,"['return', 'break', 'establish', 'present', 'contribute', 'open', 'cave_in', 'devote', 'pass_on', 'commit', 'chip_in', 'founder', 'generate', 'collapse', 'springiness', 'afford', 'render', 'apply', 'grant', 'give', 'feed', 'kick_in', 'hold', 'throw', 'give_way', 'sacrifice', 'dedicate', 'pass', 'fall_in', 'impart', 'spring', 'have', 'turn_over', 'consecrate', 'ease_up', 'pay', 'leave', 'move_over', 'yield', 'gift', 'make', 'hand', 'reach']",The Valley
+Heaven,"['paradise', 'promised_land', 'Heaven', 'nirvana', 'Eden', 'Shangri-la', 'heaven']",The Valley
+too,"['to_a_fault', 'overly', 'likewise', 'also', 'too', 'besides', 'excessively', 'as_well']",The Valley
+crest,"['crown', 'top', 'tip', 'summit', 'peak', 'crest', 'cap']",The Valley
+looming,"['bulk_large', 'loom', 'brood', 'hover', 'tower', 'predominate', 'hulk']",The Valley
+but,"['simply', 'only', 'just', 'merely', 'but']",The Valley
+stock,"['stock_up', 'commonplace', 'fund', 'line', 'ancestry', 'sprout', 'origin', 'blood', 'breed', 'Malcolm_stock', 'hackneyed', 'buy_in', 'store', 'pedigree', 'stockpile', 'carry', 'standard', 'threadbare', 'broth', 'farm_animal', 'parentage', 'inventory', 'tired', 'blood_line', 'strain', 'gillyflower', 'bloodline', 'well-worn', 'shopworn', 'descent', 'trite', 'neckcloth', 'old-hat', 'stemma', 'stock', 'banal', 'livestock', 'stock_certificate', 'gunstock', 'line_of_descent', 'lineage', 'timeworn', 'caudex']",The Valley
+game,"['crippled', 'mettlesome', 'spunky', 'gritty', 'gamy', 'stake', 'gamey', 'halt', 'lame', 'bet_on', 'gimpy', 'spirited', 'game', 'back', 'plot', 'punt', 'secret_plan', 'biz', 'halting', 'gage']",The Valley
+running,"['race', 'play', 'incline', 'take_to_the_woods', 'course', 'tend', 'hunt', 'running_play', 'hunt_down', 'lean', 'melt_down', 'consort', 'hightail_it', 'turn_tail', 'die_hard', 'melt', 'unravel', 'flow', 'linear', 'running_game', 'scat', 'work', 'persist', 'track_down', 'carry', 'lam', 'run_away', 'draw', 'endure', 'bunk', 'fly_the_coop', 'range', 'break_away', 'feed', 'head_for_the_hills', 'track', 'go', 'prevail', 'operative', 'operate', 'functional', 'extend', 'pass', 'black_market', 'lead', 'run', 'function', 'running', 'guide', 'ladder', 'scarper', 'execute', 'working', 'bleed', 'be_given', 'campaign', 'escape', 'ply', 'move', 'run_for']",The Valley
+burning,"['incinerate', 'burning', 'burning_at_the_stake', 'sting', 'combust', 'cut', 'cauterise', 'bite', 'combustion', 'burn', 'burn_down', 'electrocution', 'cauterize', 'burn_off', 'glow', 'burn_up', 'sunburn', 'fire']",The Valley
+lived,"['experience', 'subsist', 'populate', 'live_on', 'endure', 'go', 'hold_up', 'be', 'know', 'inhabit', 'hold_out', 'last', 'live', 'survive', 'exist', 'dwell']",The Valley
+called,"['address', 'holler', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'shout_out', 'foretell', 'visit', 'call_off', 'cry', 'telephone', 'predict', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'prognosticate', 'anticipate']",The Valley
+hand,"['script', 'helping_hand', 'bridge_player', 'give', 'mitt', 'hired_man', 'pass_on', 'hand', 'reach', 'handwriting', 'hired_hand', 'pass', 'manus', 'paw', 'deal', 'turn_over']",The Valley
+face,"['boldness', 'front', 'font', 'grimace', 'confront', 'facial_expression', 'typeface', 'present', 'expression', 'brass', 'side', 'face_up', 'aspect', 'human_face', 'look', 'cheek', 'case', 'face', 'nerve', 'fount']",The Valley
+reach,"['orbit', 'ambit', 'grasp', 'reach_out', 'strive', 'achieve', 'touch', 'compass', 'pass_on', 'range', 'extend_to', 'get_hold_of', 'accomplish', 'progress_to', 'reaching', 'give', 'strain', 'scope', 'pass', 'stretch', 'turn_over', 'gain', 'get_to', 'hit', 'contact', 'hand', 'reach', 'make', 'attain', 'arrive_at', 'get_through']",The Valley
+taken,"['accept', 'remove', 'take_in', 'contract', 'take_away', 'rent', 'read', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'consume', 'learn', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'contain', 'interpreted', 'study', 'drive', 'ingest', 'make', 'take_aim', 'choose', 'select', 'convey', 'taken', 'charter']",The Valley
+on,"['on', 'along']",The Valley
+gust,"['gust', 'blast', 'blow']",The Valley
+It,"['IT', 'information_technology']",The Valley
+dance,"['trip_the_light_fantastic', 'dance', 'saltation', 'trip_the_light_fantastic_toe', 'terpsichore', 'dancing']",The Valley
+for,[],The Valley
+asked,"['ask', 'necessitate', 'take', 'inquire', 'postulate', 'involve', 'enquire', 'expect', 'call_for', 'need', 'require', 'demand']",The Valley
+head,"['head_teacher', 'mind', 'head', 'channelise', 'manoeuvre', 'heading', 'drumhead', 'fountainhead', 'question', 'head_up', 'steer', 'headland', 'headspring', 'nous', 'chief', 'forefront', 'capitulum', 'caput', 'foreland', 'read/write_head', 'pass', 'header', 'lead', 'manoeuver', 'direct', 'principal', 'guide', 'channelize', 'promontory', 'brain', 'point', 'head_word', 'headway', 'oral_sex', 'school_principal', 'straits', 'psyche', 'top_dog', 'maneuver']",The Valley
+their,[],The Valley
+bend,"['turn_away', 'bend', 'curve', 'stoop', 'crimp', 'deform', 'crook', 'plication', 'crease', 'flex', 'flexure', 'crouch', 'fold', 'bending', 'turn', 'bow', 'Bend', 'deflect', 'twist', 'bend_dexter']",The Valley
+you're,[],The Valley
+seen,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'assure', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'come_across', 'figure', 'picture', 'examine', 'construe', 'go_out', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",The Valley
+a,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",The Valley
+ahead,"['in_the_lead', 'forrader', 'before', 'beforehand', 'in_front', 'forwards', 'leading', 'onward', 'onwards', 'out_front', 'in_advance', 'forward', 'ahead']",The Valley
+together,"['unitedly', 'in_concert', 'together']",The Valley
+watchful,"['insomniac', 'watchful', 'sleepless', 'alert']",The Valley
+whispered,"['whisper', 'whispered']",The Valley
+three,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'iii', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'tierce', 'trio', 'terzetto', 'trine', 'trey']",The Valley
+could,[],The Valley
+river,['river'],The Valley
+mocking,"['taunting', 'bemock', 'gibelike', 'mocking', 'mock', 'teasing', 'derisive', 'quizzical', 'jeering']",The Valley
+smelled,"['sense', 'smack', 'smell', 'reek', 'smell_out']",The Valley
+finished,"['end', 'end_up', 'wind_up', 'finished', 'land_up', 'finish_up', 'fetch_up', 'finish', 'ruined', 'polish_off', 'terminate', 'cease', 'complete', 'eat_up', 'stop']",The Valley
+dotting,"['disperse', 'scatter', 'sprinkle', 'constellate', 'dot', 'stud', 'dust']",The Valley
+shoulder,"['articulatio_humeri', 'shoulder', 'berm', 'shoulder_joint']",The Valley
+cattle,"['oxen', 'cows', 'kine', 'cattle', 'Bos_taurus']",The Valley
+here,"['hither', 'here', 'Hera', 'Here']",The Valley
+halfway,"['center', 'halfway', 'middle', 'midway']",The Valley
+sought,"['sought-after', 'look_for', 'assay', 'search', 'try', 'attempt', 'sought', 'essay', 'seek']",The Valley
+dying,"['exit', 'death', 'expire', 'give_out', 'kick_the_bucket', 'break', 'decease', 'perish', 'demise', 'fail', 'buy_the_farm', 'go_bad', 'conk', 'pall', 'become_flat', 'snuff_it', 'dying', 'break_down', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'conk_out', 'croak', 'die', 'pass', 'choke', 'drop_dead', 'anxious', 'die_out', 'pop_off']",The Valley
+off,"['bump_off', 'remove', 'cancelled', 'sour', 'hit', 'slay', 'polish_off', 'forth', 'dispatch', 'away', 'turned', 'off', 'murder']",The Valley
+of,[],The Valley
+porch,['porch'],The Valley
+said,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'aforesaid', 'enunciate', 'state', 'allege', 'sound_out', 'said', 'aforementioned']",The Valley
+trespassed,"['transgress', 'take_advantage', 'trespass', 'intrude', 'overstep', 'sin']",The Valley
+But,"['simply', 'only', 'just', 'merely', 'but']",The Valley
+Ed,"['erectile_dysfunction', 'ED', 'male_erecticle_dysfunction']",The Valley
+stood,"['tolerate', 'stick_out', 'abide', 'fend', 'digest', 'put_up', 'place_upright', 'remain_firm', 'stand', 'resist', 'stomach', 'suffer', 'bear', 'endure', 'brook', 'stand_up', 'support']",The Valley
+Dawn,"['dawning', 'break_of_the_day', 'come_home', 'cockcrow', 'get_across', 'first_light', 'sunrise', 'morning', 'penetrate', 'break_of_day', 'sunup', 'fall_into_place', 'dawn', 'dayspring', 'aurora', 'sink_in', 'daybreak', 'get_through', 'click']",The Valley
+Pettigrew's,[],The Valley
+intelligence,"['intelligence_information', 'intelligence', 'intelligence_agency', 'intelligence_activity', 'tidings', 'word', 'intelligence_operation', 'intelligence_service', 'news']",The Valley
+comforting,"['console', 'consoling', 'comforting', 'ease', 'consolatory', 'solace', 'comfort', 'cheering', 'soothe', 'satisfying']",The Valley
+liquor,"['hard_drink', 'liquor', 'John_Barleycorn', 'strong_drink', 'spirits', 'hard_liquor', 'booze', 'pot_likker', 'pot_liquor']",The Valley
+worked,"['knead', 'sour', 'play', 'shape', 'bring', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'lick', 'act_upon', 'exploit', 'make_for', 'work_out', 'act', 'go', 'figure_out', 'operate', 'influence', 'turn', 'process', 'solve', 'run', 'function', 'form', 'crop', 'make', 'cultivate', 'forge', 'mold', 'puzzle_out']",The Valley
+steps,"['mistreat', 'stair', 'whole_tone', 'pace', 'whole_step', 'footfall', 'maltreat', 'abuse', 'step', 'tread', 'stride', 'dance_step', 'stairs', 'steps', 'gradation', ""stone's_throw"", 'footmark', 'footstep', 'ill-treat', 'footprint', 'ill-use', 'tone', 'measure']",The Valley
+she,[],The Valley
+cringing,"['quail', 'funk', 'grovel', 'squinch', 'recoil', 'grovelling', 'groveling', 'wince', 'fawn', 'cringing', 'wormlike', 'flinch', 'wormy', 'shrink', 'crawl', 'creep', 'cower', 'cringe']",The Valley
+won't,[],The Valley
+no,"['atomic_number_102', 'No', 'nobelium', 'no', 'no_more']",The Valley
+landscape,"['landscape_painting', 'landscape']",The Valley
+do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",The Valley
+approached,"['go_up', 'approach', 'near', 'draw_near', 'come_near', 'come_on', 'go_about', 'draw_close', 'border_on', 'set_about']",The Valley
+palely,"['pallidly', 'palely', 'dimly']",The Valley
+we're,[],The Valley
+Nellie,[],The Valley
+Lived,"['experience', 'subsist', 'populate', 'live_on', 'endure', 'go', 'hold_up', 'be', 'know', 'inhabit', 'hold_out', 'last', 'live', 'survive', 'exist', 'dwell']",The Valley
+Against,[],The Valley
+wind,"['weave', 'nose', 'farting', 'scent', 'hoist', 'curve', 'flatus', 'nothingness', 'steer', 'wind_up', 'thread', 'wander', 'lift', 'tip', 'breaking_wind', 'wind_instrument', 'confidential_information', 'current_of_air', 'meander', 'winding', 'fart', 'twine', 'hint', 'wreathe', 'wrap', 'lead', 'roll', 'idle_words', 'air_current', 'wind', 'jazz', 'malarky', 'twist', 'malarkey']",The Valley
+thin,"['sparse', 'dilute', 'slight', 'cut', 'fragile', 'lose_weight', 'thin_out', 'slim', 'flimsy', 'tenuous', 'thinly', 'thin', 'melt_off', 'lean', 'slender', 'slim_down', 'reduce', 'slenderize']",The Valley
+murmuring,"['grumble', 'grumbling', 'mussitation', 'gnarl', 'whispering', 'murmur', 'croak', 'mutter', 'murmuration', 'murmuring', 'muttering', 'susurrant']",The Valley
+fool,"['frivol_away', 'take_in', 'fool_around', 'sucker', 'fall_guy', 'mark', 'soft_touch', 'dupe', 'put_on', 'jester', 'put_one_over', 'fool_away', 'gull', 'saphead', 'put_one_across', 'arse_around', 'mug', 'shoot', 'patsy', 'befool', 'chump', 'fritter_away', 'dissipate', 'sap', 'tomfool', 'horse_around', 'motley_fool', 'fool', 'cod', 'muggins', 'fritter', 'slang']",The Valley
+than,[],The Valley
+terrible,"['abominable', 'awful', 'dire', 'frightful', 'unspeakable', 'fearful', 'dreadful', 'dreaded', 'fearsome', 'atrocious', 'direful', 'wicked', 'tremendous', 'dread', 'frightening', 'horrendous', 'painful', 'horrific', 'terrible', 'severe']",The Valley
+or,"['operating_room', 'operating_theatre', 'operating_theater', 'Oregon', 'surgery', 'Beaver_State', 'OR']",The Valley
+how,[],The Valley
+came,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'occur', 'come_up', 'come', 'number', 'arrive', 'hail', 'fare', 'get', 'descend', 'fall', 'total', 'issue_forth', 'do', 'add_up', 'follow']",The Valley
+carbine,['carbine'],The Valley
+room,"['way', 'board', 'room', 'elbow_room']",The Valley
+shut,"['closed', 'exclude', 'shut_out', 'keep_out', 'unopen', 'close', 'shut']",The Valley
+broken,"['snap_off', 'split_up', 'get_around', 'fail', 'broken_in', 'wear_out', 'split', 'let_on', 'break_up', 'collapse', 'smash', 'intermit', 'confused', 'go', 'fracture', 'come_apart', 'break_dance', 'bump', 'recrudesce', 'humbled', 'offend', 'busted', 'impoverished', 'erupt', 'transgress', 'ruin', 'pause', 'break_out', 'go_bad', 'demote', 'weaken', 'unkept', 'give_away', 'disordered', 'break_in', 'part', 'give', 'interrupt', 'expose', 'give_way', 'infract', 'fall_in', 'die', 'humiliated', 'bankrupt', 'better', 'break_off', 'soften', 'disclose', 'damp', 'give_out', 'discover', 'develop', 'low', 'cave_in', 'get_out', 'bring_out', 'reveal', 'bust', 'separate', 'break_down', 'crack', 'conk_out', 'let_out', 'rugged', 'breach', 'dampen', 'go_against', 'violate', 'break-dance', 'check', 'wiped_out', 'crushed', 'fall_apart', 'broken', 'break', 'discontinue', 'unwrap', 'relegate', 'founder', 'break_away', 'upset', 'stop', 'wear', 'burst', 'divulge', 'kick_downstairs']",The Valley
+had,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",The Valley
+mare,"['mare', 'maria', 'female_horse']",The Valley
+think,"['think', 'imagine', 'retrieve', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'opine', 'mean', 'consider', 'suppose', 'intend', 'believe', 'remember', 'recall', 'conceive', 'cerebrate', 'call_back']",The Valley
+tears,"['weeping', 'rent', 'tears', 'charge', 'tear', 'displume', 'split', 'bout', 'binge', 'crying', 'bust', 'pull', 'deplume', 'pluck', 'shoot', 'buck', 'snag', 'rip', 'shoot_down', 'deplumate', 'snap', 'teardrop', 'rupture']",The Valley
+to,[],The Valley
+knew,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",The Valley
+laid,"['position', 'put', 'repose', 'lay', 'put_down', 'laid', 'place', 'set', 'pose']",The Valley
+'pache,[],The Valley
+jacket,"['crown', 'jacket_crown', 'jacket', 'crownwork', 'cap']",The Valley
+lied,"['lie', 'rest', 'lie_in', 'lied', 'lie_down', 'consist', 'dwell']",The Valley
+sky,"['toss', 'pitch', 'sky', 'flip']",The Valley
+confronted,"['face', 'present', 'confront', 'face_up']",The Valley
+Now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']",The Valley
+ebbing,"['ebb', 'ebb_out', 'wane', 'ebb_down', 'ebbing', 'ebb_away', 'ebb_off']",The Valley
+many,['many'],The Valley
+felt,"['experience', 'finger', 'matt-up', 'mat', 'matte_up', 'matte', 'sense', 'find', 'mat_up', 'feel', 'felt', 'felt_up', 'palpate']",The Valley
+sworn,"['bank', 'sworn', 'depone', 'blaspheme', 'avow', 'imprecate', 'curse', 'aver', 'affirm', 'assert', 'swan', 'depose', 'verify', 'trust', 'rely', 'cuss', 'swear', 'pledged']",The Valley
+picked,"['clean', 'pluck', 'piece', 'foot', 'plunk', 'nibble', 'blame', 'break_up', 'beak', 'pick', 'peck', 'cull', 'find_fault']",The Valley
+sunk,"['subside', 'washed-up', 'go_under', 'settle', 'slide_down', 'done_for', 'undone', 'lapse', 'sunk', 'fall_off', 'slump', 'drop_down', 'pass', 'bury', 'go_down', 'drop', 'sink', 'ruined', 'dip']",The Valley
+end,"['close', 'death', 'end', 'goal', 'destruction', 'conclusion', 'oddment', 'final_stage', 'finish', 'terminate', 'ending', 'cease', 'remnant', 'last', 'closing', 'remainder', 'terminal', 'stop']",The Valley
+black,"['melanize', 'Shirley_Temple_Black', 'dim', 'Black_person', 'contraband', 'sinister', 'total_darkness', 'bleak', 'nigrify', 'ignominious', 'fateful', 'pitch-dark', 'blacken', 'blackness', 'bootleg', 'lightlessness', 'Negroid', 'fatal', 'black', 'shameful', 'blackened', 'disgraceful', 'pitch-black', 'disastrous', 'Shirley_Temple', 'pitch_blackness', 'inglorious', 'Black', 'mordant', 'inkiness', 'black-market', 'calamitous', 'opprobrious', 'Negro', 'grim', 'dark', 'melanise', 'Joseph_Black', 'smutty', 'smuggled', 'blackamoor']",The Valley
+round,"['rhythm', 'around', 'stave', 'round_of_drinks', 'circle', 'fill_out', 'polish', 'rotund', 'round_off', 'orotund', 'bout', 'labialize', 'assault', 'attack', 'cycle', 'round', 'polish_up', 'one_shot', 'beat', 'assail', 'circular', 'unit_of_ammunition', 'turn', 'labialise', 'troll', 'round_down', 'snipe', 'brush_up', 'rung', 'daily_round', 'round_out', 'lash_out', 'flesh_out', 'pear-shaped', 'round_of_golf']",The Valley
+take,"['accept', 'remove', 'take_in', 'contract', 'return', 'take_away', 'read', 'rent', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'payoff', 'consume', 'learn', 'proceeds', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'takings', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'issue', 'contain', 'yield', 'study', 'ingest', 'make', 'take_aim', 'drive', 'choose', 'select', 'convey', 'charter']",The Valley
+lame,"['lame', 'crippled', 'gimpy', 'square', 'cripple', 'halt', 'feeble', 'halting', 'game']",The Valley
+beat,"['rhythm', 'work_over', 'stick', 'tucker_out', 'heartbeat', 'beat_up', 'drum', 'baffle', 'metre', 'scramble', 'circumvent', 'shell', 'bushed', 'amaze', 'cadence', 'pulsation', 'vanquish', 'wash_up', 'pound', 'mystify', 'thrum', 'crush', 'outsmart', 'all_in', 'beatnik', 'ticktack', 'bunk', 'bewilder', 'get', 'exhaust', 'round', 'quiver', 'outwit', 'beat', 'meter', 'perplex', 'vex', 'nonplus', 'gravel', 'overreach', 'outfox', 'thump', 'stupefy', 'tucker', 'pose', 'flap', 'flummox', 'ticktock', 'pulsate', 'puzzle', 'dead', 'pulse', 'trounce', 'musical_rhythm', 'tick', 'dumbfound', 'beat_out', 'measure']",The Valley
+lips,"['sassing', 'mouth', 'backtalk', 'back_talk', 'sass', 'lip', 'brim', 'rim']",The Valley
+night's,[],The Valley
+below,"['downstairs', 'infra', 'to_a_lower_place', 'under', 'down_the_stairs', 'below', 'on_a_lower_floor', 'beneath', 'at_a_lower_place']",The Valley
+Charlie,[],The Valley
+they,[],The Valley
+animal,"['sensual', 'fauna', 'carnal', 'animate_being', 'creature', 'beast', 'brute', 'animal', 'fleshly']",The Valley
+wood,"['Natalie_Wood', 'Wood', 'woods', 'Grant_Wood', 'Sir_Henry_Joseph_Wood', 'woodwind', 'forest', 'Sir_Henry_Wood', 'woodwind_instrument', 'Mrs._Henry_Wood', 'Ellen_Price_Wood', 'wood']",The Valley
+left,"['exit', 'pull_up_stakes', 'will', 'left_hand', 'provide', 'unexpended', 'left-hand', 'remaining', 'forget', 'go_away', 'allow', 'get_out', 'result', 'leftfield', 'pass_on', 'left_over', 'allow_for', 'leftover', 'depart', 'left_wing', 'entrust', 'give', 'go_forth', 'go_out', 'lead', 'leave_alone', 'impart', 'bequeath', 'left_field', 'odd', 'left', 'leave', 'leave_behind']",The Valley
+wall,"['bulwark', 'wall', 'paries', 'fence_in', 'fence', 'surround', 'rampart', 'palisade']",The Valley
+day,"['daytime', 'daylight', 'day', 'sidereal_day', 'Clarence_Day', 'solar_day', 'twenty-four_hours', 'twenty-four_hour_period', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'Day', '24-hour_interval']",The Valley
+burst,"['flare-up', 'bristle', 'salvo', 'split', 'erupt', 'burst', 'explode', 'fit', 'break', 'outburst', 'break_open', 'volley', 'fusillade', 'bust', 'abound', 'collapse', 'explosion']",The Valley
+cast,"['vomit', 'sick', 'spew', 'plaster_cast', 'shape', 'be_sick', 'project', 'ramble', 'hurtle', 'rove', 'hurl', 'shed', 'regurgitate', 'disgorge', 'drift', 'mould', 'cast_of_characters', 'regorge', 'wander', 'tramp', 'contrive', 'throw_away', 'cast_off', 'couch', 'throw_up', 'draw', 'vomit_up', 'purge', 'cat', 'range', 'shake_off', 'puke', 'roam', 'put', 'upchuck', 'casting', 'vagabond', 'throw', 'plaster_bandage', 'swan', 'retch', 'stamp', 'barf', 'form', 'drop', 'frame', 'cast', 'redact', 'dramatis_personae', 'throw_off', 'chuck', 'mold', 'spue', 'roll', 'stray', 'honk']",The Valley
+reassemble,['reassemble'],The Valley
+me,"['ME', 'Maine', 'Pine_Tree_State']",The Valley
+stepped,"['maltreat', 'abuse', 'step', 'tread', 'mistreat', 'ill-treat', 'ill-use', 'pace']",The Valley
+spray,"['spraying', 'nebuliser', 'sprayer', 'atomiser', 'nebulizer', 'atomizer', 'spray']",The Valley
+cleared,"['take_in', 'crystalize', 'realize', 'crystallize', 'top', 'crystallise', 'bring_in', 'absolved', 'vindicated', 'enlighten', 'acquit', 'crystalise', 'clear', 'exonerate', 'exonerated', 'sack_up', 'clear_up', 'elucidate', 'authorize', 'pull_in', 'exculpate', 'sack', 'discharge', 'assoil', 'shed_light_on', 'pass', 'sort_out', 'exculpated', 'solve', 'unclutter', 'gain', 'earn', 'net', 'illuminate', 'authorise', 'light_up', 'straighten_out', 'brighten', 'make', 'cleared', 'realise']",The Valley
+trample,"['trampling', 'tread', 'tread_down', 'tramp_down', 'trample']",The Valley
+time,"['clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'prison_term', 'time']",The Valley
+then,"['then', 'so', 'and_then', 'and_so']",The Valley
+hard,"['hard', 'grueling', 'punishing', 'firmly', 'laborious', 'tough', 'operose', 'unvoiced', 'gruelling', 'knockout', 'concentrated', 'backbreaking', 'heavy', 'voiceless', 'intemperate', 'arduous', 'heavily', 'surd', 'severely', 'intemperately', 'toilsome', 'difficult', 'severe', 'strong']",The Valley
+love,"['honey', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'enjoy', 'do_it', 'screw', 'have_sex', 'have_it_off', 'dearest', 'know', 'making_love', 'hump', 'bonk', 'have_a_go_at_it', 'erotic_love', 'lie_with', 'lovemaking', 'bed', 'love_life', 'have_it_away', 'have_intercourse', 'beloved', 'sexual_love', 'eff', 'passion', 'make_love', 'get_laid', 'bang', 'get_it_on', 'dear', 'jazz', 'sleep_together']",The Valley
+yards,"['yard', 'thou', 'cubic_yard', 'thousand', '1000', 'one_thousand', 'curtilage', 'G', 'chiliad', 'grounds', 'pace', 'railway_yard', 'railyard', 'M', 'grand', 'K']",The Valley
+fine,"['o.k.', 'fine', 'ticket', 'hunky-dory', 'exquisitely', 'ok', 'okay', 'finely', 'amercement', 'all_right', 'delicately', 'OK', 'alright', 'mulct', 'very_well']",The Valley
+years,"['age', 'eld', 'twelvemonth', 'long_time', 'years', 'class', 'yr', 'days', 'year', 'old_age', 'geezerhood']",The Valley
+line,"['billet', 'transmission_line', 'contrast', 'line', 'logical_argument', 'course', 'pipeline', 'phone_line', 'ancestry', 'origin', 'agate_line', 'assembly_line', 'blood', 'argument', 'furrow', 'crinkle', 'wrinkle', 'run_along', 'business', 'pedigree', 'product_line', 'line_of_credit', 'melodic_line', 'occupation', 'demarcation', 'draw', 'crease', 'line_of_merchandise', 'subscriber_line', 'line_of_work', 'line_of_business', 'melody', 'telephone_circuit', 'parentage', 'credit_line', 'job', 'melodic_phrase', 'production_line', 'blood_line', 'argumentation', 'bank_line', 'strain', 'cable', 'bloodline', 'describe', 'delineate', 'personal_credit_line', 'railway_line', 'telephone_line', 'rail_line', 'trace', 'descent', 'business_line', 'stemma', 'air', 'channel', 'short_letter', 'stock', 'line_of_reasoning', 'note', 'dividing_line', 'tune', 'line_of_products', 'line_of_descent', 'lineage', 'personal_line_of_credit', 'seam', 'communication_channel']",The Valley
+Rittenhouse,"['Rittenhouse', 'David_Rittenhouse']",The Valley
+meaning,"['think', 'stand_for', 'significance', 'intend', 'signify', 'import', 'pregnant', 'significant', 'imply', 'meaning', 'think_of', 'entail', 'substance', 'mean', 'have_in_mind', 'signification']",The Valley
+hoot,"['hiss', 'damn', ""tinker's_dam"", 'shit', 'razzing', 'Bronx_cheer', 'bird', 'razz', 'darn', 'red_cent', 'shucks', 'hoot', 'boo', ""tinker's_damn"", 'raspberry', 'snort']",The Valley
+provoked,"['enkindle', 'hassle', 'molest', 'harass', 'aggravated', 'elicit', 'stimulate', 'chevy', 'provoked', 'chivvy', 'harry', 'plague', 'fire', 'call_forth', 'beset', 'chevvy', 'evoke', 'arouse', 'kindle', 'raise', 'chivy', 'kick_up', 'provoke']",The Valley
+garden,['garden'],The Valley
+leaping,"['bounce', 'jump_off', 'jump', 'saltation', 'spring', 'leap', 'leaping', 'bound']",The Valley
+fled,"['flee', 'take_flight', 'fly']",The Valley
+mounted,"['go_up', 'rise', 'climb_on', 'mounted', 'put_on', 'hop_on', 'mount_up', 'get_on', 'climb_up', 'wax', 'jump_on', 'bestride', 'mount', 'ride', 'climb']",The Valley
+shaking,"['stimulate', 'excite', 'vibration', 'shaking', 'shake_off', 'palpitation', 'didder', 'shake', 'escape_from', 'quiver', 'trembling', 'agitate', 'judder', 'shakiness', 'shake_up', 'sway', 'throw_off', 'quivering', 'stir', 'rock']",The Valley
+saloon,"['ginmill', 'taproom', 'barroom', 'public_house', 'pothouse', 'saloon', 'sedan', 'pub', 'gin_mill', 'bar', 'taphouse']",The Valley
+alone,"['exclusively', 'solely', 'unparalleled', 'solitary', 'unaccompanied', 'lone', 'only', 'unique', 'unequalled', 'lonely', 'alone', 'solo', 'entirely', 'unequaled']",The Valley
+just,"['barely', 'precisely', 'simply', 'upright', 'only', 'exactly', 'scarce', 'equitable', 'hardly', 'just', 'scarcely', 'merely', 'just_now', 'good', 'but', 'fair']",The Valley
+spread,"['spread_head', 'broadcast', 'pass_around', 'spreading', 'distribute', 'disperse', 'feast', 'open', 'bedcover', 'spread_out', 'counterpane', 'go_around', 'cattle_farm', 'fan_out', 'bed_cover', 'ranch', 'spread', 'scatter', 'spreadhead', 'circularize', 'banquet', 'propagate', 'facing_pages', 'overspread', 'circulate', 'bedspread', 'cattle_ranch', 'bed_covering', 'gap', 'paste', 'diffuse', 'circularise', 'disseminate', 'dispersed', 'outspread', 'unfold']",The Valley
+wild,"['natural_state', 'tempestuous', 'wilderness', 'groundless', 'angry', 'waste', 'uncivilised', 'untamed', 'uncivilized', 'raging', 'crazy', 'dotty', 'baseless', 'violent', 'wild', 'rampantly', 'gaga', 'idle', 'savage', 'unwarranted', 'raving_mad', 'barbaric', 'godforsaken', 'furious', 'risky', 'unfounded', 'barbarian', 'fantastic', 'state_of_nature', 'hazardous']",The Valley
+Cabot,"['Giovanni_Cabato', 'Cabot', 'Sebastian_Cabot', 'John_Cabot']",The Valley
+Oh,"['OH', 'Ohio', 'Buckeye_State']",The Valley
+over,"['over', 'all_over', ""o'er"", 'terminated', 'concluded', 'complete', 'ended']",The Valley
+arms,"['gird', 'branch', 'fortify', 'sleeve', 'arms', 'coat_of_arms', 'build_up', 'blazonry', 'weapon_system', 'munition', 'weapons_system', 'weaponry', 'weapon', 'subdivision', 'blazon', 'limb', 'arm', 'implements_of_war']",The Valley
+Roy,[],The Valley
+words,"['word', 'word_of_honor', 'Holy_Writ', 'run-in', 'row', 'parole', 'countersign', 'formulate', 'discussion', 'Word', 'give_voice', 'Holy_Scripture', 'lyric', 'intelligence', 'articulate', 'Book', 'words', ""actor's_line"", 'phrase', 'quarrel', 'watchword', 'Bible', 'Son', 'speech', 'language', 'news', 'Christian_Bible', 'Good_Book', 'give-and-take', 'Scripture', 'tidings', 'dustup', 'wrangle', 'password', 'Word_of_God', 'Logos']",The Valley
+go,"['exit', 'expire', 'give_out', 'live_on', 'go_game', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'disco_biscuit', 'proceed', 'hold_up', 'fling', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'whirl', 'XTC', 'crack', 'ecstasy', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'X', 'turn', 'hold_out', 'extend', 'croak', 'pass', 'die', 'lead', 'belong', 'start', 'get_going', 'run', 'function', 'choke', 'drop_dead', 'conk_out', 'cristal', 'travel', 'Adam', 'blend', 'hug_drug', 'tour', 'sound', 'pop_off', 'move', 'spell', 'rifle', 'survive', 'offer']",The Valley
+dawn,"['dawning', 'break_of_the_day', 'come_home', 'cockcrow', 'get_across', 'first_light', 'sunrise', 'morning', 'penetrate', 'break_of_day', 'sunup', 'fall_into_place', 'dawn', 'dayspring', 'aurora', 'sink_in', 'daybreak', 'get_through', 'click']",The Valley
+stored,"['store', 'salt_away', 'lay_in', 'stash_away', 'put_in', 'stack_away', 'hive_away']",The Valley
+now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']",The Valley
+contours,"['contour', 'form', 'shape', 'conformation', 'contour_line', 'configuration']",The Valley
+have,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'wealthy_person', 'induce', 'rich_person', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",The Valley
+tricked,"['flim-flam', 'fox', 'fob', 'play_tricks', 'pull_a_fast_one_on', 'play_a_joke_on', 'play_a_trick_on', 'trick']",The Valley
+believed,"['think', 'consider', 'conceive', 'believe', 'trust']",The Valley
+call,"['address', 'holler', 'phone_call', 'song', 'call_option', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'outcry', 'birdsong', 'Call', 'shout_out', 'foretell', 'claim', 'telephone_call', 'visit', 'telephone', 'cry', 'call_off', 'predict', 'birdcall', 'margin_call', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'vociferation', 'prognosticate', 'anticipate']",The Valley
+dirt,"['dirt', 'scandal', 'filth', 'crap', 'turd', 'malicious_gossip', 'grease', 'grime', 'stain', 'grunge', 'shite', 'poop', 'shit', 'ungraded', 'soil']",The Valley
+search,"['research', 'look_for', 'lookup', 'search', 'look', 'hunt', 'hunting', 'seek', 'explore']",The Valley
+her,[],The Valley
+fight,"['contend', 'push', 'fight_down', 'defend', 'battle', 'press', 'combat', 'fighting', 'scrap', 'competitiveness', 'agitate', 'struggle', 'conflict', 'oppose', 'crusade', 'fight', 'engagement', 'fight_back', 'campaign']",The Valley
+God,"['deity', 'immortal', 'divinity', 'graven_image', 'God', 'god', 'Supreme_Being', 'idol']",The Valley
+wonder,"['question', 'inquire', 'marvel', 'wonderment', 'enquire', 'curiosity', 'wonder', 'admiration']",The Valley
+quiet,"['serenity', 'tranquillity', 'calm', 'tranquil', 'placid', 'muted', 'unruffled', 'tranquility', 'hush', 'smooth', 'quieten', 'tranquilize', 'still', 'restrained', 'repose', 'calm_down', 'placidity', 'quiesce', 'tranquillise', 'quiet_down', 'tranquillize', 'subdued', 'pipe_down', 'hushed', 'silence', 'lull', 'quietly', 'quiet']",The Valley
+Gap,"['col', 'crack', 'gap', 'interruption', 'break', 'opening', 'disruption', 'breach', 'spread']",The Valley
+all,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']",The Valley
+desperately,"['desperately', 'urgently']",The Valley
+Just,"['barely', 'precisely', 'simply', 'upright', 'only', 'exactly', 'scarce', 'equitable', 'hardly', 'just', 'scarcely', 'merely', 'just_now', 'good', 'but', 'fair']",The Valley
+strong,"['hard', 'inviolable', 'warm', 'stiff', 'substantial', 'secure', 'impregnable', 'unattackable', 'potent', 'solid', 'firm', 'strong', 'unassailable']",The Valley
+groped,"['grope', 'fumble']",The Valley
+closed,"['closed', 'closed_in', 'come_together', 'unsympathetic', 'shut_down', 'close', 'unopen', 'fold', 'close_up', 'close_down', 'conclude', 'shut', 'fill_up']",The Valley
+tongue,"['tongue', 'spit', 'glossa', 'clapper', 'knife', 'lingua', 'natural_language']",The Valley
+First,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",The Valley
+my,[],The Valley
+vain,"['fruitless', 'egotistic', 'sleeveless', 'self-conceited', 'egotistical', 'swollen', 'bootless', 'conceited', 'vain', 'swollen-headed', 'futile']",The Valley
+bring,"['work', 'institute', 'take', 'make_for', 'play', 'bestow', 'impart', 'add', 'bring_in', 'fetch', 'wreak', 'lend', 'bring', 'land', 'contribute', 'convey', 'get']",The Valley
+didn't,[],The Valley
+catch,"['snatch', 'take_in', 'watch', 'overhear', 'view', 'entrance', 'grab', 'charm', 'catch_up_with', 'catch', 'haul', 'hitch', 'enchant', 'match', 'overtake', 'apprehension', 'trip_up', 'gimmick', 'enamour', 'pick_up', 'captivate', 'becharm', 'beguile', 'trance', 'arrest', 'take_hold_of', 'get', 'see', 'bewitch', 'collar', 'taking_into_custody', 'stop', 'fascinate', 'snap', 'pinch', 'enamor', 'capture']",The Valley
+slipped,"['dislocate', 'drop_off', 'fall_away', 'err', 'luxate', 'slue', 'slew', ""slip_one's_mind"", 'slip', 'mistake', 'sneak', 'steal', 'slide', 'splay', 'skid', 'drop_away']",The Valley
+fences,"['wall', 'debate', 'argue', 'fence_in', 'fence', 'contend', 'fencing', 'surround', 'palisade']",The Valley
+ago,"['ago', 'agone']",The Valley
+swept,"['sail', 'broom', 'brush', 'tangle', 'swept', 'traverse', 'swing', 'cross', 'span', 'embroil', 'drag', 'sweep', 'drag_in', 'sweep_up', 'swing_out']",The Valley
+loved,"['sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'enjoy', 'do_it', 'screw', 'have_sex', 'have_it_off', 'loved', 'know', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'get_laid', 'bang', 'jazz', 'sleep_together']",The Valley
+grow,"['mature', 'rise', 'maturate', 'grow', 'arise', 'raise', 'originate', 'farm', 'develop', 'turn', 'acquire', 'produce', 'uprise', 'spring_up', 'get']",The Valley
+patted,"['dab', 'chuck', 'pat']",The Valley
+nice,"['dainty', 'gracious', 'prissy', 'skillful', 'nice', 'squeamish', 'overnice', 'decent', 'Nice', 'courteous']",The Valley
+stallion,"['stallion', 'entire']",The Valley
+embrace,"['encompass', 'squeeze', 'hug', 'cover', 'bosom', 'adopt', 'embracement', 'embracing', 'embrace', 'comprehend', 'espouse', 'sweep_up']",The Valley
+framed,"['entrap', 'compose', 'ensnare', 'frame_in', 'border', 'put', 'frame_up', 'frame', 'cast', 'couch', 'framed', 'redact', 'draw_up', 'set_up']",The Valley
+though,['though'],The Valley
+sighed,"['suspire', 'sigh']",The Valley
+rump,"['ass', 'tush', 'backside', 'stern', 'croup', 'behind', 'butt', 'nates', 'fundament', 'tail_end', 'keister', 'rear_end', 'fanny', 'arse', 'hindquarters', 'seat', 'rump', 'bottom', 'rear', 'derriere', 'posterior', 'buttocks', 'croupe', 'can', 'buns', 'tail', 'tooshie', 'hind_end', 'prat', 'bum']",The Valley
+north,"['Second_Earl_of_Guilford', 'N', 'northerly', 'northwards', 'Frederick_North', 'Union', 'northward', 'magnetic_north', 'compass_north', 'due_north', 'North', 'north']",The Valley
+takin,"['takin', 'gnu_goat', 'Budorcas_taxicolor']",The Valley
+hugged,"['bosom', 'squeeze', 'embrace', 'hug']",The Valley
+ground,"['found', 'craunch', 'establish', 'mash', 'drudge', 'basis', 'labor', 'cranch', 'terra_firma', 'primer', 'dig', 'comminute', 'priming', 'primer_coat', 'run_aground', 'bray', 'priming_coat', 'ground', 'strand', 'toil', 'earth', 'flat_coat', 'undercoat', 'grate', 'fag', 'solid_ground', 'anchor', 'land', 'travail', 'grind', 'prime', 'moil', 'crunch', 'dry_land', 'reason', 'background', 'base', 'footing', 'labour', 'soil']",The Valley
+every,['every'],The Valley
+Gavin's,[],The Valley
+through,"['through', 'done', 'through_with', 'through_and_through']",The Valley
+greeted,"['greet', 'recognise', 'recognize']",The Valley
+That's,[],The Valley
+man,"['military_man', 'humanity', 'homo', 'world', 'Isle_of_Man', 'humans', 'Man', 'human_being', 'serviceman', 'piece', 'adult_male', 'valet', 'human_beings', 'human', ""gentleman's_gentleman"", 'man', 'human_race', 'valet_de_chambre', 'humankind', 'military_personnel', 'gentleman', 'mankind']",The Valley
+forward,"['forrader', 'forward-moving', 'fore', 'advancing', 'forwards', 'frontward', 'forrard', 'frontwards', 'forrad', 'forth', 'onward', 'onwards', 'forward', 'ahead', 'send_on']",The Valley
+flushed,"['purge', 'flush', 'even_out', 'level', 'blush', 'rosy', 'red-faced', 'reddened', 'rose-cheeked', 'redden', 'crimson', 'even', 'scour', 'rosy-cheeked', 'flushed', 'sluice', 'red']",The Valley
+air,"['aviation', 'ventilate', 'line', 'broadcast', 'air_out', 'publicize', 'air_travel', 'send', 'transmit', 'breeze', 'atmosphere', 'melodic_line', 'zephyr', 'melody', 'aura', 'publicise', 'airwave', 'vent', 'melodic_phrase', 'strain', 'gentle_wind', 'aerate', 'bare', 'beam', 'air', 'tune']",The Valley
+rally,"['beat_up', 'call_up', 'bait', 'taunt', 'come_up', 'rebound', 'exchange', 'tantalize', 'summon', 'razz', 'mass_meeting', 'tease', 'muster_up', 'tantalise', 'ride', 'muster', 'rally', 'rag', 'mobilize', 'rallying', 'twit', 'mobilise', 'cod', 'drum_up']",The Valley
+poker,"['salamander', 'poker', 'poker_game', 'stove_poker', 'fire_hook']",The Valley
+eyes,"['oculus', 'centre', 'middle', 'eyes', 'eyeball', 'center', 'optic', 'eye', 'heart']",The Valley
+working,"['knead', 'sour', 'play', 'shape', 'bring', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'workings', 'lick', 'act_upon', 'exploit', 'make_for', 'work_out', 'act', 'go', 'operative', 'figure_out', 'operate', 'influence', 'turn', 'process', 'functional', 'solve', 'run', 'function', 'running', 'form', 'working', 'crop', 'on_the_job', 'make', 'cultivate', 'forge', 'mold', 'puzzle_out']",The Valley
+cheek,"['boldness', 'impertinence', 'buttock', 'brass', 'impudence', 'cheek', 'face', 'nerve']",The Valley
+body,"['soundbox', 'dead_body', 'consistency', 'personify', 'consistence', 'body', 'trunk', 'eubstance', 'organic_structure', 'torso', 'physical_structure']",The Valley
+hoofs,"['foot', 'hoof_it', 'leg_it', 'hoof']",The Valley
+beckoned,"['wave', 'beckon']",The Valley
+it,"['IT', 'information_technology']",The Valley
+veranda,"['gallery', 'verandah', 'veranda']",The Valley
+valley,"['vale', 'valley']",The Valley
+Clayton's,[],The Valley
+dry,"['wry', 'dry', 'ironic', 'teetotal', 'dry_out', 'juiceless', 'prohibitionist', 'ironical']",The Valley
+Gavin,[],The Valley
+choked,"['exit', 'expire', 'kick_the_bucket', 'decease', 'choked', 'perish', 'choke_off', 'buy_the_farm', 'fret', 'back_up', 'conk', 'congest', 'snuff_it', 'foul', 'give-up_the_ghost', 'clog', 'go', 'pass_away', ""cash_in_one's_chips"", 'croak', 'strangle', 'die', 'pass', 'scrag', 'choke', 'drop_dead', 'stifle', 'gag', 'suffocate', 'throttle', 'clogged', 'pop_off', 'asphyxiate', 'clog_up']",The Valley
+Pettigrew,[],The Valley
+muttering,"['grumble', 'grumbling', 'mumble', 'mussitation', 'gnarl', 'murmur', 'croak', 'mutter', 'murmuration', 'murmuring', 'muttering', 'maunder', 'mussitate']",The Valley
+thinkin,[],The Valley
+behind,"['ass', 'behindhand', 'tush', 'backside', 'stern', 'behind', 'butt', 'nates', 'fundament', 'tail_end', 'keister', 'rear_end', 'fanny', 'arse', 'hindquarters', 'seat', 'rump', 'bottom', 'rear', 'derriere', 'posterior', 'buttocks', 'slow', 'can', 'in_arrears', 'buns', 'tail', 'tooshie', 'hind_end', 'prat', 'bum']",The Valley
+measured,"['quantify', 'mensural', 'deliberate', 'evaluate', 'mensurate', 'assess', 'value', 'metric', 'calculated', 'appraise', 'careful', 'metrical', 'valuate', 'mensurable', 'measured', 'measure', 'measure_out']",The Valley
+Two,"['two', 'deuce', 'II', 'ii', '2']",The Valley
+California,"['California', 'Calif.', 'CA', 'Golden_State']",The Valley
+yet,"['nonetheless', 'notwithstanding', 'withal', 'heretofore', 'in_time', 'even', 'up_to_now', 'yet', 'til_now', 'however', 'until_now', 'thus_far', 'still', 'so_far', 'all_the_same', 'as_yet', 'even_so', 'nevertheless', 'hitherto']",The Valley
+raised,"['enkindle', 'farm', 'elicit', 'bring_up', 'nurture', 'invoke', 'erect', 'raised', 'lift', 'grow', 'call_down', 'leaven', 'enhance', 'promote', 'recruit', 'advance', 'levy', 'kick_upstairs', 'parent', 'upgrade', 'put_forward', 'set_up', 'fire', 'upraise', 'rear', 'call_forth', 'embossed', 'conjure', 'elevate', 'brocaded', 'evoke', 'arouse', 'kindle', 'conjure_up', 'produce', 'raise', 'get_up', 'put_up', 'heighten', 'elevated', 'stir', 'resurrect', 'prove', 'provoke']",The Valley
+white,"['ovalbumin', 'Patrick_Victor_Martindale_White', 'albumen', 'whiten', 'ashen', 'White', 'Andrew_Dickson_White', 'egg_white', 'White_person', 'white', 'whitened', 'blanched', 'Theodore_Harold_White', 'Caucasian', 'White_River', 'Edward_D._White', 'Patrick_White', 'Stanford_White', 'clean', 'Elwyn_Brooks_White', 'snowy', 'bloodless', 'Edward_White', 'whiteness', 'tweed', 'gabardine', 'E._B._White', 'flannel', 'Edward_Douglas_White_Jr.', 'white-hot', 'blank', 'Andrew_D._White', 'T._H._White', 'livid', 'lily-white']",The Valley
+being,"['organism', 'comprise', 'beingness', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'being', 'existence', 'make_up', 'live', 'represent', 'exist']",The Valley
+wife,"['wife', 'married_woman']",The Valley
+baggy,"['sloppy', 'loose-fitting', 'baggy']",The Valley
+swung,"['swing_over', 'drop', 'swing', 'sway', 'get_around', 'sweep', 'dangle', 'swing_out']",The Valley
+gold,"['amber', 'golden', 'atomic_number_79', 'gilt', 'gilded', 'Au', 'gold', 'aureate']",The Valley
+jerked,"['hitch', 'flick', 'jerk', 'twitch', 'yank', 'buck']",The Valley
+guilt,"['guiltiness', 'guilt', 'guilty_conscience', 'guilt_trip', 'guilt_feelings']",The Valley
+feeling,"['experience', 'impression', 'sense', 'flavour', 'find', 'tactile_sensation', 'belief', 'finger', 'touch', 'feel', 'notion', 'feeling', 'spirit', 'tactual_sensation', 'palpate', 'opinion', 'intuitive_feeling', 'touch_sensation', 'flavor', 'look', 'smell', 'tone']",The Valley
+hot,"['raging', 'spicy', 'red-hot', 'hot', 'blistering', 'live']",The Valley
+when,[],The Valley
+wiped,"['wipe', 'pass_over']",The Valley
+remember,"['think', 'retrieve', 'commend', 'recollect', 'call_up', 'commemorate', 'think_of', 'call_back', 'think_back', 'remember', 'recall']",The Valley
+easy,"['gentle', 'well-situated', 'promiscuous', 'wanton', 'slowly', 'soft', 'well-fixed', 'sluttish', 'prosperous', 'well-off', 'well-to-do', 'tardily', 'easily', 'light', 'slow', 'easy', 'leisurely', 'well-heeled', 'loose', 'easygoing', 'comfortable']",The Valley
+knot,"['nautical_mile', 'mile', 'tangle', 'knot', 'burl', 'air_mile', 'grayback', 'naut_mi', 'Calidris_canutus', 'gnarl', 'greyback', 'ravel', 'international_nautical_mile', 'slub', 'mi']",The Valley
+nor,[],The Valley
+primeval,"['primal', 'primeval', 'primaeval', 'aboriginal', 'primordial']",The Valley
+Ahead,"['in_the_lead', 'forrader', 'before', 'beforehand', 'in_front', 'forwards', 'leading', 'onward', 'onwards', 'out_front', 'in_advance', 'forward', 'ahead']",The Valley
+sank,"['drop', 'sink', 'subside', 'fall_off', 'settle', 'slump', 'slide_down', 'drop_down', 'pass', 'bury', 'dip', 'lapse', 'go_down', 'go_under']",The Valley
+brother's,[],The Valley
+with,[],The Valley
+trees,"['tree_diagram', 'Sir_Herbert_Beerbohm_Tree', 'tree', 'shoetree', 'Tree', 'corner']",The Valley
+treats,"['goody', 'address', 'dainty', 'care_for', 'delicacy', 'cover', 'treat', 'handle', 'process', 'plow', 'do_by', 'kickshaw', 'deal', 'regale']",The Valley
+flung,"['put_away', 'dispose', 'cast_out', 'toss', 'throw_out', 'splurge', 'toss_out', 'fling', 'discard', 'throw_away', 'cast_away', 'cast_aside', 'chuck_out', 'toss_away']",The Valley
+he,"['atomic_number_2', 'he', 'He', 'helium']",The Valley
+own,"['ain', 'have', 'possess', 'own']",The Valley
+one,"['i', 'matchless', 'one_and_only', '1', 'single', 'unmatched', 'nonpareil', 'unmatchable', 'unity', 'unrivaled', 'peerless', 'unrivalled', 'ane', 'one', 'ace', 'I', 'unitary']",The Valley
+--,[],The Valley
+You,[],The Valley
+cinches,"['breeze', 'duck_soup', 'cinch', ""child's_play"", 'walkover', 'girth', 'pushover', 'snap', 'piece_of_cake', 'picnic']",The Valley
+trail,"['trail', 'hang_back', 'shack', 'train', 'chase', 'tag', 'tail', 'give_chase', 'track', 'dog', 'drop_behind', 'chase_after', 'drop_back', 'drag', 'lead', 'go_after', 'get_behind']",The Valley
+one's,[],The Valley
+ridge,"['rooftree', 'ridgepole', 'ridge', 'ridgeline']",The Valley
+Splendide,[],The Valley
+Tom,"['tomcat', 'gobbler', 'turkey_cock', 'Uncle_Tom', 'tom_turkey', 'Tom', 'tom']",The Valley
+feel,"['experience', 'finger', 'spirit', 'feeling', 'flavor', 'look', 'flavour', 'sense', 'smell', 'find', 'feel', 'tone', 'tactile_property', 'palpate']",The Valley
+lined,"['describe', 'line', 'delineate', 'seamed', 'draw', 'lined', 'trace', 'run_along']",The Valley
+side,"['slope', 'position', 'incline', 'face', 'side_of_meat', 'side', 'English']",The Valley
+mean,"['average', 'think', 'signify', 'have_in_mind', 'mingy', 'meanspirited', 'stand_for', 'think_of', 'entail', 'mean', 'mean_value', 'beggarly', 'miserly', 'bastardly', 'hateful', 'intend', 'imply', 'tight', 'base']",The Valley
+way,"['means', 'agency', 'direction', 'elbow_room', 'right_smart', 'style', 'way', 'fashion', 'path', 'way_of_life', 'mode', 'manner', 'room']",The Valley
+ridden,"['bait', 'turn_on', 'taunt', 'tantalize', 'razz', 'hinge_upon', 'tease', 'sit', 'tantalise', 'depend_on', 'mount', 'ride', 'hinge_on', 'rally', 'devolve_on', 'rag', 'twit', 'drive', 'cod', 'depend_upon']",The Valley
+manes,"['mane', 'head_of_hair', 'man', 'Manes']",The Valley
+began,"['set_out', 'get_down', 'lead_off', 'start_out', 'commence', 'set_about', 'start', 'begin', 'get']",The Valley
+moon's,[],The Valley
+water,"['H2O', 'piss', 'irrigate', 'water_system', 'urine', 'water', 'pee', 'body_of_water', 'weewee', 'piddle', 'water_supply']",The Valley
+snow,"['Snow', 'blow', 'play_false', 'Baron_Snow_of_Leicester', 'coke', 'nose_candy', 'C', 'snow', 'lead_by_the_nose', 'C._P._Snow', 'bamboozle', 'hoodwink', 'snowfall', ""pull_the_wool_over_someone's_eyes"", 'Charles_Percy_Snow']",The Valley
+horse,"['cavalry', 'gymnastic_horse', 'knight', 'horse_cavalry', 'Equus_caballus', 'horse', 'sawhorse', 'buck', 'sawbuck']",The Valley
+tried,"['judge', 'try', 'attempt', 'tried_and_true', 'essay', 'adjudicate', 'tested', 'try_on', 'well-tried', 'time-tested', 'try_out', 'render', 'seek', 'strain', 'sample', 'examine', 'tried', 'taste', 'test', 'assay', 'hear', 'stress', 'prove']",The Valley
+gray,"['Asa_Gray', 'Thomas_Gray', 'Gray', 'greyness', 'grey-haired', 'gray-haired', 'white-haired', 'Robert_Gray', 'greyish', 'hoar', 'Gy', 'gray', 'grayness', 'grey-headed', 'Louis_Harold_Gray', 'hoary', 'grizzly', 'gray-headed', 'grey', 'grayish']",The Valley
+not,"['not', 'non']",The Valley
+post,"['billet', 'situation', 'send', 'stake', 'Emily_Price_Post', 'position', 'C._W._Post', 'carry', 'office', 'Charles_William_Post', 'Emily_Post', 'brand', 'berth', 'place', 'station', 'mail', 'Wiley_Post', 'postal_service', 'post', 'Post', 'mail_service', 'put_up', 'military_post', 'spot']",The Valley
+inert,"['soggy', 'inert', 'neutral', 'torpid', 'sluggish', 'indifferent']",The Valley
+reins,"['rule', 'rein', 'draw_rein', 'rein_in', 'harness']",The Valley
+stuck,"['sting', 'stick', 'bond', 'cohere', 'adhere', 'stand_by', 'stay', 'hold_fast', 'baffle', 'stay_put', 'cling', 'amaze', 'deposit', 'mystify', 'bewilder', 'get', 'lodge', 'stick_by', 'beat', 'perplex', 'vex', 'nonplus', 'gravel', 'bind', 'stupefy', 'cleave', 'pose', 'flummox', 'stick_to', 'puzzle', 'wedge', 'stuck', 'stick_around', 'dumbfound']",The Valley
+new,"['unexampled', 'newfangled', 'young', 'freshly', 'fresh', 'New', 'newly', 'novel', 'new', 'raw', 'Modern']",The Valley
+again,"['once_more', 'again', 'over_again', 'once_again']",The Valley
+in,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",The Valley
+that,[],The Valley
+Thirty-six,"['xxxvi', '36', 'thirty-six']",The Valley
+kill,"['vote_down', 'defeat', 'down', 'drink_down', 'belt_down', 'killing', 'shoot_down', 'bolt_down', 'pour_down', 'obliterate', 'pop', 'putting_to_death', 'wipe_out', 'stamp_out', 'vote_out', 'kill', 'toss_off']",The Valley
+slightly,"['slightly', 'slenderly', 'somewhat', 'slimly', 'more_or_less']",The Valley
+you,[],The Valley
+Jack,"['seaman', 'Jack', 'tar', 'knave', 'laborer', 'diddley', 'squat', 'jack_up', 'jak', 'jacklight', 'diddly', 'doodly-squat', 'mariner', 'diddly-shit', 'diddlyshit', 'jackfruit', 'seafarer', 'gob', 'manual_laborer', 'diddlysquat', 'jack', 'jackstones', 'Jack-tar', 'old_salt', 'diddly-squat', 'labourer', 'sea_dog', 'shit', 'jackass']",The Valley
+swooped,"['pounce', 'swoop_up', 'swoop']",The Valley
+this,[],The Valley
+can't,[],The Valley
+;,[],The Valley
+To,[],The Valley
+he's,[],The Valley
+yard,"['yard', 'thou', 'cubic_yard', 'thousand', '1000', 'one_thousand', 'curtilage', 'G', 'chiliad', 'grounds', 'pace', 'railway_yard', 'railyard', 'M', 'grand', 'K']",The Valley
+goin,[],The Valley
+crazy,"['unhinged', 'gaga', 'softheaded', 'crazy', 'half-baked', 'sick', 'dotty', 'loony', 'wild', 'nutcase', 'mad', 'brainsick', 'screwball', 'demented', 'unbalanced', 'looney', 'weirdo', 'disturbed']",The Valley
+streamed,"['pour', 'rain_cats_and_dogs', 'rain_buckets', 'stream', 'pelt', 'pullulate', 'swarm', 'teem', 'well_out']",The Valley
+chair,"['chairwoman', 'president', 'death_chair', 'moderate', 'chairperson', 'chairman', 'chair', 'electric_chair', 'lead', 'hot_seat', 'professorship']",The Valley
+There's,[],The Valley
+bumping,"['bump', 'knock', 'demote', 'find', 'break', 'encounter', 'relegate', 'happen', 'dislodge', 'chance', 'kick_downstairs']",The Valley
+ambushed,"['scupper', 'lurk', 'ambuscade', 'ambush', 'still-hunt', 'waylay', 'bushwhack', 'lie_in_wait']",The Valley
+shadowed,"['shady', 'umbrageous', 'shade', 'dwarf', 'overshadow', 'shadow', 'shade_off', 'shadowed', 'shadowy']",The Valley
+shelter,"['shelter', 'protection', 'tax_shelter']",The Valley
+wan,"['sick', 'pallid', 'pale', 'WAN', 'wide_area_network', 'wan']",The Valley
+crying,"['holler', 'weeping', 'tears', 'shout', 'glaring', 'clamant', 'instant', 'scream', 'gross', 'outcry', 'weep', 'shout_out', 'egregious', 'cry_out', 'crying', 'exclaim', 'flagrant', 'rank', 'cry', 'watchword', 'hollo', 'war_cry', 'call', 'call_out', 'exigent', 'squall', 'insistent', 'yell', 'rallying_cry', 'vociferation', 'battle_cry', 'blazon_out']",The Valley
+Cabot's,[],The Valley
+throat,"['throat', 'pharynx']",The Valley
+Start,"['offset', 'protrude', 'take_off', 'lead_off', 'commencement', 'get-go', 'set_about', 'commence', 'starting', 'bulge', 'initiate', 'take_up', 'originate', 'showtime', 'start_out', 'start_up', 'startle', 'starting_signal', 'get', 'come_out', 'part', 'kickoff', 'starting_time', 'jump', 'get_down', 'depart', 'go', 'first', 'head_start', 'pop_out', 'beginning', 'get_going', 'outset', 'scratch', 'bulge_out', 'start', 'pop', 'begin', 'bug_out', 'set_out', 'embark_on', 'set_forth', 'scratch_line', 'starting_line', 'set_off']",The Valley
+whipped,"['blister', 'flog', 'lather', 'worst', 'pip', 'scald', 'slash', 'strap', 'trounce', 'whip', 'mop_up', 'lash', 'whisk', 'welt', 'rack_up']",The Valley
+corridor,['corridor'],The Valley
+",",[],The Valley
+pines,"['ache', 'pine_tree', 'languish', 'pine', 'trap', 'true_pine', 'immobilise', 'pin', 'yen', 'yearn', 'immobilize']",The Valley
+it's,[],The Valley
+two,"['two', 'deuce', 'II', 'ii', '2']",The Valley
+before,"['in_front', 'ahead', 'earlier', 'before']",The Valley
+thing,"['thing', 'affair', 'matter']",The Valley
+only,"['exclusively', 'only_if', 'solely', 'solitary', 'simply', 'only_when', 'lone', 'only', 'lonesome', 'alone', 'just', 'merely', 'entirely', 'sole', 'but']",The Valley
+quivering,"['vibration', 'palpitate', 'quiver', 'shaking', 'waver', 'flutter', 'flicker', 'shakiness', 'flitter', 'trembling', 'pulsate', 'beat', 'quake', 'quivering', 'palpitation']",The Valley
+waked,"['inflame', 'awake', 'arouse', 'awaken', 'waken', 'rouse', 'wake_up', 'stir_up', 'fire_up', 'come_alive', 'wake', 'heat', 'ignite']",The Valley
+huskily,"['huskily', 'hoarsely']",The Valley
+fearfully,['fearfully'],The Valley
+lifted,"['rise', 'upraised', 'hook', 'reverse', 'hoist', 'sneak', 'bring_up', 'come_up', 'go_up', 'countermand', 'lift', 'purloin', 'rustle', 'overturn', 'abstract', 'revoke', 'cabbage', 'snarf', 'filch', 'vacate', 'rear', 'annul', 'move_up', 'repeal', 'elevate', 'face-lift', 'pilfer', 'rescind', 'airlift', 'swipe', 'raise', 'arise', 'get_up', 'plagiarise', 'plagiarize', 'nobble', 'wind', 'pinch', 'uprise', 'lifted']",The Valley
+death,"['death', 'end', 'destruction', 'expiry', 'Death', 'decease', 'last', 'dying', 'demise']",The Valley
+did,"['behave', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",The Valley
+cloying,"['treacly', 'pall', 'cloying', 'surfeit', 'cloy', 'syrupy', 'saccharine']",The Valley
+powerless,['powerless'],The Valley
+Lester's,[],The Valley
+these,[],The Valley
+They,[],The Valley
+circle,"['lap', 'encircle', 'forget_me_drug', 'rope', 'circle', 'band', 'Mexican_valium', 'roofy', 'round', 'rophy', 'lot', 'circuit', 'circulate', 'roundabout', 'traffic_circle', 'rotary', 'dress_circle', 'roach', 'set', 'R-2']",The Valley
+so,"['then', 'and_then', 'thusly', 'indeed', 'hence', 'sol', 'therefore', 'thence', 'and_so', 'so', 'soh', 'thus']",The Valley
+high,"['senior_high_school', 'in_high_spirits', 'gamy', 'luxuriously', 'senior_high', 'highschool', 'high-pitched', 'high_up', 'heights', 'gamey', 'mellow', 'high', 'high_school', 'high_gear', 'eminent', 'richly']",The Valley
+his,[],The Valley
+finger,"['finger', 'digit', 'fingerbreadth', ""finger's_breadth"", 'feel', 'thumb']",The Valley
+they'd,[],The Valley
+stiff,"['soaked', 'sloshed', 'squiffy', 'crocked', 'loaded', 'pie-eyed', 'slopped', 'pissed', 'cockeyed', 'stiff', 'remains', 'wet', 'steadfast', 'unshakable', 'potent', 'fuddled', 'starchy', 'cadaver', 'unfaltering', 'pixilated', 'unbendable', 'buckram', 'rigid', 'soused', 'firm', 'clay', 'tight', 'unwavering', 'plastered', 'sozzled', 'besotted', 'smashed', 'corpse', 'blotto', 'steady', 'blind_drunk', 'strong', 'stiffly']",The Valley
+smirk,"['smirk', 'simper']",The Valley
+where,[],The Valley
+rustle,"['whisper', 'lift', 'whispering', 'rustle', 'rustling']",The Valley
+fallen,"['accrue', 'return', 'precipitate', 'strike', 'decrease', 'flow', 'fall_down', 'settle', 'shine', 'come', 'fallen', 'devolve', 'hang', 'descend', 'come_down', 'fall', 'pass', 'light', 'go_down', 'diminish', 'lessen']",The Valley
+sped,"['hotfoot', 'belt_along', 'race', 'rush', 'travel_rapidly', 'rush_along', 'hie', 'speed_up', 'hasten', 'cannonball_along', 'pelt_along', 'quicken', 'step_on_it', 'hurry', 'bucket_along', 'zip', 'speed', 'accelerate']",The Valley
+drinking,"['wassail', 'toast', 'tope', 'drink_in', 'fuddle', 'imbibe', 'pledge', 'booze', 'drink', 'salute', 'drunkenness', 'drinking', 'boozing', 'imbibing', 'imbibition', 'crapulence']",The Valley
+peaceful,"['passive', 'peaceful', 'peaceable']",The Valley
+streams,"['current', 'pour', 'rain_cats_and_dogs', 'watercourse', 'rain_buckets', 'stream', 'pelt', 'well_out', 'pullulate', 'swarm', 'teem', 'flow']",The Valley
+red,"['cerise', 'blood-red', 'ruby', 'reddened', 'loss', 'Red_River', 'red-faced', 'red_ink', 'violent', 'redness', 'crimson', 'red', 'reddish', 'cherry-red', 'cherry', 'bolshie', 'ruby-red', 'flushed', 'Bolshevik', 'ruddy', 'scarlet', 'Marxist', 'bolshy', 'Red', 'carmine']",The Valley
+there,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']",The Valley
+told,"['recite', 'distinguish', 'enjoin', 'severalize', 'evidence', 'tell', 'recount', 'say', 'tell_apart', 'order', 'severalise', 'secern', 'state', 'separate', 'narrate', 'secernate', 'assure', 'differentiate']",The Valley
+shattering,"['shatter', 'shattering', 'smashing']",The Valley
+see,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'assure', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'come_across', 'figure', 'picture', 'examine', 'construe', 'go_out', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",The Valley
+'',[],The Valley
+blanket,"['all-embracing', 'panoptic', 'extensive', 'cover', 'blanket', 'across-the-board', 'mantle', 'all-encompassing', 'encompassing', 'wide', 'broad', 'all-inclusive']",The Valley
+what,[],The Valley
+No,"['atomic_number_102', 'No', 'nobelium', 'no', 'no_more']",The Valley
+fleeing,"['flee', 'take_flight', 'fly']",The Valley
+English,"['English_people', 'English_language', 'side', 'English']",The Valley
+place,"['billet', 'come_in', 'piazza', 'topographic_point', 'order', 'property', 'shoes', 'situation', 'stead', 'send', 'position', 'localize', 'rate', 'invest', 'office', 'identify', 'commit', 'rank', 'range', 'seat', 'come_out', 'blank_space', 'put', 'aim', 'locate', 'berth', 'plaza', 'place', 'station', 'space', 'direct', 'home', 'pose', 'target', 'point', 'post', 'grade', 'localise', 'lay', 'site', 'spot', 'lieu', 'set']",The Valley
+grass,"['sess', 'dope', 'betray', 'locoweed', 'grass_over', 'Gunter_Wilhelm_Grass', 'weed', 'sens', 'Gunter_Grass', 'forage', 'denounce', 'give_away', 'skunk', 'supergrass', 'grass', 'green_goddess', 'pot', 'eatage', 'pasture', 'Mary_Jane', 'snitch', 'shop', 'shit', 'stag', 'Grass', 'smoke', 'tell_on', 'rat', 'pasturage', 'gage']",The Valley
+You're,[],The Valley
+meant,"['think', 'stand_for', 'signify', 'intend', 'imply', 'think_of', 'entail', 'mean', 'have_in_mind']",The Valley
+brooding,"['bulk_large', 'hatch', 'pensive', 'stew', 'meditative', 'brood', 'sulk', 'incubate', 'cover', 'ruminative', 'grizzle', 'broody', 'pout', 'dwell', 'loom', 'pensiveness', 'reflective', 'hover', 'contemplative', 'musing', 'brooding', 'incubation', 'pondering']",The Valley
+thinking,"['think', 'imagine', 'retrieve', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'thought', 'opine', 'intellection', 'mean', 'intelligent', 'consider', 'suppose', 'intend', 'believe', 'remember', 'thought_process', 'recall', 'reasoning', 'thinking', 'conceive', 'cerebrate', 'cerebration', 'mentation', 'call_back']",The Valley
+wouldn't,[],The Valley
+looked,"['appear', 'wait', 'see', 'search', 'look', 'front', 'take_care', 'attend', 'count', 'seem', 'depend', 'calculate', 'face', 'reckon', 'expect', 'await', 'bet']",The Valley
+excitement,"['upheaval', 'fervour', 'hullabaloo', 'inflammation', 'fervor', 'turmoil', 'excitation', 'excitement', 'exhilaration', 'agitation']",The Valley
+were,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",The Valley
+is,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",The Valley
+Clayton,[],The Valley
+riding,"['riding', 'bait', 'turn_on', 'taunt', 'tantalize', 'razz', 'rid', 'hinge_upon', 'equitation', 'tease', 'sit', 'tantalise', 'free', 'disembarrass', 'depend_on', 'horseback_riding', 'mount', 'ride', 'hinge_on', 'rally', 'devolve_on', 'rag', 'twit', 'drive', 'cod', 'depend_upon']",The Valley
+from,[],The Valley
+fresh,"['refreshing', 'saucy', 'fresh', 'bracing', 'impertinent', 'unused', 'brisk', 'reinvigorated', 'sassy', 'wise', 'novel', 'impudent', 'overbold', 'unfermented', 'clean', 'invigorated', 'freshly', 'tonic', 'refreshed', 'sweet', 'smart', 'newly', 'refreshful', 'new']",The Valley
+ranches,"['cattle_farm', 'ranch', 'spread', 'cattle_ranch']",The Valley
+absence,"['absence_seizure', 'absence']",The Valley
+low,"['broken', 'down', 'gloomy', 'low', 'moo', 'Sir_David_Alexander_Cecil_Low', 'low-pitched', 'scurvy', 'blue', 'depression', 'modest', 'dispirited', 'low-down', 'first_gear', 'humble', 'downcast', 'low-spirited', 'Sir_David_Low', 'small', 'abject', 'miserable', 'first', 'David_Low', 'lowly', 'humiliated', 'depressed', 'low-toned', 'Low', 'humbled', 'depleted', 'grim', 'low_gear', 'scummy', 'crushed', 'down_in_the_mouth', 'downhearted']",The Valley
+cheated,"['cheat', 'rip_off', 'shaft', 'wander', 'chicane', 'cuckold', 'cheat_on', 'betray', 'jockey', 'screw', 'chisel', 'chouse']",The Valley
+wearily,"['wearily', 'tiredly']",The Valley
+thought,"['think', 'sentiment', 'imagine', 'retrieve', 'view', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'thought', 'opine', 'intellection', 'mean', 'consider', 'suppose', 'intend', 'idea', 'believe', 'persuasion', 'remember', 'thought_process', 'recall', 'opinion', 'thinking', 'conceive', 'cerebrate', 'cerebration', 'mentation', 'call_back']",The Valley
+Can't,[],The Valley
+late,"['belatedly', 'lately', 'recent', 'later', 'tardy', 'deep', 'belated', 'tardily', 'latterly', 'former', 'recently', 'late', 'of_late', 'previous']",The Valley
+help,"['helper', 'assistant', 'assist', 'help_oneself', 'service', 'serve', 'supporter', 'assistance', 'aid', 'avail', 'help', 'facilitate']",The Valley
+if,[],The Valley
+There,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']",The Valley
+grunted,['grunt'],The Valley
+bones,"['os', 'drum', 'off-white', 'castanets', 'swot', 'bones', 'finger_cymbals', 'bone', 'swot_up', 'osseous_tissue', 'mug_up', 'pearl', 'grind_away', 'clappers', 'get_up', 'debone', 'bone_up', 'cram', 'ivory']",The Valley
+reveal,"['unwrap', 'discover', 'expose', 'let_on', 'bring_out', 'reveal', 'divulge', 'break', 'uncover', 'let_out', 'give_away', 'unveil', 'disclose']",The Valley
+clouds,"['overcast', 'cloud', 'taint', 'fog', 'becloud', 'corrupt', 'dapple', 'befog', 'mottle', 'mist', 'sully', 'obscure', 'swarm', 'haze_over', 'defile', 'obnubilate']",The Valley
+violet,"['purplish', 'violet', 'purple', 'reddish_blue']",The Valley
+isn't,[],The Valley
+would,[],The Valley
+us,"['America', 'U.S.', 'uracil', 'the_States', 'United_States', 'u', 'United_States_of_America', 'uranium', 'US', 'atomic_number_92', 'U', 'U.S.A.', 'USA']",The Valley
+your,[],The Valley
+turf,"['sod', 'sward', 'turf', 'greensward']",The Valley
+oppressed,"['oppressed', 'persecute', 'crush', 'laden', 'oppress', 'suppress']",The Valley
+across,"['crosswise', 'across', 'crossways']",The Valley
+himself,[],The Valley
+streaks,"['streak', 'mottle', 'bar', 'stripe', 'run', 'blotch']",The Valley
+shook,"['stir', 'judder', 'shook', 'shake_up', 'stimulate', 'sway', 'agitate', 'excite', 'rock', 'throw_off', 'shake_off', 'didder', 'escape_from', 'shake']",The Valley
+was,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'WA', 'Washington', 'make_up', 'Evergreen_State', 'live', 'represent', 'exist']",The Valley
+boy,"['son', 'boy', 'male_child']",The Valley
+passing,"['ephemeral', 'slip_away', 'travel_by', 'passage', 'cursory', 'pass_by', 'excrete', 'fugacious', 'happen', 'go_along', 'give-up_the_ghost', 'go', 'passing_game', 'croak', 'go_past', 'pass', 'run', 'hap', 'authorise', 'transcend', 'go_across', 'departure', 'fleet', 'extremely', 'overstep', 'occur', 'short-lived', 'overtake', 'exceed', 'glide_by', 'pass_off', 'legislate', 'draw', 'authorize', 'overtaking', 'go_through', 'surpass', 'give', 'release', 'egest', 'die', 'lead', 'guide', 'fade', 'passing_play', 'drop_dead', 'hand', 'reach', 'pop_off', 'go_by', 'exit', 'expire', 'return', 'expiration', 'perish', 'evanesce', 'loss', 'exceedingly', 'overhaul', 'pass_on', 'devolve', 'snuff_it', 'make_pass', 'lapse', 'going', 'pass_away', 'passing', 'extend', 'eliminate', 'go_on', 'transitory', 'communicate', 'sink', 'put_across', 'slide_by', 'blow_over', 'come_about', 'top', 'kick_the_bucket', 'decease', 'elapse', 'spend', 'clear', 'qualifying', 'buy_the_farm', 'conk', 'make_it', 'perfunctory', 'transient', 'pass_along', 'fall_out', ""cash_in_one's_chips"", 'fall', 'take_place', 'slip_by', 'turn_over', 'choke', 'super', 'casual']",The Valley
+land,"['estate', 'Land', 'down', 'farming', 'landed_estate', 'bring', 'body_politic', 'set_ashore', 'nation', 'terra_firma', 'commonwealth', 'set_down', 'demesne', 'shore', 'kingdom', 'res_publica', 'Din_Land', 'ground', 'Edwin_Herbert_Land', 'earth', 'realm', 'domain', 'solid_ground', 'land', 'acres', 'dry_land', 'country', 'put_down', 'shoot_down', 'state', 'bring_down', 'soil']",The Valley
+gone,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'foregone', 'conk', 'proceed', 'hold_up', 'fit', 'bypast', 'run_low', 'bygone', 'done_for', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'at_rest', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'kaput', 'run', 'function', 'gone', 'at_peace', 'choke', 'drop_dead', 'departed', 'travel', 'blend', 'asleep', 'sound', 'pop_off', 'move', 'deceased', 'rifle', 'survive']",The Valley
+slow,"['dim', 'slowly', 'slow_down', 'behind', 'slow_up', 'dumb', 'slacken', 'retard', 'ho-hum', 'tedious', 'tardily', 'obtuse', 'irksome', 'tiresome', 'wearisome', 'deadening', 'slow', 'easy', 'decelerate', 'dense', 'boring', 'sluggish', 'slack', 'dull']",The Valley
+ride,"['bait', 'turn_on', 'taunt', 'tantalize', 'razz', 'hinge_upon', 'tease', 'sit', 'tantalise', 'depend_on', 'mount', 'ride', 'hinge_on', 'rally', 'devolve_on', 'rag', 'twit', 'drive', 'cod', 'depend_upon']",The Valley
+safe,"['rubber', 'prophylactic', 'secure', 'dependable', 'condom', 'good', 'safety', 'safe']",The Valley
+:,[],The Valley
+town,"['Ithiel_Town', 'town', 'township', 'Town', 'townsfolk', 'townspeople']",The Valley
+broke,"['snap_off', 'split_up', 'get_around', 'fail', 'wear_out', 'split', 'let_on', 'break_up', 'collapse', 'smash', 'intermit', 'go', 'fracture', 'come_apart', 'break_dance', 'bump', 'recrudesce', 'offend', 'stone-broke', 'skint', 'erupt', 'transgress', 'ruin', 'pause', 'break_out', 'go_bad', 'demote', 'weaken', 'give_away', 'break_in', 'part', 'give', 'interrupt', 'expose', 'give_way', 'infract', 'fall_in', 'die', 'bankrupt', 'better', 'stony-broke', 'break_off', 'soften', 'disclose', 'damp', 'give_out', 'discover', 'develop', 'cave_in', 'get_out', 'bring_out', 'reveal', 'bust', 'separate', 'break_down', 'crack', 'conk_out', 'let_out', 'breach', 'dampen', 'go_against', 'violate', 'break-dance', 'broke', 'check', 'fall_apart', 'break', 'discontinue', 'unwrap', 'relegate', 'founder', 'break_away', 'stop', 'wear', 'burst', 'divulge', 'kick_downstairs']",The Valley
+In,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",The Valley
+dark,"['sorry', 'sour', 'colored', 'gloomy', 'night', 'nighttime', 'saturnine', 'dark-skinned', 'sinister', 'glowering', 'disconsolate', 'blue', 'moody', 'drab', 'iniquity', 'dour', 'darkness', 'non-white', 'morose', 'dismal', 'black', 'glum', 'dingy', 'drear', 'sullen', 'wickedness', 'coloured', 'benighted', 'grim', 'dreary', 'dark', 'shadow', 'obscure']",The Valley
+``,[],The Valley
+stallion's,[],The Valley
+far,"['FAR', 'ALIR', 'Interahamwe', 'Army_for_the_Liberation_of_Rwanda', 'far', 'Former_Armed_Forces']",The Valley
+ready,"['quick', 'cook', 'fix', 'make', 'ready', 'gear_up', 'prepare', 'set_up', 'set']",The Valley
+fanned,"['winnow', 'spread-out', 'fan', 'fanned']",The Valley
+Thirty-five,"['thirty-five', 'xxxv', '35']",The Valley
+soon,"['before_long', 'soon', 'presently', 'shortly']",The Valley
+purpose,"['design', 'aim', 'use', 'role', 'purport', 'resolve', 'intention', 'intent', 'purpose', 'determination', 'propose', 'function']",The Valley
+rock,"[""rock'n'roll"", 'rock_candy', 'stone', ""rock_'n'_roll"", 'shake', 'rock-and-roll', 'rock_and_roll', 'John_Rock', 'sway', 'tilt', 'rock_music', 'careen', 'Rock', 'rock']",The Valley
+bent,"['turn_away', 'bend', 'out_to', 'stoop', 'dead_set', 'deform', 'bent_grass', 'bent-grass', 'flex', 'crouch', 'hang', 'knack', 'dented', 'turn', 'bow', 'bent_on', 'crumpled', 'deflect', 'bended', 'twist', 'set', 'bent']",The Valley
+fair,"['bonnie', 'average', 'bazaar', 'carnival', 'clean', 'sightly', 'fairly', 'fairish', 'reasonable', 'bonny', 'comely', 'mediocre', 'middling', 'just', 'honest', 'evenhandedly', 'funfair', 'fair']",The Valley
+around,"['about', 'approximately', 'around', 'roughly', 'or_so', 'round', 'just_about', 'some', 'more_or_less', 'close_to']",The Valley
+hundred,"['hundred', 'century', 'C', 'one_C', 'one_hundred', '100', 'c']",The Valley
+anger,"['choler', 'wrath', 'anger', 'ire', 'see_red', 'ira', 'angriness']",The Valley
+.,[],The Valley
+paused,"['pause', 'break', 'intermit', 'hesitate']",The Valley
+why,"['why', 'wherefore']",The Valley
+night,"['Nox', 'dark', 'night', 'nighttime', 'Night']",The Valley
+clear,"['take_in', 'crystalize', 'realize', 'crystallize', 'top', 'crystallise', 'bring_in', 'absolved', 'vindicated', 'enlighten', 'acquit', 'crystalise', 'clear', 'exonerate', 'open', 'exonerated', 'percipient', 'sack_up', 'clear_up', 'elucidate', 'clear-cut', 'authorize', 'pull_in', 'exculpate', 'unclouded', 'clean', 'sack', 'unmortgaged', 'discharge', 'assoil', 'clean-cut', 'shed_light_on', 'pass', 'sort_out', 'light', 'solve', 'exculpated', 'well-defined', 'unclutter', 'gain', 'earn', 'net', 'illuminate', 'authorise', 'clearly', 'light_up', 'straighten_out', 'brighten', 'make', 'readable', 'cleared', 'realise', 'all_the_way', 'decipherable']",The Valley
+neck,"['cervix', 'make_out', 'neck_opening', 'neck']",The Valley
+wanted,"['require', 'want', 'cherished', 'treasured', 'need', 'desire', 'precious', 'wanted']",The Valley
+never,"[""ne'er"", 'never']",The Valley
+remembered,"['think', 'retrieve', 'commend', 'recollect', 'call_up', 'commemorate', 'think_of', 'call_back', 'think_back', 'remember', 'recall']",The Valley
+loyalty,"['dedication', 'commitment', 'allegiance', 'trueness', 'loyalty']",The Valley
+those,[],The Valley
+into,[],The Valley
+pennants,"['crown', 'pennon', 'streamer', 'waft', 'pennant']",The Valley
+want,"['deprivation', 'deficiency', 'want', 'lack', 'privation', 'wish', 'wishing', 'need', 'desire', 'neediness', 'require']",The Valley
+relationships,"['kinship', 'family_relationship', 'relationship', 'human_relationship']",The Valley
+shoulders,"['articulatio_humeri', 'shoulder', 'berm', 'shoulder_joint']",The Valley
+coldest,"['frigid', 'moth-eaten', 'cold-blooded', 'dusty', 'inhuman', 'stale', 'insensate', 'cold']",The Valley
+gashes,"['slash', 'gash', 'cut', 'slice']",The Valley
+pointed,"['level', 'head', 'channelise', 'taper', 'manoeuvre', 'charge', 'bespeak', 'steer', 'pointed', 'sharpen', 'aim', 'signal', 'designate', 'show', 'manoeuver', 'direct', 'place', 'guide', 'channelize', 'target', 'point', 'repoint', 'indicate', 'orient', 'betoken', 'luff', 'maneuver']",The Valley
+who,"['World_Health_Organization', 'WHO']",The Valley
+I,"['i', 'iodine', '1', 'single', 'iodin', 'unity', 'ane', 'one', 'ace', 'I', 'atomic_number_53']",The Valley
+His,[],The Valley
+passed,"['slip_away', 'travel_by', 'pass_by', 'excrete', 'happen', 'go_along', 'give-up_the_ghost', 'go', 'croak', 'go_past', 'pass', 'run', 'hap', 'authorise', 'transcend', 'go_across', 'fleet', 'overstep', 'occur', 'overtake', 'exceed', 'glide_by', 'pass_off', 'legislate', 'draw', 'authorize', 'go_through', 'surpass', 'give', 'egest', 'die', 'lead', 'guide', 'fade', 'drop_dead', 'hand', 'reach', 'pop_off', 'go_by', 'exit', 'expire', 'return', 'perish', 'evanesce', 'overhaul', 'pass_on', 'devolve', 'snuff_it', 'make_pass', 'lapse', 'pass_away', 'extend', 'eliminate', 'go_on', 'communicate', 'sink', 'put_across', 'slide_by', 'blow_over', 'come_about', 'top', 'kick_the_bucket', 'decease', 'elapse', 'spend', 'clear', 'buy_the_farm', 'conk', 'make_it', 'pass_along', 'fall_out', ""cash_in_one's_chips"", 'fall', 'take_place', 'slip_by', 'turn_over', 'choke']",The Valley
+old,"['old', 'one-time', 'erstwhile', 'sure-enough', 'Old', 'former', 'sometime', 'quondam', 'honest-to-goodness', 'honest-to-god', 'onetime', 'older', 'previous']",The Valley
+tired,"['commonplace', 'fatigue', 'play_out', 'hackneyed', 'bore', 'pall', 'wear_out', 'threadbare', 'jade', 'tired', 'exhaust', 'outwear', 'wear_upon', 'weary', 'fag', 'well-worn', 'shopworn', 'trite', 'run_down', 'fag_out', 'old-hat', 'wear', 'banal', 'tire', 'stock', 'tire_out', 'sap', 'wear_down', 'timeworn']",The Valley
+followed,"['watch', 'accompany', 'surveil', 'come_after', 'adopt', 'survey', 'observe', 'keep_abreast', 'stick_with', 'come', 'watch_over', 'play_along', 'keep_up', 'take_after', 'espouse', 'travel_along', 'abide_by', 'fall_out', 'trace', 'succeed', 'conform_to', 'comply', 'pursue', 'follow', 'stick_to', 'be', 'postdate', 'keep_an_eye_on']",The Valley
+an,"['Associate_in_Nursing', 'AN']",The Valley
+brought,"['work', 'institute', 'take', 'make_for', 'play', 'bestow', 'impart', 'add', 'bring_in', 'fetch', 'wreak', 'lend', 'bring', 'land', 'contribute', 'convey', 'get']",The Valley
+led,"['top', 'head', 'contribute', 'conduct', 'result', 'chair', 'take', 'LED', 'go', 'light-emitting_diode', 'moderate', 'extend', 'pass', 'direct', 'lead', 'run', 'guide', 'precede', 'conduce', 'leave']",The Valley
+heard,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'heard', 'get_wind', 'find_out']",The Valley
+others,[],The Valley
+plenty,"['sight', 'flock', 'spate', 'mickle', 'plenteousness', 'stack', 'quite_a_little', 'plentifulness', 'tidy_sum', 'raft', 'plentitude', 'deal', 'pile', 'mess', 'mint', 'wad', 'slew', 'passel', 'hatful', 'lot', 'mass', 'plenitude', 'enough', 'heap', 'plenty', 'great_deal', 'muckle', 'pot', 'good_deal', 'batch', 'mountain', 'peck']",The Valley
+can,"['ass', 'tush', 'backside', 'give_the_sack', 'stern', 'bathroom', 'behind', 'canful', 'butt', 'nates', 'fundament', 'tail_end', 'privy', 'keister', 'send_away', 'dismiss', 'rear_end', 'fanny', 'give_the_axe', 'lav', 'potty', 'arse', 'john', 'fire', 'hindquarters', 'seat', 'rump', 'bottom', 'sack', 'throne', 'give_notice', 'rear', 'lavatory', 'displace', 'derriere', 'terminate', 'posterior', 'buttocks', 'can', 'can_buoy', 'pot', 'stool', 'crapper', 'buns', 'tail', 'tin', 'tooshie', 'commode', 'put_up', 'toilet', 'tin_can', 'force_out', 'hind_end', 'prat', 'bum']",The Valley
+heat,"['inflame', 'estrus', 'hotness', 'ignite', 'heat_energy', 'heating_plant', 'rut', 'heating_system', 'wake', 'hot_up', 'oestrus', 'high_temperature', 'stir_up', 'heat', 'passion', 'heating', 'fire_up', 'warmth', 'heat_up']",The Valley
+silence,"['hush', 'silence', 'secrecy', 'quieten', 'secretiveness', 'hush_up', 'shut_up', 'quiet', 'muteness', 'still']",The Valley
+hide,"['blot_out', 'conceal', 'hide', 'veil', 'fell', 'cover', 'pelt', 'skin', 'shroud', 'obscure', 'obliterate', 'enshroud', 'hide_out']",The Valley
+hear,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'get_wind', 'find_out']",The Valley
+leave,"['exit', 'pull_up_stakes', 'will', 'provide', 'parting', 'forget', 'farewell', 'go_away', 'allow', 'leave-taking', 'get_out', 'result', 'pass_on', 'allow_for', 'depart', 'give', 'entrust', 'go_forth', 'go_out', 'lead', 'leave_alone', 'impart', 'bequeath', 'leave', 'leave_of_absence', 'leave_behind']",The Valley
+back,"['second', 'book_binding', 'hind', 'plunk_for', 'backrest', 'backward', 'stake', 'back_up', 'rearward', 'cover', 'vertebral_column', 'backbone', 'support', 'rear', 'bet_on', 'backwards', 'rachis', 'indorse', 'plump_for', 'dorsum', 'rearwards', 'game', 'binding', 'hinder', 'back', 'punt', 'endorse', 'gage', 'spine', 'spinal_column']",The Valley
+It's,[],The Valley
+flesh,"['human_body', 'physique', 'chassis', 'form', 'frame', 'shape', 'pulp', 'anatomy', 'figure', 'bod', 'flesh', 'physical_body', 'material_body', 'soma', 'build']",The Valley
+gullies,['gully'],The Valley
+coming,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'come_up', 'approaching', 'occur', 'orgasm', 'come', 'number', 'arrive', 'forthcoming', 'hail', 'fare', 'get', 'descend', 'advent', 'fall', 'total', 'issue_forth', 'upcoming', 'add_up', 'climax', 'do', 'follow', 'approach', 'sexual_climax', 'coming']",The Valley
+strewn,"['strew', 'straw']",The Valley
+dead,"['drained', 'numb', 'idle', 'suddenly', 'beat', 'stagnant', 'utterly', 'short', 'deadened', 'abruptly', 'perfectly', 'all_in', 'bushed', 'utter', 'absolutely', 'dead']",The Valley
+I'll,[],The Valley

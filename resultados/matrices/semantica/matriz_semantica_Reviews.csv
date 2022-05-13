@@ -1,0 +1,971 @@
+w,vector_semantico
+symbol,"['symbol', 'symbolic_representation', 'symbolization', 'symbolisation']",Reviews
+exerts,"['exert', 'exercise', 'maintain', 'wield']",Reviews
+like,"['wish', 'like', 'corresponding', 'comparable', 'the_like', 'care', 'same', 'alike', 'ilk', 'similar', 'the_likes_of']",Reviews
+Reports,"['write_up', 'reputation', 'theme', 'report_card', 'written_report', 'cover', 'story', 'composition', 'paper', 'news_report', 'report', 'account', 'describe', 'study']",Reviews
+either,['either'],Reviews
+comes,"['issue_forth', 'number', 'come_up', 'come_in', 'seed', 'do', 'make_out', 'seminal_fluid', 'fare', 'fall', 'get_along', 'semen', 'descend', 'occur', 'total', 'come', 'ejaculate', 'arrive', 'hail', 'get', 'follow', 'add_up', 'amount', 'cum', 'derive']",Reviews
+throughout,"['end-to-end', 'throughout', 'passim']",Reviews
+new,"['newfangled', 'New', 'novel', 'new', 'newly', 'unexampled', 'freshly', 'fresh', 'young', 'raw', 'Modern']",Reviews
+into,[],Reviews
+Dexedrine,"['Dexedrine', 'dextroamphetamine_sulphate']",Reviews
+"3,000",[],Reviews
+toward,[],Reviews
+most,"['near', 'nigh', 'well-nigh', 'nearly', 'about', 'almost', 'virtually', 'most', 'to_the_highest_degree']",Reviews
+undue,"['inordinate', 'unwarranted', 'unreasonable', 'unjustified', 'excessive', 'undue']",Reviews
+becoming,"['become', 'suit', 'decorous', 'seemly', 'get', 'go', 'comme_il_faut', 'decent', 'comely', 'becoming', 'turn']",Reviews
+Food,"['intellectual_nourishment', 'food_for_thought', 'nutrient', 'food', 'solid_food']",Reviews
+England,['England'],Reviews
+So,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",Reviews
+downright,"['absolute', 'rank', 'sheer', 'out-and-out', 'downright', 'right-down']",Reviews
+controls,"['assure', 'restraint', 'mastery', 'hold', 'ensure', 'control_condition', 'master', 'ascendence', 'hold_in', 'dominance', 'moderate', 'operate', 'curb', 'keep_in_line', 'see_to_it', 'manipulate', 'ascendancy', 'ascendance', 'controller', 'control', 'verify', 'command', 'ascertain', 'check', 'ascendency', 'contain', 'insure', 'see']",Reviews
+inner,"['interior', 'internal', 'intimate', 'inner', 'privileged', 'inside']",Reviews
+bloodstream,"['bloodstream', 'blood_stream']",Reviews
+premiums,"['agio', 'agiotage', 'premium', 'insurance_premium', 'exchange_premium', 'bounty']",Reviews
+weather,"['endure', 'weather_condition', 'brave', 'atmospheric_condition', 'conditions', 'upwind', 'weather', 'brave_out']",Reviews
+spinach,"['spinach_plant', 'Spinacia_oleracea', 'prickly-seeded_spinach', 'spinach']",Reviews
+end,"['close', 'end', 'terminal', 'finish', 'stop', 'last', 'conclusion', 'goal', 'final_stage', 'death', 'cease', 'ending', 'remainder', 'oddment', 'remnant', 'destruction', 'terminate', 'closing']",Reviews
+down,"['pile', 'blue', 'downcast', 'downhearted', 'land', 'kill', 'low-spirited', 'down_pat', 'consume', 'fine-tune', 'downwardly', 'dispirited', 'push_down', 'refine', 'polish', 'toss_off', 'knock_down', 'low', 'devour', 'down_feather', 'down', 'go_through', 'depressed', 'Down', 'grim', 'cut_down', 'shoot_down', 'pull_down', 'downward', 'drink_down', 'gloomy', 'bolt_down', 'John_L._H._Down', 'pop', 'belt_down', 'down_in_the_mouth', 'pour_down', 'downwards', 'mastered']",Reviews
+winning,"['winning', 'gain_ground', 'advance', 'fetching', 'taking', 'gain', 'make_headway', 'succeed', 'come_through', 'bring_home_the_bacon', 'get_ahead', 'deliver_the_goods', 'victorious', 'acquire', 'win', 'pull_ahead']",Reviews
+chocolate,"['chocolate', 'hot_chocolate', 'burnt_umber', 'coffee', 'cocoa', 'umber', 'deep_brown', 'drinking_chocolate']",Reviews
+messages,"['subject_matter', 'content', 'message', 'substance']",Reviews
+banish,"['bar', 'ostracize', 'ban', 'relegate', 'banish', 'shun', 'ostracise', 'cast_out', 'blackball']",Reviews
+mealie-meal,[],Reviews
+meat,"['sum', 'nub', 'inwardness', 'essence', 'marrow', 'kernel', 'centre', 'heart_and_soul', 'nitty-gritty', 'pith', 'substance', 'core', 'meat', 'gist', 'heart', 'center']",Reviews
+others,[],Reviews
+yellowish,"['yellowish', 'yellow', 'xanthous']",Reviews
+A,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",Reviews
+regarded,"['see', 'affect', 'involve', 'consider', 'regard', 'view', 'reckon']",Reviews
+hen,"['hen', 'biddy']",Reviews
+nearer,"['near', 'nigh', 'close', 'dear', 'good', 'nearer', 'nigher', 'approximate', 'skinny', 'closer', 'cheeseparing', 'penny-pinching']",Reviews
+body's,[],Reviews
+encephalitis,"['phrenitis', 'cephalitis', 'encephalitis']",Reviews
+Saturated,"['impregnate', 'concentrated', 'saturate', 'pure', 'saturated']",Reviews
+'',[],Reviews
+mostly,"['generally', 'mostly', 'for_the_most_part', 'by_and_large', 'more_often_than_not', 'largely']",Reviews
+childhood,"['puerility', 'childhood']",Reviews
+army,"['U._S._Army', 'ground_forces', 'United_States_Army', 'Army', 'army', 'regular_army', 'US_Army', 'USA']",Reviews
+weight,"['weighting', 'weight_down', 'slant', 'weightiness', 'burthen', 'angle', 'weight', 'weight_unit', 'exercising_weight', 'free_weight', 'burden', 'system_of_weights']",Reviews
+than,[],Reviews
+eaters,"['eater', 'feeder']",Reviews
+bile,"['bile', 'gall']",Reviews
+kills,"['down', 'pop', 'belt_down', 'putting_to_death', 'pour_down', 'shoot_down', 'stamp_out', 'obliterate', 'killing', 'defeat', 'vote_down', 'toss_off', 'drink_down', 'wipe_out', 'kill', 'vote_out', 'bolt_down']",Reviews
+one-fifth,"['twenty_percent', 'one-fifth', 'fifth', 'fifth_part']",Reviews
+stumbled,"['stumble', 'slip_up', 'trip_up', 'falter', 'trip', 'hit', 'bumble']",Reviews
+Chevrolet,[],Reviews
+cornerstone,"['cornerstone', 'fundament', 'basis', 'groundwork', 'foundation', 'base']",Reviews
+fully,"['amply', 'to_the_full', 'fully', 'full', 'in_full']",Reviews
+chief,"['principal', 'primary', 'head', 'headman', 'gaffer', 'main', 'honcho', 'top_dog', 'chief', 'boss', 'chieftain', 'tribal_chief', 'master', 'foreman']",Reviews
+Eventually,"['finally', 'eventually']",Reviews
+would,[],Reviews
+A.,[],Reviews
+none,['none'],Reviews
+weight-height,[],Reviews
+And,[],Reviews
+longer,"['farsighted', 'foresightful', 'recollective', 'yearner', 'tenacious', 'foresighted', 'prospicient', 'farseeing', 'retentive', 'thirster', 'long', 'longsighted', 'longer']",Reviews
+consume,"['run_through', 'down', 'go_through', 'use_up', 'ingest', 'ware', 'wipe_out', 'waste', 'eat_up', 'deplete', 'take_in', 'squander', 'exhaust', 'take', 'have', 'eat', 'consume', 'devour']",Reviews
+symptomatic,"['diagnostic', 'symptomatic']",Reviews
+studied,"['studied', 'hit_the_books', 'examine', 'consider', 'learn', 'analyze', 'read', 'analyse', 'contemplate', 'canvass', 'take', 'meditate', 'study', 'canvas']",Reviews
+physical,"['forcible', 'strong-arm', 'physical']",Reviews
+as,"['adenine', 'group_A', 'arsenic', 'AS', 'angstrom_unit', 'As', 'as', 'Eastern_Samoa', 'angstrom', 'every_bit', 'a', 'ampere', 'type_A', 'axerophthol', 'atomic_number_33', 'vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'equally', 'amp', 'American_Samoa', 'antiophthalmic_factor']",Reviews
+birch-paneled,[],Reviews
+overburden,"['overburden', 'overload']",Reviews
+concocted,"['cook_up', 'hatch', 'trump_up', 'think_up', 'concoct', 'dream_up', 'think_of']",Reviews
+inconspicuously,['inconspicuously'],Reviews
+they,[],Reviews
+E.,[],Reviews
+categories,"['family', 'category', 'class']",Reviews
+measured,"['mensural', 'careful', 'assess', 'quantify', 'metrical', 'measure_out', 'mensurate', 'appraise', 'metric', 'deliberate', 'mensurable', 'value', 'calculated', 'measured', 'measure', 'evaluate', 'valuate']",Reviews
+Pursuing,"['follow_up_on', 'act_on', 'pursuing', 'engage', 'go_after', 'follow', 'pursue', 'quest_after', 'quest_for', 'prosecute']",Reviews
+When,[],Reviews
+average,"['average', 'modal', 'mediocre', 'norm', 'medium', 'intermediate', 'ordinary', 'mean', 'fair', 'median', 'average_out', 'middling']",Reviews
+cream,"['drub', 'ointment', 'cream', 'emollient', 'skim', 'thrash', 'clobber', 'pick', 'skim_off', 'bat', 'lick', 'cream_off']",Reviews
+Maybe,"['maybe', 'perhaps', 'mayhap', 'possibly', 'peradventure', 'perchance']",Reviews
+breast,"['chest', 'boob', 'titty', 'breast', 'knocker', 'front', 'bosom', 'white_meat', 'summit', 'tit']",Reviews
+York's,[],Reviews
+intima,['intima'],Reviews
+Metropolitan,['metropolitan'],Reviews
+at,"['At', 'atomic_number_85', 'astatine', 'at']",Reviews
+reports,"['write_up', 'reputation', 'theme', 'report_card', 'written_report', 'cover', 'story', 'composition', 'paper', 'news_report', 'report', 'account', 'describe', 'study']",Reviews
+desire,"['desire', 'hope', 'trust', 'want']",Reviews
+took,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'carry', 'ingest', 'make', 'rent', 'shoot', 'assume', 'remove', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",Reviews
+much,"['a_good_deal', 'often', 'a_lot', 'a_great_deal', 'very_much', 'much', 'lots', 'practically']",Reviews
+Quota,['quota'],Reviews
+sprue,"['sprue', 'psilosis', 'tropical_sprue']",Reviews
+their,[],Reviews
+if,[],Reviews
+aside,"['divagation', 'excursus', 'apart', 'by', 'parenthesis', 'away', 'aside', 'digression']",Reviews
+forms,"['pattern', 'contour', 'signifier', 'phase', 'physical_body', 'frame', 'organise', 'descriptor', 'bod', 'figure', 'manakin', 'mold', 'class', 'spring', 'physique', 'word_form', 'shape', 'manikin', 'kind', 'variety', 'material_body', 'flesh', 'work', 'organize', 'form', 'forge', 'var.', 'take_form', 'anatomy', 'make', 'sort', 'mannequin', 'cast', 'configuration', 'constitute', 'mould', 'strain', 'course', 'variant', 'soma', 'build', 'chassis', 'conformation', 'grade', 'mannikin', 'human_body', 'take_shape', 'imprint']",Reviews
+the,[],Reviews
+gluttons,"['wolverine', 'trencherman', 'Gulo_gulo', 'gourmandizer', 'glutton', 'gourmand']",Reviews
+plays,"['frolic', ""child's_play"", 'sport', 'playact', 'manoeuvre', 'gambol', 'diddle', 'caper', 'make_for', 'spiel', 'act_as', 'trifle', 'looseness', 'act', 'run', 'work', 'bet', 'dally', 'wreak', 'turn', 'play', 'wager', 'drama', 'dramatic_play', 'flirt', 'swordplay', 'period_of_play', 'free_rein', 'encounter', 'bid', 'take_on', 'represent', 'bring', 'playing_period', 'gaming', 'roleplay', 'romp', 'gambling', 'fun', 'recreate', 'shimmer', 'maneuver', 'toy', 'fiddle', 'meet']",Reviews
+experiment,"['try_out', 'experimentation', 'experiment']",Reviews
+John,"['whoremonger', 'St._John_the_Apostle', 'can', 'Saint_John_the_Apostle', 'Gospel_According_to_John', 'lavatory', 'bathroom', 'trick', 'St._John', 'John_the_Divine', 'privy', 'John', 'john', 'John_the_Evangelist', 'lav', 'toilet', 'John_Lackland', 'whoremaster', 'King_John', 'Saint_John']",Reviews
+muscular,"['mesomorphic', 'muscular', 'brawny', 'hefty', 'powerful', 'sinewy']",Reviews
+2%,[],Reviews
+nearly,"['near', 'nigh', 'well-nigh', 'nearly', 'almost', 'about', 'intimately', 'closely', 'virtually', 'most']",Reviews
+eggs,"['egg', 'nut', 'testis', 'orchis', 'ballock', 'eggs', 'bollock', 'testicle', 'ball']",Reviews
+which,[],Reviews
+reasons,"['argue', 'rationality', 'intellect', 'ground', 'reasonableness', 'grounds', 'conclude', 'reason_out', 'understanding', 'reason', 'cause']",Reviews
+perhaps,"['maybe', 'perhaps', 'mayhap', 'possibly', 'peradventure', 'perchance']",Reviews
+one-tenth,"['tenth_part', 'one-tenth', 'tenth', 'ten_percent']",Reviews
+Vitamins,['vitamin'],Reviews
+provokes,"['plague', 'chivvy', 'arouse', 'enkindle', 'chivy', 'elicit', 'kick_up', 'stimulate', 'hassle', 'harry', 'fire', 'call_forth', 'kindle', 'harass', 'chevy', 'evoke', 'raise', 'provoke', 'chevvy', 'beset', 'molest']",Reviews
+contain,"['hold_in', 'carry', 'moderate', 'bear', 'turn_back', 'incorporate', 'stop', 'curb', 'control', 'take', 'hold_back', 'check', 'arrest', 'hold', 'contain', 'comprise']",Reviews
+virtually,"['near', 'nigh', 'well-nigh', 'nearly', 'almost', 'about', 'virtually', 'most']",Reviews
+(,[],Reviews
+pay,"['compensate', 'pay', 'pay_up', 'bear', 'pay_off', 'give', 'yield', 'earnings', 'ante_up', 'wage', 'remuneration', 'devote', 'make_up', 'salary']",Reviews
+narcotizes,"['narcotize', 'narcotise']",Reviews
+divine,"['cleric', 'elysian', 'Creator', 'divine', 'ecclesiastic', 'godly', 'Godhead', 'Divine', 'inspired', 'Maker', 'providential', 'godlike', 'Almighty', 'Jehovah', 'God_Almighty', 'Lord', 'churchman']",Reviews
+Capetown,[],Reviews
+spans,"['span', 'twosome', 'pair', 'yoke', 'twain', 'duad', 'distich', 'cross', 'traverse', 'bridge', 'duet', 'couplet', 'dyad', 'straddle', 'brace', 'sweep', 'couple', 'duo']",Reviews
+depends,"['reckon', 'depend', 'bet', 'count', 'look', 'calculate']",Reviews
+University,['university'],Reviews
+Out,"['verboten', 'out', 'taboo', 'prohibited', 'knocked_out', 'come_out_of_the_closet', 'proscribed', 'kayoed', 'stunned', 'tabu', 'come_out', 'forbidden', 'away', 'extinct', ""KO'd""]",Reviews
+disease,['disease'],Reviews
+belly,"['paunch', 'venter', 'belly_out', 'stomach', 'belly', 'abdomen']",Reviews
+saturation,"['chroma', 'impregnation', 'saturation', 'vividness', 'intensity']",Reviews
+scurvy,"['low-down', 'miserable', 'abject', 'scummy', 'scorbutus', 'low', 'scurvy']",Reviews
+solace,"['console', 'comfort', 'soothe', 'consolation', 'solacement', 'solace']",Reviews
+neatly,['neatly'],Reviews
+are,"['personify', 'equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'are', 'ar', 'represent', 'comprise']",Reviews
+cocktail,['cocktail'],Reviews
+eat,"['eat_on', 'use_up', 'rust', 'wipe_out', 'corrode', 'eat_up', 'deplete', 'exhaust', 'feed', 'run_through', 'eat', 'consume']",Reviews
+Cholesterol,"['cholesterol', 'cholesterin']",Reviews
+role,"['function', 'character', 'part', 'office', 'theatrical_role', 'use', 'purpose', 'persona', 'role']",Reviews
+It,"['IT', 'information_technology']",Reviews
+Rockefeller,"['Rockefeller', 'John_Davison_Rockefeller', 'John_D._Rockefeller']",Reviews
+occurs,"['pass_off', 'come_about', 'come', 'pass', 'hap', 'take_place', 'go_on', 'fall_out', 'occur', 'happen']",Reviews
+Co.,[],Reviews
+Even,"['flush', 'eve', 'eventide', 'even', 'regular', 'level', 'evening', 'yet', 'tied', 'still', 'fifty-fifty', 'even_out']",Reviews
+diseases,['disease'],Reviews
+interest,"['concern', 'involvement', 'pastime', 'interest', 'occupy', 'matter_to', 'sake', 'stake', 'interest_group', 'pursuit', 'interestingness', 'worry']",Reviews
+habits,"['habit', 'wont', 'use', 'drug_abuse', 'riding_habit', 'substance_abuse']",Reviews
+luxury,"['luxuriousness', 'lavishness', 'sumptuosity', 'sumptuousness', 'luxury', 'opulence']",Reviews
+Stay,"['stoppage', 'last_out', 'persist', 'remain', 'hitch', 'stick', 'stop', 'halt', 'stay_put', 'detain', 'delay', 'abide', 'outride', 'bide', 'appease', 'ride_out', 'stay', 'continue', 'quell', 'rest', 'check', 'arrest', 'stick_around', 'stay_on']",Reviews
+sense,"['signified', 'sensory_faculty', 'feel', 'sentiency', 'smell', 'mother_wit', 'gumption', 'sensation', 'common_sense', 'sense', 'horse_sense', 'sentience', 'good_sense', 'smell_out']",Reviews
+over,"['complete', 'all_over', 'concluded', ""o'er"", 'ended', 'terminated', 'over']",Reviews
+panaceas,"['panacea', 'cure-all', 'catholicon', 'nostrum', 'Panacea']",Reviews
+skinfolds,[],Reviews
+arteries,"['arterial_blood_vessel', 'arteria', 'artery']",Reviews
+any,"['any', 'whatsoever', 'whatever']",Reviews
+alcohol,"['alcoholic_beverage', 'intoxicant', 'alcoholic_drink', 'alcohol', 'inebriant']",Reviews
+she's,[],Reviews
+brain,"['mind', 'learning_ability', 'head', 'nous', 'mastermind', 'Einstein', 'psyche', 'wit', 'mental_capacity', 'brainpower', 'brainiac', 'brain', 'encephalon', 'genius', 'mentality']",Reviews
+formation,"['formation', 'establishment', 'geological_formation', 'shaping', 'organisation', 'organization', 'constitution']",Reviews
+previous,"['previous', 'premature', 'old', 'late', 'former']",Reviews
+indescribable,"['unspeakable', 'untellable', 'indescribable', 'ineffable', 'indefinable', 'unutterable']",Reviews
+mechanical,"['mechanically_skillful', 'mechanical']",Reviews
+every,['every'],Reviews
+off,"['murder', 'sour', 'dispatch', 'bump_off', 'off', 'slay', 'polish_off', 'remove', 'cancelled', 'turned', 'away', 'hit', 'forth']",Reviews
+example,"['good_example', 'case', 'example', 'representative', 'model', 'instance', 'lesson', 'exemplar', 'object_lesson', 'illustration', 'exercise', 'deterrent_example']",Reviews
+hypothalamus,['hypothalamus'],Reviews
+assume,"['usurp', 'put_on', 'get_into', 'take_over', 'simulate', 'adopt', 'don', 'accept', 'arrogate', 'seize', 'presume', 'assume', 'take_on', 'sham', 'take_for_granted', 'bear', 'take_up', 'strike', 'wear', 'feign', 'take', 'acquire']",Reviews
+:,[],Reviews
+pituitary,"['pituitary', 'pituitary_gland', 'hypophysis', 'pituitary_body']",Reviews
+900,[],Reviews
+Metrecal,[],Reviews
+strain,"['filter', 'pains', 'try', 'air', 'stress', 'separate_out', 'line', 'tenor', 'extend', 'filter_out', 'strive', 'mental_strain', 'nisus', 'sieve', 'form', 'breed', 'filtrate', 'var.', 'tense', 'melodic_phrase', 'strain', 'variant', 'stock', 'reach', 'puree', 'tune', 'tense_up', 'nervous_strain', 'striving', 'song', 'melody', 'deform', 'sift', 'melodic_line', 'distort', 'straining']",Reviews
+artery,"['arterial_blood_vessel', 'arteria', 'artery']",Reviews
+more,"['More', 'to_a_greater_extent', 'Sir_Thomas_More', 'Thomas_More', 'more', 'more_than']",Reviews
+grey-haired,"['grey', 'grizzly', 'hoary', 'hoar', 'grey-headed', 'gray-haired', 'gray', 'gray-headed', 'white-haired', 'grey-haired']",Reviews
+cupboard,"['cupboard', 'closet']",Reviews
+weaned,"['weaned', 'ablactate', 'wean']",Reviews
+cliche,"['commonplace', 'platitude', 'banality', 'bromide', 'cliche']",Reviews
+He,"['helium', 'He', 'atomic_number_2', 'he']",Reviews
+engine,"['engine', 'locomotive', 'locomotive_engine', 'railway_locomotive']",Reviews
+got,"['bring_forth', 'pose', 'pay_off', 'receive', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'fix', 'flummox', 'pay_back', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",Reviews
+New,"['newfangled', 'New', 'novel', 'new', 'newly', 'unexampled', 'freshly', 'fresh', 'young', 'raw', 'Modern']",Reviews
+frequently,"['frequently', 'often', 'ofttimes', 'oftentimes', 'oft']",Reviews
+responsible,"['responsible_for', 'creditworthy', 'responsible']",Reviews
+wake,"['awake', 'aftermath', 'come_alive', 'Wake', 'rouse', 'heat', 'waken', 'wake', 'inflame', 'ignite', 'viewing', 'arouse', 'fire_up', 'stir_up', 'backwash', 'wake_up', 'Wake_Island', 'awaken']",Reviews
+horse-playing,[],Reviews
+other,"['other', 'early', 'former']",Reviews
+thus,"['hence', 'olibanum', 'frankincense', 'thus', 'therefore', 'thence', 'gum_olibanum', 'so', 'thusly']",Reviews
+Minnesota's,[],Reviews
+sensation,"['virtuoso', 'sense_impression', 'sense_datum', 'whizz', 'hotshot', 'esthesis', 'superstar', 'whiz', 'star', 'sense', 'sentience', 'ace', 'wiz', 'sensory_faculty', 'aesthesis', 'adept', 'mavin', 'wizard', 'champion', 'maven', 'sentiency', 'sensation', 'sense_experience', 'genius']",Reviews
+eaten,"['eat_on', 'use_up', 'rust', 'wipe_out', 'corrode', 'eat_up', 'deplete', 'exhaust', 'feed', 'run_through', 'eat', 'consume']",Reviews
+soluble,['soluble'],Reviews
+above,"['higher_up', 'supra', 'to_a_higher_place', 'above', 'in_a_higher_place']",Reviews
+be,"['Be', 'equal', 'constitute', 'glucinium', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'beryllium', 'cost', 'personify', 'represent', 'comprise', 'atomic_number_4']",Reviews
+directs,"['point', 'organise', 'target', 'manoeuvre', 'take_aim', 'aim', 'conduct', 'channelise', 'calculate', 'lead', 'steer', 'train', 'send', 'organize', 'place', 'orchestrate', 'head', 'mastermind', 'channelize', 'address', 'direct', 'guide', 'manoeuver', 'maneuver', 'take', 'engineer']",Reviews
+purpose,"['purport', 'intention', 'intent', 'function', 'determination', 'resolve', 'use', 'propose', 'purpose', 'aim', 'design', 'role']",Reviews
+2,"['deuce', 'two', 'II', 'ii', '2']",Reviews
+conversations,['conversation'],Reviews
+contains,"['hold_in', 'carry', 'moderate', 'bear', 'turn_back', 'incorporate', 'stop', 'curb', 'control', 'take', 'hold_back', 'check', 'arrest', 'hold', 'contain', 'comprise']",Reviews
+again,"['once_again', 'again', 'once_more', 'over_again']",Reviews
+areas,"['field', 'arena', 'country', 'region', 'orbit', 'surface_area', 'sphere', 'expanse', 'domain', 'area']",Reviews
+show,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'appearance', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'display', 'evidence', 'demo', 'render']",Reviews
+compulsion,"['obsession', 'compulsion', 'irresistible_impulse', 'coercion']",Reviews
+its,"['IT', 'information_technology']",Reviews
+value,"['prise', 'time_value', 'assess', 'respect', 'esteem', 'treasure', 'evaluate', 'note_value', 'appraise', 'appreciate', 'value', 'measure', 'economic_value', 'prize', 'valuate', 'rate']",Reviews
+physiological,"['physiological', 'physiologic']",Reviews
+overeat,"['overeat', 'overgorge', 'engorge', 'scarf_out', 'englut', 'satiate', 'glut', 'overindulge', 'gormandize', 'ingurgitate', 'gourmandize', 'binge', 'stuff', 'pig_out', 'gormandise', 'gorge']",Reviews
+slowly,"['slowly', 'easy', 'slow', 'lento', 'tardily']",Reviews
+influence,"['influence', 'act_upon', 'tempt', 'shape', 'regulate', 'determine', 'charm', 'work', 'mold']",Reviews
+grips,"['traveling_bag', 'clasp', 'hold', 'clutches', 'grapple', 'clench', 'spellbind', 'suitcase', 'adhesive_friction', 'clutch', 'fascinate', 'transfix', 'traction', 'grasp', 'bobby_pin', 'grip', 'hairgrip', 'travelling_bag', 'bag', 'handgrip', 'handle']",Reviews
+because,[],Reviews
+won,"['gain_ground', 'advance', 'won', 'gain', 'make_headway', 'South_Korean_won', 'succeed', 'win', 'get_ahead', 'come_through', 'bring_home_the_bacon', 'deliver_the_goods', 'acquire', 'North_Korean_won', 'pull_ahead']",Reviews
+arterial,['arterial'],Reviews
+travel,"['locomote', 'journey', 'move', 'move_around', 'travel', 'change_of_location', 'go', 'traveling', 'trip', 'jaunt', 'locomotion', 'travelling']",Reviews
+U.S.,"['the_States', 'U.S.A.', 'United_States', 'United_States_of_America', 'US', 'U.S.', 'America', 'United_States_government', 'USA', 'US_Government', 'U.S._government']",Reviews
+suffered,"['digest', 'brook', 'endure', 'sustain', 'support', 'ache', 'abide', 'stomach', 'hurt', 'put_up', 'suffer', 'stick_out', 'bear', 'tolerate', 'stand', 'get', 'lose', 'have', 'meet']",Reviews
+We,[],Reviews
+early,"['other', 'early_on', 'early', 'ahead_of_time', 'betimes', 'too_soon', 'former']",Reviews
+people,"['multitude', 'masses', 'hoi_polloi', 'citizenry', 'the_great_unwashed', 'people', 'mass']",Reviews
+standard,"['criterion', 'received', 'stock', 'measure', 'touchstone', 'monetary_standard', 'standard', 'banner']",Reviews
+shoulder,"['shoulder', 'berm', 'shoulder_joint', 'articulatio_humeri']",Reviews
+values,"['prise', 'time_value', 'valuate', 'assess', 'respect', 'esteem', 'treasure', 'evaluate', 'note_value', 'appraise', 'appreciate', 'value', 'measure', 'economic_value', 'values', 'prize', 'rate']",Reviews
+or,"['operating_theater', 'operating_theatre', 'surgery', 'Oregon', 'OR', 'operating_room', 'Beaver_State']",Reviews
+rate,"['rank', 'pace', 'grade', 'charge_per_unit', 'range', 'order', 'value', 'place', 'rate']",Reviews
+What,[],Reviews
+Fats,"['fatten_out', 'fatness', 'flesh_out', 'fill_out', 'fatten', 'fatty_tissue', 'plump_out', 'plump', 'fatten_up', 'adipose_tissue', 'blubber', 'fat', 'avoirdupois']",Reviews
+victims,"['dupe', 'victim']",Reviews
+internist's,[],Reviews
+levels,"['point', 'rase', 'story', 'stratum', 'tier', 'raze', 'horizontal_surface', 'storey', 'level', 'stage', 'charge', 'floor', 'tear_down', 'even', 'level_off', 'layer', 'pull_down', 'flush', 'degree', 'grade', 'dismantle', 'spirit_level', 'take_down', 'even_out']",Reviews
+West,"['west', 'Occident', 'Cicily_Isabel_Fairfield', 'West', 'Benjamin_West', 'western_United_States', 'Dame_Rebecca_West', 'Mae_West', 'W', 'westward', 'Rebecca_West', 'due_west']",Reviews
+varied,"['wide-ranging', 'vary', 'deviate', 'varied', 'diverge', 'alter', 'change', 'variegate', 'motley', 'depart']",Reviews
+tables,"['prorogue', 'table', 'tabularise', 'put_over', 'remit', 'tabularize', 'mesa', 'tabulate', 'postpone', 'shelve', 'tabular_array', 'hold_over', 'defer', 'put_off', 'board', 'set_back']",Reviews
+rise,"['mount', 'ascending', 'prove', 'advance', 'lift', 'rising', 'rebel', 'come_up', 'turn_out', 'get_up', 'originate', 'rising_slope', 'resurrect', 'go_up', 'rise_up', 'climb_up', 'procession', 'upgrade', 'spring_up', 'develop', 'arise', 'heighten', 'wage_increase', 'wage_hike', 'rise', 'hike', 'uprise', 'acclivity', 'emanation', 'salary_increase', 'ascent', 'boost', 'rear', 'move_up', 'wax', 'climb', 'raise', 'cost_increase', 'jump', 'ascension', 'grow', 'stand_up', 'ascend', 'surface']",Reviews
+"2,300",[],Reviews
+far,"['FAR', 'ALIR', 'Former_Armed_Forces', 'far', 'Army_for_the_Liberation_of_Rwanda', 'Interahamwe']",Reviews
+punishment,"['punishment', 'penalty', 'penalization', 'penalisation']",Reviews
+history,"['story', 'history', 'account', 'chronicle']",Reviews
+three,"['deuce-ace', 'trine', 'tercet', 'III', 'leash', 'trinity', 'troika', 'trey', 'ternion', 'trio', 'triplet', 'terzetto', '3', 'triad', 'ternary', 'three', 'threesome', 'tierce', 'iii']",Reviews
+Americans,"['American_English', 'American_language', 'American']",Reviews
+rarely,"['seldom', 'rarely']",Reviews
+simple,"['simpleton', 'elementary', 'uncomplicated', 'round-eyed', 'simple', 'bare', 'dim-witted', 'dewy-eyed', 'mere', 'childlike', 'simple-minded', 'unsubdivided', 'unproblematic', 'wide-eyed']",Reviews
+never,"[""ne'er"", 'never']",Reviews
+gallstones,"['gallstone', 'bilestone']",Reviews
+gains,"['advance', 'addition', 'realize', 'take_in', 'put_on', 'get_ahead', 'hit', 'gather', 'amplification', 'win', 'pull_ahead', 'bring_in', 'arrive_at', 'benefit', 'realise', 'profit', 'gain_ground', 'make', 'increase', 'reach', 'clear', 'derive', 'attain', 'earn', 'gain', 'pull_in', 'make_headway', 'acquire']",Reviews
+synthesizes,"['synthesise', 'synthesize']",Reviews
+five,"['Phoebe', 'quintet', 'Little_Phoebe', 'basketball_team', 'quintuplet', 'five-spot', 'five', 'cinque', 'fin', 'quint', 'v', '5', 'fivesome', 'pentad', 'V']",Reviews
+for,[],Reviews
+get,"['bring_forth', 'pose', 'pay_off', 'receive', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'fix', 'flummox', 'pay_back', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",Reviews
+No-Cal,[],Reviews
+embarrassing,"['hinder', 'unenviable', 'obstruct', 'stymie', 'abash', 'block', 'sticky', 'stymy', 'awkward', 'blockade', 'embarrassing', 'mortifying', 'embarrass']",Reviews
+lose,"['suffer', 'mislay', 'miss', 'recede', 'misplace', 'turn_a_loss', 'fall_back', 'fall_behind', 'lose', 'drop_off']",Reviews
+discovery,"['discovery', 'breakthrough', 'find', 'uncovering']",Reviews
+chemical,"['chemic', 'chemical_substance', 'chemical']",Reviews
+Despite,"['scorn', 'contempt', 'despite', 'disdain']",Reviews
+sleep,"['sleep', 'eternal_rest', 'nap', 'eternal_sleep', 'quietus', 'kip', 'rest', ""log_Z's"", 'slumber', ""catch_some_Z's"", 'sopor']",Reviews
+boast,"['jactitation', 'swash', 'vaunt', 'tout', 'sport', 'self-praise', 'boast', 'feature', 'shoot_a_line', 'gasconade', 'bluster', 'boasting', 'brag', 'blow', 'gas']",Reviews
+foods,"['intellectual_nourishment', 'food_for_thought', 'nutrient', 'food', 'solid_food']",Reviews
+Ahrens,[],Reviews
+occupation,"['job', 'line_of_work', 'business', 'moving_in', 'occupation', 'military_control', 'occupancy', 'line']",Reviews
+under,"['nether', 'under', 'below']",Reviews
+he,"['helium', 'He', 'atomic_number_2', 'he']",Reviews
+buying,"['purchase', ""grease_one's_palms"", 'purchasing', 'buy', 'bribe', 'buying', 'corrupt']",Reviews
+itself,[],Reviews
+250,[],Reviews
+As,"['adenine', 'group_A', 'arsenic', 'AS', 'angstrom_unit', 'As', 'as', 'Eastern_Samoa', 'angstrom', 'every_bit', 'a', 'ampere', 'type_A', 'axerophthol', 'atomic_number_33', 'vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'equally', 'amp', 'American_Samoa', 'antiophthalmic_factor']",Reviews
+accommodate,"['adapt', 'accommodate', 'lodge', 'suit', 'oblige', 'admit', 'conciliate', 'fit', 'hold', 'reconcile']",Reviews
+infarct,"['infarction', 'infarct']",Reviews
+wife,"['married_woman', 'wife']",Reviews
+high-protein,[],Reviews
+growth-stunting,[],Reviews
+idea,"['melodic_theme', 'mind', 'theme', 'estimate', 'thought', 'musical_theme', 'idea', 'approximation', 'estimation']",Reviews
+Los,[],Reviews
+Already,['already'],Reviews
+suspect,"['distrust', 'fishy', 'funny', 'suspicious', 'suspect', 'shady', 'surmise', 'mistrust', 'defendant']",Reviews
+system,"['organisation', 'system_of_rules', 'system', 'scheme', 'arrangement', 'organization']",Reviews
+firmly,"['securely', 'hard', 'unwaveringly', 'firmly', 'steadfastly', 'firm']",Reviews
+Italian,['Italian'],Reviews
+fill,"['make_full', 'replete', 'satiate', 'fulfill', 'occupy', 'fulfil', 'meet', 'filling', 'satisfy', 'fill', 'take', 'sate', 'fill_up']",Reviews
+Fads,"['furor', 'furore', 'rage', 'craze', 'cult', 'fad']",Reviews
+Angeles',[],Reviews
+rumble,"['gang_fight', 'grumble', 'growl', 'grumbling', 'rumbling', 'rumble']",Reviews
+heart,"['ticker', 'pump', 'affection', 'pith', 'nub', 'mettle', 'marrow', 'affectionateness', 'warmness', 'bosom', 'nitty-gritty', 'heart', 'philia', 'essence', 'nerve', 'centre', 'tenderness', 'middle', 'substance', 'gist', 'meat', 'sum', 'spirit', 'kernel', 'spunk', 'heart_and_soul', 'eye', 'fondness', 'warmheartedness', 'core', 'inwardness', 'center']",Reviews
+electrocardiogram,"['cardiogram', 'ECG', 'EKG', 'electrocardiogram']",Reviews
+hydrogen,"['H', 'hydrogen', 'atomic_number_1']",Reviews
+accidents,"['accident', 'chance_event', 'fortuity', 'stroke']",Reviews
+cases,"['character', 'vitrine', 'eccentric', 'font', 'pillowcase', 'showcase', 'face', 'fount', ""compositor's_case"", 'guinea_pig', 'type', 'incase', 'slip', 'instance', 'caseful', 'display_case', 'sheath', 'subject', 'encase', 'suit', 'example', 'lawsuit', 'grammatical_case', 'event', 'casing', 'cause', 'shell', 'case', 'pillow_slip', 'typeface', 'causa', ""typesetter's_case""]",Reviews
+muscle,"['musculus', 'heftiness', 'muscleman', 'muscularity', 'muscle', 'sinew', 'muscular_tissue', 'brawniness', 'brawn']",Reviews
+is,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",Reviews
+death,"['end', 'expiry', 'last', 'death', 'dying', 'Death', 'destruction', 'demise', 'decease']",Reviews
+nibblers,['nibbler'],Reviews
+unclear,"['undecipherable', 'unreadable', 'ill-defined', 'unclear', 'indecipherable']",Reviews
+menace,"['peril', 'imperil', 'jeopardise', 'jeopardize', 'threaten', 'endanger', 'menace', 'threat']",Reviews
+radically,['radically'],Reviews
+At,"['At', 'atomic_number_85', 'astatine', 'at']",Reviews
+only,"['solely', 'only', 'entirely', 'simply', 'solitary', 'lone', 'only_if', 'but', 'sole', 'just', 'alone', 'merely', 'exclusively', 'lonesome', 'only_when']",Reviews
+Here,"['here', 'Here', 'hither', 'Hera']",Reviews
+Or,"['operating_theater', 'operating_theatre', 'surgery', 'Oregon', 'OR', 'operating_room', 'Beaver_State']",Reviews
+staying,"['stay', 'outride', 'last_out', 'persist', 'remain', 'continue', 'quell', 'bide', 'rest', 'appease', 'stay_put', 'ride_out', 'stick_around', 'detain', 'delay', 'stick', 'abide', 'stay_on']",Reviews
+themselves,[],Reviews
+blood,"['parentage', 'lineage', 'ancestry', 'rake', 'rip', 'roue', 'line_of_descent', 'pedigree', 'origin', 'stemma', 'blood', 'rakehell', 'bloodline', 'blood_line', 'descent', 'profligate', 'line', 'stock']",Reviews
+deposited,"['situate', 'wedge', 'posit', 'lodge', 'deposit', 'fix', 'bank', 'stick']",Reviews
+rampant,"['rampant', 'rearing']",Reviews
+some,"['roughly', 'more_or_less', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",Reviews
+dispose,"['put_away', 'chuck_out', 'cast_away', 'toss_out', 'qualify', 'incline', 'toss', 'toss_away', 'throw_away', 'throw_out', 'cast_out', 'fling', 'cast_aside', 'discard', 'dispose']",Reviews
+leaves,"['impart', 'leave_of_absence', 'exit', 'allow', 'folio', 'leafage', 'foliage', 'pull_up_stakes', 'result', 'lead', 'entrust', 'will', 'give', 'forget', 'leaf', 'get_out', 'go_forth', 'farewell', 'depart', 'leave-taking', 'parting', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'leave_alone', 'leave', 'provide']",Reviews
+varieties,"['mixture', 'potpourri', 'diverseness', 'multifariousness', 'sort', 'miscellany', 'smorgasbord', 'assortment', 'salmagundi', 'form', 'change', 'mixed_bag', 'variety', 'diversity', 'kind', 'motley', 'variety_show', 'miscellanea']",Reviews
+defy,"['refuse', 'hold_up', 'withstand', 'dare', 'defy', 'resist', 'hold']",Reviews
+Physiological,"['physiological', 'physiologic']",Reviews
+offered,"['extend', 'proffer', 'tender', 'volunteer', 'propose', 'offer', 'pop_the_question', 'bid', 'provide', 'declare_oneself', 'put_up', 'offer_up']",Reviews
+fishes,"['angle', 'Pisces', 'fish', 'Pisces_the_Fishes', 'Fish']",Reviews
+fairly,"['jolly', 'moderately', 'reasonably', 'somewhat', 'passably', 'fair', 'evenhandedly', 'clean', 'pretty', 'fairly', 'middling']",Reviews
+an,"['Associate_in_Nursing', 'AN']",Reviews
+all,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",Reviews
+anyone,[],Reviews
+emphasis,"['stress', 'accent', 'emphasis', 'vehemence']",Reviews
+partly,"['part', 'partly', 'partially']",Reviews
+glass,"['crank', 'meth', 'chicken_feed', 'spyglass', 'methamphetamine', 'glaze', 'glassful', 'glass_in', 'glass', 'deoxyephedrine', 'chalk', 'glass_over', 'field_glass', 'shabu', 'Methedrine', 'trash', 'looking_glass', 'ice', 'drinking_glass', 'glaze_over', 'methamphetamine_hydrochloride']",Reviews
+two,"['deuce', 'two', 'II', 'ii', '2']",Reviews
+To,[],Reviews
+100,"['C', 'century', 'hundred', 'c', '100', 'one_hundred', 'one_C']",Reviews
+Netherlands,"['Holland', 'Nederland', 'The_Netherlands', 'Kingdom_of_The_Netherlands', 'Netherlands']",Reviews
+Harrison's,[],Reviews
+Readings,"['register', 'show', 'scan', 'read', 'Reading', 'indication', 'study', 'record', 'meter_reading', 'learn', 'reading', 'reading_material', 'understand', 'interpret', 'recitation', 'say', 'recital', 'translate', 'version', 'take', 'interpretation']",Reviews
+go,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'offer', 'go_bad', 'kick_the_bucket', 'hug_drug', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'ecstasy', 'travel', 'run_short', 'Adam', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'crack', 'XTC', 'cristal', 'turn', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'spell', 'start', 'X', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'whirl', 'go_game', 'last', 'disco_biscuit', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'fling', 'move', 'tour']",Reviews
+just,"['good', 'only', 'exactly', 'merely', 'simply', 'scarcely', 'just', 'barely', 'scarce', 'fair', 'but', 'precisely', 'upright', 'equitable', 'hardly', 'just_now']",Reviews
+capsules,"['capsulize', 'ejection_seat', 'capsulise', 'encapsulate', 'abridgement', 'ejector_seat', 'space_capsule', 'abridgment', 'condensation', 'capsulate', 'capsule']",Reviews
+body,"['personify', 'consistency', 'physical_structure', 'eubstance', 'trunk', 'soundbox', 'body', 'organic_structure', 'torso', 'dead_body', 'consistence']",Reviews
+population,"['population', 'universe']",Reviews
+deposits,"['stick', 'wedge', 'situate', 'posit', 'bank_deposit', 'lodge', 'depository', 'down_payment', 'deposit', 'depositary', 'repository', 'fix', 'bank', 'alluviation', 'sedimentation', 'sediment', 'deposition']",Reviews
+spend,"['spend', 'pass', 'expend', 'drop']",Reviews
+meticulously,['meticulously'],Reviews
+entitled,"['entitled', 'title', 'ennoble', 'gentle', 'entitle']",Reviews
+a,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",Reviews
+Internal,"['interior', 'intragroup', 'internal', 'intimate', 'inner', 'national', 'home']",Reviews
+calorie-heavy,[],Reviews
+theory,"['theory', 'hypothesis', 'possibility']",Reviews
+Morals,"['ethics', 'moral', 'morals', 'lesson', 'morality', 'ethical_motive']",Reviews
+continents,"['continent', 'Continent']",Reviews
+satisfy,"['gratify', 'fulfill', 'fulfil', 'live_up_to', 'satisfy', 'fill', 'meet']",Reviews
+worries,"['headache', 'trouble', 'vexation', 'concern', 'care', 'interest', 'occupy', 'vex', 'worry']",Reviews
+upper,"['speed', 'upper_berth', 'upper', 'amphetamine', 'pep_pill']",Reviews
+coronary,"['coronary', 'coronary_thrombosis']",Reviews
+one,"['ane', 'unitary', 'peerless', 'unity', 'single', 'unrivaled', 'unmatched', '1', 'one_and_only', 'unrivalled', 'I', 'unmatchable', 'i', 'one', 'nonpareil', 'ace', 'matchless']",Reviews
+Johnny,"['Reb', 'Johnny_Reb', 'greyback', 'Johnny', 'Rebel']",Reviews
+sooner,"['Sooner', 'earlier', 'rather', 'preferably', 'Oklahoman', 'sooner']",Reviews
+consumption,"['pulmonary_tuberculosis', 'ingestion', 'expenditure', 'phthisis', 'use_of_goods_and_services', 'consumption', 'white_plague', 'wasting_disease', 'economic_consumption', 'usance', 'use', 'uptake', 'using_up', 'intake']",Reviews
+higher,"['gamey', 'high-pitched', 'mellow', 'in_high_spirits', 'high', 'gamy', 'eminent', 'higher']",Reviews
+cold,"['dusty', 'low_temperature', 'frigidness', 'cold-blooded', 'common_cold', 'frigid', 'insensate', 'frigidity', 'stale', 'inhuman', 'coldness', 'moth-eaten', 'cold']",Reviews
+behind,"['derriere', 'arse', 'ass', 'prat', 'hind_end', 'posterior', 'tail_end', 'butt', 'nates', 'stern', 'in_arrears', 'rear_end', 'backside', 'rump', 'tush', 'fundament', 'buttocks', 'buns', 'rear', 'behindhand', 'tooshie', 'behind', 'seat', 'bottom', 'fanny', 'keister', 'slow', 'tail', 'can', 'hindquarters', 'bum']",Reviews
+satiety,"['repletion', 'satiety', 'satiation']",Reviews
+day,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'daytime', 'Day', 'twenty-four_hour_period', '24-hour_interval', 'Clarence_Shepard_Day_Jr.']",Reviews
+well-fed,"['well-nourished', 'well-fed']",Reviews
+overweight,"['adiposis', 'overweight', 'stoutness', 'heavy', 'corpulence', 'fleshy']",Reviews
+lingering,"['loiter', 'tarry', 'footle', 'mess_about', 'dawdle', 'hover', 'mill_around', 'lurk', 'lingering', 'lallygag', 'mill_about', 'lounge', 'linger', 'loaf', 'lollygag', 'tarriance', 'hang_around']",Reviews
+ice,"['crank', 'meth', 'chicken_feed', 'sparkler', 'methamphetamine', 'icing', 'ICE', 'glass', 'frappe', 'internal-combustion_engine', 'deoxyephedrine', 'chalk', 'shabu', 'Methedrine', 'trash', 'ice_rink', 'frosting', 'ice-skating_rink', 'frost', 'ice', 'water_ice', 'methamphetamine_hydrochloride']",Reviews
+affects,"['touch', 'touch_on', 'affect', 'bear_upon', 'involve', 'impress', 'strike', 'bear_on', 'regard', 'dissemble', 'pretend', 'feign', 'move', 'impact', 'sham']",Reviews
+juice,"['succus', 'juice']",Reviews
+Refrigeration,"['infrigidation', 'refrigeration']",Reviews
+calories,"['small_calorie', 'gram_calorie', 'large_calorie', ""nutritionist's_calorie"", 'kilocalorie', 'Calorie', 'calorie', 'kilogram_calorie']",Reviews
+fatally,['fatally'],Reviews
+amphetamines,"['amphetamine', 'pep_pill', 'upper', 'speed']",Reviews
+For,[],Reviews
+contadini,[],Reviews
+author,"['author', 'source', 'generator', 'writer']",Reviews
+Scandinavia,"['Scandinavian_Peninsula', 'Scandinavia']",Reviews
+clucks,"['clucking', 'click', 'cluck', 'clack']",Reviews
+four,"['quadruplet', 'four', 'quaternion', 'iv', 'quaternity', 'tetrad', '4', 'IV', 'quatern', 'quaternary', 'Little_Joe', 'four-spot', 'quartet', 'foursome']",Reviews
+directed,"['point', 'directed', 'organise', 'target', 'manoeuvre', 'take_aim', 'aim', 'conduct', 'channelise', 'calculate', 'lead', 'steer', 'train', 'send', 'organize', 'place', 'orchestrate', 'head', 'mastermind', 'channelize', 'address', 'direct', 'guide', 'manoeuver', 'maneuver', 'take', 'engineer']",Reviews
+getting,"['bring_forth', 'pose', 'pay_off', 'receive', 'getting', 'amaze', 'incur', 'sire', 'baffle', ""get_under_one's_skin"", 'scram', 'beat', 'catch', 'perplex', 'nonplus', 'aim', 'induce', 'get_down', 'stick', 'set_about', 'convey', 'become', 'mother', 'mystify', 'bugger_off', 'let', 'buzz_off', 'vex', 'sustain', 'stimulate', 'go', 'capture', 'develop', 'obtain', 'set_out', 'engender', 'father', 'stupefy', 'make', 'bewilder', 'generate', 'start', 'dumbfound', 'take', 'begin', 'puzzle', 'find', 'acquiring', 'fix', 'pay_back', 'flummox', 'fetch', 'drive', 'cause', 'bring', 'gravel', 'suffer', 'come', 'beget', 'start_out', 'commence', 'arrive', 'contract', 'get', 'draw', 'grow', 'fuck_off', 'arrest', 'experience', 'have', 'acquire', 'produce']",Reviews
+ambitious,"['ambitious', 'challenging']",Reviews
+degrees,"['point', 'level', 'academic_degree', 'degree', 'stage', 'grade', 'arcdegree']",Reviews
+adjusts,"['set', 'adapt', 'correct', 'conform', 'line_up', 'align', 'adjust', 'aline']",Reviews
+well,"['good', 'considerably', 'comfortably', 'easily', 'substantially', 'wellspring', 'well', 'intimately', 'swell', 'fountainhead', 'advantageously']",Reviews
+reason,"['argue', 'rationality', 'intellect', 'ground', 'reasonableness', 'grounds', 'conclude', 'reason_out', 'understanding', 'reason', 'cause']",Reviews
+California's,[],Reviews
+Dr.,"['MD', 'physician', 'doc', 'doctor', 'medico', 'Dr.']",Reviews
+Jolliffe,[],Reviews
+permanently,"['for_good', 'permanently']",Reviews
+woman,"['charwoman', 'cleaning_woman', 'char', 'cleaning_lady', 'adult_female', 'womanhood', 'fair_sex', 'woman']",Reviews
+twice,"['doubly', 'double', 'twice']",Reviews
+set,"['pose', 'localize', 'plant', 'hardening', 'hardened', 'solidifying', 'fructify', 'go_down', 'determine', 'prepare', 'rig', 'jell', 'set', 'Set', 'specify', 'localise', 'correct', 'go_under', 'mark', 'do', 'fixed', 'Seth', 'coiffe', 'coiffure', 'lay', 'arrange', 'sic', 'band', 'ready', 'countersink', 'adjust', 'curing', 'congeal', 'place', 'put', 'dictated', 'located', 'primed', 'limit', 'dress', 'lot', 'fix', 'fit', 'exercise_set', 'typeset', 'coif', 'readiness', 'gear_up', 'bent', 'position', 'rigid', 'situated', 'define', 'laid', 'placed', 'solidification', 'set_up', 'stage_set', 'lay_out', 'determined', 'circle']",Reviews
+she,[],Reviews
+deaths,"['end', 'expiry', 'last', 'death', 'dying', 'Death', 'destruction', 'demise', 'decease']",Reviews
+firemen,"['fire-eater', 'stoker', 'reliever', 'firefighter', 'fireman', 'fire_fighter', 'relief_pitcher']",Reviews
+extra,"['supernumerary', 'duplicate', 'supererogatory', 'extra', 'superfluous', 'spare', 'excess', 'additional', 'redundant', 'spear_carrier', 'surplus', 'special']",Reviews
+how,[],Reviews
+dozens,"['slews', 'dozen', 'rafts', 'gobs', 'stacks', 'XII', 'dozens', 'oodles', 'piles', 'scores', 'lashings', 'scads', 'wads', 'tons', 'lots', 'heaps', '12', 'loads', 'twelve']",Reviews
+No.,"['no.', 'ordinal', 'ordinal_number']",Reviews
+after,"['subsequently', 'later', 'later_on', 'afterward', 'after', 'afterwards']",Reviews
+touchdown,['touchdown'],Reviews
+her,[],Reviews
+meaning,"['pregnant', 'import', 'signification', 'imply', 'stand_for', 'have_in_mind', 'signify', 'mean', 'entail', 'substance', 'significance', 'significant', 'think_of', 'think', 'meaning', 'intend']",Reviews
+out,"['verboten', 'out', 'taboo', 'prohibited', 'knocked_out', 'come_out_of_the_closet', 'proscribed', 'kayoed', 'stunned', 'tabu', 'come_out', 'forbidden', 'away', 'extinct', ""KO'd""]",Reviews
+automated,"['automatise', 'machine-controlled', 'automate', 'automated', 'machine-driven', 'automatize']",Reviews
+Throughout,"['end-to-end', 'throughout', 'passim']",Reviews
+",",[],Reviews
+With,[],Reviews
+allowing,"['allow_for', 'reserve', 'admit', 'permit', 'grant', 'take_into_account', 'let', 'give_up', 'countenance', 'allow', 'set_aside', 'tolerate', 'leave', 'provide', 'earmark', 'appropriate']",Reviews
+depression,"['economic_crisis', 'Great_Depression', 'natural_depression', 'Depression', 'low', 'depression', 'slump', 'clinical_depression', 'impression', 'imprint', 'depressive_disorder']",Reviews
+person,"['someone', 'individual', 'mortal', 'soul', 'person', 'somebody']",Reviews
+&,[],Reviews
+onto,[],Reviews
+being,"['cost', 'existence', 'equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'being', 'beingness', 'organism', 'personify', 'represent', 'comprise']",Reviews
+culminate,"['culminate', 'climax']",Reviews
+distaste,"['antipathy', 'distaste', 'aversion']",Reviews
+materially,['materially'],Reviews
+cause,"['grounds', 'effort', 'causal_agent', 'crusade', 'reason', 'movement', 'induce', 'do', 'stimulate', 'causal_agency', 'make', 'suit', 'lawsuit', 'drive', 'cause', 'case', 'get', 'campaign', 'causa', 'have']",Reviews
+year,"['year', 'yr', 'class', 'twelvemonth']",Reviews
+cannot,[],Reviews
+Principles,"['rule', 'precept', 'principle', 'rationale']",Reviews
+fusty,"['fusty', 'standpat', 'unprogressive', 'musty', 'nonprogressive', 'frowsty']",Reviews
+artery's,[],Reviews
+Life,"['liveliness', 'life-time', 'animation', 'sprightliness', 'life_history', 'biography', 'lifetime', 'lifespan', 'aliveness', 'life_sentence', 'living', 'life', 'life_story', 'spirit']",Reviews
+affect,"['touch', 'touch_on', 'affect', 'bear_upon', 'involve', 'impress', 'strike', 'bear_on', 'regard', 'dissemble', 'pretend', 'feign', 'move', 'impact', 'sham']",Reviews
+damage,"['price', 'terms', 'legal_injury', 'harm', 'damage', 'impairment', 'wrong', 'scathe', 'hurt', 'equipment_casualty']",Reviews
+smaller,"['small-scale', 'minor', 'minuscule', 'little', 'diminished', 'modest', 'smaller', 'low', 'littler', 'small', 'humble', 'pocket-size', 'belittled', 'pocket-sized', 'lowly']",Reviews
+past,"['retiring', 'past_tense', 'by', 'yesteryear', 'preceding', 'past_times', 'past']",Reviews
+children,"['tiddler', 'tyke', 'minor', 'youngster', 'baby', 'tike', 'child', 'kid', 'small_fry', 'nestling', 'nipper', 'fry', 'shaver']",Reviews
+him,[],Reviews
+produced,"['bring_forth', 'acquire', 'raise', 'make', 'give_rise', 'bring_on', 'farm', 'get', 'bring_out', 'grow', 'bring_about', 'create', 'develop', 'produce']",Reviews
+choke,"['expire', 'choke', 'choke_coil', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'fret', 'clog_up', 'kick_the_bucket', 'choke_off', 'give-up_the_ghost', 'gag', 'choking_coil', 'back_up', 'asphyxiate', 'go', 'pass_away', 'foul', 'croak', 'die', 'throttle', 'stifle', 'clog', 'decease', 'strangle', 'suffocate', 'congest', 'pass', 'buy_the_farm', 'scrag', 'perish', 'drop_dead']",Reviews
+Norman,"['Norman', 'Gregory_John_Norman', 'Greg_Norman', 'Jessye_Norman']",Reviews
+number,"['number', 'bit', 'figure', 'enumerate', 'numeral', 'numerate', 'telephone_number', 'act', 'turn', 'keep_down', 'phone_number', 'issue', 'total', 'come', 'list', 'add_up', 'amount', 'routine', 'identification_number', 'count']",Reviews
+pellagra,"['Alpine_scurvy', 'maidism', 'mal_de_la_rosa', 'pellagra', ""Saint_Ignatius'_itch"", 'mal_rosso', 'mayidism']",Reviews
+having,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'have_got', 'take', 'have']",Reviews
+roles,"['function', 'character', 'part', 'office', 'theatrical_role', 'use', 'purpose', 'persona', 'role']",Reviews
+gobblers,"['tom', 'gobbler', 'tom_turkey', 'turkey_cock']",Reviews
+oxidation,"['oxidation', 'oxidization', 'oxidisation']",Reviews
+temporary,"['irregular', 'temporary', 'temporary_worker', 'impermanent', 'temp']",Reviews
+animal,"['fleshly', 'animate_being', 'brute', 'beast', 'animal', 'creature', 'fauna', 'sensual', 'carnal']",Reviews
+hair,"['whisker', 'pilus', 'tomentum', 'hair', 'fuzz', 'haircloth', 'hairsbreadth', ""hair's-breadth""]",Reviews
+businessmen,"['man_of_affairs', 'business_community', 'businessman', 'businessmen']",Reviews
+accounts,"['history', 'write_up', 'invoice', 'score', 'accounting', 'business_relationship', 'bill', 'explanation', 'story', 'account_statement', 'answer_for', 'news_report', 'report', 'account', 'chronicle', 'describe', 'calculate']",Reviews
+sinking,"['drop', 'slide_down', 'go_under', 'sinking_feeling', 'subside', 'pass', 'sink', 'fall_off', 'go_down', 'slump', 'sinking', 'dip', 'bury', 'settle', 'drop_down', 'lapse']",Reviews
+encouraging,"['encourage', 'advance', 'promote', 'supporting', 'encouraging', 'boost', 'further']",Reviews
+walls,"['rampart', 'wall', 'palisade', 'fence_in', 'fence', 'paries', 'surround', 'bulwark']",Reviews
+inventor,"['artificer', 'discoverer', 'inventor']",Reviews
+Although,[],Reviews
+lbs.,[],Reviews
+his,[],Reviews
+wall,"['rampart', 'wall', 'palisade', 'fence_in', 'fence', 'paries', 'surround', 'bulwark']",Reviews
+buffet,"['sideboard', 'counter', 'knock_about', 'batter', 'snack_bar', 'buffet', 'buff', 'snack_counter']",Reviews
+Keys,"['name', 'identify', 'discover', 'paint', 'tonality', 'keystone', 'key', 'key_out', 'key_fruit', 'samara', 'describe', 'Florida_key', 'distinguish', 'cay', 'headstone', 'Key', 'winder', 'Francis_Scott_Key']",Reviews
+Eat,"['eat_on', 'use_up', 'rust', 'wipe_out', 'corrode', 'eat_up', 'deplete', 'exhaust', 'feed', 'run_through', 'eat', 'consume']",Reviews
+1,"['ane', 'unity', 'single', '1', 'I', 'i', 'one', 'ace']",Reviews
+mono-unsaturated,[],Reviews
+kind,"['sort', 'kind', 'variety', 'tolerant', 'genial', 'form']",Reviews
+on,"['on', 'along']",Reviews
+vulnerable,['vulnerable'],Reviews
+turn,"['round', 'call_on', 'sour', 'good_turn', 'number', 'change_by_reversal', 'wrench', 'bit', 'crook', 'plow', 'release', 'become', 'turn_of_events', 'bend', 'flex', 'act', 'go', 'reverse', 'ferment', 'work', 'turn', 'play', 'move_around', 'spell', 'twist', 'change_state', 'bout', 'plough', 'turning', 'rick', 'deform', 'grow', 'routine', 'wrick', 'sprain', 'turn_over', 'tour']",Reviews
+burned,"['burn_up', 'glow', 'incinerate', 'burnt', 'burn_down', 'cauterize', 'sunburn', 'fire', 'burned', 'burn', 'burn_off', 'burned-out', 'sting', 'burned-over', 'bite', 'cut', 'cauterise', 'burnt-out', 'combust']",Reviews
+should,[],Reviews
+dismisses,"['give_notice', 'usher_out', 'send_packing', 'throw_out', 'drop', 'sack', 'fire', 'discount', 'brush_aside', 'dismiss', 'push_aside', 'displace', 'disregard', 'give_the_sack', 'dissolve', 'brush_off', 'force_out', 'send_away', 'give_the_axe', 'ignore', 'can', 'terminate']",Reviews
+even,"['flush', 'eve', 'eventide', 'even', 'regular', 'level', 'evening', 'yet', 'tied', 'still', 'fifty-fifty', 'even_out']",Reviews
+Cadillac,[],Reviews
+located,"['set', 'turn_up', 'situate', 'located', 'situated', 'placed', 'site', 'locate', 'place', 'settle']",Reviews
+families,"['family', 'syndicate', 'folk', 'class', 'sept', 'kin', 'kinsperson', 'kinfolk', 'household', 'family_unit', 'kinsfolk', 'menage', 'phratry', 'family_line', 'crime_syndicate', 'mob', 'category', 'home', 'fellowship', 'house']",Reviews
+die,"['expire', 'break_down', 'choke', 'become_flat', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'go_bad', 'kick_the_bucket', 'give-up_the_ghost', 'give_way', 'go', 'pall', 'pass_away', 'dice', 'croak', 'die', 'conk_out', 'break', 'decease', 'die_out', 'fail', 'pass', 'buy_the_farm', 'perish', 'drop_dead', 'give_out']",Reviews
+society,"['gild', 'social_club', 'companionship', 'smart_set', 'lodge', 'beau_monde', 'high_society', 'society', 'bon_ton', 'club', 'guild', 'fellowship', 'order', 'company']",Reviews
+insurance,"['indemnity', 'insurance_policy', 'insurance', 'policy']",Reviews
+left,"['impart', 'left_wing', 'exit', 'allow', 'left-hand', 'pull_up_stakes', 'leftfield', 'result', 'lead', 'entrust', 'left_field', 'will', 'give', 'forget', 'leftover', 'remaining', 'unexpended', 'get_out', 'go_forth', 'depart', 'left', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'left_over', 'leave_alone', 'left_hand', 'odd', 'leave', 'provide']",Reviews
+start,"['beginning', 'scratch_line', 'bulge_out', 'kickoff', 'embark_on', 'starting', 'protrude', 'bug_out', 'showtime', 'set_about', 'originate', 'get_down', 'get_going', 'pop_out', 'head_start', 'lead_off', 'part', 'start_up', 'bulge', 'go', 'starting_line', 'take_off', 'set_out', 'depart', 'first', 'start', 'set_off', 'begin', 'come_out', 'scratch', 'offset', 'starting_time', 'outset', 'start_out', 'pop', 'jump', 'get-go', 'commence', 'take_up', 'startle', 'get', 'set_forth', 'initiate', 'commencement', 'starting_signal']",Reviews
+Greek,"['Hellenic_language', 'Greek', 'Hellene', 'Hellenic', 'Grecian']",Reviews
+hungry,"['thirsty', 'hungry', 'athirst']",Reviews
+Finnish,"['Suomi', 'Finnish']",Reviews
+ten,"['ten-spot', 'decade', 'X', 'tenner', 'ten', '10', 'x']",Reviews
+During,[],Reviews
+husband,"['married_man', 'economize', 'conserve', 'economise', 'husband', 'hubby']",Reviews
+Today,"['today', 'nowadays', 'now']",Reviews
+sells,"['trade', 'sell', 'deal', 'betray']",Reviews
+last,"['finish', 'terminal', 'conclusion', 'final_stage', 'hold_up', 'lowest', 'concluding', 'survive', 'net', 'finale', 'endure', ""cobbler's_last"", ""shoemaker's_last"", 'finis', 'last-place', 'live', 'go', 'lastly', 'close', 'end', 'finally', 'utmost', 'death', 'hold_out', 'in_conclusion', 'live_on', 'last', 'final', 'stopping_point']",Reviews
+dried,"['dry', 'dried', 'dehydrated', 'desiccated', 'dry_out']",Reviews
+seem,"['appear', 'look', 'seem']",Reviews
+narrows,"['specify', 'nail_down', 'specialise', 'specialize', 'contract', 'peg_down', 'constringe', 'narrow', 'narrow_down', 'constrict', 'pin_down']",Reviews
+currently,"['currently', 'presently']",Reviews
+stadium,"['arena', 'stadium', 'bowl', 'sports_stadium']",Reviews
+fleshy,"['heavy', 'sarcoid', 'fleshy', 'overweight']",Reviews
+sell,"['trade', 'sell', 'deal', 'betray']",Reviews
+kwashiorkor,['kwashiorkor'],Reviews
+chemically,['chemically'],Reviews
+prey,"['fair_game', 'predate', 'quarry', 'target', 'raven', 'feed', 'prey']",Reviews
+point,"['point', 'compass_point', 'detail', 'percentage_point', 'target', 'dot', 'period', 'full_stop', 'show', 'manoeuvre', 'decimal_point', 'bespeak', 'aim', 'channelise', 'full_point', 'breaker_point', 'indicate', 'designate', 'sharpen', 'tip', 'taper', 'stop', 'pointedness', 'level', 'item', 'steer', 'stage', 'charge', 'place', 'orient', 'head', 'spot', 'channelize', 'power_point', 'point_in_time', 'luff', 'direct', 'repoint', 'distributor_point', 'gunpoint', 'signal', 'degree', 'guide', 'betoken', 'manoeuver', 'maneuver', 'peak']",Reviews
+individuals,"['someone', 'individual', 'mortal', 'soul', 'person', 'somebody']",Reviews
+suffocated,"['choke', 'suffocate', 'smother', 'stifle', 'gag', 'asphyxiate', 'strangle']",Reviews
+depressants,"['sedative_drug', 'depressant', 'downer', 'sedative']",Reviews
+while,"['while', 'spell', 'piece', 'patch']",Reviews
+of,[],Reviews
+progressed,"['progress', 'come_along', 'advance', 'get_along', 'shape_up', 'pass_on', 'come_on', 'build_up', 'move_on', 'go_on', 'march_on', 'get_on', 'work_up', 'build']",Reviews
+constant,"['invariant', 'unvarying', 'incessant', 'never-ending', 'changeless', 'unceasing', 'unremitting', 'constant', 'invariable', 'ceaseless', 'constant_quantity', 'perpetual']",Reviews
+sedative,"['downer', 'ataraxic', 'tranquillising', 'tranquilising', 'sedative', 'tranquilizing', 'ataractic', 'sedative_drug', 'depressant', 'tranquillizing']",Reviews
+transport,"['delight', 'tape_transport', 'transport', 'transfer', 'ravish', 'channelise', 'exaltation', 'transmit', 'enthral', 'conveyance', 'rapture', 'ecstasy', 'enrapture', 'send', 'raptus', 'carry', 'tape_drive', 'channelize', 'channel', 'enchant', 'transferral', 'transportation', 'ship', 'enthrall', 'shipping']",Reviews
+amounts,"['come', 'number', 'sum_of_money', 'measure', 'quantity', 'add_up', 'amount', 'amount_of_money', 'sum', 'total']",Reviews
+hold,"['clasp', 'take_hold', 'entertain', 'hold_up', 'defy', 'custody', 'defend', 'obligate', 'hold', 'storage_area', 'confine', 'accommodate', 'book', 'bind', 'give', 'contain', 'oblige', 'view_as', 'keep_back', 'clutches', 'halt', 'sustain', 'detainment', 'throw', 'clench', 'retain', 'harbour', 'support', 'prevail', 'delay', 'detention', 'declare', 'maintain', 'nurse', 'obtain', 'adjudge', 'take_for', 'go_for', 'clutch', 'carry', 'hold_in', 'cargo_hold', 'make', 'moderate', 'curb', 'harbor', 'take', 'hold_back', 'concur', 'grasp', 'guard', 'restrain', 'have', 'grip', 'cargo_deck', 'wait', 'bear', 'time_lag', 'reserve', 'admit', 'control', 'deem', 'handgrip', 'cargo_area', 'withstand', 'keep', 'agree', 'concord', 'check', 'arrest', 'have_got', 'appreciation', 'handle', 'postponement', 'apply']",Reviews
+That,[],Reviews
+Red,"['crimson', 'cerise', 'scarlet', 'red-faced', 'bolshy', 'red_ink', 'red', 'bolshie', 'Red', 'Marxist', 'ruby', 'cherry', 'Red_River', 'reddened', 'ruby-red', 'Bolshevik', 'loss', 'violent', 'redness', 'cherry-red', 'carmine', 'blood-red', 'ruddy', 'reddish', 'flushed']",Reviews
+babies,"['infant', 'pamper', 'baby', 'indulge', 'cocker', 'child', 'cosset', 'coddle', 'mollycoddle', 'featherbed', 'spoil', 'sister', 'babe']",Reviews
+raises,"['nurture', 'prove', 'stir', 'advance', 'lift', 'conjure', 'arouse', 'recruit', 'enkindle', 'upraise', 'elevate', 'get_up', 'invoke', 'elicit', 'resurrect', 'call_down', 'promote', 'leaven', 'upgrade', 'fire', 'conjure_up', 'heighten', 'call_forth', 'wage_increase', 'enhance', 'kick_upstairs', 'wage_hike', 'kindle', 'rise', 'hike', 'farm', 'acclivity', 'put_forward', 'salary_increase', 'ascent', 'rear', 'climb', 'evoke', 'put_up', 'raise', 'provoke', 'levy', 'set_up', 'bring_up', 'heave', 'grow', 'parent', 'erect', 'produce']",Reviews
+pretty,"['jolly', 'moderately', 'reasonably', 'somewhat', 'passably', 'pretty', 'fairly', 'middling']",Reviews
+least,"['to_the_lowest_degree', 'least']",Reviews
+eating,"['eating', 'eat_on', 'use_up', 'rust', 'feeding', 'wipe_out', 'corrode', 'eat_up', 'deplete', 'exhaust', 'feed', 'run_through', 'eat', 'consume']",Reviews
+48,"['48', 'xlviii', 'forty-eight']",Reviews
+17,"['xvii', '17', 'seventeen', 'XVII']",Reviews
+In,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",Reviews
+Bantu,"['Bantu', 'Bantoid_language']",Reviews
+Benzedrine,"['bennie', 'Benzedrine']",Reviews
+breathing,"['suspire', 'pass_off', 'external_respiration', 'respire', 'ventilation', 'respiration', 'rest', 'take_a_breather', 'breathing', 'breathe', ""catch_one's_breath"", 'emit', 'take_a_breath', 'eupneic', 'eupnoeic']",Reviews
+knows,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",Reviews
+mothers',[],Reviews
+Each,"['each', 'from_each_one', 'apiece', 'to_each_one', 'for_each_one']",Reviews
+think,"['cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'consider', 'recall', 'call_back', 'recollect', 'think', 'suppose', 'imagine', 'conceive', 'opine', 'call_up', 'believe', 'intend']",Reviews
+appetite,"['appetency', 'appetite', 'appetence']",Reviews
+rates,"['blackleg', 'order', 'value', 'betray', 'shop', 'snitch', 'pace', 'rat', 'denounce', 'place', 'rate', 'rates', 'rank', 'grass', 'scab', 'give_away', 'shit', 'grade', 'charge_per_unit', 'stag', 'fink', 'range', 'tell_on']",Reviews
+predicting,"['predict', 'foretell', 'presage', 'foreshadow', 'call', 'omen', 'prefigure', 'bode', 'betoken', 'anticipate', 'forebode', 'augur', 'forecast', 'promise', 'portend', 'prognosticate', 'auspicate']",Reviews
+Some,"['roughly', 'more_or_less', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",Reviews
+us,"['u', 'uracil', 'the_States', 'uranium', 'U.S.A.', 'United_States', 'United_States_of_America', 'US', 'U', 'atomic_number_92', 'U.S.', 'America', 'USA']",Reviews
+finds,"['breakthrough', 'uncovering', 'receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'retrieve', 'rule', 'line_up', 'chance', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'encounter', 'find', 'find_oneself', 'get', 'ascertain', 'detect', 'discovery', 'obtain', 'see']",Reviews
+vitamins,['vitamin'],Reviews
+Oats's,[],Reviews
+Nazi,"['German_Nazi', 'Nazi', 'nazi', 'national_socialist']",Reviews
+fatty,"['roly-poly', 'butterball', 'fatty', 'fatso', 'fat', 'fat_person']",Reviews
+severe,"['terrible', 'dangerous', 'austere', 'serious', 'stark', 'life-threatening', 'hard', 'stern', 'grievous', 'grave', 'severe', 'wicked', 'spartan', 'knockout']",Reviews
+favor,"['prefer', 'privilege', 'party_favor', 'favour', 'favor', 'party_favour']",Reviews
+many,['many'],Reviews
+exercise,"['physical_exertion', 'usage', 'use', 'drill', 'do', 'practice_session', 'exercising', 'work', 'utilization', 'physical_exercise', 'example', 'work_out', 'exercise', 'practise', 'utilisation', 'workout', 'practice', 'recitation', 'exert', 'employment']",Reviews
+crutches,['crutch'],Reviews
+long,"['foresightful', 'recollective', 'hanker', 'yearn', 'tenacious', 'prospicient', 'foresighted', 'farseeing', 'retentive', 'long', 'longsighted', 'farsighted']",Reviews
+),[],Reviews
+human,"['man', 'homo', 'human', 'human_being']",Reviews
+main,"['principal', 'primary', 'main', 'chief', 'briny', 'independent', 'master']",Reviews
+rewards,"['honour', 'repay', 'reward', 'reinforce', 'wages', 'pay_back', 'honor', 'payoff', 'advantage', 'reinforcement']",Reviews
+Laurance,[],Reviews
+timing,"['timing', 'clock', 'time']",Reviews
+season,"['flavor', 'harden', 'season', 'mollify', 'temper', 'time_of_year', 'flavour']",Reviews
+Through,"['done', 'through', 'through_and_through', 'through_with']",Reviews
+imperceptible,"['imperceptible', 'unperceivable']",Reviews
+typical,"['typical', 'distinctive']",Reviews
+nation,"['body_politic', 'Nation', 'res_publica', 'state', 'country', 'Carry_Amelia_Moore_Nation', 'Carry_Nation', 'nation', 'land', 'commonwealth']",Reviews
+"10,000",[],Reviews
+averaged,"['average_out', 'average']",Reviews
+fact,['fact'],Reviews
+protein,['protein'],Reviews
+--,[],Reviews
+likely,"['belike', 'in_all_probability', 'likely', 'potential', 'probable', 'probably', 'in_all_likelihood']",Reviews
+25%,[],Reviews
+water-balance,[],Reviews
+overeating,"['gluttony', 'overeating', 'gourmandize', 'overgorge', 'gormandize', 'overeat', 'scarf_out', 'englut', 'glut', 'ingurgitate', 'binge', 'stuff', 'engorge', 'satiate', 'gula', 'overindulge', 'gorge', 'pig_out', 'gormandise']",Reviews
+supplements,"['supplement', 'add_on', 'appurtenance', 'add-on', 'append', 'postscript', 'affix', 'accessory', 'addendum', 'supplementation']",Reviews
+somehow,"['in_some_manner', 'somehow', 'in_some_way', 'someways', 'someway']",Reviews
+Sweden's,[],Reviews
+ration,"['ration', 'ration_out']",Reviews
+Minneapolis,['Minneapolis'],Reviews
+plenty,"['spate', 'good_deal', 'wad', 'pile', 'batch', 'mountain', 'mint', 'hatful', 'heap', 'plenty', 'flock', 'peck', 'great_deal', 'tidy_sum', 'pot', 'mickle', 'plenteousness', 'lot', 'mess', 'raft', 'muckle', 'enough', 'plentifulness', 'mass', 'stack', 'quite_a_little', 'plenitude', 'slew', 'passel', 'plentitude', 'deal', 'sight']",Reviews
+anxious,"['uneasy', 'dying', 'queasy', 'unquiet', 'anxious', 'nervous']",Reviews
+$900,[],Reviews
+subconscious,"['subconscious_mind', 'subconscious']",Reviews
+learning,"['acquisition', 'find_out', 'memorise', 'read', 'determine', 'study', 'learning', 'eruditeness', 'hear', 'teach', 'instruct', 'erudition', 'learn', 'memorize', 'get_word', 'discover', 'watch', 'scholarship', 'get_a_line', 'pick_up', 'encyclopaedism', 'encyclopedism', 'con', 'learnedness', 'larn', 'get_wind', 'ascertain', 'check', 'take', 'acquire', 'see']",Reviews
+But,"['only', 'simply', 'but', 'just', 'merely']",Reviews
+survive,"['survive', 'pull_round', 'last', 'pull_through', 'make_it', 'endure', 'hold_up', 'outlive', 'exist', 'hold_out', 'live', 'go', 'come_through', 'outlast', 'live_on', 'subsist']",Reviews
+nagging,"['nagging', 'nag', 'shrewish', 'peck', 'hen-peck']",Reviews
+nation's,[],Reviews
+boys,"['male_child', 'boy', 'son']",Reviews
+calls,"['Call', 'phone_call', 'anticipate', 'call_off', 'birdcall', 'claim', 'vociferation', 'ring', 'margin_call', 'cry', 'send_for', 'visit', 'name', 'scream', 'yell', 'foretell', 'shout', 'call_in', 'birdsong', 'holler', 'squall', 'forebode', 'telephone_call', 'hollo', 'bid', 'outcry', 'address', 'predict', 'song', 'call', 'phone', 'prognosticate', 'telephone', 'call_up', 'shout_out', 'promise', 'call_option']",Reviews
+From,[],Reviews
+will,"['bequeath', 'volition', 'will', 'testament', 'leave']",Reviews
+Government's,[],Reviews
+indignities,['indignity'],Reviews
+ticket,"['slate', 'ticket', 'fine', 'just_the_ticket', 'tag']",Reviews
+butter,['butter'],Reviews
+sustain,"['suffer', 'nurture', 'corroborate', 'substantiate', 'affirm', 'confirm', 'prolong', 'hold_up', 'sustain', 'get', 'keep', 'support', 'hold', 'keep_up', 'have', 'maintain', 'nourish']",Reviews
+enhances,"['enhance', 'raise', 'heighten']",Reviews
+blockages,"['closure', 'stoppage', 'stop', 'obstruction', 'block', 'occlusion', 'blockage']",Reviews
+hormones,"['endocrine', 'hormone', 'internal_secretion']",Reviews
+menu,"['computer_menu', 'carte_du_jour', 'bill_of_fare', 'card', 'carte', 'menu', 'fare']",Reviews
+attacks,"['round', 'onset', 'blast', 'onslaught', 'flak', 'flack', 'lash_out', 'attack', 'aggress', 'tone-beginning', 'onrush', 'assault', 'fire', 'plan_of_attack', 'assail', 'approach', 'set_on', 'snipe', 'attempt']",Reviews
+form,"['pattern', 'contour', 'signifier', 'phase', 'physical_body', 'frame', 'organise', 'descriptor', 'bod', 'figure', 'manakin', 'mold', 'class', 'spring', 'physique', 'word_form', 'shape', 'manikin', 'kind', 'variety', 'material_body', 'flesh', 'work', 'organize', 'form', 'forge', 'var.', 'take_form', 'anatomy', 'make', 'sort', 'mannequin', 'cast', 'configuration', 'constitute', 'mould', 'strain', 'course', 'variant', 'soma', 'build', 'chassis', 'conformation', 'grade', 'mannikin', 'human_body', 'take_shape', 'imprint']",Reviews
+place,"['point', 'billet', 'pose', 'localize', 'target', 'lieu', 'order', 'post', 'come_in', 'aim', 'station', 'set', 'localise', 'shoes', 'piazza', 'lay', 'site', 'blank_space', 'commit', 'send', 'place', 'property', 'situation', 'put', 'rate', 'spot', 'rank', 'berth', 'come_out', 'invest', 'home', 'stead', 'direct', 'identify', 'position', 'office', 'topographic_point', 'seat', 'grade', 'plaza', 'space', 'range', 'locate']",Reviews
+arrivals,"['reaching', 'comer', 'arriver', 'arrival']",Reviews
+apart,"['apart', 'obscure', 'aside', 'asunder', 'isolated']",Reviews
+no,"['no_more', 'nobelium', 'no', 'No', 'atomic_number_102']",Reviews
+said,"['aforesaid', 'suppose', 'state', 'said', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin', 'aforementioned']",Reviews
+until,[],Reviews
+demonstrate,"['prove', 'attest', 'show', 'present', 'demonstrate', 'establish', 'exhibit', 'evidence', 'demo', 'certify', 'manifest', 'march', 'shew']",Reviews
+vegetable,"['veggie', 'veg', 'vegetable']",Reviews
+vanished,"['go_away', 'vanish', 'vaporize', 'vanished', 'fell', 'disappear', 'fly']",Reviews
+farm,"['farm', 'raise', 'grow', 'produce']",Reviews
+facts,['fact'],Reviews
+Kinsell,[],Reviews
+obesity,"['obesity', 'corpulency', 'fleshiness']",Reviews
+was,"['Evergreen_State', 'equal', 'constitute', 'follow', 'Washington', 'exist', 'be', 'embody', 'make_up', 'live', 'WA', 'cost', 'personify', 'represent', 'comprise']",Reviews
+slowing,"['retardation', 'slowing', 'slow_down', 'slack', 'slow_up', 'retard', 'deceleration', 'slow', 'decelerate', 'slacken']",Reviews
+public,"['world', 'public', 'populace']",Reviews
+tumor,"['neoplasm', 'tumour', 'tumor']",Reviews
+carried,"['impart', 'transport', 'post', 'hold', 'conduct', 'pack', 'convey', 'deport', 'extend', 'transmit', 'comport', 'express', 'expect', 'run', 'dribble', 'stockpile', 'carry', 'acquit', 'take', 'channel', 'persuade', 'stock', 'behave', 'bear', 'gestate', 'sway', 'have_a_bun_in_the_oven', 'contain']",Reviews
+collected,"['amass', 'take_in', 'compile', 'pull_together', 'gathered', 'gather', 'self-collected', 'call_for', 'self-contained', 'collect', 'roll_up', 'pile_up', 'garner', 'pick_up', 'self-possessed', 'equanimous', 'gather_up', 'poised', 'accumulate', 'collected', 'pull_in', 'hoard']",Reviews
+wear,"['vesture', 'jade', 'wearing', 'have_on', 'put_on', 'fall_apart', 'fag_out', 'wear_out', 'get_into', 'don', 'wear_upon', 'wear_thin', 'endure', 'wear_off', 'tire', 'assume', 'tire_out', 'hold_out', 'break', 'bust', 'fag', 'habiliment', 'article_of_clothing', 'wear_down', 'clothing', 'bear', 'weary', 'fatigue', 'wearable', 'wear', 'outwear']",Reviews
+per,[],Reviews
+"1,600",[],Reviews
+routine,"['subroutine', 'mundane', 'procedure', 'subprogram', 'function', 'everyday', 'number', 'bit', 'modus_operandi', 'workaday', 'act', 'routine', 'quotidian', 'unremarkable', 'turn']",Reviews
+59-cents,[],Reviews
+K,"['special_K', 'chiliad', 'green', 'kilobyte', 'grand', 'k', 'm', 'KiB', 'atomic_number_19', 'thousand', 'one_thousand', 'cat_valium', 'jet', 'honey_oil', 'thou', 'yard', 'G', 'potassium', 'kibibyte', 'super_C', 'super_acid', 'KB', 'kelvin', 'M', 'K', '1000', 'kB']",Reviews
+giving,"['pay', 'dedicate', 'impart', 'liberal', 'freehanded', 'ease_up', 'fall_in', 'founder', 'openhanded', 'devote', 'return', 'open', 'hold', 'feed', 'bighearted', 'handsome', 'give', 'present', 'bountiful', 'give_way', 'throw', 'cave_in', 'commit', 'bounteous', 'consecrate', 'make', 'generate', 'yield', 'collapse', 'apply', 'grant', 'establish', 'gift', 'big', 'break', 'afford', 'sacrifice', 'kick_in', 'hand', 'reach', 'pass_on', 'chip_in', 'pass', 'contribute', 'move_over', 'leave', 'giving', 'have', 'render', 'turn_over']",Reviews
+can,"['derriere', 'arse', 'stool', 'crapper', 'ass', 'give_notice', 'prat', 'hind_end', 'posterior', 'tail_end', 'terminate', 'canful', 'butt', 'commode', 'nates', 'lavatory', 'bathroom', 'stern', 'can_buoy', 'rear_end', 'sack', 'backside', 'rump', 'pot', 'fire', 'tush', 'dismiss', 'tin', 'displace', 'fundament', 'buttocks', 'buns', 'give_the_sack', 'rear', 'tooshie', 'put_up', 'behind', 'potty', 'privy', 'john', 'seat', 'throne', 'bottom', 'fanny', 'toilet', 'lav', 'keister', 'force_out', 'give_the_axe', 'send_away', 'tail', 'can', 'tin_can', 'hindquarters', 'bum']",Reviews
+so,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",Reviews
+seven,"['septet', 'vii', 'heptad', 'seven-spot', 'sevener', 'seven', 'septenary', '7', 'VII']",Reviews
+experience,"['go_through', 'feel', 'receive', 'know', 'get', 'live', 'experience', 'have', 'see']",Reviews
+says,"['suppose', 'state', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin']",Reviews
+``,[],Reviews
+bars,"['exclude', 'bars', 'stripe', 'BAR', 'cake', 'blockade', 'prevention', 'ginmill', 'taproom', 'Browning_automatic_rifle', 'stop', 'legal_profession', 'parallel_bars', 'debar', 'streak', 'block_off', 'saloon', 'legal_community', 'banish', 'bar', 'relegate', 'block', 'barroom', 'block_up', 'measure', 'barricade']",Reviews
+less,"['LE', 'lupus_erythematosus', 'to_a_lesser_extent', 'less']",Reviews
+flow,"['menstruation', 'menstruate', 'flow', 'rate_of_flow', 'menses', 'current', 'fall', 'flow_rate', 'period', 'flux', 'menstruum', 'hang', 'course', 'run', 'catamenia', 'feed', 'flowing', 'stream']",Reviews
+between,"['between', ""'tween"", 'betwixt']",Reviews
+deprived,"['divest', 'strip', 'deprived', 'disadvantaged', 'deprive', 'impoverish']",Reviews
+35,"['35', 'xxxv', 'thirty-five']",Reviews
+changed,"['exchange', 'vary', 'changed', 'alter', 'change', 'modify', 'commute', 'convert', 'shift', 'interchange', 'transfer', 'switch', 'deepen']",Reviews
+explain,"['explain', 'excuse', 'explicate']",Reviews
+tribesmen,['tribesman'],Reviews
+fostered,"['nurture', 'foster', 'further']",Reviews
+immoral,"['base', 'immoral']",Reviews
+group,"['group', 'aggroup', 'grouping', 'mathematical_group', 'radical', 'chemical_group']",Reviews
+.,[],Reviews
+processing,"['litigate', 'swear_out', 'processing', 'sue', 'work_on', 'action', 'march', 'serve', 'work', 'treat', 'process']",Reviews
+900-calorie,[],Reviews
+affluence,"['richness', 'affluence']",Reviews
+man,"['Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'human', 'human_being', 'military_personnel', 'valet']",Reviews
+happens,"['materialize', 'pass_off', 'come_about', 'bump', 'pass', 'bechance', 'materialise', 'hap', 'take_place', 'go_on', 'encounter', 'find', 'chance', 'fall_out', 'befall', 'occur', 'happen']",Reviews
+showed,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'evidence', 'demo', 'render']",Reviews
+concentrates,"['pore', 'centralize', 'dressed_ore', 'centre', 'boil_down', 'contract', 'digest', 'decoct', 'reduce', 'concentrate', 'condense', 'focus', 'rivet', 'centralise', 'center']",Reviews
+findings,"['receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'retrieve', 'determination', 'rule', 'line_up', 'chance', 'findings', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'encounter', 'find', 'find_oneself', 'finding', 'get', 'ascertain', 'detect', 'obtain', 'see']",Reviews
+insoluble,"['indissoluble', 'insoluble']",Reviews
+sin,"['blunder', 'goof', 'sine', 'boob', 'sinfulness', 'hell', 'wickedness', 'sinning', 'transgress', 'trespass', 'drop_the_ball', 'sin', 'Sin']",Reviews
+million,"['1000000', 'gazillion', 'billion', 'one_thousand_thousand', 'meg', 'trillion', 'jillion', 'zillion', 'million']",Reviews
+brain's,[],Reviews
+moderate,"['chasten', 'restrained', 'chair', 'centrist', 'hold', 'moderationist', 'lead', 'tone_down', 'hold_in', 'moderate', 'curb', 'mince', 'middle_of_the_roader', 'tame', 'control', 'temperate', 'soften', 'check', 'temper', 'contain']",Reviews
+each,"['each', 'from_each_one', 'apiece', 'to_each_one', 'for_each_one']",Reviews
+first,"['beginning', 'for_the_first_time', 'kickoff', 'showtime', 'inaugural', 'first_of_all', '1st', 'low_gear', 'maiden', 'first_base', 'initiatory', 'world-class', 'low', 'foremost', 'initiative', 'first', 'firstly', 'start', 'number_one', 'offset', 'first_gear', 'starting_time', 'outset', 'get-go', 'first_off', 'number_1', 'first-class_honours_degree', 'commencement']",Reviews
+natural,"['natural', 'lifelike', 'cancel', 'innate', 'rude', 'instinctive', 'born', 'raw']",Reviews
+cholesterol-rich,[],Reviews
+rare,"['rarified', 'uncommon', 'rare', 'rarefied']",Reviews
+supplied,"['cater', 'issue', 'append', 'ply', 'add', 'supply', 'provide', 'render', 'furnish']",Reviews
+from,[],Reviews
+needs,"['pauperism', 'postulate', 'ask', 'indigence', 'require', 'want', 'call_for', 'pauperization', 'motivation', 'motive', 'demand', 'inevitably', 'needs', 'of_necessity', 'penury', 'necessitate', 'necessarily', 'involve', 'need', 'take']",Reviews
+big,"['liberal', 'magnanimous', 'self-aggrandizing', 'braggy', 'freehanded', 'openhanded', 'prominent', 'full-grown', 'grownup', 'bighearted', 'large', 'handsome', 'cock-a-hoop', 'bountiful', 'heavy', 'gravid', 'with_child', 'grown', 'bounteous', 'vainglorious', 'fully_grown', 'swelled', 'braggart', 'vauntingly', 'crowing', 'great', 'big', 'adult', 'boastful', 'bad', 'expectant', 'enceinte', 'boastfully', 'self-aggrandising', 'bragging', 'giving']",Reviews
+up,"['upwards', 'upward', 'upwardly', 'improving', 'up', 'astir']",Reviews
+substance,"['pith', 'message', 'nub', 'marrow', 'means', 'nitty-gritty', 'meaning', 'heart', 'essence', 'centre', 'content', 'substance', 'gist', 'meat', 'sum', 'subject_matter', 'kernel', 'heart_and_soul', 'core', 'inwardness', 'center']",Reviews
+world,"['worldly_concern', 'world-wide', 'existence', 'reality', 'cosmos', 'humankind', 'domain', 'human_beings', 'global', 'man', 'populace', 'earth', 'creation', 'globe', 'humans', 'macrocosm', 'planetary', 'humanity', 'Earth', 'world', 'mankind', 'human_race', 'universe', 'public', 'worldwide', 'earthly_concern']",Reviews
+similar,"['like', 'exchangeable', 'standardised', 'interchangeable', 'similar', 'alike', 'standardized']",Reviews
+despite,"['scorn', 'contempt', 'despite', 'disdain']",Reviews
+Institute,"['institute', 'plant', 'constitute', 'establish', 'found', 'bring']",Reviews
+things,"['things', 'thing', 'affair', 'matter']",Reviews
+time,"['clock', 'metre', 'sentence', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip']",Reviews
+them,[],Reviews
+rest,"['respite', 'relief', 'remain', 'sleep', 'eternal_sleep', 'quietus', 'pillow', ""catch_one's_breath"", 'roost', 'residuum', 'ease', 'take_a_breather', 'residue', 'perch', 'residual', 'balance', 'rest_period', 'eternal_rest', 'reside', 'lie', 'stay', 'rest', 'remainder', 'repose', 'breathe', 'relaxation']",Reviews
+almost,"['near', 'nigh', 'well-nigh', 'nearly', 'almost', 'about', 'virtually', 'most']",Reviews
+blocky,"['blocky', 'blockish']",Reviews
+compulsive,"['compulsive', 'driven', 'determined']",Reviews
+amount,"['come', 'number', 'sum_of_money', 'measure', 'quantity', 'add_up', 'amount', 'amount_of_money', 'sum', 'total']",Reviews
+whether,[],Reviews
+saturated,"['impregnate', 'concentrated', 'saturate', 'pure', 'saturated']",Reviews
+concerns,"['come_to', 'touch', 'business_organisation', 'business', 'business_organization', 'relate', 'have-to_doe_with', 'business_concern', 'interest', 'occupy', 'pertain', 'touch_on', 'refer', 'worry', 'headache', 'concern', 'vexation', 'fear', 'care', 'bear_on']",Reviews
+room,"['way', 'elbow_room', 'room', 'board']",Reviews
+relationship,"['family_relationship', 'relationship', 'kinship', 'human_relationship']",Reviews
+times,"['clock', 'metre', 'sentence', 'multiplication', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip', 'times']",Reviews
+believe,"['conceive', 'consider', 'trust', 'believe', 'think']",Reviews
+destroyed,"['destroyed', 'ruined', 'demolish', 'destruct', 'put_down', 'ruin', 'destroy']",Reviews
+1950,[],Reviews
+has,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'HA', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'cause', 'give_birth', 'suffer', 'bear', 'hour_angle', 'get', 'deliver', 'have_got', 'take', 'have']",Reviews
+and,[],Reviews
+same,"['Lapplander', 'like', 'same', 'Saami', 'Same', 'Saame', 'Lapp', 'Sami']",Reviews
+conspire,"['conspire', 'machinate', 'conjure', 'cabal', 'complot', 'collude']",Reviews
+may,"['English_hawthorn', 'Crataegus_oxycantha', 'May', 'may', 'whitethorn', 'Crataegus_laevigata']",Reviews
+180,"['clxxx', 'one_hundred_eighty', '180']",Reviews
+insecurity,['insecurity'],Reviews
+delicacies,"['airiness', 'fragility', 'diplomacy', 'fineness', 'discretion', 'delicacy', 'finesse', 'dainty', 'slightness', 'goody', 'kickshaw', 'discreetness', 'treat', 'daintiness']",Reviews
+Far,"['FAR', 'ALIR', 'Former_Armed_Forces', 'far', 'Army_for_the_Liberation_of_Rwanda', 'Interahamwe']",Reviews
+cake,"['bar', 'patty', 'cake', 'coat']",Reviews
+around,"['roughly', 'more_or_less', 'round', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",Reviews
+appestat,[],Reviews
+adrenal,"['suprarenal_gland', 'adrenal_gland', 'adrenal']",Reviews
+did,"['set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'behave', 'practice']",Reviews
+withheld,"['withhold', 'deduct', 'keep_back', 'recoup']",Reviews
+theatergoing,[],Reviews
+tonics,"['soda_pop', 'tonic', 'tonic_water', 'pop', 'soda_water', 'restorative', 'keynote', 'soda', 'quinine_water']",Reviews
+toll,"['price', 'toll', 'bell', 'cost']",Reviews
+molecules,"['particle', 'atom', 'molecule', 'corpuscle', 'speck', 'mote']",Reviews
+stresses,"['emphasis', 'punctuate', 'try', 'stress', 'emphasise', 'strain', 'emphasize', 'accentuate', 'focus', 'tension', 'accent', 'tenseness']",Reviews
+Malmros,[],Reviews
+"500,000",[],Reviews
+data,"['information', 'datum', 'data', 'data_point']",Reviews
+normal,"['pattern', 'rule', 'normal', 'convention', 'formula']",Reviews
+heavy,"['laborious', 'dense', 'sound', 'sullen', 'weighed_down', 'profound', 'gruelling', 'large', 'laboured', 'sonorous', 'labored', 'hard', 'grievous', 'intemperate', 'heavy', 'grueling', 'gravid', 'with_child', 'punishing', 'grave', 'threatening', 'operose', 'leaden', 'clayey', 'impenetrable', 'great', 'big', 'lowering', 'ponderous', 'expectant', 'arduous', 'wakeless', 'enceinte', 'overweight', 'lumbering', 'backbreaking', 'toilsome', 'weighty', 'cloggy', 'heavily', 'fleshy']",Reviews
+reading,"['register', 'show', 'scan', 'read', 'Reading', 'indication', 'study', 'record', 'meter_reading', 'learn', 'reading', 'reading_material', 'understand', 'interpret', 'recitation', 'say', 'recital', 'translate', 'version', 'take', 'interpretation']",Reviews
+Agriculture,"['USDA', 'Department_of_Agriculture', 'agriculture', 'factory_farm', 'farming', 'Agriculture', 'Agriculture_Department', 'agribusiness', 'husbandry']",Reviews
+act,"['number', 'playact', 'bit', 'pretend', 'do', 'act_as', 'dissemble', 'human_activity', 'act', 'work', 'human_action', 'turn', 'play', 'enactment', 'represent', 'deed', 'behave', 'roleplay', 'routine', 'move']",Reviews
+where,[],Reviews
+centuries,"['C', 'century', 'hundred', '100', 'one_C']",Reviews
+8-oz.,[],Reviews
+quite,"['quite_a', 'rather', 'quite', 'quite_an']",Reviews
+it,"['IT', 'information_technology']",Reviews
+analyzed,"['break_down', 'dissect', 'psychoanalyze', 'analyzed', 'examine', 'psychoanalyse', 'analyze', 'analyse', 'canvass', 'take_apart', 'study', 'canvas']",Reviews
+another,"['some_other', 'another']",Reviews
+doctors,"['sophisticate', 'touch_on', 'doctor_up', 'repair', 'furbish_up', 'mend', 'MD', 'physician', 'doc', 'fix', 'doctor', 'Doctor', 'medico', 'bushel', 'Dr.', 'restore', 'Doctor_of_the_Church']",Reviews
+Africa,['Africa'],Reviews
+problem,"['job', 'problem', 'trouble']",Reviews
+puts,"['set', 'couch', 'pose', 'position', 'frame', 'cast', 'lay', 'redact', 'arrange', 'set_up', 'assign', 'commit', 'order', 'invest', 'put_option', 'place', 'put']",Reviews
+still,"['stillness', 'nonetheless', 'quieten', 'quiet', 'withal', 'placid', 'nevertheless', 'hush', 'inactive', 'calm', 'smooth', 'static', 'even_so', 'tranquil', 'ease', 'yet', 'notwithstanding', 'distillery', 'hush_up', 'unruffled', 'lull', 'however', 'tranquillize', 'even', 'allay', 'silence', 'still', 'soundless', 'relieve', 'silent', 'all_the_same', 'shut_up', 'tranquillise', 'tranquilize', 'motionless', 'stock-still', 'calm_down', 'noneffervescent']",Reviews
+begin,"['lead_off', 'Begin', 'start_out', 'commence', 'Menachem_Begin', 'start', 'get', 'begin', 'set_about', 'get_down', 'set_out']",Reviews
+doses,"['dot', 'DoS', ""Cupid's_disease"", 'acid', 'disk_operating_system', 'Elvis', 'venereal_infection', ""Venus's_curse"", 'Zen', 'dose', 'social_disease', 'dosage', 'pane', ""Cupid's_itch"", 'STD', 'DOS', 'back_breaker', 'Department_of_State', 'Lucy_in_the_sky_with_diamonds', 'loony_toons', 'State_Department', 'sexually_transmitted_disease', 'superman', 'VD', 'venereal_disease', 'battery-acid', 'United_States_Department_of_State', 'State', 'drug', 'window_pane']",Reviews
+vast,"['huge', 'Brobdingnagian', 'immense', 'vast']",Reviews
+health,"['health', 'wellness']",Reviews
+thinks,"['cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'consider', 'recall', 'call_back', 'recollect', 'think', 'suppose', 'imagine', 'conceive', 'opine', 'call_up', 'believe', 'intend']",Reviews
+something,[],Reviews
+total,"['tote_up', 'add_together', 'come', 'totality', 'tot_up', 'summate', 'number', 'tally', 'entire', 'add', 'sum_up', 'add_up', 'amount', 'tot', 'sum', 'full', 'aggregate', 'total']",Reviews
+hint,"['touch', 'suggest', 'mite', 'tip', 'lead', 'steer', 'trace', 'confidential_information', 'jot', 'pinch', 'intimation', 'wind', 'soupcon', 'speck', 'breath', 'hint', 'clue', 'tinge', 'suggestion']",Reviews
+Ordinarily,"['ordinarily', 'normally', 'commonly', 'usually', 'unremarkably']",Reviews
+calcium,"['atomic_number_20', 'calcium', 'Ca']",Reviews
+dropping,"['deteriorate', 'send_packing', 'degenerate', 'set_down', 'discharge', 'falling', 'shake_off', 'drip', 'drop', 'overlook', 'sink', 'throw', 'devolve', 'dribble', 'throw_off', 'flatten', 'spend', 'pretermit', 'dismiss', 'expend', 'overleap', 'cast', 'cut_down', 'put_down', 'fell', 'neglect', 'shed', 'strike_down', 'drop_off', 'cast_off', 'dropping', 'unload', 'leave_out', 'dangle', 'omit', 'throw_away', 'knock_off', 'send_away', 'miss', 'drop_down', 'swing']",Reviews
+simply,"['plainly', 'only', 'simply', 'but', 'just', 'merely']",Reviews
+Well,"['good', 'considerably', 'comfortably', 'easily', 'substantially', 'wellspring', 'well', 'intimately', 'swell', 'fountainhead', 'advantageously']",Reviews
+reddish,"['crimson', 'cherry-red', 'carmine', 'blood-red', 'ruddy', 'reddish', 'cherry', 'cerise', 'ruby', 'ruby-red', 'scarlet', 'red']",Reviews
+;,[],Reviews
+pink,"['tap', 'garden_pink', 'pinko', 'pinkish', 'rap', 'pink', 'ping', 'knock']",Reviews
+citizen,['citizen'],Reviews
+high,"['richly', 'heights', 'senior_high_school', 'senior_high', 'gamey', 'high_gear', 'luxuriously', 'high-pitched', 'mellow', 'in_high_spirits', 'high', 'high_school', 'high_up', 'gamy', 'eminent', 'highschool']",Reviews
+keep,"['prevent', 'save', 'proceed', 'donjon', 'preserve', 'go_along', 'living', 'bread_and_butter', 'hold', 'stay_fresh', 'dungeon', 'keep_back', 'sustain', 'retain', 'support', 'livelihood', 'maintain', 'observe', 'go_on', 'hold_open', 'hold_back', 'restrain', 'hold_on', 'sustenance', 'celebrate', 'continue', 'keep_on', 'keep_open', 'keep']",Reviews
+destroying,"['demolish', 'destruct', 'put_down', 'ruin', 'destroy']",Reviews
+disgusting,"['repel', 'repellent', 'gross_out', 'churn_up', 'disgust', 'sicken', 'foul', 'loathsome', 'skanky', 'disgustful', 'distasteful', 'yucky', 'wicked', 'repelling', 'revolt', 'loathly', 'disgusting', 'repellant', 'nauseate', 'revolting']",Reviews
+too,"['excessively', 'also', 'likewise', 'besides', 'as_well', 'overly', 'too', 'to_a_fault']",Reviews
+tropical,"['tropical', 'tropic']",Reviews
+commonly,"['ordinarily', 'normally', 'commonly', 'usually', 'unremarkably']",Reviews
+center,"['center_on', 'midway', 'pith', 'center_of_attention', 'focus', 'rivet', 'nerve_center', 'nub', 'pore', 'centerfield', 'marrow', 'center_field', 'shopping_mall', 'revolve_about', 'halfway', 'midpoint', 'revolve_around', 'nitty-gritty', 'heart', 'mall', 'essence', 'concentrate_on', 'centre', 'middle', 'nerve_centre', 'substance', 'gist', 'meat', 'sum', 'shopping_center', 'kernel', 'heart_and_soul', 'focus_on', 'plaza', 'shopping_centre', 'snapper', 'eye', 'concentrate', 'core', 'centre_of_attention', 'inwardness', 'center']",Reviews
+weak,"['watery', 'weakly', 'unaccented', 'feeble', 'fallible', 'faint', 'light', 'washy', 'infirm', 'decrepit', 'frail', 'rickety', 'debile', 'imperfect', 'sapless', 'weak']",Reviews
+dieters,['dieter'],Reviews
+Quaker,"['Friend', 'Quaker', 'trembler', 'quaker']",Reviews
+curds,['curd'],Reviews
+bestselling,[],Reviews
+40%,[],Reviews
+formulas,"['recipe', 'pattern', 'rule', 'expression', 'normal', 'convention', 'chemical_formula', 'formula']",Reviews
+scarce,"['barely', 'scarce', 'just', 'hardly', 'scarcely']",Reviews
+production,"['yield', 'output', 'production', 'product']",Reviews
+clot,"['curdle', 'coagulum', 'coagulate', 'clot', 'clabber', 'clog']",Reviews
+logged,"['lumber', 'log']",Reviews
+look,"['depend', 'aspect', 'smell', 'appear', 'search', 'face', 'look', 'calculate', 'reckon', 'await', 'expect', 'bet', 'flavour', 'feeling', 'looking_at', 'feel', 'looking', 'expression', 'facial_expression', 'tone', 'front', 'spirit', 'wait', 'take_care', 'flavor', 'seem', 'attend', 'count', 'see']",Reviews
+cholesterol,"['cholesterol', 'cholesterin']",Reviews
+different,"['dissimilar', 'different', 'unlike']",Reviews
+stop,"['point', 'finish', 'stoppage', 'quit', 'plosive_consonant', 'period', 'full_stop', 'diaphragm', 'intercept', 'hitch', 'blockade', 'catch', 'terminate', 'blockage', 'occlusion', 'full_point', 'kibosh', 'stopover', 'discontinue', 'turn_back', 'stop', 'halt', 'cease', 'stop_over', 'break_off', 'block_off', 'layover', 'plosive_speech_sound', 'end', 'block_up', 'give_up', 'hold_back', 'occlusive', 'break', 'plosive', 'hold_on', 'stay', 'closure', 'bar', 'stop_consonant', 'block', 'check', 'arrest', 'contain', 'lay_off', 'barricade']",Reviews
+means,"['intend', 'means', 'imply', 'mean_value', 'stand_for', 'have_in_mind', 'signify', 'mean', 'entail', 'substance', 'way', 'think_of', 'think', 'agency']",Reviews
+Physiologically,['physiologically'],Reviews
+result,"['outcome', 'upshot', 'effect', 'issue', 'answer', 'resolution', 'solvent', 'final_result', 'result', 'resultant_role', 'lead', 'consequence', 'resultant', 'termination', 'event', 'solution', 'ensue', 'leave']",Reviews
+by,"['aside', 'by', 'past', 'away']",Reviews
+daily,"['casual', 'everyday', 'day_by_day', 'daily', 'day-to-day', 'day-by-day', 'day-after-day']",Reviews
+rejoices,"['jubilate', 'rejoice', 'wallow', 'triumph', 'exuberate', 'exult', 'joy']",Reviews
+earth's,[],Reviews
+adjustment,"['accommodation', 'registration', 'adaptation', 'readjustment', 'adjustment', 'alteration', 'adaption', 'allowance', 'modification', 'fitting']",Reviews
+insidious,"['subtle', 'pernicious', 'insidious']",Reviews
+tendency,"['leaning', 'trend', 'tendency', 'propensity', 'disposition', 'inclination']",Reviews
+Laboratory,"['lab', 'science_laboratory', 'research_laboratory', 'laboratory', 'research_lab', 'science_lab', 'testing_ground']",Reviews
+bloated,['bloat'],Reviews
+surplus,"['supernumerary', 'supererogatory', 'extra', 'superfluous', 'spare', 'excess', 'redundant', 'nimiety', 'surplus', 'surplusage']",Reviews
+experimented,"['try_out', 'experiment']",Reviews
+vigilant,"['vigilant', 'argus-eyed', 'open-eyed', 'wakeful']",Reviews
+plain,"['unmixed', 'unmistakable', 'bare', 'unmingled', 'evidently', 'plain_stitch', 'unembellished', 'sheer', 'sound_off', 'spare', 'unpatterned', 'quetch', 'patently', 'homely', 'champaign', 'plain', 'knit_stitch', 'field', 'kvetch', 'patent', 'evident', 'knit', 'apparent', 'unornamented', 'manifestly', 'manifest', 'obviously', 'plainly', 'unvarnished', 'apparently', 'kick', 'complain']",Reviews
+though,['though'],Reviews
+trouble,"['put_out', 'disturb', 'ail', 'upset', 'disoblige', 'trouble_oneself', 'distract', 'inconvenience_oneself', 'hassle', 'discommode', 'disquiet', 'fuss', 'trouble', 'difficulty', 'problem', 'pain', 'unhinge', 'inconvenience', 'bother', 'worry', 'disorder', 'cark', 'perturb', 'incommode']",Reviews
+proteins,['protein'],Reviews
+fall,"['flow', 'declension', 'autumn', 'decline', 'go_down', 'accrue', 'surrender', 'return', 'diminish', 'settle', 'nightfall', 'declivity', 'drop', 'declination', 'decrease', 'light', 'crepuscule', 'dusk', 'evenfall', 'hang', 'devolve', 'gloam', 'descent', 'crepuscle', 'capitulation', 'lessen', 'come_down', 'Fall', 'fall', 'twilight', 'pin', 'spill', 'downslope', 'fall_down', 'dip', 'descend', 'precipitate', 'come', 'shine', 'gloaming', 'tumble', 'pass', 'strike', 'downfall', 'free_fall']",Reviews
+Keys's,[],Reviews
+make,"['stool', 'urinate', 'realize', 'lay_down', 'wee', 'take_a_crap', 'micturate', 'prepare', 'take_in', 'make_up', 'crap', 'pretend', 'hit', 'induce', 'hold', 'bring_in', 'do', 'give', 'piss', 'arrive_at', 'throw', 'stimulate', 'take_a_shit', 'work', 'ready', 'create', 'pee', 'score', 'realise', 'form', 'puddle', 'name', 'shuffling', 'defecate', 'cook', 'make', 'nominate', 'constitute', 'establish', 'brand', 'make_believe', 'fix', 'progress_to', 'make_water', 'shit', 'take_a_leak', 'wee-wee', 'cause', 'reach', 'build', 'piddle', 'pee-pee', 'ca-ca', 'clear', 'shuffle', 'pass_water', 'attain', 'earn', 'gain', 'seduce', 'spend_a_penny', 'get', 'construct', 'draw', 'pull_in', 'get_to', 'relieve_oneself', 'take', 'have', 'produce']",Reviews
+boredom,"['boredom', 'tedium', 'ennui']",Reviews
+later,"['subsequently', 'previous', 'later', 'ulterior', 'posterior', 'afterward', 'late', 'recent', 'after', 'later_on', 'tardy', 'belated', 'by_and_by', 'afterwards', 'former']",Reviews
+with,[],Reviews
+life,"['liveliness', 'life-time', 'animation', 'sprightliness', 'life_history', 'biography', 'lifetime', 'lifespan', 'aliveness', 'life_sentence', 'living', 'life', 'life_story', 'spirit']",Reviews
+metabolism,"['metamorphosis', 'metabolic_process', 'metabolism']",Reviews
+safe,"['good', 'safety', 'rubber', 'condom', 'secure', 'prophylactic', 'safe', 'dependable']",Reviews
+night,"['Night', 'Nox', 'dark', 'night', 'nighttime']",Reviews
+tons,"['slews', 'rafts', 'gobs', 'stacks', 'dozens', 'ton', 'oodles', 'piles', 'scores', 'lashings', 'scads', 'gross_ton', 'wads', 'tons', 'lots', 'long_ton', 'short_ton', 'net_ton', 'heaps', 'loads']",Reviews
+certain,"['sure', 'sealed', 'certain']",Reviews
+cancer,"['cancer', 'Crab', 'Cancer_the_Crab', 'malignant_neoplastic_disease', 'genus_Cancer', 'Cancer']",Reviews
+common,"['park', 'common', 'rough-cut', 'usual', 'commons', 'uncouth', 'vernacular', 'mutual', 'plebeian', 'green', 'coarse', 'unwashed', 'vulgar']",Reviews
+fatalities,"['human_death', 'fatality']",Reviews
+concern,"['come_to', 'touch', 'business_organisation', 'business', 'business_organization', 'relate', 'have-to_doe_with', 'business_concern', 'interest', 'occupy', 'pertain', 'touch_on', 'refer', 'worry', 'headache', 'concern', 'vexation', 'fear', 'care', 'bear_on']",Reviews
+cells,"['cellular_telephone', 'cubicle', 'cell', 'mobile_phone', 'jail_cell', 'cellphone', 'cellular_phone', 'prison_cell', 'electric_cell', 'cadre']",Reviews
+Haqvin,[],Reviews
+temperature,['temperature'],Reviews
+Scientists,['scientist'],Reviews
+Mono-unsaturated,[],Reviews
+university's,[],Reviews
+fat,"['rich', 'fatten_out', 'fertile', 'fatness', 'flesh_out', 'fill_out', 'fatten', 'fatty_tissue', 'plump_out', 'plump', 'fatten_up', 'fatty', 'juicy', 'adipose_tissue', 'blubber', 'fat', 'productive', 'avoirdupois']",Reviews
+growing,"['originate', 'spring_up', 'develop', 'arise', 'turn', 'acquire', 'rise', 'farm', 'uprise', 'maturate', 'development', 'ontogenesis', 'raise', 'mature', 'maturation', 'get', 'growth', 'grow', 'growing', 'ontogeny', 'produce']",Reviews
+seals,"['SEAL', 'stamp', 'seal', 'sealing_wax', 'cachet', 'Navy_SEAL', 'sealskin', 'seal_of_approval', 'varnish', 'seal_off']",Reviews
+count,"['numerate', 'reckon', 'depend', 'number', 'tally', 'matter', 'numeration', 'weigh', 'counting', 'consider', 'bet', 'enumeration', 'enumerate', 'count', 'reckoning', 'look', 'calculate']",Reviews
+years,"['year', 'old_age', 'eld', 'twelvemonth', 'days', 'age', 'yr', 'long_time', 'geezerhood', 'years', 'class']",Reviews
+20,"['xx', 'twenty', 'XX', '20']",Reviews
+diet,"['dieting', 'diet']",Reviews
+circulation,['circulation'],Reviews
+deficiency,"['insufficiency', 'deficiency', 'inadequacy', 'lack', 'want']",Reviews
+built,"['progress', 'reinforced', 'make', 'ramp_up', 'built', 'build_up', 'establish', 'construct', 'work_up', 'build']",Reviews
+liver,"['liver-colored', 'liver']",Reviews
+emotional,"['emotional', 'aroused', 'excited', 'worked_up']",Reviews
+It's,[],Reviews
+incidental,"['minor_expense', 'incidental_expense', 'consequent', 'accompanying', 'ensuant', 'incidental', 'sequent', 'incident', 'resultant', 'nonessential', 'attendant', 'concomitant']",Reviews
+mother's,[],Reviews
+Medical,"['medical', 'medical_checkup', 'medical_exam', 'medical_examination', 'health_check', 'checkup', 'aesculapian']",Reviews
+diabetes,['diabetes'],Reviews
+uncomfortable,['uncomfortable'],Reviews
+prunes,"['rationalise', 'prune', 'crop', 'dress', 'cut', 'rationalize', 'trim', 'snip', 'lop', 'cut_back', 'clip']",Reviews
+hampers,"['hinder', 'cramp', 'trammel', 'halter', 'shackle', 'handicap', 'strangle', 'bond', 'hamper']",Reviews
+increases,"['increment', 'addition', 'step-up', 'gain', 'increase', 'growth']",Reviews
+signs,"['foretoken', 'star_sign', 'augury', 'mansion', 'subscribe', 'signalise', 'mark', 'bless', 'ratify', 'polarity', 'sign_of_the_zodiac', 'sign', 'planetary_house', 'sign_on', 'signal', 'preindication', 'signboard', 'contract', 'signaling', 'signalize', 'sign_up', 'house']",Reviews
+particularly,"['particularly', 'specially', 'peculiarly', 'in_particular', 'especially']",Reviews
+skindiving,[],Reviews
+large,"['turgid', 'tumid', 'declamatory', 'magnanimous', 'expectant', 'enceinte', 'bombastic', 'vauntingly', 'prominent', 'heavy', 'boastfully', 'great', 'big', 'gravid', 'with_child', 'large', 'orotund']",Reviews
+Hygiene,"['hygiene', 'hygienics']",Reviews
+complete,"['finish', 'concluded', 'perfect', 'discharge', 'double-dyed', 'pure', 'complete', 'sodding', 'stark', 'ended', 'nail', 'terminated', 'unadulterated', 'make_out', 'over', 'fill_out', 'all_over', 'dispatch', 'gross', 'fill_in', 'accomplished', 'arrant', 'consummate', 'thoroughgoing', 'staring', 'utter', 'everlasting']",Reviews
+"$200,000-a-year",[],Reviews
+drop,"['driblet', 'bead', 'deteriorate', 'send_packing', 'degenerate', 'set_down', 'discharge', 'shake_off', 'drip', 'drop', 'overlook', 'sink', 'throw', 'devolve', 'dribble', 'throw_off', 'flatten', 'spend', 'pretermit', 'fall', 'cliff', 'expend', 'dismiss', 'overleap', 'cast', 'cut_down', 'put_down', 'fell', 'neglect', 'shed', 'drop_cloth', 'strike_down', 'dip', 'drop_off', 'pearl', 'cast_off', 'drop_curtain', 'unload', 'leave_out', 'dangle', 'omit', 'throw_away', 'free_fall', 'knock_off', 'send_away', 'miss', 'drib', 'drop-off', 'drop_down', 'swing']",Reviews
+part,"['character', 'divide', 'constituent', 'partially', 'split', 'role', 'break_up', 'function', 'part', 'portion', 'division', 'partly', 'component_part', 'region', 'percentage', 'disunite', 'voice', 'take_off', 'depart', 'set_out', 'parting', 'theatrical_role', 'section', 'piece', 'start', 'set_off', 'break', 'contribution', 'persona', 'office', 'start_out', 'split_up', 'set_forth', 'component', 'separate', 'share']",Reviews
+hydrogens,"['H', 'hydrogen', 'atomic_number_1']",Reviews
+composed,"['frame', 'composed', 'write', 'compose', 'draw_up', 'indite', 'compile', 'pen']",Reviews
+were,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",Reviews
+original,"['archetype', 'pilot', 'original', 'master_copy', 'master']",Reviews
+piles,"['slews', 'spate', 'good_deal', 'atomic_pile', 'wad', 'pile', 'cumulus', 'rafts', 'batch', 'mountain', 'haemorrhoid', 'mint', 'heap', 'hatful', 'plenty', 'pack', 'gobs', 'stilt', 'spile', 'stacks', 'agglomerate', 'flock', 'atomic_reactor', 'mound', 'peck', 'dozens', 'hemorrhoid', 'oodles', 'piles', 'scores', 'great_deal', 'lashings', 'tidy_sum', 'piling', 'bundle', 'pot', 'voltaic_pile', 'scads', 'mickle', 'down', 'lot', 'mess', 'chain_reactor', 'raft', 'big_money', 'muckle', 'mob', 'galvanic_pile', 'wads', 'tons', 'mass', 'throng', 'stack', 'quite_a_little', 'lots', 'big_bucks', 'slew', 'nap', 'passel', 'deal', 'jam', 'cumulation', 'heaps', 'sight', 'loads', 'megabucks']",Reviews
+supply,"['cater', 'issue', 'append', 'ply', 'add', 'supply', 'provision', 'provide', 'supplying', 'render', 'furnish']",Reviews
+must,"['mustiness', 'moldiness', 'must']",Reviews
+loves,"['fuck', 'honey', 'get_laid', 'lovemaking', 'have_it_away', 'have_a_go_at_it', 'bed', 'passion', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'love_life', 'sexual_love', 'dearest', 'make_out', 'make_love', 'dear', 'love', 'bang', 'jazz', 'enjoy', 'bonk', 'be_intimate', 'making_love', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'beloved', 'know', 'eff', 'get_it_on', 'erotic_love', 'do_it']",Reviews
+flagrant,"['egregious', 'rank', 'glaring', 'gross', 'crying', 'flagrant']",Reviews
+remarkable,"['singular', 'noteworthy', 'remarkable']",Reviews
+Physiologist,['physiologist'],Reviews
+half,"['one-half', 'half']",Reviews
+wants,"['privation', 'neediness', 'wish', 'deficiency', 'need', 'want', 'desire', 'wishing', 'require', 'lack', 'deprivation']",Reviews
+War,"['war', 'state_of_war', 'warfare']",Reviews
+drinker,"['toper', 'juicer', 'drinker', 'imbiber']",Reviews
+substantial,"['solid', 'satisfying', 'hearty', 'square', 'substantial', 'real', 'substantive', 'strong', 'significant', 'material']",Reviews
+blades,"['steel', 'leaf_blade', 'brand', 'blade', 'vane', 'sword']",Reviews
+year's,[],Reviews
+Explains,"['explain', 'excuse', 'explicate']",Reviews
+Puritan,"['Puritan', 'puritan', 'prude']",Reviews
+forces,"['pressure', 'effect', 'wedge', 'power', 'strength', 'storm', 'military_group', 'force_play', 'forcefulness', 'pull', 'thrust', 'hale', 'personnel', 'impel', 'force-out', 'ram', 'military_unit', 'drive', 'military_force', 'squeeze', 'coerce', 'violence', 'force_out', 'draw', 'push', 'force']",Reviews
+They,[],Reviews
+office,"['billet', 'power', 'post', 'role', 'function', 'part', 'bureau', 'place', 'situation', 'federal_agency', 'spot', 'berth', 'business_office', 'office_staff', 'position', 'office', 'government_agency', 'authority', 'agency']",Reviews
+that,[],Reviews
+what,[],Reviews
+flatly,"['flatly', 'unconditionally', 'categorically']",Reviews
+sterios,[],Reviews
+buy,"['purchase', 'steal', ""grease_one's_palms"", 'buy', 'bargain', 'bribe', 'corrupt']",Reviews
+injured,"['injure', 'offend', 'bruise', 'spite', 'injured', 'hurt', 'wound']",Reviews
+ingredient,"['fixings', 'element', 'factor', 'constituent', 'component', 'ingredient']",Reviews
+powdered,"['fine-grained', 'powdery', 'pulverized', 'powderize', 'powder', 'pulverize', 'pulverised', 'powdered', 'small-grained', 'powderise', 'pulverise']",Reviews
+minerals,['mineral'],Reviews
+spoilage,"['spoil', 'spoilage', 'spoiling']",Reviews
+have,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'wealthy_person', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'rich_person', 'have_got', 'take', 'have']",Reviews
+personal,['personal'],Reviews
+mainly,"['chiefly', 'in_the_main', 'principally', 'mainly', 'primarily']",Reviews
+intemperance,"['intemperance', 'self-indulgence', 'intemperateness']",Reviews
+poly-unsaturated,[],Reviews
+American,"['American_English', 'American_language', 'American']",Reviews
+these,[],Reviews
+packaging,"['box', 'packaging', 'package', 'publicity', 'promotion', 'promotional_material']",Reviews
+interested,"['concern', 'concerned', 'interested', 'matter_to', 'occupy', 'interest', 'worry']",Reviews
+portions,"['dowry', 'constituent', 'allot', 'serving', 'circumstances', 'part', 'portion', 'destiny', 'component_part', 'percentage', 'helping', 'lot', 'assign', 'luck', 'fortune', 'fate', 'parcel', 'dowery', 'dower', 'component', 'share']",Reviews
+Ancel,[],Reviews
+leads,"['precede', 'top', 'atomic_number_82', 'conduce', 'lead-in', 'chair', 'conduct', 'track', 'principal', 'tip', 'extend', 'lead', 'steer', 'confidential_information', 'leash', 'result', 'star', 'run', 'jumper_cable', 'go', 'pencil_lead', 'spark_advance', 'lead_story', 'head', 'moderate', 'wind', 'lede', 'trail', 'hint', 'tether', 'direct', 'jumper_lead', 'Pb', 'guide', 'pass', 'contribute', 'leading', 'booster_cable', 'leave', 'take']",Reviews
+essential,"['essential', 'indispensable', 'requirement', 'necessary', 'requisite', 'all-important', 'crucial', 'substantive', 'necessity', 'all_important', 'of_the_essence']",Reviews
+mother,"['bring_forth', 'mother', 'engender', 'father', 'overprotect', 'generate', 'sire', 'get', 'female_parent', 'fuss', 'beget']",Reviews
+necessary,"['essential', 'requirement', 'necessary', 'requisite', 'necessity']",Reviews
+do,"['brawl', 'doh', 'set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'DO', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'Doctor_of_Osteopathy', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'ut', 'bash', 'behave', 'practice']",Reviews
+not,"['not', 'non']",Reviews
+Physical,"['forcible', 'strong-arm', 'physical']",Reviews
+child,"['tiddler', 'tyke', 'minor', 'youngster', 'baby', 'tike', 'child', 'kid', 'small_fry', 'nestling', 'nipper', 'fry', 'shaver']",Reviews
+excess,"['supernumerary', 'excessiveness', 'supererogatory', 'extra', 'superfluous', 'overabundance', 'spare', 'excess', 'surfeit', 'overindulgence', 'redundant', 'nimiety', 'surplus', 'surplusage', 'inordinateness']",Reviews
+rich,"['rich_people', 'fertile', 'robust', 'rich', 'full-bodied', 'productive', 'plenteous', 'plentiful', 'copious', 'fat', 'deep', 'racy', 'ample']",Reviews
+reducing,"['deoxidize', 'boil_down', 'slenderize', 'slim', 'cut_back', 'decoct', 'deoxidise', 'bring_down', 'scale_down', 'abridge', 'trim_back', 'subjugate', 'repress', 'reducing', 'reduction', 'reduce', 'shrink', 'keep_down', 'come_down', 'tighten', 'lose_weight', 'abbreviate', 'foreshorten', 'melt_off', 'cut_down', 'trim', 'subdue', 'thin_out', 'cut', 'slim_down', 'trim_down', 'contract', 'dilute', 'thin', 'concentrate', 'quash', 'shorten']",Reviews
+hauls,"['haul', 'haulage', 'draw', 'hale', 'catch', 'cart', 'drag']",Reviews
+irritates,"['get_at', 'chafe', 'nettle', 'vex', 'annoy', 'rile', 'get_to', 'devil', 'nark', 'rag', 'bother', 'irritate', 'gravel']",Reviews
+feeling,"['touch', 'tactile_sensation', 'smell', 'tactual_sensation', 'notion', 'look', 'belief', 'sense', 'flavour', 'feeling', 'opinion', 'feel', 'tone', 'intuitive_feeling', 'finger', 'impression', 'find', 'spirit', 'touch_sensation', 'flavor', 'palpate', 'experience']",Reviews
+30,"['30', 'XXX', 'xxx', 'thirty']",Reviews
+waxy,"['impressible', 'pliant', 'impressionable', 'bendable', 'waxlike', 'waxen', 'pliable', 'waxy']",Reviews
+restrictions,"['limitation', 'restriction', 'confinement']",Reviews
+coloreds,"['colorise', 'colored_person', 'colourize', 'emblazon', 'color', 'color_in', 'colorize', 'gloss', 'colored', 'tinge', 'colour', 'discolour', 'distort', 'discolor', 'colour_in', 'colourise']",Reviews
+atoms,"['particle', 'atom', 'molecule', 'corpuscle', 'speck', 'mote']",Reviews
+oz.,"['ounce', 'oz.']",Reviews
+milk,"['Milk_River', 'Milk', 'milk']",Reviews
+risk,"['peril', 'jeopardy', 'risk', 'run_a_risk', 'endangerment', 'risk_of_exposure', 'take_chances', 'take_a_chance', 'danger', 'gamble', 'adventure', 'risk_of_infection', 'chance', 'hazard', 'lay_on_the_line', 'put_on_the_line']",Reviews
+who,"['World_Health_Organization', 'WHO']",Reviews
+noted,"['note', 'take_down', 'mark', 'famed', 'mention', 'noted', 'renowned', 'far-famed', 'illustrious', 'famous', 'celebrated', 'notable', 'remark', 'take_note', 'observe', 'notice']",Reviews
+Kennedy,"['President_Kennedy', 'Kennedy_Interrnational', 'Kennedy', 'John_Fitzgerald_Kennedy', 'President_John_F._Kennedy', 'JFK', 'Kennedy_International_Airport', 'Jack_Kennedy']",Reviews
+stores,"['computer_memory', 'memory_board', 'salt_away', 'shop', 'entrepot', 'put_in', 'store', 'stack_away', 'memory', 'storage', 'stash_away', 'depot', 'storehouse', 'fund', 'hive_away', 'computer_storage', 'lay_in', 'stock']",Reviews
+mysterious,"['mystical', 'cryptical', 'secret', 'inscrutable', 'orphic', 'mysterious', 'mystifying', 'mystic', 'occult', 'deep', 'cryptic']",Reviews
+damages,"['price', 'indemnification', 'hurt', 'indemnity', 'terms', 'legal_injury', 'redress', 'amends', 'damage', 'harm', 'impairment', 'wrong', 'damages', 'scathe', 'restitution', 'equipment_casualty']",Reviews
+find,"['breakthrough', 'uncovering', 'receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'retrieve', 'rule', 'line_up', 'chance', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'encounter', 'find', 'find_oneself', 'get', 'ascertain', 'detect', 'discovery', 'obtain', 'see']",Reviews
+liquor,"['booze', 'John_Barleycorn', 'strong_drink', 'pot_likker', 'hard_liquor', 'hard_drink', 'liquor', 'spirits', 'pot_liquor']",Reviews
+since,[],Reviews
+enough,"['sufficiency', 'adequate', 'decent', 'plenty', 'enough']",Reviews
+this,[],Reviews
+food,"['intellectual_nourishment', 'food_for_thought', 'nutrient', 'food', 'solid_food']",Reviews
+worry,"['headache', 'trouble', 'vexation', 'concern', 'care', 'interest', 'occupy', 'vex', 'worry']",Reviews
+coincided,"['coincide', 'concur', 'cooccur', 'co-occur']",Reviews
+curious,"['rummy', 'funny', 'singular', 'peculiar', 'odd', 'rum', 'queer', 'curious']",Reviews
+near,"['approximate', 'most', 'draw_near', 'come_on', 'go_up', 'about', 'cheeseparing', 'dear', 'penny-pinching', 'close', 'nigh', 'good', 'approach', 'draw_close', 'near', 'well-nigh', 'come_near', 'nearly', 'almost', 'skinny', 'virtually']",Reviews
+killer,"['killer', 'Orcinus_orca', 'slayer', 'killer_whale', 'sea_wolf', 'grampus', 'orca', 'cause_of_death']",Reviews
+dangerous,"['serious', 'dangerous', 'unsafe', 'grievous', 'life-threatening', 'severe', 'grave']",Reviews
+come,"['issue_forth', 'number', 'come_up', 'come_in', 'seed', 'do', 'make_out', 'seminal_fluid', 'fare', 'fall', 'get_along', 'semen', 'descend', 'occur', 'total', 'come', 'ejaculate', 'arrive', 'hail', 'get', 'follow', 'add_up', 'amount', 'cum', 'derive']",Reviews
+parasites,"['sponge', 'leech', 'parasite', 'sponger']",Reviews
+to,[],Reviews
+57,"['57', 'fifty-seven', 'lvii']",Reviews
+Of,[],Reviews
+transportation,"['transferral', 'deportation', 'transportation', 'transit', 'conveyance', 'exile', 'Department_of_Transportation', 'Transportation', 'DoT', 'transport', 'transfer', 'transportation_system', 'expatriation', 'fare', 'shipping']",Reviews
+digestive,['digestive'],Reviews
+degree,"['point', 'level', 'academic_degree', 'degree', 'stage', 'grade', 'arcdegree']",Reviews
+The,[],Reviews
+difference,"['deviation', 'departure', 'divergence', 'remainder', 'difference', 'difference_of_opinion', 'conflict', 'dispute']",Reviews
+265,[],Reviews
+objections,"['remonstration', 'dissent', 'protest', 'remonstrance', 'objection', 'expostulation']",Reviews
+process,"['sue', 'physical_process', 'mental_process', 'operation', 'procedure', 'unconscious_process', 'cognitive_process', 'work', 'march', 'serve', 'cognitive_operation', 'action', 'litigate', 'swear_out', 'work_on', 'summons', 'outgrowth', 'appendage', 'treat', 'process']",Reviews
+crystalline,"['transparent', 'limpid', 'lucid', 'pellucid', 'crystal_clear', 'crystalline']",Reviews
+football,"['football_game', 'football']",Reviews
+molecule,"['particle', 'atom', 'molecule', 'corpuscle', 'speck', 'mote']",Reviews
+woodcutters,['woodcutter'],Reviews
+quantity,"['measure', 'quantity', 'amount']",Reviews
+40,"['XL', '40', 'xl', 'forty', 'twoscore']",Reviews
+but,"['only', 'simply', 'but', 'just', 'merely']",Reviews
+bed,"['fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'go_to_bed', 'have_it_off', 'sleep_together', 'sleep_with', 'hit_the_sack', 'have_intercourse', 'make_out', 'make_love', 'love', 'retire', 'bang', 'jazz', 'turn_in', 'bonk', 'go_to_sleep', 'layer', 'be_intimate', 'hit_the_hay', 'sack_out', 'lie_with', 'screw', 'hump', 'kip_down', 'seam', 'bottom', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'crawl_in', 'get_it_on', 'do_it']",Reviews
+miles,"['sea_mile', 'mi', 'stat_mi', 'international_nautical_mile', 'naut_mi', 'Admiralty_mile', 'statute_mile', 'land_mile', 'knot', 'mile', 'international_mile', 'air_mile', 'geographical_mile', 'Swedish_mile', 'Roman_mile', 'mil', 'nautical_mile']",Reviews
+nations,"['body_politic', 'Nation', 'res_publica', 'state', 'country', 'Carry_Amelia_Moore_Nation', 'Carry_Nation', 'nation', 'land', 'commonwealth']",Reviews
+movement,"['bowel_movement', 'apparent_motion', 'social_movement', 'motility', 'trend', 'bm', 'drift', 'effort', 'crusade', 'campaign', 'apparent_movement', 'front', 'movement', 'move', 'drive', 'cause', 'motion']",Reviews
+else,[],Reviews
+Medicine,"['medical_specialty', 'medication', 'medicinal_drug', 'practice_of_medicine', 'medicate', 'music', 'medicament', 'medicine']",Reviews
+does,"['Department_of_Energy', 'set', 'do', 'suffice', 'manage', 'coiffe', 'doe', 'coiffure', 'execute', 'arrange', 'DOE', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'behave', 'practice', 'Energy', 'Energy_Department']",Reviews
+caloric,"['caloric', 'thermic', 'thermal']",Reviews
+Says,"['suppose', 'state', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin']",Reviews
+solid,"['solid', 'firm', 'satisfying', 'hearty', 'self-coloured', 'upstanding', 'self-colored', 'substantial', 'solidness', 'unanimous', 'whole', 'strong', 'square', 'solid_state']",Reviews
+circulatory,"['circulatory', 'circulative']",Reviews
+matter,"['topic', 'issue', 'subject', 'matter', 'thing', 'weigh', 'affair', 'count']",Reviews
+milligrams,"['milligram', 'mg']",Reviews
+attack,"['round', 'onset', 'blast', 'onslaught', 'flak', 'flack', 'lash_out', 'attack', 'aggress', 'tone-beginning', 'onrush', 'assault', 'fire', 'plan_of_attack', 'assail', 'approach', 'set_on', 'snipe', 'attempt']",Reviews
+war,"['war', 'state_of_war', 'warfare']",Reviews
+All,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",Reviews
+about,"['roughly', 'more_or_less', 'near', 'nigh', 'close_to', 'well-nigh', 'nearly', 'just_about', 'about', 'approximately', 'almost', 'or_so', 'astir', 'around', 'virtually', 'most', 'some']",Reviews
+depending,"['reckon', 'depend', 'bet', 'count', 'look', 'calculate']",Reviews
+site,"['website', 'land_site', 'site', 'locate', 'internet_site', 'web_site', 'place', 'situation']",Reviews
+fats,"['fatten_out', 'fatness', 'flesh_out', 'fill_out', 'fatten', 'fatty_tissue', 'plump_out', 'plump', 'fatten_up', 'adipose_tissue', 'blubber', 'fat', 'avoirdupois']",Reviews
+run,"['escape', 'flow', 'persist', 'bunk', 'run_away', 'melt', 'be_given', 'hightail_it', 'hunt_down', 'unravel', 'discharge', 'turn_tail', 'political_campaign', 'incline', 'rivulet', 'ravel', 'feed', 'head_for_the_hills', 'streamlet', 'tend', 'hunt', 'function', 'consort', 'extend', 'lead', 'running_game', 'fly_the_coop', 'endure', 'track_down', 'execute', 'bleed', 'lean', 'ladder', 'run', 'rill', 'runnel', 'streak', 'go', 'break_away', 'work', 'prevail', 'test', 'play', 'carry', 'outpouring', 'tally', 'footrace', 'operate', 'trial', 'running_play', 'die_hard', 'ply', 'course', 'scat', 'scarper', 'take_to_the_woods', 'run_for', 'race', 'pass', 'lam', 'guide', 'melt_down', 'running', 'campaign', 'range', 'foot_race', 'draw', 'black_market', 'move']",Reviews
+restricts,"['restrict', 'confine', 'bound', 'trammel', 'curb', 'limit', 'throttle', 'qualify', 'cut_back', 'curtail', 'restrain']",Reviews
+manufacture,"['fabrication', 'cook_up', 'manufacturing', 'fabricate', 'construct', 'invent', 'make_up', 'manufacture', 'industry']",Reviews
+Obesity,"['obesity', 'corpulency', 'fleshiness']",Reviews
+cherry-flavored,[],Reviews
+Not,"['not', 'non']",Reviews
+chole,[],Reviews
+Neapolitan,['Neapolitan'],Reviews
+smash,"['blast', 'belt', 'bang_up', 'dash', 'hit', 'knock', 'crash', 'demolish', 'nail', 'boom', 'smasher', 'ruin', 'bang', 'smash', 'smashingly', 'break', 'crush', 'overhead', 'bash', 'bankrupt', 'strike', 'smash-up', 'smash_up']",Reviews
+malnutrition,['malnutrition'],Reviews
+seldom,"['seldom', 'rarely']",Reviews
+increasingly,"['increasingly', 'progressively', 'more_and_more']",Reviews
+scientists,['scientist'],Reviews
+World,"['worldly_concern', 'world-wide', 'existence', 'reality', 'cosmos', 'humankind', 'domain', 'human_beings', 'global', 'man', 'populace', 'earth', 'creation', 'globe', 'humans', 'macrocosm', 'planetary', 'humanity', 'Earth', 'world', 'mankind', 'human_race', 'universe', 'public', 'worldwide', 'earthly_concern']",Reviews
+such,['such'],Reviews
+"1,488",[],Reviews
+frustration,"['thwarting', 'foiling', 'defeat', 'frustration']",Reviews
+coronaries,"['coronary', 'coronary_thrombosis']",Reviews
+Department,"['section', 'department']",Reviews
+Insurance,"['indemnity', 'insurance_policy', 'insurance', 'policy']",Reviews
+water,"['piddle', 'water_supply', 'water_system', 'piss', 'irrigate', 'urine', 'H2O', 'weewee', 'body_of_water', 'pee', 'water']",Reviews
+Now,"['today', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'nowadays', 'directly', 'at_present', 'like_a_shot', 'immediately']",Reviews
+Grocery,"['food_market', 'grocery', 'grocery_store', 'foodstuff', 'market']",Reviews
+exertion,"['exertion', 'sweat', 'effort', 'elbow_grease', 'travail']",Reviews
+techniques,"['proficiency', 'technique']",Reviews
+Association,"['connection', 'tie-up', 'affiliation', 'association', 'connexion', 'tie']",Reviews
+know,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",Reviews
+automobile,"['car', 'auto', 'automobile', 'motorcar', 'machine']",Reviews
+8,"['octonary', 'octad', 'viii', 'eighter_from_Decatur', '8', 'VIII', 'eight', 'eighter', 'ogdoad', 'octet']",Reviews
+in,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",Reviews
+text,"['school_text', 'text_edition', 'textual_matter', 'schoolbook', 'textbook', 'text']",Reviews
+income,['income'],Reviews
+wartime,['wartime'],Reviews
+produce,"['garden_truck', 'bring_forth', 'green_groceries', 'raise', 'acquire', 'green_goods', 'make', 'give_rise', 'bring_on', 'farm', 'get', 'bring_out', 'grow', 'bring_about', 'create', 'develop', 'produce']",Reviews
+psychological,['psychological'],Reviews

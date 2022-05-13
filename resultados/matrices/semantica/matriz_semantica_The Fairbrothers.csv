@@ -1,0 +1,836 @@
+w,vector_semantico
+sealed,"['sealed', 'seal_off', 'plastered', 'seal', 'varnish', 'certain']",The Fairbrothers
+downright,"['downright', 'out-and-out', 'rank', 'absolute', 'right-down', 'sheer']",The Fairbrothers
+!,[],The Fairbrothers
+envelope,"['envelope', 'gasbag']",The Fairbrothers
+Mare,"['maria', 'mare', 'female_horse']",The Fairbrothers
+Surely,"['surely', 'sure_as_shooting', 'certainly', 'sure', 'sure_enough', 'for_sure', 'for_certain']",The Fairbrothers
+preacher,"['sermoniser', 'sermonizer', 'preacher', 'preacher_man']",The Fairbrothers
+birth,"['deliver', 'parturition', 'nascence', 'nativity', 'giving_birth', 'give_birth', 'birthing', 'nascency', 'birth', 'parentage', 'bear', 'have']",The Fairbrothers
+perhaps,"['peradventure', 'possibly', 'perhaps', 'maybe', 'perchance', 'mayhap']",The Fairbrothers
+Zion,"['Utopia', 'Yisrael', 'Israel', 'Zion', 'State_of_Israel', 'Sion']",The Fairbrothers
+acknowledge,"['admit', 'recognize', 'recognise', 'notice', 'acknowledge', 'know', 'receipt']",The Fairbrothers
+seem,"['appear', 'seem', 'look']",The Fairbrothers
+trimmed,"['pare', 'reduce', 'crop', 'prune', 'cut', 'shave', 'trim_down', 'trim', 'cut_back', 'trim_back', 'bring_down', 'garnish', 'dress', 'clip', 'trimmed', 'snip', 'lop', 'cut_down']",The Fairbrothers
+nurse,"['breastfeed', 'suck', 'nursemaid', 'hold', 'give_suck', 'wet-nurse', 'entertain', 'nurse', 'harbour', 'suckle', 'harbor', 'nanny', 'lactate']",The Fairbrothers
+in,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",The Fairbrothers
+these,[],The Fairbrothers
+turned,"['deform', 'move_around', 'release', 'rick', 'turn', 'turn_over', 'turned', 'wrick', 'sour', 'sprain', 'change_state', 'wrench', 'bend', 'grow', 'change_by_reversal', 'twist', 'become', 'ferment', 'work', 'flex', 'plough', 'plow', 'call_on', 'off', 'reverse']",The Fairbrothers
+much,"['very_much', 'often', 'a_lot', 'practically', 'a_great_deal', 'lots', 'a_good_deal', 'much']",The Fairbrothers
+midwife,"['midwife', 'accoucheuse']",The Fairbrothers
+reverent,"['godly', 'reverent', 'worshipful']",The Fairbrothers
+call,"['prognosticate', 'cry', 'send_for', 'phone_call', 'scream', 'shout', 'telephone_call', 'predict', 'call_option', 'hollo', 'name', 'holler', 'squall', 'call_off', 'call', 'address', 'phone', 'forebode', 'Call', 'song', 'call_up', 'shout_out', 'ring', 'vociferation', 'anticipate', 'telephone', 'call_in', 'claim', 'yell', 'margin_call', 'outcry', 'visit', 'promise', 'bid', 'foretell', 'birdcall', 'birdsong']",The Fairbrothers
+swell,"['beau', 'sheik', 'bully', 'groovy', 'not_bad', 'well_up', 'intumesce', 'dude', 'swell', 'tumesce', 'swell_up', 'great', 'smashing', 'neat', 'corking', 'slap-up', 'keen', 'puff_up', 'gallant', 'fop', 'tumefy', 'well', 'clotheshorse', 'fashion_plate', 'dandy', 'cracking', 'nifty', 'crestless_wave', 'bang-up', 'peachy']",The Fairbrothers
+melting,"['meld', 'thaw', 'disappear', 'dethaw', 'run', 'melting', 'thawing', 'mellow', 'melt_down', 'unthaw', 'mellow_out', 'fade', 'unfreeze', 'evaporate', 'dissolve', 'liquescent', 'melt']",The Fairbrothers
+Flotilla,['flotilla'],The Fairbrothers
+whose,[],The Fairbrothers
+leave,"['leave_behind', 'bequeath', 'give', 'entrust', 'pass_on', 'allow', 'will', 'go_away', 'leave_of_absence', 'leave', 'leave_alone', 'pull_up_stakes', 'exit', 'allow_for', 'get_out', 'go_out', 'forget', 'go_forth', 'provide', 'depart', 'result', 'parting', 'impart', 'leave-taking', 'lead', 'farewell']",The Fairbrothers
+watching,"['look_out', 'keep_an_eye_on', 'observance', 'find_out', 'catch', 'ascertain', 'watch_over', 'watching', 'determine', 'watch_out', 'check', 'observe', 'learn', 'follow', 'observation', 'take_in', 'see', 'watch', 'look_on', 'view']",The Fairbrothers
+children,"['nestling', 'tike', 'youngster', 'tiddler', 'fry', 'kid', 'tyke', 'minor', 'baby', 'shaver', 'nipper', 'child', 'small_fry']",The Fairbrothers
+they,[],The Fairbrothers
+pictures,"['moving-picture_show', 'ikon', 'photograph', 'show', 'moving_picture', 'picture_show', 'flick', 'delineation', 'motion_picture', 'word-painting', 'characterisation', 'impression', 'image', 'envision', 'motion-picture_show', 'characterization', 'pic', 'photo', 'project', 'film', 'painting', 'exposure', 'fancy', 'mental_picture', 'video', 'depict', 'picture', 'visualize', 'depiction', 'movie', 'see', 'pictorial_matter', 'word_picture', 'figure', 'render', 'visualise', 'scene', 'icon']",The Fairbrothers
+day,"['daylight', 'Clarence_Shepard_Day_Jr.', '24-hour_interval', 'twenty-four_hour_period', 'Day', 'mean_solar_day', 'day', 'Clarence_Day', 'sidereal_day', 'daytime', 'solar_day', 'twenty-four_hours']",The Fairbrothers
+weather,"['brave', 'brave_out', 'upwind', 'weather_condition', 'endure', 'atmospheric_condition', 'conditions', 'weather']",The Fairbrothers
+tears,"['teardrop', 'snag', 'rip', 'charge', 'buck', 'weeping', 'pull', 'shoot', 'tear', 'snap', 'split', 'rupture', 'bout', 'shoot_down', 'displume', 'tears', 'crying', 'binge', 'deplume', 'pluck', 'bust', 'deplumate', 'rent']",The Fairbrothers
+stormy,"['stormy', 'tempestuous']",The Fairbrothers
+Reaching,"['accomplish', 'reaching', 'give', 'make', 'reach', 'arrive_at', 'touch', 'contact', 'pass_on', 'get_through', 'turn_over', 'arrival', 'hit', 'achieve', 'pass', 'get_hold_of', 'gain', 'attain', 'extend_to', 'strain', 'stretch', 'reach_out', 'progress_to', 'get_to', 'hand', 'strive']",The Fairbrothers
+trippin',[],The Fairbrothers
+He'd,[],The Fairbrothers
+Indeed,"['so', 'indeed']",The Fairbrothers
+felt,"['feel', 'matte_up', 'matte', 'felt_up', 'mat_up', 'mat', 'felt', 'matt-up', 'find', 'palpate', 'sense', 'experience', 'finger']",The Fairbrothers
+nerves,"['nervousness', 'boldness', 'brass', 'nerves', 'cheek', 'spunk', 'nerve', 'heart', 'nervus', 'mettle', 'face', 'steel']",The Fairbrothers
+through,"['through', 'done', 'through_and_through', 'through_with']",The Fairbrothers
+thing,"['matter', 'thing', 'affair']",The Fairbrothers
+small,"['low', 'pocket-size', 'small-scale', 'modest', 'minor', 'belittled', 'small', 'diminished', 'lowly', 'minuscule', 'little', 'humble', 'pocket-sized']",The Fairbrothers
+easygoing,"['cushy', 'leisurely', 'soft', 'easygoing', 'easy']",The Fairbrothers
+no,"['No', 'no_more', 'no', 'nobelium', 'atomic_number_102']",The Fairbrothers
+too,"['excessively', 'overly', 'as_well', 'to_a_fault', 'besides', 'likewise', 'too', 'also']",The Fairbrothers
+fault,"['flaw', 'error', 'demerit', 'faulting', 'shift', 'fracture', 'break', 'blame', 'mistake', 'geological_fault', 'fault', 'defect']",The Fairbrothers
+hardly,"['scarce', 'just', 'scarcely', 'barely', 'hardly']",The Fairbrothers
+Returning,"['take_back', 'reverting', 'give', 'refund', 'revert', 'give_back', 'retrovert', 'pass', 'generate', 'reelect', 'deliver', 'yield', 'retort', 'turn_back', 'riposte', 'hark_back', 'return', 'rejoin', 'come_back', 'devolve', 'returning', 'bring_back', 'fall', 'regress', 'reversive', 'render', 'recall', 'repay']",The Fairbrothers
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Fairbrothers
+times,"['times', 'clock_time', 'meter', 'clock', 'metre', 'prison_term', 'clip', 'sentence', 'multiplication', 'time', 'fourth_dimension']",The Fairbrothers
+stayed,"['quell', 'bide', 'stick', 'last_out', 'rest', 'stick_around', 'continue', 'ride_out', 'detain', 'abide', 'stay_on', 'outride', 'persist', 'appease', 'stay', 'delay', 'remain', 'stay_put']",The Fairbrothers
+She's,[],The Fairbrothers
+home,"['house', 'abode', 'family', 'domicile', 'habitation', 'interior', 'home_base', 'place', 'national', 'dwelling', 'nursing_home', 'plate', 'rest_home', 'menage', 'home_plate', 'internal', 'home', 'dwelling_house', 'household', 'base']",The Fairbrothers
+stall,"['dilly-dally', 'booth', 'conk', 'carrell', 'stall', 'kiosk', 'stand', 'cubicle', 'sales_booth', 'carrel', 'dillydally', 'procrastinate', ""drag_one's_feet"", ""drag_one's_heels"", 'stalling', 'shillyshally']",The Fairbrothers
+necessity,"['essential', 'necessity', 'requirement', 'necessary', 'requisite']",The Fairbrothers
+Though,['though'],The Fairbrothers
+promise,"['prognosticate', 'hope', 'call', 'assure', 'promise', 'anticipate', 'predict', 'foretell', 'forebode']",The Fairbrothers
+rules,"['convention', 'regulation', 'dominate', 'dominion', 'pattern', 'decree', 'rule', 'find', 'ruler', 'predominate', 'prevail', 'harness', 'rein', 'linguistic_rule', 'principle', 'govern', 'reign', 'normal', 'formula', 'prescript']",The Fairbrothers
+pearl,"['ivory', 'bone', 'drop', 'off-white', 'bead', 'pearl']",The Fairbrothers
+lip,"['mouth', 'backtalk', 'sassing', 'sass', 'rim', 'brim', 'lip', 'back_talk']",The Fairbrothers
+big,"['boastful', 'grown', 'bad', 'braggart', 'giving', 'self-aggrandising', 'vainglorious', 'self-aggrandizing', 'freehanded', 'boastfully', 'full-grown', 'gravid', 'bighearted', 'liberal', 'heavy', 'bounteous', 'enceinte', 'great', 'fully_grown', 'cock-a-hoop', 'handsome', 'adult', 'crowing', 'bountiful', 'swelled', 'with_child', 'openhanded', 'expectant', 'bragging', 'magnanimous', 'braggy', 'grownup', 'prominent', 'large', 'vauntingly', 'big']",The Fairbrothers
+loved,"['lie_with', 'bang', 'have_it_off', 'sleep_together', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'bonk', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'loved', 'love', 'enjoy', 'get_it_on', 'know', 'get_laid']",The Fairbrothers
+long,"['retentive', 'foresighted', 'recollective', 'yearn', 'tenacious', 'foresightful', 'hanker', 'farseeing', 'prospicient', 'longsighted', 'farsighted', 'long']",The Fairbrothers
+it'll,[],The Fairbrothers
+Kezziah,[],The Fairbrothers
+burden,"['burthen', 'charge', 'effect', 'gist', 'essence', 'burden', 'weight', 'core', 'incumbrance', 'weight_down', 'saddle', 'load', 'onus', 'encumbrance', 'loading']",The Fairbrothers
+somehow,"['in_some_way', 'someways', 'someway', 'somehow', 'in_some_manner']",The Fairbrothers
+care,"['forethought', 'charge', 'aid', 'care', 'caution', 'concern', 'maintenance', 'wish', 'precaution', 'tutelage', 'attention', 'upkeep', 'deal', 'handle', 'guardianship', 'worry', 'give_care', 'manage', 'fear', 'tending', 'like']",The Fairbrothers
+full,"['total', 'full-of-the-moon', 'good', 'full_phase_of_the_moon', 'full_moon', 'broad', 'to_the_full', 'wax', 'replete', 'full', 'entire', 'wide-cut', 'wide', 'fully']",The Fairbrothers
+its,"['information_technology', 'IT']",The Fairbrothers
+Rhyme,"['verse', 'rhyme', 'rime']",The Fairbrothers
+Fairbrothers,[],The Fairbrothers
+some,"['about', 'more_or_less', 'just_about', 'around', 'close_to', 'or_so', 'some', 'approximately', 'roughly']",The Fairbrothers
+don't,[],The Fairbrothers
+turn,"['deform', 'spell', 'move_around', 'play', 'release', 'bit', 'act', 'rick', 'turn', 'turn_over', 'tour', 'wrick', 'sour', 'turning', 'bend', 'change_state', 'sprain', 'wrench', 'routine', 'grow', 'bout', 'change_by_reversal', 'twist', 'go', 'become', 'good_turn', 'ferment', 'work', 'crook', 'round', 'number', 'flex', 'turn_of_events', 'plough', 'plow', 'call_on', 'reverse']",The Fairbrothers
+See,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",The Fairbrothers
+as,"['antiophthalmic_factor', 'axerophthol', 'a', 'group_A', 'arsenic', 'As', 'as', 'vitamin_A', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'ampere', 'every_bit', 'amp', 'AS', 'A', 'equally', 'adenine', 'atomic_number_33', 'American_Samoa', 'Eastern_Samoa', 'type_A', 'angstrom']",The Fairbrothers
+dropping,"['strike_down', 'miss', 'neglect', 'fell', 'drip', 'send_away', 'sink', 'spend', 'dribble', 'deteriorate', 'swing', 'leave_out', 'send_packing', 'dangle', 'falling', 'knock_off', 'shake_off', 'dropping', 'drop_down', 'degenerate', 'set_down', 'flatten', 'unload', 'shed', 'throw_away', 'drop', 'omit', 'discharge', 'put_down', 'cast_off', 'overleap', 'devolve', 'dismiss', 'throw', 'throw_off', 'overlook', 'expend', 'drop_off', 'cut_down', 'pretermit', 'cast']",The Fairbrothers
+Jen,[],The Fairbrothers
+never,"['never', ""ne'er""]",The Fairbrothers
+sons,"['son', 'Son', 'boy', 'Word', 'Logos']",The Fairbrothers
+hop,"['record_hop', 'skip', 'hops', 'hop', 'hop-skip']",The Fairbrothers
+minute,"['hour', 'moment', 'arcminute', 'second', 'minute_of_arc', 'mo', 'bit', 'minute', 'instant', 'infinitesimal', 'narrow', 'min']",The Fairbrothers
+Robards',[],The Fairbrothers
+pyre,"['pyre', 'funeral_pyre']",The Fairbrothers
+gather,"['gain', 'forgather', 'garner', 'assemble', 'pile_up', 'pucker', 'cumulate', 'pull_together', 'meet', 'conglomerate', 'tuck', 'accumulate', 'get_together', 'gathering', 'collect', 'foregather', 'gather', 'amass']",The Fairbrothers
+laughed,"['express_mirth', 'laugh', 'express_joy']",The Fairbrothers
+please,"['delight', 'please']",The Fairbrothers
+admirer,"['booster', 'adorer', 'champion', 'supporter', 'protagonist', 'friend', 'admirer']",The Fairbrothers
+Kizzie,[],The Fairbrothers
+distressed,"['distressed', 'disturbed', 'disquieted', 'straiten', 'hard-pressed', 'distress', 'dysphoric', 'unhappy', 'hard_put', 'worried', 'in_a_bad_way', 'upset', 'stressed']",The Fairbrothers
+teeth,"['dentition', 'teeth', 'tooth']",The Fairbrothers
+thanks,"['give_thanks', 'thank', 'thanks']",The Fairbrothers
+gets,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",The Fairbrothers
+riding,"['depend_on', 'tease', 'devolve_on', 'razz', 'sit', 'horseback_riding', 'free', 'bait', 'mount', 'drive', 'hinge_on', 'tantalise', 'rid', 'cod', 'disembarrass', 'riding', 'taunt', 'rag', 'equitation', 'depend_upon', 'tantalize', 'hinge_upon', 'turn_on', 'twit', 'ride', 'rally']",The Fairbrothers
+conflict,"['struggle', 'battle', 'infringe', 'difference_of_opinion', 'contravene', 'conflict', 'dispute', 'engagement', 'run_afoul', 'difference', 'fight']",The Fairbrothers
+hot,"['spicy', 'hot', 'blistering', 'live', 'raging', 'red-hot']",The Fairbrothers
+fussing,"['niggle', 'mother', 'fuss', 'overprotect', 'fret']",The Fairbrothers
+been,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The Fairbrothers
+favorite,"['best-loved', 'favourite', 'darling', 'ducky', 'deary', 'preferred', 'pet', 'favorite', 'preferent', 'favored', 'front-runner', 'dearie']",The Fairbrothers
+both,['both'],The Fairbrothers
+fit,"['jibe', 'agree', 'equip', 'fit_out', 'burst', 'convulsion', 'conniption', 'tally', 'outfit', 'meet', 'primed', 'set', 'check', 'go', 'accommodate', 'correspond', 'tantrum', 'gibe', 'conform_to', 'fit', 'suit', 'paroxysm', 'match', 'scene']",The Fairbrothers
+mash,"['squeeze', 'crush', 'romance', 'dally', 'philander', 'bray', 'squash', 'squelch', 'chat_up', 'flirt', 'butterfly', 'coquette', 'coquet', 'grind', 'crunch', 'comminute', 'mash']",The Fairbrothers
+disliked,"['dislike', 'disliked']",The Fairbrothers
+devil,"['gravel', 'fiend', 'nark', 'Lucifer', 'get_at', 'ogre', 'Prince_of_Darkness', 'Old_Nick', 'chafe', 'bother', 'deuce', 'dickens', 'heller', 'Satan', 'daimon', 'Beelzebub', 'hellion', 'rile', 'monster', 'rag', 'the_Tempter', 'annoy', 'vex', 'get_to', 'devil', 'daemon', 'Devil', 'nettle', 'demon', 'irritate']",The Fairbrothers
+thought,"['cogitate', 'imagine', 'consider', 'retrieve', 'cerebrate', 'suppose', 'thought_process', 'opinion', 'persuasion', 'reckon', 'conceive', 'call_back', 'call_up', 'intend', 'cerebration', 'remember', 'mentation', 'guess', 'think', 'thought', 'opine', 'sentiment', 'view', 'idea', 'believe', 'recall', 'mean', 'recollect', 'intellection', 'thinking']",The Fairbrothers
+showing,"['testify', 'evidence', 'show', 'usher', 'evince', 'prove', 'designate', 'record', 'screening', 'demonstrate', 'register', 'indicate', 'exhibit', 'bear_witness', 'depict', 'picture', 'viewing', 'point', 'establish', 'read', 'showing', 'show_up', 'display', 'demo', 'render', 'shew', 'express', 'present']",The Fairbrothers
+attentive,"['attentive', 'heedful', 'paying_attention', 'thoughtful']",The Fairbrothers
+by,"['away', 'aside', 'past', 'by']",The Fairbrothers
+round,"['rung', 'orotund', 'assail', 'lash_out', 'assault', 'pear-shaped', 'brush_up', 'turn', 'fill_out', 'polish', 'polish_up', 'rhythm', 'troll', 'circular', 'round_off', 'bout', 'unit_of_ammunition', 'one_shot', 'round_out', 'labialise', 'beat', 'round_of_golf', 'labialize', 'flesh_out', 'circle', 'attack', 'stave', 'round', 'round_down', 'round_of_drinks', 'cycle', 'around', 'snipe', 'daily_round', 'rotund']",The Fairbrothers
+must,"['mustiness', 'must', 'moldiness']",The Fairbrothers
+good,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'salutary', 'honest', 'undecomposed', 'full', 'thoroughly', 'respectable', 'commodity', 'in_effect', 'sound', 'trade_good', 'estimable', 'proficient', 'skillful', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'right', 'in_force', 'soundly', 'unspoilt', 'good', 'goodness', 'well', 'upright', 'just', 'effective', 'unspoiled', 'honorable', 'safe']",The Fairbrothers
+Swift,"['Dean_Swift', 'western_fence_lizard', 'blue-belly', 'Gustavus_Franklin_Swift', 'swift', 'Sceloporus_occidentalis', 'Swift', 'Jonathan_Swift', 'fleet']",The Fairbrothers
+fool,"['chump', 'motley_fool', 'slang', 'fool_away', 'put_on', 'dupe', 'fool_around', 'soft_touch', 'fritter', 'shoot', 'sap', 'mark', 'put_one_over', 'cod', 'frivol_away', 'muggins', 'tomfool', 'gull', 'befool', 'put_one_across', 'dissipate', 'saphead', 'take_in', 'horse_around', 'arse_around', 'patsy', 'fritter_away', 'mug', 'fool', 'fall_guy', 'sucker', 'jester']",The Fairbrothers
+tell,"['evidence', 'distinguish', 'William_Tell', 'assure', 'order', 'tell_apart', 'secernate', 'narrate', 'enjoin', 'Tell', 'recount', 'separate', 'say', 'tell', 'state', 'severalize', 'secern', 'recite', 'differentiate', 'severalise']",The Fairbrothers
+plain-out,[],The Fairbrothers
+and,[],The Fairbrothers
+your,[],The Fairbrothers
+walking,"['take_the_air', 'walk-to', 'walk', 'walking']",The Fairbrothers
+give,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'spring', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'springiness', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The Fairbrothers
+disappointment,"['dashing_hopes', 'disappointment', 'letdown']",The Fairbrothers
+Night,"['dark', 'Night', 'nighttime', 'Nox', 'night']",The Fairbrothers
+house,"['planetary_house', 'domiciliate', 'theatre', 'put_up', 'star_sign', 'home', 'theater', 'firm', 'house', 'mansion', 'sign_of_the_zodiac', 'business_firm', 'menage', 'household', 'sign', 'family']",The Fairbrothers
+cook,"['wangle', 'Captain_James_Cook', 'falsify', 'prepare', 'Cook', 'fake', 'make', 'cook', 'Captain_Cook', 'James_Cook', 'fudge', 'manipulate', 'fix', 'misrepresent', 'ready']",The Fairbrothers
+weakness,"['failing', 'weakness', 'helplessness', 'impuissance']",The Fairbrothers
+:,[],The Fairbrothers
+way,"['manner', 'way_of_life', 'elbow_room', 'room', 'direction', 'path', 'fashion', 'means', 'style', 'right_smart', 'mode', 'agency', 'way']",The Fairbrothers
+Laban,"['Laban', 'Rudolph_Laban']",The Fairbrothers
+tore,"['torus', 'tear', 'tore', 'pluck', 'deplume', 'charge', 'bust', 'snap', 'deplumate', 'buck', 'rupture', 'shoot_down', 'displume', 'pull', 'shoot']",The Fairbrothers
+gifted,"['talented', 'endow', 'invest', 'gifted', 'endue', 'give', 'indue', 'empower', 'present', 'gift']",The Fairbrothers
+stamp,"['stamp', 'mould', 'revenue_stamp', 'stereotype', 'mold', 'stump', 'impression', 'legal_tender', 'pigeonhole', 'boss', 'postage', 'seal', 'tender', 'pestle', 'stomp', 'emboss', 'postage_stamp', 'cast']",The Fairbrothers
+Jonathan,['Jonathan'],The Fairbrothers
+racing,"['hotfoot', 'race', 'hie', 'bucket_along', 'racing', 'rush', 'belt_along', 'step_on_it', 'run', 'hasten', 'pelt_along', 'rush_along', 'speed', 'cannonball_along']",The Fairbrothers
+feeling,"['feel', 'tone', 'belief', 'look', 'palpate', 'find', 'touch', 'tactual_sensation', 'flavor', 'smell', 'feeling', 'impression', 'touch_sensation', 'opinion', 'sense', 'tactile_sensation', 'intuitive_feeling', 'finger', 'flavour', 'spirit', 'experience', 'notion']",The Fairbrothers
+those,[],The Fairbrothers
+Mamma,"['mammy', 'mammary_gland', 'mamma', 'mum', 'ma', 'mom', 'mummy', 'momma', 'mama', 'mommy']",The Fairbrothers
+nothing,"['nil', 'nix', 'nothing', 'nada', 'cipher', 'goose_egg', 'zip', 'null', 'zilch', 'zippo', 'aught', 'naught', 'cypher', 'zero']",The Fairbrothers
+kind,"['form', 'kind', 'genial', 'sort', 'variety', 'tolerant']",The Fairbrothers
+touching,"['affect', 'bear_upon', 'reach', 'touch', 'concern', 'contact', 'advert', 'bear_on', 'refer', 'impact', 'tint', 'stir', 'touching', 'meet', 'extend_to', 'relate', 'poignant', 'pertain', 'rival', 'partake', 'come_to', 'tinct', 'affecting', 'equal', 'have-to_doe_with', 'allude', 'disturb', 'adjoin', 'tinge', 'match', 'touch_on']",The Fairbrothers
+She,[],The Fairbrothers
+hours,"['hour', '60_minutes', 'time_of_day', 'hours', 'hr', 'minute']",The Fairbrothers
+June,['June'],The Fairbrothers
+try,"['taste', 'stress', 'essay', 'examine', 'attempt', 'prove', 'try_on', 'try_out', 'adjudicate', 'judge', 'try', 'assay', 'effort', 'strain', 'endeavor', 'test', 'endeavour', 'hear', 'sample', 'render', 'seek']",The Fairbrothers
+More,"['Thomas_More', 'more_than', 'more', 'More', 'Sir_Thomas_More', 'to_a_greater_extent']",The Fairbrothers
+coming,"['come_up', 'total', 'get', 'approaching', 'climax', 'do', 'arrive', 'sexual_climax', 'approach', 'orgasm', 'hail', 'come_in', 'coming', 'issue_forth', 'make_out', 'upcoming', 'advent', 'follow', 'occur', 'add_up', 'get_along', 'amount', 'forthcoming', 'descend', 'fall', 'derive', 'number', 'come', 'fare']",The Fairbrothers
+afterwards,"['later_on', 'subsequently', 'afterward', 'after', 'later', 'afterwards']",The Fairbrothers
+write,"['publish', 'spell', 'save', 'pen', 'drop_a_line', 'indite', 'write', 'compose']",The Fairbrothers
+Sis,"['te', 'SI_unit', 'sister', 'atomic_number_14', 'Systeme_International', 'Si', 'silicon', 'SI', 'International_System_of_Units', 'International_System', 'ti', ""Systeme_International_d'Unites"", 'si', 'SI_system', 'sis']",The Fairbrothers
+his,[],The Fairbrothers
+damn,"['blasted', 'all-fired', 'shucks', ""tinker's_damn"", 'blame', 'darn', 'darned', 'bloody', 'red_cent', 'hoot', 'goddamn', 'infernal', 'maledict', 'anathemize', 'blamed', 'curse', 'damn', 'goddamned', 'deuced', 'goddam', 'damned', 'shit', 'anathemise', 'bedamn', 'blessed', ""tinker's_dam"", 'beshrew', 'imprecate']",The Fairbrothers
+nip,"['piquantness', 'pinch', 'piquance', 'nip_off', 'twinge', 'flavor', 'zest', 'smack', 'twitch', 'Jap', 'chilliness', 'squeeze', 'nip', 'piquancy', 'sapidity', 'coolness', 'snip', 'Nip', 'shot', 'tang', 'flavour', 'savour', 'tanginess', 'relish', 'snip_off', 'tweet', 'clip', 'savor']",The Fairbrothers
+What,[],The Fairbrothers
+C'un,[],The Fairbrothers
+Tolley,[],The Fairbrothers
+babies,"['pamper', 'sister', 'mollycoddle', 'infant', 'babe', 'cosset', 'cocker', 'spoil', 'baby', 'indulge', 'featherbed', 'child', 'coddle']",The Fairbrothers
+joke,"['laugh', 'prank', 'jest', 'jape', 'jocularity', 'put-on', 'joke', 'antic', 'caper', 'trick', 'gag']",The Fairbrothers
+dear,"['pricy', 'darling', 'earnest', 'good', 'dearest', 'heartfelt', 'dearly', 'honey', 'beloved', 'love', 'high-priced', 'pricey', 'devout', 'dear', 'lamb', 'near', 'affectionately', 'costly']",The Fairbrothers
+from,[],The Fairbrothers
+hear,"['get_a_line', 'see', 'get_word', 'take_heed', 'learn', 'get_wind', 'pick_up', 'listen', 'try', 'discover', 'hear', 'find_out']",The Fairbrothers
+he'd,[],The Fairbrothers
+past,"['yesteryear', 'past_times', 'preceding', 'retiring', 'past_tense', 'past', 'by']",The Fairbrothers
+best,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'respectable', 'Charles_Herbert_Best', 'in_effect', 'sound', 'outdo', 'better', 'topper', 'intimately', 'estimable', 'proficient', 'C._H._Best', 'skillful', 'outflank', 'trump', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'best', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'scoop', 'effective', 'unspoiled', 'substantially', 'considerably', 'honorable', 'safe', 'Best']",The Fairbrothers
+callers,"['company', 'caller', 'telephoner', 'phoner', 'caller-out', 'caller-up']",The Fairbrothers
+predictions,"['anticipation', 'prevision', 'foretelling', 'forecasting', 'prognostication', 'prediction']",The Fairbrothers
+expensive,['expensive'],The Fairbrothers
+country,"['land', 'country', 'nation', 'res_publica', 'rural_area', 'area', 'commonwealth', 'state', 'body_politic']",The Fairbrothers
+Human,"['man', 'human', 'homo', 'human_being']",The Fairbrothers
+Howdy,"['hi', 'hullo', 'howdy', 'hello', 'how-do-you-do']",The Fairbrothers
+out,"['come_out', ""KO'd"", 'prohibited', 'out', 'proscribed', 'forbidden', 'knocked_out', 'extinct', 'away', 'kayoed', 'come_out_of_the_closet', 'tabu', 'stunned', 'taboo', 'verboten']",The Fairbrothers
+is,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The Fairbrothers
+rubbing,"['itch', 'rubbing', 'scratch', 'rub', 'friction', 'fray', 'chafe', 'fret', 'detrition']",The Fairbrothers
+You've,[],The Fairbrothers
+who,"['World_Health_Organization', 'WHO']",The Fairbrothers
+Eph,[],The Fairbrothers
+colt,"['colt', 'Colt']",The Fairbrothers
+chances,"['chance', 'bump', 'take_a_chance', 'prospect', 'opportunity', 'gamble', 'adventure', 'run_a_risk', 'find', 'take_chances', 'encounter', 'probability', 'risk', 'luck', 'fortune', 'happen', 'hazard']",The Fairbrothers
+danger,"['danger', 'peril', 'risk']",The Fairbrothers
+happy,"['felicitous', 'happy', 'well-chosen', 'glad']",The Fairbrothers
+things,"['matter', 'thing', 'affair', 'things']",The Fairbrothers
+early,"['early_on', 'former', 'early', 'too_soon', 'ahead_of_time', 'other', 'betimes']",The Fairbrothers
+Yes,['yes'],The Fairbrothers
+neighborhood,"['region', 'locality', 'neighborhood', 'vicinity', 'neighbourhood', 'neck_of_the_woods']",The Fairbrothers
+subtle,"['insidious', 'elusive', 'subtle', 'pernicious']",The Fairbrothers
+How,[],The Fairbrothers
+Pleasant,['pleasant'],The Fairbrothers
+chickens,"['poulet', 'volaille', 'chicken', 'wimp', 'Gallus_gallus', 'crybaby']",The Fairbrothers
+entertain,"['toy_with', 'flirt_with', 'hold', 'think_of', 'entertain', 'nurse', 'think_about', 'harbour', 'harbor']",The Fairbrothers
+concern,"['care', 'touch', 'concern', 'business_concern', 'occupy', 'bear_on', 'refer', 'vexation', 'business_organisation', 'business', 'headache', 'interest', 'business_organization', 'relate', 'pertain', 'come_to', 'have-to_doe_with', 'worry', 'fear', 'touch_on']",The Fairbrothers
+burst,"['fusillade', 'explode', 'explosion', 'flare-up', 'volley', 'bristle', 'salvo', 'bust', 'collapse', 'abound', 'burst', 'split', 'break', 'fit', 'erupt', 'break_open', 'outburst']",The Fairbrothers
+camera,"['television_camera', 'photographic_camera', 'tv_camera', 'camera']",The Fairbrothers
+satisfactions,"['satisfaction', 'expiation', 'gratification', 'atonement']",The Fairbrothers
+night,"['dark', 'Night', 'nighttime', 'Nox', 'night']",The Fairbrothers
+sent,"['charge', 'direct', 'sent', 'mail', 'institutionalize', 'institutionalise', 'transmit', 'send_off', 'place', 'beam', 'send', 'broadcast', 'post', 'ship', 'station', 'air', 'send_out', 'commit', 'transport', 'get_off']",The Fairbrothers
+ever',[],The Fairbrothers
+father,"['get', 'Padre', 'father', 'beget', 'male_parent', 'Father-God', 'Church_Father', 'generate', 'don', 'Father', 'Fatherhood', 'Father_of_the_Church', 'sire', 'bring_forth', 'forefather', 'begetter', 'mother', 'engender', 'founding_father', 'beginner', 'founder']",The Fairbrothers
+sight,"['good_deal', 'batch', 'plenty', 'hatful', 'sight', 'quite_a_little', 'mess', 'visual_sense', 'mickle', 'slew', 'heap', 'survey', 'wad', 'vision', 'tidy_sum', 'stack', 'deal', 'spate', 'visual_modality', 'lot', 'mass', 'great_deal', 'spy', 'mint', 'mountain', 'flock', 'pile', 'view', 'muckle', 'passel', 'raft', 'ken', 'pot', 'peck']",The Fairbrothers
+ever'body,[],The Fairbrothers
+died,"['kick_the_bucket', 'die', 'expire', 'break_down', 'pop_off', 'pall', 'drop_dead', 'conk', ""cash_in_one's_chips"", 'pass', 'exit', 'snuff_it', 'give_out', 'die_out', 'buy_the_farm', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'pass_away', 'perish', 'fail', 'become_flat', 'croak', 'conk_out', 'break', 'give_way', 'choke']",The Fairbrothers
+stay,"['last_out', 'appease', 'hitch', 'remain', 'stop', 'stick_around', 'outride', 'persist', 'stay', 'check', 'quell', 'bide', 'continue', 'detain', 'stoppage', 'stay_on', 'ride_out', 'arrest', 'stay_put', 'stick', 'rest', 'abide', 'halt', 'delay']",The Fairbrothers
+what-nots,[],The Fairbrothers
+years,"['old_age', 'yr', 'geezerhood', 'days', 'year', 'twelvemonth', 'age', 'long_time', 'class', 'eld', 'years']",The Fairbrothers
+pioneer,"['pioneer', 'initiate', 'innovator', 'trailblazer', 'groundbreaker', 'open_up']",The Fairbrothers
+anybody,[],The Fairbrothers
+rise,"['come_up', 'heighten', 'hike', 'resurrect', 'rising_slope', 'jump', 'procession', 'lift', 'get_up', 'arise', 'prove', 'mount', 'go_up', 'acclivity', 'salary_increase', 'rebel', 'grow', 'spring_up', 'move_up', 'emanation', 'stand_up', 'rise', 'wage_increase', 'originate', 'ascending', 'climb_up', 'rising', 'raise', 'ascent', 'cost_increase', 'turn_out', 'ascend', 'uprise', 'rear', 'upgrade', 'wage_hike', 'boost', 'climb', 'advance', 'wax', 'surface', 'rise_up', 'develop', 'ascension']",The Fairbrothers
+Jennifer,[],The Fairbrothers
+preserved,"['conserve', 'continue', 'keep_up', 'save', 'carry_on', 'keep', 'preserved', 'uphold', 'maintain', 'preserve', 'bear_on']",The Fairbrothers
+saw,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'power_saw', 'catch', 'ascertain', 'examine', 'witness', 'adage', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'byword', 'get_wind', 'pick_up', 'proverb', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'saw', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'sawing_machine', 'experience', 'control']",The Fairbrothers
+Hurry,"['hurry', 'hastiness', 'rush', 'zip', 'hasten', 'rushing', 'travel_rapidly', 'festinate', 'precipitation', 'look_sharp', 'hurriedness', 'haste', 'speed']",The Fairbrothers
+posts,"['Emily_Price_Post', 'military_post', 'carry', 'Post', 'spot', 'berth', 'C._W._Post', 'brand', 'mail', 'billet', 'Emily_Post', 'Charles_William_Post', 'Wiley_Post', 'place', 'put_up', 'office', 'postal_service', 'position', 'send', 'post', 'stake', 'station', 'situation', 'mail_service']",The Fairbrothers
+Roy's,[],The Fairbrothers
+looking,"['looking_for', 'look', 'await', 'seem', 'search', 'wait', 'sounding', 'expect', 'front', 'attend', 'reckon', 'calculate', 'take_care', 'bet', 'count', 'depend', 'looking', 'looking_at', 'see', 'face', 'appear']",The Fairbrothers
+Fair's,[],The Fairbrothers
+being,"['equal', 'comprise', 'constitute', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'existence', 'live', 'organism', 'being', 'beingness']",The Fairbrothers
+Brace's,[],The Fairbrothers
+if,[],The Fairbrothers
+husband,"['economise', 'economize', 'hubby', 'married_man', 'conserve', 'husband']",The Fairbrothers
+Mare's,[],The Fairbrothers
+only,"['only', 'entirely', 'sole', 'merely', 'simply', 'only_when', 'solitary', 'lone', 'just', 'exclusively', 'alone', 'only_if', 'solely', 'lonesome', 'but']",The Fairbrothers
+changes,"['commute', 'switch', 'modification', 'alter', 'alteration', 'transfer', 'exchange', 'convert', 'vary', 'interchange', 'change', 'variety', 'modify', 'shift', 'deepen']",The Fairbrothers
+Strong,"['impregnable', 'unattackable', 'strong', 'potent', 'substantial', 'firm', 'unassailable', 'hard', 'secure', 'solid', 'stiff', 'warm', 'inviolable']",The Fairbrothers
+meant,"['intend', 'signify', 'imply', 'have_in_mind', 'entail', 'think_of', 'mean', 'stand_for', 'think']",The Fairbrothers
+settled,"['subside', 'go_down', 'get_back', 'conciliate', 'resolve', 'sink', 'ensconce', 'adjudicate', 'colonised', 'root', 'determine', 'decide', 'go_under', 'settle_down', 'take_root', 'make_up', 'steady_down', 'colonized', 'locate', 'patch_up', 'descend', 'fall', 'finalize', 'square_up', 'finalise', 'settled', 'settle', 'reconcile', 'nail_down', 'square_off']",The Fairbrothers
+beside,[],The Fairbrothers
+an,"['AN', 'Associate_in_Nursing']",The Fairbrothers
+around,"['about', 'more_or_less', 'round', 'just_about', 'around', 'or_so', 'close_to', 'approximately', 'roughly', 'some']",The Fairbrothers
+oh,"['Ohio', 'OH', 'Buckeye_State']",The Fairbrothers
+tenant,"['tenant', 'renter']",The Fairbrothers
+taking,"['subscribe_to', 'take_on', 'aim', 'use_up', 'fetching', 'get', 'carry', 'take_up', 'look_at', 'make', 'direct', 'pickings', 'involve', 'take_aim', 'occupy', 'shoot', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'select', 'take', 'accept', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'winning', 'withdraw', 'fill', 'engage', 'taking', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",The Fairbrothers
+Robards,[],The Fairbrothers
+church,"['Christian_church', 'church_building', 'church_service', 'church']",The Fairbrothers
+have,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'wealthy_person', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'rich_person', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The Fairbrothers
+Make,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'brand', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'shuffle', 'induce', 'relieve_oneself', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'shuffling', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The Fairbrothers
+To,[],The Fairbrothers
+gateway,['gateway'],The Fairbrothers
+Tillie's,[],The Fairbrothers
+Beyond,['beyond'],The Fairbrothers
+herself,[],The Fairbrothers
+giving,"['give', 'giving', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'freehanded', 'grant', 'big', 'chip_in', 'ease_up', 'bighearted', 'sacrifice', 'cave_in', 'liberal', 'leave', 'pass', 'open', 'bounteous', 'generate', 'devote', 'yield', 'contribute', 'handsome', 'pay', 'hold', 'bountiful', 'move_over', 'return', 'feed', 'openhanded', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The Fairbrothers
+Miss,"['fille', 'lose', 'miss', 'neglect', 'overlook', 'young_woman', 'misfire', 'drop', 'omit', 'lack', 'escape', 'young_lady', 'leave_out', 'girl', 'Miss', 'overleap', 'missy', 'pretermit']",The Fairbrothers
+lift,"['come_up', 'pinch', 'hook', 'annul', 'nobble', 'elevation', 'wind', 'elevator', 'revoke', 'face-lift', 'lift', 'get_up', 'arise', 'repeal', 'swipe', 'plagiarise', 'go_up', 'cosmetic_surgery', 'countermand', 'aerodynamic_lift', 'snarf', 'rhytidoplasty', 'rustle', 'nip_and_tuck', 'move_up', 'rise', 'overturn', 'face_lift', 'elevate', 'face_lifting', 'rhytidectomy', 'raise', 'vacate', 'cabbage', 'airlift', 'purloin', 'plagiarize', 'uprise', 'bring_up', 'abstract', 'heave', 'facelift', 'filch', 'rear', 'ski_tow', 'raising', 'pilfer', 'hoist', 'ski_lift', 'rescind', 'reverse', 'sneak']",The Fairbrothers
+could,[],The Fairbrothers
+an',[],The Fairbrothers
+mares,"['maria', 'mare', 'vitiate', 'spoil', 'deflower', 'mutilate', 'mar', 'female_horse', 'impair']",The Fairbrothers
+bite,"['collation', 'bite', 'snack', 'morsel', 'chomp', 'sharpness', 'burn', 'seize_with_teeth', 'bit', 'sting', 'insect_bite', 'pungency', 'prick', 'raciness']",The Fairbrothers
+Home,"['house', 'abode', 'family', 'domicile', 'habitation', 'interior', 'home_base', 'place', 'national', 'dwelling', 'nursing_home', 'plate', 'rest_home', 'menage', 'home_plate', 'internal', 'home', 'dwelling_house', 'household', 'base']",The Fairbrothers
+be,"['equal', 'atomic_number_4', 'comprise', 'represent', 'cost', 'embody', 'follow', 'glucinium', 'be', 'exist', 'make_up', 'beryllium', 'personify', 'live', 'Be', 'constitute']",The Fairbrothers
+spiritual,"['unearthly', 'ghostlike', 'religious', 'apparitional', 'spectral', 'phantasmal', 'spiritual', 'Negro_spiritual', 'ghostly']",The Fairbrothers
+but,"['only', 'simply', 'merely', 'just', 'but']",The Fairbrothers
+Of,[],The Fairbrothers
+ought,[],The Fairbrothers
+lines,"['job', 'line_of_credit', 'crinkle', 'railway_line', 'melodic_phrase', 'short_letter', 'parentage', 'note', 'argumentation', 'trace', 'blood_line', 'pedigree', 'phone_line', 'bloodline', 'stemma', 'billet', 'bank_line', 'descent', 'business', 'dividing_line', 'product_line', 'personal_credit_line', 'furrow', 'communication_channel', 'assembly_line', 'line_of_business', 'melodic_line', 'run_along', 'subscriber_line', 'ancestry', 'seam', 'line_of_reasoning', 'line', 'strain', 'stock', 'crease', 'delineate', 'agate_line', 'line_of_products', 'credit_line', 'rail_line', 'line_of_merchandise', 'personal_line_of_credit', 'describe', 'telephone_circuit', 'line_of_descent', 'channel', 'tune', 'line_of_work', 'air', 'argument', 'cable', 'wrinkle', 'telephone_line', 'contrast', 'origin', 'course', 'transmission_line', 'blood', 'melody', 'pipeline', 'demarcation', 'lineage', 'production_line', 'business_line', 'draw', 'logical_argument', 'occupation']",The Fairbrothers
+something,[],The Fairbrothers
+nice,"['nice', 'squeamish', 'decent', 'skillful', 'prissy', 'dainty', 'gracious', 'courteous', 'Nice', 'overnice']",The Fairbrothers
+invariably,"['invariably', 'always', 'constantly']",The Fairbrothers
+Thrifty,"['careful', 'thrifty']",The Fairbrothers
+Kiz,[],The Fairbrothers
+last,"['finale', 'death', 'survive', 'hold_out', 'terminal', 'close', 'utmost', 'final_stage', 'concluding', 'end', 'in_conclusion', 'finally', 'stopping_point', 'live_on', 'lastly', 'go', 'last', ""shoemaker's_last"", 'endure', 'finish', ""cobbler's_last"", 'lowest', 'conclusion', 'last-place', 'final', 'hold_up', 'finis', 'live', 'net']",The Fairbrothers
+Jockey,"['cheat', 'jockey', 'screw', 'chicane', 'chouse', 'shaft']",The Fairbrothers
+buggy,"['kooky', 'dotty', 'roadster', 'batty', 'bonkers', 'nutty', 'fruity', 'cracked', 'balmy', 'barmy', 'daft', 'loopy', 'kookie', 'buggy', 'around_the_bend', 'loony', 'whacky', 'round_the_bend', 'loco', 'wacky', 'bats', 'crackers', 'nuts', 'haywire']",The Fairbrothers
+Rest,"['repose', 'relaxation', 'quietus', 'breathe', 'take_a_breather', 'reside', 'balance', 'remain', 'pillow', 'residual', 'sleep', 'residuum', 'residue', 'rest_period', 'perch', 'respite', 'stay', 'lie', 'remainder', ""catch_one's_breath"", 'ease', 'eternal_rest', 'relief', 'eternal_sleep', 'rest', 'roost']",The Fairbrothers
+seemed,"['appear', 'seem', 'look']",The Fairbrothers
+shall,[],The Fairbrothers
+yourself,[],The Fairbrothers
+himself,[],The Fairbrothers
+And,[],The Fairbrothers
+swung,"['drop', 'swing_over', 'get_around', 'sweep', 'sway', 'swing_out', 'swing', 'dangle']",The Fairbrothers
+twenty,"['twenty', '20', 'twenty_dollar_bill', 'XX', 'xx']",The Fairbrothers
+idea,"['mind', 'theme', 'melodic_theme', 'musical_theme', 'idea', 'approximation', 'thought', 'estimate', 'estimation']",The Fairbrothers
+triplets,"['terzetto', 'triad', 'threesome', 'deuce-ace', 'triplet', 'trey', '3', 'three', 'troika', 'ternary', 'ternion', 'III', 'leash', 'triple', 'trinity', 'tercet', 'tierce', 'trine', 'trio']",The Fairbrothers
+strength,"['strong_point', 'military_strength', 'durability', 'enduringness', 'potency', 'specialty', 'strong_suit', 'persuasiveness', 'effectiveness', 'forcefulness', 'intensity', 'metier', 'lastingness', 'forte', 'speciality', 'military_capability', 'long_suit', 'military_posture', 'posture', 'force', 'intensity_level', 'strength']",The Fairbrothers
+didn't,[],The Fairbrothers
+even,"['eventide', 'level', 'eve', 'still', 'yet', 'even_out', 'regular', 'fifty-fifty', 'tied', 'even', 'flush', 'evening']",The Fairbrothers
+consorting,"['agree', 'affiliate', 'run', 'consort', 'associate', 'assort', 'harmonise', 'concord', 'fit_in', 'harmonize', 'accord']",The Fairbrothers
+whole,"['whole', 'entirely', 'altogether', 'all', 'unit', 'unharmed', 'totally', 'unhurt', 'wholly', 'unscathed', 'completely', 'solid', 'unanimous', 'hale']",The Fairbrothers
+folks,"['folk_music', 'folks', 'folk', 'tribe', 'sept', 'kinsfolk', 'phratry', 'ethnic_music', 'common_people', 'kinfolk', 'family_line', 'family']",The Fairbrothers
+now,"['now', 'forthwith', 'directly', 'immediately', 'straight_off', 'right_away', 'straightaway', 'at_present', 'instantly', 'nowadays', 'like_a_shot', 'today', 'at_once']",The Fairbrothers
+lacerate,"['lacerate', 'torn', 'mangled', 'lacerated']",The Fairbrothers
+second,"['sec', 'second', 'bit', 'indorsement', 'secondment', 'second_base', 'minute', 's', 'second_gear', 'secondly', 'indorse', '2nd', 'moment', '2d', 'endorsement', 'irregular', 'mo', 'endorse', 'instant', 'back', 'arcsecond']",The Fairbrothers
+beloved,"['darling', 'dearest', 'honey', 'beloved', 'love', 'dear']",The Fairbrothers
+young,"['Whitney_Young', 'Danton_True_Young', 'Cy_Young', 'young', 'Pres_Young', 'new', 'Whitney_Moore_Young_Jr.', 'untested', 'youth', 'Lester_Willis_Young', 'Young', 'immature', 'offspring', 'Brigham_Young', 'Thomas_Young', 'untried', 'Loretta_Young', 'unseasoned', 'vernal', 'Edward_Young', 'youthful']",The Fairbrothers
+momentary,"['fleeting', 'fugitive', 'momentary', 'momentaneous']",The Fairbrothers
+It,"['information_technology', 'IT']",The Fairbrothers
+Roy,[],The Fairbrothers
+``,[],The Fairbrothers
+time,"['clock_time', 'meter', 'clock', 'metre', 'prison_term', 'clip', 'sentence', 'time', 'fourth_dimension']",The Fairbrothers
+At,"['atomic_number_85', 'at', 'astatine', 'At']",The Fairbrothers
+cruel,"['fell', 'brutal', 'savage', 'barbarous', 'vicious', 'roughshod', 'cruel']",The Fairbrothers
+will,"['will', 'bequeath', 'testament', 'leave', 'volition']",The Fairbrothers
+hadn't,[],The Fairbrothers
+first,"['commencement', 'low', 'showtime', 'outset', 'initiative', 'foremost', 'first', 'maiden', 'world-class', 'firstly', 'offset', 'low_gear', 'get-go', 'first_gear', 'initiatory', '1st', 'beginning', 'first_off', 'first_of_all', 'kickoff', 'start', 'inaugural', 'number_one', 'number_1', 'first-class_honours_degree', 'first_base', 'starting_time', 'for_the_first_time']",The Fairbrothers
+how,[],The Fairbrothers
+ever,"['ever', 'of_all_time', 'always', 'ever_so', ""e'er""]",The Fairbrothers
+she,[],The Fairbrothers
+silly,"['cockamamy', 'airheaded', 'dizzy', 'featherbrained', 'giddy', 'pathetic', 'cockamamie', 'silly', 'slaphappy', 'lightheaded', 'punch-drunk', 'zany', 'light-headed', 'whacky', 'goofy', 'ridiculous', 'empty-headed', 'wacky', 'sappy']",The Fairbrothers
+thimble,"['thimble', 'thimbleful']",The Fairbrothers
+made,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'made', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The Fairbrothers
+sor'l,[],The Fairbrothers
+adding,"['total', 'bring', 'append', 'bestow', 'contribute', 'impart', 'summate', 'supply', 'tot', 'tote_up', 'tally', 'tot_up', 'add', 'add_up', 'sum', 'lend', 'add_together', 'sum_up']",The Fairbrothers
+ideas,"['mind', 'theme', 'melodic_theme', 'musical_theme', 'idea', 'approximation', 'thought', 'estimate', 'estimation']",The Fairbrothers
+Oscar,"['Academy_Award', 'Oscar']",The Fairbrothers
+Club,"['ball_club', 'gild', 'nightclub', 'order', 'baseball_club', 'nine', 'society', 'clubhouse', 'bludgeon', 'social_club', 'cabaret', 'guild', 'night_club', 'golf_club', 'club', 'golf-club', 'lodge', 'nightspot']",The Fairbrothers
+after,"['later_on', 'subsequently', 'afterward', 'after', 'later', 'afterwards']",The Fairbrothers
+her,[],The Fairbrothers
+Mr.,"['Mr.', 'Mister', 'Mr']",The Fairbrothers
+really,"['real', 'truly', 'really', 'very', 'actually', 'rattling', 'in_truth', 'genuinely']",The Fairbrothers
+quick,"['quick', 'speedy', 'quickly', 'agile', 'flying', 'straightaway', 'promptly', 'nimble', 'prompt', 'fast', 'warm', 'immediate', 'spry', 'ready']",The Fairbrothers
+exactly,"['exactly', 'on_the_button', 'just', 'incisively', 'on_the_nose', 'on_the_dot', 'precisely']",The Fairbrothers
+trip,"['actuate', 'stumble', 'travel', 'trip-up', 'trip_out', 'head_trip', 'misstep', 'trigger', 'trip_up', 'spark', 'set_off', 'trigger_off', 'slip', 'jaunt', 'touch_off', 'trip', 'spark_off', 'turn_on', 'get_off', 'tripper', 'activate']",The Fairbrothers
+teething,"['dentition', 'teething', 'odontiasis', 'teethe']",The Fairbrothers
+had,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The Fairbrothers
+revolting,"['loathly', 'loathsome', 'repel', 'yucky', 'disgustful', 'foul', 'nauseate', 'churn_up', 'wicked', 'repellent', 'gross_out', 'distasteful', 'revolt', 'sicken', 'disgusting', 'disgust', 'revolting', 'repellant', 'repelling', 'skanky']",The Fairbrothers
+down,"['low', 'mastered', 'gloomy', 'depressed', 'downwardly', 'pull_down', 'polish', 'land', 'consume', 'pop', 'downwards', 'downward', 'shoot_down', 'dispirited', 'downhearted', 'fine-tune', 'belt_down', 'blue', 'refine', 'down_in_the_mouth', 'kill', 'knock_down', 'downcast', 'John_L._H._Down', 'down_pat', 'pour_down', 'Down', 'devour', 'pile', 'low-spirited', 'bolt_down', 'go_through', 'grim', 'down', 'toss_off', 'cut_down', 'down_feather', 'push_down', 'drink_down']",The Fairbrothers
+under,"['nether', 'under', 'below']",The Fairbrothers
+fetch,"['bring', 'bring_in', 'get', 'fetch', 'convey']",The Fairbrothers
+are,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'are', 'ar', 'constitute']",The Fairbrothers
+lips,"['mouth', 'backtalk', 'sassing', 'sass', 'rim', 'brim', 'lip', 'back_talk']",The Fairbrothers
+furnishings,"['furnish', 'furnishing', 'supply', 'provide', 'render', 'trappings']",The Fairbrothers
+simply,"['only', 'simply', 'merely', 'just', 'but', 'plainly']",The Fairbrothers
+poured,"['rain_buckets', 'swarm', 'rain_cats_and_dogs', 'pelt', 'stream', 'pullulate', 'pour_out', 'teem', 'pour', 'decant']",The Fairbrothers
+Swinburne,"['Swinburne', 'Algernon_Charles_Swinburne']",The Fairbrothers
+laughing,"['laugh', 'laughing', 'riant', 'express_mirth', 'express_joy']",The Fairbrothers
+Her,[],The Fairbrothers
+empty,"['evacuate', 'discharge', 'vacuous', 'vacate', 'empty', 'hollow', 'empty-bellied', 'void', 'abandon']",The Fairbrothers
+few,['few'],The Fairbrothers
+Kentucky,"['Bluegrass_State', 'Kentucky', 'KY']",The Fairbrothers
+peculiarly,"['curiously', 'especially', 'specially', 'oddly', 'particularly', 'peculiarly']",The Fairbrothers
+foals,['foal'],The Fairbrothers
+simplify,['simplify'],The Fairbrothers
+sympathy,"['understanding', 'fellow_feeling', 'sympathy']",The Fairbrothers
+So,"['then', 'sol', 'thus', 'indeed', 'and_so', 'so', 'and_then', 'soh', 'hence', 'therefore', 'thence', 'thusly']",The Fairbrothers
+else,[],The Fairbrothers
+greening,"['rejuvenation', 'green', 'greening']",The Fairbrothers
+unable,"['unable', 'ineffectual', 'ineffective']",The Fairbrothers
+bar'l,[],The Fairbrothers
+having,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The Fairbrothers
+importance,"['importance', 'grandness']",The Fairbrothers
+more,"['Thomas_More', 'more_than', 'more', 'More', 'Sir_Thomas_More', 'to_a_greater_extent']",The Fairbrothers
+scarf,"['scarf', 'scarf_joint']",The Fairbrothers
+blanche,[],The Fairbrothers
+Heavenly,"['heavenly', 'celestial']",The Fairbrothers
+lie,"['lie_in', 'rest', 'Lie', 'Trygve_Lie', 'lie_down', 'Trygve_Halvden_Lie', 'consist', 'lie', 'prevarication', 'dwell']",The Fairbrothers
+Now,"['now', 'forthwith', 'directly', 'immediately', 'straight_off', 'right_away', 'straightaway', 'at_present', 'instantly', 'nowadays', 'like_a_shot', 'today', 'at_once']",The Fairbrothers
+party,"['party', 'political_party', 'company']",The Fairbrothers
+finest,"['o.k.', 'fine', 'all_right', 'hunky-dory', 'ok', 'okay']",The Fairbrothers
+let,"['Army_of_the_Righteous', 'let', 'get', 'Lashkar-e-Tayyiba', 'have', 'countenance', 'Army_of_the_Pure', 'lease', 'net_ball', 'allow', 'LET', 'Lashkar-e-Toiba', 'permit', 'rent', 'Lashkar-e-Taiba']",The Fairbrothers
+once,"['at_one_time', 'once', 'erstwhile', 'one_time', 'erst', 'in_one_case', 'formerly']",The Fairbrothers
+couldn't,[],The Fairbrothers
+anyway,"['at_any_rate', 'anyway', 'in_any_case', 'in_any_event', 'anyways', 'anyhow']",The Fairbrothers
+take,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'payoff', 'carry', 'take_up', 'issue', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'takings', 'shoot', 'proceeds', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'yield', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'take', 'return', 'select', 'accept', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",The Fairbrothers
+were,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The Fairbrothers
+read,"['record', 'say', 'interpret', 'show', 'scan', 'learn', 'register', 'understand', 'take', 'study', 'translate', 'read']",The Fairbrothers
+Handsomest,"['well-favored', 'big', 'freehanded', 'handsome', 'bighearted', 'fine-looking', 'bountiful', 'giving', 'liberal', 'good-looking', 'openhanded', 'bounteous', 'well-favoured', 'better-looking']",The Fairbrothers
+confession,['confession'],The Fairbrothers
+collar,"['choker', 'cop', 'pinch', 'collar', 'shoe_collar', 'pick_up', 'taking_into_custody', 'apprehension', 'dog_collar', 'neckband', 'catch', 'nab', 'leash', 'arrest', 'apprehend', 'nail']",The Fairbrothers
+one,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",The Fairbrothers
+driving,"['aim', 'get', 'repel', 'labor', 'push', 'drive', 'ram', 'tug', 'take', 'driving', 'impulsive', 'motor', 'push_back', 'repulse', 'force', 'force_back', 'ride', 'beat_back', 'labour']",The Fairbrothers
+wax,"['mount', 'rise', 'climb', 'wax', 'full']",The Fairbrothers
+blacksmith,['blacksmith'],The Fairbrothers
+preach,"['advocate', 'prophesy', 'preach']",The Fairbrothers
+valiant,"['valorous', 'valiant']",The Fairbrothers
+ones,"['unity', '1', 'one', 'I', 'single', 'ace']",The Fairbrothers
+present,"['show', 'give', 'nowadays', 'stage', 'present_tense', 'demonstrate', 'introduce', 'deliver', 'acquaint', 'submit', 'represent', 'exhibit', 'confront', 'lay_out', 'portray', 'demo', 'pose', 'salute', 'award', 'present', 'face', 'gift']",The Fairbrothers
+know,"['lie_with', 'bang', 'recognize', 'have_it_off', 'sleep_together', 'acknowledge', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'recognise', 'bonk', 'cognize', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'love', 'cognise', 'live', 'get_it_on', 'know', 'experience', 'get_laid']",The Fairbrothers
+triumph,"['prevail', 'crow', 'wallow', 'gloat', 'exult', 'jubilate', 'exuberate', 'rejoice', 'victory', 'triumph']",The Fairbrothers
+graves,"['Robert_Ranke_Graves', 'Robert_Graves', 'Steffi_Graf', 'sculpt', 'grave', 'sculpture', 'grave_accent', 'Graf', 'scratch', 'engrave', 'inscribe', 'Graves', 'tomb', 'Stephanie_Graf']",The Fairbrothers
+cold,"['stale', 'frigidness', 'frigid', 'inhuman', 'coldness', 'insensate', 'cold-blooded', 'common_cold', 'low_temperature', 'dusty', 'frigidity', 'moth-eaten', 'cold']",The Fairbrothers
+jiffy,"['New_York_minute', 'jiffy', 'trice', 'heartbeat', 'split_second', 'wink', 'instant', 'blink_of_an_eye', 'twinkling', 'flash']",The Fairbrothers
+congregation,"['fold', 'congregating', 'congregation', 'faithful']",The Fairbrothers
+school,"['schooltime', 'schooling', 'educate', 'school_day', 'shoal', 'cultivate', 'schoolhouse', 'civilise', 'train', 'school', 'civilize']",The Fairbrothers
+oneasy,[],The Fairbrothers
+there,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Fairbrothers
+new,"['freshly', 'fresh', 'novel', 'Modern', 'young', 'raw', 'New', 'unexampled', 'newly', 'newfangled', 'new']",The Fairbrothers
+land,"['terra_firma', 'soil', 'earth', 'estate', 'commonwealth', 'Din_Land', 'land', 'Land', 'bring_down', 'dry_land', 'domain', 'set_down', 'shoot_down', 'set_ashore', 'bring', 'ground', 'solid_ground', 'landed_estate', 'acres', 'shore', 'demesne', 'put_down', 'Edwin_Herbert_Land', 'farming', 'country', 'kingdom', 'nation', 'res_publica', 'down', 'realm', 'state', 'body_politic']",The Fairbrothers
+flame,"['flaming', 'flame', 'flare', 'fire']",The Fairbrothers
+P.GA,[],The Fairbrothers
+very,"['real', 'selfsame', 'really', 'very', 'rattling', 'identical']",The Fairbrothers
+Whipsnade,[],The Fairbrothers
+Tolley's,[],The Fairbrothers
+grandsons,['grandson'],The Fairbrothers
+unpleasant,['unpleasant'],The Fairbrothers
+pretty,"['middling', 'somewhat', 'passably', 'pretty', 'reasonably', 'fairly', 'jolly', 'moderately']",The Fairbrothers
+sweet,"['sweet-flavored', 'odoriferous', 'angelical', 'sugared', 'confection', 'sweetness', 'Henry_Sweet', 'cherubic', 'mellifluous', 'mellisonant', 'gratifying', 'honeyed', 'afters', 'seraphic', 'sweet', 'sugariness', 'Sweet', 'perfumed', 'sweet-scented', 'fresh', 'scented', 'angelic', 'dessert', 'odorous', 'sweetened', 'sweet-smelling', 'unfermented', 'dulcet', 'sweetly']",The Fairbrothers
+message,"['substance', 'content', 'subject_matter', 'message']",The Fairbrothers
+firmly,"['firmly', 'firm', 'hard', 'unwaveringly', 'steadfastly', 'securely']",The Fairbrothers
+legs,"['branch', 'pegleg', 'peg', 'leg', 'stage', 'ramification', 'wooden_leg', 'legs']",The Fairbrothers
+pike,"['thruway', 'pike', 'throughway', 'motorway', 'freeway', 'state_highway', 'superhighway', 'expressway']",The Fairbrothers
+hoped,"['skip', 'hope', 'hop', 'trust', 'hop-skip', 'desire', 'go_for']",The Fairbrothers
+keep,"['sustenance', 'stay_fresh', 'go_along', 'prevent', 'go_on', 'bread_and_butter', 'keep_open', 'celebrate', 'living', 'restrain', 'observe', 'keep_back', 'livelihood', 'retain', 'continue', 'keep', 'hold', 'donjon', 'keep_on', 'preserve', 'hold_open', 'hold_on', 'support', 'sustain', 'dungeon', 'hold_back', 'save', 'proceed', 'maintain']",The Fairbrothers
+spring,"['give', 'jump', 'reverberate', 'natural_spring', 'saltation', 'fountain', 'recoil', 'bound', 'take_shape', 'bounce', 'springtime', 'outflow', 'leap', 'rebound', 'take_a_hop', 'leaping', 'spring', 'ricochet', 'form', 'take_form', 'springiness', 'resile', 'outpouring']",The Fairbrothers
+Nick's,[],The Fairbrothers
+that,[],The Fairbrothers
+little,"['trivial', 'piddling', 'picayune', 'fiddling', 'slight', 'small', 'footling', 'minuscule', 'little', 'short', 'lilliputian', 'niggling', 'piffling', 'petty']",The Fairbrothers
+would,[],The Fairbrothers
+getting,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'getting', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'acquiring', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",The Fairbrothers
+right,"['ripe', 'decently', 'mighty', 'rightfulness', 'veracious', 'flop', 'redress', 'right-hand', 'rightfield', 'decent', 'correctly', 'compensate', 'the_right_way', 'correct', 'rectify', 'in_good_order', 'right', 'right_wing', 'good', 'mightily', 'powerful', 'justly', 'right_hand', 'right_on', 'right_field', 'properly', 'proper', 'aright']",The Fairbrothers
+hope,"['Leslie_Townes_Hope', 'hope', 'Bob_Hope', 'Hope', 'promise', 'go_for', 'desire', 'trust']",The Fairbrothers
+rest,"['repose', 'relaxation', 'quietus', 'breathe', 'take_a_breather', 'reside', 'balance', 'remain', 'pillow', 'residual', 'sleep', 'residuum', 'residue', 'rest_period', 'perch', 'respite', 'stay', 'lie', 'remainder', ""catch_one's_breath"", 'ease', 'eternal_rest', 'relief', 'eternal_sleep', 'rest', 'roost']",The Fairbrothers
+well,"['wellspring', 'good', 'advantageously', 'well', 'swell', 'easily', 'comfortably', 'fountainhead', 'substantially', 'considerably', 'intimately']",The Fairbrothers
+wouldn't,[],The Fairbrothers
+uncomfortably,['uncomfortably'],The Fairbrothers
+--,[],The Fairbrothers
+purtiest,[],The Fairbrothers
+live,"['survive', 'hold_out', 'subsist', 'dwell', 'lively', 'springy', 'be', 'live_on', 'alive', 'unrecorded', 'bouncy', 'go', 'last', 'hot', 'populate', 'endure', 'exist', 'inhabit', 'resilient', 'hold_up', 'live', 'know', 'experience']",The Fairbrothers
+took,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'carry', 'take_up', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'shoot', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'accept', 'take', 'select', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",The Fairbrothers
+In,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",The Fairbrothers
+tenants,"['tenant', 'renter']",The Fairbrothers
+dang,[],The Fairbrothers
+get,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",The Fairbrothers
+red,"['red', 'red_ink', 'redness', 'cherry', 'bolshy', 'Marxist', 'loss', 'ruby-red', 'carmine', 'red-faced', 'Bolshevik', 'reddened', 'Red_River', 'bolshie', 'crimson', 'cerise', 'violent', 'flushed', 'cherry-red', 'blood-red', 'Red', 'scarlet', 'ruby', 'reddish', 'ruddy']",The Fairbrothers
+before,"['in_front', 'ahead', 'earlier', 'before']",The Fairbrothers
+musn't,[],The Fairbrothers
+assured,"['see', 'insure', 'ensure', 'assure', 'promise', 'reassure', 'assured', 'secure', 'tell', 'ascertain', 'guarantee', 'see_to_it', 'control', 'check']",The Fairbrothers
+die,"['kick_the_bucket', 'die', 'expire', 'break_down', 'pop_off', 'pall', 'drop_dead', 'conk', ""cash_in_one's_chips"", 'dice', 'pass', 'exit', 'snuff_it', 'give_out', 'die_out', 'buy_the_farm', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'pass_away', 'perish', 'fail', 'become_flat', 'croak', 'conk_out', 'break', 'give_way', 'choke']",The Fairbrothers
+Spa,"['spa', 'health_spa', 'health_club', 'watering_place', 'watering_hole', 'resort_hotel']",The Fairbrothers
+fifteen,"['fifteen', 'xv', 'XV', '15']",The Fairbrothers
+till,"['money_box', 'cashbox', 'public_treasury', 'trough', 'till', 'boulder_clay']",The Fairbrothers
+Never,"['never', ""ne'er""]",The Fairbrothers
+cards,"['board', 'lineup', 'wit', 'identity_card', 'posting', 'plug-in', 'tease', 'visiting_card', 'add-in', 'wag', 'card', 'carte', 'cards', 'card_game', 'carte_du_jour', 'batting_order', 'bill', 'calling_card', 'bill_of_fare', 'placard', 'menu', 'scorecard', 'circuit_card', 'poster', 'notice', 'circuit_board']",The Fairbrothers
+inside,"['inside', 'at_bottom', 'at_heart', 'indoors', 'privileged', 'inwardly', 'deep_down', 'within', 'interior', 'inner', 'in_spite_of_appearance']",The Fairbrothers
+cats,"['vomit', 'big_cat', 'true_cat', 'spue', 'kat', 'CT', 'be_sick', 'cat', 'computed_tomography', 'barf', 'quat', 'disgorge', ""cat-o'-nine-tails"", 'spew', 'Caterpillar', 'vomit_up', 'Arabian_tea', 'regorge', 'regurgitate', 'purge', 'computed_axial_tomography', 'hombre', 'CAT', 'sick', 'guy', 'khat', 'qat', 'computerized_axial_tomography', 'puke', 'chuck', 'retch', 'upchuck', 'honk', 'throw_up', 'African_tea', 'computerized_tomography', 'bozo', 'cast']",The Fairbrothers
+dress,"['arrange', 'full-dress', 'plume', 'fit_out', 'do', 'groom', 'preen', 'attire', 'tog', 'lop', 'apparel', 'line_up', 'prune', 'primp', 'coif', 'dress', 'cut_back', 'habilitate', 'clothes', 'frock', 'decorate', 'set', 'dress_out', 'enclothe', 'crop', 'dress_up', 'garb', 'snip', 'clothe', 'coiffe', 'curry', 'garment', 'wearing_apparel', 'get_dressed', 'coiffure', 'trim', 'raiment', 'garnish', 'clip']",The Fairbrothers
+better,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'bettor', 'respectable', 'considerably', 'in_effect', 'sound', 'better', 'intimately', 'estimable', 'meliorate', 'amend', 'proficient', 'skillful', 'wagerer', 'secure', 'dependable', 'ameliorate', 'practiced', 'dear', 'near', 'beneficial', 'best', 'punter', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'effective', 'unspoiled', 'substantially', 'break', 'improve', 'honorable', 'safe']",The Fairbrothers
+suggested,"['propose', 'intimate', 'advise', 'evoke', 'paint_a_picture', 'indicate', 'hint', 'suggest']",The Fairbrothers
+unfair,"['unfair', 'unjust']",The Fairbrothers
+said,"['say', 'order', 'aforesaid', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'aforementioned', 'state', 'enjoin', 'said', 'read', 'articulate']",The Fairbrothers
+This,[],The Fairbrothers
+Don't,[],The Fairbrothers
+dead,"['utterly', 'bushed', 'beat', 'stagnant', 'utter', 'abruptly', 'all_in', 'absolutely', 'perfectly', 'numb', 'idle', 'suddenly', 'short', 'deadened', 'drained', 'dead']",The Fairbrothers
+allowed,"['grant', 'admit', 'let', 'tolerate', 'provide', 'leave', 'set_aside', 'countenance', 'appropriate', 'take_into_account', 'reserve', 'allow_for', 'permit', 'give_up', 'earmark', 'allow']",The Fairbrothers
+when,[],The Fairbrothers
+happened,"['chance', 'pass_off', 'bump', 'take_place', 'hap', 'come_about', 'befall', 'go_on', 'fall_out', 'occur', 'find', 'materialize', 'pass', 'encounter', 'materialise', 'bechance', 'happen']",The Fairbrothers
+peach,"['Prunus_persica', 'blab', 'blab_out', 'mantrap', 'babble_out', 'beauty', 'salmon_pink', 'knockout', 'peach_tree', 'dish', 'talk', 'yellowish_pink', 'babble', 'sweetheart', 'let_the_cat_out_of_the_bag', 'ravisher', 'stunner', 'sing', 'spill_the_beans', 'apricot', 'peach', 'smasher', 'looker', 'tattle', 'lulu']",The Fairbrothers
+disgusting,"['loathly', 'loathsome', 'repel', 'yucky', 'disgustful', 'foul', 'nauseate', 'churn_up', 'wicked', 'repellent', 'gross_out', 'distasteful', 'revolt', 'sicken', 'disgusting', 'disgust', 'revolting', 'repellant', 'repelling', 'skanky']",The Fairbrothers
+strange,"['unknown', 'foreign', 'unusual', 'strange']",The Fairbrothers
+tried,"['taste', 'stress', 'time-tested', 'essay', 'examine', 'attempt', 'prove', 'try_on', 'try_out', 'adjudicate', 'judge', 'well-tried', 'try', 'assay', 'strain', 'test', 'hear', 'sample', 'tried', 'tried_and_true', 'render', 'tested', 'seek']",The Fairbrothers
+Under,"['nether', 'under', 'below']",The Fairbrothers
+Shawnee,['Shawnee'],The Fairbrothers
+asunder,"['apart', 'asunder']",The Fairbrothers
+Them's,[],The Fairbrothers
+peace,"['pacification', 'peace', 'serenity', 'peacefulness', 'heartsease', 'repose', 'peace_of_mind', 'peace_treaty', 'public_security', 'ataraxis']",The Fairbrothers
+unhappy,"['distressed', 'dysphoric', 'unhappy', 'infelicitous']",The Fairbrothers
+inclement,['inclement'],The Fairbrothers
+days,"['daylight', 'Clarence_Shepard_Day_Jr.', '24-hour_interval', 'twenty-four_hour_period', 'Day', 'mean_solar_day', 'day', 'Clarence_Day', 'days', 'sidereal_day', 'daytime', 'solar_day', 'twenty-four_hours', 'years']",The Fairbrothers
+Jesus,"['Jesus_of_Nazareth', 'Christ', 'Jesus_Christ', 'Deliverer', 'Savior', 'Jesus', 'Good_Shepherd', 'the_Nazarene', 'Saviour', 'Redeemer']",The Fairbrothers
+pups,"['pup', 'puppy', 'whelp']",The Fairbrothers
+geldings,"['cut', 'gelding', 'geld']",The Fairbrothers
+Edmonia,[],The Fairbrothers
+with,[],The Fairbrothers
+silver,"['ash_gray', 'silvern', 'silvery', 'argent', 'silverish', 'fluent', 'smooth-spoken', 'atomic_number_47', 'facile', 'silver_medal', 'flatware', 'silver-tongued', 'silver', 'Ag', 'ash_grey', 'silver_gray', 'silver_grey', 'eloquent']",The Fairbrothers
+called,"['prognosticate', 'cry', 'send_for', 'scream', 'shout', 'predict', 'hollo', 'name', 'holler', 'squall', 'call_off', 'call', 'address', 'phone', 'forebode', 'call_up', 'shout_out', 'ring', 'anticipate', 'telephone', 'call_in', 'yell', 'visit', 'promise', 'bid', 'foretell']",The Fairbrothers
+spirits,"['feel', 'hard_drink', 'tone', 'liveliness', 'look', 'emotional_state', 'strong_drink', 'John_Barleycorn', 'liquor', 'flavor', 'smell', 'feeling', 'hard_liquor', 'intent', 'spirit_up', 'sprightliness', 'booze', 'inspirit', 'heart', 'flavour', 'life', 'spirit', 'disembodied_spirit', 'purport', 'spirits']",The Fairbrothers
+off,"['hit', 'slay', 'sour', 'forth', 'bump_off', 'polish_off', 'murder', 'turned', 'cancelled', 'away', 'off', 'dispatch', 'remove']",The Fairbrothers
+should,[],The Fairbrothers
+to-do,"['to-do', 'commotion', 'hoo-hah', 'kerfuffle', 'flutter', 'disruption', 'disturbance', 'hurly_burly', 'hoo-ha']",The Fairbrothers
+Frank,"['outspoken', 'Frank', 'weenie', 'blunt', 'hotdog', 'point-blank', 'forthright', 'dog', 'wiener', 'free-spoken', 'plainspoken', 'straight-from-the-shoulder', 'wienerwurst', 'hot_dog', 'frank', 'frankfurter', 'candid', 'postmark']",The Fairbrothers
+speaking,"['speaking', 'mouth', 'speak', 'address', 'utter', 'verbalise', 'speechmaking', 'oral_presentation', 'talk', 'verbalize', 'public_speaking', 'speech_production']",The Fairbrothers
+fine,"['finely', 'mulct', 'fine', 'all_right', 'o.k.', 'hunky-dory', 'alright', 'very_well', 'delicately', 'ticket', 'okay', 'amercement', 'OK', 'exquisitely', 'ok']",The Fairbrothers
+trees,"['Sir_Herbert_Beerbohm_Tree', 'Tree', 'tree', 'tree_diagram', 'shoetree', 'corner']",The Fairbrothers
+look,"['feel', 'tone', 'look', 'await', 'seem', 'aspect', 'flavor', 'search', 'wait', 'smell', 'feeling', 'expect', 'front', 'attend', 'reckon', 'calculate', 'take_care', 'bet', 'count', 'depend', 'expression', 'looking', 'looking_at', 'facial_expression', 'see', 'flavour', 'spirit', 'face', 'appear']",The Fairbrothers
+funny,"['suspicious', 'laughable', 'funny', 'suspect', 'singular', 'shady', 'risible', 'amusing', 'fishy', 'curious', 'peculiar', 'odd', 'mirthful', 'queer', 'funny_story', 'comic', 'comical', 'funny_remark', 'good_story', 'rummy', 'rum']",The Fairbrothers
+Brace,"['poise', 'bitstock', 'twain', 'couplet', 'duo', 'pair', 'duet', 'brace', 'suspender', 'perk_up', 'twosome', 'orthodontic_braces', 'braces', 'duad', 'stimulate', 'gallus', 'steady', 'dyad', 'energise', 'energize', 'stabilise', 'span', 'yoke', 'stabilize', 'distich', 'couple', 'bracing', 'arouse']",The Fairbrothers
+mighty,"['powerful', 'mighty', 'right', 'mightily']",The Fairbrothers
+asked,"['need', 'enquire', 'postulate', 'expect', 'necessitate', 'take', 'ask', 'inquire', 'require', 'involve', 'demand', 'call_for']",The Fairbrothers
+saying,"['locution', 'say', 'order', 'saying', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'expression', 'enunciate', 'state', 'enjoin', 'read', 'articulate']",The Fairbrothers
+do,"['arrange', 'make', 'do', 'Doctor_of_Osteopathy', 'act', 'behave', 'brawl', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'answer', 'practice', 'set', 'make_out', 'DO', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'ut', 'coiffure', 'cause', 'bash', 'doh', 'come', 'manage', 'fare']",The Fairbrothers
+Mrs.,"['Mrs.', 'Mrs']",The Fairbrothers
+not,"['not', 'non']",The Fairbrothers
+pleased,"['delight', 'proud_of', 'pleased', 'please']",The Fairbrothers
+procession,"['progress', 'emanation', 'advancement', 'rise', 'forward_motion', 'advance', 'progression', 'procession', 'onward_motion']",The Fairbrothers
+dressed,"['arrange', 'plume', 'dressed-up', 'fit_out', 'do', 'groom', 'dolled_up', 'preen', 'tog', 'lop', 'dressed', 'spiffed_up', 'apparel', 'line_up', 'prune', 'primp', 'coif', 'dress', 'cut_back', 'habilitate', 'habilimented', 'decorate', 'set', 'dress_out', 'robed', 'enclothe', 'crop', 'appareled', 'dress_up', 'dressed_to_kill', 'dressed_to_the_nines', 'garb', 'snip', 'attired', 'clothe', 'coiffe', 'togged_up', 'curry', 'garment', 'polished', 'get_dressed', 'spruced_up', 'coiffure', 'trim', 'raiment', 'garnish', 'garmented', 'clip', 'garbed']",The Fairbrothers
+robbed,"['gazump', 'pluck', 'hook', 'fleece', 'overcharge', 'soak', 'plume', 'rob', 'surcharge']",The Fairbrothers
+over,"['all_over', 'complete', 'terminated', 'ended', 'concluded', 'over', ""o'er""]",The Fairbrothers
+deception,"['magic', 'legerdemain', 'thaumaturgy', 'deceit', 'conjuring_trick', 'conjuration', 'illusion', 'magic_trick', 'misrepresentation', 'trick', 'dissimulation', 'deception', 'dissembling']",The Fairbrothers
+sun's,[],The Fairbrothers
+why,"['why', 'wherefore']",The Fairbrothers
+Why,"['why', 'wherefore']",The Fairbrothers
+summer,"['summer', 'summertime']",The Fairbrothers
+We'll,[],The Fairbrothers
+here,"['here', 'Hera', 'hither', 'Here']",The Fairbrothers
+curl,"['wave', 'kink', 'coil', 'scroll', 'Curl', 'roll', 'loop', 'lock', 'curl', 'gyre', 'draw_in', 'whorl', 'Robert_Curl', 'Robert_Floyd_Curl_Jr.', 'curve', 'ringlet', 'curlicue', 'Robert_F._Curl', 'curl_up']",The Fairbrothers
+charlotte,"['Queen_City', 'Charlotte', 'charlotte']",The Fairbrothers
+making,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'fashioning', 'do', 'reach', 'arrive_at', 'cook', 'qualification', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'making', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'devising', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The Fairbrothers
+heard,"['get_a_line', 'see', 'get_word', 'take_heed', 'learn', 'get_wind', 'pick_up', 'listen', 'try', 'discover', 'hear', 'find_out', 'heard']",The Fairbrothers
+understanding,"['realize', 'sympathize', 'infer', 'sympathise', 'sympathy', 'discernment', 'interpret', 'empathize', 'understanding', 'empathise', 'apprehension', 'intellect', 'read', 'agreement', 'savvy', 'see', 'understand', 'reason', 'translate', 'realise']",The Fairbrothers
+ways,"['manner', 'way_of_life', 'elbow_room', 'room', 'direction', 'path', 'mode', 'fashion', 'means', 'style', 'ways', 'slipway', 'way', 'agency', 'shipway']",The Fairbrothers
+woman,"['char', 'womanhood', 'cleaning_lady', 'adult_female', 'cleaning_woman', 'fair_sex', 'charwoman', 'woman']",The Fairbrothers
+next,"['next', 'side_by_side', 'future', 'adjacent', 'succeeding', 'following']",The Fairbrothers
+Jenny,"['jenny_ass', 'Jenny', 'jennet', 'William_Le_Baron_Jenny', 'jenny']",The Fairbrothers
+often,"['often', 'oftentimes', 'a_great_deal', 'oft', 'ofttimes', 'much', 'frequently']",The Fairbrothers
+the,[],The Fairbrothers
+Let,"['Army_of_the_Righteous', 'let', 'get', 'Lashkar-e-Tayyiba', 'have', 'countenance', 'Army_of_the_Pure', 'lease', 'net_ball', 'allow', 'LET', 'Lashkar-e-Toiba', 'permit', 'rent', 'Lashkar-e-Taiba']",The Fairbrothers
+line,"['job', 'line_of_credit', 'crinkle', 'railway_line', 'melodic_phrase', 'short_letter', 'parentage', 'note', 'argumentation', 'trace', 'blood_line', 'pedigree', 'phone_line', 'bloodline', 'stemma', 'billet', 'bank_line', 'descent', 'business', 'dividing_line', 'product_line', 'personal_credit_line', 'furrow', 'communication_channel', 'assembly_line', 'line_of_business', 'melodic_line', 'run_along', 'subscriber_line', 'ancestry', 'seam', 'line_of_reasoning', 'line', 'strain', 'stock', 'crease', 'delineate', 'agate_line', 'line_of_products', 'credit_line', 'rail_line', 'line_of_merchandise', 'personal_line_of_credit', 'describe', 'telephone_circuit', 'line_of_descent', 'channel', 'tune', 'line_of_work', 'air', 'argument', 'cable', 'wrinkle', 'telephone_line', 'contrast', 'origin', 'course', 'transmission_line', 'blood', 'melody', 'pipeline', 'demarcation', 'lineage', 'production_line', 'business_line', 'draw', 'logical_argument', 'occupation']",The Fairbrothers
+parents',[],The Fairbrothers
+questioned,"['interview', 'question', 'wonder', 'query', 'call_into_question', 'interrogate', 'oppugn']",The Fairbrothers
+Major,"['John_Roy_Major', 'Major', 'John_Major', 'major', 'John_R._Major']",The Fairbrothers
+Quit,"['leave_office', 'fall_by_the_wayside', 'lay_off', 'drop_out', 'give_up', 'stop', 'relinquish', 'throw_in', 'step_down', 'drop_by_the_wayside', 'renounce', 'cease', 'foreswear', 'depart', 'take_leave', 'discontinue', 'chuck_up_the_sponge', 'throw_in_the_towel', 'resign', 'quit']",The Fairbrothers
+manure,"['manure', 'muck']",The Fairbrothers
+dollies,"['doll', 'dolly']",The Fairbrothers
+word,"['give_voice', 'Bible', 'phrase', 'give-and-take', 'word_of_honor', 'discussion', 'Christian_Bible', 'Holy_Writ', 'Word', 'Logos', 'watchword', 'tidings', 'news', 'parole', 'password', 'word', 'Son', 'intelligence', 'countersign', 'Word_of_God', 'Scripture', 'Book', 'Holy_Scripture', 'formulate', 'articulate', 'Good_Book']",The Fairbrothers
+symbolized,"['typify', 'represent', 'symbolise', 'stand_for', 'symbolize']",The Fairbrothers
+jilted,"['jilt', 'rejected', 'jilted', 'spurned']",The Fairbrothers
+Listening,"['take_heed', 'heed', 'mind', 'listen', 'listening', 'hear', 'hearing']",The Fairbrothers
+California,"['CA', 'Golden_State', 'Calif.', 'California']",The Fairbrothers
+return,"['take_back', 'rejoinder', 'payoff', 'give', 'restitution', 'issue', 'restoration', 'refund', 'recurrence', 'revert', 'takings', 'proceeds', 'give_back', 'tax_return', 'counter', 'comeback', 'retrovert', 'pass', 'coming_back', 'generate', 'return_key', 'reelect', 'replication', 'yield', 'deliver', 'retort', 'turn_back', 'homecoming', 'regaining', 'riposte', 'take', 'return', 'hark_back', 'rejoin', 'come_back', 'devolve', 'bring_back', 'getting_even', 'fall', 'regress', 'paying_back', 'render', 'recall', 'income_tax_return', 'repay', 'reappearance']",The Fairbrothers
+kissed,"['kiss', 'buss', 'osculate', 'snog']",The Fairbrothers
+',[],The Fairbrothers
+send,"['charge', 'direct', 'mail', 'institutionalize', 'institutionalise', 'transmit', 'send_off', 'place', 'beam', 'send', 'broadcast', 'post', 'ship', 'station', 'air', 'send_out', 'commit', 'transport', 'get_off']",The Fairbrothers
+Galt,[],The Fairbrothers
+none,['none'],The Fairbrothers
+We,[],The Fairbrothers
+nose,"['horn_in', 'intrude', 'poke', 'wind', 'olfactory_organ', 'nuzzle', 'pry', 'nozzle', 'nose', 'scent']",The Fairbrothers
+liniment,"['embrocation', 'liniment']",The Fairbrothers
+see,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",The Fairbrothers
+barn,"['barn', 'b']",The Fairbrothers
+isn't,[],The Fairbrothers
+mare,"['maria', 'mare', 'female_horse']",The Fairbrothers
+met,"['take_on', 'run_across', 'satisfy', 'play', 'suffer', 'touch', 'contact', 'converge', 'come_across', 'run_into', 'meet', 'gather', 'receive', 'get_together', 'conform_to', 'fit', 'fulfil', 'see', 'forgather', 'assemble', 'fill', 'cope_with', 'fulfill', 'encounter', 'adjoin', 'match', 'foregather']",The Fairbrothers
+ash,"['ash', 'ash_tree']",The Fairbrothers
+baby,"['pamper', 'sister', 'mollycoddle', 'infant', 'babe', 'cosset', 'cocker', 'spoil', 'baby', 'indulge', 'featherbed', 'child', 'coddle']",The Fairbrothers
+this'll,[],The Fairbrothers
+year,"['yr', 'class', 'twelvemonth', 'year']",The Fairbrothers
+like,"['same', 'similar', 'the_likes_of', 'comparable', 'the_like', 'care', 'ilk', 'like', 'alike', 'corresponding', 'wish']",The Fairbrothers
+They're,[],The Fairbrothers
+intensely,['intensely'],The Fairbrothers
+Those,[],The Fairbrothers
+did,"['arrange', 'make', 'do', 'act', 'behave', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'answer', 'practice', 'set', 'make_out', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'coiffure', 'cause', 'come', 'manage', 'fare']",The Fairbrothers
+envy,"['envy', 'enviousness', 'begrudge', 'invidia']",The Fairbrothers
+indifference,"['phlegm', 'impassiveness', 'unconcern', 'nonchalance', 'emotionlessness', 'numbness', 'impassivity', 'indifference', 'apathy', 'stolidity', 'spiritlessness', 'unemotionality']",The Fairbrothers
+smiled,['smile'],The Fairbrothers
+might,"['mightiness', 'power', 'might']",The Fairbrothers
+relic,"['relic', 'souvenir', 'keepsake', 'token']",The Fairbrothers
+him,[],The Fairbrothers
+",",[],The Fairbrothers
+won't,[],The Fairbrothers
+lay,"['dwell', 'place', 'laic', 'lie_in', 'rest', 'ballad', 'lay', 'repose', 'pose', 'consist', 'put_down', 'position', 'lie', 'set', 'lie_down', 'secular', 'put']",The Fairbrothers
+mark,"['chump', 'tick', 'distinguish', 'strike_off', 'marking', 'commemorate', 'strike_out', 'label', 'Saint_Mark', 'crisscross', 'stigmatise', 'brand', 'note', 'sign', 'soft_touch', 'Gospel_According_to_Mark', 'marker', 'scar', ""bull's_eye"", 'mark', 'cross_off', 'grade', 'Deutsche_Mark', 'stigma', 'set', 'cross_out', 'check', 'print', 'punctuate', 'tag', 'St._Mark', 'gull', 'nock', 'cross', 'denounce', 'stain', 'target', 'bell_ringer', 'scrape', 'pit', 'German_mark', 'check_off', 'patsy', 'Deutschmark', 'score', 'pock', 'tick_off', 'mark_off', 'mug', 'fool', 'fall_guy', 'home_run', 'stigmatize', 'notice', 'Mark', 'sucker', 'scratch', 'differentiate']",The Fairbrothers
+Labans,"['Laban', 'Rudolph_Laban']",The Fairbrothers
+frame,"['skeletal_system', 'ensnare', 'couch', 'soma', 'systema_skeletale', 'shape', 'skeleton', 'physical_body', 'build', 'underframe', 'compose', 'inning', 'framing', 'set_up', 'human_body', 'anatomy', 'frame', 'frame_of_reference', 'put', 'chassis', 'flesh', 'cast', 'skeletal_frame', 'draw_up', 'figure', 'form', 'frame_in', 'border', 'redact', 'frame_up', 'bod', 'material_body', 'entrap', 'physique']",The Fairbrothers
+Jenny's,[],The Fairbrothers
+given,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'granted', 'given', 'pass', 'open', 'generate', 'devote', 'yield', 'disposed', 'contribute', 'pay', 'hold', 'move_over', 'presumption', 'minded', 'return', 'feed', 'establish', 'dedicate', 'precondition', 'afford', 'hand', 'throw', 'impart', 'apt', 'commit', 'render', 'apply', 'founder', 'tending', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The Fairbrothers
+worried,"['apprehensive', 'distressed', 'disturbed', 'disquieted', 'worry', 'care', 'vex', 'concern', 'interest', 'worried', 'occupy', 'upset']",The Fairbrothers
+perk,"['perquisite', 'perk_up', 'pick_up', 'percolate', 'gain_vigor', 'perk', 'fringe_benefit']",The Fairbrothers
+great,"['outstanding', 'majuscule', 'bully', 'groovy', 'not_bad', 'gravid', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",The Fairbrothers
+sneaky,"['sneaky', 'furtive', 'underhand', 'underhanded', 'surreptitious', 'stealthy', 'sneak']",The Fairbrothers
+winter,"['wintertime', 'overwinter', 'winter']",The Fairbrothers
+handsome,"['well-favored', 'big', 'freehanded', 'handsome', 'bighearted', 'fine-looking', 'bountiful', 'giving', 'liberal', 'good-looking', 'openhanded', 'bounteous', 'well-favoured', 'better-looking']",The Fairbrothers
+wished,"['wish_well', 'care', 'bid', 'like', 'wish']",The Fairbrothers
+most,"['to_the_highest_degree', 'about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",The Fairbrothers
+told,"['say', 'evidence', 'distinguish', 'severalize', 'order', 'enjoin', 'recount', 'assure', 'separate', 'tell', 'tell_apart', 'secernate', 'state', 'narrate', 'secern', 'recite', 'differentiate', 'severalise']",The Fairbrothers
+than,[],The Fairbrothers
+I'm,[],The Fairbrothers
+watch,"['spotter', 'look_out', 'ticker', 'keep_an_eye_on', 'find_out', 'catch', 'sentinel', 'ascertain', 'watch_over', 'lookout', 'determine', 'watch_out', 'vigil', 'observe', 'check', 'learn', 'follow', 'sentry', 'picket', 'take_in', 'see', 'watch', 'lookout_man', 'look_on', 'view', 'scout']",The Fairbrothers
+say,"['say', 'order', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'state', 'enjoin', 'read', 'articulate']",The Fairbrothers
+went,"['travel', 'get', 'belong', 'kick_the_bucket', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'pop_off', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'give_out', 'buy_the_farm', 'break', 'rifle', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'operate', 'work', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'lead', 'live', 'extend', 'choke']",The Fairbrothers
+pigeonhole,"['stamp', 'pigeonhole', 'cubbyhole', 'stereotype']",The Fairbrothers
+opening,"['unfold', 'give', 'porta', 'opening_night', 'possibility', 'initiative', 'chess_opening', 'hatchway', 'gap', 'open', 'orifice', 'scuttle', 'curtain_raising', 'possible_action', 'open_up', 'opening_move', 'afford', 'spread_out', 'opening', 'spread', 'first_step']",The Fairbrothers
+poverty,"['poorness', 'poverty', 'impoverishment']",The Fairbrothers
+elegant,"['refined', 'elegant', 'graceful']",The Fairbrothers
+back,"['plump_for', 'second', 'dorsum', 'backwards', 'book_binding', 'plunk_for', 'backbone', 'bet_on', 'backrest', 'spinal_column', 'rearwards', 'gage', 'backward', 'binding', 'back_up', 'hinder', 'rearward', 'punt', 'rear', 'stake', 'indorse', 'support', 'rachis', 'hind', 'game', 'spine', 'cover', 'endorse', 'back', 'vertebral_column']",The Fairbrothers
+Simply,"['only', 'simply', 'merely', 'just', 'but', 'plainly']",The Fairbrothers
+forward,"['forrader', 'send_on', 'forwards', 'frontward', 'ahead', 'forth', 'fore', 'onward', 'forward-moving', 'forward', 'forrard', 'forrad', 'onwards', 'frontwards', 'advancing']",The Fairbrothers
+Oh,"['Ohio', 'OH', 'Buckeye_State']",The Fairbrothers
+thinking,"['reasoning', 'intellection', 'imagine', 'intelligent', 'consider', 'retrieve', 'cerebrate', 'suppose', 'thought_process', 'reckon', 'conceive', 'call_back', 'call_up', 'intend', 'cerebration', 'remember', 'mentation', 'guess', 'think', 'thought', 'opine', 'believe', 'recall', 'mean', 'recollect', 'cogitate', 'thinking']",The Fairbrothers
+Gunny,"['burlap', 'gunny']",The Fairbrothers
+going,"['travel', 'get', 'belong', 'sledding', 'kick_the_bucket', 'function', 'release', 'die', 'leaving', 'move', 'departure', 'survive', 'expire', 'hold_out', 'blend_in', 'break_down', 'pop_off', 'expiration', 'loss', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'give_out', 'buy_the_farm', 'break', 'rifle', 'go_bad', 'decease', 'go', 'choke', 'going_away', 'last', 'give-up_the_ghost', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'work', 'operate', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'passing', 'lead', 'live', 'extend', 'going']",The Fairbrothers
+bran,['bran'],The Fairbrothers
+hat,"['chapeau', 'lid', 'hat']",The Fairbrothers
+feel,"['feel', 'smell', 'tone', 'feeling', 'look', 'flavour', 'palpate', 'spirit', 'find', 'sense', 'tactile_property', 'flavor', 'experience', 'finger']",The Fairbrothers
+bless,"['bless', 'sanctify', 'consecrate', 'sign', 'hallow']",The Fairbrothers
+followed,"['come_after', 'pursue', 'travel_along', 'keep_an_eye_on', 'take_after', 'abide_by', 'trace', 'watch_over', 'play_along', 'keep_up', 'fall_out', 'be', 'survey', 'adopt', 'stick_to', 'comply', 'espouse', 'surveil', 'observe', 'follow', 'keep_abreast', 'conform_to', 'succeed', 'watch', 'accompany', 'postdate', 'come', 'stick_with']",The Fairbrothers
+token,"['nominal', 'souvenir', 'keepsake', 'token', 'item', 'tokenish', 'relic']",The Fairbrothers
+spoke,"['rung', 'wheel_spoke', 'mouth', 'speak', 'spoke', 'address', 'radius', 'utter', 'rundle', 'talk', 'verbalize', 'verbalise']",The Fairbrothers
+which,[],The Fairbrothers
+former,"['onetime', 'old', 'late', 'former', 'early', 'erstwhile', 'sometime', 'previous', 'other', 'one-time', 'quondam']",The Fairbrothers
+indeed,"['so', 'indeed']",The Fairbrothers
+parties,"['party', 'political_party', 'company']",The Fairbrothers
+am,"['Am', 'Master_of_Arts', 'amplitude_modulation', 'Artium_Magister', 'constitute', 'embody', 'be', 'comprise', 'represent', 'follow', 'americium', 'exist', 'MA', 'make_up', 'AM', 'personify', 'equal', 'cost', 'atomic_number_95', 'live']",The Fairbrothers
+enjoyed,"['savour', 'enjoy', 'love', 'relish', 'bask', 'delight', 'savor', 'revel']",The Fairbrothers
+wanted,"['treasured', 'need', 'precious', 'cherished', 'want', 'wanted', 'require', 'desire']",The Fairbrothers
+reserved,"['book', 'hold', 'set_aside', 'appropriate', 'reserve', 'reserved', 'earmark', 'allow']",The Fairbrothers
+Absolution,"['remission_of_sin', 'remittal', 'remission', 'absolution']",The Fairbrothers
+stop,"['plosive_consonant', 'layover', 'blockage', 'lay_off', 'catch', 'hitch', 'stop_consonant', 'intercept', 'terminate', 'stop', 'give_up', 'end', 'block', 'stay', 'quit', 'break', 'check', 'kibosh', 'blockade', 'turn_back', 'contain', 'stoppage', 'diaphragm', 'cease', 'finish', 'stopover', 'point', 'block_off', 'bar', 'barricade', 'arrest', 'break_off', 'occlusive', 'plosive_speech_sound', 'hold_on', 'hold_back', 'occlusion', 'closure', 'discontinue', 'block_up', 'halt', 'full_stop', 'plosive', 'full_point', 'stop_over', 'period']",The Fairbrothers
+welcome,"['welcome', 'receive']",The Fairbrothers
+friendly,"['favorable', 'well-disposed', 'friendly']",The Fairbrothers
+brought,"['land', 'bring', 'wreak', 'bestow', 'get', 'impart', 'contribute', 'bring_in', 'play', 'institute', 'make_for', 'take', 'add', 'fetch', 'lend', 'convey', 'work']",The Fairbrothers
+russe,[],The Fairbrothers
+snippy,[],The Fairbrothers
+such,['such'],The Fairbrothers
+mentioned,"['mention', 'cite', 'refer', 'note', 'remark', 'advert', 'bring_up', 'observe', 'name']",The Fairbrothers
+wasn't,[],The Fairbrothers
+devotion,"['cultism', 'idolatry', 'devotedness', 'devotion', 'veneration']",The Fairbrothers
+thrusting,"['squeeze', 'jab', 'hurtle', 'throw', 'hurl', 'push_up', 'pierce', 'poke', 'jabbing', 'shove', 'poking', 'lunge', 'thrust', 'force', 'stuff', 'thrusting']",The Fairbrothers
+knew,"['lie_with', 'bang', 'recognize', 'have_it_off', 'sleep_together', 'acknowledge', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'recognise', 'bonk', 'cognize', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'love', 'cognise', 'live', 'get_it_on', 'know', 'experience', 'get_laid']",The Fairbrothers
+quarts,"['quart', 'dry_quart']",The Fairbrothers
+oystchers'll,[],The Fairbrothers
+you,[],The Fairbrothers
+she'd,[],The Fairbrothers
+horses,"['sawbuck', 'gymnastic_horse', 'knight', 'sawhorse', 'horse', 'buck', 'Equus_caballus', 'cavalry', 'horse_cavalry']",The Fairbrothers
+For,[],The Fairbrothers
+away,"['aside', 'forth', 'out', 'off', 'away', 'outside', 'by']",The Fairbrothers
+for,[],The Fairbrothers
+namesake,['namesake'],The Fairbrothers
+box,"['box_seat', 'box', 'loge', 'boxwood', 'package', 'corner', 'boxful']",The Fairbrothers
+marry,"['hook_up_with', 'wed', 'marry', 'get_married', 'splice', 'conjoin', 'get_hitched_with', 'tie', 'espouse']",The Fairbrothers
+lack,"['miss', 'deficiency', 'lack', 'want']",The Fairbrothers
+pin,"['flag', 'rowlock', 'stick', 'immobilise', 'pin', 'pivot', 'bowling_pin', 'pin_tumbler', 'immobilize', 'personal_identification_number', 'oarlock', 'peg', 'trap', 'PIN_number', 'PIN', 'thole', 'tholepin', 'fall']",The Fairbrothers
+married,"['hook_up_with', 'wed', 'marry', 'get_married', 'splice', 'conjoin', 'married', 'marital', 'get_hitched_with', 'matrimonial', 'tie', 'espouse']",The Fairbrothers
+got,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",The Fairbrothers
+understands,"['see', 'empathise', 'interpret', 'realize', 'infer', 'sympathize', 'understand', 'empathize', 'translate', 'realise', 'sympathise', 'read']",The Fairbrothers
+me,"['Pine_Tree_State', 'ME', 'Maine']",The Fairbrothers
+couple,"['mate', 'twin', 'copulate', 'twain', 'couplet', 'duo', 'pair', 'duet', 'brace', 'twosome', 'duad', 'couple_up', 'dyad', 'pair_off', 'span', 'yoke', 'couple_on', 'partner_off', 'match', 'couple', 'distich', 'mates']",The Fairbrothers
+She'll,[],The Fairbrothers
+drank,"['tope', 'toast', 'imbibe', 'booze', 'salute', 'drink', 'fuddle', 'wassail', 'drink_in', 'pledge']",The Fairbrothers
+I've,[],The Fairbrothers
+imperiously,['imperiously'],The Fairbrothers
+into,[],The Fairbrothers
+rather,"['rather', 'quite', 'preferably', 'sooner', 'kind_of', 'kinda', 'sort_of', 'instead']",The Fairbrothers
+Another,"['another', 'some_other']",The Fairbrothers
+showed,"['testify', 'evidence', 'show', 'usher', 'evince', 'prove', 'designate', 'record', 'demonstrate', 'register', 'indicate', 'exhibit', 'bear_witness', 'depict', 'picture', 'point', 'establish', 'read', 'show_up', 'demo', 'render', 'shew', 'express', 'present']",The Fairbrothers
+my,[],The Fairbrothers
+animal,"['brute', 'carnal', 'animate_being', 'animal', 'creature', 'fleshly', 'sensual', 'beast', 'fauna']",The Fairbrothers
+humor,"['sense_of_humour', 'liquid_body_substance', 'wit', 'bodily_fluid', 'witticism', 'body_fluid', 'humor', 'sense_of_humor', 'mood', 'humour', 'wittiness', 'temper']",The Fairbrothers
+Queen,"['fairy', 'pouf', 'faggot', 'world-beater', 'female_monarch', 'fag', 'pansy', 'poof', 'queen_mole_rat', 'fagot', 'queer', 'nance', 'queen_regnant', 'king', 'poove', 'queen', 'tabby']",The Fairbrothers
+Mt.,[],The Fairbrothers
+so,"['then', 'sol', 'thus', 'indeed', 'and_so', 'so', 'and_then', 'soh', 'hence', 'therefore', 'thence', 'thusly']",The Fairbrothers
+bubbling,"['belch', 'gurgle', 'ripple', 'bubbling', 'effervescent', 'burble', 'frothy', 'scintillating', 'spumy', 'babble', 'effervescing', 'sparkly', 'burp', 'foaming', 'guggle', 'bubbly', 'bubble', 'foamy', 'eruct']",The Fairbrothers
+change,"['commute', 'switch', 'modification', 'alter', 'alteration', 'transfer', 'exchange', 'convert', 'vary', 'interchange', 'change', 'variety', 'modify', 'shift', 'deepen']",The Fairbrothers
+Just,"['only', 'scarce', 'simply', 'merely', 'good', 'exactly', 'upright', 'barely', 'just', 'equitable', 'hardly', 'scarcely', 'but', 'fair', 'just_now', 'precisely']",The Fairbrothers
+irritating,"['gravel', 'nark', 'get_at', 'galling', 'vexatious', 'chafe', 'irritating', 'bother', 'vexing', 'nettlesome', 'pestering', 'annoying', 'teasing', 'plaguey', 'irritative', 'rile', 'bothersome', 'pesky', 'rag', 'annoy', 'vex', 'get_to', 'painful', 'devil', 'pestiferous', 'nettle', 'plaguy', 'irritate']",The Fairbrothers
+room,"['board', 'elbow_room', 'way', 'room']",The Fairbrothers
+bother,"['pain_in_the_neck', 'gravel', 'nark', 'pain', 'incommode', 'get_at', 'chafe', 'hassle', 'bother', 'annoyance', 'infliction', 'fuss', 'inconvenience_oneself', 'trouble_oneself', 'inconvenience', 'trouble', 'rile', 'pain_in_the_ass', 'rag', 'annoy', 'vex', 'get_to', 'botheration', 'devil', 'put_out', 'disoblige', 'discommode', 'nettle', 'irritate']",The Fairbrothers
+Arcilla,[],The Fairbrothers
+or,"['OR', 'Beaver_State', 'operating_theatre', 'surgery', 'Oregon', 'operating_theater', 'operating_room']",The Fairbrothers
+Pictures,"['moving-picture_show', 'ikon', 'photograph', 'show', 'moving_picture', 'picture_show', 'flick', 'delineation', 'motion_picture', 'word-painting', 'characterisation', 'impression', 'image', 'envision', 'motion-picture_show', 'characterization', 'pic', 'photo', 'project', 'film', 'painting', 'exposure', 'fancy', 'mental_picture', 'video', 'depict', 'picture', 'visualize', 'depiction', 'movie', 'see', 'pictorial_matter', 'word_picture', 'figure', 'render', 'visualise', 'scene', 'icon']",The Fairbrothers
+eternal,"['unending', 'endless', 'eonian', 'perpetual', 'unceasing', 'eternal', 'interminable', 'everlasting', 'ageless', 'aeonian']",The Fairbrothers
+price,"['terms', 'Price', 'cost', 'price', 'damage', 'Leontyne_Price', 'toll', 'Mary_Leontyne_Price', 'monetary_value']",The Fairbrothers
+trips,"['actuate', 'stumble', 'travel', 'trip-up', 'trip_out', 'head_trip', 'misstep', 'trigger', 'trip_up', 'spark', 'set_off', 'trigger_off', 'slip', 'jaunt', 'touch_off', 'trip', 'spark_off', 'turn_on', 'get_off', 'tripper', 'activate']",The Fairbrothers
+regretted,"['regret', 'repent', 'rue']",The Fairbrothers
+square,"['squarely', 'satisfying', 'foursquare', 'square_up', 'feather', 'substantial', 'lame', 'hearty', 'straight', 'solid', 'square', 'second_power', 'square_toes', 'public_square', 'straightforward']",The Fairbrothers
+wine,"['vino', 'wine', 'wine-coloured', 'wine-colored']",The Fairbrothers
+this,[],The Fairbrothers
+bring,"['land', 'bring', 'wreak', 'bestow', 'get', 'impart', 'contribute', 'bring_in', 'play', 'institute', 'make_for', 'take', 'add', 'fetch', 'lend', 'convey', 'work']",The Fairbrothers
+A,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",The Fairbrothers
+hooked,"['gazump', 'dependent', 'pinch', 'hook', 'plume', 'soak', 'thieve', 'nobble', 'strung-out', 'lift', 'snare', 'surcharge', 'knock_off', 'swipe', 'solicit', 'dependant', 'hooklike', 'overcharge', 'snarf', 'drug-addicted', 'aquiline', 'cop', 'glom', 'accost', 'rob', 'purloin', 'cabbage', 'hooked', 'filch', 'abstract', 'pluck', 'addict', 'fleece', 'snitch', 'pilfer', 'crochet', 'sneak']",The Fairbrothers
+careless,"['careless', 'regardless']",The Fairbrothers
+hon,[],The Fairbrothers
+Sunday,"['Dominicus', 'Billy_Sunday', ""Lord's_Day"", 'Sun', 'William_Ashley_Sunday', 'Sunday']",The Fairbrothers
+case,"['typeface', 'pillow_slip', 'encase', 'caseful', 'example', 'display_case', 'instance', 'sheath', 'event', ""typesetter's_case"", 'showcase', 'subject', 'grammatical_case', ""compositor's_case"", 'casing', 'slip', 'vitrine', 'type', 'incase', 'eccentric', 'lawsuit', 'case', 'suit', 'pillowcase', 'causa', 'cause', 'shell', 'font', 'fount', 'face', 'guinea_pig', 'character']",The Fairbrothers
+glad,"['beaming', 'gladiolus', 'happy', 'sword_lily', 'gladiola', 'glad']",The Fairbrothers
+You,[],The Fairbrothers
+half,"['half', 'one-half']",The Fairbrothers
+toast,"['toast', 'crispen', 'salute', 'goner', 'drink', 'wassail', 'crisp', 'pledge']",The Fairbrothers
+hour,"['hour', '60_minutes', 'time_of_day', 'hr', 'minute']",The Fairbrothers
+Quinzaine,[],The Fairbrothers
+life,"['liveliness', 'life_story', 'lifetime', 'lifespan', 'life-time', 'living', 'life', 'spirit', 'biography', 'animation', 'life_sentence', 'aliveness', 'sprightliness', 'life_history']",The Fairbrothers
+genius,"['adept', 'wizard', 'brilliance', 'sensation', 'whiz', 'hotshot', 'whizz', 'brain', 'mavin', 'champion', 'flair', 'brainiac', 'ace', 'wiz', 'virtuoso', 'wizardry', 'Einstein', 'genius', 'maven', 'superstar', 'star', 'mastermind']",The Fairbrothers
+He,"['helium', 'atomic_number_2', 'he', 'He']",The Fairbrothers
+curled,"['wave', 'kink', 'loop', 'curled', 'coil', 'curve', 'curl', 'curl_up', 'draw_in', 'curling']",The Fairbrothers
+tracking,"['dog', 'trailing', 'traverse', 'chase_after', 'give_chase', 'pass_over', 'get_over', 'trail', 'tag', 'get_across', 'tail', 'go_after', 'cross', 'cut_through', 'cut_across', 'tracking', 'cover', 'track', 'chase']",The Fairbrothers
+course,"['naturally', 'course_of_instruction', 'line', 'form', 'run', 'path', 'course', 'course_of_action', 'class', 'track', 'row', 'feed', 'of_course', 'flow', 'grade', 'course_of_study', 'trend']",The Fairbrothers
+shame,"['ignominy', 'dishonour', 'dishonor', 'pity', 'shame', 'attaint', 'disgrace']",The Fairbrothers
+invite,"['take_in', 'ask_for', 'ask_in', 'receive', 'invite', 'bid', 'pay_for', 'ask_round', 'ask_over', 'tempt', 'call_for']",The Fairbrothers
+relish,"['tang', 'nip', 'zestfulness', 'flavour', 'savour', 'sapidity', 'enjoy', 'relish', 'bask', 'zest', 'smack', 'savor', 'flavor', 'gusto']",The Fairbrothers
+oystchers,[],The Fairbrothers
+gathers,"['gain', 'forgather', 'garner', 'assemble', 'pile_up', 'pucker', 'cumulate', 'pull_together', 'meet', 'conglomerate', 'tuck', 'accumulate', 'get_together', 'gathering', 'collect', 'foregather', 'gather', 'amass']",The Fairbrothers
+he,"['helium', 'atomic_number_2', 'he', 'He']",The Fairbrothers
+any,"['whatsoever', 'whatever', 'any']",The Fairbrothers
+boy-name,[],The Fairbrothers
+criticisms,"['literary_criticism', 'criticism', 'unfavorable_judgment', 'critique']",The Fairbrothers
+a,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",The Fairbrothers
+January,"['Jan', 'January']",The Fairbrothers
+because,[],The Fairbrothers
+carpet,"['rug', 'carpeting', 'carpet']",The Fairbrothers
+of,[],The Fairbrothers
+haunting,"['ghost', 'stalk', 'frequent', 'obsess', 'haunting', 'haunt', 'persistent']",The Fairbrothers
+deeply,"['deep', 'deeply', 'profoundly']",The Fairbrothers
+you'd,[],The Fairbrothers
+sealing,"['seal_off', 'seal', 'sealing', 'varnish', 'waterproofing']",The Fairbrothers
+what,[],The Fairbrothers
+cute,"['cute', 'cunning', 'precious']",The Fairbrothers
+difficult,"['unmanageable', 'difficult', 'hard']",The Fairbrothers
+months,"['month', 'calendar_month']",The Fairbrothers
+telegraph,"['telegraph', 'wire', 'telegraphy', 'cable']",The Fairbrothers
+Unusual,"['unusual', 'strange']",The Fairbrothers
+name,"['distinguish', 'cite', 'gens', 'key', 'make', 'key_out', 'advert', 'refer', 'constitute', 'name', 'diagnose', 'call', 'appoint', 'mention', 'identify', 'list', 'public_figure', 'describe', 'bring_up', 'nominate', 'figure', 'epithet', 'discover']",The Fairbrothers
+wear,"['clothing', 'wear_off', 'wear_thin', 'weary', 'put_on', 'hold_out', 'fatigue', 'wear', 'wear_out', 'get_into', 'fag', 'tire', 'fall_apart', 'outwear', 'fag_out', 'don', 'jade', 'assume', 'endure', 'vesture', 'bear', 'have_on', 'wear_upon', 'wearing', 'tire_out', 'bust', 'habiliment', 'wearable', 'break', 'article_of_clothing', 'wear_down']",The Fairbrothers
+Him,[],The Fairbrothers
+manner,"['manner', 'personal_manner', 'fashion', 'style', 'mode', 'way']",The Fairbrothers
+House,"['planetary_house', 'domiciliate', 'theatre', 'put_up', 'star_sign', 'home', 'theater', 'firm', 'house', 'mansion', 'sign_of_the_zodiac', 'business_firm', 'menage', 'household', 'sign', 'family']",The Fairbrothers
+affair,"['matter', 'social_occasion', 'affair', 'social_function', 'amour', 'involvement', 'function', 'thing', 'affaire', 'liaison', 'intimacy', 'occasion']",The Fairbrothers
+everybody,[],The Fairbrothers
+remaining,"['odd', 'leftover', 'continue', 'rest', 'stay_on', 'left_over', 'remaining', 'persist', 'unexpended', 'stay', 'remain', 'left']",The Fairbrothers
+against,[],The Fairbrothers
+gone,"['travel', 'get', 'belong', 'kick_the_bucket', 'asleep', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'deceased', 'pop_off', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'done_for', 'at_peace', 'run', 'plump', 'give_way', 'live_on', 'gone', 'pass', 'exit', 'snuff_it', 'departed', 'bygone', 'give_out', 'buy_the_farm', 'break', 'at_rest', 'rifle', 'foregone', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'operate', 'work', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'bypast', 'conk_out', 'hold_up', 'kaput', 'lead', 'live', 'extend', 'choke']",The Fairbrothers
+smile,"['smile', 'grinning', 'smiling', 'grin']",The Fairbrothers
+where,[],The Fairbrothers
+Racin',[],The Fairbrothers
+But,"['only', 'simply', 'merely', 'just', 'but']",The Fairbrothers
+Wait,"['wait', 'waitress', 'time_lag', 'hold_back', 'look', 'await', 'hold', 'postponement', 'expect', 'delay', 'waiting', 'hold_off']",The Fairbrothers
+due,"['ascribable', 'referable', 'due', 'imputable']",The Fairbrothers
+can,"['give_the_sack', 'ass', 'backside', 'give_the_axe', 'keister', 'send_away', 'fanny', 'give_notice', 'terminate', 'buns', 'stern', 'lav', 'lavatory', 'tooshie', 'bathroom', 'privy', 'tin', 'stool', 'derriere', 'commode', 'behind', 'can', 'john', 'bum', 'crapper', 'put_up', 'tail', 'seat', 'prat', 'canful', 'rump', 'can_buoy', 'butt', 'bottom', 'fire', 'tush', 'force_out', 'hind_end', 'rear', 'potty', 'dismiss', 'tail_end', 'tin_can', 'buttocks', 'rear_end', 'throne', 'arse', 'posterior', 'toilet', 'displace', 'hindquarters', 'pot', 'nates', 'fundament', 'sack']",The Fairbrothers
+Royal,"['purple', 'royal', 'royal_stag', 'majestic', 'imperial', 'regal']",The Fairbrothers
+decide,"['decide', 'adjudicate', 'settle', ""make_up_one's_mind"", 'resolve', 'determine']",The Fairbrothers
+?,[],The Fairbrothers
+hesitation,"['hesitation', 'reluctance', 'wavering', 'hesitancy', 'falter', 'indisposition', 'disinclination', 'waver', 'vacillation', 'faltering']",The Fairbrothers
+treated,"['treated', 'deal', 'do_by', 'address', 'cover', 'care_for', 'tempered', 'regale', 'toughened', 'hardened', 'plow', 'handle', 'treat', 'process']",The Fairbrothers
+feathery,"['featherlike', 'plumy', 'feathered', 'feathery']",The Fairbrothers
+all,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",The Fairbrothers
+bedroom,"['chamber', 'sleeping_room', 'bedroom', 'bedchamber', 'sleeping_accommodation']",The Fairbrothers
+beautiful,['beautiful'],The Fairbrothers
+Put,"['arrange', 'place', 'invest', 'couch', 'order', 'redact', 'lay', 'commit', 'set_up', 'pose', 'put_option', 'frame', 'position', 'assign', 'cast', 'set', 'put']",The Fairbrothers
+fruit,"['yield', 'fruit']",The Fairbrothers
+far,"['Former_Armed_Forces', 'Interahamwe', 'Army_for_the_Liberation_of_Rwanda', 'far', 'ALIR', 'FAR']",The Fairbrothers
+novelty,"['bangle', 'freshness', 'fallal', 'trinket', 'novelty', 'knickknack', 'gewgaw', 'bauble', 'gaud']",The Fairbrothers
+annoy,"['gravel', 'nark', 'bother', 'rile', 'nettle', 'rag', 'annoy', 'vex', 'get_at', 'get_to', 'irritate', 'chafe', 'devil']",The Fairbrothers
+many,['many'],The Fairbrothers
+rings,"['ringing', 'annulus', 'reverberate', 'peal', 'call', 'phone', 'echo', 'gang', 'call_up', 'anchor_ring', 'skirt', 'ring', 'mob', 'halo', 'knell', 'rings', 'telephone', 'surround', 'pack', 'environ', 'border', 'hoop', 'doughnut', 'resound', 'band', 'tintinnabulation', 'closed_chain']",The Fairbrothers
+Have,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'wealthy_person', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'rich_person', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The Fairbrothers
+up,"['upwards', 'astir', 'upwardly', 'upward', 'improving', 'up']",The Fairbrothers
+at,"['atomic_number_85', 'at', 'astatine', 'At']",The Fairbrothers
+mountain,"['good_deal', 'batch', 'plenty', 'mount', 'hatful', 'quite_a_little', 'sight', 'mess', 'mickle', 'slew', 'heap', 'wad', 'tidy_sum', 'stack', 'deal', 'spate', 'lot', 'mass', 'great_deal', 'mint', 'mountain', 'flock', 'pile', 'muckle', 'passel', 'raft', 'pot', 'peck']",The Fairbrothers
+quickly,"['speedily', 'quick', 'apace', 'promptly', 'rapidly', 'cursorily', 'quickly', 'chop-chop']",The Fairbrothers
+pitiable,"['pitiable', 'pathetic', 'miserable', 'wretched', 'pitiful', 'poor', 'piteous', 'misfortunate', 'hapless']",The Fairbrothers
+without,[],The Fairbrothers
+then,"['and_so', 'so', 'and_then', 'then']",The Fairbrothers
+Grand,"['grand', 'elevated', 'thou', 'deluxe', 'yard', 'wondrous', 'high-flown', 'princely', 'heroic', 'exalted', 'lordly', 'marvelous', 'wonderful', 'lofty', 'sumptuous', 'high-minded', 'G', 'luxurious', 'terrific', 'one_thousand', 'gilded', 'rarified', 'tremendous', 'chiliad', 'marvellous', 'M', 'opulent', 'fantastic', 'august', 'sublime', 'K', 'magisterial', 'grand_piano', '1000', 'distinguished', 'imposing', 'thousand', 'expansive', 'idealistic', 'howling', 'noble-minded', 'rarefied', 'rattling']",The Fairbrothers
+it,"['information_technology', 'IT']",The Fairbrothers
+Yet,"['nevertheless', 'in_time', 'withal', 'notwithstanding', 'all_the_same', 'however', 'hitherto', 'yet', 'til_now', 'so_far', 'even_so', 'still', 'until_now', 'up_to_now', 'thus_far', 'as_yet', 'nonetheless', 'heretofore', 'even']",The Fairbrothers
+.,[],The Fairbrothers
+face,"['typeface', 'look', 'aspect', 'human_face', 'boldness', 'front', 'brass', 'confront', 'expression', 'face_up', 'cheek', 'case', 'facial_expression', 'font', 'fount', 'nerve', 'grimace', 'present', 'face', 'side']",The Fairbrothers
+was,"['equal', 'comprise', 'represent', 'WA', 'cost', 'embody', 'follow', 'Evergreen_State', 'be', 'exist', 'make_up', 'personify', 'live', 'Washington', 'constitute']",The Fairbrothers
+found,"['feel', 'found', 'come_up', 'get', 'bump', 'institute', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'constitute', 'line_up', 'chance', 'retrieve', 'set_up', 'determine', 'obtain', 'observe', 'happen', 'ground', 'receive', 'plant', 'regain', 'establish', 'detect', 'see', 'find_oneself', 'incur', 'notice', 'launch', 'get_hold', 'encounter', 'discover', 'base']",The Fairbrothers
+absent,"['missing', 'absent', 'lacking', 'absentminded', 'abstracted', 'wanting', 'scatty', 'remove']",The Fairbrothers
+simple,"['mere', 'simpleton', 'simple', 'uncomplicated', 'bare', 'wide-eyed', 'dim-witted', 'round-eyed', 'simple-minded', 'unsubdivided', 'unproblematic', 'elementary', 'childlike', 'dewy-eyed']",The Fairbrothers
+Christ,"['Jesus_of_Nazareth', 'Christ', 'Jesus_Christ', 'Deliverer', 'Savior', 'Jesus', 'messiah', 'christ', 'Good_Shepherd', 'the_Nazarene', 'Saviour', 'Redeemer']",The Fairbrothers
+spa,"['spa', 'health_spa', 'health_club', 'watering_place', 'watering_hole', 'resort_hotel']",The Fairbrothers
+foal,['foal'],The Fairbrothers
+comin',[],The Fairbrothers
+confess,"['concede', 'confess', 'profess', 'fink', 'squeal']",The Fairbrothers
+veterinarian,"['veterinary_surgeon', 'vet', 'veterinarian', 'veterinary']",The Fairbrothers
+babes,"['sister', 'baby', 'babe', 'infant']",The Fairbrothers
+Dunne,[],The Fairbrothers
+though,['though'],The Fairbrothers
+Mist,"['mist_over', 'befog', 'haze_over', 'mist', 'fog', 'obscure', 'cloud', 'obnubilate', 'becloud']",The Fairbrothers
+surprised,"['surprised', 'storm', 'surprise']",The Fairbrothers
+wondering,"['inquisitive', 'questioning', 'question', 'marvel', 'inquire', 'enquire', 'wonder', 'speculative', 'wondering']",The Fairbrothers
+wait,"['wait', 'waitress', 'time_lag', 'hold_back', 'look', 'await', 'hold', 'postponement', 'expect', 'delay', 'waiting', 'hold_off']",The Fairbrothers
+nigs,[],The Fairbrothers
+drove,"['aim', 'get', 'repel', 'labor', 'push', 'drive', 'drove', 'ram', 'tug', 'swarm', 'take', 'motor', 'horde', 'push_back', 'drove_chisel', 'repulse', 'force', 'force_back', 'ride', 'beat_back', 'labour']",The Fairbrothers
+cordial,"['affable', 'cordial', 'amiable', 'genial', 'liqueur']",The Fairbrothers
+log-house,[],The Fairbrothers
+holy,"['sanctum', 'holy_place', 'holy']",The Fairbrothers
+clothes,"['wearing_apparel', 'enclothe', 'invest', 'dress', 'raiment', 'habilitate', 'clothes', 'garb', 'fit_out', 'cloak', 'clothe', 'robe', 'drape', 'tog', 'adorn', 'garment', 'apparel']",The Fairbrothers
+Didn't,[],The Fairbrothers
+they're,[],The Fairbrothers
+politely,"['courteously', 'politely']",The Fairbrothers
+I'll,[],The Fairbrothers
+fair,"['middling', 'average', 'evenhandedly', 'bazaar', 'bonnie', 'funfair', 'just', 'bonny', 'comely', 'clean', 'sightly', 'honest', 'mediocre', 'fairly', 'carnival', 'fairish', 'reasonable', 'fair']",The Fairbrothers
+put,"['arrange', 'place', 'invest', 'couch', 'order', 'redact', 'lay', 'commit', 'set_up', 'pose', 'put_option', 'frame', 'position', 'assign', 'cast', 'set', 'put']",The Fairbrothers
+man,"['serviceman', 'valet', 'human_race', 'valet_de_chambre', 'humankind', ""gentleman's_gentleman"", 'humans', 'human_being', 'homo', 'military_personnel', 'humanity', 'man', 'gentleman', 'military_man', 'human_beings', 'Isle_of_Man', 'mankind', 'piece', 'human', 'world', 'Man', 'adult_male']",The Fairbrothers
+Tillie,[],The Fairbrothers
+go,"['spell', 'travel', 'get', 'belong', 'kick_the_bucket', 'X', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'pop_off', 'turn', 'sound', 'crack', 'drop_dead', 'conk', 'get_going', 'go_away', 'tour', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'fling', 'give_out', 'buy_the_farm', 'break', 'ecstasy', 'rifle', 'whirl', 'go_game', 'go_bad', 'decease', 'go', 'cristal', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'disco_biscuit', 'depart', 'fit', 'start', 'offer', 'work', 'Adam', 'operate', 'fail', 'XTC', 'run_low', 'hug_drug', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'lead', 'live', 'extend', 'choke']",The Fairbrothers
+Dr.,"['physician', 'MD', 'Dr.', 'medico', 'doc', 'doctor']",The Fairbrothers
+Stand,"['suffer', 'sales_booth', 'pedestal', 'fend', 'digest', 'outdoor_stage', 'point_of_view', 'tie-up', 'bandstand', 'stand_up', 'standpoint', 'put_up', 'stomach', 'standstill', 'endure', 'place_upright', 'stand', 'remain_firm', 'brook', 'bear', 'stick_out', 'rack', 'support', 'tolerate', 'resist', 'stall', 'abide', 'base', 'viewpoint']",The Fairbrothers
+stomach,"['stick_out', 'venter', 'digest', 'belly', 'support', 'tolerate', 'tum', 'put_up', 'stomach', 'endure', 'abide', 'stand', 'suffer', 'abdomen', 'breadbasket', 'brook', 'tummy', 'bear']",The Fairbrothers
+'em,[],The Fairbrothers
+want,"['privation', 'deficiency', 'lack', 'need', 'wishing', 'deprivation', 'require', 'want', 'desire', 'wish', 'neediness']",The Fairbrothers
+lonesome,"['only', 'sole', 'solitary', 'lone', 'lonely', 'lonesome']",The Fairbrothers
+laments,"['lament', 'wail', 'deplore', 'requiem', 'lamentation', 'coronach', 'bewail', 'plaint', 'elegy', 'keen', 'bemoan', 'dirge', 'threnody']",The Fairbrothers
+left,"['leave_behind', 'bequeath', 'give', 'entrust', 'pass_on', 'left-hand', 'allow', 'will', 'left_wing', 'go_away', 'leftover', 'leave', 'remaining', 'left_field', 'leave_alone', 'pull_up_stakes', 'exit', 'unexpended', 'allow_for', 'get_out', 'go_out', 'odd', 'forget', 'go_forth', 'provide', 'depart', 'result', 'left', 'leftfield', 'impart', 'left_over', 'lead', 'left_hand']",The Fairbrothers
+aversion,"['averting', 'distaste', 'antipathy', 'aversion']",The Fairbrothers
+'',[],The Fairbrothers
+wife's,[],The Fairbrothers
+laugh,"['laugh', 'jest', 'jape', 'joke', 'laughter', 'express_mirth', 'express_joy', 'gag']",The Fairbrothers
+just,"['only', 'scarce', 'simply', 'merely', 'good', 'exactly', 'upright', 'barely', 'just', 'equitable', 'hardly', 'scarcely', 'but', 'fair', 'just_now', 'precisely']",The Fairbrothers
+notice,"['posting', 'find', 'acknowledge', 'card', 'observance', 'note', 'remark', 'comment', 'mark', 'bill', 'placard', 'observe', 'notification', 'observation', 'detect', 'poster', 'notice', 'point_out', 'discover']",The Fairbrothers
+again,"['once_again', 'over_again', 'once_more', 'again']",The Fairbrothers
+Nerves,"['nervousness', 'boldness', 'brass', 'nerves', 'cheek', 'spunk', 'nerve', 'heart', 'nervus', 'mettle', 'face', 'steel']",The Fairbrothers
+came,"['come_up', 'total', 'get', 'do', 'arrive', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'derive', 'fall', 'number', 'come', 'fare']",The Fairbrothers
+clay,"['remains', 'mud', 'Clay', 'Lucius_Clay', 'Henry_Clay', 'corpse', 'clay', 'stiff', 'Lucius_DuBignon_Clay', 'cadaver', 'the_Great_Compromiser']",The Fairbrothers
+war,"['state_of_war', 'warfare', 'war']",The Fairbrothers
+pot,"['good_deal', 'batch', 'corporation', 'bay_window', 'potbelly', 'dope', 'plenty', 'hatful', 'quite_a_little', 'sight', 'mess', 'jackpot', 'mickle', 'slew', 'Mary_Jane', 'heap', 'stool', 'wad', 'potentiometer', 'commode', 'skunk', 'tummy', 'kitty', 'can', 'gage', 'tidy_sum', 'grass', 'crapper', 'flowerpot', 'sens', 'stack', 'deal', 'locoweed', 'spate', 'lot', 'mass', 'great_deal', 'mint', 'mountain', 'potty', 'flock', 'smoke', 'green_goddess', 'throne', 'pile', 'toilet', 'muckle', 'passel', 'potful', 'raft', 'weed', 'pot', 'peck', 'sess']",The Fairbrothers
+together,"['unitedly', 'in_concert', 'together']",The Fairbrothers
+old,"['onetime', 'old', 'older', 'former', 'erstwhile', 'Old', 'sometime', 'previous', 'sure-enough', 'honest-to-goodness', 'honest-to-god', 'one-time', 'quondam']",The Fairbrothers
+marrying,"['hook_up_with', 'wed', 'marry', 'get_married', 'splice', 'conjoin', 'get_hitched_with', 'tie', 'espouse']",The Fairbrothers
+The,[],The Fairbrothers
+boarding,"['board', 'get_on', 'room', 'boarding', 'embarkation', 'embarkment']",The Fairbrothers
+I,"['unity', '1', 'atomic_number_53', 'one', 'ane', 'I', 'single', 'iodin', 'ace', 'iodine', 'i']",The Fairbrothers
+teaching,"['precept', 'pedagogy', 'education', 'educational_activity', 'teaching', 'learn', 'instruction', 'didactics', 'commandment', 'instruct', 'teach']",The Fairbrothers
+Doc,"['physician', 'MD', 'Dr.', 'medico', 'Commerce', 'DoC', 'Department_of_Commerce', 'Commerce_Department', 'doc', 'doctor']",The Fairbrothers
+scream,"['wow', 'cry', 'thigh-slapper', 'screech', 'scream', 'shrieking', 'shout', 'hollo', 'holler', 'squall', 'call', 'shout_out', 'belly_laugh', 'shriek', 'howler', 'screaming', 'riot', 'screeching', 'yell', 'sidesplitter']",The Fairbrothers
+fact,['fact'],The Fairbrothers
+swollen,"['swollen-headed', 'swell', 'tumefy', 'tumesce', 'well', 'vain', 'swell_up', 'egotistic', 'swollen', 'egotistical', 'puff_up', 'well_up', 'conceited', 'self-conceited', 'intumesce']",The Fairbrothers
+lost,"['bewildered', 'deep_in_thought', 'miss', 'turn_a_loss', 'suffer', 'mislay', 'lost', 'befuddled', 'missed', 'baffled', 'disoriented', 'confounded', 'recede', 'misplace', 'mixed-up', 'bemused', 'at_sea', 'lose', 'confused', 'preoccupied', 'helpless', 'mazed', 'fall_back', 'drop_off', 'fall_behind', 'doomed']",The Fairbrothers
+person,"['soul', 'individual', 'someone', 'mortal', 'somebody', 'person']",The Fairbrothers
+carte,"['menu', 'carte_du_jour', 'bill_of_fare', 'card', 'carte']",The Fairbrothers
+town,"['Town', 'Ithiel_Town', 'townspeople', 'townsfolk', 'township', 'town']",The Fairbrothers
+them,[],The Fairbrothers
+two,"['two', 'deuce', '2', 'ii', 'II']",The Fairbrothers
+since,[],The Fairbrothers
+Rakestraw,[],The Fairbrothers
+looked,"['wait', 'see', 'look', 'await', 'take_care', 'seem', 'bet', 'expect', 'count', 'front', 'depend', 'attend', 'reckon', 'face', 'appear', 'search', 'calculate']",The Fairbrothers
+sure,"['surely', 'sure_as_shooting', 'indisputable', 'trusted', 'certainly', 'sure', 'sure_enough', 'for_sure', 'certain', 'for_certain']",The Fairbrothers
+pieces,"['spell', 'composition', 'part', 'opus', 'bit', 'nibble', 'tack_together', 'piece_of_music', 'patch', 'set_up', ""objet_d'art"", 'man', 'musical_composition', 'pick', 'tack', 'slice', 'firearm', 'assemble', 'art_object', 'piece', 'small-arm', 'while', 'put_together']",The Fairbrothers
+she's,[],The Fairbrothers
+to,[],The Fairbrothers
+Showers,"['shower_bath', 'exhibitioner', 'exhibitor', 'shower', 'lavish', 'cascade', 'rain_shower', 'shower_down']",The Fairbrothers
+about,"['about', 'more_or_less', 'astir', 'just_about', 'well-nigh', 'around', 'almost', 'virtually', 'nigh', 'or_so', 'nearly', 'most', 'close_to', 'near', 'approximately', 'roughly', 'some']",The Fairbrothers
+son,"['son', 'Son', 'boy', 'Word', 'Logos']",The Fairbrothers
+use,"['role', 'purpose', 'function', 'utilization', 'utilise', 'usage', 'use_of_goods_and_services', 'exercise', 'enjoyment', 'practice', 'use', 'consumption', 'employ', 'habit', 'utilize', 'expend', 'utilisation', 'employment', 'apply', 'manipulation', 'economic_consumption', 'usance', 'habituate']",The Fairbrothers
+effort,"['elbow_grease', 'exertion', 'feat', 'effort', 'cause', 'crusade', 'drive', 'movement', 'endeavour', 'travail', 'try', 'campaign', 'exploit', 'endeavor', 'attempt', 'sweat']",The Fairbrothers
+marriage,"['wedding', 'spousal_relationship', 'marriage', 'matrimony', 'man_and_wife', 'marriage_ceremony', 'union', 'married_couple', 'wedlock']",The Fairbrothers
+window,"['windowpane', 'window']",The Fairbrothers
+condition,"['discipline', 'stipulate', 'term', 'experimental_condition', 'condition', 'qualify', 'check', 'shape', 'consideration', 'status', 'specify', 'train', 'stipulation', 'circumstance', 'precondition']",The Fairbrothers
+crowd,"['crew', 'gang', 'herd', 'crowd_together', 'bunch', 'crowd', 'push']",The Fairbrothers
+wide,"['widely', 'wide-eyed', 'broad', 'encompassing', 'all-embracing', 'wide_of_the_mark', 'astray', 'spacious', 'panoptic', 'full', 'blanket', 'extensive', 'all-inclusive', 'wide-cut', 'across-the-board', 'wide', 'all-encompassing']",The Fairbrothers
+fail,"['flunk', 'go_wrong', 'neglect', 'go_bad', 'flush_it', 'go', 'run_out', 'die', 'conk_out', 'break_down', 'bomb', 'break', 'give_out', 'fail', 'give_way', 'betray', 'miscarry']",The Fairbrothers
+stopped,"['lay_off', 'terminate', 'intercept', 'stopped_up', 'give_up', 'stop', 'end', 'block', 'check', 'kibosh', 'blockade', 'turn_back', 'contain', 'cease', 'finish', 'block_off', 'stopped-up', 'bar', 'barricade', 'arrest', 'break_off', 'stopped', 'hold_on', 'hold_back', 'discontinue', 'block_up', 'halt', 'break', 'stop_over', 'quit']",The Fairbrothers
+thunder,"['thunder', 'roar', 'hell_dust', 'nose_drops', 'skag', 'boom', 'roaring', 'scag', 'smack', 'big_H']",The Fairbrothers
+own,"['ain', 'own', 'possess', 'have']",The Fairbrothers
+special,"['particular', 'peculiar', 'special', 'exceptional', 'extra', 'limited', 'especial']",The Fairbrothers
+resist,"['reject', 'withstand', 'refuse', 'resist', 'dissent', 'jib', 'defy', 'stand', 'protest', 'hold_out', 'baulk', 'stand_firm', 'fend', 'balk']",The Fairbrothers
+God's,[],The Fairbrothers
+on,"['along', 'on']",The Fairbrothers
+their,[],The Fairbrothers
+come,"['come_up', 'total', 'get', 'do', 'arrive', 'semen', 'seminal_fluid', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'cum', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'fall', 'derive', 'number', 'come', 'fare', 'ejaculate', 'seed']",The Fairbrothers
+mother,"['father', 'bring_forth', 'get', 'beget', 'mother', 'fuss', 'engender', 'female_parent', 'generate', 'overprotect', 'sire']",The Fairbrothers
+dare,"['defy', 'dare', 'daring', 'presume', 'make_bold']",The Fairbrothers
+greatness,"['illustriousness', 'immenseness', 'wideness', 'enormousness', 'sizeableness', 'greatness', 'vastness', 'grandness', 'immensity']",The Fairbrothers
+If,[],The Fairbrothers
+horse,"['sawbuck', 'gymnastic_horse', 'knight', 'sawhorse', 'horse', 'buck', 'Equus_caballus', 'cavalry', 'horse_cavalry']",The Fairbrothers
+God,"['god', 'Supreme_Being', 'divinity', 'deity', 'idol', 'immortal', 'God', 'graven_image']",The Fairbrothers
+yes,['yes'],The Fairbrothers
+plain,"['champaign', 'complain', 'kvetch', 'knit', 'unmistakable', 'patent', 'evident', 'apparent', 'knit_stitch', 'spare', 'bare', 'unvarnished', 'patently', 'manifest', 'apparently', 'evidently', 'unmixed', 'kick', 'homely', 'obviously', 'unpatterned', 'quetch', 'plain_stitch', 'manifestly', 'unornamented', 'sheer', 'plainly', 'unmingled', 'sound_off', 'field', 'unembellished', 'plain']",The Fairbrothers

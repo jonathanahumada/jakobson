@@ -1,0 +1,931 @@
+w,vector_semantico
+Curzon's,[],High Fidelity
+performances,"['performance', 'operation', 'carrying_into_action', 'public_presentation', 'carrying_out', 'functioning', 'execution']",High Fidelity
+somewhat,"['middling', 'somewhat', 'more_or_less', 'slightly', 'passably', 'reasonably', 'pretty', 'fairly', 'jolly', 'moderately']",High Fidelity
+able,"['able-bodied', 'able', 'capable']",High Fidelity
+notably,['notably'],High Fidelity
+detail,"['particular', 'detail', 'item', 'point', 'contingent']",High Fidelity
+orchestra,['orchestra'],High Fidelity
+cite,"['adduce', 'mention', 'cite', 'advert', 'reference', 'refer', 'citation', 'summon', 'quote', 'acknowledgment', 'abduce', 'summons', 'quotation', 'credit', 'bring_up', 'name']",High Fidelity
+impressive,"['impressive', 'telling']",High Fidelity
+seem,"['appear', 'seem', 'look']",High Fidelity
+opus,"['piece_of_music', 'musical_composition', 'composition', 'piece', 'opus']",High Fidelity
+Too,"['excessively', 'overly', 'as_well', 'to_a_fault', 'besides', 'likewise', 'too', 'also']",High Fidelity
+strikes,"['bang', 'affect', 'take_up', 'tap', 'impinge_on', 'work_stoppage', 'move', 'come_upon', 'coin', 'rap', 'light_upon', 'hit', 'chance_upon', 'come_across', 'excise', 'ten-strike', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'shine', 'attain', 'assume', 'impress', 'take', 'come_to', 'smasher', 'mint', 'smash', 'fall', 'strickle', 'happen_upon', 'discover', 'chance_on', 'scratch']",High Fidelity
+reflected,"['reflect', 'shine', 'think_over', 'excogitate', 'contemplate', 'reverberate', 'mull_over', 'muse', 'ponder', 'ruminate', 'mull', 'speculate', 'reflected', 'chew_over', 'meditate']",High Fidelity
+in,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",High Fidelity
+these,[],High Fidelity
+much,"['very_much', 'often', 'a_lot', 'practically', 'a_great_deal', 'lots', 'a_good_deal', 'much']",High Fidelity
+fatigue,"['wear_out', 'jade', 'tiredness', 'tire_out', 'wear', 'fag_out', 'fag', 'fatigue_duty', 'weary', 'tire', 'outwear', 'weariness', 'wear_upon', 'wear_down', 'fatigue', 'pall']",High Fidelity
+organization,"['constitution', 'administration', 'organization', 'formation', 'governance', 'brass', 'organisation', 'system', 'arrangement', 'governing_body', 'establishment']",High Fidelity
+end,"['death', 'remainder', 'oddment', 'final_stage', 'remnant', 'last', 'end', 'finish', 'cease', 'conclusion', 'destruction', 'terminate', 'goal', 'closing', 'terminal', 'close', 'stop', 'ending']",High Fidelity
+whose,[],High Fidelity
+edition,"['variant', 'variation', 'version', 'edition']",High Fidelity
+indistinguishable,"['identical', 'undistinguishable', 'indistinguishable']",High Fidelity
+practices,"['use', 'recitation', 'exercise', 'pattern', 'commit', 'praxis', 'practice_session', 'practise', 'drill', 'do', 'rehearse', 'apply', 'practice']",High Fidelity
+natural,"['rude', 'innate', 'cancel', 'raw', 'natural', 'instinctive', 'born', 'lifelike']",High Fidelity
+Recordings,"['record', 'tape', 'enter', 'show', 'commemorate', 'register', 'recording', 'immortalize', 'transcription', 'immortalise', 'put_down', 'memorialise', 'read', 'memorialize']",High Fidelity
+acquire,"['gain', 'take_on', 'larn', 'assume', 'get', 'win', 'produce', 'learn', 'take', 'adopt', 'acquire', 'grow', 'develop', 'evolve']",High Fidelity
+they,[],High Fidelity
+set,"['arrange', 'adjust', 'go_down', 'do', 'specify', 'fix', 'solidification', 'countersink', 'Seth', 'coif', 'readiness', 'localise', 'dress', 'prepare', 'lay', 'set_up', 'fixed', 'laid', 'bent', 'mark', 'determined', 'Set', 'determine', 'jell', 'congeal', 'primed', 'set', 'define', 'put', 'place', 'curing', 'limit', 'rigid', 'hardening', 'go_under', 'located', 'dictated', 'correct', 'plant', 'typeset', 'lot', 'lay_out', 'coiffe', 'hardened', 'sic', 'position', 'fit', 'exercise_set', 'circle', 'placed', 'stage_set', 'ready', 'localize', 'fructify', 'coiffure', 'solidifying', 'situated', 'rig', 'pose', 'gear_up', 'band']",High Fidelity
+calls,"['prognosticate', 'cry', 'send_for', 'phone_call', 'scream', 'shout', 'telephone_call', 'predict', 'call_option', 'hollo', 'name', 'holler', 'squall', 'call_off', 'call', 'address', 'phone', 'forebode', 'Call', 'song', 'call_up', 'shout_out', 'ring', 'vociferation', 'anticipate', 'telephone', 'call_in', 'claim', 'yell', 'margin_call', 'outcry', 'visit', 'promise', 'bid', 'foretell', 'birdcall', 'birdsong']",High Fidelity
+statements,"['argument', 'program_line', 'affirmation', 'statement', 'assertion', 'command', 'instruction', 'financial_statement']",High Fidelity
+belongs,"['go', 'belong_to', 'belong']",High Fidelity
+Schubert's,[],High Fidelity
+sounded,"['voice', 'vocalize', 'go', 'fathom', 'vocalise', 'sound']",High Fidelity
+threshold,"['limen', 'doorstep', 'threshold', 'room_access', 'verge', 'doorway', 'door', 'doorsill', 'brink']",High Fidelity
+receive,"['welcome', 'incur', 'get', 'receive', 'pick_up', 'find', 'invite', 'encounter', 'obtain', 'meet', 'take_in', 'experience', 'have']",High Fidelity
+essentially,"['essentially', 'fundamentally', 'basically']",High Fidelity
+Philharmonic,"['symphony_orchestra', 'philharmonic', 'symphony']",High Fidelity
+pure,"['gross', 'complete', 'utter', 'arrant', 'unadulterated', 'double-dyed', 'saturated', 'vestal', 'virgin', 'virginal', 'stark', 'consummate', 'pure', 'perfect', 'staring', 'virtuous', 'thoroughgoing', 'sodding', 'everlasting']",High Fidelity
+small,"['low', 'pocket-size', 'small-scale', 'modest', 'minor', 'belittled', 'small', 'diminished', 'lowly', 'minuscule', 'little', 'humble', 'pocket-sized']",High Fidelity
+sturdy,"['hardy', 'stalwart', 'inflexible', 'uncompromising', 'sturdy', 'tough', 'stout']",High Fidelity
+sort,"['sorting', 'form', 'kind', 'screen_out', 'sort', 'assort', 'separate', 'classify', 'variety', 'sieve', 'sort_out', 'class', 'screen']",High Fidelity
+thing,"['matter', 'thing', 'affair']",High Fidelity
+Brahms,"['Johannes_Brahms', 'Brahms']",High Fidelity
+sells,"['deal', 'sell', 'trade', 'betray']",High Fidelity
+no,"['No', 'no_more', 'no', 'nobelium', 'atomic_number_102']",High Fidelity
+type,"['typewrite', 'typecast', 'character', 'type', 'eccentric', 'case']",High Fidelity
+afraid,['afraid'],High Fidelity
+too,"['excessively', 'overly', 'as_well', 'to_a_fault', 'besides', 'likewise', 'too', 'also']",High Fidelity
+interpretative,"['interpretive', 'interpretative']",High Fidelity
+outlook,"['mindset', 'lookout', 'prospect', 'expectation', 'mind-set', 'mentality', 'outlook']",High Fidelity
+would-be,"['would-be', 'manque']",High Fidelity
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",High Fidelity
+Ensemble,"['ensemble', 'corps_de_ballet', 'supporting_players', 'tout_ensemble']",High Fidelity
+Returning,"['take_back', 'reverting', 'give', 'refund', 'revert', 'give_back', 'retrovert', 'pass', 'generate', 'reelect', 'deliver', 'yield', 'retort', 'turn_back', 'riposte', 'hark_back', 'return', 'rejoin', 'come_back', 'devolve', 'returning', 'bring_back', 'fall', 'regress', 'reversive', 'render', 'recall', 'repay']",High Fidelity
+four,"['quadruplet', 'quaternary', 'four', 'quartet', 'IV', 'Little_Joe', 'quaternity', 'foursome', 'tetrad', 'iv', 'quaternion', 'four-spot', 'quatern', '4']",High Fidelity
+performer,"['performing_artist', 'performer']",High Fidelity
+lyrical,"['lyric', 'lyrical']",High Fidelity
+times,"['times', 'clock_time', 'meter', 'clock', 'metre', 'prison_term', 'clip', 'sentence', 'multiplication', 'time', 'fourth_dimension']",High Fidelity
+home,"['house', 'abode', 'family', 'domicile', 'habitation', 'interior', 'home_base', 'place', 'national', 'dwelling', 'nursing_home', 'plate', 'rest_home', 'menage', 'home_plate', 'internal', 'home', 'dwelling_house', 'household', 'base']",High Fidelity
+monophonic,"['mono', 'monophonic', 'single-channel']",High Fidelity
+infectious,"['infectious', 'infective']",High Fidelity
+last-mentioned,[],High Fidelity
+interesting,"['matter_to', 'worry', 'interesting', 'concern', 'interest', 'occupy']",High Fidelity
+values,"['economic_value', 'measure', 'valuate', 'prize', 'esteem', 'appreciate', 'value', 'note_value', 'prise', 'assess', 'appraise', 'rate', 'values', 'evaluate', 'treasure', 'time_value', 'respect']",High Fidelity
+acquired,"['gain', 'take_on', 'larn', 'assume', 'get', 'win', 'produce', 'learn', 'take', 'adopt', 'acquire', 'grow', 'develop', 'evolve', 'acquired']",High Fidelity
+concept,"['conception', 'construct', 'concept']",High Fidelity
+disillusioning,"['disenchant', 'disillusion', 'disillusioning', 'disenchanting']",High Fidelity
+losing,"['lose', 'miss', 'turn_a_loss', 'suffer', 'fall_back', 'mislay', 'drop_off', 'recede', 'fall_behind', 'misplace']",High Fidelity
+undertow,"['sea_puss', 'sea-purse', 'sea_purse', 'sea-poose', 'sea-puss', 'undertow']",High Fidelity
+Records,"['show', 'commemorate', 'criminal_record', 'track_record', 'record', 'platter', 'book', 'disc', 'disk', 'register', 'memorialise', 'enter', 'immortalize', 'put_down', 'record_book', 'read', 'tape', 'phonograph_record', 'immortalise', 'phonograph_recording', 'memorialize']",High Fidelity
+versions,"['interpretation', 'variant', 'variation', 'adaptation', 'interlingual_rendition', 'rendering', 'reading', 'edition', 'translation', 'version']",High Fidelity
+defects,"['flaw', 'desert', 'shortcoming', 'blemish', 'mar', 'fault', 'defect']",High Fidelity
+differs,"['dissent', 'take_issue', 'disagree', 'differ']",High Fidelity
+Clifford,[],High Fidelity
+accustomed,"['accustom', 'customary', 'accustomed', 'habitual', 'wonted', 'habituate']",High Fidelity
+Caruso,"['Enrico_Caruso', 'Caruso']",High Fidelity
+make,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'brand', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'shuffle', 'induce', 'relieve_oneself', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'shuffling', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",High Fidelity
+Glazer-Fine,[],High Fidelity
+until,[],High Fidelity
+full,"['total', 'full-of-the-moon', 'good', 'full_phase_of_the_moon', 'full_moon', 'broad', 'to_the_full', 'wax', 'replete', 'full', 'entire', 'wide-cut', 'wide', 'fully']",High Fidelity
+version,"['interpretation', 'variant', 'variation', 'adaptation', 'interlingual_rendition', 'rendering', 'reading', 'edition', 'translation', 'version']",High Fidelity
+Toscanini,"['Toscanini', 'Arturo_Toscanini']",High Fidelity
+its,"['information_technology', 'IT']",High Fidelity
+some,"['about', 'more_or_less', 'just_about', 'around', 'close_to', 'or_so', 'some', 'approximately', 'roughly']",High Fidelity
+outset,"['commencement', 'first', 'beginning', 'offset', 'showtime', 'kickoff', 'start', 'outset', 'get-go', 'starting_time']",High Fidelity
+balance,"['Libra_the_Balance', 'counterpoise', 'poise', 'equaliser', 'balance', 'equipoise', 'residual', 'Balance', 'residuum', 'proportionality', 'residue', 'equilibrate', 'symmetry', 'equilibrium', 'correspondence', 'symmetricalness', 'remainder', 'equalizer', 'equilibrize', 'proportion', 'Libra_the_Scales', 'rest', 'counterbalance', 'equilibrise', 'balance_wheel', 'counterweight', 'Libra']",High Fidelity
+notes,"['bank_bill', 'tone', 'preeminence', 'government_note', 'short_letter', 'note', 'remark', 'Federal_Reserve_note', 'notation', 'billet', ""banker's_bill"", 'mark', 'bill', 'distinction', 'eminence', 'observe', 'mention', 'take_down', 'line', 'promissory_note', 'banknote', 'take_note', 'greenback', 'annotation', 'musical_note', 'bank_note', 'notice', 'note_of_hand']",High Fidelity
+as,"['antiophthalmic_factor', 'axerophthol', 'a', 'group_A', 'arsenic', 'As', 'as', 'vitamin_A', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'ampere', 'every_bit', 'amp', 'AS', 'A', 'equally', 'adenine', 'atomic_number_33', 'American_Samoa', 'Eastern_Samoa', 'type_A', 'angstrom']",High Fidelity
+valve,['valve'],High Fidelity
+Second,"['sec', 'second', 'bit', 'indorsement', 'secondment', 'second_base', 'minute', 's', 'second_gear', 'secondly', 'indorse', '2nd', 'moment', '2d', 'endorsement', 'irregular', 'mo', 'endorse', 'instant', 'back', 'arcsecond']",High Fidelity
+record,"['show', 'commemorate', 'criminal_record', 'track_record', 'record', 'platter', 'book', 'disc', 'disk', 'register', 'memorialise', 'enter', 'immortalize', 'put_down', 'record_book', 'read', 'tape', 'phonograph_record', 'immortalise', 'phonograph_recording', 'memorialize']",High Fidelity
+faded,"['washy', 'languish', 'pass_off', 'faded', 'blow_over', 'washed-out', 'fade', 'bleached', 'wither', 'pass', 'attenuate', 'evanesce', 'weakened', 'fleet', 'attenuated', 'melt']",High Fidelity
+movements,"['apparent_motion', 'drive', 'crusade', 'motility', 'motion', 'movement', 'cause', 'social_movement', 'effort', 'apparent_movement', 'bowel_movement', 'campaign', 'move', 'front', 'bm', 'drift', 'trend']",High Fidelity
+penetration,"['insight', 'penetration', 'incursion']",High Fidelity
+never,"['never', ""ne'er""]",High Fidelity
+authority,"['self-assurance', 'say-so', 'government_agency', 'self-confidence', 'authorisation', 'authority', 'confidence', 'office', 'dominance', 'authorization', 'assurance', 'bureau', 'sanction', 'agency', 'potency', 'sureness', 'federal_agency']",High Fidelity
+rhythmic,"['rhythmical', 'rhythmic']",High Fidelity
+cumulative,"['cumulative', 'accumulative']",High Fidelity
+slack,"['falling_off', 'slake', 'slow', 'morass', 'die_away', 'loose', 'falloff', 'slacken', 'quagmire', 'abate', 'let_up', 'slack', 'lax', 'slack_off', 'mire', 'drop-off', 'slow_down', 'slack_up', 'slack_water', 'slackness', 'quag', 'slump', 'slow_up', 'relax']",High Fidelity
+means,"['intend', 'signify', 'imply', 'have_in_mind', 'entail', 'mean_value', 'think_of', 'substance', 'means', 'mean', 'stand_for', 'think', 'agency', 'way']",High Fidelity
+fascinating,"['riveting', 'enamour', 'engrossing', 'intrigue', 'captivating', 'catch', 'beguile', 'enchanting', 'bewitching', 'entrancing', 'transfix', 'grip', 'enthralling', 'charm', 'entrance', 'absorbing', 'gripping', 'capture', 'fascinating', 'fascinate', 'enchant', 'becharm', 'captivate', 'trance', 'bewitch', 'enamor', 'spellbind']",High Fidelity
+frequent,"['frequent', 'sponsor', 'shop_at', 'haunt', 'shop', 'patronise', 'patronize', 'buy_at']",High Fidelity
+student's,[],High Fidelity
+Every,['every'],High Fidelity
+lucidity,"['lucidity', 'clearness', 'clarity', 'limpidity', 'lucidness', 'pellucidity']",High Fidelity
+common,"['green', 'coarse', 'park', 'uncouth', 'common', 'rough-cut', 'vulgar', 'mutual', 'plebeian', 'commons', 'unwashed', 'usual', 'vernacular']",High Fidelity
+Although,[],High Fidelity
+been,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",High Fidelity
+Seen,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",High Fidelity
+both,['both'],High Fidelity
+hearing,"['earreach', 'listen', 'find_out', 'take_heed', 'get_wind', 'pick_up', 'listening', 'try', 'earshot', 'get_a_line', 'audience', 'learn', 'sense_of_hearing', 'hear', 'hearing', 'auditory_modality', 'see', 'get_word', 'audition', 'auditory_sense', 'discover']",High Fidelity
+thought,"['cogitate', 'imagine', 'consider', 'retrieve', 'cerebrate', 'suppose', 'thought_process', 'opinion', 'persuasion', 'reckon', 'conceive', 'call_back', 'call_up', 'intend', 'cerebration', 'remember', 'mentation', 'guess', 'think', 'thought', 'opine', 'sentiment', 'view', 'idea', 'believe', 'recall', 'mean', 'recollect', 'intellection', 'thinking']",High Fidelity
+serve,"['wait_on', 'suffice', 'assist', 'service', 'dish', 'function', 'dish_up', 'serve_well', 'do', 'attend', 'answer', 'help', 'process', 'dish_out', 'serve', 'swear_out', 'attend_to', 'serve_up']",High Fidelity
+likely,"['in_all_probability', 'potential', 'probable', 'in_all_likelihood', 'probably', 'belike', 'likely']",High Fidelity
+string,"['string_along', 'bowed_stringed_instrument', 'cosmic_string', 'chain', 'strand', 'drawing_string', 'thread', 'draw', 'drawstring', 'string_up', 'twine', 'train', 'string']",High Fidelity
+by,"['away', 'aside', 'past', 'by']",High Fidelity
+Whether,[],High Fidelity
+Demus-Schubert,[],High Fidelity
+must,"['mustiness', 'must', 'moldiness']",High Fidelity
+good,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'salutary', 'honest', 'undecomposed', 'full', 'thoroughly', 'respectable', 'commodity', 'in_effect', 'sound', 'trade_good', 'estimable', 'proficient', 'skillful', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'right', 'in_force', 'soundly', 'unspoilt', 'good', 'goodness', 'well', 'upright', 'just', 'effective', 'unspoiled', 'honorable', 'safe']",High Fidelity
+filled,"['satisfy', 'filled', 'fill', 'sate', 'replete', 'take', 'fulfill', 'make_full', 'satiate', 'fill_up', 'meet', 'occupy', 'fulfil']",High Fidelity
+paper,"['report', 'composition', 'newspaper', 'paper', 'wallpaper', 'newspaper_publisher', 'theme']",High Fidelity
+spirit,"['feel', 'smell', 'tone', 'liveliness', 'feeling', 'look', 'flavour', 'emotional_state', 'life', 'spirit', 'disembodied_spirit', 'intent', 'purport', 'inspirit', 'spirit_up', 'sprightliness', 'heart', 'flavor']",High Fidelity
+master's,[],High Fidelity
+group,"['radical', 'mathematical_group', 'group', 'grouping', 'aggroup', 'chemical_group']",High Fidelity
+everyone's,[],High Fidelity
+and,[],High Fidelity
+trio,"['terzetto', 'triad', 'threesome', 'deuce-ace', 'triplet', 'trey', '3', 'three', 'troika', 'ternary', 'ternion', 'III', 'leash', 'triple', 'trinity', 'tercet', 'tierce', 'trine', 'trio']",High Fidelity
+experience,"['feel', 'see', 'get', 'receive', 'go_through', 'live', 'know', 'experience', 'have']",High Fidelity
+your,[],High Fidelity
+chamber,"['chamber', 'sleeping_room', 'bedroom', 'bedchamber', 'sleeping_accommodation']",High Fidelity
+offers,"['offering', 'crack', 'whirl', 'extend', 'propose', 'go', 'proffer', 'offer_up', 'put_up', 'pop_the_question', 'provide', 'declare_oneself', 'bid', 'tender', 'pass', 'fling', 'volunteer', 'offer']",High Fidelity
+delightful,"['delicious', 'delightful']",High Fidelity
+give,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'spring', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'springiness', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",High Fidelity
+playing,"['take_on', 'play', 'playing', 'performing', 'act', 'fiddle', 'wreak', 'dally', 'spiel', 'run', 'meet', 'act_as', 'playacting', 'bring', 'diddle', 'represent', 'recreate', 'bet', 'trifle', 'work', 'toy', 'wager', 'playact', 'acting', 'make_for', 'flirt', 'encounter', 'roleplay']",High Fidelity
+stated,"['put_forward', 'say', 'submit', 'posit', 'stated', 'tell', 'express', 'state', 'declared']",High Fidelity
+phrase,"['musical_phrase', 'idiomatic_expression', 'give_voice', 'word', 'phrase', 'formulate', 'set_phrase', 'articulate', 'idiom', 'phrasal_idiom']",High Fidelity
+Schubert-Beethoven-Mozart,[],High Fidelity
+:,[],High Fidelity
+free,"['exempt', 'loose', 'release', 'disengage', 'detached', 'innocent', 'free', 'give_up', 'unloosen', 'relinquish', 'destitute', 'spare', 'liberal', 'rid', 'justify', 'complimentary', 'gratuitous', 'disembarrass', 'costless', 'free_people', 'discharge', 'barren', 'dislodge', 'relieve', 'unfreeze', 'liberate', 'gratis', 'absolve', 'unloose', 'unblock', 'devoid', 'resign']",High Fidelity
+reaches,"['accomplish', 'reaching', 'give', 'make', 'reach', 'arrive_at', 'touch', 'grasp', 'contact', 'pass_on', 'get_through', 'turn_over', 'hit', 'achieve', 'pass', 'get_hold_of', 'gain', 'attain', 'extend_to', 'strain', 'stretch', 'ambit', 'reach_out', 'progress_to', 'get_to', 'hand', 'strive', 'orbit', 'compass', 'range', 'scope']",High Fidelity
+way,"['manner', 'way_of_life', 'elbow_room', 'room', 'direction', 'path', 'fashion', 'means', 'style', 'right_smart', 'mode', 'agency', 'way']",High Fidelity
+stamp,"['stamp', 'mould', 'revenue_stamp', 'stereotype', 'mold', 'stump', 'impression', 'legal_tender', 'pigeonhole', 'boss', 'postage', 'seal', 'tender', 'pestle', 'stomp', 'emboss', 'postage_stamp', 'cast']",High Fidelity
+con,"['memorize', 'swindle', 'nobble', 'sting', 'confidence_game', 'bunko', 'con', 'inmate', 'short-change', 'confidence_trick', 'rook', 'victimize', 'hustle', 'scam', 'con_game', 'diddle', 'memorise', 'flimflam', 'gyp', 'learn', 'yardbird', 'bunco', 'gip', 'defraud', 'bunco_game', 'convict', 'goldbrick', 'mulct', 'yard_bird', 'hornswoggle', 'bunko_game']",High Fidelity
+achieve,"['accomplish', 'achieve', 'attain', 'reach']",High Fidelity
+tend,"['tend', 'run', 'lean', 'be_given', 'incline']",High Fidelity
+kept,"['stay_fresh', 'go_along', 'prevent', 'go_on', 'unbroken', 'keep_open', 'celebrate', 'kept', 'restrain', 'observe', 'keep_back', 'retain', 'continue', 'keep', 'hold', 'keep_on', 'preserve', 'hold_open', 'hold_on', 'sustain', 'hold_back', 'save', 'proceed', 'maintain']",High Fidelity
+relation,"['sexual_intercourse', 'relative', 'intercourse', 'copulation', 'relation', 'coition', 'telling', 'carnal_knowledge', 'relation_back', 'coitus', 'sexual_congress', 'sexual_relation', 'recounting', 'sex_act', 'congress']",High Fidelity
+Johann,[],High Fidelity
+those,[],High Fidelity
+technique,"['technique', 'proficiency']",High Fidelity
+distinction,"['preeminence', 'differentiation', 'distinction', 'note', 'eminence']",High Fidelity
+problems,"['job', 'problem', 'trouble']",High Fidelity
+favor,"['privilege', 'party_favour', 'prefer', 'party_favor', 'favor', 'favour']",High Fidelity
+differ,"['dissent', 'take_issue', 'disagree', 'differ']",High Fidelity
+song,"['vocal', 'strain', 'Song_dynasty', 'call', 'Sung', 'Sung_dynasty', 'birdcall', 'song', 'birdsong', 'Song']",High Fidelity
+his,[],High Fidelity
+needed,"['needed', 'need', 'requisite', 'needful', 'postulate', 'want', 'take', 'necessitate', 'ask', 'require', 'involve', 'demand', 'call_for', 'required']",High Fidelity
+enter,"['enroll', 'embark', 'recruit', 'insert', 'infix', 'record', 'get_into', 'go_in', 'go_into', 'get_in', 'come_in', 'introduce', 'move_into', 'enter', 'participate', 'put_down', 'inscribe', 'enrol', 'figure', 'accede']",High Fidelity
+intimate,"['internal', 'confidant', 'familiar', 'knowledgeable', 'insinuate', 'intimate', 'versed', 'cozy', 'informal', 'sexual', 'adumbrate', 'inner', 'suggest']",High Fidelity
+Great,"['outstanding', 'majuscule', 'bully', 'groovy', 'not_bad', 'gravid', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",High Fidelity
+from,[],High Fidelity
+hear,"['get_a_line', 'see', 'get_word', 'take_heed', 'learn', 'get_wind', 'pick_up', 'listen', 'try', 'discover', 'hear', 'find_out']",High Fidelity
+laendler,[],High Fidelity
+Glazer,"['glazier', 'glazer', 'glass_cutter', 'glass-cutter', 'glassworker']",High Fidelity
+copy,"['copy', 'written_matter', 'transcript', 'simulate', 're-create', 'replicate', 'imitate']",High Fidelity
+best,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'respectable', 'Charles_Herbert_Best', 'in_effect', 'sound', 'outdo', 'better', 'topper', 'intimately', 'estimable', 'proficient', 'C._H._Best', 'skillful', 'outflank', 'trump', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'best', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'scoop', 'effective', 'unspoiled', 'substantially', 'considerably', 'honorable', 'safe', 'Best']",High Fidelity
+quite,"['quite_an', 'quite_a', 'rather', 'quite']",High Fidelity
+conventional,"['ceremonious', 'schematic', 'conventional', 'formal', 'established']",High Fidelity
+sounds,"['voice', 'vocalize', 'go', 'speech_sound', 'audio', 'fathom', 'phone', 'auditory_sensation', 'strait', 'vocalise', 'sound']",High Fidelity
+pedagogical,"['pedagogical', 'pedagogic']",High Fidelity
+out,"['come_out', ""KO'd"", 'prohibited', 'out', 'proscribed', 'forbidden', 'knocked_out', 'extinct', 'away', 'kayoed', 'come_out_of_the_closet', 'tabu', 'stunned', 'taboo', 'verboten']",High Fidelity
+already,['already'],High Fidelity
+appreciate,"['take_account', 'apprise', 'revalue', 'prize', 'apprize', 'appreciate', 'value', 'treasure']",High Fidelity
+is,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",High Fidelity
+today,"['today', 'nowadays', 'now']",High Fidelity
+color,"['colour_in', 'colour', 'coloration', 'colouration', 'semblance', 'color_in', 'colourise', 'distort', 'emblazon', 'colouring', 'gloss', 'colorize', 'discolor', 'colouring_material', 'people_of_colour', 'discolour', 'colorise', 'vividness', 'coloring', 'colourize', 'people_of_color', 'tinge', 'coloring_material', 'color']",High Fidelity
+china,"['Cathay', 'Taiwan', 'Republic_of_China', 'PRC', 'Red_China', 'Communist_China', 'Nationalist_China', 'mainland_China', 'chinaware', 'China', ""People's_Republic_of_China"", 'china']",High Fidelity
+vanish,"['vanish', 'disappear', 'go_away', 'fell', 'fly', 'vaporize']",High Fidelity
+structural,"['geomorphologic', 'structural', 'geomorphological', 'morphological', 'morphologic']",High Fidelity
+happy,"['felicitous', 'happy', 'well-chosen', 'glad']",High Fidelity
+things,"['matter', 'thing', 'affair', 'things']",High Fidelity
+On,"['along', 'on']",High Fidelity
+rhythms,"['musical_rhythm', 'calendar_method', 'beat', 'round', 'speech_rhythm', 'cycle', 'rhythm', 'rhythm_method', 'rhythm_method_of_birth_control', 'regular_recurrence', 'calendar_method_of_birth_control']",High Fidelity
+),[],High Fidelity
+awareness,"['sentience', 'knowingness', 'awareness', 'cognisance', 'consciousness', 'cognizance']",High Fidelity
+bristles,"['stand_up', 'bristle', 'abound', 'burst', 'uprise']",High Fidelity
+brilliance,"['splendour', 'glare', 'genius', 'brilliance', 'grandeur', 'splendor', 'blaze', 'grandness', 'magnificence']",High Fidelity
+fourth,"['quaternary', '4th', 'quartern', 'quarter', 'fourth_part', 'one-quarter', 'twenty-five_percent', 'fourthly', 'fourth', 'one-fourth']",High Fidelity
+significance,"['signification', 'implication', 'meaning', 'significance', 'import']",High Fidelity
+Quartet,"['quartette', 'quadruplet', 'quaternary', 'four', 'quartet', 'IV', 'Little_Joe', 'quaternity', 'foursome', 'tetrad', 'quaternion', 'quatern', 'quadruple', '4']",High Fidelity
+particular,"['finical', 'particular', 'particular_proposition', 'peculiar', 'detail', 'fussy', 'picky', 'special', 'item', 'exceptional', 'finicky', 'specific', 'especial']",High Fidelity
+strait-laced,"['priggish', 'prudish', 'puritanical', 'straitlaced', 'strait-laced', 'straightlaced', 'prissy', 'prim', 'victorian', 'square-toed', 'tight-laced', 'straight-laced']",High Fidelity
+approach,"['glide_path', 'access', 'approaching', 'set_about', 'feeler', 'approach_shot', 'go_up', 'approach', 'coming', 'draw_close', 'come_near', 'plan_of_attack', 'overture', 'glide_slope', 'near', 'approach_path', 'go_about', 'attack', 'draw_near', 'come_on', 'advance', 'border_on']",High Fidelity
+Belgian,['Belgian'],High Fidelity
+cleaner,"['cleanser', 'white', 'cleaner', 'uncontaminating', 'clean', 'fair', 'neat', 'fresh', 'blank', 'unclouded', 'unobjectionable', 'clean-living', 'clear', 'light', 'dry_cleaner', 'sportsmanlike', 'uninfected', 'sporty', 'sporting', 'cleansing_agent']",High Fidelity
+resonance,"['ringing', 'reverberance', 'plangency', 'resonance', 'sonorousness', 'rapport', 'vibrancy', 'sonority']",High Fidelity
+substance,"['meat', 'pith', 'heart_and_soul', 'marrow', 'nitty-gritty', 'essence', 'inwardness', 'substance', 'means', 'message', 'content', 'kernel', 'centre', 'core', 'meaning', 'subject_matter', 'heart', 'nub', 'gist', 'center', 'sum']",High Fidelity
+Roloff,[],High Fidelity
+interest,"['sake', 'involvement', 'worry', 'matter_to', 'interestingness', 'interest_group', 'concern', 'interest', 'pastime', 'occupy', 'pursuit', 'stake']",High Fidelity
+tightly,['tightly'],High Fidelity
+testimony,"['testimony', 'testimonial']",High Fidelity
+delicious,"['delectable', 'delightful', 'toothsome', 'scrumptious', 'pleasant-tasting', 'delicious', 'luscious', 'Delicious', 'yummy']",High Fidelity
+humanity,"['man', 'humankind', 'humans', 'manhood', 'humanity', 'world', 'human_beings', 'human_race', 'humanness', 'mankind']",High Fidelity
+rugged,"['furrowed', 'broken', 'rugged', 'tough']",High Fidelity
+years,"['old_age', 'yr', 'geezerhood', 'days', 'year', 'twelvemonth', 'age', 'long_time', 'class', 'eld', 'years']",High Fidelity
+comfortable,"['comfy', 'well-situated', 'well-off', 'well-heeled', 'well-fixed', 'prosperous', 'easy', 'comfortable', 'well-to-do']",High Fidelity
+feet,"['foot', 'animal_foot', 'invertebrate_foot', 'groundwork', 'infantry', 'metrical_unit', 'metrical_foot', 'understructure', 'human_foot', 'pes', 'substructure', 'base', 'ft', 'fundament', 'foundation']",High Fidelity
+intensity,"['chroma', 'saturation', 'loudness', 'vividness', 'intensiveness', 'intensity', 'volume', 'intensity_level', 'strength']",High Fidelity
+discs,"['record', 'platter', 'magnetic_disk', 'magnetic_disc', 'disc', 'disk', 'phonograph_record', 'saucer', 'phonograph_recording']",High Fidelity
+Scheherazade,[],High Fidelity
+our,[],High Fidelity
+appealing,"['invoke', 'attract', 'likeable', 'likable', 'appeal', 'appealing', 'sympathetic']",High Fidelity
+being,"['equal', 'comprise', 'constitute', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'existence', 'live', 'organism', 'being', 'beingness']",High Fidelity
+claim,"['title', 'call', 'arrogate', 'lay_claim', 'take', 'exact', 'claim']",High Fidelity
+true,"['true_up', 'dead_on_target', 'reliable', 'truthful', 'rightful', 'unfeigned', 'confessedly', 'on-key', 'honest', 'dependable', 'genuine', 'avowedly', 'straight', 'true', 'admittedly', 'lawful']",High Fidelity
+if,[],High Fidelity
+marks,"['chump', 'tick', 'Simon_Marks', 'distinguish', 'strike_off', 'marking', 'commemorate', 'strike_out', 'label', 'Saint_Mark', 'crisscross', 'stigmatise', 'brand', 'note', 'sign', 'soft_touch', 'Gospel_According_to_Mark', 'marker', 'First_Baron_Marks_of_Broughton', 'scar', ""bull's_eye"", 'mark', 'cross_off', 'grade', 'Deutsche_Mark', 'stigma', 'set', 'cross_out', 'check', 'print', 'punctuate', 'tag', 'St._Mark', 'gull', 'nock', 'cross', 'denounce', 'stain', 'target', 'bell_ringer', 'scrape', 'pit', 'German_mark', 'check_off', 'patsy', 'Deutschmark', 'score', 'pock', 'tick_off', 'mark_off', 'mug', 'fool', 'fall_guy', 'Marks', 'home_run', 'stigmatize', 'notice', 'Mark', 'sucker', 'scratch', 'differentiate']",High Fidelity
+only,"['only', 'entirely', 'sole', 'merely', 'simply', 'only_when', 'solitary', 'lone', 'just', 'exclusively', 'alone', 'only_if', 'solely', 'lonesome', 'but']",High Fidelity
+Westminster,"['City_of_Westminster', 'Westminster']",High Fidelity
+hand,"['hand', 'give', 'manus', 'deal', 'handwriting', 'reach', 'mitt', 'script', 'hired_man', 'hired_hand', 'helping_hand', 'pass', 'pass_on', 'turn_over', 'paw', 'bridge_player']",High Fidelity
+Ma,"['mA', 'mammy', 'mamma', 'mum', 'Master_of_Arts', 'milliampere', 'Massachusetts', 'ma', 'MA', 'AM', 'Artium_Magister', 'Bay_State', 'mom', 'mummy', 'momma', 'mama', 'mommy', 'Old_Colony']",High Fidelity
+scherzo,['scherzo'],High Fidelity
+an,"['AN', 'Associate_in_Nursing']",High Fidelity
+responses,"['reply', 'answer', 'reception', 'response', 'reaction']",High Fidelity
+bits,"['fleck', 'bite', 'chip', 'number', 'moment', 'morsel', 'second', 'piece', 'flake', 'spot', 'scrap', 'snatch', 'bit', 'mo', 'minute', 'act', 'routine', 'turn']",High Fidelity
+gossamer,"['cobwebby', 'filmy', 'gauzy', 'vapourous', 'gossamer', 'ethereal', 'gauze-like', 'diaphanous', 'sheer', 'see-through', 'vaporous', 'cobweb', 'transparent']",High Fidelity
+have,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'wealthy_person', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'rich_person', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",High Fidelity
+multiplied,"['multiply', 'multiplied', 'manifold', 'breed', 'reproduce', 'procreate']",High Fidelity
+variation,"['variant', 'variation', 'fluctuation', 'pas_seul', 'sport', 'magnetic_declination', 'edition', 'mutation', 'version', 'magnetic_variation', 'mutant', 'variance']",High Fidelity
+Aeschbacher,[],High Fidelity
+five,"['five-spot', 'Phoebe', 'basketball_team', 'five', 'fin', 'quintuplet', 'v', 'fivesome', 'quintet', 'cinque', '5', 'Little_Phoebe', 'V', 'quint', 'pentad']",High Fidelity
+quantitatively,['quantitatively'],High Fidelity
+miss,"['fille', 'lose', 'miss', 'neglect', 'overlook', 'young_woman', 'misfire', 'drop', 'omit', 'lack', 'escape', 'young_lady', 'leave_out', 'girl', 'Miss', 'overleap', 'missy', 'pretermit']",High Fidelity
+distinctly,"['clearly', 'distinctly']",High Fidelity
+Pro,"['pro', 'professional']",High Fidelity
+difficulty,"['trouble', 'difficulty', 'difficultness']",High Fidelity
+diminished,"['decrease', 'vitiated', 'atrophied', 'belittled', 'small', 'belittle', 'diminished', 'wasted', 'lessen', 'diminish', 'lessened', 'weakened', 'fall']",High Fidelity
+creating,"['create', 'produce', 'make']",High Fidelity
+valuable,"['worthful', 'valuable']",High Fidelity
+example,"['exemplar', 'good_example', 'object_lesson', 'representative', 'instance', 'deterrent_example', 'exercise', 'model', 'lesson', 'illustration', 'example', 'case']",High Fidelity
+indications,"['indicant', 'reading', 'indication', 'meter_reading', 'denotation']",High Fidelity
+charms,"['spell', 'magic_spell', 'enamour', 'appealingness', 'influence', 'catch', 'appeal', 'beguile', 'tempt', 'charm', 'entrance', 'capture', 'fascinate', 'magical_spell', 'good_luck_charm', 'enchant', 'becharm', 'captivate', 'trance', 'bewitch', 'enamor']",High Fidelity
+Victor,"['master', 'victor', 'winner', 'superior']",High Fidelity
+associate,"['associate_degree', 'familiar', 'fellow', 'relate', 'affiliate', 'associate', 'link', 'consort', 'comrade', 'assort', 'consociate', 'link_up', 'companion', 'connect', 'colligate', 'tie_in']",High Fidelity
+be,"['equal', 'atomic_number_4', 'comprise', 'represent', 'cost', 'embody', 'follow', 'glucinium', 'be', 'exist', 'make_up', 'beryllium', 'personify', 'live', 'Be', 'constitute']",High Fidelity
+Special,"['particular', 'peculiar', 'special', 'exceptional', 'extra', 'limited', 'especial']",High Fidelity
+clearer,"['cleared', 'unclouded', 'clear', 'unmortgaged', 'clean', 'exonerated', 'vindicated', 'clear-cut', 'exculpated', 'readable', 'light', 'open', 'well-defined', 'absolved', 'clean-cut', 'decipherable', 'percipient']",High Fidelity
+Telefunken,[],High Fidelity
+contrabass,"['bass_viol', 'double-bass', 'string_bass', 'bull_fiddle', 'double_bass', 'contrabass', 'bass_fiddle']",High Fidelity
+but,"['only', 'simply', 'merely', 'just', 'but']",High Fidelity
+pronounced,"['say', 'judge', 'label', 'sound_out', 'enounce', 'pronounce', 'enunciate', 'marked', 'articulate', 'pronounced']",High Fidelity
+Of,[],High Fidelity
+something,[],High Fidelity
+background,"['background', 'backcloth', 'screen_background', 'ground', 'background_knowledge', 'downplay', 'backdrop', 'background_signal', 'desktop', 'setting', 'scope', 'play_down']",High Fidelity
+movement,"['apparent_motion', 'drive', 'crusade', 'motility', 'motion', 'movement', 'cause', 'social_movement', 'effort', 'apparent_movement', 'bowel_movement', 'campaign', 'move', 'front', 'bm', 'drift', 'trend']",High Fidelity
+last,"['finale', 'death', 'survive', 'hold_out', 'terminal', 'close', 'utmost', 'final_stage', 'concluding', 'end', 'in_conclusion', 'finally', 'stopping_point', 'live_on', 'lastly', 'go', 'last', ""shoemaker's_last"", 'endure', 'finish', ""cobbler's_last"", 'lowest', 'conclusion', 'last-place', 'final', 'hold_up', 'finis', 'live', 'net']",High Fidelity
+crippled,"['stultify', 'gimpy', 'lame', 'crippled', 'game', 'cripple', 'halt', 'halting']",High Fidelity
+beginning,"['commencement', 'get', 'set_about', 'source', 'showtime', 'outset', 'commence', 'first', 'root', 'set_out', 'offset', 'get-go', 'lead_off', 'get_down', 'beginning', 'kickoff', 'start', 'start_out', 'begin', 'rootage', 'origin', 'starting_time']",High Fidelity
+reading,"['reading_material', 'show', 'version', 'record', 'recitation', 'interpret', 'scan', 'register', 'study', 'interpretation', 'recital', 'learn', 'reading', 'take', 'Reading', 'read', 'say', 'understand', 'indication', 'translate', 'meter_reading']",High Fidelity
+light,"['illumination', 'Inner_Light', 'tripping', 'Christ_Within', 'brightness', 'visible_radiation', 'dismount', 'loose', 'scant', 'faint', 'promiscuous', 'sparkle', 'Light_Within', 'lighting', 'ignite', 'light-colored', 'clean', 'lite', 'visible_light', 'perch', 'lightsome', 'spark', 'abstemious', 'lighter', 'luminosity', 'short', 'lightly', 'illuminate', 'luminance', 'lightheaded', 'light_source', 'get_down', 'unclouded', 'unaccented', 'clear', 'Light', 'swooning', 'illumine', 'idle', 'wanton', 'light', 'fire_up', 'alight', 'light-headed', 'wakeful', 'light_up', 'easy', 'weak', 'ignitor', 'illume', 'sluttish', 'fall', 'igniter', 'calorie-free', 'low-cal', 'get_off', 'unhorse', 'twinkle', 'lightness', 'brightness_level', 'luminousness']",High Fidelity
+perfect,"['double-dyed', 'gross', 'staring', 'complete', 'perfective_tense', 'stark', 'consummate', 'utter', 'perfect_tense', 'arrant', 'perfect', 'pure', 'sodding', 'thoroughgoing', 'hone', 'perfective', 'everlasting', 'unadulterated']",High Fidelity
+Presto,['presto'],High Fidelity
+master,"['master_copy', 'primary', 'dominate', 'schoolmaster', 'passe-partout', 'headmaster', 'overlord', 'get_the_hang', 'surmount', 'professional', 'captain', 'passkey', 'superior', 'subdue', 'get_over', 'lord', 'master_key', 'sea_captain', 'victor', 'principal', 'maestro', 'skipper', 'master', 'chief', 'original', 'main', 'control', 'overcome']",High Fidelity
+convey,"['channel', 'bring', 'get', 'impart', 'carry', 'take', 'express', 'fetch', 'communicate', 'conduct', 'convey', 'transmit']",High Fidelity
+effect,"['outcome', 'impression', 'issue', 'gist', 'effectuate', 'essence', 'set_up', 'consequence', 'burden', 'core', 'force', 'result', 'upshot', 'event', 'effect']",High Fidelity
+Arte's,[],High Fidelity
+accumulation,"['collection', 'accumulation', 'aggregation', 'accrual', 'accruement', 'assemblage', 'accretion']",High Fidelity
+And,[],High Fidelity
+recorded,"['record', 'recorded', 'tape', 'enter', 'show', 'commemorate', 'register', 'immortalize', 'immortalise', 'put_down', 'memorialise', 'read', 'memorialize']",High Fidelity
+locating,"['place', 'emplacement', 'locating', 'settle', 'turn_up', 'situate', 'positioning', 'location', 'locate', 'position', 'localisation', 'localization', 'site', 'placement', 'fix']",High Fidelity
+remains,"['remain', 'rest', 'continue', 'remains', 'stay_on', 'corpse', 'persist', 'clay', 'stiff', 'stay', 'cadaver']",High Fidelity
+pianists,"['piano_player', 'pianist']",High Fidelity
+long-awaited,[],High Fidelity
+superb,"['superb', 'brilliant']",High Fidelity
+genuine,"['literal', 'real', 'echt', 'unfeigned', 'genuine', 'actual', 'true']",High Fidelity
+substantially,"['well', 'substantially', 'considerably']",High Fidelity
+didn't,[],High Fidelity
+ultravehement,[],High Fidelity
+writing,"['authorship', 'publish', 'spell', 'penning', 'composition', 'save', 'written_material', 'piece_of_writing', 'committal_to_writing', 'pen', 'drop_a_line', 'writing', 'indite', 'write', 'compose']",High Fidelity
+Decca,[],High Fidelity
+finale,"['finale', 'last', 'closing_curtain', 'finish', 'stopping_point', 'conclusion', 'finis', 'coda', 'close']",High Fidelity
+whole,"['whole', 'entirely', 'altogether', 'all', 'unit', 'unharmed', 'totally', 'unhurt', 'wholly', 'unscathed', 'completely', 'solid', 'unanimous', 'hale']",High Fidelity
+performance,"['performance', 'operation', 'carrying_into_action', 'public_presentation', 'carrying_out', 'functioning', 'execution']",High Fidelity
+lyric,"['lyric', 'lyrical', 'lyric_poem', 'language', 'words']",High Fidelity
+marathon,"['endurance_contest', 'battle_of_Marathon', 'Marathon', 'marathon']",High Fidelity
+now,"['now', 'forthwith', 'directly', 'immediately', 'straight_off', 'right_away', 'straightaway', 'at_present', 'instantly', 'nowadays', 'like_a_shot', 'today', 'at_once']",High Fidelity
+produces,"['create', 'bring_forth', 'give_rise', 'get', 'green_groceries', 'produce', 'make', 'garden_truck', 'bring_on', 'farm', 'raise', 'acquire', 'grow', 'develop', 'bring_out', 'green_goods', 'bring_about']",High Fidelity
+distinctive,"['distinctive', 'typical', 'classifiable']",High Fidelity
+second,"['sec', 'second', 'bit', 'indorsement', 'secondment', 'second_base', 'minute', 's', 'second_gear', 'secondly', 'indorse', '2nd', 'moment', '2d', 'endorsement', 'irregular', 'mo', 'endorse', 'instant', 'back', 'arcsecond']",High Fidelity
+pastel,['pastel'],High Fidelity
+young,"['Whitney_Young', 'Danton_True_Young', 'Cy_Young', 'young', 'Pres_Young', 'new', 'Whitney_Moore_Young_Jr.', 'untested', 'youth', 'Lester_Willis_Young', 'Young', 'immature', 'offspring', 'Brigham_Young', 'Thomas_Young', 'untried', 'Loretta_Young', 'unseasoned', 'vernal', 'Edward_Young', 'youthful']",High Fidelity
+touch,"['pinch', 'signature', 'sense_of_touch', 'affect', 'spot', 'bear_upon', 'reach', 'touch', 'tactual_sensation', 'concern', 'contact', 'touch_modality', 'trace', 'refer', 'bear_on', 'advert', 'impact', 'feeling', 'tint', 'stir', 'touching', 'touch_sensation', 'tactile_sensation', 'cutaneous_senses', 'meet', 'mite', 'extend_to', 'relate', 'skin_senses', 'pertain', 'soupcon', 'rival', 'partake', 'come_to', 'jot', 'tinct', 'ghost', 'equal', 'have-to_doe_with', 'speck', 'allude', 'disturb', 'adjoin', 'tinge', 'match', 'touch_on', 'hint']",High Fidelity
+It,"['information_technology', 'IT']",High Fidelity
+timbre,"['timber', 'tone', 'quality', 'timbre']",High Fidelity
+``,[],High Fidelity
+time,"['clock_time', 'meter', 'clock', 'metre', 'prison_term', 'clip', 'sentence', 'time', 'fourth_dimension']",High Fidelity
+environments,"['surround', 'surroundings', 'environment', 'environs']",High Fidelity
+will,"['will', 'bequeath', 'testament', 'leave', 'volition']",High Fidelity
+first,"['commencement', 'low', 'showtime', 'outset', 'initiative', 'foremost', 'first', 'maiden', 'world-class', 'firstly', 'offset', 'low_gear', 'get-go', 'first_gear', 'initiatory', '1st', 'beginning', 'first_off', 'first_of_all', 'kickoff', 'start', 'inaugural', 'number_one', 'number_1', 'first-class_honours_degree', 'first_base', 'starting_time', 'for_the_first_time']",High Fidelity
+Because,[],High Fidelity
+reduce,"['trim_back', 'quash', 'reduce', 'tighten', 'cut', 'concentrate', 'bring_down', 'cut_back', 'deoxidize', 'repress', 'subdue', 'shorten', 'subjugate', 'boil_down', 'shrink', 'abbreviate', 'scale_down', 'abridge', 'foreshorten', 'trim_down', 'dilute', 'thin_out', 'melt_off', 'thin', 'slim_down', 'contract', 'keep_down', 'deoxidise', 'slim', 'trim', 'slenderize', 'come_down', 'cut_down', 'decoct', 'lose_weight']",High Fidelity
+how,[],High Fidelity
+discreetly,['discreetly'],High Fidelity
+different,"['unlike', 'dissimilar', 'different']",High Fidelity
+major,"['John_Roy_Major', 'Major', 'John_Major', 'major', 'John_R._Major']",High Fidelity
+limited,"['limit', 'circumscribe', 'circumscribed', 'special', 'trammel', 'bound', 'modified', 'restrict', 'express', 'limited', 'confine', 'restrain', 'specify', 'determine', 'fix', 'throttle', 'set', 'define']",High Fidelity
+qualities,"['timber', 'tone', 'quality', 'caliber', 'calibre', 'timbre', 'lineament', 'character']",High Fidelity
+fifth,"['twenty_percent', '5th', 'one-fifth', 'fifth_part', 'fifth']",High Fidelity
+made,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'made', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",High Fidelity
+regarded,"['see', 'regard', 'consider', 'affect', 'view', 'involve', 'reckon']",High Fidelity
+Babin-Festival,[],High Fidelity
+Some,"['about', 'more_or_less', 'just_about', 'around', 'close_to', 'or_so', 'some', 'approximately', 'roughly']",High Fidelity
+Schnabel-Pro,[],High Fidelity
+pianist's,[],High Fidelity
+demands,"['need', 'postulate', 'requirement', 'take', 'necessitate', 'ask', 'require', 'involve', 'demand', 'call_for', 'exact']",High Fidelity
+acoustically,['acoustically'],High Fidelity
+attain,"['hit', 'accomplish', 'achieve', 'attain', 'chance_upon', 'come_across', 'happen_upon', 'gain', 'make', 'reach', 'arrive_at', 'light_upon', 'come_upon', 'discover', 'chance_on', 'strike', 'fall_upon']",High Fidelity
+romantic,"['wild-eyed', 'romantic', 'quixotic', 'amorous', 'romanticistic', 'amatory', 'romanticist']",High Fidelity
+provide,"['ply', 'furnish', 'put_up', 'supply', 'provide', 'render', 'leave', 'bring_home_the_bacon', 'cater', 'allow_for', 'offer', 'allow']",High Fidelity
+Brahmsian,[],High Fidelity
+regret,"['ruefulness', 'repent', 'regret', 'sorrow', 'rue']",High Fidelity
+imitation,"['fake', 'impersonation', 'caricature', 'imitation', 'faux', 'false', 'simulated']",High Fidelity
+repertory,"['repertoire', 'repertory']",High Fidelity
+result,"['outcome', 'final_result', 'resultant', 'solution', 'issue', 'resolution', 'solvent', 'resultant_role', 'ensue', 'consequence', 'termination', 'leave', 'answer', 'lead', 'result', 'upshot', 'event', 'effect']",High Fidelity
+moreover,"['moreover', 'furthermore', 'what_is_more']",High Fidelity
+teacher,"['teacher', 'instructor']",High Fidelity
+struck,"['smitten', 'affect', 'take_up', 'impinge_on', 'move', 'come_upon', 'coin', 'light_upon', 'hit', 'chance_upon', 'come_across', 'excise', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'shine', 'attain', 'assume', 'impress', 'take', 'come_to', 'mint', 'struck', 'fall', 'strickle', 'stricken', 'happen_upon', 'discover', 'chance_on', 'scratch']",High Fidelity
+expected,"['wait', 'look', 'carry', 'await', 'expect', 'anticipate', 'ask', 'require', 'have_a_bun_in_the_oven', 'gestate', 'bear', 'expected']",High Fidelity
+really,"['real', 'truly', 'really', 'very', 'actually', 'rattling', 'in_truth', 'genuinely']",High Fidelity
+exactly,"['exactly', 'on_the_button', 'just', 'incisively', 'on_the_nose', 'on_the_dot', 'precisely']",High Fidelity
+individual,"['soul', 'item-by-item', 'individual', 'someone', 'private', 'single', 'mortal', 'somebody', 'person', 'case-by-case']",High Fidelity
+listener,"['listener', 'attender', 'auditor', 'hearer']",High Fidelity
+clown's,[],High Fidelity
+had,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",High Fidelity
+insight,"['penetration', 'perceptivity', 'brainwave', 'sixth_sense', 'insight', 'brainstorm', 'perceptiveness']",High Fidelity
+alone,"['only', 'entirely', 'solo', 'solitary', 'lone', 'unique', 'exclusively', 'alone', 'lonely', 'unequaled', 'unparalleled', 'solely', 'unaccompanied', 'unequalled']",High Fidelity
+under,"['nether', 'under', 'below']",High Fidelity
+down,"['low', 'mastered', 'gloomy', 'depressed', 'downwardly', 'pull_down', 'polish', 'land', 'consume', 'pop', 'downwards', 'downward', 'shoot_down', 'dispirited', 'downhearted', 'fine-tune', 'belt_down', 'blue', 'refine', 'down_in_the_mouth', 'kill', 'knock_down', 'downcast', 'John_L._H._Down', 'down_pat', 'pour_down', 'Down', 'devour', 'pile', 'low-spirited', 'bolt_down', 'go_through', 'grim', 'down', 'toss_off', 'cut_down', 'down_feather', 'push_down', 'drink_down']",High Fidelity
+are,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'are', 'ar', 'constitute']",High Fidelity
+hilarity,"['hilarity', 'mirth', 'glee', 'mirthfulness', 'gleefulness']",High Fidelity
+beguiled,"['beguiled', 'captivated', 'enamour', 'hoodwink', 'beguile', 'catch', 'charm', 'entrance', 'juggle', 'capture', 'enthralled', 'fascinate', 'charmed', 'enchant', 'becharm', 'captivate', 'trance', 'bewitch', 'entranced', 'enamor', 'delighted']",High Fidelity
+Schnabel,"['Schnabel', 'Artur_Schnabel']",High Fidelity
+quintets,"['Phoebe', 'five', 'fin', 'quintuplet', 'quint', 'fivesome', 'Little_Phoebe', 'quintet', 'cinque', '5', 'quintuple', 'quintette', 'V', 'pentad']",High Fidelity
+possible,"['possible', 'potential']",High Fidelity
+sheds,"['throw', 'shake_off', 'throw_off', 'throw_away', 'drop', 'spill', 'pour_forth', 'moult', 'molt', 'exuviate', 'cast_off', 'slough', 'disgorge', 'shed', 'cast']",High Fidelity
+does,"['arrange', 'Energy', 'doe', 'make', 'do', 'act', 'behave', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'Energy_Department', 'Department_of_Energy', 'DOE', 'answer', 'practice', 'set', 'make_out', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'coiffure', 'cause', 'come', 'manage', 'fare']",High Fidelity
+sentimentality,"['mawkishness', 'drippiness', 'mushiness', 'soupiness', 'sloppiness', 'sentimentality']",High Fidelity
+informally,"['conversationally', 'informally', 'colloquially']",High Fidelity
+violinist,"['fiddler', 'violinist']",High Fidelity
+Wolff's,[],High Fidelity
+distance,"['distance', 'outstrip', 'outdistance', 'length', 'aloofness', 'space']",High Fidelity
+having,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",High Fidelity
+High,"['high_school', 'high', 'highschool', 'senior_high', 'high_up', 'high-pitched', 'mellow', 'richly', 'high_gear', 'gamey', 'in_high_spirits', 'eminent', 'gamy', 'luxuriously', 'heights', 'senior_high_school']",High Fidelity
+importance,"['importance', 'grandness']",High Fidelity
+serenade,"['serenade', 'divertimento']",High Fidelity
+more,"['Thomas_More', 'more_than', 'more', 'More', 'Sir_Thomas_More', 'to_a_greater_extent']",High Fidelity
+model,"['exemplar', 'pattern', 'role_model', 'mannikin', 'sit', 'mannequin', 'example', 'manikin', 'mould', 'exemplary', 'model', 'fashion_model', 'framework', 'good_example', 'modelling', 'mold', 'manakin', 'simulate', 'modeling', 'theoretical_account', 'poser', 'mock_up', 'pose', 'posture', 'simulation']",High Fidelity
+Fidelity,"['fidelity', 'faithfulness']",High Fidelity
+living,"['sustenance', 'surviving', 'survive', 'aliveness', 'hold_out', 'bread_and_butter', 'dwell', 'subsist', 'living', 'be', 'live_on', 'livelihood', 'go', 'keep', 'last', 'populate', 'endure', 'exist', 'inhabit', 'support', 'life', 'animation', 'hold_up', 'live', 'know', 'experience']",High Fidelity
+expect,"['wait', 'look', 'carry', 'await', 'expect', 'anticipate', 'ask', 'require', 'have_a_bun_in_the_oven', 'gestate', 'bear']",High Fidelity
+dated,"['see', 'go_steady', 'date_stamp', 'dated', 'date', 'go_out']",High Fidelity
+renditions,"['interpretation', 'rendering', 'interpreting', 'rendition']",High Fidelity
+series,"['serial_publication', 'serial', 'series']",High Fidelity
+instrument,"['instrumentate', 'legal_instrument', 'legal_document', 'musical_instrument', 'instrumental_role', ""cat's-paw"", 'pawn', 'tool', 'official_document', 'instrument']",High Fidelity
+shading,"['shadow', 'shading', 'fill_in', 'blending', 'shade_off', 'shade']",High Fidelity
+contrasts,"['line', 'direct_contrast', 'contrast', 'demarcation', 'dividing_line', 'counterpoint']",High Fidelity
+once,"['at_one_time', 'once', 'erstwhile', 'one_time', 'erst', 'in_one_case', 'formerly']",High Fidelity
+lacked,"['miss', 'lack']",High Fidelity
+important,"['significant', 'important', 'crucial', 'of_import', 'authoritative']",High Fidelity
+pleasing,"['delight', 'pleasing', 'please']",High Fidelity
+written,"['publish', 'spell', 'save', 'scripted', 'written', 'pen', 'drop_a_line', 'indite', 'write', 'compose']",High Fidelity
+pupils,"['pupil', 'educatee', 'schoolchild', 'school-age_child', 'student']",High Fidelity
+still,"['silence', 'nevertheless', 'motionless', 'silent', 'tranquil', 'distillery', 'unruffled', 'noneffervescent', 'hush', 'stillness', 'tranquillise', 'inactive', 'withal', 'soundless', 'notwithstanding', 'all_the_same', 'however', 'placid', 'calm', 'static', 'allay', 'yet', 'ease', 'tranquilize', 'quieten', 'even_so', 'still', 'relieve', 'smooth', 'tranquillize', 'calm_down', 'lull', 'stock-still', 'hush_up', 'shut_up', 'nonetheless', 'even', 'quiet']",High Fidelity
+Parsifal,[],High Fidelity
+Command,"['dictation', 'overlook', 'dominate', 'program_line', 'statement', 'command', 'bidding', 'bid', 'instruction', 'require', 'mastery', 'control', 'overtop']",High Fidelity
+details,"['particular', 'detail', 'item', 'inside_information', 'details', 'point', 'contingent']",High Fidelity
+were,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",High Fidelity
+finicky,"['finical', 'particular', 'fussy', 'finicky', 'picky']",High Fidelity
+bow,"['bowing', 'defer', 'submit', 'obeisance', 'bowknot', 'fore', 'curtain_call', 'stem', 'stoop', 'prow', 'bow_down', 'bend', 'crouch', 'bow', 'accede', 'give_in', 'arc']",High Fidelity
+akin,"['blood-related', 'consanguineal', 'cognate', 'kindred', 'consanguine', 'akin', 'consanguineous', 'kin']",High Fidelity
+Curzon,[],High Fidelity
+near,"['nigh', 'virtually', 'close', 'go_up', 'approach', 'approximate', 'about', 'draw_close', 'come_near', 'well-nigh', 'cheeseparing', 'dear', 'most', 'near', 'draw_near', 'come_on', 'good', 'almost', 'penny-pinching', 'nearly', 'skinny']",High Fidelity
+amount,"['total', 'sum_of_money', 'amount_of_money', 'number', 'amount', 'measure', 'come', 'quantity', 'add_up', 'sum']",High Fidelity
+serious-minded,"['serious-minded', 'thoughtful']",High Fidelity
+react,"['react', 'oppose', 'respond']",High Fidelity
+ten,"['ten', 'decade', 'X', 'x', '10', 'ten-spot', 'tenner']",High Fidelity
+beefed-up,['beefed-up'],High Fidelity
+symphony,"['symphonic_music', 'symphony_orchestra', 'philharmonic', 'symphony']",High Fidelity
+trill,"['shake', 'quaver', 'warble', 'trill']",High Fidelity
+pleasure,"['pleasance', 'joy', 'delight', 'pleasure']",High Fidelity
+one,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",High Fidelity
+uniform,"['consistent', 'undifferentiated', 'unvarying', 'uniform']",High Fidelity
+milestones,"['milepost', 'milestone']",High Fidelity
+tenfold,"['tenfold', 'denary', 'ten-fold']",High Fidelity
+chilly,"['chilli', 'chili', 'chilly', 'chili_pepper', 'parky', 'chile']",High Fidelity
+range,"['tramp', 'vagabond', 'reach', 'grasp', 'range_of_a_function', 'rove', 'wander', 'roll', 'chain', 'order', 'run', 'stray', 'array', 'range_of_mountains', 'image', 'set_out', 'browse', 'rank', 'drift', 'grade', 'chain_of_mountains', 'straddle', 'crop', 'place', 'ambit', 'swan', 'lay_out', 'kitchen_range', 'kitchen_stove', 'roam', 'cooking_stove', 'graze', 'mountain_chain', 'ramble', 'mountain_range', 'rate', 'orbit', 'compass', 'range', 'pasture', 'scope', 'stove', 'cast']",High Fidelity
+releases,"['issue', 'loose', 'release', 'expel', 'let_go_of', 'departure', 'expiration', 'loss', 'freeing', 'free', 'unloosen', 'relinquish', 'turn', 'give_up', 'dismission', 'spillage', 'exit', 'vent', 'eject', 'waiver', 'spill', 'resign', 'discharge', 'handout', 'exhaust', 'unfreeze', 'sacking', 'liberate', 'put_out', 'let_go', 'bring_out', 'publish', 'firing', 'unloose', 'button', 'outlet', 'press_release', 'acquittance', 'secrete', 'tone_ending', 'unblock', 'passing', 'dismissal', 'liberation', 'going', 'sack']",High Fidelity
+present,"['show', 'give', 'nowadays', 'stage', 'present_tense', 'demonstrate', 'introduce', 'deliver', 'acquaint', 'submit', 'represent', 'exhibit', 'confront', 'lay_out', 'portray', 'demo', 'pose', 'salute', 'award', 'present', 'face', 'gift']",High Fidelity
+know,"['lie_with', 'bang', 'recognize', 'have_it_off', 'sleep_together', 'acknowledge', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'recognise', 'bonk', 'cognize', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'love', 'cognise', 'live', 'get_it_on', 'know', 'experience', 'get_laid']",High Fidelity
+triumph,"['prevail', 'crow', 'wallow', 'gloat', 'exult', 'jubilate', 'exuberate', 'rejoice', 'victory', 'triumph']",High Fidelity
+distortion,"['deformation', 'straining', 'distortion', 'twisting', 'aberration', 'overrefinement', 'optical_aberration', 'distorted_shape', 'torture']",High Fidelity
+Music,"['music', 'euphony', 'medicine']",High Fidelity
+symphonic,"['symphonious', 'symphonic']",High Fidelity
+behavior,"['behavior', 'demeanour', 'deportment', 'behaviour', 'conduct', 'doings', 'demeanor']",High Fidelity
+total,"['total', 'number', 'summate', 'amount', 'aggregate', 'totality', 'tot', 'come', 'tote_up', 'tally', 'tot_up', 'add', 'add_up', 'full', 'entire', 'add_together', 'sum', 'sum_up']",High Fidelity
+texture,"['texture', 'grain']",High Fidelity
+successful,['successful'],High Fidelity
+lacking,"['missing', 'miss', 'absent', 'lack', 'lacking', 'wanting', 'deficient']",High Fidelity
+dimensions,"['dimension', 'proportion', 'property', 'attribute']",High Fidelity
+supply,"['furnish', 'ply', 'append', 'supply', 'issue', 'provide', 'render', 'add', 'provision', 'supplying', 'cater']",High Fidelity
+absence,"['absence_seizure', 'absence']",High Fidelity
+approaches,"['glide_path', 'access', 'approaching', 'set_about', 'feeler', 'approach_shot', 'go_up', 'approach', 'coming', 'draw_close', 'come_near', 'plan_of_attack', 'overture', 'glide_slope', 'near', 'approach_path', 'go_about', 'attack', 'draw_near', 'come_on', 'advance', 'border_on']",High Fidelity
+accompaniment,"['escort', 'musical_accompaniment', 'support', 'complement', 'concomitant', 'co-occurrence', 'accompaniment', 'backup', 'attendant']",High Fidelity
+processing,"['sue', 'processing', 'march', 'work_on', 'serve', 'litigate', 'work', 'treat', 'swear_out', 'action', 'process']",High Fidelity
+recording,"['record', 'tape', 'enter', 'show', 'commemorate', 'register', 'recording', 'immortalize', 'transcription', 'immortalise', 'put_down', 'memorialise', 'read', 'memorialize']",High Fidelity
+presence,"['presence', 'front', 'bearing', 'mien', 'comportment']",High Fidelity
+seems,"['appear', 'seem', 'look']",High Fidelity
+aurally,['aurally'],High Fidelity
+interpretations,"['interpretation', 'rendering', 'reading', 'version', 'rendition', 'interpreting']",High Fidelity
+eliminates,"['decimate', 'reject', 'eliminate', 'carry_off', 'rule_out', 'annihilate', 'winnow_out', 'excrete', 'egest', 'do_away_with', 'extinguish', 'wipe_out', 'pass', 'get_rid_of', 'eradicate', 'obviate', 'rid_of']",High Fidelity
+super-high,[],High Fidelity
+dual,"['threefold', 'treble', 'duple', 'three-fold', 'double', 'two-fold', 'dual', 'twofold']",High Fidelity
+new,"['freshly', 'fresh', 'novel', 'Modern', 'young', 'raw', 'New', 'unexampled', 'newly', 'newfangled', 'new']",High Fidelity
+incidental,"['sequent', 'incident', 'concomitant', 'resultant', 'consequent', 'accompanying', 'incidental_expense', 'nonessential', 'ensuant', 'minor_expense', 'attendant', 'incidental']",High Fidelity
+bursting,"['explode', 'bristle', 'bust', 'collapse', 'abound', 'split', 'burst', 'break', 'break_open', 'erupt']",High Fidelity
+impact,"['wallop', 'impact', 'encroachment', 'shock', 'affect', 'bear_upon', 'touch', 'touch_on', 'impingement', 'bear_on']",High Fidelity
+very,"['real', 'selfsame', 'really', 'very', 'rattling', 'identical']",High Fidelity
+superlatives,"['height', 'peak', 'superlative', 'tiptop', 'elevation', 'pinnacle', 'acme', 'summit', 'meridian', 'superlative_degree', 'top']",High Fidelity
+standard,"['standard', 'measure', 'touchstone', 'stock', 'criterion', 'monetary_standard', 'received', 'banner']",High Fidelity
+improvements,"['betterment', 'advance', 'improvement', 'melioration']",High Fidelity
+ideal,"['nonpareil', 'apotheosis', 'idealistic', 'ideal', 'nonsuch', 'paragon', 'saint', 'nonesuch']",High Fidelity
+enjoyment,"['delectation', 'use', 'enjoyment']",High Fidelity
+also,"['as_well', 'besides', 'likewise', 'too', 'also']",High Fidelity
+RCA,[],High Fidelity
+stereo,"['stereoscopic_photograph', 'stereophony', 'stereophonic', 'stereo_system', 'stereophonic_system', 'two-channel', 'stereoscopic_picture', 'stereo']",High Fidelity
+simultaneously,"['simultaneously', 'at_the_same_time']",High Fidelity
+interpretation,"['interpretation', 'rendering', 'reading', 'version', 'rendition', 'interpreting']",High Fidelity
+markings,"['grading', 'tick', 'distinguish', 'strike_off', 'marking', 'commemorate', 'strike_out', 'label', 'stigmatise', 'note', 'brand', 'scoring', 'marker', 'scar', 'mark', 'cross_off', 'grade', 'set', 'check', 'cross_out', 'differentiate', 'punctuate', 'tag', 'nock', 'denounce', 'pit', 'check_off', 'pock', 'score', 'tick_off', 'mark_off', 'notice', 'stigmatize']",High Fidelity
+deal,"['good_deal', 'dole_out', 'look_at', 'batch', 'care', 'bargain', 'treat', 'plenty', 'divvy_up', 'hatful', 'quite_a_little', 'sight', 'mess', 'consider', 'address', 'mickle', 'slew', 'trade', 'heap', 'wad', 'contend', 'deal_out', 'portion_out', 'business_deal', 'tidy_sum', 'make_out', 'administer', 'stack', 'deal', 'share', 'carry_on', 'spate', 'allot', 'lot', 'mass', 'great_deal', 'take', 'dispense', 'dish_out', 'handle', 'apportion', 'mint', 'mountain', 'flock', 'get_by', 'hand', 'sell', 'cope', 'grapple', 'mete_out', 'parcel_out', 'make_do', 'softwood', 'shell_out', 'pile', 'manage', 'muckle', 'cover', 'passel', 'raft', 'distribute', 'plow', 'conduct', 'pot', 'peck']",High Fidelity
+rehearing,"['relistening', 'rehearing', 'rehear', 'retry']",High Fidelity
+complexity,"['complexity', 'complexness']",High Fidelity
+;,[],High Fidelity
+perfectly,"['perfectly', 'utterly', 'absolutely', 'dead']",High Fidelity
+striking,"['outstanding', 'affect', 'take_up', 'impinge_on', 'move', 'come_upon', 'contact', 'coin', 'light_upon', 'hit', 'chance_upon', 'come_across', 'impinging', 'excise', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'spectacular', 'shine', 'attain', 'assume', 'hitting', 'striking', 'impress', 'take', 'salient', 'dramatic', 'come_to', 'mint', 'fall', 'strickle', 'happen_upon', 'prominent', 'discover', 'chance_on', 'scratch']",High Fidelity
+hard,"['intemperately', 'strong', 'voiceless', 'intemperate', 'difficult', 'operose', 'knockout', 'heavy', 'tough', 'heavily', 'punishing', 'firmly', 'severe', 'surd', 'backbreaking', 'grueling', 'hard', 'severely', 'arduous', 'gruelling', 'toilsome', 'concentrated', 'laborious', 'unvoiced']",High Fidelity
+Giselle,[],High Fidelity
+beauties,"['beaut', 'knockout', 'stunner', 'looker', 'dish', 'lulu', 'sweetheart', 'peach', 'mantrap', 'beauty', 'smasher', 'ravisher']",High Fidelity
+that,[],High Fidelity
+would,[],High Fidelity
+rustic,"['countryfied', 'unsophisticated', 'hick', 'countrified', 'agrestic', 'bumpkinly', 'rustic']",High Fidelity
+work,"['workplace', 'play', 'function', 'make', 'shape', 'influence', 'act', 'turn', 'mould', 'wreak', 'sour', 'exercise', 'lick', 'run', 'puzzle_out', 'work_on', 'study', 'exploit', 'crop', 'bring', 'go', 'mold', 'forge', 'solve', 'ferment', 'act_upon', 'knead', 'body_of_work', 'operate', 'work', 'oeuvre', 'do_work', 'form', 'put_to_work', 'make_for', 'employment', 'cultivate', 'piece_of_work', 'work_out', 'figure_out', 'process']",High Fidelity
+presents,"['show', 'give', 'nowadays', 'stage', 'present_tense', 'demonstrate', 'introduce', 'deliver', 'acquaint', 'submit', 'represent', 'exhibit', 'confront', 'lay_out', 'portray', 'demo', 'pose', 'salute', 'award', 'present', 'face', 'gift']",High Fidelity
+Octet,"['octette', 'eighter', 'octet', 'octonary', 'eight', '8', 'VIII', 'eighter_from_Decatur', 'eightsome', 'ogdoad', 'octad']",High Fidelity
+strongly,"['powerfully', 'strongly']",High Fidelity
+right,"['ripe', 'decently', 'mighty', 'rightfulness', 'veracious', 'flop', 'redress', 'right-hand', 'rightfield', 'decent', 'correctly', 'compensate', 'the_right_way', 'correct', 'rectify', 'in_good_order', 'right', 'right_wing', 'good', 'mightily', 'powerful', 'justly', 'right_hand', 'right_on', 'right_field', 'properly', 'proper', 'aright']",High Fidelity
+shock,"['daze', 'scandalize', 'traumatise', 'shock_absorber', 'blow_out_of_the_water', 'blow', 'seismic_disturbance', 'appal', 'floor', 'impact', 'outrage', 'cushion', 'jolt', 'electric_shock', 'take_aback', 'ball_over', 'scandalise', 'electrical_shock', 'offend', 'stupor', 'jar', 'shock', 'jounce', 'appall', 'traumatize']",High Fidelity
+tensionless,['tensionless'],High Fidelity
+degree,"['arcdegree', 'level', 'academic_degree', 'degree', 'point', 'stage', 'grade']",High Fidelity
+well,"['wellspring', 'good', 'advantageously', 'well', 'swell', 'easily', 'comfortably', 'fountainhead', 'substantially', 'considerably', 'intimately']",High Fidelity
+tolerable,"['passable', 'tolerable', 'adequate', 'fair_to_middling']",High Fidelity
+materials,"['material', 'fabric', 'cloth', 'stuff', 'textile']",High Fidelity
+status,"['position', 'condition', 'status']",High Fidelity
+--,[],High Fidelity
+wasted,"['scourge', 'skeletal', 'neutralize', 'desolate', 'bony', 'blow', 'lay_waste_to', 'squandered', 'neutralise', 'diminished', 'knock_off', 'languish', 'superfluous', 'devastate', 'consume', 'emaciate', 'haggard', 'pinched', 'pointless', 'do_in', 'purposeless', 'senseless', 'ware', 'otiose', 'emaciated', 'liquidate', 'cadaverous', 'pine_away', 'squander', 'waste', 'atrophied', 'wasted', 'ravage', 'macerate', 'run_off', 'gaunt', 'rot']",High Fidelity
+technical,"['expert', 'proficient', 'technological', 'technical_foul', 'technical']",High Fidelity
+live,"['survive', 'hold_out', 'subsist', 'dwell', 'lively', 'springy', 'be', 'live_on', 'alive', 'unrecorded', 'bouncy', 'go', 'last', 'hot', 'populate', 'endure', 'exist', 'inhabit', 'resilient', 'hold_up', 'live', 'know', 'experience']",High Fidelity
+Steinberg,"['Saul_Steinberg', 'Steinberg']",High Fidelity
+In,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",High Fidelity
+magnificence,"['richness', 'splendour', 'brilliance', 'grandeur', 'splendor', 'grandness', 'impressiveness', 'magnificence']",High Fidelity
+earsplitting,"['deafening', 'earsplitting', 'thunderous', 'thundery']",High Fidelity
+although,[],High Fidelity
+evening,"['eventide', 'level', 'eve', 'even_out', 'even', 'flush', 'evening']",High Fidelity
+Aeschbacher's,[],High Fidelity
+purported,"['purport', 'propose', 'purpose', 'aim']",High Fidelity
+forms,"['contour', 'pattern', 'soma', 'make', 'shape', 'phase', 'mannikin', 'physical_body', 'mannequin', 'configuration', 'build', 'class', 'manikin', 'descriptor', 'constitute', 'mould', 'kind', 'organise', 'human_body', 'anatomy', 'take_shape', 'frame', 'variety', 'grade', 'strain', 'mold', 'imprint', 'manakin', 'sort', 'chassis', 'spring', 'forge', 'flesh', 'cast', 'work', 'variant', 'signifier', 'conformation', 'var.', 'form', 'figure', 'organize', 'take_form', 'bod', 'course', 'word_form', 'material_body', 'physique']",High Fidelity
+between,"[""'tween"", 'between', 'betwixt']",High Fidelity
+splicing,"['wed', 'marry', 'splicing', 'splice', 'tie']",High Fidelity
+transfer,"['transfer', 'change', 'conveyance', 'transportation', 'remove', 'transference', 'carry-over', 'reassign', 'transmit', 'transfer_of_training', 'channelize', 'channelise', 'transferee', 'transferral', 'shift', 'channel', 'transport', 'transplant', 'transpose']",High Fidelity
+instruments,"['instrumentate', 'legal_instrument', 'legal_document', 'musical_instrument', 'instrumental_role', ""cat's-paw"", 'pawn', 'tool', 'official_document', 'instrument']",High Fidelity
+greatest,"['outstanding', 'greatest', 'majuscule', 'bully', 'groovy', 'not_bad', 'sterling', 'gravid', 'superlative', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",High Fidelity
+pianism,['pianism'],High Fidelity
+before,"['in_front', 'ahead', 'earlier', 'before']",High Fidelity
+release,"['issue', 'loose', 'release', 'expel', 'let_go_of', 'departure', 'expiration', 'loss', 'freeing', 'free', 'unloosen', 'relinquish', 'turn', 'give_up', 'dismission', 'spillage', 'exit', 'vent', 'eject', 'waiver', 'spill', 'resign', 'discharge', 'handout', 'exhaust', 'unfreeze', 'sacking', 'liberate', 'put_out', 'let_go', 'bring_out', 'publish', 'firing', 'unloose', 'button', 'outlet', 'press_release', 'acquittance', 'secrete', 'tone_ending', 'unblock', 'passing', 'dismissal', 'liberation', 'going', 'sack']",High Fidelity
+shop,"['shop_at', 'store', 'shop', 'patronise', 'betray', 'workshop', 'shop_class', 'rat', 'browse', 'grass', 'frequent', 'denounce', 'patronize', 'tell_on', 'shit', 'buy_at', 'sponsor', 'snitch', 'give_away', 'stag']",High Fidelity
+listened,"['take_heed', 'heed', 'mind', 'listen', 'hear']",High Fidelity
+claims,"['title', 'call', 'arrogate', 'lay_claim', 'take', 'exact', 'claim']",High Fidelity
+Menuhin-Amadeus,[],High Fidelity
+minimal,"['minimal', 'minimum']",High Fidelity
+greater,"['outstanding', 'majuscule', 'bully', 'groovy', 'not_bad', 'greater', 'gravid', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",High Fidelity
+pianistic,['pianistic'],High Fidelity
+clever,"['ingenious', 'apt', 'cunning', 'cagey', 'canny', 'cagy', 'clever']",High Fidelity
+Arts,"['humanities', 'humanistic_discipline', 'art', 'artistic_production', 'prowess', 'fine_art', 'artwork', 'liberal_arts', 'nontextual_matter', 'artistry', 'graphics', 'arts', 'artistic_creation']",High Fidelity
+considered,"['regard', 'moot', 'look_at', 'deliberate', 'debate', 'turn_over', 'considered', 'consider', 'study', 'reckon', 'conceive', 'deal', 'take', 'count', 'think', 'see', 'weigh', 'view', 'believe']",High Fidelity
+collection,"['collection', 'accumulation', 'assembling', 'aggregation', 'solicitation', 'compendium', 'appeal', 'assemblage', 'ingathering', 'collecting']",High Fidelity
+fidelity,"['fidelity', 'faithfulness']",High Fidelity
+engineers',[],High Fidelity
+classics,"['classic', 'classics']",High Fidelity
+dress,"['arrange', 'full-dress', 'plume', 'fit_out', 'do', 'groom', 'preen', 'attire', 'tog', 'lop', 'apparel', 'line_up', 'prune', 'primp', 'coif', 'dress', 'cut_back', 'habilitate', 'clothes', 'frock', 'decorate', 'set', 'dress_out', 'enclothe', 'crop', 'dress_up', 'garb', 'snip', 'clothe', 'coiffe', 'curry', 'garment', 'wearing_apparel', 'get_dressed', 'coiffure', 'trim', 'raiment', 'garnish', 'clip']",High Fidelity
+contribution,"['share', 'donation', 'part', 'contribution']",High Fidelity
+pinched,"['pinch', 'hook', 'penurious', 'skeletal', 'nobble', 'twinge', 'bony', 'penniless', 'lift', 'swipe', 'hard_up', 'haggard', 'pinched', 'impecunious', 'twitch', 'snarf', 'top', 'squeeze', 'nip', 'emaciated', 'purloin', 'cabbage', 'crimp', 'filch', 'abstract', 'nasal', 'cadaverous', 'adenoidal', 'in_straitened_circumstances', 'vellicate', 'pilfer', 'tweet', 'wasted', 'gaunt', 'sneak']",High Fidelity
+innovations,"['instauration', 'design', 'conception', 'founding', 'excogitation', 'initiation', 'institution', 'origination', 'innovation', 'creation', 'invention', 'foundation', 'introduction']",High Fidelity
+we,[],High Fidelity
+may,"['English_hawthorn', 'Crataegus_oxycantha', 'May', 'Crataegus_laevigata', 'may', 'whitethorn']",High Fidelity
+better,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'bettor', 'respectable', 'considerably', 'in_effect', 'sound', 'better', 'intimately', 'estimable', 'meliorate', 'amend', 'proficient', 'skillful', 'wagerer', 'secure', 'dependable', 'ameliorate', 'practiced', 'dear', 'near', 'beneficial', 'best', 'punter', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'effective', 'unspoiled', 'substantially', 'break', 'improve', 'honorable', 'safe']",High Fidelity
+This,[],High Fidelity
+records,"['show', 'commemorate', 'criminal_record', 'track_record', 'record', 'platter', 'book', 'disc', 'disk', 'register', 'memorialise', 'enter', 'immortalize', 'put_down', 'record_book', 'read', 'tape', 'phonograph_record', 'immortalise', 'phonograph_recording', 'memorialize']",High Fidelity
+orchestration,"['instrumentation', 'orchestration']",High Fidelity
+allowed,"['grant', 'admit', 'let', 'tolerate', 'provide', 'leave', 'set_aside', 'countenance', 'appropriate', 'take_into_account', 'reserve', 'allow_for', 'permit', 'give_up', 'earmark', 'allow']",High Fidelity
+when,[],High Fidelity
+edgy,"['overstrung', 'jumpy', 'uptight', 'highly_strung', 'nervy', 'restive', 'high-strung', 'jittery', 'edgy']",High Fidelity
+consciousness,"['knowingness', 'awareness', 'cognisance', 'consciousness', 'cognizance']",High Fidelity
+settings,"['place_setting', 'background', 'mount', 'mise_en_scene', 'stage_setting', 'context', 'setting', 'scope', 'scene', 'circumstance']",High Fidelity
+Muck's,[],High Fidelity
+twenty-five-year-old,[],High Fidelity
+support,"['sustenance', 'musical_accompaniment', 'plump_for', 'keep_going', 'confirm', 'accompaniment', 'financial_backing', 'suffer', 'patronise', 'bread_and_butter', 'digest', 'plunk_for', 'living', 'supporting', 'bear_out', 'funding', 'subscribe', 'patronage', 'livelihood', 'affirm', 'put_up', 'back_up', 'keep', 'hold', 'endure', 'documentation', 'stomach', 'stand', 'corroborate', 'financial_support', 'patronize', 'brook', 'substantiate', 'bear', 'backing', 'reinforcement', 'indorse', 'stick_out', 'support', 'sustain', 'defend', 'tolerate', 'fend_for', 'underpin', 'reenforcement', 'abide', 'backup', 'endorse', 'hold_up', 'back']",High Fidelity
+melodramatic,"['histrionic', 'melodramatic']",High Fidelity
+Angel,"['saint', 'Angel', 'Angel_Falls', 'angel', 'backer', 'holy_man', 'holy_person']",High Fidelity
+piece,"['spell', 'composition', 'part', 'opus', 'bit', 'nibble', 'tack_together', 'piece_of_music', 'patch', 'set_up', ""objet_d'art"", 'man', 'musical_composition', 'pick', 'tack', 'slice', 'firearm', 'assemble', 'art_object', 'piece', 'small-arm', 'while', 'put_together']",High Fidelity
+1961,[],High Fidelity
+abridgment,"['abridgment', 'capsule', 'condensation', 'abridgement']",High Fidelity
+four-sided,"['four-sided', 'quadrilateral']",High Fidelity
+Your,[],High Fidelity
+with,[],High Fidelity
+perspective,"['position', 'perspective', 'linear_perspective', 'view']",High Fidelity
+Other,"['other', 'early', 'former']",High Fidelity
+tone,"['feel', 'step', 'tone', 'look', 'intone', 'tone_of_voice', 'whole_step', 'timbre', 'modulate', 'note', 'flavor', 'tincture', 'smell', 'feeling', 'tint', 'shade', 'timber', 'chant', 'strengthen', 'tonus', 'musical_note', 'inflect', 'pure_tone', 'quality', 'tone_up', 'flavour', 'spirit', 'whole_tone', 'tonicity']",High Fidelity
+Frank,"['outspoken', 'Frank', 'weenie', 'blunt', 'hotdog', 'point-blank', 'forthright', 'dog', 'wiener', 'free-spoken', 'plainspoken', 'straight-from-the-shoulder', 'wienerwurst', 'hot_dog', 'frank', 'frankfurter', 'candid', 'postmark']",High Fidelity
+fine,"['finely', 'mulct', 'fine', 'all_right', 'o.k.', 'hunky-dory', 'alright', 'very_well', 'delicately', 'ticket', 'okay', 'amercement', 'OK', 'exquisitely', 'ok']",High Fidelity
+directly,"['now', 'forthwith', 'directly', 'flat', 'immediately', 'straight_off', 'right_away', 'straightaway', 'like_a_shot', 'direct', 'straight', 'instantly', 'at_once']",High Fidelity
+Century,"['one_C', 'C', 'hundred', '100', 'century']",High Fidelity
+social,"['mixer', 'social', 'societal', 'sociable']",High Fidelity
+aware,"['mindful', 'cognizant', 'aware', 'cognisant']",High Fidelity
+penultimate,"['penultima', 'penultimate', 'next-to-last', 'penult']",High Fidelity
+recent,"['Holocene_epoch', 'late', 'Holocene', 'Recent_epoch', 'recent', 'Recent']",High Fidelity
+creation,"['instauration', 'conception', 'founding', 'macrocosm', 'initiation', 'institution', 'universe', 'creative_activity', 'creation', 'origination', 'innovation', 'existence', 'Creation', 'world', 'cosmos', 'foundation', 'introduction']",High Fidelity
+not,"['not', 'non']",High Fidelity
+achieved,"['accomplish', 'achieve', 'attain', 'reach']",High Fidelity
+divertimento,"['serenade', 'divertimento']",High Fidelity
+SD,"['South_Dakota', 'Coyote_State', 'SD', 'Mount_Rushmore_State']",High Fidelity
+production,"['production', 'yield', 'product', 'output']",High Fidelity
+dressed,"['arrange', 'plume', 'dressed-up', 'fit_out', 'do', 'groom', 'dolled_up', 'preen', 'tog', 'lop', 'dressed', 'spiffed_up', 'apparel', 'line_up', 'prune', 'primp', 'coif', 'dress', 'cut_back', 'habilitate', 'habilimented', 'decorate', 'set', 'dress_out', 'robed', 'enclothe', 'crop', 'appareled', 'dress_up', 'dressed_to_kill', 'dressed_to_the_nines', 'garb', 'snip', 'attired', 'clothe', 'coiffe', 'togged_up', 'curry', 'garment', 'polished', 'get_dressed', 'spruced_up', 'coiffure', 'trim', 'raiment', 'garnish', 'garmented', 'clip', 'garbed']",High Fidelity
+piano,"['soft', 'forte-piano', 'pianissimo', 'softly', 'pianoforte', 'piano']",High Fidelity
+sound,"['speech_sound', 'audio', 'reasoned', 'levelheaded', 'sound', 'vocalize', 'intelligent', 'legal', 'phone', 'strait', 'heavy', 'voice', 'go', 'wakeless', 'effectual', 'well-grounded', 'fathom', 'good', 'auditory_sensation', 'healthy', 'level-headed', 'profound', 'vocalise']",High Fidelity
+truly,"['sincerely', 'truly', 'really', 'unfeignedly', 'rightfully', 'in_truth', 'genuinely']",High Fidelity
+Why,"['why', 'wherefore']",High Fidelity
+Babin,[],High Fidelity
+sides,"['English', 'side_of_meat', 'slope', 'position', 'face', 'side', 'incline']",High Fidelity
+listening,"['take_heed', 'heed', 'mind', 'listen', 'listening', 'hear', 'hearing']",High Fidelity
+here,"['here', 'Hera', 'hither', 'Here']",High Fidelity
+About,"['about', 'more_or_less', 'astir', 'just_about', 'well-nigh', 'around', 'almost', 'virtually', 'nigh', 'or_so', 'nearly', 'most', 'close_to', 'near', 'approximately', 'roughly', 'some']",High Fidelity
+difference,"['remainder', 'difference_of_opinion', 'dispute', 'conflict', 'departure', 'divergence', 'difference', 'deviation']",High Fidelity
+factors,"['element', 'gene', 'cistron', 'constituent', 'factor_out', 'component', 'broker', 'factor_in', 'divisor', 'factor', 'ingredient', 'agent']",High Fidelity
+often,"['often', 'oftentimes', 'a_great_deal', 'oft', 'ofttimes', 'much', 'frequently']",High Fidelity
+the,[],High Fidelity
+Let,"['Army_of_the_Righteous', 'let', 'get', 'Lashkar-e-Tayyiba', 'have', 'countenance', 'Army_of_the_Pure', 'lease', 'net_ball', 'allow', 'LET', 'Lashkar-e-Toiba', 'permit', 'rent', 'Lashkar-e-Taiba']",High Fidelity
+Like,"['same', 'similar', 'the_likes_of', 'comparable', 'the_like', 'care', 'ilk', 'like', 'alike', 'corresponding', 'wish']",High Fidelity
+word,"['give_voice', 'Bible', 'phrase', 'give-and-take', 'word_of_honor', 'discussion', 'Christian_Bible', 'Holy_Writ', 'Word', 'Logos', 'watchword', 'tidings', 'news', 'parole', 'password', 'word', 'Son', 'intelligence', 'countersign', 'Word_of_God', 'Scripture', 'Book', 'Holy_Scripture', 'formulate', 'articulate', 'Good_Book']",High Fidelity
+Viennese,['Viennese'],High Fidelity
+power,"['might', 'superpower', 'king', 'ability', 'index', 'powerfulness', 'big_businessman', 'magnate', 'power', 'office', 'top_executive', 'business_leader', 'great_power', 'tycoon', 'mightiness', 'major_power', 'world_power', 'force', 'baron', 'exponent', 'mogul']",High Fidelity
+New,"['freshly', 'fresh', 'novel', 'Modern', 'young', 'raw', 'New', 'unexampled', 'newly', 'newfangled', 'new']",High Fidelity
+return,"['take_back', 'rejoinder', 'payoff', 'give', 'restitution', 'issue', 'restoration', 'refund', 'recurrence', 'revert', 'takings', 'proceeds', 'give_back', 'tax_return', 'counter', 'comeback', 'retrovert', 'pass', 'coming_back', 'generate', 'return_key', 'reelect', 'replication', 'yield', 'deliver', 'retort', 'turn_back', 'homecoming', 'regaining', 'riposte', 'take', 'return', 'hark_back', 'rejoin', 'come_back', 'devolve', 'bring_back', 'getting_even', 'fall', 'regress', 'paying_back', 'render', 'recall', 'income_tax_return', 'repay', 'reappearance']",High Fidelity
+Bayreuth,[],High Fidelity
+pacing,"['step', 'pacing', 'pace', 'tempo']",High Fidelity
+majority,"['bulk', 'legal_age', 'absolute_majority', 'majority']",High Fidelity
+exact,"['accurate', 'demand', 'precise', 'take', 'exact', 'claim']",High Fidelity
+associated,"['relate', 'affiliate', 'associate', 'link', 'consort', 'consociate', 'assort', 'link_up', 'connect', 'colligate', 'tie_in']",High Fidelity
+spaciousness,"['spaciousness', 'roominess', 'commodiousness', 'capaciousness']",High Fidelity
+editions,"['variant', 'variation', 'version', 'edition']",High Fidelity
+indulgent,"['soft', 'indulgent', 'lenient']",High Fidelity
+re-creation,['re-creation'],High Fidelity
+listeners,"['listener', 'attender', 'auditor', 'hearer']",High Fidelity
+element,"['element', 'chemical_element', 'constituent', 'component', 'factor', 'ingredient']",High Fidelity
+quality,"['timber', 'tone', 'quality', 'caliber', 'prize', 'calibre', 'prime', 'select', 'timbre', 'lineament', 'choice', 'character']",High Fidelity
+engineering,"['engine_room', 'engineering', 'engineer', 'organize', 'technology', 'organise', 'direct', 'applied_science', 'mastermind', 'engineering_science', 'orchestrate']",High Fidelity
+gives,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'spring', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'springiness', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",High Fidelity
+competitors,"['contender', 'challenger', 'rival', 'competitor', 'competition']",High Fidelity
+reissue,"['reprint', 'reprinting', 'reissue']",High Fidelity
+firm,"['strong', 'house', 'loyal', 'unwaveringly', 'fast', 'stiff', 'truehearted', 'firmly', 'tauten', 'unfaltering', 'steadfast', 'immobile', 'steady', 'unfluctuating', 'solid', 'steadfastly', 'unbendable', 'unwavering', 'firm', 'business_firm', 'unshakable']",High Fidelity
+provides,"['ply', 'furnish', 'put_up', 'supply', 'provide', 'render', 'leave', 'bring_home_the_bacon', 'cater', 'allow_for', 'offer', 'allow']",High Fidelity
+Vienna,"['Vienna', 'Austrian_capital', 'capital_of_Austria']",High Fidelity
+big-stage,[],High Fidelity
+break,"['infract', 'bankrupt', 'die', 'breakage', 'wear_out', 'recess', 'better', 'give_out', 'unwrap', 'falling_out', 'open_frame', 'divulge', 'breach', 'break_dance', 'offend', 'pause', 'fault', 'transgress', 'suspension', 'discontinue', 'damp', 'time_out', 'recrudesce', 'dampen', 'part', 'snap_off', 'collapse', 'fall_in', 'wear', 'crack', 'gaolbreak', 'interrupt', 'rupture', 'break-dance', 'go_bad', 'soften', 'interruption', 'weaken', 'shift', 'conk_out', 'relegate', 'break', 'break_away', 'give_way', 'bring_out', 'violate', 'founder', 'let_on', 'give', 'get_around', 'break_out', 'erupt', 'demote', 'let_out', 'break_of_serve', 'gap', 'split_up', 'fall_apart', 'split', 'ruin', 'kick_downstairs', 'go', 'fracture', 'jailbreak', 'go_against', 'break_off', 'geological_fault', 'rift', 'intermission', 'disclose', 'disruption', 'discover', 'give_away', 'expose', 'good_luck', 'bump', 'develop', 'faulting', 'break_down', 'break_up', 'burst', 'prison-breaking', 'stop', 'severance', 'breaking', 'break_in', 'cave_in', 'come_apart', 'respite', 'happy_chance', 'prisonbreak', 'check', 'get_out', 'reveal', 'separate', 'intermit', 'smash', 'fail', 'bust', 'breakout']",High Fidelity
+has,"['get', 'give', 'make', 'suffer', 'HA', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hour_angle', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",High Fidelity
+continuity,"['continuity', 'persistence']",High Fidelity
+keyboard,['keyboard'],High Fidelity
+like,"['same', 'similar', 'the_likes_of', 'comparable', 'the_like', 'care', 'ilk', 'like', 'alike', 'corresponding', 'wish']",High Fidelity
+Aj,[],High Fidelity
+concluded,"['reason_out', 'conclude', 'all_over', 'complete', 'terminated', 'reason', 'resolve', 'ended', 'concluded', 'close', 'over']",High Fidelity
+original,"['master_copy', 'archetype', 'pilot', 'master', 'original']",High Fidelity
+All,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",High Fidelity
+Those,[],High Fidelity
+complete,"['gross', 'complete', 'utter', 'fill_in', 'arrant', 'unadulterated', 'over', 'fill_out', 'double-dyed', 'accomplished', 'make_out', 'terminated', 'discharge', 'consummate', 'stark', 'finish', 'pure', 'perfect', 'ended', 'dispatch', 'all_over', 'staring', 'thoroughgoing', 'sodding', 'everlasting', 'concluded', 'nail']",High Fidelity
+did,"['arrange', 'make', 'do', 'act', 'behave', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'answer', 'practice', 'set', 'make_out', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'coiffure', 'cause', 'come', 'manage', 'fare']",High Fidelity
+highs,"['high_school', 'high', 'highschool', 'senior_high', 'high_gear', 'heights', 'senior_high_school']",High Fidelity
+faithful,"['fold', 'close', 'congregation', 'faithful']",High Fidelity
+vein,"['venous_blood_vessel', 'vein', 'nervure', 'mineral_vein', 'vena']",High Fidelity
+each,"['apiece', 'each', 'for_each_one', 'to_each_one', 'from_each_one']",High Fidelity
+compliments,"['regard', 'congratulate', 'compliment', 'compliments', 'wish']",High Fidelity
+Moreover,"['moreover', 'furthermore', 'what_is_more']",High Fidelity
+athletic,"['acrobatic', 'gymnastic', 'athletic']",High Fidelity
+overpowered,"['sweep_over', 'overpower', 'overtake', 'whelm', 'overwhelm', 'overmaster', 'overcome']",High Fidelity
+either,['either'],High Fidelity
+him,[],High Fidelity
+",",[],High Fidelity
+$2.98,[],High Fidelity
+created,"['create', 'produce', 'make']",High Fidelity
+equipment,['equipment'],High Fidelity
+bass,"['deep', 'bass', 'basso', 'freshwater_bass', 'bass_voice', 'bass_part', 'sea_bass']",High Fidelity
+basis,"['ground', 'groundwork', 'basis', 'footing', 'base', 'cornerstone', 'fundament', 'foundation']",High Fidelity
+invites,"['take_in', 'ask_for', 'ask_in', 'receive', 'invite', 'bid', 'pay_for', 'ask_round', 'ask_over', 'tempt', 'call_for']",High Fidelity
+Schnabelian,[],High Fidelity
+gap,"['crack', 'col', 'opening', 'breach', 'spread', 'interruption', 'gap', 'disruption', 'break']",High Fidelity
+consideration,"['considerateness', 'thoughtfulness', 'retainer', 'condition', 'consideration', 'circumstance']",High Fidelity
+given,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'granted', 'given', 'pass', 'open', 'generate', 'devote', 'yield', 'disposed', 'contribute', 'pay', 'hold', 'move_over', 'presumption', 'minded', 'return', 'feed', 'establish', 'dedicate', 'precondition', 'afford', 'hand', 'throw', 'impart', 'apt', 'commit', 'render', 'apply', 'founder', 'tending', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",High Fidelity
+sense,"['feel', 'smell', 'smell_out', 'good_sense', 'sentience', 'common_sense', 'sentiency', 'horse_sense', 'mother_wit', 'sense', 'sensation', 'signified', 'gumption', 'sensory_faculty']",High Fidelity
+effects,"['outcome', 'impression', 'issue', 'gist', 'effectuate', 'essence', 'set_up', 'consequence', 'personal_effects', 'effects', 'burden', 'core', 'force', 'result', 'upshot', 'event', 'effect']",High Fidelity
+adds,"['total', 'supply', 'minimal_brain_damage', 'ADHD', 'lend', 'summate', 'MBD', 'tot', 'tally', 'sum_up', 'bring', 'contribute', 'add', 'add_up', 'minimal_brain_dysfunction', 'add_together', 'attention_deficit_disorder', 'hyperkinetic_syndrome', 'append', 'ADD', 'bestow', 'impart', 'attention_deficit_hyperactivity_disorder', 'tote_up', 'tot_up', 'sum']",High Fidelity
+great,"['outstanding', 'majuscule', 'bully', 'groovy', 'not_bad', 'gravid', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",High Fidelity
+Command's,[],High Fidelity
+suave,"['debonair', 'debonnaire', 'debonaire', 'smooth', 'suave', 'politic', 'bland']",High Fidelity
+obviously,"['apparently', 'patently', 'manifestly', 'evidently', 'plainly', 'obviously', 'plain']",High Fidelity
+non,"['not', 'non']",High Fidelity
+beautifully,"['beautifully', 'attractively']",High Fidelity
+peaky,"['spiky', 'peaky']",High Fidelity
+LP,"['L-P', 'LP']",High Fidelity
+reproduce,"['reproduce', 'multiply', 'procreate', 'regurgitate']",High Fidelity
+swoops,"['swoop', 'slide', 'swoop_up', 'pounce']",High Fidelity
+throughout,"['passim', 'throughout', 'end-to-end']",High Fidelity
+makes,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'brand', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'shuffle', 'induce', 'relieve_oneself', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'shuffling', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",High Fidelity
+most,"['to_the_highest_degree', 'about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",High Fidelity
+delicacy,"['discretion', 'discreetness', 'kickshaw', 'finesse', 'slightness', 'fragility', 'diplomacy', 'goody', 'dainty', 'daintiness', 'airiness', 'delicacy', 'fineness', 'treat']",High Fidelity
+than,[],High Fidelity
+types,"['typewrite', 'typecast', 'character', 'type', 'eccentric', 'case']",High Fidelity
+I'm,[],High Fidelity
+Adrian,"['Adrian', 'Baron_Adrian', 'Edgar_Douglas_Adrian', 'Publius_Aelius_Hadrianus', 'Hadrian']",High Fidelity
+ensemble,"['ensemble', 'corps_de_ballet', 'supporting_players', 'tout_ensemble']",High Fidelity
+say,"['say', 'order', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'state', 'enjoin', 'read', 'articulate']",High Fidelity
+faithfully,"['reliably', 'dependably', 'faithfully']",High Fidelity
+intrudes,"['intrude', 'horn_in', 'poke', 'trespass', 'obtrude', 'pry', 'irrupt', 'nose']",High Fidelity
+easiest,"['promiscuous', 'sluttish', 'leisurely', 'well-situated', 'well-off', 'soft', 'gentle', 'loose', 'well-heeled', 'wanton', 'well-fixed', 'light', 'easygoing', 'prosperous', 'easy', 'comfortable', 'well-to-do']",High Fidelity
+literally,['literally'],High Fidelity
+back,"['plump_for', 'second', 'dorsum', 'backwards', 'book_binding', 'plunk_for', 'backbone', 'bet_on', 'backrest', 'spinal_column', 'rearwards', 'gage', 'backward', 'binding', 'back_up', 'hinder', 'rearward', 'punt', 'rear', 'stake', 'indorse', 'support', 'rachis', 'hind', 'game', 'spine', 'cover', 'endorse', 'back', 'vertebral_column']",High Fidelity
+musicians,"['musician', 'instrumentalist', 'player']",High Fidelity
+pleasantly,"['cheerily', 'agreeably', 'enjoyably', 'sunnily', 'pleasantly']",High Fidelity
+copies,"['copy', 'written_matter', 'transcript', 'simulate', 're-create', 'replicate', 'imitate']",High Fidelity
+feel,"['feel', 'smell', 'tone', 'feeling', 'look', 'flavour', 'palpate', 'spirit', 'find', 'sense', 'tactile_property', 'flavor', 'experience', 'finger']",High Fidelity
+brute,"['brutish', 'brute', 'wolf', 'animate_being', 'animal', 'creature', 'beastly', 'savage', 'brutal', 'wildcat', 'bestial', 'beast', 'fauna']",High Fidelity
+which,[],High Fidelity
+scrawny,"['scraggy', 'underweight', 'weedy', 'scrawny', 'stunted', 'skinny', 'scrubby', 'boney']",High Fidelity
+am,"['Am', 'Master_of_Arts', 'amplitude_modulation', 'Artium_Magister', 'constitute', 'embody', 'be', 'comprise', 'represent', 'follow', 'americium', 'exist', 'MA', 'make_up', 'AM', 'personify', 'equal', 'cost', 'atomic_number_95', 'live']",High Fidelity
+Any,"['whatsoever', 'whatever', 'any']",High Fidelity
+Certain,"['certain', 'sealed', 'sure']",High Fidelity
+Real,"['existent', 'real', 'literal', 'material', 'really', 'very', 'substantial', 'genuine', 'actual', 'real_number', 'rattling', 'tangible', 'veridical']",High Fidelity
+commentary,"['comment', 'commentary']",High Fidelity
+modern,"['modern', 'modern_font', 'forward-looking', 'Modern', 'innovative', 'mod', 'Bodoni_font', 'advanced', 'New', 'Bodoni', 'modernistic']",High Fidelity
+alteration,"['revision', 'modification', 'alteration', 'adjustment', 'change']",High Fidelity
+tests,"['try_out', 'prove', 'exam', 'psychometric_test', 'run', 'essay', 'quiz', 'mental_test', 'test', 'try', 'tryout', 'examination', 'examine', 'mental_testing', 'trial_run', 'trial', 'screen']",High Fidelity
+London,"['Jack_London', 'British_capital', 'London', 'John_Griffith_Chaney', 'capital_of_the_United_Kingdom', 'Greater_London']",High Fidelity
+excitement,"['excitation', 'upheaval', 'inflammation', 'excitement', 'fervor', 'fervour', 'exhilaration', 'hullabaloo', 'turmoil', 'agitation']",High Fidelity
+attention,"['attending', 'aid', 'care', 'attention', 'tending']",High Fidelity
+open,"['unfold', 'assailable', 'give', 'loose', 'overt', 'exposed', 'out-of-doors', 'open', 'undefendable', 'subject', 'clear', 'open_air', 'receptive', 'heart-to-heart', 'opened', 'undefended', 'open_up', 'outdoors', 'afford', 'candid', 'spread_out', 'capable', 'spread', 'undecided', 'surface', 'unfastened', 'unresolved', 'undetermined']",High Fidelity
+however,"['nevertheless', 'withal', 'even_so', 'notwithstanding', 'still', 'all_the_same', 'however', 'nonetheless', 'yet']",High Fidelity
+such,['such'],High Fidelity
+Here,"['here', 'Hera', 'hither', 'Here']",High Fidelity
+reproduces,"['reproduce', 'multiply', 'procreate', 'regurgitate']",High Fidelity
+regularly,"['regularly', 'on_a_regular_basis']",High Fidelity
+collaborate,"['cooperate', 'collaborate', 'join_forces', 'get_together']",High Fidelity
+closer,"['closemouthed', 'close-fitting', 'airless', 'faithful', 'nigh', 'closelipped', 'close', 'stuffy', 'closer', 'snug', 'cheeseparing', 'unaired', 'secretive', 'near', 'nearer', 'tightlipped', 'confining', 'tight', 'finisher', 'nigher', 'penny-pinching', 'skinny']",High Fidelity
+document,"['papers', 'written_document', 'document', 'text_file']",High Fidelity
+you,[],High Fidelity
+Hephzibah,[],High Fidelity
+Concert-Disc,[],High Fidelity
+contributing,"['contributory', 'bring', 'contribute', 'bestow', 'chip_in', 'impart', 'give', 'put_up', 'contributing', 'contributive', 'tributary', 'conduce', 'conducive', 'add', 'lead', 'kick_in', 'lend']",High Fidelity
+From,[],High Fidelity
+generally,"['loosely', 'more_often_than_not', 'generally', 'in_the_main', 'by_and_large', 'broadly_speaking', 'in_general', 'broadly', 'mostly']",High Fidelity
+frequency,"['frequence', 'absolute_frequency', 'frequency', 'oftenness', 'relative_frequency']",High Fidelity
+For,[],High Fidelity
+fascination,"['enchantment', 'captivation', 'fascination', 'enthrallment']",High Fidelity
+Konzerthaus,[],High Fidelity
+doctored,"['sophisticate', 'repair', 'bushel', 'touch_on', 'furbish_up', 'mend', 'doctor_up', 'fix', 'doctor', 'restore']",High Fidelity
+away,"['aside', 'forth', 'out', 'off', 'away', 'outside', 'by']",High Fidelity
+clicks,"['sink_in', 'clack', 'tick', 'dog', 'click', 'cluck', 'chatter', 'suction_stop', 'flick', 'clink', 'get_through', 'dawn', 'snap', 'mouse_click', 'get_across', 'come_home', 'penetrate', 'fall_into_place', 'detent', 'chink', 'pawl']",High Fidelity
+Recently,"['of_late', 'recently', 'latterly', 'late', 'lately']",High Fidelity
+for,[],High Fidelity
+tempos,"['pacing', 'pace', 'tempo']",High Fidelity
+describe,"['report', 'distinguish', 'line', 'identify', 'account', 'key', 'depict', 'draw', 'delineate', 'discover', 'key_out', 'describe', 'trace', 'name']",High Fidelity
+lack,"['miss', 'deficiency', 'lack', 'want']",High Fidelity
+score,"['hit', 'musical_score', 'score', 'grudge', 'account', 'seduce', 'scotch', 'tally', 'nock', 'make', 'mark', 'rack_up', 'grade', 'sexual_conquest', 'grievance']",High Fidelity
+obvious,['obvious'],High Fidelity
+survived,"['go', 'last', 'endure', 'pull_round', 'come_through', 'exist', 'live_on', 'survive', 'hold_up', 'hold_out', 'outlive', 'make_it', 'live', 'outlast', 'pull_through', 'subsist']",High Fidelity
+fewer,"['few', 'fewer']",High Fidelity
+less,"['to_a_lesser_extent', 'LE', 'less', 'lupus_erythematosus']",High Fidelity
+horrid,"['hideous', 'horrid', 'horrific', 'outrageous']",High Fidelity
+me,"['Pine_Tree_State', 'ME', 'Maine']",High Fidelity
+sophisticated,"['sophisticate', 'twist_around', 'pervert', 'sophisticated', 'doctor_up', 'convolute', 'twist', 'advanced', 'doctor']",High Fidelity
+musical,"['melodic', 'melodious', 'musical', 'musical_comedy', 'musical_theater']",High Fidelity
+exciting,"['shake_up', 'sex', 'exciting', 'charge', 'stir', 'rouse', 'shake', 'turn_on', 'commove', 'charge_up', 'energise', 'energize', 'arouse', 'wind_up', 'agitate', 'excite', 'stimulate']",High Fidelity
+into,[],High Fidelity
+rather,"['rather', 'quite', 'preferably', 'sooner', 'kind_of', 'kinda', 'sort_of', 'instead']",High Fidelity
+Forellen,[],High Fidelity
+cases,"['typeface', 'pillow_slip', 'encase', 'caseful', 'example', 'display_case', 'instance', 'sheath', 'event', ""typesetter's_case"", 'showcase', 'subject', 'grammatical_case', ""compositor's_case"", 'casing', 'slip', 'vitrine', 'type', 'incase', 'eccentric', 'lawsuit', 'case', 'suit', 'pillowcase', 'causa', 'cause', 'shell', 'font', 'fount', 'face', 'guinea_pig', 'character']",High Fidelity
+suspect,"['suspicious', 'funny', 'suspect', 'mistrust', 'surmise', 'fishy', 'distrust', 'defendant', 'shady']",High Fidelity
+attempts,"['seek', 'effort', 'essay', 'set_about', 'endeavour', 'try', 'undertake', 'endeavor', 'attempt', 'attack', 'assay']",High Fidelity
+my,[],High Fidelity
+pulse,"['impulse', 'pulse_rate', 'beat', 'pulsing', 'heartbeat', 'pulsation', 'pulsate', 'pulse', 'throb', 'heart_rate']",High Fidelity
+humor,"['sense_of_humour', 'liquid_body_substance', 'wit', 'bodily_fluid', 'witticism', 'body_fluid', 'humor', 'sense_of_humor', 'mood', 'humour', 'wittiness', 'temper']",High Fidelity
+find,"['feel', 'come_up', 'breakthrough', 'get', 'bump', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'line_up', 'chance', 'retrieve', 'determine', 'obtain', 'observe', 'happen', 'uncovering', 'receive', 'regain', 'discovery', 'detect', 'see', 'find_oneself', 'incur', 'notice', 'get_hold', 'encounter', 'discover']",High Fidelity
+so,"['then', 'sol', 'thus', 'indeed', 'and_so', 'so', 'and_then', 'soh', 'hence', 'therefore', 'thence', 'thusly']",High Fidelity
+Deutsche,[],High Fidelity
+1958,[],High Fidelity
+unimaginative,"['sterile', 'stereotyped', 'stereotypic', 'stereotypical', 'uninspired', 'unimaginative', 'uninventive']",High Fidelity
+flavor,"['feel', 'smell', 'nip', 'tone', 'tang', 'season', 'feeling', 'look', 'flavour', 'savour', 'sapidity', 'relish', 'spirit', 'smack', 'savor', 'flavor']",High Fidelity
+circulation,['circulation'],High Fidelity
+assai,[],High Fidelity
+discounting,"['brush_aside', 'brush_off', 'disregard', 'discount', 'push_aside', 'dismiss', 'ignore']",High Fidelity
+apparent,"['patent', 'evident', 'apparent', 'manifest', 'seeming', 'unmistakable', 'ostensible', 'plain']",High Fidelity
+pleasant,['pleasant'],High Fidelity
+dynamic,"['moral_force', 'dynamic', 'dynamical', 'active']",High Fidelity
+theatre,"['dramatics', 'dramaturgy', 'theatre', 'theater', 'dramatic_art', 'theater_of_operations', 'house', 'theatre_of_operations', 'field', 'field_of_operations']",High Fidelity
+or,"['OR', 'Beaver_State', 'operating_theatre', 'surgery', 'Oregon', 'operating_theater', 'operating_room']",High Fidelity
+maintained,"['wield', 'defend', 'sustain', 'keep_up', 'kept_up', 'maintained', 'keep', 'hold', 'exert', 'retained', 'maintain', 'uphold', 'observe', 'preserve', 'conserve', 'assert', 'asseverate', 'well-kept']",High Fidelity
+elemental,"['primary', 'elementary', 'elemental']",High Fidelity
+us,"['America', 'U.S.', 'the_States', 'U', 'U.S.A.', 'u', 'US', 'uranium', 'United_States', 'USA', 'uracil', 'United_States_of_America', 'atomic_number_92']",High Fidelity
+imperfect,"['frail', 'progressive_tense', 'continuous_tense', 'progressive', 'imperfect_tense', 'fallible', 'imperfect', 'weak']",High Fidelity
+sings,"['tattle', 'whistle', 'blab', 'sing', 'talk', 'spill_the_beans', 'babble', 'peach', 'babble_out', 'blab_out', 'let_the_cat_out_of_the_bag']",High Fidelity
+this,[],High Fidelity
+sparkling,"['scintillation', 'sparkle', 'fizz', 'effervesce', 'scintillate', 'effervescent', 'twinkle', 'froth', 'spark', 'form_bubbles', 'coruscate', 'sparkling', 'foam']",High Fidelity
+itself,[],High Fidelity
+hall,"['hallway', 'Radclyffe_Hall', 'residence_hall', 'Granville_Stanley_Hall', 'foyer', 'manor_hall', 'dorm', 'Charles_Martin_Hall', 'manse', 'entrance_hall', 'lobby', 'vestibule', 'Marguerite_Radclyffe_Hall', 'dormitory', 'hall', 'Charles_Francis_Hall', 'Hall', 'Asaph_Hall', 'student_residence', 'antechamber', 'residence', 'mansion_house', 'mansion', 'anteroom', 'G._Stanley_Hall']",High Fidelity
+bring,"['land', 'bring', 'wreak', 'bestow', 'get', 'impart', 'contribute', 'bring_in', 'play', 'institute', 'make_for', 'take', 'add', 'fetch', 'lend', 'convey', 'work']",High Fidelity
+accorded,"['grant', 'agree', 'consort', 'allot', 'harmonise', 'concord', 'fit_in', 'accord', 'harmonize']",High Fidelity
+nature,['nature'],High Fidelity
+emphasize,"['underscore', 'stress', 'punctuate', 'emphasize', 'accentuate', 'emphasise', 'underline', 'accent']",High Fidelity
+A,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",High Fidelity
+seat,"['ass', 'backside', 'sit_down', 'keister', 'fanny', 'sit', 'buns', 'stern', 'tooshie', 'derriere', 'behind', 'can', 'induct', 'place', 'bum', 'tail', 'seat', 'prat', 'rump', 'butt', 'bottom', 'tush', 'hind_end', 'rear', 'tail_end', 'buttocks', 'invest', 'rear_end', 'arse', 'posterior', 'hindquarters', 'nates', 'fundament']",High Fidelity
+sensational,"['sensory', 'arresting', 'sensational', 'stunning']",High Fidelity
+anew,"['afresh', 'anew']",High Fidelity
+emphasis,"['emphasis', 'stress', 'vehemence', 'accent']",High Fidelity
+depth,"['deepness', 'profoundness', 'depth', 'profundity', 'astuteness']",High Fidelity
+verisimilitude,['verisimilitude'],High Fidelity
+become,"['go', 'get', 'become', 'turn', 'suit']",High Fidelity
+equivalent,"['eq', 'equivalent_weight', 'tantamount', 'equivalent', 'combining_weight']",High Fidelity
+40,"['XL', 'xl', '40', 'forty', 'twoscore']",High Fidelity
+frantic,"['unrestrained', 'mad', 'excited', 'delirious', 'phrenetic', 'frenzied', 'frenetic', 'frantic']",High Fidelity
+takes,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'payoff', 'carry', 'take_up', 'issue', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'takings', 'shoot', 'proceeds', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'yield', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'take', 'return', 'select', 'accept', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",High Fidelity
+sonority,"['ringing', 'reverberance', 'plangency', 'resonance', 'sonorousness', 'vibrancy', 'sonority']",High Fidelity
+tradition,"['custom', 'tradition']",High Fidelity
+fall,"['nightfall', 'go_down', 'capitulation', 'Fall', 'declination', 'accrue', 'gloaming', 'autumn', 'decline', 'descent', 'downfall', 'surrender', 'pass', 'crepuscule', 'strike', 'hang', 'shine', 'decrease', 'spill', 'drop', 'precipitate', 'light', 'return', 'diminish', 'lessen', 'dusk', 'devolve', 'flow', 'free_fall', 'fall', 'crepuscle', 'descend', 'declivity', 'evenfall', 'pin', 'declension', 'settle', 'gloam', 'dip', 'fall_down', 'come', 'twilight', 'tumble', 'come_down', 'downslope']",High Fidelity
+surely,"['surely', 'sure_as_shooting', 'certainly', 'sure', 'sure_enough', 'for_sure', 'for_certain']",High Fidelity
+real,"['existent', 'real', 'literal', 'material', 'really', 'very', 'substantial', 'genuine', 'actual', 'real_number', 'rattling', 'tangible', 'veridical']",High Fidelity
+intention,"['aim', 'intention', 'design', 'purpose', 'intent']",High Fidelity
+integrated,"['integrated', 'unified', 'incorporate', 'desegregate', 'structured', 'mix', 'merged', 'incorporated', 'integrate']",High Fidelity
+York,"['House_of_York', 'York']",High Fidelity
+course,"['naturally', 'course_of_instruction', 'line', 'form', 'run', 'path', 'course', 'course_of_action', 'class', 'track', 'row', 'feed', 'of_course', 'flow', 'grade', 'course_of_study', 'trend']",High Fidelity
+Allegro,['allegro'],High Fidelity
+radiant,"['beaming', 'beamy', 'effulgent', 'radiant', 'refulgent']",High Fidelity
+impetuous,"['brainish', 'tearaway', 'madcap', 'impulsive', 'hotheaded', 'impetuous']",High Fidelity
+meticulously,['meticulously'],High Fidelity
+scope,"['background', 'telescope', 'oscilloscope', 'cathode-ray_oscilloscope', 'reach', 'ambit', 'orbit', 'compass', 'range', 'setting', 'scope', 'CRO']",High Fidelity
+spotting,"['recognize', 'espy', 'distinguish', 'staining', 'spot', 'maculation', 'detection', 'tell_apart', 'pick_out', 'descry', 'make_out', 'recognise', 'catching', 'blob', 'blemish', 'spy', 'discern', 'espial', 'fleck', 'spying', 'blot', 'spotting']",High Fidelity
+he,"['helium', 'atomic_number_2', 'he', 'He']",High Fidelity
+any,"['whatsoever', 'whatever', 'any']",High Fidelity
+fitting,"['fitting', 'jibe', 'agree', 'equip', 'fit_out', 'adjustment', 'tally', 'outfit', 'meet', 'appointment', 'check', 'go', 'trying_on', 'try-on', 'accommodate', 'accommodation', 'correspond', 'gibe', 'conform_to', 'fit', 'suit', 'match']",High Fidelity
+a,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",High Fidelity
+because,[],High Fidelity
+previously,"['previously', 'antecedently']",High Fidelity
+of,[],High Fidelity
+Turning,"['deform', 'move_around', 'release', 'rick', 'turn', 'turn_over', 'wrick', 'sour', 'turning', 'sprain', 'change_state', 'wrench', 'bend', 'grow', 'change_by_reversal', 'twist', 'become', 'ferment', 'work', 'flex', 'plough', 'plow', 'call_on', 'reverse']",High Fidelity
+knit,"['knit_stitch', 'pucker', 'rumple', 'plain_stitch', 'cockle', 'knit', 'crumple', 'entwine', 'knitting', 'knitwork', 'plain']",High Fidelity
+noises,"['stochasticity', 'dissonance', 'racket', 'haphazardness', 'resound', 'make_noise', 'interference', 'disturbance', 'randomness', 'noise']",High Fidelity
+sang,"['tattle', 'sang', 'whistle', 'blab', 'sing', 'Panax_quinquefolius', 'spill_the_beans', 'talk', 'peach', 'babble', 'babble_out', 'blab_out', 'let_the_cat_out_of_the_bag', 'American_ginseng']",High Fidelity
+listen,"['take_heed', 'heed', 'mind', 'listen', 'hear']",High Fidelity
+what,[],High Fidelity
+broader,"['large-minded', 'broad', 'encompassing', 'unsubtle', 'all-embracing', 'unspecific', 'liberal', 'spacious', 'panoptic', 'full', 'blanket', 'extensive', 'all-inclusive', 'across-the-board', 'tolerant', 'wide', 'all-encompassing']",High Fidelity
+attire,"['deck_up', 'dress_up', 'get_up', 'dress', 'gussy_up', 'fig_out', 'rig_out', 'tog_up', 'garb', 'fancy_up', 'fig_up', 'trick_up', 'overdress', 'attire', 'prink', 'tog_out', 'trick_out', 'deck_out']",High Fidelity
+players,"['role_player', 'player', 'instrumentalist', 'musician', 'thespian', 'actor', 'participant', 'histrion']",High Fidelity
+Trout,['trout'],High Fidelity
+Sept.,[],High Fidelity
+search,"['research', 'hunt', 'hunting', 'look', 'lookup', 'look_for', 'explore', 'seek', 'search']",High Fidelity
+manner,"['manner', 'personal_manner', 'fashion', 'style', 'mode', 'way']",High Fidelity
+create,"['create', 'produce', 'make']",High Fidelity
+people,"['multitude', 'people', 'mass', 'masses', 'citizenry', 'hoi_polloi', 'the_great_unwashed']",High Fidelity
+enough,"['decent', 'enough', 'adequate', 'sufficiency', 'plenty']",High Fidelity
+gone,"['travel', 'get', 'belong', 'kick_the_bucket', 'asleep', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'deceased', 'pop_off', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'done_for', 'at_peace', 'run', 'plump', 'give_way', 'live_on', 'gone', 'pass', 'exit', 'snuff_it', 'departed', 'bygone', 'give_out', 'buy_the_farm', 'break', 'at_rest', 'rifle', 'foregone', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'operate', 'work', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'bypast', 'conk_out', 'hold_up', 'kaput', 'lead', 'live', 'extend', 'choke']",High Fidelity
+But,"['only', 'simply', 'merely', 'just', 'but']",High Fidelity
+space,"['place', 'distance', 'blank', 'blank_space', 'outer_space', 'space', 'quad', 'infinite']",High Fidelity
+due,"['ascribable', 'referable', 'due', 'imputable']",High Fidelity
+can,"['give_the_sack', 'ass', 'backside', 'give_the_axe', 'keister', 'send_away', 'fanny', 'give_notice', 'terminate', 'buns', 'stern', 'lav', 'lavatory', 'tooshie', 'bathroom', 'privy', 'tin', 'stool', 'derriere', 'commode', 'behind', 'can', 'john', 'bum', 'crapper', 'put_up', 'tail', 'seat', 'prat', 'canful', 'rump', 'can_buoy', 'butt', 'bottom', 'fire', 'tush', 'force_out', 'hind_end', 'rear', 'potty', 'dismiss', 'tail_end', 'tin_can', 'buttocks', 'rear_end', 'throne', 'arse', 'posterior', 'toilet', 'displace', 'hindquarters', 'pot', 'nates', 'fundament', 'sack']",High Fidelity
+brings,"['land', 'bring', 'wreak', 'bestow', 'get', 'impart', 'contribute', 'bring_in', 'play', 'institute', 'make_for', 'take', 'add', 'fetch', 'lend', 'convey', 'work']",High Fidelity
+?,[],High Fidelity
+fractional,['fractional'],High Fidelity
+COLH,[],High Fidelity
+rein,"['harness', 'rein', 'rule', 'rein_in', 'draw_rein']",High Fidelity
+standpoint,"['standpoint', 'viewpoint', 'stand', 'point_of_view']",High Fidelity
+all,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",High Fidelity
+high,"['high_school', 'high', 'highschool', 'senior_high', 'high_up', 'high-pitched', 'mellow', 'richly', 'high_gear', 'gamey', 'in_high_spirits', 'eminent', 'gamy', 'luxuriously', 'heights', 'senior_high_school']",High Fidelity
+lived,"['subsist', 'go', 'last', 'populate', 'endure', 'exist', 'live_on', 'survive', 'hold_up', 'be', 'hold_out', 'inhabit', 'live', 'know', 'experience', 'dwell']",High Fidelity
+traits,['trait'],High Fidelity
+beautiful,['beautiful'],High Fidelity
+far,"['Former_Armed_Forces', 'Interahamwe', 'Army_for_the_Liberation_of_Rwanda', 'far', 'ALIR', 'FAR']",High Fidelity
+quasi-performer,[],High Fidelity
+over-all,[],High Fidelity
+many,['many'],High Fidelity
+Fistoulari's,[],High Fidelity
+at,"['atomic_number_85', 'at', 'astatine', 'At']",High Fidelity
+commercial,"['commercial_message', 'commercial-grade', 'commercial']",High Fidelity
+up,"['upwards', 'astir', 'upwardly', 'upward', 'improving', 'up']",High Fidelity
+Artur,[],High Fidelity
+individuality,"['individuality', 'individualism', 'identity', 'individuation', 'personal_identity']",High Fidelity
+ear,"['pinna', 'ear', 'spike', 'auricle', 'capitulum']",High Fidelity
+entirely,"['whole', 'entirely', 'only', 'altogether', 'all', 'totally', 'wholly', 'completely', 'exclusively', 'alone', 'solely']",High Fidelity
+weaknesses,"['failing', 'weakness', 'helplessness', 'impuissance']",High Fidelity
+classifiers,['classifier'],High Fidelity
+it,"['information_technology', 'IT']",High Fidelity
+double,"['treble', 'double_up', 'double_over', 'twice', 'stunt_woman', 'two-baser', 'replicate', 'dual', 'duplicate', 'repeat', 'three-fold', 'two-bagger', 'image', 'stunt_man', 'twofold', 'threefold', 'doubling', 'bivalent', 'two-fold', 'reduplicate', 'look-alike', 'doubled', 'duple', 'two-base_hit', 'double', 'forked', 'doubly']",High Fidelity
+category,"['class', 'category', 'family']",High Fidelity
+indication,"['indicant', 'reading', 'indication', 'meter_reading', 'denotation']",High Fidelity
+almost,"['about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",High Fidelity
+instrumental,"['instrumental', 'implemental', 'subservient']",High Fidelity
+Yet,"['nevertheless', 'in_time', 'withal', 'notwithstanding', 'all_the_same', 'however', 'hitherto', 'yet', 'til_now', 'so_far', 'even_so', 'still', 'until_now', 'up_to_now', 'thus_far', 'as_yet', 'nonetheless', 'heretofore', 'even']",High Fidelity
+tottering,"['seesaw', 'teeter', 'waddle', 'coggle', 'tottering', 'dodder', 'toddle', 'paddle', 'tottery', 'totter']",High Fidelity
+.,[],High Fidelity
+pianist,"['piano_player', 'pianist']",High Fidelity
+revolutionary,"['radical', 'revolutionist', 'subverter', 'subversive', 'rotatory', 'revolutionary']",High Fidelity
+addition,"['gain', 'accession', 'summation', 'add-on', 'plus', 'addition', 'increase', 'improver']",High Fidelity
+was,"['equal', 'comprise', 'represent', 'WA', 'cost', 'embody', 'follow', 'Evergreen_State', 'be', 'exist', 'make_up', 'personify', 'live', 'Washington', 'constitute']",High Fidelity
+requires,"['need', 'postulate', 'want', 'command', 'take', 'necessitate', 'expect', 'ask', 'require', 'involve', 'demand', 'call_for']",High Fidelity
+dominate,"['prevail', 'overlook', 'dominate', 'overshadow', 'reign', 'rule', 'command', 'predominate', 'master', 'eclipse', 'overtop']",High Fidelity
+expertise,"['expertise', 'expertness']",High Fidelity
+upon,[],High Fidelity
+Quintet,"['Phoebe', 'five', 'fin', 'quintuplet', 'quint', 'fivesome', 'Little_Phoebe', 'quintet', 'cinque', '5', 'quintuple', 'quintette', 'V', 'pentad']",High Fidelity
+As,"['antiophthalmic_factor', 'axerophthol', 'a', 'group_A', 'arsenic', 'As', 'as', 'vitamin_A', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'ampere', 'every_bit', 'amp', 'AS', 'A', 'equally', 'adenine', 'atomic_number_33', 'American_Samoa', 'Eastern_Samoa', 'type_A', 'angstrom']",High Fidelity
+baton,"['billy', 'wand', 'truncheon', 'baton', 'billy_club', 'billystick', 'nightstick']",High Fidelity
+though,['though'],High Fidelity
+Feyer's,[],High Fidelity
+afternoon,"['afternoon', 'good_afternoon']",High Fidelity
+disc,"['record', 'platter', 'magnetic_disk', 'magnetic_disc', 'disc', 'disk', 'phonograph_record', 'saucer', 'phonograph_recording']",High Fidelity
+Thing,"['matter', 'thing', 'affair']",High Fidelity
+taken,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'carry', 'take_up', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'interpreted', 'shoot', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'taken', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'accept', 'take', 'select', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",High Fidelity
+naive,"['unenlightened', 'uninitiate', 'naif', 'naive', 'primitive', 'uninitiated', 'uninstructed']",High Fidelity
+prime,"['efflorescence', 'flower', 'peak', 'ground', 'premier', 'quality', 'heyday', 'undercoat', 'prize', 'prime', 'select', 'bloom', 'prime_of_life', 'blossom', 'choice', 'meridian', 'prime_quantity', 'flush']",High Fidelity
+music,"['music', 'euphony', 'medicine']",High Fidelity
+pitch,"['slant', 'peddle', 'pitch_shot', 'auction_pitch', 'set_up', 'gear', 'pitch', 'monger', 'tilt', 'toss', 'cant_over', 'deliver', 'lurch', 'tar', 'sky', 'hawk', 'sales_talk', 'shift', 'incline', 'huckster', 'sales_pitch', 'pitching', 'delivery', 'cant', 'slope', 'flip', 'vend', 'rake']",High Fidelity
+other,"['other', 'early', 'former']",High Fidelity
+yet,"['nevertheless', 'in_time', 'withal', 'notwithstanding', 'all_the_same', 'however', 'hitherto', 'yet', 'til_now', 'so_far', 'even_so', 'still', 'until_now', 'up_to_now', 'thus_far', 'as_yet', 'nonetheless', 'heretofore', 'even']",High Fidelity
+bargain-priced,"['cut-rate', 'cut-price', 'bargain-priced']",High Fidelity
+put,"['arrange', 'place', 'invest', 'couch', 'order', 'redact', 'lay', 'commit', 'set_up', 'pose', 'put_option', 'frame', 'position', 'assign', 'cast', 'set', 'put']",High Fidelity
+dozen,"['dozen', 'XII', 'xii', '12', 'twelve']",High Fidelity
+innate,"['unlearned', 'innate', 'unconditioned', 'natural', 'inborn', 'congenital', 'born']",High Fidelity
+necessary,"['essential', 'necessity', 'requirement', 'necessary', 'requisite']",High Fidelity
+occasion,"['social_occasion', 'affair', 'social_function', 'function', 'occasion', 'juncture']",High Fidelity
+Arte,[],High Fidelity
+Recording,"['record', 'tape', 'enter', 'show', 'commemorate', 'register', 'recording', 'immortalize', 'transcription', 'immortalise', 'put_down', 'memorialise', 'read', 'memorialize']",High Fidelity
+manages,"['carry_off', 'care', 'supervise', 'do', 'pull_off', 'wield', 'oversee', 'contend', 'bring_off', 'make_out', 'wangle', 'deal', 'superintend', 'finagle', 'handle', 'cope', 'grapple', 'make_do', 'manage', 'negociate', 'get_by']",High Fidelity
+'',[],High Fidelity
+Karl,[],High Fidelity
+scrapes,"['come_up', 'dispute', 'scratching', 'argufy', 'skin', 'excoriation', 'quarrel', 'scar', 'mark', 'genuflect', 'scraping', 'scrap', 'kowtow', 'altercate', 'scrape_up', 'scrape', 'trash', 'abrasion', 'scratch_up', 'scratch', 'grate', 'junk']",High Fidelity
+Without,[],High Fidelity
+just,"['only', 'scarce', 'simply', 'merely', 'good', 'exactly', 'upright', 'barely', 'just', 'equitable', 'hardly', 'scarcely', 'but', 'fair', 'just_now', 'precisely']",High Fidelity
+again,"['once_again', 'over_again', 'once_more', 'again']",High Fidelity
+slides,"['chute', 'sloping_trough', 'slideway', 'swoop', 'slide', 'glide', 'lantern_slide', 'skid', 'slip', 'slue', 'slew', 'microscope_slide', 'sliding_board', 'slither', 'playground_slide', 'coast']",High Fidelity
+Helmut,[],High Fidelity
+students,"['scholarly_person', 'pupil', 'educatee', 'scholar', 'bookman', 'student']",High Fidelity
+together,"['unitedly', 'in_concert', 'together']",High Fidelity
+The,[],High Fidelity
+clarity,"['lucidity', 'clearness', 'clarity', 'limpidity', 'lucidness', 'uncloudedness', 'pellucidity']",High Fidelity
+I,"['unity', '1', 'atomic_number_53', 'one', 'ane', 'I', 'single', 'iodin', 'ace', 'iodine', 'i']",High Fidelity
+Must,"['mustiness', 'must', 'moldiness']",High Fidelity
+fact,['fact'],High Fidelity
+source,"['germ', 'generator', 'rootage', 'reference', 'beginning', 'origin', 'root', 'author', 'source', 'informant', 'reservoir', 'seed']",High Fidelity
+Grammophon,[],High Fidelity
+sit,"['sit_down', 'seat', 'model', 'pose', 'sit', 'posture', 'ride', 'sit_around', 'baby-sit']",High Fidelity
+aesthetic,"['esthetic', 'esthetical', 'aesthetical', 'artistic', 'aesthetic']",High Fidelity
+Badura-Skoda-Vienna,[],High Fidelity
+Since,[],High Fidelity
+skills,"['accomplishment', 'acquirement', 'skill', 'attainment', 'science', 'acquisition']",High Fidelity
+them,[],High Fidelity
+Schnabel's,[],High Fidelity
+two,"['two', 'deuce', '2', 'ii', 'II']",High Fidelity
+same,"['same', 'Saami', 'Lapp', 'Sami', 'Same', 'like', 'Lapplander', 'Saame']",High Fidelity
+maximum,"['uttermost', 'maximum', 'utmost', 'maximal', 'upper_limit', 'level_best']",High Fidelity
+became,"['go', 'get', 'become', 'turn', 'suit']",High Fidelity
+ago,"['ago', 'agone']",High Fidelity
+superlative,"['height', 'peak', 'superlative', 'tiptop', 'greatest', 'elevation', 'pinnacle', 'acme', 'summit', 'meridian', 'superlative_degree', 'sterling', 'top']",High Fidelity
+reverberation,"['reverberation', 'echo', 'sound_reflection', 'repercussion', 'replication']",High Fidelity
+since,[],High Fidelity
+bull,"['copper', 'bullshit', 'papal_bull', 'dogshit', 'fake', 'Taurus', 'Bull', 'fuzz', ""bull's_eye"", 'bull', 'strapper', ""talk_through_one's_hat"", 'Irish_bull', 'cop', 'Samson', 'bruiser', 'bull_through', 'pig', 'Taurus_the_Bull', 'shit', 'horseshit', 'crap']",High Fidelity
+worthy,"['desirable', 'suitable', 'worthy']",High Fidelity
+rhythm,"['musical_rhythm', 'calendar_method', 'beat', 'round', 'speech_rhythm', 'cycle', 'rhythm', 'rhythm_method', 'rhythm_method_of_birth_control', 'regular_recurrence', 'calendar_method_of_birth_control']",High Fidelity
+readings,"['reading_material', 'show', 'version', 'record', 'recitation', 'interpret', 'scan', 'register', 'study', 'interpretation', 'recital', 'learn', 'reading', 'take', 'Reading', 'read', 'say', 'understand', 'indication', 'translate', 'meter_reading']",High Fidelity
+Spirito,[],High Fidelity
+always,"['invariably', 'incessantly', 'constantly', 'ever', 'always', ""e'er"", 'forever', 'perpetually']",High Fidelity
+divergent,"['diverging', 'divergent']",High Fidelity
+Angel's,[],High Fidelity
+to,[],High Fidelity
+imagination,"['resource', 'resourcefulness', 'imaginativeness', 'imagery', 'vision', 'mental_imagery', 'imagination', 'imaging']",High Fidelity
+vibrancy,"['ringing', 'reverberance', 'plangency', 'resonance', 'sonorousness', 'vibrancy', 'sonority']",High Fidelity
+Fleisher's,[],High Fidelity
+about,"['about', 'more_or_less', 'astir', 'just_about', 'well-nigh', 'around', 'almost', 'virtually', 'nigh', 'or_so', 'nearly', 'most', 'close_to', 'near', 'approximately', 'roughly', 'some']",High Fidelity
+use,"['role', 'purpose', 'function', 'utilization', 'utilise', 'usage', 'use_of_goods_and_services', 'exercise', 'enjoyment', 'practice', 'use', 'consumption', 'employ', 'habit', 'utilize', 'expend', 'utilisation', 'employment', 'apply', 'manipulation', 'economic_consumption', 'usance', 'habituate']",High Fidelity
+effort,"['elbow_grease', 'exertion', 'feat', 'effort', 'cause', 'crusade', 'drive', 'movement', 'endeavour', 'travail', 'try', 'campaign', 'exploit', 'endeavor', 'attempt', 'sweat']",High Fidelity
+unclouded,"['unclouded', 'clear', 'clean', 'light', 'cloudless']",High Fidelity
+razor-edged,[],High Fidelity
+Budapest,"['capital_of_Hungary', 'Budapest', 'Hungarian_capital']",High Fidelity
+obtrudes,"['push_out', 'obtrude', 'intrude', 'thrust_out']",High Fidelity
+(,[],High Fidelity
+style,"['manner', 'title', 'vogue', 'dash', 'flair', 'panache', 'fashion', 'expressive_style', 'stylus', 'style', 'elan', 'mode', 'way', 'trend']",High Fidelity
+warm-toned,['warm-toned'],High Fidelity
+elements,"['element', 'chemical_element', 'constituent', 'component', 'elements', 'factor', 'ingredient']",High Fidelity
+factor,"['element', 'gene', 'cistron', 'constituent', 'factor_out', 'component', 'broker', 'factor_in', 'divisor', 'factor', 'ingredient', 'agent']",High Fidelity
+placed,"['come_out', 'aim', 'direct', 'localise', 'order', 'lay', 'rank', 'come_in', 'grade', 'set', 'put', 'place', 'located', 'identify', 'point', 'target', 'locate', 'position', 'send', 'post', 'placed', 'localize', 'station', 'invest', 'situated', 'commit', 'pose', 'rate', 'range', 'site']",High Fidelity
+fail,"['flunk', 'go_wrong', 'neglect', 'go_bad', 'flush_it', 'go', 'run_out', 'die', 'conk_out', 'break_down', 'bomb', 'break', 'give_out', 'fail', 'give_way', 'betray', 'miscarry']",High Fidelity
+offered,"['extend', 'propose', 'offer_up', 'proffer', 'put_up', 'pop_the_question', 'provide', 'declare_oneself', 'bid', 'tender', 'volunteer', 'offer']",High Fidelity
+own,"['ain', 'own', 'possess', 'have']",High Fidelity
+Krumpp,[],High Fidelity
+on,"['along', 'on']",High Fidelity
+especially,"['peculiarly', 'especially', 'specially', 'particularly']",High Fidelity
+their,[],High Fidelity
+melody,"['tune', 'air', 'strain', 'line', 'melodic_phrase', 'melody', 'tonal_pattern', 'melodic_line']",High Fidelity
+effective,"['efficacious', 'in_force', 'good', 'efficient', 'effective', 'effectual', 'in_effect']",High Fidelity
+third,"['3rd', 'third_base', 'one-third', 'tierce', 'third', 'tertiary', 'third_gear', 'thirdly']",High Fidelity
+assisting,"['wait_on', 'assist', 'aid', 'help', 'attend', 'serve', 'attend_to']",High Fidelity
+greatness,"['illustriousness', 'immenseness', 'wideness', 'enormousness', 'sizeableness', 'greatness', 'vastness', 'grandness', 'immensity']",High Fidelity
+absolute,"['infrangible', 'downright', 'out-and-out', 'rank', 'absolute', 'right-down', 'sheer', 'inviolable']",High Fidelity
+melodies,"['tune', 'air', 'strain', 'line', 'melodic_phrase', 'melody', 'tonal_pattern', 'melodic_line']",High Fidelity
+If,[],High Fidelity
+built,"['work_up', 'progress', 'construct', 'make', 'reinforced', 'built', 'build_up', 'build', 'ramp_up', 'establish']",High Fidelity
+quiet,"['silence', 'tranquility', 'tranquil', 'muted', 'serenity', 'repose', 'unruffled', 'quiesce', 'hush', 'tranquillise', 'placid', 'calm', 'pipe_down', 'hushed', 'placidity', 'tranquilize', 'quieten', 'still', 'quietly', 'smooth', 'tranquillize', 'calm_down', 'lull', 'quiet_down', 'subdued', 'tranquillity', 'restrained', 'quiet']",High Fidelity

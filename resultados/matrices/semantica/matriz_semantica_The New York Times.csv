@@ -1,0 +1,957 @@
+w,vector_semantico
+grand,"['grand', 'elevated', 'thou', 'deluxe', 'yard', 'wondrous', 'high-flown', 'princely', 'heroic', 'exalted', 'lordly', 'marvelous', 'wonderful', 'lofty', 'sumptuous', 'high-minded', 'G', 'luxurious', 'terrific', 'one_thousand', 'gilded', 'rarified', 'tremendous', 'chiliad', 'marvellous', 'M', 'opulent', 'fantastic', 'august', 'sublime', 'K', 'magisterial', 'grand_piano', '1000', 'distinguished', 'imposing', 'thousand', 'expansive', 'idealistic', 'howling', 'noble-minded', 'rarefied', 'rattling']",The New York Times
+somewhat,"['middling', 'somewhat', 'more_or_less', 'slightly', 'passably', 'reasonably', 'pretty', 'fairly', 'jolly', 'moderately']",The New York Times
+performances,"['performance', 'operation', 'carrying_into_action', 'public_presentation', 'carrying_out', 'functioning', 'execution']",The New York Times
+able,"['able-bodied', 'able', 'capable']",The New York Times
+staff,"['staff', 'stave', 'faculty']",The New York Times
+praises,"['extolment', 'praise', 'congratulations', 'kudos']",The New York Times
+Furthermore,"['moreover', 'furthermore', 'what_is_more']",The New York Times
+seem,"['appear', 'seem', 'look']",The New York Times
+dull,"['leaden', 'muted', 'irksome', 'slow', 'thudding', 'dull', 'sluggish', 'dumb', 'pall', 'muffle', 'deadening', 'ho-hum', 'numb', 'wearisome', 'boring', 'obtuse', 'blunt', 'mute', 'benumb', 'softened', 'tone_down', 'muffled', 'dim', 'dense', 'damp', 'tedious', 'dampen', 'tiresome']",The New York Times
+toward,[],The New York Times
+Zapala,[],The New York Times
+Expected,"['wait', 'look', 'carry', 'await', 'expect', 'anticipate', 'ask', 'require', 'have_a_bun_in_the_oven', 'gestate', 'bear', 'expected']",The New York Times
+noncombatant,['noncombatant'],The New York Times
+in,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",The New York Times
+these,[],The New York Times
+organization,"['constitution', 'administration', 'organization', 'formation', 'governance', 'brass', 'organisation', 'system', 'arrangement', 'governing_body', 'establishment']",The New York Times
+accomplished,"['accomplish', 'achieve', 'attain', 'accomplished', 'realised', 'complete', 'established', 'reach', 'completed', 'fulfill', 'effected', 'realized', 'execute', 'carry_through', 'carry_out', 'fulfil', 'action']",The New York Times
+headquarters,"['central_office', 'HQ', 'headquarters', 'military_headquarters', 'main_office', 'headquarter', 'home_office', 'home_base']",The New York Times
+William,[],The New York Times
+Sarasate,[],The New York Times
+Polish,"['culture', 'brush_up', 'polish', 'polish_up', 'refinement', 'gloss', 'Polish', 'round_off', 'glossiness', 'smoothen', 'cultivation', 'shine', 'fine-tune', 'finish', 'refine', 'smooth', 'burnish', 'round', 'down']",The New York Times
+conspicuously,"['prominently', 'conspicuously']",The New York Times
+Russian,['Russian'],The New York Times
+edition,"['variant', 'variation', 'version', 'edition']",The New York Times
+natural,"['rude', 'innate', 'cancel', 'raw', 'natural', 'instinctive', 'born', 'lifelike']",The New York Times
+whose,[],The New York Times
+misgauged,['misgauge'],The New York Times
+troubled,"['pain', 'incommode', 'riotous', 'disquiet', 'disruptive', 'disorder', 'bother', 'troubled', 'trouble_oneself', 'inconvenience_oneself', 'inconvenience', 'trouble', 'distract', 'disoblige', 'ail', 'put_out', 'perturb', 'discommode', 'unhinge', 'disturb', 'turbulent', 'tumultuous', 'upset', 'cark']",The New York Times
+children,"['nestling', 'tike', 'youngster', 'tiddler', 'fry', 'kid', 'tyke', 'minor', 'baby', 'shaver', 'nipper', 'child', 'small_fry']",The New York Times
+they,[],The New York Times
+mutilation,['mutilation'],The New York Times
+Mozart's,[],The New York Times
+set,"['arrange', 'adjust', 'go_down', 'do', 'specify', 'fix', 'solidification', 'countersink', 'Seth', 'coif', 'readiness', 'localise', 'dress', 'prepare', 'lay', 'set_up', 'fixed', 'laid', 'bent', 'mark', 'determined', 'Set', 'determine', 'jell', 'congeal', 'primed', 'set', 'define', 'put', 'place', 'curing', 'limit', 'rigid', 'hardening', 'go_under', 'located', 'dictated', 'correct', 'plant', 'typeset', 'lot', 'lay_out', 'coiffe', 'hardened', 'sic', 'position', 'fit', 'exercise_set', 'circle', 'placed', 'stage_set', 'ready', 'localize', 'fructify', 'coiffure', 'solidifying', 'situated', 'rig', 'pose', 'gear_up', 'band']",The New York Times
+harm,"['hurt', 'harm', 'trauma', 'impairment', 'scathe', 'damage', 'injury']",The New York Times
+jungles,"['hobo_camp', 'jungle']",The New York Times
+general,"['full_general', 'general', 'worldwide', 'world-wide', 'cosmopolitan', 'universal', 'ecumenical', 'oecumenical', 'superior_general']",The New York Times
+Before,"['in_front', 'ahead', 'earlier', 'before']",The New York Times
+intellectual,"['noetic', 'rational', 'intellectual', 'intellect', 'cerebral']",The New York Times
+Philharmonic,"['symphony_orchestra', 'philharmonic', 'symphony']",The New York Times
+campaigns,"['safari', 'drive', 'take_the_field', 'crusade', 'cause', 'effort', 'movement', 'agitate', 'run', 'push', 'campaign', 'military_campaign', 'hunting_expedition', 'political_campaign', 'press', 'fight']",The New York Times
+small,"['low', 'pocket-size', 'small-scale', 'modest', 'minor', 'belittled', 'small', 'diminished', 'lowly', 'minuscule', 'little', 'humble', 'pocket-sized']",The New York Times
+Chopin's,[],The New York Times
+roads,"['route', 'roads', 'roadstead', 'road']",The New York Times
+thing,"['matter', 'thing', 'affair']",The New York Times
+diplomatic,"['diplomatic', 'diplomatical']",The New York Times
+no,"['No', 'no_more', 'no', 'nobelium', 'atomic_number_102']",The New York Times
+too,"['excessively', 'overly', 'as_well', 'to_a_fault', 'besides', 'likewise', 'too', 'also']",The New York Times
+Variations,"['variant', 'variation', 'fluctuation', 'pas_seul', 'sport', 'magnetic_declination', 'edition', 'mutation', 'version', 'magnetic_variation', 'mutant', 'variance']",The New York Times
+words,"['lyric', 'give_voice', 'Bible', 'speech', 'phrase', 'run-in', 'give-and-take', 'dustup', 'discussion', 'word_of_honor', 'quarrel', 'Christian_Bible', 'row', 'language', 'Holy_Writ', 'Word', 'Logos', 'watchword', ""actor's_line"", 'tidings', 'news', 'parole', 'password', 'word', 'Son', 'intelligence', 'countersign', 'words', 'Word_of_God', 'Scripture', 'Book', 'Holy_Scripture', 'formulate', 'articulate', 'wrangle', 'Good_Book']",The New York Times
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The New York Times
+four,"['quadruplet', 'quaternary', 'four', 'quartet', 'IV', 'Little_Joe', 'quaternity', 'foursome', 'tetrad', 'iv', 'quaternion', 'four-spot', 'quatern', '4']",The New York Times
+drawback,['drawback'],The New York Times
+home,"['house', 'abode', 'family', 'domicile', 'habitation', 'interior', 'home_base', 'place', 'national', 'dwelling', 'nursing_home', 'plate', 'rest_home', 'menage', 'home_plate', 'internal', 'home', 'dwelling_house', 'household', 'base']",The New York Times
+thirteen,"['XIII', 'xiii', '13', 'long_dozen', 'thirteen', ""baker's_dozen""]",The New York Times
+interesting,"['matter_to', 'worry', 'interesting', 'concern', 'interest', 'occupy']",The New York Times
+Texas,"['TX', 'Texas', 'Lone-Star_State']",The New York Times
+courage,"['courage', 'bravery', 'braveness', 'courageousness']",The New York Times
+eschews,"['eschew', 'shun']",The New York Times
+long,"['retentive', 'foresighted', 'recollective', 'yearn', 'tenacious', 'foresightful', 'hanker', 'farseeing', 'prospicient', 'longsighted', 'farsighted', 'long']",The New York Times
+provocative,['provocative'],The New York Times
+combination,"['combination', 'combining', 'compounding']",The New York Times
+overriding,"['predominant', 'overturn', 'overriding', 'overthrow', 'override', 'paramount', 'preponderant', 'predominate', 'overrule', 'preponderating', 'reverse']",The New York Times
+526,[],The New York Times
+comfort,"['comforter', 'ease', 'comfort', 'soothe', 'solace', 'console', 'consolation', 'puff', 'comfortableness', 'quilt']",The New York Times
+flirtatious,"['coquettish', 'flirtatious']",The New York Times
+modest,"['low', 'pocket-size', 'meek', 'small-scale', 'modest', 'minor', 'small', 'lowly', 'pocket-sized', 'humble', 'mild']",The New York Times
+sentimental,"['maudlin', 'mushy', 'schmaltzy', 'kitschy', 'schmalzy', 'mawkish', 'drippy', 'sentimental', 'soppy', 'hokey', 'slushy', 'bathetic', 'soupy']",The New York Times
+until,[],The New York Times
+full,"['total', 'full-of-the-moon', 'good', 'full_phase_of_the_moon', 'full_moon', 'broad', 'to_the_full', 'wax', 'replete', 'full', 'entire', 'wide-cut', 'wide', 'fully']",The New York Times
+outgeneraled,['outgeneral'],The New York Times
+its,"['information_technology', 'IT']",The New York Times
+shrillness,"['stridence', 'stridency', 'shrillness']",The New York Times
+some,"['about', 'more_or_less', 'just_about', 'around', 'close_to', 'or_so', 'some', 'approximately', 'roughly']",The New York Times
+headlines,"['newspaper_headline', 'headline']",The New York Times
+balance,"['Libra_the_Balance', 'counterpoise', 'poise', 'equaliser', 'balance', 'equipoise', 'residual', 'Balance', 'residuum', 'proportionality', 'residue', 'equilibrate', 'symmetry', 'equilibrium', 'correspondence', 'symmetricalness', 'remainder', 'equalizer', 'equilibrize', 'proportion', 'Libra_the_Scales', 'rest', 'counterbalance', 'equilibrise', 'balance_wheel', 'counterweight', 'Libra']",The New York Times
+excellent,"['excellent', 'fantabulous', 'splendid', 'first-class']",The New York Times
+professional,"['master', 'pro', 'professional', 'professional_person']",The New York Times
+as,"['antiophthalmic_factor', 'axerophthol', 'a', 'group_A', 'arsenic', 'As', 'as', 'vitamin_A', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'ampere', 'every_bit', 'amp', 'AS', 'A', 'equally', 'adenine', 'atomic_number_33', 'American_Samoa', 'Eastern_Samoa', 'type_A', 'angstrom']",The New York Times
+movements,"['apparent_motion', 'drive', 'crusade', 'motility', 'motion', 'movement', 'cause', 'social_movement', 'effort', 'apparent_movement', 'bowel_movement', 'campaign', 'move', 'front', 'bm', 'drift', 'trend']",The New York Times
+high-minded,"['grand', 'rarified', 'elevated', 'high-minded', 'high-flown', 'idealistic', 'sublime', 'noble-minded', 'exalted', 'rarefied', 'lofty']",The New York Times
+never,"['never', ""ne'er""]",The New York Times
+authority,"['self-assurance', 'say-so', 'government_agency', 'self-confidence', 'authorisation', 'authority', 'confidence', 'office', 'dominance', 'authorization', 'assurance', 'bureau', 'sanction', 'agency', 'potency', 'sureness', 'federal_agency']",The New York Times
+slaughter,"['butcher', 'walloping', 'carnage', 'slaughter', 'debacle', 'mass_murder', 'trouncing', 'massacre', 'thrashing', 'butchery', 'drubbing', 'mow_down', 'whipping']",The New York Times
+sons,"['son', 'Son', 'boy', 'Word', 'Logos']",The New York Times
+on-stage,[],The New York Times
+three,"['terzetto', 'triad', 'threesome', 'deuce-ace', 'triplet', 'trey', '3', 'three', 'troika', 'ternary', 'ternion', 'III', 'leash', 'trio', 'trinity', 'tercet', 'tierce', 'trine', 'iii']",The New York Times
+Field,"['discipline', 'arena', 'champaign', 'subject_field', 'theater', 'theatre_of_operations', 'airfield', 'field_of_operations', 'subject_area', 'theatre', 'field_of_view', 'playing_field', 'landing_field', 'theater_of_operations', 'field_of_honor', 'field_of_force', 'battleground', 'study', 'domain', 'flying_field', 'playing_area', 'field_of_operation', 'line_of_business', 'subject', 'field_of_battle', 'sphere', 'battlefield', 'bailiwick', 'field_of_study', 'area', 'athletic_field', 'orbit', 'force_field', 'field', 'plain']",The New York Times
+means,"['intend', 'signify', 'imply', 'have_in_mind', 'entail', 'mean_value', 'think_of', 'substance', 'means', 'mean', 'stand_for', 'think', 'agency', 'way']",The New York Times
+demand,"['need', 'postulate', 'requirement', 'take', 'necessitate', 'ask', 'require', 'involve', 'demand', 'call_for', 'exact']",The New York Times
+excerpts,"['excerpt', 'extract', 'excerption', 'take_out', 'selection']",The New York Times
+Ziminska-Sygietynska,[],The New York Times
+Geroge,[],The New York Times
+audience,"['hearing', 'audience', 'interview', 'consultation']",The New York Times
+sizable,"['goodish', 'ample', 'hefty', 'goodly', 'sizable', 'healthy', 'tidy', 'respectable', 'sizeable']",The New York Times
+attitude,"['position', 'attitude', 'mental_attitude', 'posture']",The New York Times
+been,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The New York Times
+stylish,"['stylish', 'fashionable']",The New York Times
+Mazowsze,[],The New York Times
+trying,"['taste', 'stress', 'essay', 'examine', 'attempt', 'prove', 'try_on', 'try_out', 'nerve-wracking', 'adjudicate', 'judge', 'try', 'assay', 'strain', 'stressful', 'test', 'hear', 'trying', 'sample', 'nerve-racking', 'render', 'seek']",The New York Times
+Conservatory,"['conservatory', 'conservatoire', 'indoor_garden', 'hothouse']",The New York Times
+hospitals,"['hospital', 'infirmary']",The New York Times
+likely,"['in_all_probability', 'potential', 'probable', 'in_all_likelihood', 'probably', 'belike', 'likely']",The New York Times
+by,"['away', 'aside', 'past', 'by']",The New York Times
+showing,"['testify', 'evidence', 'show', 'usher', 'evince', 'prove', 'designate', 'record', 'screening', 'demonstrate', 'register', 'indicate', 'exhibit', 'bear_witness', 'depict', 'picture', 'viewing', 'point', 'establish', 'read', 'showing', 'show_up', 'display', 'demo', 'render', 'shew', 'express', 'present']",The New York Times
+faculty,"['staff', 'mental_faculty', 'module', 'faculty']",The New York Times
+good,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'salutary', 'honest', 'undecomposed', 'full', 'thoroughly', 'respectable', 'commodity', 'in_effect', 'sound', 'trade_good', 'estimable', 'proficient', 'skillful', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'right', 'in_force', 'soundly', 'unspoilt', 'good', 'goodness', 'well', 'upright', 'just', 'effective', 'unspoiled', 'honorable', 'safe']",The New York Times
+identifiable,['identifiable'],The New York Times
+origin,"['extraction', 'inception', 'source', 'parentage', 'blood_line', 'pedigree', 'bloodline', 'stemma', 'descent', 'root', 'ancestry', 'line', 'beginning', 'stock', 'origination', 'line_of_descent', 'rootage', 'origin', 'blood', 'lineage']",The New York Times
+Latin,"['Romance', 'Latin']",The New York Times
+spirit,"['feel', 'smell', 'tone', 'liveliness', 'feeling', 'look', 'flavour', 'emotional_state', 'life', 'spirit', 'disembodied_spirit', 'intent', 'purport', 'inspirit', 'spirit_up', 'sprightliness', 'heart', 'flavor']",The New York Times
+group,"['radical', 'mathematical_group', 'group', 'grouping', 'aggroup', 'chemical_group']",The New York Times
+irresistible,"['resistless', 'irresistible']",The New York Times
+and,[],The New York Times
+band,"['isthmus', 'stria', 'ring', 'dance_band', 'set', 'lot', 'striation', 'banding', 'dance_orchestra', 'band', 'stripe', 'circle']",The New York Times
+president,"['chair', 'chairwoman', 'President', 'chairperson', 'United_States_President', 'chairman', 'prexy', 'president', 'Chief_Executive', 'President_of_the_United_States']",The New York Times
+devoted,"['give', 'commit', 'pay', 'devote', 'consecrate', 'devoted', 'dedicate']",The New York Times
+control,"['ascendency', 'control_condition', 'assure', 'command', 'ascertain', 'mastery', 'ascendence', 'insure', 'keep_in_line', 'dominance', 'control', 'controller', 'check', 'verify', 'ascendancy', 'hold', 'ascendance', 'master', 'restraint', 'operate', 'see', 'curb', 'ensure', 'hold_in', 'moderate', 'manipulate', 'see_to_it', 'contain']",The New York Times
+inner,"['internal', 'inside', 'intimate', 'privileged', 'interior', 'inner']",The New York Times
+your,[],The New York Times
+material,"['material', 'real', 'substantial', 'fabric', 'cloth', 'stuff', 'textile', 'corporeal']",The New York Times
+overly,"['excessively', 'overly', 'too', 'to_a_fault']",The New York Times
+men,"['men', 'serviceman', 'workforce', 'valet', 'human_race', 'valet_de_chambre', 'humankind', ""gentleman's_gentleman"", 'humans', 'human_being', 'homo', 'military_personnel', 'humanity', 'man', 'work_force', 'gentleman', 'military_man', 'hands', 'human_beings', 'Isle_of_Man', 'mankind', 'manpower', 'piece', 'human', 'world', 'Man', 'adult_male']",The New York Times
+give,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'spring', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'springiness', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The New York Times
+playing,"['take_on', 'play', 'playing', 'performing', 'act', 'fiddle', 'wreak', 'dally', 'spiel', 'run', 'meet', 'act_as', 'playacting', 'bring', 'diddle', 'represent', 'recreate', 'bet', 'trifle', 'work', 'toy', 'wager', 'playact', 'acting', 'make_for', 'flirt', 'encounter', 'roleplay']",The New York Times
+neatly,['neatly'],The New York Times
+phrase,"['musical_phrase', 'idiomatic_expression', 'give_voice', 'word', 'phrase', 'formulate', 'set_phrase', 'articulate', 'idiom', 'phrasal_idiom']",The New York Times
+thoroughly,"['soundly', 'exhaustively', 'thoroughly', 'good']",The New York Times
+:,[],The New York Times
+abridged,"['abbreviate', 'reduce', 'abridge', 'foreshorten', 'cut', 'contract', 'shorten', 'abridged']",The New York Times
+way,"['manner', 'way_of_life', 'elbow_room', 'room', 'direction', 'path', 'fashion', 'means', 'style', 'right_smart', 'mode', 'agency', 'way']",The New York Times
+gifted,"['talented', 'endow', 'invest', 'gifted', 'endue', 'give', 'indue', 'empower', 'present', 'gift']",The New York Times
+Commenting,"['gloss', 'comment', 'notice', 'point_out', 'annotate', 'remark']",The New York Times
+feeling,"['feel', 'tone', 'belief', 'look', 'palpate', 'find', 'touch', 'tactual_sensation', 'flavor', 'smell', 'feeling', 'impression', 'touch_sensation', 'opinion', 'sense', 'tactile_sensation', 'intuitive_feeling', 'finger', 'flavour', 'spirit', 'experience', 'notion']",The New York Times
+those,[],The New York Times
+inadequate,"['unequal', 'inadequate', 'poor', 'short']",The New York Times
+kind,"['form', 'kind', 'genial', 'sort', 'variety', 'tolerant']",The New York Times
+She,[],The New York Times
+failed,"['flunk', 'go_wrong', 'neglect', 'go_bad', 'flush_it', 'go', 'run_out', 'die', 'conk_out', 'break_down', 'bomb', 'break', 'give_out', 'fail', 'give_way', 'betray', 'miscarry']",The New York Times
+medical,"['health_check', 'checkup', 'medical_exam', 'medical', 'medical_examination', 'aesculapian', 'medical_checkup']",The New York Times
+tough,"['strong-armer', 'bad', 'roughneck', 'yobbo', 'thug', 'bully', 'street_fighter', 'yob', 'baffling', 'hoodlum', 'hooligan', 'yobo', 'tough', 'rugged', 'problematic', 'goon', 'knotty', 'rowdy', 'punk', 'hood', 'sturdy', 'hard', 'toughened', 'problematical', 'toughie', 'ruffianly', 'ruffian', 'elusive']",The New York Times
+problems,"['job', 'problem', 'trouble']",The New York Times
+song,"['vocal', 'strain', 'Song_dynasty', 'call', 'Sung', 'Sung_dynasty', 'birdcall', 'song', 'birdsong', 'Song']",The New York Times
+fitted,"['jibe', 'agree', 'go', 'equip', 'tally', 'accommodate', 'fit_out', 'correspond', 'gibe', 'meet', 'outfit', 'match', 'conform_to', 'fit', 'fitted', 'check', 'suit']",The New York Times
+write,"['publish', 'spell', 'save', 'pen', 'drop_a_line', 'indite', 'write', 'compose']",The New York Times
+D'Albert,[],The New York Times
+Viscount,['viscount'],The New York Times
+cowboy,"['cowpoke', 'cattleman', 'cowhand', 'cowherd', 'puncher', 'rodeo_rider', 'cowpuncher', 'cowboy', 'cowman']",The New York Times
+his,[],The New York Times
+recital,"['recital', 'recitation', 'reading', 'yarn', 'narration']",The New York Times
+error,"['error', 'erroneousness', 'wrongdoing', 'erroneous_belief', 'computer_error', 'mistake', 'misplay', 'fault']",The New York Times
+mention,"['mention', 'cite', 'advert', 'reference', 'refer', 'citation', 'acknowledgment', 'honorable_mention', 'remark', 'note', 'quotation', 'credit', 'bring_up', 'observe', 'name']",The New York Times
+flat,"['two-dimensional', 'directly', 'mat', 'plane', 'matt', 'insipid', 'level', 'savorless', 'vapid', 'monotonic', 'flavourless', 'compressed', 'flatbed', '2-dimensional', 'matte', 'flat', 'flat_tire', 'categoric', 'straight', 'savourless', 'flavorless', 'apartment', 'unconditional', 'matted', 'flatcar', 'categorical', 'monotonous', 'monotone', 'bland', 'prostrate']",The New York Times
+intimate,"['internal', 'confidant', 'familiar', 'knowledgeable', 'insinuate', 'intimate', 'versed', 'cozy', 'informal', 'sexual', 'adumbrate', 'inner', 'suggest']",The New York Times
+daughters,"['daughter', 'girl']",The New York Times
+Their,[],The New York Times
+Hall,"['hallway', 'Radclyffe_Hall', 'residence_hall', 'Granville_Stanley_Hall', 'foyer', 'manor_hall', 'dorm', 'Charles_Martin_Hall', 'manse', 'entrance_hall', 'lobby', 'vestibule', 'Marguerite_Radclyffe_Hall', 'dormitory', 'hall', 'Charles_Francis_Hall', 'Hall', 'Asaph_Hall', 'student_residence', 'antechamber', 'residence', 'mansion_house', 'mansion', 'anteroom', 'G._Stanley_Hall']",The New York Times
+When,[],The New York Times
+directness,"['candidness', 'candor', 'candour', 'straightness', 'frankness', 'directness', 'forthrightness']",The New York Times
+ebullient,"['ebullient', 'high-spirited', 'exuberant']",The New York Times
+originally,"['primitively', 'to_begin_with', 'in_the_beginning', 'in_the_first_place', 'originally', 'earlier']",The New York Times
+from,[],The New York Times
+necessarily,"['inevitably', 'needfully', 'necessarily', 'of_necessity', 'needs']",The New York Times
+comedian,"['comedian', 'comic']",The New York Times
+best,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'respectable', 'Charles_Herbert_Best', 'in_effect', 'sound', 'outdo', 'better', 'topper', 'intimately', 'estimable', 'proficient', 'C._H._Best', 'skillful', 'outflank', 'trump', 'secure', 'dependable', 'dear', 'practiced', 'near', 'beneficial', 'best', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'scoop', 'effective', 'unspoiled', 'substantially', 'considerably', 'honorable', 'safe', 'Best']",The New York Times
+supplies,"['furnish', 'ply', 'append', 'supply', 'issue', 'provide', 'render', 'add', 'provision', 'supplying', 'cater']",The New York Times
+cardinal,"['carmine', 'cardinal', 'central', 'key', 'redbird', 'cardinal_grosbeak', 'cardinal_number', 'Cardinalis_cardinalis', 'fundamental', 'primal', 'Richmondena_Cardinalis']",The New York Times
+country,"['land', 'country', 'nation', 'res_publica', 'rural_area', 'area', 'commonwealth', 'state', 'body_politic']",The New York Times
+delicate,"['frail', 'finespun', 'delicate', 'fragile', 'soft', 'ticklish', 'touchy']",The New York Times
+Dixon,[],The New York Times
+quite,"['quite_an', 'quite_a', 'rather', 'quite']",The New York Times
+considerable,['considerable'],The New York Times
+sounds,"['voice', 'vocalize', 'go', 'speech_sound', 'audio', 'fathom', 'phone', 'auditory_sensation', 'strait', 'vocalise', 'sound']",The New York Times
+out,"['come_out', ""KO'd"", 'prohibited', 'out', 'proscribed', 'forbidden', 'knocked_out', 'extinct', 'away', 'kayoed', 'come_out_of_the_closet', 'tabu', 'stunned', 'taboo', 'verboten']",The New York Times
+nickname,"['sobriquet', 'moniker', 'dub', 'nickname', 'byname', 'soubriquet', 'cognomen']",The New York Times
+courses,"['course_of_instruction', 'line', 'form', 'run', 'path', 'course', 'course_of_action', 'class', 'track', 'row', 'feed', 'flow', 'grade', 'course_of_study', 'trend']",The New York Times
+is,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The New York Times
+tones,"['feel', 'step', 'tone', 'look', 'intone', 'tone_of_voice', 'whole_step', 'timbre', 'modulate', 'note', 'flavor', 'tincture', 'smell', 'feeling', 'tint', 'shade', 'timber', 'chant', 'strengthen', 'tonus', 'musical_note', 'inflect', 'pure_tone', 'quality', 'tone_up', 'flavour', 'spirit', 'whole_tone', 'tonicity']",The New York Times
+earlier,"['former', 'early', 'earliest', 'in_the_beginning', 'sooner', 'before', 'to_begin_with', 'in_the_first_place', 'originally', 'earlier', 'other']",The New York Times
+others,[],The New York Times
+who,"['World_Health_Organization', 'WHO']",The New York Times
+defeat,"['frustration', 'licking', 'get_the_better_of', 'vote_down', 'vote_out', 'defeat', 'kill', 'shoot_down', 'overcome']",The New York Times
+fireworks,"['firework', 'pyrotechnic']",The New York Times
+Dwor',[],The New York Times
+color,"['colour_in', 'colour', 'coloration', 'colouration', 'semblance', 'color_in', 'colourise', 'distort', 'emblazon', 'colouring', 'gloss', 'colorize', 'discolor', 'colouring_material', 'people_of_colour', 'discolour', 'colorise', 'vividness', 'coloring', 'colourize', 'people_of_color', 'tinge', 'coloring_material', 'color']",The New York Times
+Hungarian-born,[],The New York Times
+Remaking,"['remaking', 'redo', 'remake', 'refashion', 'make_over']",The New York Times
+Town,"['Town', 'Ithiel_Town', 'townspeople', 'townsfolk', 'township', 'town']",The New York Times
+danger,"['danger', 'peril', 'risk']",The New York Times
+singing,"['vocalizing', 'singing', 'blab', 'blab_out', 'sear', 'babble_out', 'swinge', 'whistle', 'talk', 'babble', 'telling', 'let_the_cat_out_of_the_bag', 'sing', 'spill_the_beans', 'peach', 'cantabile', 'scorch', 'tattle', 'singe']",The New York Times
+win,"['gain', 'deliver_the_goods', 'profits', 'make_headway', 'win', 'advance', 'come_through', 'bring_home_the_bacon', 'acquire', 'pull_ahead', 'gain_ground', 'get_ahead', 'winnings', 'succeed']",The New York Times
+On,"['along', 'on']",The New York Times
+returned,"['take_back', 'give', 'refund', 'revert', 'give_back', 'retrovert', 'pass', 'generate', 'reelect', 'deliver', 'yield', 'retort', 'turn_back', 'riposte', 'hark_back', 'return', 'rejoin', 'come_back', 'devolve', 'bring_back', 'fall', 'regress', 'render', 'recall', 'repay']",The New York Times
+His,[],The New York Times
+Robert,"['Henry_Martyn_Robert', 'Robert', 'Henry_M._Robert']",The New York Times
+),[],The New York Times
+Prokofieff,[],The New York Times
+nor,[],The New York Times
+account,"['invoice', 'report', 'chronicle', 'story', 'score', 'account', 'write_up', 'accounting', 'answer_for', 'history', 'business_relationship', 'bill', 'news_report', 'account_statement', 'describe', 'explanation', 'calculate']",The New York Times
+folk,"['folk_music', 'folks', 'folk', 'tribe', 'sept', 'kinsfolk', 'phratry', 'ethnic_music', 'common_people', 'kinfolk', 'family_line', 'family']",The New York Times
+dance,"['trip_the_light_fantastic', 'trip_the_light_fantastic_toe', 'dance', 'dancing', 'saltation', 'terpsichore']",The New York Times
+admirable,['admirable'],The New York Times
+night,"['dark', 'Night', 'nighttime', 'Nox', 'night']",The New York Times
+disastrous,"['calamitous', 'fateful', 'fatal', 'black', 'disastrous']",The New York Times
+Krakowiak,[],The New York Times
+particular,"['finical', 'particular', 'particular_proposition', 'peculiar', 'detail', 'fussy', 'picky', 'special', 'item', 'exceptional', 'finicky', 'specific', 'especial']",The New York Times
+exuberant,"['excessive', 'overweening', 'exuberant', 'profuse', 'extravagant', 'luxuriant', 'ebullient', 'riotous', 'high-spirited', 'lush']",The New York Times
+Choir,"['chorus', 'choir', 'consort']",The New York Times
+produce,"['create', 'bring_forth', 'give_rise', 'get', 'green_groceries', 'produce', 'make', 'garden_truck', 'bring_on', 'farm', 'raise', 'acquire', 'grow', 'develop', 'bring_out', 'green_goods', 'bring_about']",The New York Times
+lapse,"['backsliding', 'reverting', 'oversight', 'go_along', 'recidivate', 'slip_by', 'sink', 'backslide', 'lapse', 'pass', 'relapse', 'relapsing', 'reversion', 'retrogress', 'regress', 'elapse', 'fall_back', 'slip_away', 'slide_by', 'lapsing', 'go_by', 'glide_by']",The New York Times
+least,"['to_the_lowest_degree', 'least']",The New York Times
+ballet,"['concert_dance', 'ballet']",The New York Times
+Haydn's,[],The New York Times
+Everywhere,"['everyplace', 'all_over', 'everywhere']",The New York Times
+died,"['kick_the_bucket', 'die', 'expire', 'break_down', 'pop_off', 'pall', 'drop_dead', 'conk', ""cash_in_one's_chips"", 'pass', 'exit', 'snuff_it', 'give_out', 'die_out', 'buy_the_farm', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'pass_away', 'perish', 'fail', 'become_flat', 'croak', 'conk_out', 'break', 'give_way', 'choke']",The New York Times
+short,"['unretentive', 'shortstop', 'scant', 'brusque', 'myopic', 'curt', 'short-change', 'inadequate', 'poor', 'suddenly', 'short', 'unforesightful', 'short_circuit', 'dead', 'forgetful', 'abruptly', 'short-circuit', 'light', 'little', 'unawares', 'shortsighted', 'brusk', 'curtly', 'shortly']",The New York Times
+unrelieved,"['undiminished', 'unrelieved']",The New York Times
+within,"['inside', 'within']",The New York Times
+years,"['old_age', 'yr', 'geezerhood', 'days', 'year', 'twelvemonth', 'age', 'long_time', 'class', 'eld', 'years']",The New York Times
+dancers,"['social_dancer', 'dancer', 'professional_dancer', 'terpsichorean']",The New York Times
+fresh,"['refreshed', 'brisk', 'sassy', 'refreshful', 'newly', 'new', 'freshly', 'invigorated', 'clean', 'sweet', 'fresh', 'saucy', 'overbold', 'impudent', 'novel', 'reinvigorated', 'impertinent', 'unfermented', 'unused', 'smart', 'bracing', 'tonic', 'refreshing', 'wise']",The New York Times
+vigorous,['vigorous'],The New York Times
+endure,"['suffer', 'survive', 'hold_out', 'wear', 'die_hard', 'digest', 'run', 'live_on', 'persist', 'brave_out', 'weather', 'brave', 'prevail', 'put_up', 'go', 'stomach', 'last', 'endure', 'stand', 'brook', 'bear', 'stick_out', 'support', 'tolerate', 'abide', 'hold_up', 'live']",The New York Times
+intensity,"['chroma', 'saturation', 'loudness', 'vividness', 'intensiveness', 'intensity', 'volume', 'intensity_level', 'strength']",The New York Times
+Slim,"['reduce', 'slim', 'svelte', 'melt_off', 'thin', 'slenderize', 'slight', 'slender', 'slim_down', 'lose_weight']",The New York Times
+being,"['equal', 'comprise', 'constitute', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'existence', 'live', 'organism', 'being', 'beingness']",The New York Times
+if,[],The New York Times
+self-critical,[],The New York Times
+usually,"['normally', 'unremarkably', 'ordinarily', 'commonly', 'usually']",The New York Times
+only,"['only', 'entirely', 'sole', 'merely', 'simply', 'only_when', 'solitary', 'lone', 'just', 'exclusively', 'alone', 'only_if', 'solely', 'lonesome', 'but']",The New York Times
+desirable,"['desirable', 'suitable', 'worthy']",The New York Times
+husband,"['economise', 'economize', 'hubby', 'married_man', 'conserve', 'husband']",The New York Times
+choir's,[],The New York Times
+need,"['need', 'postulate', 'indigence', 'penury', 'involve', 'call_for', 'take', 'motivation', 'necessitate', 'motive', 'ask', 'want', 'pauperism', 'demand', 'pauperization', 'require']",The New York Times
+an,"['AN', 'Associate_in_Nursing']",The New York Times
+around,"['about', 'more_or_less', 'round', 'just_about', 'around', 'or_so', 'close_to', 'approximately', 'roughly', 'some']",The New York Times
+completed,"['make_out', 'accomplished', 'realised', 'complete', 'discharge', 'finish', 'fill_out', 'fill_in', 'completed', 'realized', 'nail', 'dispatch']",The New York Times
+nonstop,"['around-the-clock', 'nonstop_flight', 'nonstop', 'round-the-clock', 'day-and-night']",The New York Times
+refers,"['mention', 'denote', 'have-to_doe_with', 'cite', 'relate', 'look_up', 'pertain', 'refer', 'bear_on', 'touch_on', 'touch', 'concern', 'come_to', 'consult', 'advert', 'bring_up', 'name']",The New York Times
+battles,"['battle', 'struggle', 'conflict', 'combat', 'engagement', 'fight']",The New York Times
+health,"['wellness', 'health']",The New York Times
+unsettled,"['enervate', 'changeable', 'unsettled', 'unsettle', 'faze', 'unnerve', 'uncertain']",The New York Times
+surface,"['come_up', 'come_out', 'rise', ""Earth's_surface"", 'coat', 'come_on', 'show_up', 'turn_up', 'surface', 'airfoil', 'open', 'control_surface', 'aerofoil', 'rise_up']",The New York Times
+rally,"['come_up', 'tease', 'rallying', 'summon', 'razz', 'bait', 'muster', 'muster_up', 'beat_up', 'tantalise', 'mobilize', 'cod', 'mass_meeting', 'call_up', 'mobilise', 'rebound', 'exchange', 'taunt', 'rag', 'tantalize', 'drum_up', 'twit', 'ride', 'rally']",The New York Times
+DePaul,[],The New York Times
+discipline,"['discipline', 'subject_area', 'field_of_study', 'subject', 'subject_field', 'correct', 'condition', 'study', 'sort_out', 'field', 'bailiwick', 'train', 'correction', 'check']",The New York Times
+have,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'wealthy_person', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'rich_person', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The New York Times
+variation,"['variant', 'variation', 'fluctuation', 'pas_seul', 'sport', 'magnetic_declination', 'edition', 'mutation', 'version', 'magnetic_variation', 'mutant', 'variance']",The New York Times
+To,[],The New York Times
+five,"['five-spot', 'Phoebe', 'basketball_team', 'five', 'fin', 'quintuplet', 'v', 'fivesome', 'quintet', 'cinque', '5', 'Little_Phoebe', 'V', 'quint', 'pentad']",The New York Times
+anecdotes,['anecdote'],The New York Times
+National,"['internal', 'subject', 'national', 'home', 'interior']",The New York Times
+romanticism,"['Romanticism', 'romanticism', 'Romantic_Movement', 'romance']",The New York Times
+Anna,['anna'],The New York Times
+untrained,['untrained'],The New York Times
+leadership,"['leading', 'leadership', 'leaders']",The New York Times
+believed,"['consider', 'believe', 'think', 'trust', 'conceive']",The New York Times
+Miss,"['fille', 'lose', 'miss', 'neglect', 'overlook', 'young_woman', 'misfire', 'drop', 'omit', 'lack', 'escape', 'young_lady', 'leave_out', 'girl', 'Miss', 'overleap', 'missy', 'pretermit']",The New York Times
+stage,"['arrange', 'level', 'represent', 'degree', 'microscope_stage', 'phase', 'stagecoach', 'point', 'leg', 'stage', 'present']",The New York Times
+example,"['exemplar', 'good_example', 'object_lesson', 'representative', 'instance', 'deterrent_example', 'exercise', 'model', 'lesson', 'illustration', 'example', 'case']",The New York Times
+Britten,"['Britten', 'Benjamin_Britten', 'Lord_Britten_of_Aldeburgh', 'Edward_Benjamin_Britten']",The New York Times
+495,[],The New York Times
+could,[],The New York Times
+rehash,"['retrograde', 'rehash', 'hash_over']",The New York Times
+cut,"['gash', 'slashed', 'trim_back', 'tailor', 'issue', 'switch_off', 'emasculated', 'trimmed', 'rationalize', 'excision', 'swing', 'geld', 'weakened', 'reduce', 'prune', 'cut', 'bring_down', 'cut_off', 'cut_back', 'mown', 'slew', 'write_out', 'hack', 'shorten', 'edit_out', 'gelded', 'snub', 'thinned', 'abbreviate', 'make_out', 'skip', 'abridge', 'foreshorten', 'cut_of_meat', 'trim_down', 'slash', 'dilute', 'thin_out', 'thin', 'deletion', 'contract', 'slice', 'turn_off', 'veer', 'sheer', 'undercut', 'turn_out', 'rationalise', 'trend', 'ignore', 'shortened', 'baseball_swing', 'trim', 'slue', 'disregard', 'cutting_off', 'burn', 'curve', 'track', 'swerve', 'edit', 'stinger', 'cut_down', 'cold_shoulder', 'cutting']",The New York Times
+basically,"['essentially', 'fundamentally', 'basically']",The New York Times
+ill-equipped,['ill-equipped'],The New York Times
+be,"['equal', 'atomic_number_4', 'comprise', 'represent', 'cost', 'embody', 'follow', 'glucinium', 'be', 'exist', 'make_up', 'beryllium', 'personify', 'live', 'Be', 'constitute']",The New York Times
+heavily,"['intemperately', 'to_a_great_extent', 'hard', 'heavy', 'heavily']",The New York Times
+but,"['only', 'simply', 'merely', 'just', 'but']",The New York Times
+Indians,"['American-Indian_language', 'Indian', 'American_Indian', 'Red_Indian', 'Amerindian_language', 'Amerind']",The New York Times
+Of,[],The New York Times
+something,[],The New York Times
+filagree,"['filigree', 'filagree', 'fillagree']",The New York Times
+lines,"['job', 'line_of_credit', 'crinkle', 'railway_line', 'melodic_phrase', 'short_letter', 'parentage', 'note', 'argumentation', 'trace', 'blood_line', 'pedigree', 'phone_line', 'bloodline', 'stemma', 'billet', 'bank_line', 'descent', 'business', 'dividing_line', 'product_line', 'personal_credit_line', 'furrow', 'communication_channel', 'assembly_line', 'line_of_business', 'melodic_line', 'run_along', 'subscriber_line', 'ancestry', 'seam', 'line_of_reasoning', 'line', 'strain', 'stock', 'crease', 'delineate', 'agate_line', 'line_of_products', 'credit_line', 'rail_line', 'line_of_merchandise', 'personal_line_of_credit', 'describe', 'telephone_circuit', 'line_of_descent', 'channel', 'tune', 'line_of_work', 'air', 'argument', 'cable', 'wrinkle', 'telephone_line', 'contrast', 'origin', 'course', 'transmission_line', 'blood', 'melody', 'pipeline', 'demarcation', 'lineage', 'production_line', 'business_line', 'draw', 'logical_argument', 'occupation']",The New York Times
+commanders,"['commanding_officer', 'air_force_officer', 'commander', 'commandant']",The New York Times
+background,"['background', 'backcloth', 'screen_background', 'ground', 'background_knowledge', 'downplay', 'backdrop', 'background_signal', 'desktop', 'setting', 'scope', 'play_down']",The New York Times
+last,"['finale', 'death', 'survive', 'hold_out', 'terminal', 'close', 'utmost', 'final_stage', 'concluding', 'end', 'in_conclusion', 'finally', 'stopping_point', 'live_on', 'lastly', 'go', 'last', ""shoemaker's_last"", 'endure', 'finish', ""cobbler's_last"", 'lowest', 'conclusion', 'last-place', 'final', 'hold_up', 'finis', 'live', 'net']",The New York Times
+equally,"['every_bit', 'evenly', 'equally', 'as']",The New York Times
+opportunity,"['chance', 'opportunity']",The New York Times
+won,"['gain', 'deliver_the_goods', 'make_headway', 'win', 'South_Korean_won', 'advance', 'come_through', 'won', 'bring_home_the_bacon', 'acquire', 'pull_ahead', 'gain_ground', 'get_ahead', 'North_Korean_won', 'succeed']",The New York Times
+solid,"['satisfying', 'whole', 'strong', 'substantial', 'self-coloured', 'self-colored', 'firm', 'upstanding', 'solid_state', 'hearty', 'solid', 'unanimous', 'square', 'solidness']",The New York Times
+debut,"['launching', 'entry', 'debut', 'unveiling', 'first_appearance', 'introduction']",The New York Times
+stood,"['stick_out', 'digest', 'stand_up', 'support', 'put_up', 'tolerate', 'resist', 'stomach', 'endure', 'place_upright', 'abide', 'stand', 'suffer', 'remain_firm', 'brook', 'fend', 'bear']",The New York Times
+description,"['description', 'verbal_description']",The New York Times
+kill,"['stamp_out', 'obliterate', 'pour_down', 'killing', 'belt_down', 'putting_to_death', 'vote_down', 'bolt_down', 'vote_out', 'pop', 'down', 'toss_off', 'defeat', 'wipe_out', 'kill', 'shoot_down', 'drink_down']",The New York Times
+curtain,"['mantle', 'drapery', 'drape', 'curtain', 'pall']",The New York Times
+seemed,"['appear', 'seem', 'look']",The New York Times
+himself,[],The New York Times
+unending,"['unending', 'eonian', 'perpetual', 'unceasing', 'eternal', 'everlasting', 'ageless', 'aeonian']",The New York Times
+And,[],The New York Times
+Durante,"['Durante', 'Jimmy_Durante']",The New York Times
+presentation,"['intro', 'presentation', 'display', 'presentment', 'demonstration', 'introduction']",The New York Times
+twenty,"['twenty', '20', 'twenty_dollar_bill', 'XX', 'xx']",The New York Times
+field,"['discipline', 'arena', 'champaign', 'subject_field', 'theater', 'theatre_of_operations', 'airfield', 'field_of_operations', 'subject_area', 'theatre', 'field_of_view', 'playing_field', 'landing_field', 'theater_of_operations', 'field_of_honor', 'field_of_force', 'battleground', 'study', 'domain', 'flying_field', 'playing_area', 'field_of_operation', 'line_of_business', 'subject', 'field_of_battle', 'sphere', 'battlefield', 'bailiwick', 'field_of_study', 'area', 'athletic_field', 'orbit', 'force_field', 'field', 'plain']",The New York Times
+frank,"['outspoken', 'Frank', 'weenie', 'blunt', 'hotdog', 'point-blank', 'forthright', 'dog', 'wiener', 'free-spoken', 'plainspoken', 'straight-from-the-shoulder', 'wienerwurst', 'hot_dog', 'frank', 'frankfurter', 'candid', 'postmark']",The New York Times
+even,"['eventide', 'level', 'eve', 'still', 'yet', 'even_out', 'regular', 'fifty-fifty', 'tied', 'even', 'flush', 'evening']",The New York Times
+technicalities,"['trifle', 'technicality', 'triviality']",The New York Times
+whole,"['whole', 'entirely', 'altogether', 'all', 'unit', 'unharmed', 'totally', 'unhurt', 'wholly', 'unscathed', 'completely', 'solid', 'unanimous', 'hale']",The New York Times
+narrative,"['narration', 'narrative', 'tale', 'story']",The New York Times
+now,"['now', 'forthwith', 'directly', 'immediately', 'straight_off', 'right_away', 'straightaway', 'at_present', 'instantly', 'nowadays', 'like_a_shot', 'today', 'at_once']",The New York Times
+performance,"['performance', 'operation', 'carrying_into_action', 'public_presentation', 'carrying_out', 'functioning', 'execution']",The New York Times
+lyric,"['lyric', 'lyrical', 'lyric_poem', 'language', 'words']",The New York Times
+Lines,"['job', 'line_of_credit', 'crinkle', 'railway_line', 'melodic_phrase', 'short_letter', 'parentage', 'note', 'argumentation', 'trace', 'blood_line', 'pedigree', 'phone_line', 'bloodline', 'stemma', 'billet', 'bank_line', 'descent', 'business', 'dividing_line', 'product_line', 'personal_credit_line', 'furrow', 'communication_channel', 'assembly_line', 'line_of_business', 'melodic_line', 'run_along', 'subscriber_line', 'ancestry', 'seam', 'line_of_reasoning', 'line', 'strain', 'stock', 'crease', 'delineate', 'agate_line', 'line_of_products', 'credit_line', 'rail_line', 'line_of_merchandise', 'personal_line_of_credit', 'describe', 'telephone_circuit', 'line_of_descent', 'channel', 'tune', 'line_of_work', 'air', 'argument', 'cable', 'wrinkle', 'telephone_line', 'contrast', 'origin', 'course', 'transmission_line', 'blood', 'melody', 'pipeline', 'demarcation', 'lineage', 'production_line', 'business_line', 'draw', 'logical_argument', 'occupation']",The New York Times
+eight,"['eighter', 'octet', 'octonary', 'eight', '8', 'VIII', 'eighter_from_Decatur', 'Ashcan_School', 'viii', 'eight-spot', 'ogdoad', 'octad', 'Eight']",The New York Times
+second,"['sec', 'second', 'bit', 'indorsement', 'secondment', 'second_base', 'minute', 's', 'second_gear', 'secondly', 'indorse', '2nd', 'moment', '2d', 'endorsement', 'irregular', 'mo', 'endorse', 'instant', 'back', 'arcsecond']",The New York Times
+young,"['Whitney_Young', 'Danton_True_Young', 'Cy_Young', 'young', 'Pres_Young', 'new', 'Whitney_Moore_Young_Jr.', 'untested', 'youth', 'Lester_Willis_Young', 'Young', 'immature', 'offspring', 'Brigham_Young', 'Thomas_Young', 'untried', 'Loretta_Young', 'unseasoned', 'vernal', 'Edward_Young', 'youthful']",The New York Times
+youngsters,"['nestling', 'tike', 'youngster', 'tiddler', 'fry', 'kid', 'tyke', 'minor', 'shaver', 'nipper', 'child', 'small_fry']",The New York Times
+acoustics,"['acoustics', 'acoustic']",The New York Times
+touch,"['pinch', 'signature', 'sense_of_touch', 'affect', 'spot', 'bear_upon', 'reach', 'touch', 'tactual_sensation', 'concern', 'contact', 'touch_modality', 'trace', 'refer', 'bear_on', 'advert', 'impact', 'feeling', 'tint', 'stir', 'touching', 'touch_sensation', 'tactile_sensation', 'cutaneous_senses', 'meet', 'mite', 'extend_to', 'relate', 'skin_senses', 'pertain', 'soupcon', 'rival', 'partake', 'come_to', 'jot', 'tinct', 'ghost', 'equal', 'have-to_doe_with', 'speck', 'allude', 'disturb', 'adjoin', 'tinge', 'match', 'touch_on', 'hint']",The New York Times
+500,"['500', 'D', 'five_hundred', 'd']",The New York Times
+Violin,"['violin', 'fiddle']",The New York Times
+It,"['information_technology', 'IT']",The New York Times
+forces,"['violence', 'pull', 'push', 'drive', 'pressure', 'wedge', 'coerce', 'military_group', 'ram', 'military_force', 'hale', 'squeeze', 'forcefulness', 'force-out', 'impel', 'power', 'military_unit', 'personnel', 'force_play', 'force_out', 'effect', 'draw', 'force', 'storm', 'thrust', 'strength']",The New York Times
+``,[],The New York Times
+Mater,"['matted', 'matte', 'flat', 'mat', 'matt', 'mater']",The New York Times
+virtues,"['virtue', 'chastity', 'merit', 'sexual_morality', 'virtuousness', 'moral_excellence']",The New York Times
+wonderfully,"['wondrous', 'toppingly', 'terrifically', 'wondrously', 'marvellously', 'superbly', 'marvelously', 'wonderfully']",The New York Times
+will,"['will', 'bequeath', 'testament', 'leave', 'volition']",The New York Times
+first,"['commencement', 'low', 'showtime', 'outset', 'initiative', 'foremost', 'first', 'maiden', 'world-class', 'firstly', 'offset', 'low_gear', 'get-go', 'first_gear', 'initiatory', '1st', 'beginning', 'first_off', 'first_of_all', 'kickoff', 'start', 'inaugural', 'number_one', 'number_1', 'first-class_honours_degree', 'first_base', 'starting_time', 'for_the_first_time']",The New York Times
+Serieuses,[],The New York Times
+extremely,"['extremely', 'super', 'highly', 'passing', 'exceedingly']",The New York Times
+loud,"['gimcrack', 'flashy', 'loud', 'gaudy', 'loudly', 'tacky', 'tatty', 'meretricious', 'cheap', 'brassy', 'trashy', 'tawdry', 'aloud', 'forte', 'garish', 'flash']",The New York Times
+instance,"['representative', 'instance', 'illustration', 'example', 'exemplify', 'illustrate', 'case']",The New York Times
+No.,"['ordinal', 'ordinal_number', 'no.']",The New York Times
+recruits,"['enroll', 'military_recruit', 'enrol', 'enter', 'recruit', 'raise', 'inscribe', 'enlistee', 'levy']",The New York Times
+Pat,"['dab', 'slick', 'glib', 'tap', 'chuck', 'pat', 'rap']",The New York Times
+she,[],The New York Times
+ever,"['ever', 'of_all_time', 'always', 'ever_so', ""e'er""]",The New York Times
+professionally,['professionally'],The New York Times
+generals,"['full_general', 'general', 'superior_general']",The New York Times
+smack,"['taste', 'bang', 'nose_drops', 'slapdash', 'skag', 'smooch', 'flavor', 'smell', 'slap', 'smacking', 'smack', 'thwack', 'bolt', 'nip', 'hell_dust', 'sapidity', 'reek', 'big_H', 'tang', 'thunder', 'flavour', 'savour', 'relish', 'scag', 'savor', 'peck']",The New York Times
+says,"['say', 'order', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'state', 'enjoin', 'read', 'articulate']",The New York Times
+made,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'made', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The New York Times
+rivers,['river'],The New York Times
+pianist's,[],The New York Times
+romantic,"['wild-eyed', 'romantic', 'quixotic', 'amorous', 'romanticistic', 'amatory', 'romanticist']",The New York Times
+demands,"['need', 'postulate', 'requirement', 'take', 'necessitate', 'ask', 'require', 'involve', 'demand', 'call_for', 'exact']",The New York Times
+United,"['unite', 'join', 'combine', 'unify', 'link', 'merge', 'joined', 'link_up', 'connect', 'united']",The New York Times
+1948,[],The New York Times
+defeated,"['get_the_better_of', 'disappointed', 'thwarted', 'defeated', 'vote_down', 'vote_out', 'frustrated', 'shoot_down', 'defeat', 'foiled', 'kill', 'discomfited', 'overcome']",The New York Times
+twenty-six,"['26', 'xxvi', 'XXVI', 'twenty-six']",The New York Times
+Brahmsian,[],The New York Times
+engaging,"['pursue', 'absorb', 'wage', 'occupy', 'engross', 'betroth', 'lock', 'prosecute', 'charter', 'lease', 'engaging', 'take', 'employ', 'piquant', 'operate', 'affiance', 'plight', 'hire', 'mesh', 'enlist', 'engage', 'rent']",The New York Times
+treatment,"['discussion', 'handling', 'discourse', 'treatment', 'intervention']",The New York Times
+after,"['later_on', 'subsequently', 'afterward', 'after', 'later', 'afterwards']",The New York Times
+Baroque,"['churrigueresque', 'baroqueness', 'Baroque_period', 'churrigueresco', 'baroque', 'Baroque', 'Baroque_era']",The New York Times
+outmaneuvered,"['outmanoeuvre', 'outmaneuver', 'outsmart']",The New York Times
+Center,"['revolve_about', 'meat', 'pith', 'shopping_center', 'centerfield', 'heart_and_soul', 'marrow', 'focus', 'nitty-gritty', 'nerve_centre', 'plaza', 'concentrate', 'pore', 'center_field', 'centre_of_attention', 'essence', 'inwardness', 'substance', 'center_on', 'revolve_around', 'middle', 'midway', 'mall', 'center_of_attention', 'shopping_centre', 'kernel', 'eye', 'centre', 'core', 'heart', 'nerve_center', 'nub', 'gist', 'shopping_mall', 'rivet', 'center', 'halfway', 'focus_on', 'snapper', 'sum', 'midpoint', 'concentrate_on']",The New York Times
+Mr.,"['Mr.', 'Mister', 'Mr']",The New York Times
+her,[],The New York Times
+company,"['company', 'party', 'caller', 'keep_company', ""ship's_company"", 'accompany', 'society', 'companionship', 'companion', 'fellowship', 'troupe']",The New York Times
+Kabalevsky,[],The New York Times
+Xydis,[],The New York Times
+had,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The New York Times
+B,"['atomic_number_5', 'B', 'boron', 'vitamin_B', 'barn', 'B_vitamin', 'bacillus', 'b', 'group_B', 'vitamin_B_complex', 'B_complex', 'B-complex_vitamin', 'Bel', 'type_B']",The New York Times
+marred,"['scarred', 'marred', 'vitiate', 'spoil', 'deflower', 'mutilate', 'mar', 'impair']",The New York Times
+minor,"['pocket-size', 'kid', 'modest', 'nipper', 'small_fry', 'nestling', 'tike', 'small-scale', 'shaver', 'pocket-sized', 'fry', 'underage', 'tyke', 'small', 'tiddler', 'child', 'youngster', 'nonaged', 'venial', 'minor']",The New York Times
+deepest,"['mysterious', 'deep', 'recondite', 'mystifying', 'rich', 'bass', 'thick', 'cryptic', 'abstruse', 'cryptical', 'inscrutable']",The New York Times
+enlightening,"['illuminate', 'crystalise', 'straighten_out', 'shed_light_on', 'elucidate', 'clear', 'edifying', 'clear_up', 'enlightening', 'irradiate', 'crystalize', 'edify', 'sort_out', 'crystallize', 'informative', 'crystallise', 'enlighten', 'illuminating']",The New York Times
+sentiment,"['sentiment', 'view', 'opinion', 'persuasion', 'thought']",The New York Times
+weighted,"['leaden', 'burthen', 'slant', 'burden', 'weight_down', 'weighted', 'angle', 'weight']",The New York Times
+under,"['nether', 'under', 'below']",The New York Times
+well-written,[],The New York Times
+lead,"['spark_advance', 'tip', 'wind', 'lead-in', 'tether', 'direct', 'Pb', 'booster_cable', 'lead_story', 'guide', 'lead', 'run', 'lede', 'leave', 'leading', 'pass', 'precede', 'steer', 'jumper_cable', 'top', 'atomic_number_82', 'jumper_lead', 'contribute', 'trail', 'go', 'pencil_lead', 'principal', 'conduce', 'take', 'leash', 'result', 'chair', 'track', 'confidential_information', 'moderate', 'star', 'conduct', 'head', 'extend', 'hint']",The New York Times
+Ravel-like,[],The New York Times
+are,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'are', 'ar', 'constitute']",The New York Times
+publication,"['publication', 'issue', 'publishing']",The New York Times
+mental,"['genial', 'mental']",The New York Times
+Burma,"['Myanmar', 'Burma', 'Union_of_Burma']",The New York Times
+simply,"['only', 'simply', 'merely', 'just', 'but', 'plainly']",The New York Times
+War,"['state_of_war', 'warfare', 'war']",The New York Times
+three-week,[],The New York Times
+Not,"['not', 'non']",The New York Times
+command,"['dictation', 'overlook', 'dominate', 'program_line', 'statement', 'command', 'bidding', 'bid', 'instruction', 'require', 'mastery', 'control', 'overtop']",The New York Times
+food,"['intellectual_nourishment', 'food_for_thought', 'nutrient', 'food', 'solid_food']",The New York Times
+few,['few'],The New York Times
+nurses,"['breastfeed', 'suck', 'nursemaid', 'hold', 'give_suck', 'wet-nurse', 'entertain', 'nurse', 'harbour', 'suckle', 'harbor', 'nanny', 'lactate']",The New York Times
+gained,"['benefit', 'win', 'realize', 'make', 'reach', 'arrive_at', 'put_on', 'pull_in', 'hit', 'profit', 'make_headway', 'bring_in', 'acquire', 'gain_ground', 'gather', 'gain', 'attain', 'clear', 'pull_ahead', 'get_ahead', 'take_in', 'derive', 'advance', 'earn', 'realise']",The New York Times
+closing,"['fill_up', 'closing', 'close', 'ending', 'shutdown', 'shutting', 'conclude', 'close_down', 'end', 'come_together', 'mop_up', 'shut_down', 'shut', 'conclusion', 'closedown', 'culmination', 'fold', 'close_up', 'closure', 'windup', 'completion']",The New York Times
+ability,"['ability', 'power']",The New York Times
+preventive,"['contraceptive_device', 'contraceptive', 'birth_control_device', 'hinderance', 'hindrance', 'preventative', 'interference', 'incumbrance', 'prophylactic', 'hitch', 'preventive', 'encumbrance', 'prophylactic_device']",The New York Times
+does,"['arrange', 'Energy', 'doe', 'make', 'do', 'act', 'behave', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'Energy_Department', 'Department_of_Energy', 'DOE', 'answer', 'practice', 'set', 'make_out', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'coiffure', 'cause', 'come', 'manage', 'fare']",The New York Times
+So,"['then', 'sol', 'thus', 'indeed', 'and_so', 'so', 'and_then', 'soh', 'hence', 'therefore', 'thence', 'thusly']",The New York Times
+violinist,"['fiddler', 'violinist']",The New York Times
+composers,['composer'],The New York Times
+David,"['David', 'St._David', 'Saint_David', 'Jacques_Louis_David']",The New York Times
+book,"['Koran', 'Bible', 'playscript', 'account_book', 'record', 'book', 'Christian_Bible', 'volume', 'script', 'Holy_Writ', ""al-Qur'an"", 'leger', 'Word', 'book_of_account', 'hold', 'rule_book', 'record_book', 'Word_of_God', 'Scripture', 'Quran', 'ledger', 'Book', 'Holy_Scripture', 'Good_Book', 'reserve']",The New York Times
+unable,"['unable', 'ineffectual', 'ineffective']",The New York Times
+buckaroos,"['buckeroo', 'vaquero', 'buckaroo']",The New York Times
+artists',[],The New York Times
+thrown,"['contrive', 'give', 'make', 'bedevil', 'confuse', 'shake_off', 'thrown', 'hurl', 'thrown_and_twisted', 'discombobulate', 'throw_away', 'shed', 'bewilder', 'confound', 'switch', 'project', 'drop', 'bemuse', 'hold', 'have', 'cast_off', 'throw', 'throw_off', 'fox', 'fuddle', 'flip', 'thrust', 'befuddle', 'cast']",The New York Times
+region,"['region', 'neighborhood', 'area', 'part', 'realm']",The New York Times
+more,"['Thomas_More', 'more_than', 'more', 'More', 'Sir_Thomas_More', 'to_a_greater_extent']",The New York Times
+living,"['sustenance', 'surviving', 'survive', 'aliveness', 'hold_out', 'bread_and_butter', 'dwell', 'subsist', 'living', 'be', 'live_on', 'livelihood', 'go', 'keep', 'last', 'populate', 'endure', 'exist', 'inhabit', 'support', 'life', 'animation', 'hold_up', 'live', 'know', 'experience']",The New York Times
+engagement,"['battle', 'troth', 'interlocking', 'conflict', 'involvement', 'meshing', 'employment', 'engagement', 'mesh', 'involution', 'participation', 'appointment', 'date', 'booking', 'betrothal', 'fight']",The New York Times
+doubt,"['doubtfulness', 'dubiousness', 'uncertainty', 'question', 'doubt', 'incertitude', 'dubiety']",The New York Times
+Brooding,"['pout', 'brooding', 'incubation', 'hover', 'musing', 'bulk_large', 'hatch', 'ruminative', 'dwell', 'incubate', 'grizzle', 'pensiveness', 'sulk', 'loom', 'reflective', 'broody', 'contemplative', 'cover', 'meditative', 'pensive', 'brood', 'stew', 'pondering']",The New York Times
+produced,"['create', 'bring_forth', 'give_rise', 'get', 'produce', 'make', 'bring_on', 'farm', 'raise', 'acquire', 'grow', 'develop', 'bring_out', 'bring_about']",The New York Times
+Istvan,[],The New York Times
+exceptionally,['exceptionally'],The New York Times
+mistakes,"['err', 'error', 'misunderstanding', 'misapprehension', 'slip', 'misidentify', 'mistake', 'fault']",The New York Times
+waver,"['hesitate', 'hesitation', 'flicker', 'falter', 'waffle', 'quiver', 'quaver', 'flutter', 'flitter', 'fluctuate', 'weave', 'waver', 'vacillate', 'faltering']",The New York Times
+series,"['serial_publication', 'serial', 'series']",The New York Times
+Strasny,[],The New York Times
+hold,"['withstand', 'agree', 'handgrip', 'give', 'carry', 'make', 'entertain', 'view_as', 'grasp', 'detention', 'clutch', 'take_hold', 'declare', 'guard', 'bind', 'deem', 'wait', 'book', 'clench', 'grip', 'postponement', 'clasp', 'obligate', 'obtain', 'concur', 'restrain', 'harbour', 'control', 'check', 'cargo_area', 'keep_back', 'prevail', 'admit', 'oblige', 'appreciation', 'retain', 'cargo_deck', 'hold', 'keep', 'contain', 'accommodate', 'defy', 'take', 'confine', 'handle', 'arrest', 'clutches', 'bear', 'go_for', 'custody', 'curb', 'throw', 'time_lag', 'hold_back', 'support', 'storage_area', 'sustain', 'defend', 'reserve', 'cargo_hold', 'take_for', 'apply', 'hold_up', 'hold_in', 'detainment', 'maintain', 'halt', 'moderate', 'nurse', 'adjudge', 'delay', 'harbor', 'concord', 'have_got', 'have']",The New York Times
+important,"['significant', 'important', 'crucial', 'of_import', 'authoritative']",The New York Times
+pleasing,"['delight', 'pleasing', 'please']",The New York Times
+written,"['publish', 'spell', 'save', 'scripted', 'written', 'pen', 'drop_a_line', 'indite', 'write', 'compose']",The New York Times
+were,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",The New York Times
+Board,"['board', 'control_panel', 'get_on', 'circuit_card', 'plug-in', 'room', 'table', 'plank', 'display_panel', 'add-in', 'display_board', 'dining_table', 'instrument_panel', 'control_board', 'circuit_board', 'card', 'gameboard', 'panel']",The New York Times
+Piano,"['soft', 'forte-piano', 'pianissimo', 'softly', 'pianoforte', 'piano']",The New York Times
+World,"['earth', 'creation', 'human_race', 'humankind', 'populace', 'humans', 'domain', 'global', 'cosmos', 'humanity', 'man', 'public', 'earthly_concern', 'macrocosm', 'worldly_concern', 'existence', 'human_beings', 'globe', 'mankind', 'reality', 'world-wide', 'Earth', 'worldwide', 'universe', 'world', 'planetary']",The New York Times
+near,"['nigh', 'virtually', 'close', 'go_up', 'approach', 'approximate', 'about', 'draw_close', 'come_near', 'well-nigh', 'cheeseparing', 'dear', 'most', 'near', 'draw_near', 'come_on', 'good', 'almost', 'penny-pinching', 'nearly', 'skinny']",The New York Times
+position,"['spot', 'spatial_relation', 'berth', 'emplacement', 'billet', 'lay', 'set', 'put', 'place', 'attitude', 'office', 'positioning', 'position', 'post', 'placement', 'situation', 'locating', 'stance', 'view', 'pose', 'stead', 'status', 'posture', 'location', 'perspective', 'military_position', 'lieu', 'side']",The New York Times
+numbers,"['total', 'issue', 'numbers_game', 'bit', 'act', 'turn', 'Book_of_Numbers', 'telephone_number', 'identification_number', 'routine', 'numbers_pool', 'list', 'phone_number', 'numeral', 'add_up', 'count', 'numbers', 'amount', 'numbers_racket', 'keep_down', 'number', 'figure', 'enumerate', 'come', 'Numbers', 'numerate']",The New York Times
+nicely,['nicely'],The New York Times
+Tatras,[],The New York Times
+one,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",The New York Times
+pleasure,"['pleasance', 'joy', 'delight', 'pleasure']",The New York Times
+Boyd,[],The New York Times
+waged,"['wag', 'waggle', 'engage', 'wage']",The New York Times
+killed,"['stamp_out', 'obliterate', 'pour_down', 'belt_down', 'vote_down', 'bolt_down', 'vote_out', 'pop', 'down', 'toss_off', 'defeat', 'wipe_out', 'kill', 'shoot_down', 'drink_down']",The New York Times
+river,['river'],The New York Times
+sleeve,"['sleeve', 'arm']",The New York Times
+doubts,"['doubtfulness', 'dubiousness', 'uncertainty', 'question', 'doubt', 'incertitude', 'dubiety']",The New York Times
+range,"['tramp', 'vagabond', 'reach', 'grasp', 'range_of_a_function', 'rove', 'wander', 'roll', 'chain', 'order', 'run', 'stray', 'array', 'range_of_mountains', 'image', 'set_out', 'browse', 'rank', 'drift', 'grade', 'chain_of_mountains', 'straddle', 'crop', 'place', 'ambit', 'swan', 'lay_out', 'kitchen_range', 'kitchen_stove', 'roam', 'cooking_stove', 'graze', 'mountain_chain', 'ramble', 'mountain_range', 'rate', 'orbit', 'compass', 'range', 'pasture', 'scope', 'stove', 'cast']",The New York Times
+ones,"['unity', '1', 'one', 'I', 'single', 'ace']",The New York Times
+held,"['withstand', 'agree', 'give', 'carry', 'make', 'entertain', 'view_as', 'take_hold', 'declare', 'guard', 'bind', 'deem', 'book', 'obligate', 'obtain', 'concur', 'restrain', 'harbour', 'control', 'check', 'oblige', 'keep_back', 'prevail', 'admit', 'retain', 'keep', 'hold', 'contain', 'accommodate', 'defy', 'take', 'confine', 'arrest', 'bear', 'go_for', 'curb', 'throw', 'hold_back', 'support', 'sustain', 'defend', 'reserve', 'take_for', 'apply', 'hold_up', 'hold_in', 'halt', 'maintain', 'adjudge', 'moderate', 'nurse', 'concord', 'held', 'harbor', 'have_got', 'have']",The New York Times
+contain,"['curb', 'turn_back', 'hold_back', 'comprise', 'carry', 'hold', 'contain', 'check', 'take', 'incorporate', 'hold_in', 'moderate', 'control', 'arrest', 'bear', 'stop']",The New York Times
+grin,"['smile', 'grinning', 'smiling', 'grin']",The New York Times
+madrigals,['madrigal'],The New York Times
+poorest,"['pitiable', 'pathetic', 'miserable', 'wretched', 'inadequate', 'pitiful', 'poor', 'piteous', 'misfortunate', 'short', 'hapless']",The New York Times
+ill-prepared,[],The New York Times
+two-thirds,['two-thirds'],The New York Times
+counter-moves,[],The New York Times
+supply,"['furnish', 'ply', 'append', 'supply', 'issue', 'provide', 'render', 'add', 'provision', 'supplying', 'cater']",The New York Times
+commander,"['commanding_officer', 'air_force_officer', 'commander', 'commandant']",The New York Times
+logistics,['logistics'],The New York Times
+selectively,['selectively'],The New York Times
+leader,"['leader', 'loss_leader', 'drawing_card']",The New York Times
+seems,"['appear', 'seem', 'look']",The New York Times
+corps,"['army_corps', 'corporation', 'corp', 'corps']",The New York Times
+remarks,"['mention', 'input', 'comment', 'notice', 'point_out', 'note', 'remark', 'observe']",The New York Times
+facilities,"['quickness', 'installation', 'facility', 'readiness', 'deftness', 'adeptness', 'adroitness']",The New York Times
+problem,"['job', 'problem', 'trouble']",The New York Times
+lovely,"['adorable', 'pin-up', 'endearing', 'lovely', 'cover_girl']",The New York Times
+there,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The New York Times
+new,"['freshly', 'fresh', 'novel', 'Modern', 'young', 'raw', 'New', 'unexampled', 'newly', 'newfangled', 'new']",The New York Times
+supervision,"['oversight', 'supervision', 'supervising', 'superintendence']",The New York Times
+impressed,"['yarn-dye', 'print', 'instill', 'shanghai', 'ingrain', 'affect', 'imprint', 'impress', 'move', 'strike', 'impressed']",The New York Times
+Clifton,[],The New York Times
+very,"['real', 'selfsame', 'really', 'very', 'rattling', 'identical']",The New York Times
+superior,"['superior', 'ranking', 'victor', 'superordinate', 'Lake_Superior', 'higher-up', 'higher-ranking', 'master', 'superscript', 'Superior']",The New York Times
+results,"['outcome', 'final_result', 'resultant', 'solution', 'issue', 'resolution', 'solvent', 'resultant_role', 'ensue', 'consequence', 'termination', 'leave', 'answer', 'lead', 'result', 'upshot', 'event', 'effect']",The New York Times
+sweet,"['sweet-flavored', 'odoriferous', 'angelical', 'sugared', 'confection', 'sweetness', 'Henry_Sweet', 'cherubic', 'mellifluous', 'mellisonant', 'gratifying', 'honeyed', 'afters', 'seraphic', 'sweet', 'sugariness', 'Sweet', 'perfumed', 'sweet-scented', 'fresh', 'scented', 'angelic', 'dessert', 'odorous', 'sweetened', 'sweet-smelling', 'unfermented', 'dulcet', 'sweetly']",The New York Times
+enjoyment,"['delectation', 'use', 'enjoyment']",The New York Times
+front,"['nominal_head', 'front_man', 'look', 'movement', 'strawman', 'social_movement', 'front_end', 'battlefront', 'breast', 'figurehead', 'presence', 'front', 'forepart', 'front_line', 'face', 'straw_man']",The New York Times
+vibrato,['vibrato'],The New York Times
+also,"['as_well', 'besides', 'likewise', 'too', 'also']",The New York Times
+simultaneously,"['simultaneously', 'at_the_same_time']",The New York Times
+interpretation,"['interpretation', 'rendering', 'reading', 'version', 'rendition', 'interpreting']",The New York Times
+England,['England'],The New York Times
+deal,"['good_deal', 'dole_out', 'look_at', 'batch', 'care', 'bargain', 'treat', 'plenty', 'divvy_up', 'hatful', 'quite_a_little', 'sight', 'mess', 'consider', 'address', 'mickle', 'slew', 'trade', 'heap', 'wad', 'contend', 'deal_out', 'portion_out', 'business_deal', 'tidy_sum', 'make_out', 'administer', 'stack', 'deal', 'share', 'carry_on', 'spate', 'allot', 'lot', 'mass', 'great_deal', 'take', 'dispense', 'dish_out', 'handle', 'apportion', 'mint', 'mountain', 'flock', 'get_by', 'hand', 'sell', 'cope', 'grapple', 'mete_out', 'parcel_out', 'make_do', 'softwood', 'shell_out', 'pile', 'manage', 'muckle', 'cover', 'passel', 'raft', 'distribute', 'plow', 'conduct', 'pot', 'peck']",The New York Times
+striking,"['outstanding', 'affect', 'take_up', 'impinge_on', 'move', 'come_upon', 'contact', 'coin', 'light_upon', 'hit', 'chance_upon', 'come_across', 'impinging', 'excise', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'spectacular', 'shine', 'attain', 'assume', 'hitting', 'striking', 'impress', 'take', 'salient', 'dramatic', 'come_to', 'mint', 'fall', 'strickle', 'happen_upon', 'prominent', 'discover', 'chance_on', 'scratch']",The New York Times
+;,[],The New York Times
+that,[],The New York Times
+costume,"['costume', 'dress_up']",The New York Times
+Lewisohn,[],The New York Times
+little,"['trivial', 'piddling', 'picayune', 'fiddling', 'slight', 'small', 'footling', 'minuscule', 'little', 'short', 'lilliputian', 'niggling', 'piffling', 'petty']",The New York Times
+everything,[],The New York Times
+barges,"['flatboat', 'push_forward', 'barge', 'thrust_ahead', 'hoy', 'lighter']",The New York Times
+work,"['workplace', 'play', 'function', 'make', 'shape', 'influence', 'act', 'turn', 'mould', 'wreak', 'sour', 'exercise', 'lick', 'run', 'puzzle_out', 'work_on', 'study', 'exploit', 'crop', 'bring', 'go', 'mold', 'forge', 'solve', 'ferment', 'act_upon', 'knead', 'body_of_work', 'operate', 'work', 'oeuvre', 'do_work', 'form', 'put_to_work', 'make_for', 'employment', 'cultivate', 'piece_of_work', 'work_out', 'figure_out', 'process']",The New York Times
+soprano,"['treble', 'soprano']",The New York Times
+General,"['full_general', 'general', 'worldwide', 'world-wide', 'cosmopolitan', 'universal', 'ecumenical', 'oecumenical', 'superior_general']",The New York Times
+battle,"['battle', 'struggle', 'conflict', 'combat', 'engagement', 'fight']",The New York Times
+accordingly,"['accordingly', 'consequently']",The New York Times
+form,"['contour', 'pattern', 'soma', 'make', 'shape', 'phase', 'mannikin', 'physical_body', 'mannequin', 'configuration', 'build', 'class', 'manikin', 'descriptor', 'constitute', 'mould', 'kind', 'organise', 'human_body', 'anatomy', 'take_shape', 'frame', 'variety', 'grade', 'strain', 'mold', 'imprint', 'manakin', 'sort', 'chassis', 'spring', 'forge', 'flesh', 'cast', 'work', 'variant', 'signifier', 'conformation', 'var.', 'form', 'figure', 'organize', 'take_form', 'bod', 'course', 'word_form', 'material_body', 'physique']",The New York Times
+Mira,[],The New York Times
+Africa,['Africa'],The New York Times
+well,"['wellspring', 'good', 'advantageously', 'well', 'swell', 'easily', 'comfortably', 'fountainhead', 'substantially', 'considerably', 'intimately']",The New York Times
+winning,"['gain', 'deliver_the_goods', 'make_headway', 'fetching', 'win', 'winning', 'advance', 'come_through', 'bring_home_the_bacon', 'victorious', 'taking', 'acquire', 'pull_ahead', 'gain_ground', 'get_ahead', 'succeed']",The New York Times
+conclusions,"['finale', 'ratiocination', 'determination', 'decision', 'last', 'end', 'finish', 'stopping_point', 'termination', 'conclusion', 'finis', 'closing', 'close', 'ending']",The New York Times
+Tempos,"['pacing', 'pace', 'tempo']",The New York Times
+generously,"['liberally', 'munificently', 'generously']",The New York Times
+--,[],The New York Times
+capricious,"['whimsical', 'freakish', 'impulsive', 'capricious']",The New York Times
+every,['every'],The New York Times
+technical,"['expert', 'proficient', 'technological', 'technical_foul', 'technical']",The New York Times
+earsplitting,"['deafening', 'earsplitting', 'thunderous', 'thundery']",The New York Times
+In,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",The New York Times
+probing,"['probe', 'poke_into', 'dig_into', 'searching', 'examine', 'probing', 'inquisitory']",The New York Times
+wife,"['married_woman', 'wife']",The New York Times
+although,[],The New York Times
+evening,"['eventide', 'level', 'eve', 'even_out', 'even', 'flush', 'evening']",The New York Times
+stress,"['stress', 'punctuate', 'strain', 'tenseness', 'emphasize', 'accentuate', 'emphasise', 'emphasis', 'try', 'focus', 'tension', 'accent']",The New York Times
+individuals,"['soul', 'individual', 'someone', 'mortal', 'somebody', 'person']",The New York Times
+treble,"['threefold', 'treble', 'three-fold', 'double', 'ternary', 'two-fold', 'twofold', 'triple', 'dual', 'soprano', 'triplex']",The New York Times
+get,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",The New York Times
+named,"['distinguish', 'cite', 'key', 'make', 'key_out', 'advert', 'refer', 'constitute', 'name', 'diagnose', 'call', 'appoint', 'mention', 'identify', 'list', 'describe', 'bring_up', 'nominate', 'discover']",The New York Times
+Marshal,"['marshal', 'mobilise', 'marshall', 'summon', 'mobilize']",The New York Times
+Jenni's,[],The New York Times
+instruments,"['instrumentate', 'legal_instrument', 'legal_document', 'musical_instrument', 'instrumental_role', ""cat's-paw"", 'pawn', 'tool', 'official_document', 'instrument']",The New York Times
+before,"['in_front', 'ahead', 'earlier', 'before']",The New York Times
+Standard,"['standard', 'measure', 'touchstone', 'stock', 'criterion', 'monetary_standard', 'received', 'banner']",The New York Times
+assured,"['see', 'insure', 'ensure', 'assure', 'promise', 'reassure', 'assured', 'secure', 'tell', 'ascertain', 'guarantee', 'see_to_it', 'control', 'check']",The New York Times
+published,"['print', 'publish', 'put_out', 'promulgated', 'issue', 'release', 'published', 'bring_out', 'write']",The New York Times
+loped,"['crop', 'prune', 'trim', 'dress', 'cut_back', 'clip', 'snip', 'lop', 'lope', 'sever', 'discerp']",The New York Times
+performing,"['playacting', 'perform', 'acting', 'playing', 'do', 'performing', 'execute']",The New York Times
+tangle,"['ravel', 'embroil', 'tousle', 'snarl', 'mat', 'sweep', 'entangle', 'tangle', 'sweep_up', 'knot', 'drag_in', 'maze', 'dishevel', 'drag']",The New York Times
+till,"['money_box', 'cashbox', 'public_treasury', 'trough', 'till', 'boulder_clay']",The New York Times
+Moniuszko's,[],The New York Times
+clever,"['ingenious', 'apt', 'cunning', 'cagey', 'canny', 'cagy', 'clever']",The New York Times
+Brahm's,[],The New York Times
+played,"['take_on', 'play', 'act', 'fiddle', 'wreak', 'dally', 'played', 'spiel', 'run', 'meet', 'act_as', 'bring', 'diddle', 'represent', 'recreate', 'bet', 'trifle', 'work', 'toy', 'wager', 'playact', 'make_for', 'flirt', 'encounter', 'roleplay']",The New York Times
+Asian,"['Asian', 'Asiatic']",The New York Times
+combat,"['battle', 'armed_combat', 'scrap', 'combat', 'fighting', 'fight']",The New York Times
+may,"['English_hawthorn', 'Crataegus_oxycantha', 'May', 'Crataegus_laevigata', 'may', 'whitethorn']",The New York Times
+we,[],The New York Times
+better,"['expert', 'ripe', 'adept', 'skilful', 'serious', 'easily', 'comfortably', 'salutary', 'honest', 'undecomposed', 'full', 'bettor', 'respectable', 'considerably', 'in_effect', 'sound', 'better', 'intimately', 'estimable', 'meliorate', 'amend', 'proficient', 'skillful', 'wagerer', 'secure', 'dependable', 'ameliorate', 'practiced', 'dear', 'near', 'beneficial', 'best', 'punter', 'right', 'in_force', 'unspoilt', 'good', 'advantageously', 'well', 'upright', 'just', 'effective', 'unspoiled', 'substantially', 'break', 'improve', 'honorable', 'safe']",The New York Times
+Thompson,"['Homer_Thompson', 'Benjamin_Thompson', 'Homer_Armstrong_Thompson', 'Thompson', 'Count_Rumford', 'Homer_A._Thompson']",The New York Times
+This,[],The New York Times
+except,"['omit', 'exclude', 'leave_off', 'take_out', 'demur', 'leave_out', 'except']",The New York Times
+seen,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",The New York Times
+airstrips,"['landing_strip', 'airstrip', 'strip', 'flight_strip']",The New York Times
+brightly,"['bright', 'brilliantly', 'brightly']",The New York Times
+varied,"['alter', 'varied', 'vary', 'wide-ranging', 'change', 'variegate', 'diverge', 'depart', 'deviate', 'motley']",The New York Times
+when,[],The New York Times
+ingratiating,"['ingratiate', 'insinuating', 'ingratiating', 'ingratiatory']",The New York Times
+principal,"['primary', 'head_teacher', 'principal', 'lead', 'dealer', 'corpus', 'principal_sum', 'star', 'master', 'main', 'head', 'chief', 'school_principal']",The New York Times
+administrative,['administrative'],The New York Times
+Joseph,"['Chief_Joseph', 'Joseph']",The New York Times
+Hubay,[],The New York Times
+Under,"['nether', 'under', 'below']",The New York Times
+choreographed,['choreograph'],The New York Times
+morale,"['morale', 'team_spirit', 'esprit_de_corps']",The New York Times
+piece,"['spell', 'composition', 'part', 'opus', 'bit', 'nibble', 'tack_together', 'piece_of_music', 'patch', 'set_up', ""objet_d'art"", 'man', 'musical_composition', 'pick', 'tack', 'slice', 'firearm', 'assemble', 'art_object', 'piece', 'small-arm', 'while', 'put_together']",The New York Times
+polonaise,['polonaise'],The New York Times
+Australia,"['Australia', 'Commonwealth_of_Australia']",The New York Times
+with,[],The New York Times
+assurance,"['self-assurance', 'self-confidence', 'authority', 'confidence', 'assurance', 'sureness', 'pledge']",The New York Times
+silver,"['ash_gray', 'silvern', 'silvery', 'argent', 'silverish', 'fluent', 'smooth-spoken', 'atomic_number_47', 'facile', 'silver_medal', 'flatware', 'silver-tongued', 'silver', 'Ag', 'ash_grey', 'silver_gray', 'silver_grey', 'eloquent']",The New York Times
+attractive,['attractive'],The New York Times
+large-scale,['large-scale'],The New York Times
+called,"['prognosticate', 'cry', 'send_for', 'scream', 'shout', 'predict', 'hollo', 'name', 'holler', 'squall', 'call_off', 'call', 'address', 'phone', 'forebode', 'call_up', 'shout_out', 'ring', 'anticipate', 'telephone', 'call_in', 'yell', 'visit', 'promise', 'bid', 'foretell']",The New York Times
+off,"['hit', 'slay', 'sour', 'forth', 'bump_off', 'polish_off', 'murder', 'turned', 'cancelled', 'away', 'off', 'dispatch', 'remove']",The New York Times
+songful,"['songful', 'canorous']",The New York Times
+Other,"['other', 'early', 'former']",The New York Times
+dances,"['trip_the_light_fantastic', 'trip_the_light_fantastic_toe', 'dance', 'dancing', 'saltation', 'terpsichore']",The New York Times
+should,[],The New York Times
+plays,"['take_on', 'play', 'maneuver', 'playing_period', ""child's_play"", 'act', 'turn', 'romp', 'looseness', 'fiddle', 'gambol', 'wreak', 'dally', 'gaming', 'spiel', 'run', 'period_of_play', 'frolic', 'caper', 'meet', 'act_as', 'fun', 'dramatic_play', 'bring', 'diddle', 'represent', 'recreate', 'bet', 'drama', 'trifle', 'manoeuvre', 'work', 'toy', 'gambling', 'wager', 'sport', 'playact', 'swordplay', 'shimmer', 'make_for', 'bid', 'flirt', 'encounter', 'free_rein', 'roleplay']",The New York Times
+tone,"['feel', 'step', 'tone', 'look', 'intone', 'tone_of_voice', 'whole_step', 'timbre', 'modulate', 'note', 'flavor', 'tincture', 'smell', 'feeling', 'tint', 'shade', 'timber', 'chant', 'strengthen', 'tonus', 'musical_note', 'inflect', 'pure_tone', 'quality', 'tone_up', 'flavour', 'spirit', 'whole_tone', 'tonicity']",The New York Times
+funny,"['suspicious', 'laughable', 'funny', 'suspect', 'singular', 'shady', 'risible', 'amusing', 'fishy', 'curious', 'peculiar', 'odd', 'mirthful', 'queer', 'funny_story', 'comic', 'comical', 'funny_remark', 'good_story', 'rummy', 'rum']",The New York Times
+fine,"['finely', 'mulct', 'fine', 'all_right', 'o.k.', 'hunky-dory', 'alright', 'very_well', 'delicately', 'ticket', 'okay', 'amercement', 'OK', 'exquisitely', 'ok']",The New York Times
+look,"['feel', 'tone', 'look', 'await', 'seem', 'aspect', 'flavor', 'search', 'wait', 'smell', 'feeling', 'expect', 'front', 'attend', 'reckon', 'calculate', 'take_care', 'bet', 'count', 'depend', 'expression', 'looking', 'looking_at', 'facial_expression', 'see', 'flavour', 'spirit', 'face', 'appear']",The New York Times
+recent,"['Holocene_epoch', 'late', 'Holocene', 'Recent_epoch', 'recent', 'Recent']",The New York Times
+accounts,"['invoice', 'report', 'chronicle', 'story', 'score', 'account', 'write_up', 'accounting', 'answer_for', 'history', 'business_relationship', 'bill', 'news_report', 'account_statement', 'describe', 'explanation', 'calculate']",The New York Times
+not,"['not', 'non']",The New York Times
+felicity,"['happiness', 'felicitousness', 'felicity']",The New York Times
+efforts,"['elbow_grease', 'exertion', 'feat', 'effort', 'cause', 'crusade', 'drive', 'movement', 'endeavour', 'travail', 'try', 'campaign', 'exploit', 'endeavor', 'attempt', 'sweat']",The New York Times
+ordered,"['arrange', 'dictate', 'logical', 'regulate', 'ordered', 'consecrate', 'consistent', 'order', 'set_up', 'rank', 'grade', 'put', 'place', 'arranged', 'regularize', 'prescribe', 'regularise', 'say', 'ordinate', 'govern', 'coherent', 'rate', 'tell', 'ordain', 'range', 'enjoin']",The New York Times
+production,"['production', 'yield', 'product', 'output']",The New York Times
+Saint-Saens,"['Saint-Saens', 'Charles_Camille_Saint-Saens']",The New York Times
+limitations,"['limitation', 'limit', 'restriction']",The New York Times
+shouted,"['holler', 'squall', 'shout_out', 'cry', 'exclaim', 'outcry', 'call', 'yelled', 'call_out', 'blackguard', 'scream', 'shout', 'shouted', 'hollo', 'clapperclaw', 'cry_out', 'yell', 'abuse']",The New York Times
+Prelude,"['overture', 'prelude', 'preliminary']",The New York Times
+measures,"['step', 'metre', 'measuring_rod', 'value', 'cadence', 'mensuration', 'standard', 'measure', 'measurement', 'valuate', 'touchstone', 'bill', 'criterion', 'measuring_stick', 'beat', 'quantity', 'measuring', 'bar', 'mensurate', 'amount', 'meter', 'measure_out', 'appraise', 'assess', 'quantify', 'evaluate']",The New York Times
+piano,"['soft', 'forte-piano', 'pianissimo', 'softly', 'pianoforte', 'piano']",The New York Times
+sound,"['speech_sound', 'audio', 'reasoned', 'levelheaded', 'sound', 'vocalize', 'intelligent', 'legal', 'phone', 'strait', 'heavy', 'voice', 'go', 'wakeless', 'effectual', 'well-grounded', 'fathom', 'good', 'auditory_sensation', 'healthy', 'level-headed', 'profound', 'vocalise']",The New York Times
+missed,"['lose', 'miss', 'neglect', 'overlook', 'lack', 'escape', 'drop', 'omit', 'missed', 'lost', 'overleap', 'leave_out', 'pretermit']",The New York Times
+commands,"['dictation', 'overlook', 'dominate', 'program_line', 'statement', 'command', 'bidding', 'bid', 'instruction', 'require', 'mastery', 'control', 'overtop']",The New York Times
+solo,"['unaccompanied', 'alone', 'solo']",The New York Times
+work's,[],The New York Times
+Carols,"['carol', 'Christmas_carol']",The New York Times
+here,"['here', 'Hera', 'hither', 'Here']",The New York Times
+2,"['two', 'deuce', '2', 'ii', 'II']",The New York Times
+indicate,"['designate', 'betoken', 'show', 'argue', 'signal', 'bespeak', 'point', 'indicate', 'suggest']",The New York Times
+conductor,"['music_director', 'director', 'conductor']",The New York Times
+making,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'fashioning', 'do', 'reach', 'arrive_at', 'cook', 'qualification', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'making', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'devising', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The New York Times
+overdriving,"['overuse', 'overdrive']",The New York Times
+duty,"['obligation', 'duty', 'tariff', 'responsibility']",The New York Times
+the,[],The New York Times
+contrasting,"['contrast', 'counterpoint', 'contrasting', 'contrastive']",The New York Times
+tireless,"['unwearying', 'unflagging', 'untiring', 'hardworking', 'tireless', 'industrious', 'indefatigable']",The New York Times
+late,"['belatedly', 'deep', 'recently', 'of_late', 'latterly', 'late', 'former', 'recent', 'tardily', 'belated', 'lately', 'later', 'previous', 'tardy']",The New York Times
+odd,"['peculiar', 'funny', 'odd', 'unmated', 'leftover', 'singular', 'left_over', 'unmatched', 'queer', 'remaining', 'unexpended', 'curious', 'uneven', 'unpaired', 'left', 'rummy', 'rum']",The New York Times
+memory,"['storage', 'retentiveness', 'store', 'memory', 'memory_board', 'computer_memory', 'computer_storage', 'retentivity', 'remembering', 'retention']",The New York Times
+follow,"['come_after', 'pursue', 'travel_along', 'keep_an_eye_on', 'take_after', 'abide_by', 'trace', 'watch_over', 'play_along', 'keep_up', 'fall_out', 'be', 'survey', 'adopt', 'stick_to', 'comply', 'espouse', 'surveil', 'observe', 'follow', 'keep_abreast', 'conform_to', 'succeed', 'watch', 'accompany', 'postdate', 'come', 'stick_with']",The New York Times
+New,"['freshly', 'fresh', 'novel', 'Modern', 'young', 'raw', 'New', 'unexampled', 'newly', 'newfangled', 'new']",The New York Times
+return,"['take_back', 'rejoinder', 'payoff', 'give', 'restitution', 'issue', 'restoration', 'refund', 'recurrence', 'revert', 'takings', 'proceeds', 'give_back', 'tax_return', 'counter', 'comeback', 'retrovert', 'pass', 'coming_back', 'generate', 'return_key', 'reelect', 'replication', 'yield', 'deliver', 'retort', 'turn_back', 'homecoming', 'regaining', 'riposte', 'take', 'return', 'hark_back', 'rejoin', 'come_back', 'devolve', 'bring_back', 'getting_even', 'fall', 'regress', 'paying_back', 'render', 'recall', 'income_tax_return', 'repay', 'reappearance']",The New York Times
+bitterly,"['piercingly', 'bitingly', 'bitterly', 'bitter']",The New York Times
+century,"['one_C', 'C', 'hundred', '100', 'century']",The New York Times
+Chinese,"['Formosan', 'Taiwanese', 'Chinese']",The New York Times
+identification,"['identification', 'designation', 'recognition']",The New York Times
+listeners,"['listener', 'attender', 'auditor', 'hearer']",The New York Times
+air,"['aura', 'melodic_phrase', 'airwave', 'zephyr', 'aviation', 'bare', 'ventilate', 'vent', 'transmit', 'atmosphere', 'aerate', 'melodic_line', 'strain', 'line', 'beam', 'send', 'broadcast', 'air_out', 'gentle_wind', 'tune', 'air', 'breeze', 'melody', 'publicise', 'publicize', 'air_travel']",The New York Times
+see,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",The New York Times
+capable,"['able', 'up_to', 'capable', 'subject', 'open', 'adequate_to', 'equal_to']",The New York Times
+Greek-born,[],The New York Times
+title,"['deed_of_conveyance', 'statute_title', 'championship', 'title', 'entitle', 'claim', 'form_of_address', 'style', 'title_of_respect', 'deed', 'rubric']",The New York Times
+finding,"['feel', 'come_up', 'get', 'bump', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'line_up', 'chance', 'retrieve', 'determine', 'obtain', 'observe', 'happen', 'receive', 'regain', 'detect', 'determination', 'see', 'incur', 'find_oneself', 'finding', 'notice', 'get_hold', 'encounter', 'discover']",The New York Times
+Judson,[],The New York Times
+firm,"['strong', 'house', 'loyal', 'unwaveringly', 'fast', 'stiff', 'truehearted', 'firmly', 'tauten', 'unfaltering', 'steadfast', 'immobile', 'steady', 'unfluctuating', 'solid', 'steadfastly', 'unbendable', 'unwavering', 'firm', 'business_firm', 'unshakable']",The New York Times
+Szelenyi,[],The New York Times
+Boys,"['male_child', 'boy', 'son']",The New York Times
+has,"['get', 'give', 'make', 'suffer', 'HA', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hour_angle', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",The New York Times
+Jenni,[],The New York Times
+keyboard,['keyboard'],The New York Times
+continuity,"['continuity', 'persistence']",The New York Times
+member,"['fellow_member', 'phallus', 'appendage', 'penis', 'extremity', 'member']",The New York Times
+rations,"['ration_out', 'ration']",The New York Times
+original,"['master_copy', 'archetype', 'pilot', 'master', 'original']",The New York Times
+priorities,"['precedence', 'precedency', 'anteriority', 'priority', 'antecedency', 'antecedence']",The New York Times
+All,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",The New York Times
+myriad,"['innumerable', 'myriad', 'uncounted', 'unnumberable', 'ten_thousand', '10000', 'numberless', 'unnumbered', 'unnumerable', 'multitudinous', 'innumerous', 'countless', 'infinite']",The New York Times
+did,"['arrange', 'make', 'do', 'act', 'behave', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'answer', 'practice', 'set', 'make_out', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'coiffure', 'cause', 'come', 'manage', 'fare']",The New York Times
+realize,"['actualize', 'see', 'actualise', 'recognize', 'gain', 'agnise', 'recognise', 'realize', 'clear', 'bring_in', 'understand', 'agnize', 'make', 'earn', 'realise', 'take_in', 'pull_in', 'substantiate']",The New York Times
+fashion,"['manner', 'fashion', 'forge', 'style', 'mode', 'way']",The New York Times
+attraction,"['magnet', 'attractor', 'attractive_feature', 'attractive_force', 'draw', 'attraction', 'attracter', 'drawing_card', 'attractiveness']",The New York Times
+each,"['apiece', 'each', 'for_each_one', 'to_each_one', 'from_each_one']",The New York Times
+labor,"['parturiency', 'undertaking', 'task', 'labor', 'lying-in', 'grind', 'proletariat', 'Labour_Party', 'push', 'drive', 'fag', 'Labour', 'tug', 'drudge', 'project', 'moil', 'Labor_Department', 'travail', 'Department_of_Labor', 'toil', 'labor_movement', 'Labor', 'dig', 'confinement', 'trade_union_movement', 'working_class', 'childbed', 'British_Labour_Party', 'labour', 'DoL']",The New York Times
+might,"['mightiness', 'power', 'might']",The New York Times
+performed,"['execute', 'perform', 'do']",The New York Times
+They,[],The New York Times
+retreat,"['hideaway', 'draw_back', 'move_back', 'crawfish_out', 'pull_away', ""pull_in_one's_horns"", 'retrograde', 'retirement', 'withdraw', 'back_out', 'back_away', 'crawfish', 'recede', 'retire', 'retreat', 'pull_back']",The New York Times
+him,[],The New York Times
+",",[],The New York Times
+equipment,['equipment'],The New York Times
+Pergolesi's,[],The New York Times
+wars,"['state_of_war', 'warfare', 'war']",The New York Times
+themselves,[],The New York Times
+created,"['create', 'produce', 'make']",The New York Times
+bass,"['deep', 'bass', 'basso', 'freshwater_bass', 'bass_voice', 'bass_part', 'sea_bass']",The New York Times
+mazurka,['mazurka'],The New York Times
+Preludes,"['overture', 'prelude', 'preliminary']",The New York Times
+indicated,"['designate', 'betoken', 'show', 'argue', 'signal', 'bespeak', 'point', 'indicate', 'suggest']",The New York Times
+given,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'granted', 'given', 'pass', 'open', 'generate', 'devote', 'yield', 'disposed', 'contribute', 'pay', 'hold', 'move_over', 'presumption', 'minded', 'return', 'feed', 'establish', 'dedicate', 'precondition', 'afford', 'hand', 'throw', 'impart', 'apt', 'commit', 'render', 'apply', 'founder', 'tending', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The New York Times
+artists,"['artist', 'creative_person']",The New York Times
+sense,"['feel', 'smell', 'smell_out', 'good_sense', 'sentience', 'common_sense', 'sentiency', 'horse_sense', 'mother_wit', 'sense', 'sensation', 'signified', 'gumption', 'sensory_faculty']",The New York Times
+Dohnanyi,[],The New York Times
+great,"['outstanding', 'majuscule', 'bully', 'groovy', 'not_bad', 'gravid', 'swell', 'heavy', 'enceinte', 'great', 'smashing', 'neat', 'corking', 'with_child', 'slap-up', 'keen', 'expectant', 'capital', 'cracking', 'dandy', 'nifty', 'large', 'bang-up', 'big', 'peachy']",The New York Times
+vital,"['lively', 'life-sustaining', 'full_of_life', 'vital', 'critical']",The New York Times
+Governor,"['regulator', 'governor']",The New York Times
+Europe,"['European_Union', 'EEC', 'European_Economic_Community', 'EU', 'Common_Market', 'European_Community', 'EC', 'Europe']",The New York Times
+place,"['come_out', 'aim', 'spot', 'berth', 'direct', 'shoes', 'plaza', 'blank_space', 'billet', 'order', 'localise', 'lay', 'rank', 'come_in', 'space', 'set', 'grade', 'put', 'place', 'identify', 'seat', 'office', 'topographic_point', 'target', 'point', 'locate', 'position', 'send', 'post', 'station', 'situation', 'localize', 'invest', 'home', 'commit', 'property', 'pose', 'rate', 'stead', 'piazza', 'range', 'lieu', 'site']",The New York Times
+admit,"['take_on', 'admit', 'include', 'intromit', 'hold', 'accommodate', 'acknowledge', 'allow_in', 'accept', 'take', 'let_in', 'allow']",The New York Times
+Donald,[],The New York Times
+corralling,['corral'],The New York Times
+beautifully,"['beautifully', 'attractively']",The New York Times
+handsome,"['well-favored', 'big', 'freehanded', 'handsome', 'bighearted', 'fine-looking', 'bountiful', 'giving', 'liberal', 'good-looking', 'openhanded', 'bounteous', 'well-favoured', 'better-looking']",The New York Times
+pick,"['woof', 'find_fault', 'filling', 'break_up', 'nibble', 'selection', 'blame', 'pickax', 'picking', 'clean', 'foot', 'pick', 'plunk', 'cream', 'option', 'beak', 'pickaxe', 'plectron', 'choice', 'pluck', 'piece', 'cull', 'weft', 'peck', 'plectrum']",The New York Times
+States,"['province', 'commonwealth', 'land', 'state_of_matter', 'put_forward', 'submit', 'United_States_Department_of_State', 'say', 'country', 'nation', 'res_publica', 'State', 'posit', 'State_Department', 'tell', 'DoS', 'express', 'state', 'Department_of_State', 'body_politic']",The New York Times
+names,"['distinguish', 'cite', 'gens', 'key', 'make', 'key_out', 'advert', 'refer', 'constitute', 'name', 'diagnose', 'call', 'appoint', 'mention', 'identify', 'list', 'public_figure', 'names', 'describe', 'bring_up', 'nominate', 'figure', 'name_calling', 'epithet', 'discover']",The New York Times
+relations,"['sexual_intercourse', 'relative', 'dealings', 'intercourse', 'copulation', 'relation', 'coition', 'telling', 'carnal_knowledge', 'relation_back', 'relations', 'coitus', 'sexual_congress', 'sexual_relation', 'recounting', 'sex_act', 'congress']",The New York Times
+makes,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'brand', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'shuffle', 'induce', 'relieve_oneself', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'shuffling', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",The New York Times
+most,"['to_the_highest_degree', 'about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",The New York Times
+enchantingly,"['captivatingly', 'enthrallingly', 'bewitchingly', 'enchantingly']",The New York Times
+than,[],The New York Times
+sorts,"['sorting', 'form', 'kind', 'screen_out', 'sort', 'assort', 'separate', 'classify', 'variety', 'sieve', 'sort_out', 'class', 'screen']",The New York Times
+Bella,[],The New York Times
+interested,"['interested', 'concerned', 'matter_to', 'worry', 'concern', 'interest', 'occupy']",The New York Times
+say,"['say', 'order', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'state', 'enjoin', 'read', 'articulate']",The New York Times
+chanted,"['tone', 'chanted', 'intone', 'cantillate', 'chant', 'intonate']",The New York Times
+constantly,"['invariably', 'incessantly', 'constantly', 'always', 'forever', 'perpetually']",The New York Times
+opening,"['unfold', 'give', 'porta', 'opening_night', 'possibility', 'initiative', 'chess_opening', 'hatchway', 'gap', 'open', 'orifice', 'scuttle', 'curtain_raising', 'possible_action', 'open_up', 'opening_move', 'afford', 'spread_out', 'opening', 'spread', 'first_step']",The New York Times
+Op.,[],The New York Times
+Defeat,"['frustration', 'licking', 'get_the_better_of', 'vote_down', 'vote_out', 'defeat', 'kill', 'shoot_down', 'overcome']",The New York Times
+Ceremonial,"['ceremonial', 'observance', 'ceremonial_occasion', 'ceremony']",The New York Times
+accompaniments,"['escort', 'musical_accompaniment', 'support', 'complement', 'concomitant', 'co-occurrence', 'accompaniment', 'backup', 'attendant']",The New York Times
+crucial,"['essential', 'important', 'of_the_essence', 'all-important', 'crucial', 'all_important']",The New York Times
+opera,"['opera_house', 'Opera', 'opera']",The New York Times
+songs,"['vocal', 'strain', 'Song_dynasty', 'call', 'Sung', 'Sung_dynasty', 'birdcall', 'song', 'birdsong', 'Song']",The New York Times
+back,"['plump_for', 'second', 'dorsum', 'backwards', 'book_binding', 'plunk_for', 'backbone', 'bet_on', 'backrest', 'spinal_column', 'rearwards', 'gage', 'backward', 'binding', 'back_up', 'hinder', 'rearward', 'punt', 'rear', 'stake', 'indorse', 'support', 'rachis', 'hind', 'game', 'spine', 'cover', 'endorse', 'back', 'vertebral_column']",The New York Times
+musicians,"['musician', 'instrumentalist', 'player']",The New York Times
+while,"['spell', 'while', 'piece', 'patch']",The New York Times
+Stadium,"['stadium', 'arena', 'bowl', 'sports_stadium']",The New York Times
+serious,"['serious', 'good', 'unplayful', 'grave', 'life-threatening', 'sober', 'dangerous', 'severe', 'grievous']",The New York Times
+former,"['onetime', 'old', 'late', 'former', 'early', 'erstwhile', 'sometime', 'previous', 'other', 'one-time', 'quondam']",The New York Times
+marched,"['abut', 'demonstrate', 'butt_against', 'border', 'exhibit', 'butt_on', 'parade', 'butt', 'adjoin', 'edge', 'march', 'process']",The New York Times
+which,[],The New York Times
+scanty,"['step-in', 'pantie', 'panty', 'bare', 'spare', 'scanty']",The New York Times
+Poland,"['Polska', 'Poland', 'Republic_of_Poland']",The New York Times
+indeed,"['so', 'indeed']",The New York Times
+cannot,[],The New York Times
+Africans,['African'],The New York Times
+enjoyed,"['savour', 'enjoy', 'love', 'relish', 'bask', 'delight', 'savor', 'revel']",The New York Times
+reserved,"['book', 'hold', 'set_aside', 'appropriate', 'reserve', 'reserved', 'earmark', 'allow']",The New York Times
+deep-sounding,[],The New York Times
+unfailingly,['unfailingly'],The New York Times
+modern,"['modern', 'modern_font', 'forward-looking', 'Modern', 'innovative', 'mod', 'Bodoni_font', 'advanced', 'New', 'Bodoni', 'modernistic']",The New York Times
+inspiring,"['instigate', 'enliven', 'inspiring', 'inspire', 'revolutionize', 'invigorate', 'animate', 'exalt', 'urge_on', 'root_on', 'prompt', 'cheer', 'inhale', 'exhort', 'revolutionise', 'urge', 'pep_up', 'barrack', 'breathe_in']",The New York Times
+drive,"['parkway', 'aim', 'get', 'repel', 'campaign', 'labor', 'push', 'drive', 'ram', 'tug', 'private_road', 'driveway', 'effort', 'driving_force', 'movement', 'take', 'crusade', 'cause', 'driving', 'beat_back', 'motor', 'push_back', 'repulse', 'force', 'ride', 'thrust', 'force_back', 'labour']",The New York Times
+moved,"['actuate', 'travel', 'be_active', 'affect', 'make_a_motion', 'motivate', 'move', 'act', 'touched', 'moved', 'propel', 'run', 'incite', 'strike', 'go', 'locomote', 'impress', 'prompt', 'stirred', 'proceed', 'displace', 'affected']",The New York Times
+Actually,"['really', 'actually', 'in_reality']",The New York Times
+attention,"['attending', 'aid', 'care', 'attention', 'tending']",The New York Times
+open,"['unfold', 'assailable', 'give', 'loose', 'overt', 'exposed', 'out-of-doors', 'open', 'undefendable', 'subject', 'clear', 'open_air', 'receptive', 'heart-to-heart', 'opened', 'undefended', 'open_up', 'outdoors', 'afford', 'candid', 'spread_out', 'capable', 'spread', 'undecided', 'surface', 'unfastened', 'unresolved', 'undetermined']",The New York Times
+however,"['nevertheless', 'withal', 'even_so', 'notwithstanding', 'still', 'all_the_same', 'however', 'nonetheless', 'yet']",The New York Times
+Rachmaninoff,"['Sergei_Vasilievich_Rachmaninoff', 'Rachmaninov', 'Sergei_Vasilievich_Rachmaninov', 'Sergei_Rachmaninov', 'Sergei_Rachmaninoff', 'Rachmaninoff']",The New York Times
+discouraged,"['deter', 'discourage', 'monish', 'warn', 'disheartened', 'demoralized', 'demoralised', 'admonish', 'discouraged']",The New York Times
+terms,"['terms', 'term', 'condition', 'full_term', 'price', 'footing', 'damage', 'terminus', 'terminal_figure']",The New York Times
+you,[],The New York Times
+clear,"['brighten', 'shed_light_on', 'realize', 'vindicated', 'exonerated', 'clear_up', 'make', 'clear-cut', 'exculpated', 'pull_in', 'decipherable', 'percipient', 'crystalise', 'cleared', 'straighten_out', 'bring_in', 'clean', 'authorize', 'open', 'pass', 'sort_out', 'all_the_way', 'crystallize', 'absolved', 'crystallise', 'enlighten', 'authorise', 'top', 'illuminate', 'gain', 'exonerate', 'unclouded', 'elucidate', 'clear', 'discharge', 'readable', 'assoil', 'light', 'solve', 'well-defined', 'light_up', 'take_in', 'unclutter', 'sack_up', 'exculpate', 'clean-cut', 'clearly', 'unmortgaged', 'crystalize', 'earn', 'realise', 'acquit', 'net', 'sack']",The New York Times
+generally,"['loosely', 'more_often_than_not', 'generally', 'in_the_main', 'by_and_large', 'broadly_speaking', 'in_general', 'broadly', 'mostly']",The New York Times
+College,['college'],The New York Times
+books,"['Koran', 'Bible', 'playscript', 'account_book', 'record', 'book', 'Christian_Bible', 'volume', 'script', 'Holy_Writ', ""al-Qur'an"", 'leger', 'Word', 'book_of_account', 'hold', 'rule_book', 'record_book', 'Word_of_God', 'Scripture', 'Quran', 'ledger', 'Book', 'Holy_Scripture', 'Good_Book', 'reserve']",The New York Times
+For,[],The New York Times
+bunch,"['crew', 'bunch_up', 'clump', 'gang', 'cluster', 'lot', 'clustering', 'bunch_together', 'bundle', 'bunch', 'crowd', 'caboodle']",The New York Times
+for,[],The New York Times
+reactions,"['response', 'reaction', 'chemical_reaction']",The New York Times
+airdrops,['airdrop'],The New York Times
+reasons,"['reason_out', 'rationality', 'conclude', 'ground', 'cause', 'argue', 'reason', 'intellect', 'grounds', 'understanding', 'reasonableness']",The New York Times
+private,"['secret', 'individual', 'common_soldier', 'private', 'buck_private']",The New York Times
+Chicago,"['boodle', 'Newmarket', 'Chicago', 'Michigan', 'Windy_City', 'stops']",The New York Times
+obvious,['obvious'],The New York Times
+less,"['to_a_lesser_extent', 'LE', 'less', 'lupus_erythematosus']",The New York Times
+fewer,"['few', 'fewer']",The New York Times
+gave,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",The New York Times
+fought,"['struggle', 'oppose', 'fight_down', 'defend', 'crusade', 'push', 'campaign', 'contend', 'fight_back', 'agitate', 'press', 'fight']",The New York Times
+fighting,"['struggle', 'oppose', 'fight_down', 'defend', 'crusade', 'combat-ready', 'push', 'scrap', 'active', 'campaign', 'combat', 'fighting', 'contend', 'fight_back', 'agitate', 'press', 'fight']",The New York Times
+touches,"['pinch', 'signature', 'sense_of_touch', 'affect', 'spot', 'bear_upon', 'reach', 'touch', 'tactual_sensation', 'concern', 'contact', 'touch_modality', 'trace', 'refer', 'bear_on', 'advert', 'impact', 'feeling', 'tint', 'stir', 'touching', 'touch_sensation', 'tactile_sensation', 'cutaneous_senses', 'meet', 'mite', 'extend_to', 'relate', 'skin_senses', 'pertain', 'soupcon', 'rival', 'partake', 'come_to', 'jot', 'tinct', 'ghost', 'equal', 'have-to_doe_with', 'speck', 'allude', 'disturb', 'adjoin', 'tinge', 'match', 'touch_on', 'hint']",The New York Times
+affinity,"['kinship', 'chemical_attraction', 'affinity', 'phylogenetic_relation']",The New York Times
+stunning,"['daze', 'sensational', 'stun', 'sandbag', 'stunning', 'stupefy', 'bedaze', 'arresting']",The New York Times
+Forgotten,"['forget', 'bury', 'leave', 'forgotten', 'block', 'draw_a_blank', 'disregarded', 'blank_out']",The New York Times
+victory,"['victory', 'triumph']",The New York Times
+musical,"['melodic', 'melodious', 'musical', 'musical_comedy', 'musical_theater']",The New York Times
+succeeded,"['deliver_the_goods', 'come_after', 'win', 'come_through', 'bring_home_the_bacon', 'follow', 'succeed']",The New York Times
+bleat,"['blate', 'bleat', 'blat', 'baa']",The New York Times
+into,[],The New York Times
+E,"['Es', 'E', 'tocopherol', 'eastward', 'e', 'vitamin_E', 'due_east', 'east', 'atomic_number_99', 'einsteinium']",The New York Times
+12,"['dozen', 'XII', 'xii', '12', 'twelve']",The New York Times
+partially,"['partially', 'partly', 'part']",The New York Times
+aid,"['assistance', 'financial_aid', 'aid', 'assist', 'economic_aid', 'care', 'attention', 'tending', 'help']",The New York Times
+humor,"['sense_of_humour', 'liquid_body_substance', 'wit', 'bodily_fluid', 'witticism', 'body_fluid', 'humor', 'sense_of_humor', 'mood', 'humour', 'wittiness', 'temper']",The New York Times
+motets,['motet'],The New York Times
+Victory,"['victory', 'triumph']",The New York Times
+so,"['then', 'sol', 'thus', 'indeed', 'and_so', 'so', 'and_then', 'soh', 'hence', 'therefore', 'thence', 'thusly']",The New York Times
+Paganini,"['Paganini', 'Niccolo_Paganini']",The New York Times
+prodigies,"['prognostic', 'presage', 'portent', 'prognostication', 'omen', 'prodigy']",The New York Times
+theatrical,"['theatrical', 'representation', 'theatrical_performance', 'histrionics']",The New York Times
+future,"['future', 'next', 'time_to_come', 'hereafter', 'future_tense', 'futurity', 'succeeding']",The New York Times
+lively,"['lively', 'zippy', 'brisk', 'springy', 'alert', 'resilient', 'spanking', 'bouncy', 'snappy', 'rattling', 'live', 'full_of_life', 'vital', 'racy', 'merry']",The New York Times
+pleasant,['pleasant'],The New York Times
+decisions,"['decisiveness', 'decision', 'conclusion', 'determination']",The New York Times
+Texans,['Texan'],The New York Times
+constant,"['constant_quantity', 'constant', 'never-ending', 'perpetual', 'unceasing', 'incessant', 'ceaseless', 'unvarying', 'changeless', 'unremitting', 'invariable', 'invariant']",The New York Times
+apparent,"['patent', 'evident', 'apparent', 'manifest', 'seeming', 'unmistakable', 'ostensible', 'plain']",The New York Times
+moves,"['actuate', 'travel', 'be_active', 'affect', 'make_a_motion', 'motivate', 'move', 'act', 'motion', 'propel', 'run', 'incite', 'strike', 'motility', 'go', 'movement', 'locomote', 'impress', 'prompt', 'proceed', 'displace', 'relocation']",The New York Times
+or,"['OR', 'Beaver_State', 'operating_theatre', 'surgery', 'Oregon', 'operating_theater', 'operating_room']",The New York Times
+program,"['political_program', 'platform', 'computer_programme', 'syllabus', 'program', 'curriculum', 'political_platform', 'computer_program', 'broadcast', 'course_of_study', 'plan', 'programme']",The New York Times
+this,[],The New York Times
+expects,"['wait', 'look', 'carry', 'await', 'expect', 'anticipate', 'ask', 'require', 'have_a_bun_in_the_oven', 'gestate', 'bear']",The New York Times
+Francois,[],The New York Times
+1942,[],The New York Times
+outfought,['outfight'],The New York Times
+brave,"['brave', 'brave_out', 'gay', 'intrepid', 'hardy', 'fearless', 'endure', 'audacious', 'dauntless', 'courageous', 'unfearing', 'braw', 'weather']",The New York Times
+communicative,"['communicative', 'communicatory']",The New York Times
+hall,"['hallway', 'Radclyffe_Hall', 'residence_hall', 'Granville_Stanley_Hall', 'foyer', 'manor_hall', 'dorm', 'Charles_Martin_Hall', 'manse', 'entrance_hall', 'lobby', 'vestibule', 'Marguerite_Radclyffe_Hall', 'dormitory', 'hall', 'Charles_Francis_Hall', 'Hall', 'Asaph_Hall', 'student_residence', 'antechamber', 'residence', 'mansion_house', 'mansion', 'anteroom', 'G._Stanley_Hall']",The New York Times
+itself,[],The New York Times
+spectators,"['viewer', 'watcher', 'witness', 'spectator', 'looker', 'spectator_pump']",The New York Times
+A,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",The New York Times
+phrases,"['musical_phrase', 'idiomatic_expression', 'give_voice', 'word', 'phrase', 'formulate', 'set_phrase', 'articulate', 'idiom', 'phrasal_idiom']",The New York Times
+well-balanced,"['well-balanced', 'well-adjusted']",The New York Times
+Burmese,['Burmese'],The New York Times
+neither,['neither'],The New York Times
+dramatic,"['spectacular', 'striking', 'dramatic']",The New York Times
+hills,"['Benny_Hill', ""pitcher's_mound"", 'J._J._Hill', 'Alfred_Hawthorne', 'hill', 'James_Jerome_Hill', 'mound', 'Hill']",The New York Times
+Works,"['kit_and_boodle', 'whole_kit_and_boodle', 'workplace', 'play', 'function', 'make', 'shape', 'influence', 'act', 'whole_caboodle', 'turn', 'mould', 'wreak', 'sour', 'exercise', 'whole_shebang', 'lick', 'run', 'puzzle_out', 'work_on', 'whole_kit', 'study', 'exploit', 'whole_kit_and_caboodle', 'whole_works', 'bring', 'crop', 'go', 'mold', 'works', 'plant', 'forge', 'solve', 'workings', 'deeds', 'full_treatment', 'act_upon', 'knead', 'body_of_work', 'ferment', 'work', 'operate', 'oeuvre', 'do_work', 'form', 'put_to_work', 'kit_and_caboodle', 'make_for', 'employment', 'cultivate', 'piece_of_work', 'work_out', 'industrial_plant', 'figure_out', 'process']",The New York Times
+careless,"['careless', 'regardless']",The New York Times
+included,"['include', 'included', 'admit', 'let_in']",The New York Times
+final,"['final_examination', 'final_exam', 'net', 'concluding', 'last', 'final', 'terminal']",The New York Times
+sitting,"['sit_down', 'session', 'seated', 'seat', 'model', 'seance', 'pose', 'posing', 'sit', 'posture', 'ride', 'sit_around', 'sitting', 'baby-sit']",The New York Times
+vying,"['compete', 'contend', 'vie']",The New York Times
+case,"['typeface', 'pillow_slip', 'encase', 'caseful', 'example', 'display_case', 'instance', 'sheath', 'event', ""typesetter's_case"", 'showcase', 'subject', 'grammatical_case', ""compositor's_case"", 'casing', 'slip', 'vitrine', 'type', 'incase', 'eccentric', 'lawsuit', 'case', 'suit', 'pillowcase', 'causa', 'cause', 'shell', 'font', 'fount', 'face', 'guinea_pig', 'character']",The New York Times
+tradition,"['custom', 'tradition']",The New York Times
+half,"['half', 'one-half']",The New York Times
+remnants,"['remainder', 'oddment', 'remnant', 'leftover', 'end']",The New York Times
+troops,"['flock', 'promenade', 'parade', 'troop', 'military_personnel', 'soldiery', 'scout_troop', 'troops', 'scout_group']",The New York Times
+required,"['compulsory', 'needed', 'need', 'requisite', 'needful', 'postulate', 'want', 'command', 'take', 'necessitate', 'expect', 'ask', 'require', 'involve', 'mandatory', 'demand', 'call_for', 'required']",The New York Times
+bolder,"['sheer', 'bluff', 'bold']",The New York Times
+closes,"['finale', 'fill_up', 'closing', 'close', 'ending', 'conclude', 'close_down', 'closing_curtain', 'end', 'stopping_point', 'come_together', 'last', 'shut', 'shut_down', 'finish', 'conclusion', 'fold', 'close_up', 'finis']",The New York Times
+rich,"['deep', 'robust', 'ample', 'productive', 'fertile', 'rich', 'copious', 'plenteous', 'plentiful', 'full-bodied', 'fat', 'rich_people', 'racy']",The New York Times
+York,"['House_of_York', 'York']",The New York Times
+Renaissance,"['rebirth', 'Renascence', 'Renaissance']",The New York Times
+hardship,"['asperity', 'hard_knocks', 'rigor', 'adversity', 'hardship', 'rigour', 'grimness', 'rigourousness', 'rigorousness', 'severity', 'severeness']",The New York Times
+course,"['naturally', 'course_of_instruction', 'line', 'form', 'run', 'path', 'course', 'course_of_action', 'class', 'track', 'row', 'feed', 'of_course', 'flow', 'grade', 'course_of_study', 'trend']",The New York Times
+He,"['helium', 'atomic_number_2', 'he', 'He']",The New York Times
+medicine,"['medicinal_drug', 'medical_specialty', 'medicate', 'practice_of_medicine', 'music', 'medicine', 'medication', 'medicament']",The New York Times
+items,"['particular', 'detail', 'token', 'item', 'point']",The New York Times
+Parts,"['role', 'part', 'function', 'break_up', 'parts', 'theatrical_role', 'persona', 'divide', 'region', 'character', 'contribution', 'split_up', 'set_out', 'split', 'set_off', 'set_forth', 'voice', 'component_part', 'share', 'separate', 'component', 'office', 'depart', 'portion', 'start', 'start_out', 'parting', 'constituent', 'piece', 'disunite', 'percentage', 'break', 'division', 'take_off', 'section']",The New York Times
+Japanese,"['Nipponese', 'Japanese']",The New York Times
+he,"['helium', 'atomic_number_2', 'he', 'He']",The New York Times
+any,"['whatsoever', 'whatever', 'any']",The New York Times
+section,"['incision', 'surgical_incision', 'part', 'discussion_section', 'subdivision', 'department', 'segment', 'plane_section', 'division', 'section']",The New York Times
+definitely,"['emphatically', 'definitely', 'by_all_odds', 'unquestionably', 'in_spades', 'decidedly']",The New York Times
+Sonata,['sonata'],The New York Times
+strong,"['impregnable', 'unattackable', 'strong', 'potent', 'substantial', 'firm', 'unassailable', 'hard', 'secure', 'solid', 'stiff', 'warm', 'inviolable']",The New York Times
+a,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",The New York Times
+Fleming,"['Ian_Fleming', 'Fleming', 'Ian_Lancaster_Fleming', 'Sir_Alexander_Fleming', 'Alexander_Fleming']",The New York Times
+American,"['American_English', 'American', 'American_language']",The New York Times
+because,[],The New York Times
+ours,[],The New York Times
+of,[],The New York Times
+remarkably,"['remarkably', 'outstandingly', 'unmistakably', 'unco', 'unusually', 'signally']",The New York Times
+resources,"['resource', 'resourcefulness', 'imagination']",The New York Times
+sang,"['tattle', 'sang', 'whistle', 'blab', 'sing', 'Panax_quinquefolius', 'spill_the_beans', 'talk', 'peach', 'babble', 'babble_out', 'blab_out', 'let_the_cat_out_of_the_bag', 'American_ginseng']",The New York Times
+what,[],The New York Times
+Schockler,[],The New York Times
+high-spirited,"['ebullient', 'high-spirited', 'exuberant']",The New York Times
+warmth,"['lovingness', 'passion', 'warmness', 'fondness', 'heat', 'affectionateness', 'warmth', 'warmheartedness']",The New York Times
+idiom,"['idiomatic_expression', 'dialect', 'phrase', 'set_phrase', 'parlance', 'artistic_style', 'accent', 'idiom', 'phrasal_idiom']",The New York Times
+needs,"['motive', 'involve', 'needs', 'postulate', 'inevitably', 'necessitate', 'require', 'demand', 'penury', 'take', 'motivation', 'necessarily', 'of_necessity', 'indigence', 'want', 'call_for', 'need', 'ask', 'pauperism', 'pauperization']",The New York Times
+action,"['accomplish', 'sue', 'legal_action', 'activeness', 'action_at_law', 'activity', 'natural_process', 'litigate', 'fulfill', 'military_action', 'action_mechanism', 'execute', 'carry_through', 'carry_out', 'fulfil', 'natural_action', 'action', 'process']",The New York Times
+manner,"['manner', 'personal_manner', 'fashion', 'style', 'mode', 'way']",The New York Times
+name,"['distinguish', 'cite', 'gens', 'key', 'make', 'key_out', 'advert', 'refer', 'constitute', 'name', 'diagnose', 'call', 'appoint', 'mention', 'identify', 'list', 'public_figure', 'describe', 'bring_up', 'nominate', 'figure', 'epithet', 'discover']",The New York Times
+conjugal,"['connubial', 'conjugal']",The New York Times
+Hollywood,['Hollywood'],The New York Times
+direction,"['counseling', 'commission', 'guidance', 'charge', 'direction', 'focussing', 'management', 'counselling', 'instruction', 'centering', 'focusing', 'focal_point', 'focus', 'counsel', 'steering', 'way']",The New York Times
+melodically,['melodically'],The New York Times
+enough,"['decent', 'enough', 'adequate', 'sufficiency', 'plenty']",The New York Times
+K.,[],The New York Times
+where,[],The New York Times
+space,"['place', 'distance', 'blank', 'blank_space', 'outer_space', 'space', 'quad', 'infinite']",The New York Times
+But,"['only', 'simply', 'merely', 'just', 'but']",The New York Times
+can,"['give_the_sack', 'ass', 'backside', 'give_the_axe', 'keister', 'send_away', 'fanny', 'give_notice', 'terminate', 'buns', 'stern', 'lav', 'lavatory', 'tooshie', 'bathroom', 'privy', 'tin', 'stool', 'derriere', 'commode', 'behind', 'can', 'john', 'bum', 'crapper', 'put_up', 'tail', 'seat', 'prat', 'canful', 'rump', 'can_buoy', 'butt', 'bottom', 'fire', 'tush', 'force_out', 'hind_end', 'rear', 'potty', 'dismiss', 'tail_end', 'tin_can', 'buttocks', 'rear_end', 'throne', 'arse', 'posterior', 'toilet', 'displace', 'hindquarters', 'pot', 'nates', 'fundament', 'sack']",The New York Times
+military,"['armed_services', 'military_machine', 'armed_forces', 'war_machine', 'military']",The New York Times
+British,"['British', 'Brits', 'British_people']",The New York Times
+City,"['metropolis', 'city', 'urban_center']",The New York Times
+high,"['high_school', 'high', 'highschool', 'senior_high', 'high_up', 'high-pitched', 'mellow', 'richly', 'high_gear', 'gamey', 'in_high_spirits', 'eminent', 'gamy', 'luxuriously', 'heights', 'senior_high_school']",The New York Times
+treated,"['treated', 'deal', 'do_by', 'address', 'cover', 'care_for', 'tempered', 'regale', 'toughened', 'hardened', 'plow', 'handle', 'treat', 'process']",The New York Times
+all,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",The New York Times
+soldiers,['soldier'],The New York Times
+Witold,[],The New York Times
+beautiful,['beautiful'],The New York Times
+proved,"['testify', 'evidence', 'show', 'essay', 'examine', 'prove', 'try_out', 'demonstrate', 'try', 'rise', 'bear_witness', 'test', 'proved', 'raise', 'turn_out', 'establish', 'proven', 'leaven', 'turn_up', 'shew']",The New York Times
+soloists,['soloist'],The New York Times
+many,['many'],The New York Times
+bravura,['bravura'],The New York Times
+at,"['atomic_number_85', 'at', 'astatine', 'At']",The New York Times
+up,"['upwards', 'astir', 'upwardly', 'upward', 'improving', 'up']",The New York Times
+virtuosity,['virtuosity'],The New York Times
+Gurkhas,['Gurkha'],The New York Times
+then,"['and_so', 'so', 'and_then', 'then']",The New York Times
+humanitarian,"['humanitarian', 'humanist', 'human-centred', 'human-centered', 'do-gooder', 'improver', 'humanistic']",The New York Times
+it,"['information_technology', 'IT']",The New York Times
+application,"['practical_application', 'applications_programme', 'lotion', 'diligence', 'application_program', 'application', 'coating', 'covering']",The New York Times
+almost,"['about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",The New York Times
+Top,"['peak', 'top_of_the_inning', 'pinch', 'round_top', 'tip', 'elevation', 'pinnacle', 'teetotum', 'crest', 'crown', 'superlative', 'tiptop', 'lead', 'summit', 'acme', 'exceed', 'upside', 'big_top', 'pass', 'overstep', 'top_off', 'top', 'height', 'circus_tent', 'clear', 'top_side', 'upper_side', 'top_out', 'go_past', 'spinning_top', 'transcend', 'cover', 'whirligig', 'meridian']",The New York Times
+.,[],The New York Times
+pianist,"['piano_player', 'pianist']",The New York Times
+First,"['commencement', 'low', 'showtime', 'outset', 'initiative', 'foremost', 'first', 'maiden', 'world-class', 'firstly', 'offset', 'low_gear', 'get-go', 'first_gear', 'initiatory', '1st', 'beginning', 'first_off', 'first_of_all', 'kickoff', 'start', 'inaugural', 'number_one', 'number_1', 'first-class_honours_degree', 'first_base', 'starting_time', 'for_the_first_time']",The New York Times
+addition,"['gain', 'accession', 'summation', 'add-on', 'plus', 'addition', 'increase', 'improver']",The New York Times
+charming,"['magical', 'wizard', 'enamour', 'influence', 'catch', 'beguile', 'tempt', 'magic', 'charm', 'entrance', 'capture', 'sorcerous', 'fascinate', 'enchant', 'becharm', 'captivate', 'trance', 'wizardly', 'bewitch', 'enamor', 'witching', 'charming']",The New York Times
+face,"['typeface', 'look', 'aspect', 'human_face', 'boldness', 'front', 'brass', 'confront', 'expression', 'face_up', 'cheek', 'case', 'facial_expression', 'font', 'fount', 'nerve', 'grimace', 'present', 'face', 'side']",The New York Times
+along,"['along', 'on']",The New York Times
+was,"['equal', 'comprise', 'represent', 'WA', 'cost', 'embody', 'follow', 'Evergreen_State', 'be', 'exist', 'make_up', 'personify', 'live', 'Washington', 'constitute']",The New York Times
+units,"['unit_of_measurement', 'whole', 'unit', 'social_unit', 'building_block']",The New York Times
+encumbered,"['encumber', 'cumber', 'restrain', 'constrain', 'encumbered']",The New York Times
+founder,"['father', 'break', 'give', 'cave_in', 'flop', 'collapse', 'founding_father', 'fall_through', 'fall_flat', 'beginner', 'fall_in', 'give_way', 'laminitis', 'founder']",The New York Times
+unite,"['unite', 'join', 'combine', 'unify', 'link', 'merge', 'link_up', 'connect']",The New York Times
+pauses,"['hesitate', 'intermission', 'suspension', 'interruption', 'break', 'intermit', 'pause']",The New York Times
+benefit,"['gain', 'do_good', 'profit', 'benefit', 'welfare']",The New York Times
+wornout,[],The New York Times
+encourage,"['boost', 'encourage', 'advance', 'promote', 'further']",The New York Times
+broad,"['large-minded', 'broad', 'encompassing', 'unsubtle', 'all-embracing', 'unspecific', 'liberal', 'spacious', 'panoptic', 'full', 'blanket', 'extensive', 'all-inclusive', 'across-the-board', 'tolerant', 'wide', 'all-encompassing']",The New York Times
+One,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",The New York Times
+enchanting,"['hex', 'enamour', 'captivating', 'enchanting', 'catch', 'beguile', 'bewitching', 'jinx', 'entrancing', 'enthral', 'enthralling', 'charm', 'entrance', 'enrapture', 'capture', 'delight', 'witch', 'fascinating', 'fascinate', 'ravish', 'enchant', 'glamour', 'becharm', 'captivate', 'trance', 'enthrall', 'bewitch', 'transport', 'enamor']",The New York Times
+selections,"['survival_of_the_fittest', 'pick', 'survival', 'natural_selection', 'excerpt', 'extract', 'option', 'excerption', 'selection', 'choice']",The New York Times
+though,['though'],The New York Times
+act,"['play', 'do', 'bit', 'move', 'act', 'behave', 'turn', 'human_activity', 'dissemble', 'enactment', 'routine', 'act_as', 'deed', 'pretend', 'represent', 'human_action', 'work', 'number', 'playact', 'roleplay']",The New York Times
+Film,"['moving-picture_show', 'pic', 'photographic_film', 'film', 'motion_picture', 'moving_picture', 'celluloid', 'picture', 'picture_show', 'plastic_film', 'take', 'shoot', 'flick', 'cinema', 'movie', 'motion-picture_show']",The New York Times
+University,['university'],The New York Times
+intelligent,"['intelligent', 'reasoning', 'thinking', 'healthy', 'well-informed', 'level-headed', 'levelheaded', 'sound']",The New York Times
+Mendelssohn's,[],The New York Times
+white,"['E._B._White', 'Caucasian', 'blanched', 'bloodless', 'ashen', 'livid', 'white', 'Edward_White', 'egg_white', 'clean', 'albumen', 'ovalbumin', 'gabardine', 'Stanford_White', 'Patrick_White', 'White', 'whiteness', 'flannel', 'whitened', 'Andrew_D._White', 'blank', 'Elwyn_Brooks_White', 'white-hot', 'Theodore_Harold_White', 'T._H._White', 'tweed', 'whiten', 'snowy', 'lily-white', 'Patrick_Victor_Martindale_White', 'White_person', 'Andrew_Dickson_White', 'Edward_D._White', 'White_River', 'Edward_Douglas_White_Jr.']",The New York Times
+amusing,"['laughable', 'funny', 'divert', 'risible', 'comical', 'amusing', 'amusive', 'disport', 'amuse', 'diverting', 'comic', 'mirthful']",The New York Times
+music,"['music', 'euphony', 'medicine']",The New York Times
+suddenly,"['on_the_spur_of_the_moment', 'abruptly', 'suddenly', 'of_a_sudden', 'short', 'all_of_a_sudden', 'dead']",The New York Times
+talk,"['mouth', 'lecture', 'utter', 'blab', 'blab_out', 'verbalize', 'babble_out', 'public_lecture', 'talk', 'babble', 'verbalise', 'let_the_cat_out_of_the_bag', 'talk_of_the_town', 'talking', 'spill', 'speak', 'sing', 'spill_the_beans', 'peach', 'tattle']",The New York Times
+standards,"['standard', 'measure', 'touchstone', 'criterion', 'monetary_standard', 'banner']",The New York Times
+exploit,"['effort', 'tap', 'exploit', 'overwork', 'feat', 'work']",The New York Times
+other,"['other', 'early', 'former']",The New York Times
+put,"['arrange', 'place', 'invest', 'couch', 'order', 'redact', 'lay', 'commit', 'set_up', 'pose', 'put_option', 'frame', 'position', 'assign', 'cast', 'set', 'put']",The New York Times
+man,"['serviceman', 'valet', 'human_race', 'valet_de_chambre', 'humankind', ""gentleman's_gentleman"", 'humans', 'human_being', 'homo', 'military_personnel', 'humanity', 'man', 'gentleman', 'military_man', 'human_beings', 'Isle_of_Man', 'mankind', 'piece', 'human', 'world', 'Man', 'adult_male']",The New York Times
+composer,['composer'],The New York Times
+go,"['spell', 'travel', 'get', 'belong', 'kick_the_bucket', 'X', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'pop_off', 'turn', 'sound', 'crack', 'drop_dead', 'conk', 'get_going', 'go_away', 'tour', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'fling', 'give_out', 'buy_the_farm', 'break', 'ecstasy', 'rifle', 'whirl', 'go_game', 'go_bad', 'decease', 'go', 'cristal', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'disco_biscuit', 'depart', 'fit', 'start', 'offer', 'work', 'Adam', 'operate', 'fail', 'XTC', 'run_low', 'hug_drug', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'lead', 'live', 'extend', 'choke']",The New York Times
+subsistence,['subsistence'],The New York Times
+during,[],The New York Times
+Bragg,"['Braxton_Bragg', 'Bragg']",The New York Times
+specifically,['specifically'],The New York Times
+Most,"['to_the_highest_degree', 'about', 'well-nigh', 'almost', 'nigh', 'nearly', 'most', 'near', 'virtually']",The New York Times
+Seventh,"['7th', 'seventh', 'one-seventh']",The New York Times
+opened,"['afford', 'spread_out', 'unfold', 'give', 'spread', 'open', 'opened', 'open_up']",The New York Times
+'',[],The New York Times
+brilliant,"['bright', 'magnificent', 'brilliant', 'brainy', 'superb', 'splendid', 'glorious', 'vivid', 'smart_as_a_whip']",The New York Times
+32,"['xxxii', '32', 'thirty-two']",The New York Times
+transport,"['transfer', 'carry', 'tape_drive', 'conveyance', 'transportation', 'tape_transport', 'enthral', 'raptus', 'enrapture', 'delight', 'transmit', 'ecstasy', 'channelize', 'channelise', 'ravish', 'exaltation', 'enchant', 'transferral', 'send', 'ship', 'channel', 'shipping', 'enthrall', 'transport', 'rapture']",The New York Times
+came,"['come_up', 'total', 'get', 'do', 'arrive', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'derive', 'fall', 'number', 'come', 'fare']",The New York Times
+war,"['state_of_war', 'warfare', 'war']",The New York Times
+speeches,"['oral_communication', ""actor's_line"", 'speech_communication', 'manner_of_speaking', 'address', 'spoken_language', 'speech', 'delivery', 'lecture', 'voice_communication', 'spoken_communication', 'language', 'talking_to', 'words']",The New York Times
+depresses,"['dispirit', 'cast_down', 'demoralise', 'get_down', 'depress', 'demoralize', 'dismay', 'lower', 'press_down', 'deject']",The New York Times
+Stabat,[],The New York Times
+hygiene,"['hygiene', 'hygienics']",The New York Times
+choose,"['opt', 'prefer', 'select', 'take', 'pick_out', 'choose']",The New York Times
+surprising,"['surprising', 'storm', 'surprise']",The New York Times
+passages,"['transit', 'handing_over', 'enactment', 'musical_passage', 'transition', 'passing', 'passageway', 'passage']",The New York Times
+death,"['death', 'decease', 'last', 'end', 'dying', 'demise', 'Death', 'expiry', 'destruction']",The New York Times
+noisily,['noisily'],The New York Times
+magnificent,"['magnificent', 'splendid', 'brilliant', 'glorious']",The New York Times
+The,[],The New York Times
+I,"['unity', '1', 'atomic_number_53', 'one', 'ane', 'I', 'single', 'iodin', 'ace', 'iodine', 'i']",The New York Times
+training,"['discipline', 'aim', 'grooming', 'training', 'groom', 'preparation', 'direct', 'take_aim', 'school', 'civilize', 'civilise', 'prepare', 'rail', 'train', 'check', 'trail', 'condition', 'take', 'breeding', 'coach', 'educate', 'education', 'cultivate', 'develop']",The New York Times
+boy,"['male_child', 'boy', 'son']",The New York Times
+girls,"['fille', 'miss', 'lady_friend', 'young_woman', 'female_child', 'little_girl', 'young_lady', 'girlfriend', 'girl', 'daughter', 'missy']",The New York Times
+Since,[],The New York Times
+them,[],The New York Times
+West,"['due_west', 'Dame_Rebecca_West', 'western_United_States', 'Benjamin_West', 'west', 'westward', 'Rebecca_West', 'W', 'Occident', 'Mae_West', 'Cicily_Isabel_Fairfield', 'West']",The New York Times
+two,"['two', 'deuce', '2', 'ii', 'II']",The New York Times
+since,[],The New York Times
+ago,"['ago', 'agone']",The New York Times
+matters,"['matter', 'topic', 'affair', 'subject', 'issue', 'weigh', 'thing', 'count']",The New York Times
+international,"['outside', 'International', 'external', 'international']",The New York Times
+format,"['arrange', 'data_format', 'format', 'data_formatting', 'initialize', 'formatting', 'initialise']",The New York Times
+always,"['invariably', 'incessantly', 'constantly', 'ever', 'always', ""e'er"", 'forever', 'perpetually']",The New York Times
+to,[],The New York Times
+boys,"['male_child', 'boy', 'son']",The New York Times
+clattered,"['brattle', 'clack', 'clatter']",The New York Times
+Xydis',[],The New York Times
+about,"['about', 'more_or_less', 'astir', 'just_about', 'well-nigh', 'around', 'almost', 'virtually', 'nigh', 'or_so', 'nearly', 'most', 'close_to', 'near', 'approximately', 'roughly', 'some']",The New York Times
+use,"['role', 'purpose', 'function', 'utilization', 'utilise', 'usage', 'use_of_goods_and_services', 'exercise', 'enjoyment', 'practice', 'use', 'consumption', 'employ', 'habit', 'utilize', 'expend', 'utilisation', 'employment', 'apply', 'manipulation', 'economic_consumption', 'usance', 'habituate']",The New York Times
+altogether,"['whole', 'entirely', 'altogether', 'tout_ensemble', 'all', 'in_all', 'birthday_suit', 'totally', 'all_told', 'raw', 'wholly', 'completely', 'on_the_whole', 'all_in_all']",The New York Times
+stomped,"['stamp', 'stomp', 'stump']",The New York Times
+gleaned,"['harvest', 'reap', 'glean']",The New York Times
+motet,['motet'],The New York Times
+Canada,['Canada'],The New York Times
+(,[],The New York Times
+voices,"['voice', 'representative', 'vocalize', 'vox', 'vocalization', 'vocalism', 'spokesperson', 'part', 'phonation', 'articulation', 'vocalisation', 'vocalise', 'interpreter', 'sound']",The New York Times
+style,"['manner', 'title', 'vogue', 'dash', 'flair', 'panache', 'fashion', 'expressive_style', 'stylus', 'style', 'elan', 'mode', 'way', 'trend']",The New York Times
+virtuoso,"['adept', 'champion', 'wizard', 'mavin', 'consummate', 'masterful', 'genius', 'masterly', 'maven', 'ace', 'sensation', 'superstar', 'whiz', 'hotshot', 'wiz', 'star', 'virtuoso', 'whizz']",The New York Times
+Brass,"['administration', 'organization', 'governance', 'brass', 'boldness', 'cheek', 'organisation', 'governing_body', 'nerve', 'memorial_tablet', 'plaque', 'brass_section', 'brass_instrument', 'establishment', 'face']",The New York Times
+Into,[],The New York Times
+wide,"['widely', 'wide-eyed', 'broad', 'encompassing', 'all-embracing', 'wide_of_the_mark', 'astray', 'spacious', 'panoptic', 'full', 'blanket', 'extensive', 'all-inclusive', 'wide-cut', 'across-the-board', 'wide', 'all-encompassing']",The New York Times
+own,"['ain', 'own', 'possess', 'have']",The New York Times
+occasional,"['episodic', 'periodic', 'casual', 'occasional']",The New York Times
+special,"['particular', 'peculiar', 'special', 'exceptional', 'extra', 'limited', 'especial']",The New York Times
+on,"['along', 'on']",The New York Times
+especially,"['peculiarly', 'especially', 'specially', 'particularly']",The New York Times
+their,[],The New York Times
+hearts,"['affection', 'meat', 'ticker', 'pith', 'heart_and_soul', 'marrow', 'nitty-gritty', 'warmheartedness', 'warmness', 'essence', 'inwardness', 'spunk', 'substance', 'middle', 'kernel', 'centre', 'eye', 'core', 'heart', 'fondness', 'philia', 'pump', 'nub', 'Black_Maria', 'gist', 'hearts', 'spirit', 'center', 'nerve', 'tenderness', 'mettle', 'bosom', 'affectionateness', 'sum']",The New York Times
+army,"['regular_army', 'US_Army', 'army', 'ground_forces', 'USA', 'United_States_Army', 'U._S._Army', 'Army']",The New York Times
+effective,"['efficacious', 'in_force', 'good', 'efficient', 'effective', 'effectual', 'in_effect']",The New York Times
+officers,"[""ship's_officer"", 'police_officer', 'officeholder', 'policeman', 'military_officer', 'officer']",The New York Times
+built,"['work_up', 'progress', 'construct', 'make', 'reinforced', 'built', 'build_up', 'build', 'ramp_up', 'establish']",The New York Times
+If,[],The New York Times
+falls,"['nightfall', 'go_down', 'capitulation', 'Fall', 'declination', 'accrue', 'gloaming', 'autumn', 'decline', 'descent', 'downfall', 'surrender', 'pass', 'crepuscule', 'strike', 'hang', 'shine', 'decrease', 'spill', 'drop', 'precipitate', 'light', 'return', 'diminish', 'lessen', 'dusk', 'devolve', 'flow', 'free_fall', 'fall', 'crepuscle', 'descend', 'declivity', 'evenfall', 'pin', 'declension', 'settle', 'gloam', 'dip', 'fall_down', 'come', 'twilight', 'falls', 'tumble', 'come_down', 'waterfall', 'downslope']",The New York Times
+founded,"['found', 'ground', 'institute', 'set_up', 'plant', 'launch', 'establish', 'base', 'constitute']",The New York Times
+uncomplainingly,['uncomplainingly'],The New York Times
+vivacious,"['vibrant', 'vivacious']",The New York Times

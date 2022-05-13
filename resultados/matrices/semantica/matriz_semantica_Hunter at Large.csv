@@ -1,0 +1,674 @@
+w,vector_semantico
+conscious,"['witting', 'conscious']",Hunter at Large
+carry,"['persuade', 'carry', 'sway', 'dribble', 'behave', 'have_a_bun_in_the_oven', 'run', 'comport', 'expect', 'deport', 'transmit', 'hold', 'stock', 'take', 'convey', 'post', 'bear', 'stockpile', 'channel', 'pack', 'impart', 'transport', 'express', 'acquit', 'conduct', 'extend', 'gestate', 'contain']",Hunter at Large
+sting,"['pang', 'twinge', 'sting', 'insect_bite', 'confidence_game', 'bunko', 'con', 'bite', 'confidence_trick', 'prick', 'hustle', 'stinging', 'con_game', 'flimflam', 'gyp', 'bunco', 'bunco_game', 'stick', 'burn', 'bunko_game']",Hunter at Large
+corpse,"['remains', 'corpse', 'clay', 'stiff', 'cadaver']",Hunter at Large
+grieving,"['mourning', 'grieve', 'aggrieve', 'sorrowing', 'grieving', 'grief-stricken', 'sorrow', 'bereft', 'bereaved']",Hunter at Large
+toward,[],Hunter at Large
+nobody,"['nobody', 'nonentity', 'cipher', 'cypher']",Hunter at Large
+in,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",Hunter at Large
+much,"['very_much', 'often', 'a_lot', 'practically', 'a_great_deal', 'lots', 'a_good_deal', 'much']",Hunter at Large
+turned,"['deform', 'move_around', 'release', 'rick', 'turn', 'turn_over', 'turned', 'wrick', 'sour', 'sprain', 'change_state', 'wrench', 'bend', 'grow', 'change_by_reversal', 'twist', 'become', 'ferment', 'work', 'flex', 'plough', 'plow', 'call_on', 'off', 'reverse']",Hunter at Large
+chance,"['chance', 'bump', 'take_a_chance', 'prospect', 'opportunity', 'gamble', 'adventure', 'run_a_risk', 'find', 'take_chances', 'encounter', 'probability', 'risk', 'casual', 'luck', 'fortune', 'happen', 'hazard']",Hunter at Large
+pressure,"['imperativeness', 'force_per_unit_area', 'pressure', 'insistence', 'atmospheric_pressure', 'squeeze', 'blackjack', 'insistency', 'blackmail', 'air_pressure', 'coerce', 'force', 'pressure_sensation', 'hale', 'pressing', 'pressure_level', 'press']",Hunter at Large
+apparently,"['apparently', 'patently', 'on_the_face_of_it', 'manifestly', 'ostensibly', 'seemingly', 'evidently', 'plainly', 'obviously', 'plain']",Hunter at Large
+call,"['prognosticate', 'cry', 'send_for', 'phone_call', 'scream', 'shout', 'telephone_call', 'predict', 'call_option', 'hollo', 'name', 'holler', 'squall', 'call_off', 'call', 'address', 'phone', 'forebode', 'Call', 'song', 'call_up', 'shout_out', 'ring', 'vociferation', 'anticipate', 'telephone', 'call_in', 'claim', 'yell', 'margin_call', 'outcry', 'visit', 'promise', 'bid', 'foretell', 'birdcall', 'birdsong']",Hunter at Large
+undulating,"['wave', 'roll', 'undulate', 'ruffle', 'cockle', 'ripple', 'riffle', 'flap']",Hunter at Large
+leave,"['leave_behind', 'bequeath', 'give', 'entrust', 'pass_on', 'allow', 'will', 'go_away', 'leave_of_absence', 'leave', 'leave_alone', 'pull_up_stakes', 'exit', 'allow_for', 'get_out', 'go_out', 'forget', 'go_forth', 'provide', 'depart', 'result', 'parting', 'impart', 'leave-taking', 'lead', 'farewell']",Hunter at Large
+gear,"['power_train', 'paraphernalia', 'geared_wheel', 'gear', 'pitch', 'cogwheel', 'appurtenance', 'gearing', 'gear_wheel', 'geartrain', 'train', 'gear_mechanism']",Hunter at Large
+they,[],Hunter at Large
+decided,"['decide', 'adjudicate', 'settle', ""make_up_one's_mind"", 'distinct', 'resolve', 'determine', 'decided']",Hunter at Large
+set,"['arrange', 'adjust', 'go_down', 'do', 'specify', 'fix', 'solidification', 'countersink', 'Seth', 'coif', 'readiness', 'localise', 'dress', 'prepare', 'lay', 'set_up', 'fixed', 'laid', 'bent', 'mark', 'determined', 'Set', 'determine', 'jell', 'congeal', 'primed', 'set', 'define', 'put', 'place', 'curing', 'limit', 'rigid', 'hardening', 'go_under', 'located', 'dictated', 'correct', 'plant', 'typeset', 'lot', 'lay_out', 'coiffe', 'hardened', 'sic', 'position', 'fit', 'exercise_set', 'circle', 'placed', 'stage_set', 'ready', 'localize', 'fructify', 'coiffure', 'solidifying', 'situated', 'rig', 'pose', 'gear_up', 'band']",Hunter at Large
+day,"['daylight', 'Clarence_Shepard_Day_Jr.', '24-hour_interval', 'twenty-four_hour_period', 'Day', 'mean_solar_day', 'day', 'Clarence_Day', 'sidereal_day', 'daytime', 'solar_day', 'twenty-four_hours']",Hunter at Large
+suitcase,"['travelling_bag', 'suitcase', 'traveling_bag', 'grip', 'bag']",Hunter at Large
+above,"['above', 'higher_up', 'in_a_higher_place', 'supra', 'to_a_higher_place']",Hunter at Large
+pocket,"['pocket', 'air_pocket', 'scoop', 'pouch', 'air_hole', 'bag', 'sac', 'sack']",Hunter at Large
+body,"['torso', 'body', 'soundbox', 'consistence', 'organic_structure', 'personify', 'trunk', 'dead_body', 'eubstance', 'physical_structure', 'consistency']",Hunter at Large
+Before,"['in_front', 'ahead', 'earlier', 'before']",Hunter at Large
+felt,"['feel', 'matte_up', 'matte', 'felt_up', 'mat_up', 'mat', 'felt', 'matt-up', 'find', 'palpate', 'sense', 'experience', 'finger']",Hunter at Large
+through,"['through', 'done', 'through_and_through', 'through_with']",Hunter at Large
+Still,"['silence', 'nevertheless', 'motionless', 'silent', 'tranquil', 'distillery', 'unruffled', 'noneffervescent', 'hush', 'stillness', 'tranquillise', 'inactive', 'withal', 'soundless', 'notwithstanding', 'all_the_same', 'however', 'placid', 'calm', 'static', 'allay', 'yet', 'ease', 'tranquilize', 'quieten', 'even_so', 'still', 'relieve', 'smooth', 'tranquillize', 'calm_down', 'lull', 'stock-still', 'hush_up', 'shut_up', 'nonetheless', 'even', 'quiet']",Hunter at Large
+thing,"['matter', 'thing', 'affair']",Hunter at Large
+beam,"['shine', 'air', 'radio_beam', 'glow', 'shaft_of_light', 'electron_beam', 'light_beam', 'irradiation', 'balance_beam', 'radiate', 'beam_of_light', 'ray', 'beam', 'send', 'ray_of_light', 'transmit', 'broadcast', 'shaft']",Hunter at Large
+maybe,"['peradventure', 'possibly', 'perhaps', 'maybe', 'perchance', 'mayhap']",Hunter at Large
+no,"['No', 'no_more', 'no', 'nobelium', 'atomic_number_102']",Hunter at Large
+knelt,['kneel'],Hunter at Large
+post,"['Emily_Price_Post', 'military_post', 'carry', 'Post', 'spot', 'berth', 'C._W._Post', 'brand', 'mail', 'billet', 'Emily_Post', 'Charles_William_Post', 'Wiley_Post', 'place', 'put_up', 'office', 'postal_service', 'position', 'send', 'post', 'stake', 'station', 'situation', 'mail_service']",Hunter at Large
+too,"['excessively', 'overly', 'as_well', 'to_a_fault', 'besides', 'likewise', 'too', 'also']",Hunter at Large
+barely,"['scarce', 'just', 'scarcely', 'scantily', 'barely', 'hardly']",Hunter at Large
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",Hunter at Large
+reached,"['accomplish', 'give', 'make', 'reach', 'arrive_at', 'touch', 'contact', 'pass_on', 'get_through', 'turn_over', 'hit', 'achieve', 'pass', 'get_hold_of', 'gain', 'attain', 'extend_to', 'strain', 'reach_out', 'progress_to', 'get_to', 'hand', 'strive']",Hunter at Large
+home,"['house', 'abode', 'family', 'domicile', 'habitation', 'interior', 'home_base', 'place', 'national', 'dwelling', 'nursing_home', 'plate', 'rest_home', 'menage', 'home_plate', 'internal', 'home', 'dwelling_house', 'household', 'base']",Hunter at Large
+longer,"['retentive', 'foresighted', 'recollective', 'tenacious', 'foresightful', 'farseeing', 'prospicient', 'longer', 'farsighted', 'longsighted', 'thirster', 'yearner', 'long']",Hunter at Large
+big,"['boastful', 'grown', 'bad', 'braggart', 'giving', 'self-aggrandising', 'vainglorious', 'self-aggrandizing', 'freehanded', 'boastfully', 'full-grown', 'gravid', 'bighearted', 'liberal', 'heavy', 'bounteous', 'enceinte', 'great', 'fully_grown', 'cock-a-hoop', 'handsome', 'adult', 'crowing', 'bountiful', 'swelled', 'with_child', 'openhanded', 'expectant', 'bragging', 'magnanimous', 'braggy', 'grownup', 'prominent', 'large', 'vauntingly', 'big']",Hunter at Large
+long,"['retentive', 'foresighted', 'recollective', 'yearn', 'tenacious', 'foresightful', 'hanker', 'farseeing', 'prospicient', 'longsighted', 'farsighted', 'long']",Hunter at Large
+hunch,"['intuition', 'hunch_over', 'suspicion', 'hump', 'hunch', 'hunch_forward']",Hunter at Large
+noticeable,"['detectable', 'obtrusive', 'noticeable']",Hunter at Large
+spray,"['nebuliser', 'atomizer', 'spray', 'spraying', 'sprayer', 'nebulizer', 'atomiser']",Hunter at Large
+make,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'brand', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'shuffle', 'induce', 'relieve_oneself', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'shuffling', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",Hunter at Large
+burden,"['burthen', 'charge', 'effect', 'gist', 'essence', 'burden', 'weight', 'core', 'incumbrance', 'weight_down', 'saddle', 'load', 'onus', 'encumbrance', 'loading']",Hunter at Large
+full,"['total', 'full-of-the-moon', 'good', 'full_phase_of_the_moon', 'full_moon', 'broad', 'to_the_full', 'wax', 'replete', 'full', 'entire', 'wide-cut', 'wide', 'fully']",Hunter at Large
+crouch,"['squat', 'scrunch', 'scrunch_up', 'bend', 'stoop', 'hunker_down', 'crouch', 'bow', 'hunker']",Hunter at Large
+spend,"['spend', 'pass', 'expend', 'drop']",Hunter at Large
+its,"['information_technology', 'IT']",Hunter at Large
+hair,"[""hair's-breadth"", 'hairsbreadth', 'haircloth', 'whisker', 'tomentum', 'hair', 'fuzz', 'pilus']",Hunter at Large
+some,"['about', 'more_or_less', 'just_about', 'around', 'close_to', 'or_so', 'some', 'approximately', 'roughly']",Hunter at Large
+balance,"['Libra_the_Balance', 'counterpoise', 'poise', 'equaliser', 'balance', 'equipoise', 'residual', 'Balance', 'residuum', 'proportionality', 'residue', 'equilibrate', 'symmetry', 'equilibrium', 'correspondence', 'symmetricalness', 'remainder', 'equalizer', 'equilibrize', 'proportion', 'Libra_the_Scales', 'rest', 'counterbalance', 'equilibrise', 'balance_wheel', 'counterweight', 'Libra']",Hunter at Large
+turn,"['deform', 'spell', 'move_around', 'play', 'release', 'bit', 'act', 'rick', 'turn', 'turn_over', 'tour', 'wrick', 'sour', 'turning', 'bend', 'change_state', 'sprain', 'wrench', 'routine', 'grow', 'bout', 'change_by_reversal', 'twist', 'go', 'become', 'good_turn', 'ferment', 'work', 'crook', 'round', 'number', 'flex', 'turn_of_events', 'plough', 'plow', 'call_on', 'reverse']",Hunter at Large
+weapon,"['artillery', 'weapon', 'weapon_system', 'arm']",Hunter at Large
+as,"['antiophthalmic_factor', 'axerophthol', 'a', 'group_A', 'arsenic', 'As', 'as', 'vitamin_A', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'ampere', 'every_bit', 'amp', 'AS', 'A', 'equally', 'adenine', 'atomic_number_33', 'American_Samoa', 'Eastern_Samoa', 'type_A', 'angstrom']",Hunter at Large
+groin,"['jetty', 'breakwater', 'mole', 'bulwark', 'seawall', 'inguen', 'groyne', 'groin']",Hunter at Large
+falling,"['go_down', 'accrue', 'falling', 'dropping', 'pass', 'strike', 'hang', 'shine', 'decrease', 'precipitate', 'light', 'return', 'diminish', 'lessen', 'devolve', 'flow', 'descend', 'fall', 'settle', 'fall_down', 'come', 'come_down']",Hunter at Large
+cleared,"['brighten', 'shed_light_on', 'realize', 'vindicated', 'exonerated', 'clear_up', 'make', 'exculpated', 'pull_in', 'crystalise', 'cleared', 'straighten_out', 'bring_in', 'authorize', 'pass', 'sort_out', 'crystallize', 'absolved', 'crystallise', 'enlighten', 'authorise', 'top', 'illuminate', 'gain', 'exonerate', 'elucidate', 'clear', 'discharge', 'assoil', 'solve', 'light_up', 'take_in', 'unclutter', 'sack_up', 'exculpate', 'crystalize', 'earn', 'realise', 'acquit', 'net', 'sack']",Hunter at Large
+heavier,"['leaden', 'weighty', 'sullen', 'overweight', 'intemperate', 'grievous', 'sound', 'cloggy', 'gravid', 'grave', 'operose', 'lowering', 'heavy', 'enceinte', 'punishing', 'great', 'lumbering', 'fleshy', 'laboured', 'backbreaking', 'grueling', 'clayey', 'wakeless', 'hard', 'with_child', 'sonorous', 'weighed_down', 'labored', 'expectant', 'arduous', 'gruelling', 'toilsome', 'laborious', 'impenetrable', 'dense', 'ponderous', 'large', 'profound', 'big', 'threatening']",Hunter at Large
+ruts,"['estrus', 'oestrus', 'groove', 'furrow', 'rut', 'heat']",Hunter at Large
+dropping,"['strike_down', 'miss', 'neglect', 'fell', 'drip', 'send_away', 'sink', 'spend', 'dribble', 'deteriorate', 'swing', 'leave_out', 'send_packing', 'dangle', 'falling', 'knock_off', 'shake_off', 'dropping', 'drop_down', 'degenerate', 'set_down', 'flatten', 'unload', 'shed', 'throw_away', 'drop', 'omit', 'discharge', 'put_down', 'cast_off', 'overleap', 'devolve', 'dismiss', 'throw', 'throw_off', 'overlook', 'expend', 'drop_off', 'cut_down', 'pretermit', 'cast']",Hunter at Large
+Deep,"['mysterious', 'deep', 'recondite', 'mystifying', 'late', 'rich', 'bass', 'inscrutable', 'deeply', 'thick', 'cryptic', 'abstruse', 'cryptical', 'trench', 'oceanic_abyss']",Hunter at Large
+bloody,"['flaming', 'damn', 'all-fired', 'fucking', 'bloody', 'blinking', 'blooming', 'crashing', 'bally']",Hunter at Large
+never,"['never', ""ne'er""]",Hunter at Large
+rhythmic,"['rhythmical', 'rhythmic']",Hunter at Large
+three,"['terzetto', 'triad', 'threesome', 'deuce-ace', 'triplet', 'trey', '3', 'three', 'troika', 'ternary', 'ternion', 'III', 'leash', 'trio', 'trinity', 'tercet', 'tierce', 'trine', 'iii']",Hunter at Large
+slack,"['falling_off', 'slake', 'slow', 'morass', 'die_away', 'loose', 'falloff', 'slacken', 'quagmire', 'abate', 'let_up', 'slack', 'lax', 'slack_off', 'mire', 'drop-off', 'slow_down', 'slack_up', 'slack_water', 'slackness', 'quag', 'slump', 'slow_up', 'relax']",Hunter at Large
+minute,"['hour', 'moment', 'arcminute', 'second', 'minute_of_arc', 'mo', 'bit', 'minute', 'instant', 'infinitesimal', 'narrow', 'min']",Hunter at Large
+vision,"['sight', 'visual_sense', 'visual_modality', 'imaginativeness', 'visual_sensation', 'vision', 'imagination']",Hunter at Large
+handled,"['wield', 'palm', 'deal', 'do_by', 'address', 'handled', 'manage', 'care', 'cover', 'plow', 'handle', 'treat']",Hunter at Large
+wobbled,"['wobble', 'careen', 'coggle', 'tilt', 'shimmy', 'shift']",Hunter at Large
+newel,"['newel', 'newel_post']",Hunter at Large
+fingers,"['feel', 'fingerbreadth', 'thumb', 'finger', ""finger's_breadth"", 'digit']",Hunter at Large
+interruption,"['intermission', 'suspension', 'interruption', 'gap', 'disruption', 'break', 'pause']",Hunter at Large
+agony,"['suffering', 'torment', 'agony', 'excruciation', 'torture']",Hunter at Large
+twisted,"['sophisticate', 'deform', 'squirm', 'wind', 'pervert', 'rick', 'turn', 'distort', 'wrick', 'twist_around', 'distorted', 'bend', 'wrench', 'sprain', 'worm', 'twist', 'wriggle', 'twisted', 'twine', 'perverted', 'flex', 'writhe', 'wrestle', 'misrepresented', 'curve', 'convolute']",Hunter at Large
+lowest,"['low', 'gloomy', 'scurvy', 'modest', 'crushed', 'depressed', 'scummy', 'humbled', 'abject', 'dispirited', 'downhearted', 'low-pitched', 'last', 'broken', 'small', 'lowest', 'blue', 'last-place', 'humiliated', 'down_in_the_mouth', 'humble', 'downcast', 'miserable', 'low-spirited', 'depleted', 'low-toned', 'down', 'lowly', 'low-down', 'grim']",Hunter at Large
+been,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",Hunter at Large
+trying,"['taste', 'stress', 'essay', 'examine', 'attempt', 'prove', 'try_on', 'try_out', 'nerve-wracking', 'adjudicate', 'judge', 'try', 'assay', 'strain', 'stressful', 'test', 'hear', 'trying', 'sample', 'nerve-racking', 'render', 'seek']",Hunter at Large
+softly,"['gently', 'lightly', 'softly', 'quietly', 'piano']",Hunter at Large
+both,['both'],Hunter at Large
+muffled,"['softened', 'muffle', 'strangle', 'muffled', 'mute', 'stifle', 'muted', 'repress', 'dull', 'damp', 'tone_down', 'smother', 'dampen']",Hunter at Large
+thought,"['cogitate', 'imagine', 'consider', 'retrieve', 'cerebrate', 'suppose', 'thought_process', 'opinion', 'persuasion', 'reckon', 'conceive', 'call_back', 'call_up', 'intend', 'cerebration', 'remember', 'mentation', 'guess', 'think', 'thought', 'opine', 'sentiment', 'view', 'idea', 'believe', 'recall', 'mean', 'recollect', 'intellection', 'thinking']",Hunter at Large
+by,"['away', 'aside', 'past', 'by']",Hunter at Large
+mind,"['nous', 'judgment', 'brain', 'psyche', 'heed', 'mind', 'judgement', 'bear_in_mind', 'creative_thinker', 'take_care', 'listen', 'idea', 'intellect', 'thinker', 'head', 'beware']",Hunter at Large
+fool,"['chump', 'motley_fool', 'slang', 'fool_away', 'put_on', 'dupe', 'fool_around', 'soft_touch', 'fritter', 'shoot', 'sap', 'mark', 'put_one_over', 'cod', 'frivol_away', 'muggins', 'tomfool', 'gull', 'befool', 'put_one_across', 'dissipate', 'saphead', 'take_in', 'horse_around', 'arse_around', 'patsy', 'fritter_away', 'mug', 'fool', 'fall_guy', 'sucker', 'jester']",Hunter at Large
+tell,"['evidence', 'distinguish', 'William_Tell', 'assure', 'order', 'tell_apart', 'secernate', 'narrate', 'enjoin', 'Tell', 'recount', 'separate', 'say', 'tell', 'state', 'severalize', 'secern', 'recite', 'differentiate', 'severalise']",Hunter at Large
+and,[],Hunter at Large
+sum,"['total', 'amount_of_money', 'totality', 'meat', 'pith', 'heart_and_soul', 'marrow', 'nitty-gritty', 'summate', 'tot', 'essence', 'inwardness', 'tally', 'substance', 'union', 'sum_up', 'sum_of_money', 'join', 'summarise', 'kernel', 'centre', 'core', 'add', 'add_up', 'heart', 'amount', 'add_together', 'nub', 'summation', 'aggregate', 'gist', 'tote_up', 'sum_total', 'tot_up', 'center', 'summarize', 'sum']",Hunter at Large
+snow,"['nose_candy', 'C._P._Snow', 'coke', 'lead_by_the_nose', 'Snow', 'Baron_Snow_of_Leicester', 'blow', 'C', 'hoodwink', 'Charles_Percy_Snow', 'snowfall', 'play_false', 'bamboozle', 'snow', ""pull_the_wool_over_someone's_eyes""]",Hunter at Large
+hurtling,"['hurtle', 'hurl', 'lunge', 'thrust', 'cast']",Hunter at Large
+low,"['low', 'gloomy', 'scurvy', 'modest', 'crushed', 'Low', 'depressed', 'first', 'scummy', 'Sir_David_Alexander_Cecil_Low', 'humbled', 'David_Low', 'abject', 'low_gear', 'dispirited', 'downhearted', 'first_gear', 'low-pitched', 'moo', 'broken', 'small', 'blue', 'humiliated', 'down_in_the_mouth', 'humble', 'downcast', 'Sir_David_Low', 'miserable', 'low-spirited', 'depleted', 'low-toned', 'grim', 'down', 'lowly', 'low-down', 'depression']",Hunter at Large
+overlapped,['overlap'],Hunter at Large
+nine,"['ball_club', 'nine', 'baseball_club', 'IX', 'nine-spot', 'ix', 'niner', 'club', '9', 'Nina_from_Carolina', 'ennead']",Hunter at Large
+Mickey's,[],Hunter at Large
+:,[],Hunter at Large
+free,"['exempt', 'loose', 'release', 'disengage', 'detached', 'innocent', 'free', 'give_up', 'unloosen', 'relinquish', 'destitute', 'spare', 'liberal', 'rid', 'justify', 'complimentary', 'gratuitous', 'disembarrass', 'costless', 'free_people', 'discharge', 'barren', 'dislodge', 'relieve', 'unfreeze', 'liberate', 'gratis', 'absolve', 'unloose', 'unblock', 'devoid', 'resign']",Hunter at Large
+threw,"['contrive', 'give', 'make', 'bedevil', 'confuse', 'shake_off', 'hurl', 'discombobulate', 'throw_away', 'shed', 'bewilder', 'confound', 'switch', 'project', 'drop', 'bemuse', 'hold', 'have', 'cast_off', 'throw', 'throw_off', 'fox', 'fuddle', 'flip', 'thrust', 'befuddle', 'cast']",Hunter at Large
+way,"['manner', 'way_of_life', 'elbow_room', 'room', 'direction', 'path', 'fashion', 'means', 'style', 'right_smart', 'mode', 'agency', 'way']",Hunter at Large
+bag,"['travelling_bag', 'bagful', 'suitcase', 'pocket', 'handbag', 'purse', 'traveling_bag', 'udder', 'grip', 'dish', 'bulge', 'pocketbook', 'old_bag', 'base', 'cup_of_tea', 'bag']",Hunter at Large
+tore,"['torus', 'tear', 'tore', 'pluck', 'deplume', 'charge', 'bust', 'snap', 'deplumate', 'buck', 'rupture', 'shoot_down', 'displume', 'pull', 'shoot']",Hunter at Large
+floor,"['ball_over', 'floor', 'trading_floor', 'dump', 'story', 'level', 'shock', 'flooring', 'blow_out_of_the_water', 'storey', 'coldcock', 'base', 'knock_down', 'take_aback', 'deck']",Hunter at Large
+kept,"['stay_fresh', 'go_along', 'prevent', 'go_on', 'unbroken', 'keep_open', 'celebrate', 'kept', 'restrain', 'observe', 'keep_back', 'retain', 'continue', 'keep', 'hold', 'keep_on', 'preserve', 'hold_open', 'hold_on', 'sustain', 'hold_back', 'save', 'proceed', 'maintain']",Hunter at Large
+those,[],Hunter at Large
+sprawled,"['sprawl', 'straggle']",Hunter at Large
+backward,"['backward', 'half-witted', 'slow-witted', 'rearward', 'back', 'feebleminded', 'backwards', 'rearwards']",Hunter at Large
+his,[],Hunter at Large
+hole,"['maw', 'hole_out', 'hole', 'jam', 'mess', 'cakehole', 'gob', 'pickle', 'trap', 'hollow', 'golf_hole', 'muddle', 'yap', 'fix', 'kettle_of_fish']",Hunter at Large
+enter,"['enroll', 'embark', 'recruit', 'insert', 'infix', 'record', 'get_into', 'go_in', 'go_into', 'get_in', 'come_in', 'introduce', 'move_into', 'enter', 'participate', 'put_down', 'inscribe', 'enrol', 'figure', 'accede']",Hunter at Large
+arms,"['limb', 'branch', 'arms', 'blazonry', 'build_up', 'implements_of_war', 'weapons_system', 'coat_of_arms', 'weaponry', 'blazon', 'munition', 'subdivision', 'sleeve', 'weapon_system', 'arm', 'fortify', 'gird', 'weapon']",Hunter at Large
+When,[],Hunter at Large
+from,[],Hunter at Large
+pit,"['oppose', 'perdition', 'colliery', 'Hell', 'endocarp', 'quarry', 'stone', 'pitfall', 'scar', 'mark', 'nether_region', 'infernal_region', 'Inferno', 'play_off', 'pit', 'pock', 'stone_pit', 'fossa', 'orchestra_pit', 'match', 'cavity']",Hunter at Large
+across,"['across', 'crossways', 'crosswise']",Hunter at Large
+advanced,"['ripe', 'encourage', 'bring_forward', 'win', 'go_on', 'shape_up', 'move_on', 'pass_on', 'modern', 'progress', 'supercharge', 'make_headway', 'forward-looking', 'innovative', 'promote', 'further', 'gain_ground', 'gain', 'get_on', 'elevate', 'in_advance', 'kick_upstairs', 'raise', 'march_on', 'pull_ahead', 'get_along', 'get_ahead', 'advanced', 'upgrade', 'boost', 'throw_out', 'come_on', 'advance', 'come_along', 'sophisticated', 'set_ahead']",Hunter at Large
+lamming,"['run_away', 'head_for_the_hills', 'escape', 'run', 'take_to_the_woods', 'thresh', 'flail', 'fly_the_coop', 'break_away', 'turn_tail', 'hightail_it', 'thrash', 'scat', 'scarper', 'bunk', 'lam']",Hunter at Large
+already,['already'],Hunter at Large
+signs,"['planetary_house', 'bless', 'signboard', 'house', 'signalise', 'polarity', 'sign', 'foretoken', 'mark', 'sign_of_the_zodiac', 'subscribe', 'signalize', 'augury', 'preindication', 'signaling', 'signal', 'contract', 'sign_up', 'sign_on', 'star_sign', 'ratify', 'mansion']",Hunter at Large
+out,"['come_out', ""KO'd"", 'prohibited', 'out', 'proscribed', 'forbidden', 'knocked_out', 'extinct', 'away', 'kayoed', 'come_out_of_the_closet', 'tabu', 'stunned', 'taboo', 'verboten']",Hunter at Large
+others,[],Hunter at Large
+earlier,"['former', 'early', 'earliest', 'in_the_beginning', 'sooner', 'before', 'to_begin_with', 'in_the_first_place', 'originally', 'earlier', 'other']",Hunter at Large
+who,"['World_Health_Organization', 'WHO']",Hunter at Large
+tension,"['latent_hostility', 'tautness', 'stress', 'tenseness', 'tensity', 'tension']",Hunter at Large
+gasping,"['pant', 'gasp', 'puff', 'heave']",Hunter at Large
+illumination,"['illumination', 'illuminance', 'miniature', 'clarification', 'light', 'elucidation']",Hunter at Large
+things,"['matter', 'thing', 'affair', 'things']",Hunter at Large
+flashed,"['blink', 'scoot', 'dash', 'show_off', 'swank', 'scud', 'wink', 'flaunt', 'winkle', 'twinkle', 'dart', 'shoot', 'ostentate', 'flash']",Hunter at Large
+returned,"['take_back', 'give', 'refund', 'revert', 'give_back', 'retrovert', 'pass', 'generate', 'reelect', 'deliver', 'yield', 'retort', 'turn_back', 'riposte', 'hark_back', 'return', 'rejoin', 'come_back', 'devolve', 'bring_back', 'fall', 'regress', 'render', 'recall', 'repay']",Hunter at Large
+slab,['slab'],Hunter at Large
+forcing,"['squeeze', 'drive', 'pressure', 'wedge', 'draw', 'coerce', 'impel', 'ram', 'force', 'storm', 'thrust', 'hale', 'pull', 'push']",Hunter at Large
+subtle,"['insidious', 'elusive', 'subtle', 'pernicious']",Hunter at Large
+ribs,"['laugh_at', 'costa', 'make_fun', 'guy', 'jest_at', 'ridicule', 'blackguard', 'poke_fun', 'roast', 'rib']",Hunter at Large
+desk,['desk'],Hunter at Large
+dance,"['trip_the_light_fantastic', 'trip_the_light_fantastic_toe', 'dance', 'dancing', 'saltation', 'terpsichore']",Hunter at Large
+sagged,"['flag', 'sag', 'sag_down', 'swag', 'droop']",Hunter at Large
+clutching,"['prehend', 'cling_to', 'clutch', 'get_hold_of', 'hold_close', 'seize', 'hold_tight']",Hunter at Large
+concern,"['care', 'touch', 'concern', 'business_concern', 'occupy', 'bear_on', 'refer', 'vexation', 'business_organisation', 'business', 'headache', 'interest', 'business_organization', 'relate', 'pertain', 'come_to', 'have-to_doe_with', 'worry', 'fear', 'touch_on']",Hunter at Large
+tripped,"['set_off', 'trigger', 'touch_off', 'actuate', 'travel', 'stumble', 'trip', 'trip_up', 'trigger_off', 'trip_out', 'spark_off', 'turn_on', 'get_off', 'jaunt', 'spark', 'activate']",Hunter at Large
+edge,"['abut', 'butt_against', 'border', 'inch', 'sharpness', 'bound', 'butt', 'adjoin', 'boundary', 'edge', 'march', 'butt_on']",Hunter at Large
+night,"['dark', 'Night', 'nighttime', 'Nox', 'night']",Hunter at Large
+managed,"['carry_off', 'care', 'supervise', 'do', 'pull_off', 'wield', 'oversee', 'contend', 'bring_off', 'make_out', 'wangle', 'deal', 'superintend', 'finagle', 'handle', 'cope', 'grapple', 'make_do', 'manage', 'negociate', 'get_by']",Hunter at Large
+shoulders,"['articulatio_humeri', 'berm', 'shoulder_joint', 'shoulder']",Hunter at Large
+hoping,"['skip', 'hope', 'hop', 'trust', 'hop-skip', 'desire', 'go_for']",Hunter at Large
+belly,"['venter', 'belly_out', 'belly', 'stomach', 'abdomen', 'paunch']",Hunter at Large
+sight,"['good_deal', 'batch', 'plenty', 'hatful', 'sight', 'quite_a_little', 'mess', 'visual_sense', 'mickle', 'slew', 'heap', 'survey', 'wad', 'vision', 'tidy_sum', 'stack', 'deal', 'spate', 'visual_modality', 'lot', 'mass', 'great_deal', 'spy', 'mint', 'mountain', 'flock', 'pile', 'view', 'muckle', 'passel', 'raft', 'ken', 'pot', 'peck']",Hunter at Large
+level,"['tier', 'story', 'charge', 'dismantle', 'plane', 'stage', 'pull_down', 'floor', 'level', 'spirit_level', 'raze', 'grade', 'level_off', 'take_down', 'flat', 'layer', 'even_out', 'point', 'stratum', 'tied', 'rase', 'flush', 'unwavering', 'tear_down', 'horizontal_surface', 'degree', 'storey', 'even']",Hunter at Large
+approach,"['glide_path', 'access', 'approaching', 'set_about', 'feeler', 'approach_shot', 'go_up', 'approach', 'coming', 'draw_close', 'come_near', 'plan_of_attack', 'overture', 'glide_slope', 'near', 'approach_path', 'go_about', 'attack', 'draw_near', 'come_on', 'advance', 'border_on']",Hunter at Large
+short,"['unretentive', 'shortstop', 'scant', 'brusque', 'myopic', 'curt', 'short-change', 'inadequate', 'poor', 'suddenly', 'short', 'unforesightful', 'short_circuit', 'dead', 'forgetful', 'abruptly', 'short-circuit', 'light', 'little', 'unawares', 'shortsighted', 'brusk', 'curtly', 'shortly']",Hunter at Large
+feet,"['foot', 'animal_foot', 'invertebrate_foot', 'groundwork', 'infantry', 'metrical_unit', 'metrical_foot', 'understructure', 'human_foot', 'pes', 'substructure', 'base', 'ft', 'fundament', 'foundation']",Hunter at Large
+onto,[],Hunter at Large
+shaft,"['pecker', 'dick', 'jibe', 'peter', 'light_beam', 'rotating_shaft', 'lance', 'scape', 'calamus', 'screw', 'diaphysis', 'slam', 'spear', 'prick', 'beam_of_light', 'chicane', 'shaft', 'barb', 'putz', 'irradiation', 'jockey', 'gibe', 'shot', 'beam', 'ray', 'tool', 'ray_of_light', 'dig', 'chouse', 'cheat', 'shaft_of_light', 'quill', 'cock']",Hunter at Large
+foot,"['invertebrate_foot', 'metrical_unit', 'hoof_it', 'foundation', 'animal_foot', 'leg_it', 'infantry', 'foot', 'pick', 'groundwork', 'metrical_foot', 'human_foot', 'substructure', 'foot_up', 'ft', 'understructure', 'pes', 'base', 'fundament', 'hoof']",Hunter at Large
+stairs,"['step', 'stairs', 'steps', 'stair']",Hunter at Large
+timber,"['timber', 'lumber', 'tone', 'quality', 'forest', 'woodland', 'timberland', 'timbre']",Hunter at Large
+smeared,"['sully', 'asperse', 'defame', 'smear', 'blur', 'calumniate', 'slander', 'denigrate', 'daub', 'smutch', 'smirch', 'besmirch', 'smudge']",Hunter at Large
+saw,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'power_saw', 'catch', 'ascertain', 'examine', 'witness', 'adage', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'byword', 'get_wind', 'pick_up', 'proverb', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'saw', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'sawing_machine', 'experience', 'control']",Hunter at Large
+sudden,['sudden'],Hunter at Large
+looking,"['looking_for', 'look', 'await', 'seem', 'search', 'wait', 'sounding', 'expect', 'front', 'attend', 'reckon', 'calculate', 'take_care', 'bet', 'count', 'depend', 'looking', 'looking_at', 'see', 'face', 'appear']",Hunter at Large
+our,[],Hunter at Large
+being,"['equal', 'comprise', 'constitute', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'existence', 'live', 'organism', 'being', 'beingness']",Hunter at Large
+external,"['outside', 'external', 'international', 'extraneous']",Hunter at Large
+if,[],Hunter at Large
+waited,"['wait', 'hold_back', 'look', 'await', 'expect', 'waitress', 'hold_off']",Hunter at Large
+leaning,"['slant', 'tip', 'angle', 'lean', 'inclination', 'be_given', 'tend', 'run', 'tilt', 'canted', 'tipped', 'propensity', 'tilted', 'list', 'atilt', 'leaning', 'tendency', 'proclivity', 'incline']",Hunter at Large
+hand,"['hand', 'give', 'manus', 'deal', 'handwriting', 'reach', 'mitt', 'script', 'hired_man', 'hired_hand', 'helping_hand', 'pass', 'pass_on', 'turn_over', 'paw', 'bridge_player']",Hunter at Large
+only,"['only', 'entirely', 'sole', 'merely', 'simply', 'only_when', 'solitary', 'lone', 'just', 'exclusively', 'alone', 'only_if', 'solely', 'lonesome', 'but']",Hunter at Large
+unlocked,"['unlock', 'unlatched', 'unbarred', 'unsecured', 'unbolted', 'unlocked']",Hunter at Large
+marks,"['chump', 'tick', 'Simon_Marks', 'distinguish', 'strike_off', 'marking', 'commemorate', 'strike_out', 'label', 'Saint_Mark', 'crisscross', 'stigmatise', 'brand', 'note', 'sign', 'soft_touch', 'Gospel_According_to_Mark', 'marker', 'First_Baron_Marks_of_Broughton', 'scar', ""bull's_eye"", 'mark', 'cross_off', 'grade', 'Deutsche_Mark', 'stigma', 'set', 'cross_out', 'check', 'print', 'punctuate', 'tag', 'St._Mark', 'gull', 'nock', 'cross', 'denounce', 'stain', 'target', 'bell_ringer', 'scrape', 'pit', 'German_mark', 'check_off', 'patsy', 'Deutschmark', 'score', 'pock', 'tick_off', 'mark_off', 'mug', 'fool', 'fall_guy', 'Marks', 'home_run', 'stigmatize', 'notice', 'Mark', 'sucker', 'scratch', 'differentiate']",Hunter at Large
+dusty,"['dust-covered', 'cold', 'dusty', 'moth-eaten', 'stale']",Hunter at Large
+settled,"['subside', 'go_down', 'get_back', 'conciliate', 'resolve', 'sink', 'ensconce', 'adjudicate', 'colonised', 'root', 'determine', 'decide', 'go_under', 'settle_down', 'take_root', 'make_up', 'steady_down', 'colonized', 'locate', 'patch_up', 'descend', 'fall', 'finalize', 'square_up', 'finalise', 'settled', 'settle', 'reconcile', 'nail_down', 'square_off']",Hunter at Large
+settle,"['subside', 'go_down', 'get_back', 'conciliate', 'resolve', 'sink', 'settee', 'ensconce', 'adjudicate', 'root', 'determine', 'decide', 'go_under', 'settle_down', 'take_root', 'make_up', 'steady_down', 'locate', 'patch_up', 'descend', 'fall', 'finalize', 'square_up', 'finalise', 'settle', 'reconcile', 'nail_down', 'square_off']",Hunter at Large
+beside,[],Hunter at Large
+an,"['AN', 'Associate_in_Nursing']",Hunter at Large
+around,"['about', 'more_or_less', 'round', 'just_about', 'around', 'or_so', 'close_to', 'approximately', 'roughly', 'some']",Hunter at Large
+blood,"['pedigree', 'roue', 'ancestry', 'rip', 'bloodline', 'stemma', 'line', 'rakehell', 'descent', 'origin', 'stock', 'blood', 'line_of_descent', 'lineage', 'parentage', 'profligate', 'blood_line', 'rake']",Hunter at Large
+local,"['local_anaesthetic', 'local', 'topical_anaesthetic', 'local_anesthetic', 'topical_anesthetic']",Hunter at Large
+casually,"['nonchalantly', 'casually']",Hunter at Large
+have,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'wealthy_person', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'rich_person', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",Hunter at Large
+five,"['five-spot', 'Phoebe', 'basketball_team', 'five', 'fin', 'quintuplet', 'v', 'fivesome', 'quintet', 'cinque', '5', 'Little_Phoebe', 'V', 'quint', 'pentad']",Hunter at Large
+Come,"['come_up', 'total', 'get', 'do', 'arrive', 'semen', 'seminal_fluid', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'cum', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'fall', 'derive', 'number', 'come', 'fare', 'ejaculate', 'seed']",Hunter at Large
+giving,"['give', 'giving', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'freehanded', 'grant', 'big', 'chip_in', 'ease_up', 'bighearted', 'sacrifice', 'cave_in', 'liberal', 'leave', 'pass', 'open', 'bounteous', 'generate', 'devote', 'yield', 'contribute', 'handsome', 'pay', 'hold', 'bountiful', 'move_over', 'return', 'feed', 'openhanded', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",Hunter at Large
+spot,"['slur', 'speckle', 'espy', 'recognize', 'distinguish', 'spot', 'maculation', 'berth', 'touch', 'bit', 'smirch', 'patch', 'smear', 'billet', 'tell_apart', 'pick_out', 'descry', 'place', 'make_out', 'recognise', 'blob', 'dapple', 'blemish', 'pip', 'stain', 'point', 'topographic_point', 'office', 'daub', 'spotlight', 'position', 'spy', 'post', 'smudge', 'situation', 'discern', 'fleck', 'blot']",Hunter at Large
+watched,"['see', 'watch', 'look_out', 'look_on', 'learn', 'follow', 'view', 'keep_an_eye_on', 'determine', 'find_out', 'catch', 'ascertain', 'take_in', 'watch_out', 'check', 'observe', 'watch_over']",Hunter at Large
+wind,"['flatus', 'winding', 'tip', 'wind', 'current_of_air', 'lift', 'malarky', 'wreathe', 'jazz', 'wander', 'roll', 'weave', 'steer', 'twist', 'farting', 'scent', 'nothingness', 'malarkey', 'air_current', 'wind_instrument', 'thread', 'wind_up', 'twine', 'breaking_wind', 'nose', 'wrap', 'meander', 'curve', 'confidential_information', 'hoist', 'idle_words', 'fart', 'lead', 'hint']",Hunter at Large
+hired,"['leased', 'chartered', 'charter', 'take', 'lease', 'hired', 'employ', 'hire', 'engage', 'rent']",Hunter at Large
+tossed,"['cast_aside', 'cast_away', 'thrash', 'toss_away', 'pitch', 'toss', 'fling', 'throw_away', 'thresh_about', 'toss_out', 'sky', 'slash', 'jactitate', 'thresh', 'chuck', 'dispose', 'convulse', 'thrash_about', 'put_away', 'chuck_out', 'throw_out', 'flip', 'discard', 'cast_out']",Hunter at Large
+could,[],Hunter at Large
+exclusive,"['sole', 'undivided', 'single', 'scoop', 'exclusive']",Hunter at Large
+dryly,"['drily', 'laconically', 'dryly']",Hunter at Large
+thigh,"['thigh', 'second_joint']",Hunter at Large
+cut,"['gash', 'slashed', 'trim_back', 'tailor', 'issue', 'switch_off', 'emasculated', 'trimmed', 'rationalize', 'excision', 'swing', 'geld', 'weakened', 'reduce', 'prune', 'cut', 'bring_down', 'cut_off', 'cut_back', 'mown', 'slew', 'write_out', 'hack', 'shorten', 'edit_out', 'gelded', 'snub', 'thinned', 'abbreviate', 'make_out', 'skip', 'abridge', 'foreshorten', 'cut_of_meat', 'trim_down', 'slash', 'dilute', 'thin_out', 'thin', 'deletion', 'contract', 'slice', 'turn_off', 'veer', 'sheer', 'undercut', 'turn_out', 'rationalise', 'trend', 'ignore', 'shortened', 'baseball_swing', 'trim', 'slue', 'disregard', 'cutting_off', 'burn', 'curve', 'track', 'swerve', 'edit', 'stinger', 'cut_down', 'cold_shoulder', 'cutting']",Hunter at Large
+smashed,"['blast', 'boom', 'bankrupt', 'cockeyed', 'plastered', 'slopped', 'squiffy', 'loaded', 'demolish', 'wet', 'crush', 'pissed', 'besotted', 'smashed', 'pixilated', 'sozzled', 'soused', 'soaked', 'stiff', 'ruin', 'bang_up', 'crocked', 'dash', 'blind_drunk', 'fuddled', 'smash_up', 'smash', 'blotto', 'tight', 'sloshed', 'pie-eyed', 'break', 'nail']",Hunter at Large
+tour,"['spell', 'tour', 'go', 'duty_tour', 'circuit', 'tour_of_duty', 'enlistment', 'hitch', 'turn', 'term_of_enlistment']",Hunter at Large
+heaved,"['gasp', 'gag', 'heave_up', 'pant', 'buckle', 'puff', 'warp', 'heave', 'billow', 'heft_up', 'retch', 'heft', 'surge']",Hunter at Large
+be,"['equal', 'atomic_number_4', 'comprise', 'represent', 'cost', 'embody', 'follow', 'glucinium', 'be', 'exist', 'make_up', 'beryllium', 'personify', 'live', 'Be', 'constitute']",Hunter at Large
+tire,"['tyre', 'weary', 'fatigue', 'wear', 'pall', 'sap', 'wear_out', 'bore', 'play_out', 'fag', 'run_down', 'tire', 'outwear', 'fag_out', 'jade', 'exhaust', 'tire_out', 'wear_upon', 'wear_down']",Hunter at Large
+heavily,"['intemperately', 'to_a_great_extent', 'hard', 'heavy', 'heavily']",Hunter at Large
+Roberts,"['Richard_John_Roberts', 'Richard_J._Roberts', 'Oral_Roberts', 'Bartholomew_Roberts', 'Henry_M._Robert', 'Robert', 'Kenneth_Roberts', 'Henry_Martyn_Robert', 'Roberts']",Hunter at Large
+but,"['only', 'simply', 'merely', 'just', 'but']",Hunter at Large
+macabre,"['sick', 'gruesome', 'grisly', 'macabre', 'grim', 'ghastly']",Hunter at Large
+downward,"['downwards', 'downward', 'down', 'downwardly']",Hunter at Large
+knee,"['articulatio_genus', 'knee', 'human_knee', 'stifle', 'knee_joint', 'genu']",Hunter at Large
+last,"['finale', 'death', 'survive', 'hold_out', 'terminal', 'close', 'utmost', 'final_stage', 'concluding', 'end', 'in_conclusion', 'finally', 'stopping_point', 'live_on', 'lastly', 'go', 'last', ""shoemaker's_last"", 'endure', 'finish', ""cobbler's_last"", 'lowest', 'conclusion', 'last-place', 'final', 'hold_up', 'finis', 'live', 'net']",Hunter at Large
+relief,"['ministration', 'substitute', 'succor', 'stand-in', 'easing', 'sculptural_relief', 'alleviation', 'rest_period', 'backup_man', 'respite', 'ease', 'reliever', 'moderation', 'relief', 'embossment', 'succour', 'fill-in', 'relievo', 'rest', 'rilievo', 'backup', 'easement', 'assuagement']",Hunter at Large
+perfect,"['double-dyed', 'gross', 'staring', 'complete', 'perfective_tense', 'stark', 'consummate', 'utter', 'perfect_tense', 'arrant', 'perfect', 'pure', 'sodding', 'thoroughgoing', 'hone', 'perfective', 'everlasting', 'unadulterated']",Hunter at Large
+headlights,"['headlight', 'headlamp']",Hunter at Large
+solid,"['satisfying', 'whole', 'strong', 'substantial', 'self-coloured', 'self-colored', 'firm', 'upstanding', 'solid_state', 'hearty', 'solid', 'unanimous', 'square', 'solidness']",Hunter at Large
+stood,"['stick_out', 'digest', 'stand_up', 'support', 'put_up', 'tolerate', 'resist', 'stomach', 'endure', 'place_upright', 'abide', 'stand', 'suffer', 'remain_firm', 'brook', 'fend', 'bear']",Hunter at Large
+below,"['at_a_lower_place', 'downstairs', 'beneath', 'down_the_stairs', 'under', 'on_a_lower_floor', 'below', 'to_a_lower_place', 'infra']",Hunter at Large
+seemed,"['appear', 'seem', 'look']",Hunter at Large
+impulse,"['impulse', 'caprice', 'nerve_impulse', 'whim', 'impetus', 'pulsation', 'pulsing', 'momentum', 'urge', 'pulse', 'impulsion', 'neural_impulse', 'nervous_impulse']",Hunter at Large
+himself,[],Hunter at Large
+remembered,"['call_up', 'commemorate', 'retrieve', 'think_of', 'remember', 'recall', 'think_back', 'recollect', 'commend', 'think', 'call_back']",Hunter at Large
+eyes,"['optic', 'eyes', 'eyeball', 'oculus', 'center', 'eye', 'centre', 'heart', 'middle']",Hunter at Large
+swung,"['drop', 'swing_over', 'get_around', 'sweep', 'sway', 'swing_out', 'swing', 'dangle']",Hunter at Large
+Only,"['only', 'entirely', 'sole', 'merely', 'simply', 'only_when', 'solitary', 'lone', 'just', 'exclusively', 'alone', 'only_if', 'solely', 'lonesome', 'but']",Hunter at Large
+thud,"['clunk', 'crump', 'scrunch', 'clump', 'thud', 'thump', 'thumping']",Hunter at Large
+anticipated,"['prognosticate', 'forestall', 'previse', 'call', 'counter', 'look_for', 'promise', 'anticipated', 'expect', 'anticipate', 'predict', 'foretell', 'forebode', 'look_to', 'foreknow', 'awaited', 'foresee', 'hoped-for']",Hunter at Large
+didn't,[],Hunter at Large
+even,"['eventide', 'level', 'eve', 'still', 'yet', 'even_out', 'regular', 'fifty-fifty', 'tied', 'even', 'flush', 'evening']",Hunter at Large
+mildly,"['gently', 'mildly']",Hunter at Large
+now,"['now', 'forthwith', 'directly', 'immediately', 'straight_off', 'right_away', 'straightaway', 'at_present', 'instantly', 'nowadays', 'like_a_shot', 'today', 'at_once']",Hunter at Large
+oiled,"['anele', 'oiled', 'inunct', 'anoint', 'embrocate', 'oil']",Hunter at Large
+stiffly,"['rigidly', 'bolt', 'stiffly', 'stiff']",Hunter at Large
+lover,"['buff', 'fan', 'lover', 'devotee']",Hunter at Large
+eight,"['eighter', 'octet', 'octonary', 'eight', '8', 'VIII', 'eighter_from_Decatur', 'Ashcan_School', 'viii', 'eight-spot', 'ogdoad', 'octad', 'Eight']",Hunter at Large
+second,"['sec', 'second', 'bit', 'indorsement', 'secondment', 'second_base', 'minute', 's', 'second_gear', 'secondly', 'indorse', '2nd', 'moment', '2d', 'endorsement', 'irregular', 'mo', 'endorse', 'instant', 'back', 'arcsecond']",Hunter at Large
+key,"['distinguish', 'key', 'fundamental', 'key_out', 'name', 'samara', 'winder', 'keystone', 'Florida_key', 'identify', 'central', 'key_fruit', 'describe', 'Francis_Scott_Key', 'cardinal', 'cay', 'tonality', 'discover', 'primal', 'paint', 'headstone', 'Key']",Hunter at Large
+knifelike,"['lancinating', 'piercing', 'lancinate', 'acute', 'sharp', 'penetrating', 'knifelike', 'incisive', 'keen', 'penetrative', 'discriminating', 'stabbing', 'cutting']",Hunter at Large
+door,"['threshold', 'doorway', 'door', 'room_access']",Hunter at Large
+momentary,"['fleeting', 'fugitive', 'momentary', 'momentaneous']",Hunter at Large
+It,"['information_technology', 'IT']",Hunter at Large
+gasped,"['pant', 'gasp', 'puff', 'heave']",Hunter at Large
+time,"['clock_time', 'meter', 'clock', 'metre', 'prison_term', 'clip', 'sentence', 'time', 'fourth_dimension']",Hunter at Large
+``,[],Hunter at Large
+packed,"['pack', 'jam', 'throng', 'mob', 'carry', 'load_down', 'jam-packed', 'pile', 'backpack', 'wad', 'take', 'compact', 'bundle', 'jammed', 'packed', 'tamp', 'tamp_down']",Hunter at Large
+poised,"['self-possessed', 'poise', 'brace', 'collected', 'self-contained', 'equanimous', 'self-collected', 'balance', 'poised']",Hunter at Large
+Peabody,"['Peabody', 'Elizabeth_Palmer_Peabody', 'Elizabeth_Peabody']",Hunter at Large
+first,"['commencement', 'low', 'showtime', 'outset', 'initiative', 'foremost', 'first', 'maiden', 'world-class', 'firstly', 'offset', 'low_gear', 'get-go', 'first_gear', 'initiatory', '1st', 'beginning', 'first_off', 'first_of_all', 'kickoff', 'start', 'inaugural', 'number_one', 'number_1', 'first-class_honours_degree', 'first_base', 'starting_time', 'for_the_first_time']",Hunter at Large
+she,[],Hunter at Large
+taller,"['improbable', 'tall', 'marvellous', 'magniloquent', 'grandiloquent', 'marvelous']",Hunter at Large
+made,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'reach', 'do', 'arrive_at', 'cook', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'made', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",Hunter at Large
+slide,"['chute', 'sloping_trough', 'slideway', 'swoop', 'slide', 'glide', 'lantern_slide', 'skid', 'slip', 'slue', 'slew', 'microscope_slide', 'sliding_board', 'slither', 'playground_slide', 'coast']",Hunter at Large
+charged,"['charge', 'burden', 'accuse', 'charge_up', 'buck', 'supercharged', 'excite', 'load', 'blame', 'shoot', 'institutionalize', 'tear', 'level', 'institutionalise', 'bill', 'consign', 'agitate', 'shoot_down', 'appoint', 'charged', 'point', 'send', 'file', 'aerated', 'commit', 'rouse', 'turn_on', 'commove', 'saddle', 'lodge', 'bear_down']",Hunter at Large
+road,"['road', 'route']",Hunter at Large
+remember,"['call_up', 'commemorate', 'retrieve', 'think_of', 'remember', 'recall', 'think_back', 'recollect', 'commend', 'think', 'call_back']",Hunter at Large
+rag,"['gravel', 'take_to_task', 'nark', 'tease', 'dress_down', 'rag_week', 'lecture', 'scold', 'remonstrate', 'bedevil', 'get_at', 'razz', 'ragtime', 'chafe', 'bait', 'jaw', 'chew_up', 'tabloid', 'bother', 'trounce', 'reprimand', 'call_down', 'sheet', 'tantalise', 'lambast', 'cod', 'frustrate', 'tag', 'rile', 'torment', 'tag_end', 'rebuke', 'taunt', 'rag', 'annoy', 'vex', 'bawl_out', 'get_to', 'shred', 'chew_out', 'tantalize', 'devil', 'lambaste', 'chide', 'dun', 'nettle', 'have_words', 'crucify', 'twit', 'reproof', 'ride', 'irritate', 'call_on_the_carpet', 'berate', 'rally', 'tatter']",Hunter at Large
+starts,"['commencement', 'come_out', 'initiate', 'get', 'take_up', 'startle', 'set_about', 'part', 'pop_out', 'jump', 'showtime', 'starting', 'scratch_line', 'outset', 'commence', 'bulge_out', 'bug_out', 'first', 'start_up', 'get_going', 'embark_on', 'pop', 'set_out', 'offset', 'starting_signal', 'get-go', 'head_start', 'lead_off', 'set_forth', 'get_down', 'set_off', 'originate', 'go', 'beginning', 'kickoff', 'depart', 'start', 'start_out', 'begin', 'bulge', 'scratch', 'starting_time', 'take_off', 'protrude', 'starting_line']",Hunter at Large
+sheriff,['sheriff'],Hunter at Large
+after,"['later_on', 'subsequently', 'afterward', 'after', 'later', 'afterwards']",Hunter at Large
+telephone,"['call_up', 'ring', 'call', 'phone', 'telephony', 'telephone', 'telephone_set']",Hunter at Large
+struck,"['smitten', 'affect', 'take_up', 'impinge_on', 'move', 'come_upon', 'coin', 'light_upon', 'hit', 'chance_upon', 'come_across', 'excise', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'shine', 'attain', 'assume', 'impress', 'take', 'come_to', 'mint', 'struck', 'fall', 'strickle', 'stricken', 'happen_upon', 'discover', 'chance_on', 'scratch']",Hunter at Large
+her,[],Hunter at Large
+With,[],Hunter at Large
+had,"['get', 'give', 'make', 'suffer', 'birth', 'possess', 'consume', 'feature', 'give_birth', 'induce', 'stimulate', 'deliver', 'let', 'hold', 'receive', 'take', 'accept', 'take_in', 'bear', 'own', 'throw', 'cause', 'ingest', 'sustain', 'experience', 'have_got', 'have']",Hunter at Large
+down,"['low', 'mastered', 'gloomy', 'depressed', 'downwardly', 'pull_down', 'polish', 'land', 'consume', 'pop', 'downwards', 'downward', 'shoot_down', 'dispirited', 'downhearted', 'fine-tune', 'belt_down', 'blue', 'refine', 'down_in_the_mouth', 'kill', 'knock_down', 'downcast', 'John_L._H._Down', 'down_pat', 'pour_down', 'Down', 'devour', 'pile', 'low-spirited', 'bolt_down', 'go_through', 'grim', 'down', 'toss_off', 'cut_down', 'down_feather', 'push_down', 'drink_down']",Hunter at Large
+veered,"['cut', 'slue', 'slew', 'curve', 'swerve', 'veer', 'sheer', 'trend']",Hunter at Large
+under,"['nether', 'under', 'below']",Hunter at Large
+snowing,"['lead_by_the_nose', 'play_false', 'hoodwink', 'bamboozle', 'snow', ""pull_the_wool_over_someone's_eyes""]",Hunter at Large
+slashed,"['welt', 'gash', 'slashed', 'strap', 'thrash', 'cut', 'trounce', 'toss', 'lather', 'thresh_about', 'whip', 'slash', 'jactitate', 'lash', 'thresh', 'flog', 'convulse', 'thrash_about', 'cut_down']",Hunter at Large
+story,"['floor', 'narrative', 'tale', 'report', 'story', 'level', 'chronicle', 'account', 'write_up', 'fib', 'tarradiddle', 'history', 'storey', 'news_report', 'taradiddle', 'narration']",Hunter at Large
+extended,"['unfold', 'extended', 'broaden', 'carry', 'hold_out', 'prolong', 'draw_out', 'lengthy', 'widen', 'run', 'exsert', 'protracted', 'pass', 'extensive', 'poke_out', 'prolonged', 'gallop', 'go', 'strain', 'continue', 'stretch', 'reach_out', 'put_out', 'stretch_forth', 'offer', 'stretch_out', 'expand', 'lengthened', 'cover', 'protract', 'lead', 'extend', 'elongated', 'drawn-out']",Hunter at Large
+overcoat,"['overcoat', 'topcoat', 'overcoating', 'greatcoat']",Hunter at Large
+reach,"['accomplish', 'reaching', 'give', 'make', 'reach', 'arrive_at', 'touch', 'grasp', 'contact', 'pass_on', 'get_through', 'turn_over', 'hit', 'achieve', 'pass', 'get_hold_of', 'gain', 'attain', 'extend_to', 'strain', 'stretch', 'ambit', 'reach_out', 'progress_to', 'get_to', 'hand', 'strive', 'orbit', 'compass', 'range', 'scope']",Hunter at Large
+move,"['actuate', 'travel', 'be_active', 'affect', 'make_a_motion', 'motivate', 'move', 'act', 'motion', 'propel', 'run', 'incite', 'strike', 'motility', 'go', 'movement', 'locomote', 'impress', 'prompt', 'proceed', 'displace', 'relocation']",Hunter at Large
+few,['few'],Hunter at Large
+empty,"['evacuate', 'discharge', 'vacuous', 'vacate', 'empty', 'hollow', 'empty-bellied', 'void', 'abandon']",Hunter at Large
+Jeep,"['landrover', 'jeep']",Hunter at Large
+possible,"['possible', 'potential']",Hunter at Large
+silently,"['taciturnly', 'silently', 'wordlessly', 'mutely']",Hunter at Large
+unable,"['unable', 'ineffectual', 'ineffective']",Hunter at Large
+soon,"['before_long', 'soon', 'presently', 'shortly']",Hunter at Large
+more,"['Thomas_More', 'more_than', 'more', 'More', 'Sir_Thomas_More', 'to_a_greater_extent']",Hunter at Large
+using,"['use', 'utilize', 'victimization', 'using', 'expend', 'victimisation', 'apply', 'utilise', 'employ', 'practice', 'exploitation', 'habituate']",Hunter at Large
+heavy,"['leaden', 'weighty', 'sullen', 'overweight', 'intemperate', 'grievous', 'sound', 'cloggy', 'gravid', 'grave', 'operose', 'lowering', 'heavy', 'enceinte', 'heavily', 'punishing', 'great', 'lumbering', 'fleshy', 'laboured', 'backbreaking', 'grueling', 'clayey', 'wakeless', 'hard', 'with_child', 'sonorous', 'weighed_down', 'labored', 'expectant', 'arduous', 'gruelling', 'toilsome', 'laborious', 'impenetrable', 'dense', 'ponderous', 'large', 'profound', 'big', 'threatening']",Hunter at Large
+wrenching,"['wring', 'wrick', 'turn', 'sprain', 'wrench', 'racking', 'rick', 'twist', 'wrenching']",Hunter at Large
+series,"['serial_publication', 'serial', 'series']",Hunter at Large
+banister,"['handrail', 'banister', 'balustrade', 'balusters', 'bannister']",Hunter at Large
+landed,"['land', 'bring', 'bring_down', 'landed', 'shore', 'set_down', 'down', 'put_down', 'shoot_down', 'set_ashore']",Hunter at Large
+once,"['at_one_time', 'once', 'erstwhile', 'one_time', 'erst', 'in_one_case', 'formerly']",Hunter at Large
+couldn't,[],Hunter at Large
+hold,"['withstand', 'agree', 'handgrip', 'give', 'carry', 'make', 'entertain', 'view_as', 'grasp', 'detention', 'clutch', 'take_hold', 'declare', 'guard', 'bind', 'deem', 'wait', 'book', 'clench', 'grip', 'postponement', 'clasp', 'obligate', 'obtain', 'concur', 'restrain', 'harbour', 'control', 'check', 'cargo_area', 'keep_back', 'prevail', 'admit', 'oblige', 'appreciation', 'retain', 'cargo_deck', 'hold', 'keep', 'contain', 'accommodate', 'defy', 'take', 'confine', 'handle', 'arrest', 'clutches', 'bear', 'go_for', 'custody', 'curb', 'throw', 'time_lag', 'hold_back', 'support', 'storage_area', 'sustain', 'defend', 'reserve', 'cargo_hold', 'take_for', 'apply', 'hold_up', 'hold_in', 'detainment', 'maintain', 'halt', 'moderate', 'nurse', 'adjudge', 'delay', 'harbor', 'concord', 'have_got', 'have']",Hunter at Large
+still,"['silence', 'nevertheless', 'motionless', 'silent', 'tranquil', 'distillery', 'unruffled', 'noneffervescent', 'hush', 'stillness', 'tranquillise', 'inactive', 'withal', 'soundless', 'notwithstanding', 'all_the_same', 'however', 'placid', 'calm', 'static', 'allay', 'yet', 'ease', 'tranquilize', 'quieten', 'even_so', 'still', 'relieve', 'smooth', 'tranquillize', 'calm_down', 'lull', 'stock-still', 'hush_up', 'shut_up', 'nonetheless', 'even', 'quiet']",Hunter at Large
+pen,"['playpen', 'penitentiary', 'pen', 'indite', 'write', 'compose']",Hunter at Large
+were,"['equal', 'comprise', 'represent', 'cost', 'embody', 'follow', 'be', 'exist', 'make_up', 'personify', 'live', 'constitute']",Hunter at Large
+take,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'payoff', 'carry', 'take_up', 'issue', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'takings', 'shoot', 'proceeds', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'yield', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'take', 'return', 'select', 'accept', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",Hunter at Large
+hands,"['men', 'give', 'reach', 'workforce', 'hired_man', 'helping_hand', 'pass_on', 'turn_over', 'handwriting', 'script', 'pass', 'paw', 'work_force', 'manus', 'deal', 'mitt', 'hands', 'hired_hand', 'manpower', 'hand', 'custody', 'bridge_player']",Hunter at Large
+porch,['porch'],Hunter at Large
+pride,"['superbia', 'pridefulness', 'plume', 'congratulate', 'pride']",Hunter at Large
+near,"['nigh', 'virtually', 'close', 'go_up', 'approach', 'approximate', 'about', 'draw_close', 'come_near', 'well-nigh', 'cheeseparing', 'dear', 'most', 'near', 'draw_near', 'come_on', 'good', 'almost', 'penny-pinching', 'nearly', 'skinny']",Hunter at Large
+cleaned,"['houseclean', 'pick', 'clean_house', 'clean', 'make_clean', 'scavenge', 'cleanse', 'strip']",Hunter at Large
+ten,"['ten', 'decade', 'X', 'x', '10', 'ten-spot', 'tenner']",Hunter at Large
+awkward,"['clumsy', 'awkward', 'ungainly', 'sticky', 'ill_at_ease', 'uneasy', 'inapt', 'inept', 'unenviable', 'cumbersome', 'embarrassing', 'ill-chosen', 'bunglesome']",Hunter at Large
+one,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",Hunter at Large
+dip,"['cutpurse', 'douse', 'dim', 'magnetic_inclination', 'drop', 'dip', 'plunge', 'fall', 'inclination', 'dunk', 'sink', 'pickpocket', 'souse', 'angle_of_dip', 'duck', 'free_fall', 'magnetic_dip']",Hunter at Large
+sleeve,"['sleeve', 'arm']",Hunter at Large
+seconds,"['indorse', 'secondment', 'sec', 'moment', 'second', 'endorsement', 'second_gear', 'second_base', 'irregular', 'mo', 'bit', 'minute', 'instant', 'arcsecond', 'indorsement', 'back', 'endorse', 's']",Hunter at Large
+inconvenient,['inconvenient'],Hunter at Large
+held,"['withstand', 'agree', 'give', 'carry', 'make', 'entertain', 'view_as', 'take_hold', 'declare', 'guard', 'bind', 'deem', 'book', 'obligate', 'obtain', 'concur', 'restrain', 'harbour', 'control', 'check', 'oblige', 'keep_back', 'prevail', 'admit', 'retain', 'keep', 'hold', 'contain', 'accommodate', 'defy', 'take', 'confine', 'arrest', 'bear', 'go_for', 'curb', 'throw', 'hold_back', 'support', 'sustain', 'defend', 'reserve', 'take_for', 'apply', 'hold_up', 'hold_in', 'halt', 'maintain', 'adjudge', 'moderate', 'nurse', 'concord', 'held', 'harbor', 'have_got', 'have']",Hunter at Large
+weight,"['weightiness', 'weight_unit', 'burthen', 'system_of_weights', 'slant', 'exercising_weight', 'burden', 'weight_down', 'weighting', 'angle', 'free_weight', 'weight']",Hunter at Large
+grin,"['smile', 'grinning', 'smiling', 'grin']",Hunter at Large
+cold,"['stale', 'frigidness', 'frigid', 'inhuman', 'coldness', 'insensate', 'cold-blooded', 'common_cold', 'low_temperature', 'dusty', 'frigidity', 'moth-eaten', 'cold']",Hunter at Large
+jacket,"['jacket_crown', 'crown', 'crownwork', 'jacket', 'cap']",Hunter at Large
+Then,"['and_so', 'so', 'and_then', 'then']",Hunter at Large
+close,"['finale', 'closemouthed', 'close-fitting', 'airless', 'faithful', 'nigh', 'fill_up', 'closing', 'close', 'closelipped', 'ending', 'conclude', 'close_down', 'closing_curtain', 'end', 'stopping_point', 'stuffy', 'come_together', 'snug', 'last', 'shut', 'shut_down', 'finish', 'cheeseparing', 'closely', 'conclusion', 'unaired', 'secretive', 'near', 'fold', 'tightlipped', 'confining', 'tight', 'close_up', 'penny-pinching', 'finis', 'skinny']",Hunter at Large
+checked,"['discipline', 'go_over', 'jibe', 'tick', 'agree', 'assure', 'chequer', 'ascertain', 'find_out', 'stop', 'checked', 'retard', 'crack', 'insure', 'tally', 'suss_out', 'check_out', 'mark', 'checker', 'determine', 'chequered', 'control', 'train', 'break', 'checkered', 'check', 'look_into', 'turn_back', 'hold', 'condition', 'learn', 'correspond', 'gibe', 'check_into', 'fit', 'arrest', 'check_up_on', 'check_over', 'see', 'curb', 'check_off', 'tick_off', 'hold_back', 'watch', 'mark_off', 'chink', 'ensure', 'hold_in', 'moderate', 'match', 'see_to_it', 'delay', 'contain']",Hunter at Large
+there,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",Hunter at Large
+impact,"['wallop', 'impact', 'encroachment', 'shock', 'affect', 'bear_upon', 'touch', 'touch_on', 'impingement', 'bear_on']",Hunter at Large
+lobby,"['antechamber', 'hall', 'entrance_hall', 'lobby', 'pressure_group', 'vestibule', 'buttonhole', 'anteroom', 'foyer', 'third_house']",Hunter at Large
+very,"['real', 'selfsame', 'really', 'very', 'rattling', 'identical']",Hunter at Large
+covered,"['comprehend', 'report', 'wrap_up', 'cover_up', 'hatch', 'hide', 'treat', 'traverse', 'incubate', 'underwrite', 'insure', 'address', 'covered', 'overlay', 'pass_over', 'overcompensate', 'compensate', 'get_over', 'encompass', 'get_across', 'continue', 'deal', 'shroud', 'breed', 'spread_over', 'cross', 'brood', 'handle', 'cut_through', 'cut_across', 'cover', 'track', 'plow', 'enshroud', 'extend', 'embrace']",Hunter at Large
+soft,"['cushy', 'voiced', 'delicate', 'flaccid', 'balmy', 'soft', 'gentle', 'subdued', 'lenient', 'diffuse', 'easy', 'easygoing', 'diffused', 'flabby', 'sonant', 'mild', 'indulgent', 'piano']",Hunter at Large
+front,"['nominal_head', 'front_man', 'look', 'movement', 'strawman', 'social_movement', 'front_end', 'battlefront', 'breast', 'figurehead', 'presence', 'front', 'forepart', 'front_line', 'face', 'straw_man']",Hunter at Large
+vicious,"['venomous', 'fell', 'reprehensible', 'deplorable', 'brutal', 'savage', 'criminal', 'barbarous', 'poisonous', 'vicious', 'roughshod', 'condemnable', 'cruel', 'evil']",Hunter at Large
+flatten,"['flatten_out', 'flatten', 'drop']",Hunter at Large
+easier,"['promiscuous', 'sluttish', 'leisurely', 'well-situated', 'well-off', 'soft', 'gentle', 'loose', 'well-heeled', 'wanton', 'well-fixed', 'light', 'easygoing', 'prosperous', 'easy', 'comfortable', 'well-to-do']",Hunter at Large
+kick,"['bang', 'complain', 'charge', 'boot', 'rush', 'kvetch', 'squawk', 'beef', 'give_up', 'thrill', 'recoil', 'bitch', 'kick', 'quetch', 'flush', 'kicking', 'gripe', 'sound_off', 'kick_back', 'plain']",Hunter at Large
+woods,"['woodwind', 'Sir_Henry_Joseph_Wood', 'Grant_Wood', 'forest', 'Natalie_Wood', 'wood', 'Ellen_Price_Wood', 'Wood', 'Mrs._Henry_Wood', 'Sir_Henry_Wood', 'woods', 'woodwind_instrument']",Hunter at Large
+sky,"['pitch', 'toss', 'flip', 'sky']",Hunter at Large
+keep,"['sustenance', 'stay_fresh', 'go_along', 'prevent', 'go_on', 'bread_and_butter', 'keep_open', 'celebrate', 'living', 'restrain', 'observe', 'keep_back', 'livelihood', 'retain', 'continue', 'keep', 'hold', 'donjon', 'keep_on', 'preserve', 'hold_open', 'hold_on', 'support', 'sustain', 'dungeon', 'hold_back', 'save', 'proceed', 'maintain']",Hunter at Large
+blade,"['blade', 'sword', 'leaf_blade', 'brand', 'vane', 'steel']",Hunter at Large
+striking,"['outstanding', 'affect', 'take_up', 'impinge_on', 'move', 'come_upon', 'contact', 'coin', 'light_upon', 'hit', 'chance_upon', 'come_across', 'impinging', 'excise', 'strike', 'run_into', 'collide_with', 'expunge', 'fall_upon', 'walk_out', 'spectacular', 'shine', 'attain', 'assume', 'hitting', 'striking', 'impress', 'take', 'salient', 'dramatic', 'come_to', 'mint', 'fall', 'strickle', 'happen_upon', 'prominent', 'discover', 'chance_on', 'scratch']",Hunter at Large
+;,[],Hunter at Large
+spring,"['give', 'jump', 'reverberate', 'natural_spring', 'saltation', 'fountain', 'recoil', 'bound', 'take_shape', 'bounce', 'springtime', 'outflow', 'leap', 'rebound', 'take_a_hop', 'leaping', 'spring', 'ricochet', 'form', 'take_form', 'springiness', 'resile', 'outpouring']",Hunter at Large
+that,[],Hunter at Large
+eye,"['optic', 'eyeball', 'oculus', 'center', 'eye', 'centre', 'heart', 'middle']",Hunter at Large
+little,"['trivial', 'piddling', 'picayune', 'fiddling', 'slight', 'small', 'footling', 'minuscule', 'little', 'short', 'lilliputian', 'niggling', 'piffling', 'petty']",Hunter at Large
+everything,[],Hunter at Large
+would,[],Hunter at Large
+rented,"['let', 'charter', 'take', 'lease', 'hire', 'engage', 'rent']",Hunter at Large
+work,"['workplace', 'play', 'function', 'make', 'shape', 'influence', 'act', 'turn', 'mould', 'wreak', 'sour', 'exercise', 'lick', 'run', 'puzzle_out', 'work_on', 'study', 'exploit', 'crop', 'bring', 'go', 'mold', 'forge', 'solve', 'ferment', 'act_upon', 'knead', 'body_of_work', 'operate', 'work', 'oeuvre', 'do_work', 'form', 'put_to_work', 'make_for', 'employment', 'cultivate', 'piece_of_work', 'work_out', 'figure_out', 'process']",Hunter at Large
+right,"['ripe', 'decently', 'mighty', 'rightfulness', 'veracious', 'flop', 'redress', 'right-hand', 'rightfield', 'decent', 'correctly', 'compensate', 'the_right_way', 'correct', 'rectify', 'in_good_order', 'right', 'right_wing', 'good', 'mightily', 'powerful', 'justly', 'right_hand', 'right_on', 'right_field', 'properly', 'proper', 'aright']",Hunter at Large
+rest,"['repose', 'relaxation', 'quietus', 'breathe', 'take_a_breather', 'reside', 'balance', 'remain', 'pillow', 'residual', 'sleep', 'residuum', 'residue', 'rest_period', 'perch', 'respite', 'stay', 'lie', 'remainder', ""catch_one's_breath"", 'ease', 'eternal_rest', 'relief', 'eternal_sleep', 'rest', 'roost']",Hunter at Large
+well,"['wellspring', 'good', 'advantageously', 'well', 'swell', 'easily', 'comfortably', 'fountainhead', 'substantially', 'considerably', 'intimately']",Hunter at Large
+wall,"['fence', 'wall', 'bulwark', 'paries', 'fence_in', 'surround', 'palisade', 'rampart']",Hunter at Large
+wouldn't,[],Hunter at Large
+--,[],Hunter at Large
+head,"['psyche', 'maneuver', 'forefront', 'headway', 'direct', 'foreland', 'oral_sex', 'promontory', 'top_dog', 'school_principal', 'brain', 'guide', 'head_teacher', 'question', 'pass', 'header', 'steer', 'capitulum', 'read/write_head', 'channelize', 'drumhead', 'heading', 'channelise', 'principal', 'headland', 'fountainhead', 'caput', 'headspring', 'point', 'manoeuvre', 'manoeuver', 'chief', 'nous', 'head_up', 'mind', 'head_word', 'straits', 'lead', 'head']",Hunter at Large
+took,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'carry', 'take_up', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'shoot', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'accept', 'take', 'select', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",Hunter at Large
+In,"['atomic_number_49', 'inward', 'In', 'inch', 'inwards', 'IN', 'Hoosier_State', 'indium', 'in', 'Indiana']",Hunter at Large
+nail,"['complete', 'blast', 'boom', 'peg', 'apprehend', 'pass_with_flying_colors', 'pinpoint', 'pick_up', 'sail_through', 'cop', 'breeze_through', 'sweep_through', 'ace', 'nab', 'arrest', 'smash', 'collar', 'nail_down', 'nail']",Hunter at Large
+slowly,"['lento', 'slow', 'tardily', 'easy', 'slowly']",Hunter at Large
+slammed,"['bang', 'slam_dance', 'mosh', 'flap_down', 'slam', 'thrash']",Hunter at Large
+get,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",Hunter at Large
+reasoning,"['reason_out', 'conclude', 'logical_thinking', 'abstract_thought', 'reasoning', 'intelligent', 'argue', 'reason', 'thinking']",Hunter at Large
+flashlight,"['flashlight', 'torch']",Hunter at Large
+before,"['in_front', 'ahead', 'earlier', 'before']",Hunter at Large
+walked,"['take_the_air', 'walk']",Hunter at Large
+die,"['kick_the_bucket', 'die', 'expire', 'break_down', 'pop_off', 'pall', 'drop_dead', 'conk', ""cash_in_one's_chips"", 'dice', 'pass', 'exit', 'snuff_it', 'give_out', 'die_out', 'buy_the_farm', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'pass_away', 'perish', 'fail', 'become_flat', 'croak', 'conk_out', 'break', 'give_way', 'choke']",Hunter at Large
+catch,"['pinch', 'get', 'taking_into_custody', 'enamour', 'grab', 'catch', 'hitch', 'gimmick', 'beguile', 'stop', 'take_hold_of', 'trip_up', 'pick_up', 'charm', 'entrance', 'snap', 'capture', 'fascinate', 'haul', 'apprehension', 'enchant', 'take_in', 'arrest', 'overhear', 'becharm', 'captivate', 'see', 'watch', 'trance', 'collar', 'catch_up_with', 'overtake', 'bewitch', 'snatch', 'view', 'enamor', 'match']",Hunter at Large
+fallen,"['go_down', 'accrue', 'fallen', 'pass', 'strike', 'hang', 'shine', 'decrease', 'precipitate', 'light', 'return', 'diminish', 'lessen', 'devolve', 'flow', 'descend', 'fall', 'settle', 'fall_down', 'come', 'come_down']",Hunter at Large
+fifteen,"['fifteen', 'xv', 'XV', '15']",Hunter at Large
+outside,"['extraneous', 'international', 'exterior', 'remote', 'out-of-door', 'external', 'away', 'out_of_doors', 'outside', 'alfresco', 'outdoor', 'outdoors']",Hunter at Large
+wary,"['suspicious', 'untrusting', 'mistrustful', 'leery', 'wary']",Hunter at Large
+till,"['money_box', 'cashbox', 'public_treasury', 'trough', 'till', 'boulder_clay']",Hunter at Large
+forearm,['forearm'],Hunter at Large
+inside,"['inside', 'at_bottom', 'at_heart', 'indoors', 'privileged', 'inwardly', 'deep_down', 'within', 'interior', 'inner', 'in_spite_of_appearance']",Hunter at Large
+panting,"['gasp', 'panting', 'pant', 'puff', 'heaving', 'trousering', 'heave']",Hunter at Large
+judged,"['pass_judgment', 'adjudicate', 'gauge', 'judge', 'approximate', 'label', 'pronounce', 'guess', 'try', 'evaluate', 'estimate']",Hunter at Large
+we,[],Hunter at Large
+careened,"['stagger', 'reel', 'lurch', 'wobble', 'swag', 'careen', 'keel', 'tilt', 'shift']",Hunter at Large
+said,"['say', 'order', 'aforesaid', 'suppose', 'pronounce', 'aver', 'allege', 'tell', 'enounce', 'sound_out', 'enunciate', 'aforementioned', 'state', 'enjoin', 'said', 'read', 'articulate']",Hunter at Large
+This,[],Hunter at Large
+except,"['omit', 'exclude', 'leave_off', 'take_out', 'demur', 'leave_out', 'except']",Hunter at Large
+Liz,[],Hunter at Large
+dead,"['utterly', 'bushed', 'beat', 'stagnant', 'utter', 'abruptly', 'all_in', 'absolutely', 'perfectly', 'numb', 'idle', 'suddenly', 'short', 'deadened', 'drained', 'dead']",Hunter at Large
+Roberts',[],Hunter at Large
+impatient,"['raring', 'impatient']",Hunter at Large
+when,[],Hunter at Large
+paces,"['step', 'gait', 'tread', 'yard', 'footstep', 'rate', 'tempo', 'stride', 'pace']",Hunter at Large
+retrieved,"['call_up', 'retrieve', 'remember', 'find', 'recall', 'recollect', 'regain', 'think', 'recover', 'call_back']",Hunter at Large
+point,"['aim', 'peak', 'detail', 'show', 'charge', 'betoken', 'tip', 'spot', 'breaker_point', 'maneuver', 'distributor_point', 'luff', 'direct', 'stage', 'sharpen', 'stop', 'designate', 'orient', 'level', 'guide', 'power_point', 'gunpoint', 'compass_point', 'point_in_time', 'indicate', 'steer', 'taper', 'place', 'dot', 'channelize', 'channelise', 'pointedness', 'signal', 'point', 'manoeuvre', 'target', 'manoeuver', 'decimal_point', 'item', 'degree', 'bespeak', 'full_stop', 'percentage_point', 'full_point', 'repoint', 'head', 'period']",Hunter at Large
+throat,"['throat', 'pharynx']",Hunter at Large
+carrying,"['persuade', 'carry', 'sway', 'dribble', 'behave', 'have_a_bun_in_the_oven', 'run', 'comport', 'expect', 'deport', 'transmit', 'hold', 'stock', 'take', 'convey', 'post', 'bear', 'stockpile', 'channel', 'pack', 'impart', 'transport', 'express', 'acquit', 'conduct', 'extend', 'gestate', 'contain']",Hunter at Large
+tried,"['taste', 'stress', 'time-tested', 'essay', 'examine', 'attempt', 'prove', 'try_on', 'try_out', 'adjudicate', 'judge', 'well-tried', 'try', 'assay', 'strain', 'test', 'hear', 'sample', 'tried', 'tried_and_true', 'render', 'tested', 'seek']",Hunter at Large
+feint,['feint'],Hunter at Large
+wheel,"['rack', 'pedal', 'wheel_around', 'bike', 'cycle', 'roll', 'wheel', 'bicycle', 'roulette_wheel', 'steering_wheel']",Hunter at Large
+with,[],Hunter at Large
+silver,"['ash_gray', 'silvern', 'silvery', 'argent', 'silverish', 'fluent', 'smooth-spoken', 'atomic_number_47', 'facile', 'silver_medal', 'flatware', 'silver-tongued', 'silver', 'Ag', 'ash_grey', 'silver_gray', 'silver_grey', 'eloquent']",Hunter at Large
+collapsed,"['crack', 'crumble', 'give', 'cave_in', 'crock_up', 'crack_up', 'break_down', 'crumple', 'break_up', 'collapse', 'tumble', 'burst', 'break', 'fall_in', 'give_way', 'founder']",Hunter at Large
+off,"['hit', 'slay', 'sour', 'forth', 'bump_off', 'polish_off', 'murder', 'turned', 'cancelled', 'away', 'off', 'dispatch', 'remove']",Hunter at Large
+shaking,"['quivering', 'sway', 'judder', 'shake_off', 'quiver', 'shakiness', 'palpitation', 'stir', 'shake', 'agitate', 'vibration', 'stimulate', 'shake_up', 'rock', 'escape_from', 'throw_off', 'trembling', 'shaking', 'didder', 'excite']",Hunter at Large
+should,[],Hunter at Large
+bloodstained,"['bloodstained', 'gory']",Hunter at Large
+reaching,"['accomplish', 'reaching', 'give', 'make', 'reach', 'arrive_at', 'touch', 'contact', 'pass_on', 'get_through', 'turn_over', 'arrival', 'hit', 'achieve', 'pass', 'get_hold_of', 'gain', 'attain', 'extend_to', 'strain', 'stretch', 'reach_out', 'progress_to', 'get_to', 'hand', 'strive']",Hunter at Large
+directly,"['now', 'forthwith', 'directly', 'flat', 'immediately', 'straight_off', 'right_away', 'straightaway', 'like_a_shot', 'direct', 'straight', 'instantly', 'at_once']",Hunter at Large
+bad,"['unsound', 'forged', 'bad', 'uncollectible', 'risky', 'unfit', 'regretful', 'spoilt', 'spoiled', 'tough', 'sorry', 'high-risk', 'badness', 'big', 'badly', 'defective', 'speculative']",Hunter at Large
+abandoned,"['abandoned', 'give_up', 'desolate', 'vacate', 'empty', 'derelict', 'desert', 'deserted', 'forsake', 'abandon']",Hunter at Large
+asked,"['need', 'enquire', 'postulate', 'expect', 'necessitate', 'take', 'ask', 'inquire', 'require', 'involve', 'demand', 'call_for']",Hunter at Large
+do,"['arrange', 'make', 'do', 'Doctor_of_Osteopathy', 'act', 'behave', 'brawl', 'coif', 'suffice', 'perform', 'exercise', 'dress', 'answer', 'practice', 'set', 'make_out', 'DO', 'practise', 'coiffe', 'execute', 'get_along', 'serve', 'ut', 'coiffure', 'cause', 'bash', 'doh', 'come', 'manage', 'fare']",Hunter at Large
+evenly,"['evenly', 'equally']",Hunter at Large
+underfoot,['underfoot'],Hunter at Large
+not,"['not', 'non']",Hunter at Large
+over,"['all_over', 'complete', 'terminated', 'ended', 'concluded', 'over', ""o'er""]",Hunter at Large
+betray,"['cuckold', 'shop', 'cheat_on', 'betray', 'wander', 'bewray', 'rat', 'deceive', 'grass', 'denounce', 'tell_on', 'shit', 'fail', 'cheat', 'snitch', 'lead_astray', 'give_away', 'sell', 'stag']",Hunter at Large
+sound,"['speech_sound', 'audio', 'reasoned', 'levelheaded', 'sound', 'vocalize', 'intelligent', 'legal', 'phone', 'strait', 'heavy', 'voice', 'go', 'wakeless', 'effectual', 'well-grounded', 'fathom', 'good', 'auditory_sensation', 'healthy', 'level-headed', 'profound', 'vocalise']",Hunter at Large
+scrambling,"['struggle', 'throw_together', 'scramble', 'clamber', 'beat', 'shin', 'jumble', 'sputter', 'skin', 'shinny']",Hunter at Large
+car,"['car', 'gondola', 'machine', 'auto', 'railcar', 'motorcar', 'railroad_car', 'cable_car', 'elevator_car', 'automobile', 'railway_car']",Hunter at Large
+fits,"['jibe', 'agree', 'equip', 'fit_out', 'burst', 'convulsion', 'conniption', 'tally', 'outfit', 'meet', 'check', 'go', 'accommodate', 'correspond', 'tantrum', 'gibe', 'conform_to', 'fit', 'suit', 'paroxysm', 'match', 'scene']",Hunter at Large
+sprawl,"['urban_sprawl', 'sprawl', 'conurbation', 'sprawling', 'straggle']",Hunter at Large
+planning,"['project', 'design', 'contrive', 'planning', 'provision', 'preparation', 'be_after', 'plan']",Hunter at Large
+started,"['come_out', 'initiate', 'get', 'take_up', 'startle', 'set_about', 'part', 'pop_out', 'jump', 'commence', 'bulge_out', 'bug_out', 'start_up', 'get_going', 'embark_on', 'pop', 'set_out', 'lead_off', 'set_off', 'set_forth', 'get_down', 'originate', 'go', 'depart', 'start', 'start_out', 'begin', 'bulge', 'take_off', 'protrude']",Hunter at Large
+here,"['here', 'Hera', 'hither', 'Here']",Hunter at Large
+toss,"['cast_aside', 'cast_away', 'thrash', 'toss_away', 'pitch', 'pass', 'toss', 'fling', 'throw_away', 'thresh_about', 'toss_out', 'sky', 'slash', 'jactitate', 'thresh', 'chuck', 'convulse', 'dispose', 'thrash_about', 'put_away', 'chuck_out', 'throw_out', 'flip', 'discard', 'cast_out']",Hunter at Large
+making,"['urinate', 'get', 'realize', 'give', 'ca-ca', 'make', 'fashioning', 'do', 'reach', 'arrive_at', 'cook', 'qualification', 'fix', 'pull_in', 'build', 'pass_water', 'constitute', 'name', 'create', 'hit', 'piss', 'bring_in', 'construct', 'prepare', 'produce', 'stool', 'take_a_crap', 'pee', 'induce', 'relieve_oneself', 'making', 'stimulate', 'gain', 'wee', 'attain', 'spend_a_penny', 'take_a_leak', 'seduce', 'pretend', 'clear', 'hold', 'devising', 'make_water', 'make_up', 'progress_to', 'take', 'get_to', 'establish', 'take_in', 'shit', 'piddle', 'take_a_shit', 'nominate', 'work', 'ready', 'micturate', 'defecate', 'lay_down', 'throw', 'cause', 'form', 'score', 'wee-wee', 'make_believe', 'pee-pee', 'draw', 'crap', 'earn', 'realise', 'puddle', 'have']",Hunter at Large
+hunched,"['round-backed', 'round-shouldered', 'stooped', 'stooping', 'hunch_over', 'crooked', 'hump', 'hunched', 'hunch', 'hunch_forward']",Hunter at Large
+heard,"['get_a_line', 'see', 'get_word', 'take_heed', 'learn', 'get_wind', 'pick_up', 'listen', 'try', 'discover', 'hear', 'find_out', 'heard']",Hunter at Large
+woman,"['char', 'womanhood', 'cleaning_lady', 'adult_female', 'cleaning_woman', 'fair_sex', 'charwoman', 'woman']",Hunter at Large
+next,"['next', 'side_by_side', 'future', 'adjacent', 'succeeding', 'following']",Hunter at Large
+the,[],Hunter at Large
+steadied,"['stabilise', 'steadied', 'becalm', 'brace', 'steady', 'stabilize', 'calm']",Hunter at Large
+late,"['belatedly', 'deep', 'recently', 'of_late', 'latterly', 'late', 'former', 'recent', 'tardily', 'belated', 'lately', 'later', 'previous', 'tardy']",Hunter at Large
+taunt,"['rally', 'tease', 'taunt', 'rag', 'tantalise', 'razz', 'twit', 'cod', 'ride', 'taunting', 'tantalize', 'bait']",Hunter at Large
+knows,"['lie_with', 'bang', 'recognize', 'have_it_off', 'sleep_together', 'acknowledge', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'recognise', 'bonk', 'cognize', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'love', 'cognise', 'live', 'get_it_on', 'know', 'experience', 'get_laid']",Hunter at Large
+nose,"['horn_in', 'intrude', 'poke', 'wind', 'olfactory_organ', 'nuzzle', 'pry', 'nozzle', 'nose', 'scent']",Hunter at Large
+see,"['regard', 'run_across', 'look', 'realize', 'go_steady', 'assure', 'find', 'find_out', 'catch', 'ascertain', 'examine', 'witness', 'construe', 'come_across', 'interpret', 'consider', 'insure', 'get_wind', 'pick_up', 'determine', 'image', 'run_into', 'meet', 'reckon', 'envision', 'attend', 'check', 'go_out', 'get_a_line', 'project', 'escort', 'fancy', 'learn', 'take_care', 'picture', 'visualize', 'hear', 'take_in', 'date', 'see', 'watch', 'get_word', 'figure', 'understand', 'ensure', 'visit', 'visualise', 'view', 'go_through', 'encounter', 'discover', 'realise', 'see_to_it', 'experience', 'control']",Hunter at Large
+air,"['aura', 'melodic_phrase', 'airwave', 'zephyr', 'aviation', 'bare', 'ventilate', 'vent', 'transmit', 'atmosphere', 'aerate', 'melodic_line', 'strain', 'line', 'beam', 'send', 'broadcast', 'air_out', 'gentle_wind', 'tune', 'air', 'breeze', 'melody', 'publicise', 'publicize', 'air_travel']",Hunter at Large
+finding,"['feel', 'come_up', 'get', 'bump', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'line_up', 'chance', 'retrieve', 'determine', 'obtain', 'observe', 'happen', 'receive', 'regain', 'detect', 'determination', 'see', 'incur', 'find_oneself', 'finding', 'notice', 'get_hold', 'encounter', 'discover']",Hunter at Large
+launch,"['found', 'launching', 'set_up', 'plunge', 'launch', 'set_in_motion', 'establish']",Hunter at Large
+safekeeping,"['guardianship', 'keeping', 'safekeeping']",Hunter at Large
+like,"['same', 'similar', 'the_likes_of', 'comparable', 'the_like', 'care', 'ilk', 'like', 'alike', 'corresponding', 'wish']",Hunter at Large
+hideous,"['horrific', 'horrid', 'hideous', 'outrageous', 'repulsive']",Hunter at Large
+quietly,"['quiet', 'quietly', 'softly', 'restfully']",Hunter at Large
+snowed,"['lead_by_the_nose', 'play_false', 'hoodwink', 'bamboozle', 'snow', ""pull_the_wool_over_someone's_eyes""]",Hunter at Large
+dumped,"['floor', 'dump', 'plunge', 'ditch', 'coldcock', 'underprice', 'knock_down', 'deck']",Hunter at Large
+backed,"['indorse', 'gage', 'plump_for', 'support', 'backed', 'back_up', 'plunk_for', 'second', 'game', 'endorse', 'punt', 'back', 'bet_on', 'stake']",Hunter at Large
+Walking,"['take_the_air', 'walk-to', 'walk', 'walking']",Hunter at Large
+pain,"['pain_in_the_neck', 'trouble', 'pain_sensation', 'anguish', 'bother', 'hurt', 'pain_in_the_ass', 'painfulness', 'pain', 'painful_sensation', 'annoyance', 'nuisance', 'infliction', 'ail', 'hurting', 'botheration']",Hunter at Large
+upward,"['upwardly', 'upwards', 'up', 'upward']",Hunter at Large
+wood,"['woodwind', 'Sir_Henry_Joseph_Wood', 'Grant_Wood', 'forest', 'Natalie_Wood', 'wood', 'Ellen_Price_Wood', 'Wood', 'Mrs._Henry_Wood', 'Sir_Henry_Wood', 'woods', 'woodwind_instrument']",Hunter at Large
+might,"['mightiness', 'power', 'might']",Hunter at Large
+There's,[],Hunter at Large
+other's,[],Hunter at Large
+They,[],Hunter at Large
+either,['either'],Hunter at Large
+him,[],Hunter at Large
+",",[],Hunter at Large
+searched,"['research', 'look', 'look_for', 'explore', 'seek', 'search']",Hunter at Large
+hotel,['hotel'],Hunter at Large
+lay,"['dwell', 'place', 'laic', 'lie_in', 'rest', 'ballad', 'lay', 'repose', 'pose', 'consist', 'put_down', 'position', 'lie', 'set', 'lie_down', 'secular', 'put']",Hunter at Large
+deceitful,"['double-faced', 'Janus-faced', 'double-tongued', 'deceitful', 'double-dealing', 'two-faced', 'duplicitous', 'fraudulent', 'fallacious', 'ambidextrous']",Hunter at Large
+sense,"['feel', 'smell', 'smell_out', 'good_sense', 'sentience', 'common_sense', 'sentiency', 'horse_sense', 'mother_wit', 'sense', 'sensation', 'signified', 'gumption', 'sensory_faculty']",Hunter at Large
+appeared,"['come_out', 'look', 'come_along', 'seem', 'appear']",Hunter at Large
+By,"['away', 'aside', 'past', 'by']",Hunter at Large
+place,"['come_out', 'aim', 'spot', 'berth', 'direct', 'shoes', 'plaza', 'blank_space', 'billet', 'order', 'localise', 'lay', 'rank', 'come_in', 'space', 'set', 'grade', 'put', 'place', 'identify', 'seat', 'office', 'topographic_point', 'target', 'point', 'locate', 'position', 'send', 'post', 'station', 'situation', 'localize', 'invest', 'home', 'commit', 'property', 'pose', 'rate', 'stead', 'piazza', 'range', 'lieu', 'site']",Hunter at Large
+winter,"['wintertime', 'overwinter', 'winter']",Hunter at Large
+than,[],Hunter at Large
+rose,"['come_up', 'heighten', 'resurrect', 'jump', 'get_up', 'lift', 'arise', 'prove', 'mount', 'rosiness', 'rosaceous', 'go_up', 'rebel', 'grow', 'spring_up', 'rosebush', 'move_up', 'stand_up', 'rise', 'originate', 'blush_wine', 'climb_up', 'rose_wine', 'turn_out', 'ascend', 'uprise', 'rear', 'rose', 'roseate', 'pink_wine', 'climb', 'wax', 'surface', 'rise_up', 'develop']",Hunter at Large
+steering,"['channelize', 'guidance', 'channelise', 'direction', 'guide', 'steerage', 'maneuver', 'manoeuvre', 'direct', 'point', 'manoeuver', 'steer', 'head', 'steering']",Hunter at Large
+went,"['travel', 'get', 'belong', 'kick_the_bucket', 'function', 'die', 'expire', 'blend_in', 'move', 'survive', 'break_down', 'hold_out', 'pop_off', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'give_out', 'buy_the_farm', 'break', 'rifle', 'go_bad', 'decease', 'go', 'give-up_the_ghost', 'last', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'operate', 'work', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'lead', 'live', 'extend', 'choke']",Hunter at Large
+invulnerable,['invulnerable'],Hunter at Large
+moment,"['present_moment', 'moment', 'second', 'here_and_now', 'consequence', 'mo', 'bit', 'minute', 'instant', 'import']",Hunter at Large
+literally,['literally'],Hunter at Large
+ached,"['languish', 'hurt', 'yearn', 'pine', 'ache', 'suffer', 'smart', 'yen']",Hunter at Large
+back,"['plump_for', 'second', 'dorsum', 'backwards', 'book_binding', 'plunk_for', 'backbone', 'bet_on', 'backrest', 'spinal_column', 'rearwards', 'gage', 'backward', 'binding', 'back_up', 'hinder', 'rearward', 'punt', 'rear', 'stake', 'indorse', 'support', 'rachis', 'hind', 'game', 'spine', 'cover', 'endorse', 'back', 'vertebral_column']",Hunter at Large
+forward,"['forrader', 'send_on', 'forwards', 'frontward', 'ahead', 'forth', 'fore', 'onward', 'forward-moving', 'forward', 'forrard', 'forrad', 'onwards', 'frontwards', 'advancing']",Hunter at Large
+while,"['spell', 'while', 'piece', 'patch']",Hunter at Large
+waiting,"['wait', 'hold_back', 'look', 'await', 'ready_and_waiting', 'expect', 'waitress', 'waiting', 'hold_off']",Hunter at Large
+going,"['travel', 'get', 'belong', 'sledding', 'kick_the_bucket', 'function', 'release', 'die', 'leaving', 'move', 'departure', 'survive', 'expire', 'hold_out', 'blend_in', 'break_down', 'pop_off', 'expiration', 'loss', 'sound', 'drop_dead', 'conk', 'get_going', 'go_away', ""cash_in_one's_chips"", 'run', 'plump', 'give_way', 'live_on', 'pass', 'exit', 'snuff_it', 'give_out', 'buy_the_farm', 'break', 'rifle', 'go_bad', 'decease', 'go', 'choke', 'going_away', 'last', 'give-up_the_ghost', 'locomote', 'endure', 'pass_away', 'perish', 'become', 'depart', 'fit', 'start', 'work', 'operate', 'fail', 'run_low', 'run_short', 'croak', 'proceed', 'blend', 'conk_out', 'hold_up', 'passing', 'lead', 'live', 'extend', 'going']",Hunter at Large
+feel,"['feel', 'smell', 'tone', 'feeling', 'look', 'flavour', 'palpate', 'spirit', 'find', 'sense', 'tactile_property', 'flavor', 'experience', 'finger']",Hunter at Large
+fell,"['strike_down', 'vanish', 'fell', 'go_down', 'savage', 'felled_seam', 'accrue', 'hide', 'roughshod', 'cruel', 'pass', 'strike', 'hang', 'vicious', 'shine', 'decrease', 'drop', 'precipitate', 'brutal', 'barbarous', 'light', 'return', 'diminish', 'lessen', 'devolve', 'fly', 'flow', 'descend', 'fall', 'settle', 'fall_down', 'come', 'come_down', 'cut_down']",Hunter at Large
+dulled,"['benumbed', 'benumb', 'muffle', 'blunt', 'mute', 'dulled', 'dull', 'numb', 'blunted', 'damp', 'tone_down', 'greyed', 'dampen', 'pall']",Hunter at Large
+which,[],Hunter at Large
+Inside,"['inside', 'at_bottom', 'at_heart', 'indoors', 'privileged', 'inwardly', 'deep_down', 'within', 'interior', 'inner', 'in_spite_of_appearance']",Hunter at Large
+Any,"['whatsoever', 'whatever', 'any']",Hunter at Large
+logically,['logically'],Hunter at Large
+hit,"['bang', 'stumble', 'polish_off', 'impinge_on', 'reach', 'make', 'arrive_at', 'rack_up', 'shoot', 'remove', 'hit', 'tally', 'murder', 'strike', 'run_into', 'collide_with', 'gain', 'attain', 'hitting', 'striking', 'bump_off', 'pip', 'come_to', 'smasher', 'dispatch', 'smash', 'slay', 'score', 'collision', 'off']",Hunter at Large
+drive,"['parkway', 'aim', 'get', 'repel', 'campaign', 'labor', 'push', 'drive', 'ram', 'tug', 'private_road', 'driveway', 'effort', 'driving_force', 'movement', 'take', 'crusade', 'cause', 'driving', 'beat_back', 'motor', 'push_back', 'repulse', 'force', 'ride', 'thrust', 'force_back', 'labour']",Hunter at Large
+moved,"['actuate', 'travel', 'be_active', 'affect', 'make_a_motion', 'motivate', 'move', 'act', 'touched', 'moved', 'propel', 'run', 'incite', 'strike', 'go', 'locomote', 'impress', 'prompt', 'stirred', 'proceed', 'displace', 'affected']",Hunter at Large
+Actually,"['really', 'actually', 'in_reality']",Hunter at Large
+doubted,['doubt'],Hunter at Large
+rid,"['rid', 'free', 'disembarrass']",Hunter at Large
+brought,"['land', 'bring', 'wreak', 'bestow', 'get', 'impart', 'contribute', 'bring_in', 'play', 'institute', 'make_for', 'take', 'add', 'fetch', 'lend', 'convey', 'work']",Hunter at Large
+brushed,"['brush', 'fleecy', 'sweep', 'brushed', 'napped']",Hunter at Large
+places,"['come_out', 'aim', 'spot', 'berth', 'direct', 'shoes', 'plaza', 'blank_space', 'billet', 'order', 'localise', 'lay', 'rank', 'come_in', 'space', 'set', 'grade', 'put', 'place', 'identify', 'seat', 'office', 'topographic_point', 'target', 'point', 'locate', 'position', 'send', 'post', 'station', 'situation', 'localize', 'invest', 'home', 'commit', 'property', 'pose', 'rate', 'stead', 'piazza', 'range', 'lieu', 'site']",Hunter at Large
+wasn't,[],Hunter at Large
+knew,"['lie_with', 'bang', 'recognize', 'have_it_off', 'sleep_together', 'acknowledge', 'screw', 'be_intimate', 'sleep_with', 'eff', 'jazz', 'have_it_away', 'have_a_go_at_it', 'hump', 'do_it', 'fuck', 'make_out', 'roll_in_the_hay', 'recognise', 'bonk', 'cognize', 'make_love', 'bed', 'have_sex', 'have_intercourse', 'love', 'cognise', 'live', 'get_it_on', 'know', 'experience', 'get_laid']",Hunter at Large
+Wister,"['Owen_Wister', 'Wister']",Hunter at Large
+Or,"['OR', 'Beaver_State', 'operating_theatre', 'surgery', 'Oregon', 'operating_theater', 'operating_room']",Hunter at Large
+intact,"['integral', 'inviolate', 'entire', 'intact']",Hunter at Large
+clear,"['brighten', 'shed_light_on', 'realize', 'vindicated', 'exonerated', 'clear_up', 'make', 'clear-cut', 'exculpated', 'pull_in', 'decipherable', 'percipient', 'crystalise', 'cleared', 'straighten_out', 'bring_in', 'clean', 'authorize', 'open', 'pass', 'sort_out', 'all_the_way', 'crystallize', 'absolved', 'crystallise', 'enlighten', 'authorise', 'top', 'illuminate', 'gain', 'exonerate', 'unclouded', 'elucidate', 'clear', 'discharge', 'readable', 'assoil', 'light', 'solve', 'well-defined', 'light_up', 'take_in', 'unclutter', 'sack_up', 'exculpate', 'clean-cut', 'clearly', 'unmortgaged', 'crystalize', 'earn', 'realise', 'acquit', 'net', 'sack']",Hunter at Large
+stumbled,"['hit', 'falter', 'stumble', 'slip_up', 'trip', 'trip_up', 'bumble']",Hunter at Large
+brief,"['abbreviated', 'legal_brief', 'brief']",Hunter at Large
+dust,"['debris', 'dot', 'rubble', 'scatter', 'dust', 'disperse', 'junk', 'sprinkle', 'detritus']",Hunter at Large
+away,"['aside', 'forth', 'out', 'off', 'away', 'outside', 'by']",Hunter at Large
+think,"['imagine', 'consider', 'retrieve', 'cerebrate', 'suppose', 'reckon', 'call_back', 'conceive', 'call_up', 'intend', 'remember', 'guess', 'think', 'opine', 'believe', 'recall', 'mean', 'recollect', 'cogitate']",Hunter at Large
+higher,"['high', 'high-pitched', 'mellow', 'in_high_spirits', 'eminent', 'gamy', 'higher', 'gamey']",Hunter at Large
+for,[],Hunter at Large
+tunnel,"['tunnel', 'burrow']",Hunter at Large
+precariously,['precariously'],Hunter at Large
+got,"['aim', 'perplex', 'gravel', 'get', 'pay_off', 'make', 'set_about', 'find', 'suffer', 'arrive', 'dumbfound', 'catch', 'baffle', 'fix', 'stupefy', 'commence', 'drive', ""get_under_one's_skin"", 'father', 'produce', 'beget', 'scram', 'acquire', 'obtain', 'pay_back', 'induce', 'capture', 'grow', 'puzzle', 'nonplus', 'set_out', 'generate', 'stimulate', 'bewilder', 'bring', 'let', 'beat', 'go', 'fuck_off', 'amaze', 'get_down', 'receive', 'contract', 'vex', 'take', 'become', 'start', 'arrest', 'convey', 'buzz_off', 'start_out', 'sire', 'begin', 'mystify', 'incur', 'stick', 'cause', 'sustain', 'bring_forth', 'come', 'bugger_off', 'draw', 'pose', 'flummox', 'mother', 'fetch', 'engender', 'develop', 'experience', 'have']",Hunter at Large
+draw,"['disembowel', 'hook', 'get', 'suck', 'take_up', 'draw_play', 'make', 'absorb', 'attraction', 'hooking', 'take_out', 'pull_out', 'pull_in', 'trace', 'pull', 'attract', 'attractor', 'guide', 'run', 'draw_poker', 'pass', 'eviscerate', 'draw_in', 'drawing_card', 'get_out', 'line', 'haul', 'suck_up', 'depict', 'puff', 'thread', 'lot', 'haulage', 'delineate', 'tie', 'attracter', 'take_in', 'describe', 'cast', 'string', 'pull_back', 'soak_up', 'sop_up', 'imbibe', 'standoff', 'withdraw', 'draw', 'reap', 'draw_off', 'force', 'quarter', 'draw_and_quarter', 'drag']",Hunter at Large
+fought,"['struggle', 'oppose', 'fight_down', 'defend', 'crusade', 'push', 'campaign', 'contend', 'fight_back', 'agitate', 'press', 'fight']",Hunter at Large
+failing,"['go_wrong', 'neglect', 'die', 'break_down', 'weakness', 'betray', 'miscarry', 'give_out', 'flunk', 'go_bad', 'go', 'run_out', 'fail', 'flush_it', 'conk_out', 'failing', 'bomb', 'break', 'give_way']",Hunter at Large
+center,"['revolve_about', 'meat', 'pith', 'shopping_center', 'centerfield', 'heart_and_soul', 'marrow', 'focus', 'nitty-gritty', 'nerve_centre', 'plaza', 'concentrate', 'pore', 'center_field', 'centre_of_attention', 'essence', 'inwardness', 'substance', 'center_on', 'revolve_around', 'middle', 'midway', 'mall', 'center_of_attention', 'shopping_centre', 'kernel', 'eye', 'centre', 'core', 'heart', 'nerve_center', 'nub', 'gist', 'shopping_mall', 'rivet', 'center', 'halfway', 'focus_on', 'snapper', 'sum', 'midpoint', 'concentrate_on']",Hunter at Large
+gave,"['give', 'make', 'reach', 'collapse', 'pass_on', 'fall_in', 'consecrate', 'turn_over', 'grant', 'chip_in', 'ease_up', 'sacrifice', 'cave_in', 'leave', 'pass', 'open', 'generate', 'devote', 'yield', 'contribute', 'pay', 'hold', 'move_over', 'return', 'feed', 'establish', 'dedicate', 'afford', 'hand', 'throw', 'impart', 'commit', 'render', 'apply', 'founder', 'break', 'kick_in', 'present', 'give_way', 'gift', 'have']",Hunter at Large
+me,"['Pine_Tree_State', 'ME', 'Maine']",Hunter at Large
+couple,"['mate', 'twin', 'copulate', 'twain', 'couplet', 'duo', 'pair', 'duet', 'brace', 'twosome', 'duad', 'couple_up', 'dyad', 'pair_off', 'span', 'yoke', 'couple_on', 'partner_off', 'match', 'couple', 'distich', 'mates']",Hunter at Large
+arc,"['arch', 'discharge', 'electric_discharge', 'curve', 'bow', 'spark', 'electric_arc', 'arc']",Hunter at Large
+razor,['razor'],Hunter at Large
+matter,"['matter', 'topic', 'affair', 'subject', 'issue', 'weigh', 'thing', 'count']",Hunter at Large
+rather,"['rather', 'quite', 'preferably', 'sooner', 'kind_of', 'kinda', 'sort_of', 'instead']",Hunter at Large
+into,[],Hunter at Large
+After,"['later_on', 'subsequently', 'afterward', 'after', 'later', 'afterwards']",Hunter at Large
+my,[],Hunter at Large
+12,"['dozen', 'XII', 'xii', '12', 'twelve']",Hunter at Large
+pulse,"['impulse', 'pulse_rate', 'beat', 'pulsing', 'heartbeat', 'pulsation', 'pulsate', 'pulse', 'throb', 'heart_rate']",Hunter at Large
+find,"['feel', 'come_up', 'breakthrough', 'get', 'bump', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'line_up', 'chance', 'retrieve', 'determine', 'obtain', 'observe', 'happen', 'uncovering', 'receive', 'regain', 'discovery', 'detect', 'see', 'find_oneself', 'incur', 'notice', 'get_hold', 'encounter', 'discover']",Hunter at Large
+change,"['commute', 'switch', 'modification', 'alter', 'alteration', 'transfer', 'exchange', 'convert', 'vary', 'interchange', 'change', 'variety', 'modify', 'shift', 'deepen']",Hunter at Large
+gripped,"['fascinate', 'grapple', 'transfix', 'grip', 'spellbind']",Hunter at Large
+glanced,"['peek', 'glint', 'glance']",Hunter at Large
+clumsy,"['incompetent', 'gawky', 'clumsy', 'awkward', 'unwieldy', 'ungainly', 'fumbling', 'inapt', 'inept', 'bungling', 'cumbersome', 'clunky', 'ill-chosen', 'bunglesome']",Hunter at Large
+room,"['board', 'elbow_room', 'way', 'room']",Hunter at Large
+farther,"['far', 'further', 'farther']",Hunter at Large
+roll,"['rolling_wave', 'wave', 'tramp', 'vagabond', 'coil', 'wind', 'scroll', 'bankroll', 'turn_over', 'axial_motion', 'rove', 'roll_up', 'peal', 'wander', 'roll', 'stray', 'curl', 'gyre', 'axial_rotation', 'pealing', 'drift', 'bun', 'hustle', 'whorl', 'undulate', 'flap', 'roster', 'swan', 'drum_roll', 'twine', 'roam', 'pluck', 'rolling', 'wrap', 'revolve', 'ramble', 'seethe', 'wheel', 'ringlet', 'curlicue', 'range', 'roller', 'paradiddle', 'roll_out', 'bowl', 'cast']",Hunter at Large
+or,"['OR', 'Beaver_State', 'operating_theatre', 'surgery', 'Oregon', 'operating_theater', 'operating_room']",Hunter at Large
+this,[],Hunter at Large
+fork,"['branch', 'ramify', 'crotch', 'branching', 'forking', 'furcate', 'separate', 'ramification', 'fork', 'pitchfork']",Hunter at Large
+shoulder,"['articulatio_humeri', 'berm', 'shoulder_joint', 'shoulder']",Hunter at Large
+seat,"['ass', 'backside', 'sit_down', 'keister', 'fanny', 'sit', 'buns', 'stern', 'tooshie', 'derriere', 'behind', 'can', 'induct', 'place', 'bum', 'tail', 'seat', 'prat', 'rump', 'butt', 'bottom', 'tush', 'hind_end', 'rear', 'tail_end', 'buttocks', 'invest', 'rear_end', 'arse', 'posterior', 'hindquarters', 'nates', 'fundament']",Hunter at Large
+replaced,"['supplant', 'interchange', 'exchange', 'put_back', 'replace', 'substitute', 'supercede', 'supersede', 'supervene_upon']",Hunter at Large
+worked,"['play', 'function', 'make', 'shape', 'influence', 'act', 'turn', 'mould', 'wreak', 'sour', 'exercise', 'lick', 'run', 'puzzle_out', 'work_on', 'exploit', 'crop', 'bring', 'go', 'mold', 'forge', 'solve', 'ferment', 'act_upon', 'knead', 'work', 'operate', 'do_work', 'form', 'put_to_work', 'make_for', 'cultivate', 'work_out', 'figure_out', 'process']",Hunter at Large
+rolled,"['wave', 'tramp', 'vagabond', 'furled', 'wind', 'involute', 'turn_over', 'rove', 'roll_up', 'roll_out', 'wander', 'roll', 'stray', 'drift', 'hustle', 'trilled', 'undulate', 'rolled', 'swan', 'twine', 'roam', 'pluck', 'wrap', 'rolling', 'revolve', 'ramble', 'seethe', 'wheel', 'range', 'flap', 'cast']",Hunter at Large
+final,"['final_examination', 'final_exam', 'net', 'concluding', 'last', 'final', 'terminal']",Hunter at Large
+preserve,"['preserves', 'keep_up', 'conserves', 'continue', 'save', 'carry_on', 'keep', 'bear_on', 'uphold', 'maintain', 'preserve', 'conserve']",Hunter at Large
+fall,"['nightfall', 'go_down', 'capitulation', 'Fall', 'declination', 'accrue', 'gloaming', 'autumn', 'decline', 'descent', 'downfall', 'surrender', 'pass', 'crepuscule', 'strike', 'hang', 'shine', 'decrease', 'spill', 'drop', 'precipitate', 'light', 'return', 'diminish', 'lessen', 'dusk', 'devolve', 'flow', 'free_fall', 'fall', 'crepuscle', 'descend', 'declivity', 'evenfall', 'pin', 'declension', 'settle', 'gloam', 'dip', 'fall_down', 'come', 'twilight', 'tumble', 'come_down', 'downslope']",Hunter at Large
+You,[],Hunter at Large
+half,"['half', 'one-half']",Hunter at Large
+hour,"['hour', '60_minutes', 'time_of_day', 'hr', 'minute']",Hunter at Large
+helpless,"['incapacitated', 'helpless', 'lost']",Hunter at Large
+knees,"['articulatio_genus', 'knee', 'human_knee', 'stifle', 'knee_joint', 'genu']",Hunter at Large
+worry,"['trouble', 'worry', 'headache', 'care', 'vex', 'concern', 'interest', 'occupy', 'vexation']",Hunter at Large
+curled,"['wave', 'kink', 'loop', 'curled', 'coil', 'curve', 'curl', 'curl_up', 'draw_in', 'curling']",Hunter at Large
+He,"['helium', 'atomic_number_2', 'he', 'He']",Hunter at Large
+facing,"['look', 'veneer', 'cladding', 'confront', 'facing', 'front', 'lining', 'face_up', 'present', 'face']",Hunter at Large
+probably,"['in_all_probability', 'in_all_likelihood', 'credibly', 'probably', 'believably', 'belike', 'likely', 'plausibly']",Hunter at Large
+he,"['helium', 'atomic_number_2', 'he', 'He']",Hunter at Large
+any,"['whatsoever', 'whatever', 'any']",Hunter at Large
+strong,"['impregnable', 'unattackable', 'strong', 'potent', 'substantial', 'firm', 'unassailable', 'hard', 'secure', 'solid', 'stiff', 'warm', 'inviolable']",Hunter at Large
+Twice,"['twice', 'double', 'doubly']",Hunter at Large
+a,"['vitamin_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit', 'deoxyadenosine_monophosphate', 'a', 'A', 'ampere', 'adenine', 'type_A', 'amp', 'angstrom', 'group_A']",Hunter at Large
+anyone,[],Hunter at Large
+wiping,"['pass_over', 'wipe']",Hunter at Large
+of,[],Hunter at Large
+fuzzy,"['hazy', 'blurred', 'foggy', 'fuzzy', 'blurry', 'bleary', 'muzzy', 'fuzzed']",Hunter at Large
+what,[],Hunter at Large
+guts,"['gut', 'intestine', 'bowel', 'moxie', 'catgut', 'backbone', 'sand', 'guts', 'gumption', 'grit']",Hunter at Large
+hesitated,"['hesitate', 'pause', 'waver', 'waffle']",Hunter at Large
+passed,"['go_along', 'come_about', 'die', 'slip_by', 'surpass', 'expire', 'pass_on', 'drop_dead', ""cash_in_one's_chips"", 'take_place', 'fall_out', 'travel_by', 'buy_the_farm', 'top', 'fall', 'overtake', 'blow_over', 'elapse', 'pass_along', 'go_by', 'choke', 'eliminate', 'excrete', 'kick_the_bucket', 'spend', 'conk', 'exceed', 'decease', 'make_pass', 'occur', 'return', 'evanesce', 'go_past', 'transcend', 'croak', 'go_through', 'slide_by', 'lead', 'put_across', 'give', 'reach', 'make_it', 'fleet', 'turn_over', 'overhaul', 'run', 'hap', 'guide', 'snuff_it', 'authorise', 'go', 'devolve', 'legislate', 'go_across', 'slip_away', 'extend', 'glide_by', 'pass_off', 'go_on', 'sink', 'pass_by', 'pop_off', 'lapse', 'authorize', 'pass', 'exit', 'overstep', 'happen', 'clear', 'give-up_the_ghost', 'egest', 'pass_away', 'fade', 'perish', 'hand', 'draw', 'communicate']",Hunter at Large
+continuously,"['ceaselessly', 'endlessly', 'unceasingly', 'unendingly', 'continuously', 'incessantly']",Hunter at Large
+passage,"['transit', 'handing_over', 'enactment', 'musical_passage', 'transition', 'passing', 'passageway', 'passage']",Hunter at Large
+investigation,"['investigating', 'probe', 'investigation']",Hunter at Large
+push,"['energy', 'campaign', 'labor', 'bear_on', 'push', 'push_button', 'drive', 'advertize', 'promote', 'tug', 'advertise', 'agitate', 'get-up-and-go', 'crowd', 'fight', 'crusade', 'button', 'pushing', 'force', 'thrust', 'press', 'labour']",Hunter at Large
+Eight,"['eighter', 'octet', 'octonary', 'eight', '8', 'VIII', 'eighter_from_Decatur', 'Ashcan_School', 'viii', 'eight-spot', 'ogdoad', 'octad', 'Eight']",Hunter at Large
+myself,[],Hunter at Large
+wiped,"['pass_over', 'wipe']",Hunter at Large
+direction,"['counseling', 'commission', 'guidance', 'charge', 'direction', 'focussing', 'management', 'counselling', 'instruction', 'centering', 'focusing', 'focal_point', 'focus', 'counsel', 'steering', 'way']",Hunter at Large
+scrutiny,"['scrutiny', 'examination']",Hunter at Large
+enough,"['decent', 'enough', 'adequate', 'sufficiency', 'plenty']",Hunter at Large
+entrance,"['entry', 'entering', 'enamour', 'catch', 'beguile', 'entranceway', 'charm', 'entrance', 'capture', 'fascinate', 'entryway', 'ingress', 'enchant', 'entree', 'becharm', 'captivate', 'trance', 'incoming', 'bewitch', 'enamor', 'spellbind']",Hunter at Large
+against,[],Hunter at Large
+warmed,"['warmed', 'warm', 'warm_up']",Hunter at Large
+where,[],Hunter at Large
+?,[],Hunter at Large
+used,"['used', 'use', 'utilize', 'put-upon', 'victimized', 'expend', 'secondhand', 'apply', 'utilise', 'employ', 'victimised', 'exploited', 'practice', 'ill-used', 'habituate']",Hunter at Large
+ground,"['terra_firma', 'found', 'soil', 'earth', 'labor', 'grind', 'primer_coat', 'run_aground', 'land', 'craunch', 'bray', 'dry_land', 'basis', 'fag', 'footing', 'prime', 'drudge', 'crunch', 'primer', 'comminute', 'background', 'ground', 'solid_ground', 'priming', 'moil', 'undercoat', 'anchor', 'travail', 'priming_coat', 'toil', 'establish', 'dig', 'mash', 'cranch', 'labour', 'reason', 'grate', 'flat_coat', 'base', 'strand']",Hunter at Large
+all,"['whole', 'entirely', 'altogether', 'all', 'totally', 'wholly', 'completely']",Hunter at Large
+flying,"['vanish', 'quick', 'fell', 'wing', 'flying', 'pilot', 'aviate', 'flee', 'fast', 'fly', 'flight', 'fast-flying', 'vaporize', 'take_flight']",Hunter at Large
+mid-air,[],Hunter at Large
+Mickey,"['Mick', 'Paddy', 'Mickey']",Hunter at Large
+tumbled,"['get_it', 'whirl', 'topple', 'get_onto', 'cotton_on', 'tip', 'crumple', 'break_down', 'collapse', 'tumble', 'whirl_around', 'twig', 'latch_on', 'crumble', 'catch_on', 'get_wise']",Hunter at Large
+at,"['atomic_number_85', 'at', 'astatine', 'At']",Hunter at Large
+up,"['upwards', 'astir', 'upwardly', 'upward', 'improving', 'up']",Hunter at Large
+then,"['and_so', 'so', 'and_then', 'then']",Hunter at Large
+it,"['information_technology', 'IT']",Hunter at Large
+stowed,['stow'],Hunter at Large
+apart,"['asunder', 'aside', 'isolated', 'apart', 'obscure']",Hunter at Large
+momentarily,"['momentarily', 'momently']",Hunter at Large
+.,[],Hunter at Large
+face,"['typeface', 'look', 'aspect', 'human_face', 'boldness', 'front', 'brass', 'confront', 'expression', 'face_up', 'cheek', 'case', 'facial_expression', 'font', 'fount', 'nerve', 'grimace', 'present', 'face', 'side']",Hunter at Large
+along,"['along', 'on']",Hunter at Large
+was,"['equal', 'comprise', 'represent', 'WA', 'cost', 'embody', 'follow', 'Evergreen_State', 'be', 'exist', 'make_up', 'personify', 'live', 'Washington', 'constitute']",Hunter at Large
+Suddenly,"['on_the_spur_of_the_moment', 'abruptly', 'suddenly', 'of_a_sudden', 'short', 'all_of_a_sudden', 'dead']",Hunter at Large
+hint,"['pinch', 'tip', 'wind', 'touch', 'trace', 'suggestion', 'steer', 'mite', 'soupcon', 'intimation', 'jot', 'suggest', 'speck', 'confidential_information', 'breath', 'tinge', 'lead', 'clue', 'hint']",Hunter at Large
+found,"['feel', 'found', 'come_up', 'get', 'bump', 'institute', 'rule', 'find', 'find_out', 'ascertain', 'witness', 'recover', 'constitute', 'line_up', 'chance', 'retrieve', 'set_up', 'determine', 'obtain', 'observe', 'happen', 'ground', 'receive', 'plant', 'regain', 'establish', 'detect', 'see', 'find_oneself', 'incur', 'notice', 'launch', 'get_hold', 'encounter', 'discover', 'base']",Hunter at Large
+ultimate,['ultimate'],Hunter at Large
+pockets,"['pocket', 'air_pocket', 'scoop', 'pouch', 'air_hole', 'bag', 'sac', 'sack']",Hunter at Large
+One,"['unity', '1', 'nonpareil', 'one_and_only', 'matchless', 'peerless', 'one', 'ane', 'I', 'single', 'unmatched', 'ace', 'unrivalled', 'unmatchable', 'unrivaled', 'i', 'unitary']",Hunter at Large
+skeleton,"['skeletal_system', 'skeleton_in_the_cupboard', 'systema_skeletale', 'skeleton', 'frame', 'skeleton_in_the_closet', 'skeletal_frame', 'underframe']",Hunter at Large
+stains,"['soil', 'spot', 'defile', 'brand', 'smirch', 'sully', 'smear', 'grease', 'mark', 'stigma', 'filth', 'stain', 'discolouration', 'grime', 'dirt', 'grunge', 'maculate', 'blot', 'discoloration', 'tarnish']",Hunter at Large
+mine,['mine'],Hunter at Large
+though,['though'],Hunter at Large
+surprised,"['surprised', 'storm', 'surprise']",Hunter at Large
+touched,"['affect', 'bear_upon', 'reach', 'touch', 'concern', 'contact', 'advert', 'bear_on', 'refer', 'touched', 'impact', 'moved', 'tint', 'stir', 'meet', 'extend_to', 'relate', 'pertain', 'fey', 'rival', 'partake', 'come_to', 'tinct', 'stirred', 'equal', 'have-to_doe_with', 'allude', 'disturb', 'adjoin', 'tinge', 'match', 'touch_on', 'affected']",Hunter at Large
+drove,"['aim', 'get', 'repel', 'labor', 'push', 'drive', 'drove', 'ram', 'tug', 'swarm', 'take', 'motor', 'horde', 'push_back', 'drove_chisel', 'repulse', 'force', 'force_back', 'ride', 'beat_back', 'labour']",Hunter at Large
+run,"['escape', 'black_market', 'carry', 'play', 'function', 'campaign', 'move', 'hightail_it', 'lean', 'melt', 'scarper', 'be_given', 'bunk', 'break_away', 'head_for_the_hills', 'die_hard', 'ravel', 'running_game', 'extend', 'tend', 'hunt', 'hunt_down', 'bleed', 'race', 'run', 'guide', 'tally', 'streak', 'persist', 'pass', 'footrace', 'political_campaign', 'fly_the_coop', 'running_play', 'prevail', 'rill', 'streamlet', 'running', 'go', 'ladder', 'discharge', 'endure', 'test', 'melt_down', 'feed', 'turn_tail', 'foot_race', 'execute', 'flow', 'incline', 'trial', 'operate', 'work', 'run_away', 'track_down', 'ply', 'take_to_the_woods', 'consort', 'unravel', 'runnel', 'course', 'draw', 'range', 'lead', 'run_for', 'scat', 'rivulet', 'outpouring', 'lam']",Hunter at Large
+arched,"['arch', 'arciform', 'arched', 'arcuate', 'curve', 'arching', 'arced', 'bowed', 'arc']",Hunter at Large
+taken,"['subscribe_to', 'take_on', 'aim', 'use_up', 'get', 'carry', 'take_up', 'look_at', 'make', 'direct', 'take_aim', 'involve', 'occupy', 'interpreted', 'shoot', 'remove', 'drive', 'consider', 'postulate', 'guide', 'consume', 'take_away', 'charter', 'taken', 'study', 'adopt', 'necessitate', 'acquire', 'lease', 'strike', 'require', 'pick_out', 'get_hold_of', 'demand', 'train', 'subscribe', 'admit', 'bring', 'film', 'assume', 'submit', 'deal', 'hold', 'learn', 'contract', 'accept', 'take', 'select', 'exact', 'take_in', 'claim', 'read', 'convey', 'call_for', 'pack', 'need', 'ingest', 'withdraw', 'fill', 'engage', 'ask', 'lead', 'hire', 'conduct', 'choose', 'contain', 'rent', 'have']",Hunter at Large
+rail,"['railing', 'fulminate', 'vilify', 'vituperate', 'revile', 'track', 'rail_off', 'rails', 'rail_in', 'rail', 'runway', 'train', 'inveigh']",Hunter at Large
+other,"['other', 'early', 'former']",Hunter at Large
+I'll,[],Hunter at Large
+fist,"['clenched_fist', 'fist']",Hunter at Large
+put,"['arrange', 'place', 'invest', 'couch', 'order', 'redact', 'lay', 'commit', 'set_up', 'pose', 'put_option', 'frame', 'position', 'assign', 'cast', 'set', 'put']",Hunter at Large
+yet,"['nevertheless', 'in_time', 'withal', 'notwithstanding', 'all_the_same', 'however', 'hitherto', 'yet', 'til_now', 'so_far', 'even_so', 'still', 'until_now', 'up_to_now', 'thus_far', 'as_yet', 'nonetheless', 'heretofore', 'even']",Hunter at Large
+dozen,"['dozen', 'XII', 'xii', '12', 'twelve']",Hunter at Large
+during,[],Hunter at Large
+want,"['privation', 'deficiency', 'lack', 'need', 'wishing', 'deprivation', 'require', 'want', 'desire', 'wish', 'neediness']",Hunter at Large
+carried,"['persuade', 'carry', 'sway', 'dribble', 'behave', 'have_a_bun_in_the_oven', 'run', 'comport', 'expect', 'deport', 'transmit', 'hold', 'stock', 'take', 'convey', 'post', 'bear', 'stockpile', 'channel', 'pack', 'impart', 'transport', 'express', 'acquit', 'conduct', 'extend', 'gestate', 'contain']",Hunter at Large
+left,"['leave_behind', 'bequeath', 'give', 'entrust', 'pass_on', 'left-hand', 'allow', 'will', 'left_wing', 'go_away', 'leftover', 'leave', 'remaining', 'left_field', 'leave_alone', 'pull_up_stakes', 'exit', 'unexpended', 'allow_for', 'get_out', 'go_out', 'odd', 'forget', 'go_forth', 'provide', 'depart', 'result', 'left', 'leftfield', 'impart', 'left_over', 'lead', 'left_hand']",Hunter at Large
+ready,"['quick', 'prepare', 'set_up', 'make', 'cook', 'gear_up', 'fix', 'set', 'ready']",Hunter at Large
+'',[],Hunter at Large
+feebly,['feebly'],Hunter at Large
+landing,"['land', 'bring', 'landing', 'bring_down', 'shore', 'landing_place', 'set_down', 'put_down', 'down', 'shoot_down', 'set_ashore']",Hunter at Large
+sudden-end,[],Hunter at Large
+just,"['only', 'scarce', 'simply', 'merely', 'good', 'exactly', 'upright', 'barely', 'just', 'equitable', 'hardly', 'scarcely', 'but', 'fair', 'just_now', 'precisely']",Hunter at Large
+again,"['once_again', 'over_again', 'once_more', 'again']",Hunter at Large
+came,"['come_up', 'total', 'get', 'do', 'arrive', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'derive', 'fall', 'number', 'come', 'fare']",Hunter at Large
+garage,"['service_department', 'garage']",Hunter at Large
+hung,"['cling', 'attend', 'pay_heed', 'flow', 'hang', 'string_up', 'hang_up', 'give_ear', 'advert', 'fall']",Hunter at Large
+breath,"['breather', 'breathing_space', 'breathing_place', 'breathing_spell', 'intimation', 'breath', 'hint', 'breathing_time']",Hunter at Large
+deadly,"['venomous', 'baneful', 'virulent', 'deathly', 'madly', 'mortal', 'lethal', 'pernicious', 'deadly', 'pestilent', 'deucedly', 'insanely', 'lifelessly', 'devilishly']",Hunter at Large
+side,"['English', 'side_of_meat', 'slope', 'position', 'face', 'side', 'incline']",Hunter at Large
+step,"['step', 'tone', 'gradation', 'maltreat', 'whole_step', 'mistreat', 'stride', 'ill-use', 'dance_step', 'tread', 'stair', 'measure', 'footstep', 'footprint', 'pace', 'footmark', 'ill-treat', ""stone's_throw"", 'footfall', 'whole_tone', 'abuse']",Hunter at Large
+rip,"['roue', 'snag', 'tear', 'rip', 'rive', 'rakehell', 'crosscurrent', 'countercurrent', 'blood', 'tide_rip', 'rend', 'split', 'riptide', 'profligate', 'pull', 'rent', 'rake']",Hunter at Large
+The,[],Hunter at Large
+I,"['unity', '1', 'atomic_number_53', 'one', 'ane', 'I', 'single', 'iodin', 'ace', 'iodine', 'i']",Hunter at Large
+swollen,"['swollen-headed', 'swell', 'tumefy', 'tumesce', 'well', 'vain', 'swell_up', 'egotistic', 'swollen', 'egotistical', 'puff_up', 'well_up', 'conceited', 'self-conceited', 'intumesce']",Hunter at Large
+boy,"['male_child', 'boy', 'son']",Hunter at Large
+lost,"['bewildered', 'deep_in_thought', 'miss', 'turn_a_loss', 'suffer', 'mislay', 'lost', 'befuddled', 'missed', 'baffled', 'disoriented', 'confounded', 'recede', 'misplace', 'mixed-up', 'bemused', 'at_sea', 'lose', 'confused', 'preoccupied', 'helpless', 'mazed', 'fall_back', 'drop_off', 'fall_behind', 'doomed']",Hunter at Large
+scrambled,"['struggle', 'throw_together', 'scramble', 'clamber', 'beat', 'shin', 'jumble', 'sputter', 'scrambled', 'skin', 'shinny']",Hunter at Large
+them,[],Hunter at Large
+law,"['police', 'jurisprudence', 'constabulary', 'law_of_nature', 'police_force', 'legal_philosophy', 'natural_law', 'practice_of_law', 'law']",Hunter at Large
+two,"['two', 'deuce', '2', 'ii', 'II']",Hunter at Large
+lock,"['whorl', 'put_away', 'lock_chamber', 'lock', 'lock_away', 'curl', 'ringlet', 'interlock', 'lock_in', 'shut_up', 'shut_away', 'lock_up', 'mesh', 'ignition_lock', 'engage', 'operate', 'interlace']",Hunter at Large
+looked,"['wait', 'see', 'look', 'await', 'take_care', 'seem', 'bet', 'expect', 'count', 'front', 'depend', 'attend', 'reckon', 'face', 'appear', 'search', 'calculate']",Hunter at Large
+fixed,"['fasten', 'get', 'pay_off', 'frozen', 'make', 'cook', 'unsex', 'fixate', 'specify', 'fix', 'prepare', 'sterilize', 'set_up', 'fixed', 'determine', 'pay_back', 'set', 'define', 'sterilise', 'limit', 'rigid', 'situate', 'deposit', 'secure', 'doctor', 'ready', 'repair', 'desexualize', 'bushel', 'posit', 'desex', 'furbish_up', 'mend', 'gear_up', 'touch_on', 'desexualise', 'restore']",Hunter at Large
+sure,"['surely', 'sure_as_shooting', 'indisputable', 'trusted', 'certainly', 'sure', 'sure_enough', 'for_sure', 'certain', 'for_certain']",Hunter at Large
+dry,"['ironical', 'dry_out', 'dry', 'juiceless', 'ironic', 'teetotal', 'wry', 'prohibitionist']",Hunter at Large
+slid,"['slue', 'slide', 'slew', 'skid', 'slip', 'slither']",Hunter at Large
+stiff,"['strong', 'stiffly', 'cockeyed', 'squiffy', 'starchy', 'plastered', 'slopped', 'loaded', 'wet', 'corpse', 'pissed', 'besotted', 'smashed', 'pixilated', 'sozzled', 'buckram', 'soused', 'stiff', 'soaked', 'rigid', 'unfaltering', 'steadfast', 'crocked', 'blind_drunk', 'steady', 'fuddled', 'unbendable', 'unwavering', 'blotto', 'tight', 'remains', 'firm', 'sloshed', 'unshakable', 'pie-eyed', 'clay', 'cadaver', 'potent']",Hunter at Large
+to,[],Hunter at Large
+check,"['discipline', 'checkout', 'go_over', 'tick', 'hinderance', 'chip', 'substantiation', 'jibe', 'agree', 'assure', 'chequer', 'ascertain', 'find_out', 'hitch', 'baulk', 'check_mark', 'stop', 'retard', 'crack', 'tab', 'handicap', 'insure', 'bank_check', 'tally', 'check_out', 'suss_out', 'mark', 'checker', 'determine', 'stay', 'control', 'train', 'break', 'verification', 'check', 'balk', 'assay', 'look_into', 'cheque', 'chit', 'bridle', 'turn_back', 'hold', 'condition', 'learn', 'contain', 'stoppage', 'hindrance', 'correspond', 'gibe', 'check_into', 'fit', 'arrest', 'check_up_on', 'check_over', 'confirmation', 'curb', 'see', 'deterrent', 'impediment', 'check_off', 'tick_off', 'hold_back', 'mark_off', 'watch', 'ensure', 'chink', 'hold_in', 'halt', 'moderate', 'match', 'see_to_it', 'delay', 'check-out_procedure']",Hunter at Large
+behind,"['ass', 'backside', 'slow', 'keister', 'fanny', 'buns', 'stern', 'tooshie', 'behindhand', 'derriere', 'behind', 'can', 'bum', 'tail', 'seat', 'prat', 'rump', 'butt', 'bottom', 'tush', 'in_arrears', 'hind_end', 'rear', 'tail_end', 'buttocks', 'rear_end', 'arse', 'posterior', 'hindquarters', 'nates', 'fundament']",Hunter at Large
+discernible,"['observable', 'evident', 'discernable', 'discernible']",Hunter at Large
+parked,"['parked', 'park']",Hunter at Large
+about,"['about', 'more_or_less', 'astir', 'just_about', 'well-nigh', 'around', 'almost', 'virtually', 'nigh', 'or_so', 'nearly', 'most', 'close_to', 'near', 'approximately', 'roughly', 'some']",Hunter at Large
+use,"['role', 'purpose', 'function', 'utilization', 'utilise', 'usage', 'use_of_goods_and_services', 'exercise', 'enjoyment', 'practice', 'use', 'consumption', 'employ', 'habit', 'utilize', 'expend', 'utilisation', 'employment', 'apply', 'manipulation', 'economic_consumption', 'usance', 'habituate']",Hunter at Large
+steps,"['step', 'tone', 'gradation', 'maltreat', 'whole_step', 'mistreat', 'stride', 'ill-use', 'dance_step', 'tread', 'stair', 'measure', 'footstep', 'footprint', 'pace', 'footmark', 'stairs', 'ill-treat', 'steps', ""stone's_throw"", 'footfall', 'whole_tone', 'abuse']",Hunter at Large
+effort,"['elbow_grease', 'exertion', 'feat', 'effort', 'cause', 'crusade', 'drive', 'movement', 'endeavour', 'travail', 'try', 'campaign', 'exploit', 'endeavor', 'attempt', 'sweat']",Hunter at Large
+wastrel,"['wastrel', 'waster']",Hunter at Large
+wildly,['wildly'],Hunter at Large
+attack,"['blast', 'assail', 'lash_out', 'assault', 'aggress', 'attempt', 'flack', 'onslaught', 'approach', 'tone-beginning', 'flak', 'onset', 'set_on', 'plan_of_attack', 'fire', 'attack', 'onrush', 'round', 'snipe']",Hunter at Large
+paused,"['hesitate', 'intermit', 'pause', 'break']",Hunter at Large
+lose,"['lose', 'miss', 'turn_a_loss', 'suffer', 'fall_back', 'mislay', 'drop_off', 'recede', 'fall_behind', 'misplace']",Hunter at Large
+stopped,"['lay_off', 'terminate', 'intercept', 'stopped_up', 'give_up', 'stop', 'end', 'block', 'check', 'kibosh', 'blockade', 'turn_back', 'contain', 'cease', 'finish', 'block_off', 'stopped-up', 'bar', 'barricade', 'arrest', 'break_off', 'stopped', 'hold_on', 'hold_back', 'discontinue', 'block_up', 'halt', 'break', 'stop_over', 'quit']",Hunter at Large
+own,"['ain', 'own', 'possess', 'have']",Hunter at Large
+carefully,"['cautiously', 'carefully']",Hunter at Large
+arm's,[],Hunter at Large
+on,"['along', 'on']",Hunter at Large
+come,"['come_up', 'total', 'get', 'do', 'arrive', 'semen', 'seminal_fluid', 'hail', 'come_in', 'issue_forth', 'make_out', 'follow', 'cum', 'occur', 'add_up', 'get_along', 'amount', 'descend', 'fall', 'derive', 'number', 'come', 'fare', 'ejaculate', 'seed']",Hunter at Large
+Ducking,"['hedge', 'douse', 'dousing', 'circumvent', 'immersion', 'duck_hunting', 'parry', 'skirt', 'elude', 'dip', 'dodge', 'evade', 'sidestep', 'fudge', 'submersion', 'put_off', 'duck', 'ducking']",Hunter at Large
+minutes,"['hour', 'moment', 'arcminute', 'second', 'minute_of_arc', 'minutes', 'mo', 'bit', 'minute', 'instant', 'transactions', 'proceedings', 'min']",Hunter at Large
+climbed,"['mount', 'rise', 'go_up', 'climb', 'climb_up', 'wax']",Hunter at Large
+twelve,"['dozen', 'XII', 'xii', '12', 'twelve']",Hunter at Large
+friend,"['booster', 'acquaintance', 'champion', 'Friend', 'supporter', 'protagonist', 'ally', 'friend', 'Quaker', 'admirer']",Hunter at Large
+tumble,"['get_it', 'whirl', 'topple', 'spill', 'get_onto', 'cotton_on', 'tip', 'crumple', 'break_down', 'collapse', 'tumble', 'whirl_around', 'get_wise', 'twig', 'latch_on', 'crumble', 'catch_on', 'fall']",Hunter at Large
+If,[],Hunter at Large
+nearly,"['about', 'well-nigh', 'almost', 'nigh', 'closely', 'nearly', 'most', 'near', 'virtually', 'intimately']",Hunter at Large
+closed,"['unsympathetic', 'closed_in', 'conclude', 'close_up', 'close_down', 'shut_down', 'shut', 'fill_up', 'unopen', 'fold', 'close', 'closed', 'come_together']",Hunter at Large
+drag,"['cart', 'dredge', 'tangle', 'pull', 'scuff', 'drag_on', 'sweep', 'hale', 'trail', 'haul', 'hang_back', 'get_behind', 'drop_back', 'puff', 'drag_out', 'drag_in', 'retarding_force', 'embroil', 'drop_behind', 'draw', 'sweep_up', 'drag']",Hunter at Large

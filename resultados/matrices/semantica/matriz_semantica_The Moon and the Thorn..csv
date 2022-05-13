@@ -1,0 +1,895 @@
+w,vector_semantico
+A,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",The Moon and the Thorn.
+watched,"['keep_an_eye_on', 'watch', 'look_out', 'observe', 'ascertain', 'watch_over', 'view', 'take_in', 'catch', 'determine', 'see', 'follow', 'look_on', 'watch_out', 'check', 'find_out', 'learn']",The Moon and the Thorn.
+planets,"['planet', 'major_planet', 'satellite']",The Moon and the Thorn.
+kept,"['celebrate', 'sustain', 'kept', 'save', 'keep_back', 'proceed', 'maintain', 'hold_open', 'prevent', 'unbroken', 'keep_on', 'keep_open', 'hold_on', 'stay_fresh', 'preserve', 'continue', 'observe', 'keep', 'restrain', 'retain', 'hold_back', 'hold', 'go_along', 'go_on']",The Moon and the Thorn.
+beginning,"['beginning', 'showtime', 'set_about', 'kickoff', 'start_out', 'root', 'get_down', 'get', 'set_out', 'commence', 'offset', 'get-go', 'begin', 'origin', 'rootage', 'outset', 'source', 'starting_time', 'lead_off', 'start', 'commencement', 'first']",The Moon and the Thorn.
+there's,[],The Moon and the Thorn.
+left,"['get_out', 'leave_alone', 'go_away', 'left', 'left-hand', 'entrust', 'remaining', 'allow_for', 'exit', 'left_over', 'left_hand', 'go_out', 'pull_up_stakes', 'leftfield', 'go_forth', 'leftover', 'odd', 'impart', 'allow', 'leave', 'provide', 'depart', 'unexpended', 'left_wing', 'will', 'pass_on', 'bequeath', 'forget', 'leave_behind', 'left_field', 'lead', 'result', 'give']",The Moon and the Thorn.
+Henrietta,[],The Moon and the Thorn.
+sat,"['sit_down', 'posture', 'baby-sit', 'model', 'Sat', 'seat', 'sit', 'Saturday', 'sit_around', 'pose', 'Sabbatum', 'ride']",The Moon and the Thorn.
+extraordinary,"['over-the-top', 'extraordinary', 'sinful']",The Moon and the Thorn.
+clear,"['vindicated', 'well-defined', 'brighten', 'light_up', 'sack', 'crystalize', 'make', 'discharge', 'take_in', 'elucidate', 'clear', 'realise', 'straighten_out', 'authorize', 'earn', 'unmortgaged', 'clean-cut', 'shed_light_on', 'absolved', 'clear_up', 'solve', 'crystallise', 'pull_in', 'clearly', 'net', 'sort_out', 'exculpated', 'clear-cut', 'illuminate', 'exonerate', 'light', 'all_the_way', 'percipient', 'crystallize', 'acquit', 'top', 'pass', 'exonerated', 'enlighten', 'bring_in', 'assoil', 'readable', 'decipherable', 'gain', 'realize', 'cleared', 'crystalise', 'unclouded', 'unclutter', 'sack_up', 'authorise', 'clean', 'exculpate', 'open']",The Moon and the Thorn.
+observed,"['celebrate', 'respect', 'observed', 'keep_an_eye_on', 'ascertained', 'watch', 'honour', 'maintain', 'notice', 'find', 'honor', 'detect', 'abide_by', 'mention', 'discover', 'take_note', 'observe', 'keep', 'note', 'watch_over', 'discovered', 'follow', 'remark']",The Moon and the Thorn.
+balanced,"['equilibrate', 'equilibrise', 'balance', 'equilibrize', 'balanced', 'poise']",The Moon and the Thorn.
+bun,"['roll', 'bun']",The Moon and the Thorn.
+sea,"['sea', 'ocean']",The Moon and the Thorn.
+garden,['garden'],The Moon and the Thorn.
+sin,"['sine', 'trespass', 'sinfulness', 'transgress', 'drop_the_ball', 'goof', 'Sin', 'wickedness', 'sinning', 'blunder', 'hell', 'sin', 'boob']",The Moon and the Thorn.
+leaf,"['riff', 'leafage', 'leaf', 'flip', 'riffle', 'thumb', 'folio', 'flick', 'foliage']",The Moon and the Thorn.
+having,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",The Moon and the Thorn.
+started,"['come_out', 'pop_out', 'get_going', 'set_about', 'take_up', 'originate', 'start_out', 'jump', 'set_off', 'get_down', 'startle', 'initiate', 'pop', 'get', 'set_out', 'commence', 'depart', 'embark_on', 'bulge', 'bulge_out', 'begin', 'start_up', 'take_off', 'set_forth', 'part', 'go', 'bug_out', 'protrude', 'lead_off', 'start']",The Moon and the Thorn.
+night,"['nighttime', 'Night', 'night', 'Nox', 'dark']",The Moon and the Thorn.
+avoided,"['forfend', 'invalidate', 'quash', 'void', 'nullify', 'head_off', 'stave_off', 'keep_off', 'deflect', 'obviate', 'annul', 'avert', 'ward_off', 'forefend', 'debar', 'avoid', 'fend_off']",The Moon and the Thorn.
+arm,"['limb', 'sleeve', 'fortify', 'arm', 'build_up', 'gird', 'weapon', 'weapon_system', 'subdivision', 'branch']",The Moon and the Thorn.
+with,[],The Moon and the Thorn.
+silenced,"['still', 'hush', 'silence', 'shut_up', 'quieten', 'hush_up', 'silenced']",The Moon and the Thorn.
+ceased,"['cease', 'discontinue', 'quit', 'finish', 'lay_off', 'stop', 'terminate', 'give_up', 'end']",The Moon and the Thorn.
+tyranny,"['one-man_rule', 'totalitarianism', 'authoritarianism', 'Caesarism', 'despotism', 'shogunate', 'dictatorship', 'tyranny', 'monocracy', 'absolutism', 'Stalinism']",The Moon and the Thorn.
+curiosity,"['wonder', 'curio', 'peculiarity', 'oddment', 'oddity', 'rarity', 'curiosity']",The Moon and the Thorn.
+claws,"['nipper', 'hook', 'claw', 'pincer', 'chela']",The Moon and the Thorn.
+Dorothy,[],The Moon and the Thorn.
+like,"['corresponding', 'wish', 'like', 'similar', 'ilk', 'same', 'alike', 'the_likes_of', 'comparable', 'the_like', 'care']",The Moon and the Thorn.
+patiently,['patiently'],The Moon and the Thorn.
+nettled,"['urticate', 'miffed', 'get_at', 'peeved', 'pissed_off', 'vex', 'nettle', 'devil', 'get_to', 'rile', 'nark', 'rag', 'nettled', 'gravel', 'steamed', 'pissed', 'irritate', 'riled', 'annoy', 'roiled', 'stung', 'annoyed', 'bother', 'chafe', 'irritated']",The Moon and the Thorn.
+Summer's,[],The Moon and the Thorn.
+lived,"['hold_up', 'subsist', 'experience', 'endure', 'live_on', 'live', 'go', 'be', 'know', 'survive', 'exist', 'inhabit', 'dwell', 'hold_out', 'populate', 'last']",The Moon and the Thorn.
+fat,"['plump', 'flesh_out', 'plump_out', 'blubber', 'fat', 'juicy', 'fatness', 'fatten_out', 'fatten_up', 'fatty', 'productive', 'avoirdupois', 'fatten', 'fill_out', 'rich', 'fertile', 'fatty_tissue', 'adipose_tissue']",The Moon and the Thorn.
+who,"['World_Health_Organization', 'WHO']",The Moon and the Thorn.
+circle,"['dress_circle', 'encircle', 'lap', 'rotary', 'lot', 'band', 'round', 'forget_me_drug', 'set', 'roach', 'circle', 'roundabout', 'rophy', 'R-2', 'rope', 'circuit', 'circulate', 'traffic_circle', 'roofy', 'Mexican_valium']",The Moon and the Thorn.
+past,"['past_tense', 'retiring', 'past', 'yesteryear', 'preceding', 'past_times', 'by']",The Moon and the Thorn.
+scent,"['odour', 'aroma', 'odourise', 'odorize', 'wind', 'scent', 'nose', 'perfume', 'fragrance', 'smell', 'odor', 'olfactory_property']",The Moon and the Thorn.
+drama,"['drama', 'dramatic_play', 'dramatic_event', 'play']",The Moon and the Thorn.
+thorns,"['sticker', 'irritant', 'spine', 'pricker', 'prickle', 'spikelet', 'thorn']",The Moon and the Thorn.
+obeyed,['obey'],The Moon and the Thorn.
+defense,"['defense_mechanism', 'DoD', 'defensive_structure', 'refutation', 'defense_reaction', 'defending_team', 'United_States_Department_of_Defense', 'Department_of_Defense', 'Defense', 'vindication', 'defense_team', 'demurrer', 'defense', 'defensive_measure', 'defense_force', 'defence_mechanism', 'Defense_Department', 'defence', 'defence_reaction', 'denial', 'defence_force', 'defense_lawyers']",The Moon and the Thorn.
+behind,"['butt', 'stern', 'tail_end', 'hindquarters', 'fanny', 'tush', 'tail', 'buttocks', 'buns', 'in_arrears', 'posterior', 'keister', 'tooshie', 'nates', 'prat', 'seat', 'behindhand', 'ass', 'hind_end', 'bum', 'backside', 'behind', 'can', 'bottom', 'rear', 'rump', 'slow', 'rear_end', 'derriere', 'fundament', 'arse']",The Moon and the Thorn.
+In,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",The Moon and the Thorn.
+end,"['cease', 'closing', 'conclusion', 'remnant', 'remainder', 'finish', 'goal', 'close', 'terminal', 'stop', 'terminate', 'destruction', 'oddment', 'end', 'final_stage', 'last', 'death', 'ending']",The Moon and the Thorn.
+close,"['closing', 'stuffy', 'finis', 'fill_up', 'snug', 'tight', 'shut_down', 'closelipped', 'come_together', 'closely', 'faithful', 'closemouthed', 'conclude', 'last', 'ending', 'skinny', 'conclusion', 'finale', 'shut', 'secretive', 'penny-pinching', 'fold', 'cheeseparing', 'end', 'close', 'near', 'tightlipped', 'close-fitting', 'close_up', 'nigh', 'stopping_point', 'finish', 'airless', 'confining', 'closing_curtain', 'close_down', 'unaired']",The Moon and the Thorn.
+danced,"['trip_the_light_fantastic_toe', 'trip_the_light_fantastic', 'dance']",The Moon and the Thorn.
+letters,"['alphabetic_character', 'letter', 'missive', 'varsity_letter', 'letters', 'letter_of_the_alphabet']",The Moon and the Thorn.
+For,[],The Moon and the Thorn.
+malevolence,"['malignity', 'malevolence', 'malice', 'malevolency']",The Moon and the Thorn.
+aged,"['get_on', 'maturate', 'aged', 'cured', 'age', 'senior', 'older', 'ripened', 'mature', 'of_age', 'senesce', 'elderly']",The Moon and the Thorn.
+engine,"['locomotive_engine', 'locomotive', 'railway_locomotive', 'engine']",The Moon and the Thorn.
+unfavorable,"['unfavorable', 'unfavourable']",The Moon and the Thorn.
+piously,"['devoutly', 'piously']",The Moon and the Thorn.
+white,"['bloodless', 'blank', 'whiten', 'Patrick_Victor_Martindale_White', 'egg_white', 'Andrew_Dickson_White', 'livid', 'White_River', 'tweed', 'flannel', 'Theodore_Harold_White', 'Andrew_D._White', 'E._B._White', 'T._H._White', 'albumen', 'Caucasian', 'Elwyn_Brooks_White', 'blanched', 'ashen', 'whitened', 'lily-white', 'gabardine', 'White', 'White_person', 'Edward_D._White', 'Stanford_White', 'Edward_Douglas_White_Jr.', 'white', 'ovalbumin', 'clean', 'Edward_White', 'whiteness', 'white-hot', 'snowy', 'Patrick_White']",The Moon and the Thorn.
+Well,"['advantageously', 'swell', 'substantially', 'fountainhead', 'wellspring', 'well', 'easily', 'comfortably', 'intimately', 'considerably', 'good']",The Moon and the Thorn.
+wilderness,"['wilderness', 'wild', 'Wilderness']",The Moon and the Thorn.
+knowledge,"['cognition', 'noesis', 'knowledge']",The Moon and the Thorn.
+toward,[],The Moon and the Thorn.
+I've,[],The Moon and the Thorn.
+impossible,"['inconceivable', 'unsufferable', 'impossible', 'unacceptable', 'insufferable', 'out_of_the_question', 'unimaginable']",The Moon and the Thorn.
+supplicating,['supplicate'],The Moon and the Thorn.
+guessed,"['opine', 'imagine', 'venture', 'approximate', 'judge', 'estimate', 'hazard', 'reckon', 'infer', 'think', 'gauge', 'suppose', 'guess', 'pretend']",The Moon and the Thorn.
+easy,"['easily', 'leisurely', 'easy', 'well-situated', 'prosperous', 'loose', 'wanton', 'soft', 'comfortable', 'light', 'tardily', 'easygoing', 'sluttish', 'well-to-do', 'slowly', 'well-off', 'slow', 'gentle', 'promiscuous', 'well-fixed', 'well-heeled']",The Moon and the Thorn.
+to,[],The Moon and the Thorn.
+in,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",The Moon and the Thorn.
+God,"['idol', 'deity', 'immortal', 'divinity', 'God', 'Supreme_Being', 'god', 'graven_image']",The Moon and the Thorn.
+barefoot,"['barefooted', 'barefoot', 'shoeless']",The Moon and the Thorn.
+supper,['supper'],The Moon and the Thorn.
+down,"['pour_down', 'down_pat', 'bolt_down', 'shoot_down', 'dispirited', 'down', 'go_through', 'kill', 'low', 'drink_down', 'pull_down', 'low-spirited', 'pile', 'downwards', 'Down', 'devour', 'consume', 'depressed', 'belt_down', 'pop', 'fine-tune', 'refine', 'polish', 'down_in_the_mouth', 'cut_down', 'downward', 'downwardly', 'blue', 'knock_down', 'gloomy', 'John_L._H._Down', 'downcast', 'down_feather', 'push_down', 'land', 'toss_off', 'mastered', 'downhearted', 'grim']",The Moon and the Thorn.
+grave,"['weighty', 'inscribe', 'severe', 'dangerous', 'sober', 'grave_accent', 'serious', 'life-threatening', 'sedate', 'tomb', 'solemn', 'heavy', 'scratch', 'sculpt', 'grave', 'engrave', 'grievous', 'sculpture']",The Moon and the Thorn.
+rest,"['remainder', 'take_a_breather', 'remain', 'eternal_rest', 'rest', 'repose', 'eternal_sleep', 'sleep', 'balance', 'perch', 'stay', 'breathe', 'relief', 'rest_period', 'residual', 'residuum', 'respite', 'ease', 'roost', 'pillow', 'quietus', ""catch_one's_breath"", 'relaxation', 'lie', 'reside', 'residue']",The Moon and the Thorn.
+shriveled,"['wither', 'shrivel_up', 'wizened', 'shrunken', 'shriveled', 'shrink', 'sear', 'withered', 'wizen', 'shrivelled', 'sere', 'shrivel', 'dried-up']",The Moon and the Thorn.
+They'll,[],The Moon and the Thorn.
+forgotten,"['forgotten', 'forget', 'block', 'disregarded', 'bury', 'blank_out', 'draw_a_blank', 'leave']",The Moon and the Thorn.
+mindless,"['mindless', 'inane', 'fatuous', 'senseless', 'asinine', 'forgetful', 'unmindful', 'reasonless', 'vacuous']",The Moon and the Thorn.
+buds,['bud'],The Moon and the Thorn.
+gay,"['cheery', 'brave', 'gay', 'festal', 'merry', 'braw', 'mirthful', 'festive', 'homosexual', 'queer', 'sunny', 'jovial', 'jolly', 'homophile', 'jocund', 'homo']",The Moon and the Thorn.
+around,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'round', 'just_about']",The Moon and the Thorn.
+interruption,"['intermission', 'pause', 'interruption', 'suspension', 'gap', 'break', 'disruption']",The Moon and the Thorn.
+examining,"['analyse', 'test', 'essay', 'try', 'study', 'prove', 'probe', 'analyze', 'see', 'examine', 'canvas', 'try_out', 'canvass']",The Moon and the Thorn.
+impulse,"['urge', 'pulsation', 'neural_impulse', 'nerve_impulse', 'momentum', 'nervous_impulse', 'whim', 'impulse', 'impulsion', 'impetus', 'pulsing', 'pulse', 'caprice']",The Moon and the Thorn.
+air,"['line', 'aura', 'air', 'vent', 'atmosphere', 'airwave', 'breeze', 'publicize', 'air_travel', 'ventilate', 'aviation', 'strain', 'melody', 'tune', 'zephyr', 'broadcast', 'melodic_phrase', 'aerate', 'send', 'publicise', 'gentle_wind', 'bare', 'air_out', 'melodic_line', 'transmit', 'beam']",The Moon and the Thorn.
+ear,"['spike', 'pinna', 'auricle', 'ear', 'capitulum']",The Moon and the Thorn.
+sill,['sill'],The Moon and the Thorn.
+nobleman,"['noble', 'nobleman', 'Lord']",The Moon and the Thorn.
+possessive,"['genitive_case', 'genitive', 'possessive', 'possessive_case']",The Moon and the Thorn.
+cottage,"['bungalow', 'cottage']",The Moon and the Thorn.
+whatever,"['whatever', 'any', 'whatsoever']",The Moon and the Thorn.
+teas,"['afternoon_tea', 'Camellia_sinensis', 'teatime', 'tea', 'tea_leaf']",The Moon and the Thorn.
+gone,"['deceased', 'plump', 'break_down', 'endure', 'go_away', 'perish', 'kick_the_bucket', 'get_going', 'live', 'die', ""cash_in_one's_chips"", 'departed', 'at_peace', 'croak', 'function', 'kaput', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'blend_in', 'expire', 'operate', 'foregone', 'hold_out', 'pass_away', 'work', 'last', 'bypast', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'break', 'belong', 'gone', 'run_low', 'become', 'pass', 'bygone', 'give-up_the_ghost', 'locomote', 'done_for', 'run', 'pop_off', 'conk', 'lead', 'blend', 'asleep', 'at_rest', 'go', 'sound', 'survive', 'drop_dead', 'extend', 'snuff_it', 'start', 'rifle', 'fail', 'choke', 'give_out', 'travel', 'give_way']",The Moon and the Thorn.
+yielded,"['generate', 'return', 'render', 'concede', 'relent', 'ease_up', 'buckle_under', 'soften', 'move_over', 'bear', 'give_in', 'pay', 'cede', 'yield', 'grant', 'afford', 'give', 'succumb', 'knuckle_under', 'give_way']",The Moon and the Thorn.
+half,"['half', 'one-half']",The Moon and the Thorn.
+summers,"['summer', 'summertime']",The Moon and the Thorn.
+porridge,['porridge'],The Moon and the Thorn.
+crossing,"['carrefour', 'queer', 'cut_through', 'track', 'interbreed', 'crosswalk', 'hybridise', 'hybridizing', 'ford', 'get_over', 'traverse', 'cross', 'crossbreeding', 'interbreeding', 'crossroad', 'baffle', 'hybridization', 'cover', 'get_across', 'bilk', 'hybridisation', 'frustrate', 'thwart', 'sweep', 'hybridize', 'intersect', 'cut_across', 'crossing', 'crossway', 'pass_over', 'scotch', 'spoil', 'intersection', 'crossbreed', 'foil', 'crossover', 'span']",The Moon and the Thorn.
+them,[],The Moon and the Thorn.
+comes,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",The Moon and the Thorn.
+``,[],The Moon and the Thorn.
+femme,[],The Moon and the Thorn.
+swearing,"['aver', 'expletive', 'affirm', 'rely', 'swearword', 'assert', 'depose', 'oath', 'imprecate', 'trust', 'cuss', 'avow', 'blaspheme', 'bank', 'swear', 'verify', 'curse_word', 'swan', 'curse', 'swearing', 'depone']",The Moon and the Thorn.
+through,"['through_and_through', 'done', 'through', 'through_with']",The Moon and the Thorn.
+vulnerable,['vulnerable'],The Moon and the Thorn.
+'',[],The Moon and the Thorn.
+held,"['held', 'sustain', 'view_as', 'make', 'curb', 'confine', 'keep_back', 'have_got', 'defend', 'hold_up', 'have', 'concur', 'maintain', 'support', 'admit', 'arrest', 'concord', 'entertain', 'accommodate', 'obligate', 'bear', 'throw', 'harbour', 'nurse', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'moderate', 'take_hold', 'halt', 'declare', 'take', 'agree', 'restrain', 'adjudge', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'withstand', 'reserve']",The Moon and the Thorn.
+estimate,"['approximate', 'estimation', 'approximation', 'judge', 'estimate', 'reckon', 'gauge', 'calculate', 'appraisal', 'figure', 'guess', 'idea', 'count_on', 'forecast']",The Moon and the Thorn.
+soberly,"['soberly', 'gravely', 'staidly']",The Moon and the Thorn.
+rain,"['rainfall', 'rain', 'pelting', 'rainwater', 'rain_down']",The Moon and the Thorn.
+nearby,['nearby'],The Moon and the Thorn.
+scudding,"['shoot', 'scudding', 'rack', 'dart', 'scud', 'flash', 'dash', 'scoot']",The Moon and the Thorn.
+big,"['large', 'bighearted', 'self-aggrandising', 'openhanded', 'giving', 'big', 'cock-a-hoop', 'full-grown', 'enceinte', 'magnanimous', 'adult', 'liberal', 'crowing', 'swelled', 'braggy', 'bountiful', 'braggart', 'boastfully', 'great', 'self-aggrandizing', 'prominent', 'bragging', 'fully_grown', 'grownup', 'boastful', 'vauntingly', 'bounteous', 'expectant', 'handsome', 'heavy', 'gravid', 'vainglorious', 'with_child', 'bad', 'freehanded', 'grown']",The Moon and the Thorn.
+After,"['subsequently', 'afterwards', 'after', 'later_on', 'later', 'afterward']",The Moon and the Thorn.
+Probably,"['probably', 'in_all_probability', 'belike', 'likely', 'credibly', 'plausibly', 'in_all_likelihood', 'believably']",The Moon and the Thorn.
+heavily,"['intemperately', 'heavy', 'heavily', 'hard', 'to_a_great_extent']",The Moon and the Thorn.
+bowed,"['bowlegged', 'submit', 'bowed', 'defer', 'bowing', 'arcuate', 'bandy', 'bowleg', 'stoop', 'arciform', 'arced', 'give_in', 'bow', 'accede', 'bend', 'arching', 'bow_down', 'arched', 'crouch', 'bandy-legged']",The Moon and the Thorn.
+moment,"['second', 'bit', 'import', 'consequence', 'mo', 'here_and_now', 'instant', 'moment', 'present_moment', 'minute']",The Moon and the Thorn.
+dared,"['defy', 'dare', 'presume', 'make_bold']",The Moon and the Thorn.
+placid,"['still', 'even-tempered', 'quiet', 'tranquil', 'good-tempered', 'unruffled', 'smooth', 'equable', 'placid']",The Moon and the Thorn.
+balls,"['clod', 'glob', 'testis', 'nut', 'ball', 'Lucille_Ball', 'chunk', 'globe', 'clump', 'bollock', 'Ball', 'musket_ball', 'formal', 'orb', 'orchis', 'testicle', 'lump', 'egg', 'ballock']",The Moon and the Thorn.
+Outside,"['international', 'alfresco', 'outside', 'extraneous', 'remote', 'out_of_doors', 'away', 'external', 'outdoor', 'outdoors', 'exterior', 'out-of-door']",The Moon and the Thorn.
+thirty,"['XXX', 'xxx', '30', 'thirty']",The Moon and the Thorn.
+rustle,"['lift', 'rustle', 'whisper', 'rustling', 'whispering']",The Moon and the Thorn.
+safe,"['dependable', 'safety', 'safe', 'condom', 'prophylactic', 'secure', 'rubber', 'good']",The Moon and the Thorn.
+haranguing,['harangue'],The Moon and the Thorn.
+gold,"['Au', 'golden', 'gilt', 'gilded', 'aureate', 'gold', 'atomic_number_79', 'amber']",The Moon and the Thorn.
+was,"['constitute', 'WA', 'equal', 'Evergreen_State', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify', 'Washington']",The Moon and the Thorn.
+sighing,"['suspire', 'sigh']",The Moon and the Thorn.
+You've,[],The Moon and the Thorn.
+Can't,[],The Moon and the Thorn.
+years,"['years', 'yr', 'old_age', 'age', 'twelvemonth', 'class', 'days', 'eld', 'geezerhood', 'year', 'long_time']",The Moon and the Thorn.
+for,[],The Moon and the Thorn.
+move,"['actuate', 'relocation', 'movement', 'make_a_motion', 'motility', 'proceed', 'be_active', 'motion', 'incite', 'motivate', 'prompt', 'move', 'impress', 'strike', 'locomote', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",The Moon and the Thorn.
+sense,"['common_sense', 'smell_out', 'sensation', 'sense', 'horse_sense', 'good_sense', 'mother_wit', 'gumption', 'signified', 'sentience', 'sentiency', 'smell', 'sensory_faculty', 'feel']",The Moon and the Thorn.
+dryin',[],The Moon and the Thorn.
+She,[],The Moon and the Thorn.
+He,"['He', 'helium', 'atomic_number_2', 'he']",The Moon and the Thorn.
+been,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Moon and the Thorn.
+daisies,['daisy'],The Moon and the Thorn.
+beyond,['beyond'],The Moon and the Thorn.
+print,"['photographic_print', 'print', 'publish', 'impress', 'mark']",The Moon and the Thorn.
+others,[],The Moon and the Thorn.
+hypocrisy,"['lip_service', 'hypocrisy']",The Moon and the Thorn.
+room,"['way', 'room', 'elbow_room', 'board']",The Moon and the Thorn.
+laws,"['law', 'natural_law', 'legal_philosophy', 'Pentateuch', 'Laws', 'practice_of_law', 'constabulary', 'jurisprudence', 'Torah', 'police', 'law_of_nature', 'police_force']",The Moon and the Thorn.
+Not,"['non', 'not']",The Moon and the Thorn.
+looked,"['expect', 'appear', 'reckon', 'wait', 'look', 'attend', 'face', 'bet', 'depend', 'see', 'await', 'calculate', 'take_care', 'count', 'seem', 'front', 'search']",The Moon and the Thorn.
+flair,"['genius', 'elan', 'flare', 'style', 'panache', 'flair', 'dash']",The Moon and the Thorn.
+gabble,"['tattle', 'blabber', 'twaddle', 'clack', 'jabbering', 'maunder', 'blab', 'gibber', 'chatter', 'prattle', 'gabble', 'prate', 'tittle-tattle', 'jabber', 'palaver', 'piffle']",The Moon and the Thorn.
+lessons,"['object_lesson', 'deterrent_example', 'moral', 'example', 'lesson']",The Moon and the Thorn.
+some,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",The Moon and the Thorn.
+ones,"['one', '1', 'I', 'single', 'unity', 'ace']",The Moon and the Thorn.
+need,"['motivation', 'involve', 'necessitate', 'want', 'take', 'call_for', 'motive', 'postulate', 'require', 'penury', 'ask', 'pauperism', 'demand', 'pauperization', 'indigence', 'need']",The Moon and the Thorn.
+and,[],The Moon and the Thorn.
+tireless,"['tireless', 'industrious', 'hardworking', 'unwearying', 'indefatigable', 'untiring', 'unflagging']",The Moon and the Thorn.
+On,"['on', 'along']",The Moon and the Thorn.
+I'm,[],The Moon and the Thorn.
+Before,"['before', 'in_front', 'earlier', 'ahead']",The Moon and the Thorn.
+waiting,"['expect', 'hold_off', 'hold_back', 'waitress', 'look', 'await', 'ready_and_waiting', 'waiting', 'wait']",The Moon and the Thorn.
+link,"['connection', 'radio_link', 'link', 'tie-in', 'join', 'contact', 'connect', 'connectedness', 'link_up', 'connexion', 'tie_in', 'unite', 'inter-group_communication', 'colligate', 'data_link', 'relate', 'nexus', 'tie', 'associate', 'yoke', 'linkup', 'liaison']",The Moon and the Thorn.
+sweet,"['cherubic', 'Henry_Sweet', 'angelic', 'sweet-flavored', 'seraphic', 'angelical', 'dessert', 'sugariness', 'fresh', 'dulcet', 'sweet', 'mellifluous', 'mellisonant', 'sweetened', 'honeyed', 'Sweet', 'confection', 'odorous', 'gratifying', 'sweet-smelling', 'scented', 'perfumed', 'sugared', 'unfermented', 'sweetness', 'odoriferous', 'afters', 'sweet-scented', 'sweetly']",The Moon and the Thorn.
+did,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'coiffe', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",The Moon and the Thorn.
+all,"['entirely', 'all', 'whole', 'completely', 'totally', 'altogether', 'wholly']",The Moon and the Thorn.
+bird,"['hoot', 'birdie', 'boo', 'razzing', 'bird', 'raspberry', 'birdwatch', 'razz', 'doll', 'chick', 'fowl', 'shuttlecock', 'Bronx_cheer', 'dame', 'hiss', 'skirt', 'shuttle', 'snort', 'wench']",The Moon and the Thorn.
+pretty,"['fairly', 'pretty', 'moderately', 'passably', 'somewhat', 'reasonably', 'jolly', 'middling']",The Moon and the Thorn.
+sounded,"['voice', 'vocalize', 'go', 'sound', 'fathom', 'vocalise']",The Moon and the Thorn.
+times,"['metre', 'time', 'prison_term', 'fourth_dimension', 'times', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'multiplication']",The Moon and the Thorn.
+f'r,[],The Moon and the Thorn.
+stay,"['stoppage', 'remain', 'stop', 'rest', 'ride_out', 'last_out', 'bide', 'stick', 'detain', 'stay', 'persist', 'arrest', 'delay', 'abide', 'outride', 'appease', 'check', 'quell', 'stay_on', 'continue', 'hitch', 'stick_around', 'halt', 'stay_put']",The Moon and the Thorn.
+out,"['come_out', 'forbidden', 'taboo', 'stunned', 'tabu', 'away', 'extinct', 'kayoed', 'prohibited', 'proscribed', 'come_out_of_the_closet', 'out', 'verboten', 'knocked_out', ""KO'd""]",The Moon and the Thorn.
+too,"['excessively', 'overly', 'besides', 'also', 'to_a_fault', 'likewise', 'as_well', 'too']",The Moon and the Thorn.
+wild,"['savage', 'crazy', 'rampantly', 'raving_mad', 'hazardous', 'gaga', 'tempestuous', 'unwarranted', 'baseless', 'barbarian', 'idle', 'godforsaken', 'wild', 'uncivilized', 'fantastic', 'waste', 'natural_state', 'furious', 'barbaric', 'unfounded', 'uncivilised', 'angry', 'state_of_nature', 'violent', 'raging', 'risky', 'wilderness', 'groundless', 'dotty', 'untamed']",The Moon and the Thorn.
+gleefully,"['joyously', 'gleefully', 'joyfully']",The Moon and the Thorn.
+owned,"['owned', 'possess', 'own', 'have']",The Moon and the Thorn.
+",",[],The Moon and the Thorn.
+ingenious,"['cunning', 'ingenious', 'clever']",The Moon and the Thorn.
+let,"['allow', 'LET', 'countenance', 'get', 'Lashkar-e-Tayyiba', 'Lashkar-e-Taiba', 'have', 'Lashkar-e-Toiba', 'permit', 'lease', 'Army_of_the_Pure', 'Army_of_the_Righteous', 'let', 'rent', 'net_ball']",The Moon and the Thorn.
+caught,"['take_in', 'see', 'take_hold_of', 'enamour', 'pick_up', 'watch', 'trance', 'bewitch', 'captivate', 'overtake', 'beguile', 'catch', 'arrest', 'overhear', 'get', 'entrance', 'becharm', 'catch_up_with', 'view', 'grab', 'enchant', 'fascinate', 'trip_up', 'capture', 'hitch', 'charm', 'enamor']",The Moon and the Thorn.
+Everything,[],The Moon and the Thorn.
+clattered,"['clatter', 'brattle', 'clack']",The Moon and the Thorn.
+Feeling,"['finger', 'experience', 'flavour', 'notion', 'look', 'smell', 'tactual_sensation', 'opinion', 'tone', 'feeling', 'find', 'feel', 'intuitive_feeling', 'spirit', 'sense', 'flavor', 'belief', 'impression', 'touch', 'tactile_sensation', 'palpate', 'touch_sensation']",The Moon and the Thorn.
+bit,"['number', 'chip', 'sting', 'scrap', 'moment', 'piece', 'morsel', 'snatch', 'second', 'flake', 'minute', 'bite', 'mo', 'burn', 'seize_with_teeth', 'prick', 'act', 'bit', 'fleck', 'spot', 'turn', 'routine']",The Moon and the Thorn.
+come,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",The Moon and the Thorn.
+pleased,"['please', 'proud_of', 'pleased', 'delight']",The Moon and the Thorn.
+thrusting,"['poke', 'stuff', 'pierce', 'shove', 'force', 'throw', 'jab', 'jabbing', 'thrusting', 'squeeze', 'poking', 'hurtle', 'thrust', 'hurl', 'lunge', 'push_up']",The Moon and the Thorn.
+.,[],The Moon and the Thorn.
+captain,"['senior_pilot', 'skipper', ""maitre_d'"", 'police_chief', 'sea_captain', 'police_captain', 'master', 'chieftain', 'headwaiter', ""maitre_d'hotel"", 'captain']",The Moon and the Thorn.
+takin',[],The Moon and the Thorn.
+baby,"['cocker', 'featherbed', 'indulge', 'cosset', 'child', 'pamper', 'mollycoddle', 'sister', 'spoil', 'babe', 'infant', 'coddle', 'baby']",The Moon and the Thorn.
+nice,"['nice', 'dainty', 'decent', 'Nice', 'courteous', 'gracious', 'skillful', 'prissy', 'overnice', 'squeamish']",The Moon and the Thorn.
+when,[],The Moon and the Thorn.
+wife,"['wife', 'married_woman']",The Moon and the Thorn.
+up,"['up', 'astir', 'upward', 'improving', 'upwardly', 'upwards']",The Moon and the Thorn.
+next,"['succeeding', 'next', 'future', 'following', 'adjacent', 'side_by_side']",The Moon and the Thorn.
+always,"['ever', 'always', 'perpetually', ""e'er"", 'forever', 'constantly', 'incessantly', 'invariably']",The Moon and the Thorn.
+bedstraw,['bedstraw'],The Moon and the Thorn.
+does,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'Energy_Department', 'make_out', 'execute', 'do', 'set', 'Energy', 'exercise', 'dress', 'practice', 'doe', 'DOE', 'coiffe', 'Department_of_Energy', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",The Moon and the Thorn.
+drab-haired,[],The Moon and the Thorn.
+bloom,"['blooming', 'prime', 'flush', 'flower', 'efflorescence', 'bloom_of_youth', 'salad_days', 'bloom', 'blush', 'rosiness', 'peak', 'blossom', 'heyday']",The Moon and the Thorn.
+laugh,"['jape', 'express_joy', 'express_mirth', 'laughter', 'laugh', 'joke', 'gag', 'jest']",The Moon and the Thorn.
+Thank,"['thank', 'give_thanks']",The Moon and the Thorn.
+reasons,"['intellect', 'reason', 'reason_out', 'reasonableness', 'rationality', 'argue', 'understanding', 'conclude', 'cause', 'grounds', 'ground']",The Moon and the Thorn.
+by,"['away', 'by', 'aside', 'past']",The Moon and the Thorn.
+lively,"['resilient', 'full_of_life', 'vital', 'brisk', 'snappy', 'spanking', 'merry', 'live', 'bouncy', 'racy', 'lively', 'springy', 'zippy', 'rattling', 'alert']",The Moon and the Thorn.
+aspects,"['panorama', 'view', 'scene', 'facet', 'look', 'aspect', 'facial_expression', 'face', 'prospect', 'expression', 'vista']",The Moon and the Thorn.
+still,"['distillery', 'stillness', 'even', 'static', 'silent', 'quieten', 'all_the_same', 'even_so', 'inactive', 'calm', 'placid', 'allay', 'still', 'calm_down', 'lull', 'quiet', 'silence', 'tranquil', 'tranquillize', 'yet', 'noneffervescent', 'hush', 'soundless', 'nonetheless', 'notwithstanding', 'shut_up', 'unruffled', 'smooth', 'tranquillise', 'ease', 'stock-still', 'relieve', 'however', 'nevertheless', 'tranquilize', 'motionless', 'hush_up', 'withal']",The Moon and the Thorn.
+mine,['mine'],The Moon and the Thorn.
+reflective,"['pondering', 'musing', 'meditative', 'reflective', 'brooding', 'broody', 'pensive', 'contemplative', 'ruminative']",The Moon and the Thorn.
+),[],The Moon and the Thorn.
+less,"['to_a_lesser_extent', 'LE', 'less', 'lupus_erythematosus']",The Moon and the Thorn.
+blame,"['find_fault', 'blasted', 'damn', 'infernal', 'rap', 'blame', 'damned', 'deuced', 'inculpation', 'charge', 'goddamned', 'darned', 'pick', 'blessed', 'incrimination', 'goddamn', 'goddam', 'blamed', 'fault']",The Moon and the Thorn.
+earth,"['worldly_concern', 'earth', 'globe', 'terra_firma', 'world', 'Earth', 'dry_land', 'land', 'solid_ground', 'ground', 'earthly_concern']",The Moon and the Thorn.
+as,"['A', 'atomic_number_33', 'axerophthol', 'amp', 'American_Samoa', 'type_A', 'adenine', 'as', 'group_A', 'every_bit', 'AS', 'Eastern_Samoa', 'vitamin_A', 'equally', 'deoxyadenosine_monophosphate', 'angstrom', 'a', 'ampere', 'arsenic', 'As', 'angstrom_unit', 'antiophthalmic_factor']",The Moon and the Thorn.
+sprawled,"['straggle', 'sprawl']",The Moon and the Thorn.
+size,"['size_of_it', 'size', 'sizing']",The Moon and the Thorn.
+regarded,"['involve', 'reckon', 'view', 'see', 'regard', 'affect', 'consider']",The Moon and the Thorn.
+walking,"['take_the_air', 'walking', 'walk', 'walk-to']",The Moon and the Thorn.
+Impossible,"['inconceivable', 'unsufferable', 'impossible', 'unacceptable', 'insufferable', 'out_of_the_question', 'unimaginable']",The Moon and the Thorn.
+went,"['plump', 'break_down', 'endure', 'go_away', 'perish', 'kick_the_bucket', 'get_going', 'live', 'die', ""cash_in_one's_chips"", 'croak', 'function', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'blend_in', 'expire', 'operate', 'hold_out', 'pass_away', 'work', 'last', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'conk', 'lead', 'blend', 'go', 'sound', 'survive', 'drop_dead', 'extend', 'snuff_it', 'start', 'rifle', 'fail', 'choke', 'give_out', 'travel', 'give_way']",The Moon and the Thorn.
+dryly,"['drily', 'dryly', 'laconically']",The Moon and the Thorn.
+morality,"['morality', 'ethics', 'morals', 'ethical_motive']",The Moon and the Thorn.
+light,"['light_up', 'spark', 'ignitor', 'lightheaded', 'light-headed', 'luminance', 'lite', 'calorie-free', 'easy', 'Christ_Within', 'igniter', 'clear', 'sparkle', 'Inner_Light', 'faint', 'light_source', 'light-colored', 'visible_radiation', 'ignite', 'lightness', 'twinkle', 'perch', 'get_down', 'short', 'idle', 'illume', 'loose', 'illuminate', 'wanton', 'illumine', 'tripping', 'luminousness', 'light', 'unhorse', 'weak', 'lighting', 'lightly', 'alight', 'scant', 'fall', 'visible_light', 'brightness', 'unaccented', 'abstemious', 'sluttish', 'Light_Within', 'swooning', 'wakeful', 'illumination', 'Light', 'lightsome', 'low-cal', 'fire_up', 'promiscuous', 'unclouded', 'brightness_level', 'dismount', 'clean', 'lighter', 'get_off', 'luminosity']",The Moon and the Thorn.
+I,"['one', 'I', 'iodin', 'atomic_number_53', 'single', 'ace', 'i', 'iodine', 'unity', '1', 'ane']",The Moon and the Thorn.
+honeysuckle,"['meeting_house', 'honeysuckle', 'Australian_honeysuckle', 'coast_banksia', 'Banksia_integrifolia', 'Aquilegia_canadensis']",The Moon and the Thorn.
+stood,"['remain_firm', 'stomach', 'tolerate', 'abide', 'digest', 'endure', 'bear', 'fend', 'place_upright', 'support', 'stand', 'put_up', 'resist', 'stand_up', 'suffer', 'brook', 'stick_out']",The Moon and the Thorn.
+dawn,"['first_light', 'break_of_the_day', 'come_home', 'sunup', 'dayspring', 'break_of_day', 'click', 'morning', 'get_through', 'sink_in', 'cockcrow', 'dawn', 'daybreak', 'sunrise', 'aurora', 'dawning', 'fall_into_place', 'get_across', 'penetrate']",The Moon and the Thorn.
+vague,"['undefined', 'wispy', 'faint', 'vague', 'obscure', 'shadowy', 'dim']",The Moon and the Thorn.
+shuffling,"['mix', 'shamble', 'shuffling', 'make', 'scuffle', 'shuffle', 'ruffle', 'shambling']",The Moon and the Thorn.
+eyes,"['eyes', 'oculus', 'heart', 'eyeball', 'center', 'middle', 'centre', 'optic', 'eye']",The Moon and the Thorn.
+more,"['Thomas_More', 'more', 'to_a_greater_extent', 'Sir_Thomas_More', 'More', 'more_than']",The Moon and the Thorn.
+fallen,"['return', 'decrease', 'settle', 'precipitate', 'go_down', 'diminish', 'fall_down', 'accrue', 'lessen', 'light', 'hang', 'shine', 'fallen', 'fall', 'come_down', 'flow', 'strike', 'pass', 'descend', 'devolve', 'come']",The Moon and the Thorn.
+most,"['nigh', 'virtually', 'about', 'most', 'nearly', 'well-nigh', 'almost', 'near', 'to_the_highest_degree']",The Moon and the Thorn.
+artless,"['artless', 'uncultured', 'ingenuous', 'uncultivated']",The Moon and the Thorn.
+understood,"['understand', 'sympathize', 'empathize', 'sympathise', 'tacit', 'read', 'infer', 'realize', 'interpret', 'translate', 'empathise', 'see', 'realise', 'understood', 'silent']",The Moon and the Thorn.
+subdued,"['quash', 'repress', 'curb', 'crucify', 'conquer', 'subdue', 'subordinate', 'chasten', 'get_over', 'quiet', 'master', 'suppress', 'low-key', 'soft', 'tame', 'overcome', 'surmount', 'hushed', 'low-keyed', 'subdued', 'keep_down', 'dim', 'reduce', 'mortify', 'stamp_down', 'inhibit', 'muted', 'subjugate']",The Moon and the Thorn.
+into,[],The Moon and the Thorn.
+my,[],The Moon and the Thorn.
+gathering,"['conglomerate', 'meet', 'amass', 'foregather', 'pull_together', 'collect', 'assemble', 'get_together', 'garner', 'pile_up', 'accumulate', 'tuck', 'cumulate', 'pucker', 'assemblage', 'gather', 'assembly', 'gathering', 'forgather', 'gain']",The Moon and the Thorn.
+an,"['Associate_in_Nursing', 'AN']",The Moon and the Thorn.
+remember,"['remember', 'recollect', 'commend', 'think', 'commemorate', 'think_of', 'think_back', 'recall', 'call_back', 'call_up', 'retrieve']",The Moon and the Thorn.
+growing,"['spring_up', 'uprise', 'development', 'arise', 'originate', 'raise', 'grow', 'maturation', 'ontogeny', 'acquire', 'growth', 'maturate', 'develop', 'ontogenesis', 'get', 'rise', 'growing', 'produce', 'mature', 'turn', 'farm']",The Moon and the Thorn.
+beat,"['pound', 'outwit', 'bushed', 'tick', 'wash_up', 'dumbfound', 'beat_up', 'nonplus', 'heartbeat', 'stupefy', 'dead', 'shell', 'beatnik', 'round', 'vex', 'thump', 'scramble', 'exhaust', 'pulsation', 'stick', 'ticktock', 'bewilder', 'beat_out', 'ticktack', 'tucker_out', 'tucker', 'meter', 'outsmart', 'all_in', 'metre', 'get', 'rhythm', 'baffle', 'work_over', 'outfox', 'gravel', 'vanquish', 'amaze', 'mystify', 'flap', 'circumvent', 'pose', 'quiver', 'pulse', 'cadence', 'pulsate', 'puzzle', 'flummox', 'beat', 'thrum', 'overreach', 'musical_rhythm', 'perplex', 'drum', 'trounce', 'bunk', 'crush', 'measure']",The Moon and the Thorn.
+scanty,"['scanty', 'pantie', 'spare', 'bare', 'panty', 'step-in']",The Moon and the Thorn.
+acknowledgments,"['acknowledgment', 'recognition', 'quotation', 'citation', 'reference', 'acknowledgement', 'cite', 'credit', 'mention']",The Moon and the Thorn.
+--,[],The Moon and the Thorn.
+downstairs,"['down_the_stairs', 'downstair', 'downstairs', 'below', 'on_a_lower_floor']",The Moon and the Thorn.
+actions,"['sue', 'action', 'activity', 'action_at_law', 'process', 'activeness', 'natural_action', 'military_action', 'legal_action', 'litigate', 'carry_through', 'execute', 'action_mechanism', 'accomplish', 'carry_out', 'fulfill', 'natural_process', 'fulfil']",The Moon and the Thorn.
+leaving,"['get_out', 'leave_alone', 'departure', 'go_away', 'entrust', 'allow_for', 'exit', 'go_out', 'pull_up_stakes', 'go_forth', 'impart', 'allow', 'leave', 'provide', 'depart', 'going', 'going_away', 'will', 'pass_on', 'bequeath', 'forget', 'leave_behind', 'lead', 'result', 'give', 'leaving']",The Moon and the Thorn.
+dam',[],The Moon and the Thorn.
+gave,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",The Moon and the Thorn.
+taking,"['claim', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'pickings', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'rent', 'fill', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'drive', 'train', 'take_on', 'fetching', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'get_hold_of', 'film', 'take', 'lead', 'remove', 'study', 'read', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'winning', 'shoot', 'taking', 'need']",The Moon and the Thorn.
+cheerfully,['cheerfully'],The Moon and the Thorn.
+graveyard,"['burial_ground', 'necropolis', 'memorial_park', 'burial_site', 'burying_ground', 'cemetery', 'graveyard']",The Moon and the Thorn.
+hope,"['Leslie_Townes_Hope', 'Hope', 'hope', 'promise', 'go_for', 'trust', 'Bob_Hope', 'desire']",The Moon and the Thorn.
+yesterday,['yesterday'],The Moon and the Thorn.
+limp,"['hobble', 'limp', 'hitch', 'wilted', 'gimp']",The Moon and the Thorn.
+Go,"['crack', 'plump', 'break_down', 'endure', 'go_away', 'perish', 'choke', 'kick_the_bucket', 'go_game', 'live', 'die', 'get_going', ""cash_in_one's_chips"", 'croak', 'function', 'whirl', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'cristal', 'blend_in', 'expire', 'disco_biscuit', 'operate', 'tour', 'spell', 'hug_drug', 'hold_out', 'pass_away', 'work', 'last', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'offer', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'conk', 'Adam', 'lead', 'give_out', 'ecstasy', 'start', 'blend', 'go', 'turn', 'X', 'sound', 'extend', 'survive', 'fling', 'drop_dead', 'snuff_it', 'XTC', 'rifle', 'fail', 'travel', 'give_way']",The Moon and the Thorn.
+look,"['take_care', 'flavour', 'calculate', 'look', 'bet', 'see', 'smell', 'search', 'tone', 'expect', 'appear', 'reckon', 'feeling', 'face', 'depend', 'count', 'front', 'feel', 'spirit', 'attend', 'facial_expression', 'flavor', 'wait', 'seem', 'expression', 'aspect', 'await', 'looking', 'looking_at']",The Moon and the Thorn.
+days,"['Day', 'daylight', 'twenty-four_hour_period', 'years', 'sidereal_day', 'Clarence_Day', 'day', 'days', '24-hour_interval', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'solar_day', 'daytime', 'twenty-four_hours']",The Moon and the Thorn.
+wall,"['rampart', 'fence_in', 'surround', 'palisade', 'fence', 'paries', 'bulwark', 'wall']",The Moon and the Thorn.
+once,"['erst', 'one_time', 'formerly', 'erstwhile', 'at_one_time', 'once', 'in_one_case']",The Moon and the Thorn.
+Island,['island'],The Moon and the Thorn.
+lay,"['put', 'lay', 'place', 'lie', 'laic', 'consist', 'secular', 'put_down', 'repose', 'ballad', 'set', 'dwell', 'rest', 'lie_in', 'lie_down', 'pose', 'position']",The Moon and the Thorn.
+about,"['nigh', 'around', 'virtually', 'about', 'astir', 'approximately', 'roughly', 'most', 'nearly', 'well-nigh', 'close_to', 'or_so', 'almost', 'more_or_less', 'some', 'near', 'just_about']",The Moon and the Thorn.
+profound,"['fundamental', 'profound', 'wakeless', 'heavy', 'unsounded', 'sound', 'unplumbed', 'unfathomed']",The Moon and the Thorn.
+Delia,[],The Moon and the Thorn.
+Tredding,[],The Moon and the Thorn.
+hoping,"['hope', 'go_for', 'trust', 'hop', 'hop-skip', 'skip', 'desire']",The Moon and the Thorn.
+window,"['window', 'windowpane']",The Moon and the Thorn.
+Cotter's,[],The Moon and the Thorn.
+kind,"['form', 'sort', 'variety', 'genial', 'kind', 'tolerant']",The Moon and the Thorn.
+black,"['inkiness', 'grim', 'blackamoor', 'melanize', 'bootleg', 'inglorious', 'Shirley_Temple_Black', 'mordant', 'lightlessness', 'Black_person', 'shameful', 'smutty', 'pitch-black', 'black-market', 'Negro', 'nigrify', 'Black', 'blackness', 'smuggled', 'pitch-dark', 'black', 'blackened', 'Joseph_Black', 'contraband', 'bleak', 'ignominious', 'dark', 'Negroid', 'fatal', 'dim', 'disgraceful', 'Shirley_Temple', 'fateful', 'calamitous', 'opprobrious', 'pitch_blackness', 'sinister', 'blacken', 'melanise', 'total_darkness', 'disastrous']",The Moon and the Thorn.
+last,"['endure', 'live', 'lowest', 'finis', 'hold_up', 'concluding', 'terminal', 'finally', 'net', 'hold_out', 'last', 'death', 'utmost', 'conclusion', 'lastly', 'finale', ""cobbler's_last"", 'live_on', 'in_conclusion', 'last-place', 'end', 'final_stage', 'close', 'stopping_point', 'finish', 'go', 'survive', ""shoemaker's_last"", 'final']",The Moon and the Thorn.
+leave,"['get_out', 'leave_alone', 'go_away', 'entrust', 'allow_for', 'exit', 'go_out', 'pull_up_stakes', 'go_forth', 'impart', 'allow', 'leave', 'provide', 'depart', 'leave-taking', 'will', 'pass_on', 'farewell', 'bequeath', 'forget', 'leave_behind', 'lead', 'parting', 'result', 'give', 'leave_of_absence']",The Moon and the Thorn.
+cruelty,"['inhuman_treatment', 'pitilessness', 'cruelty', 'harshness', 'ruthlessness', 'cruelness', 'mercilessness']",The Moon and the Thorn.
+pink,"['rap', 'pink', 'tap', 'knock', 'pinko', 'garden_pink', 'pinkish', 'ping']",The Moon and the Thorn.
+answered,"['respond', 'serve', 'suffice', 'do', 'resolve', 'answer', 'reply']",The Moon and the Thorn.
+tiny,"['petite', 'lilliputian', 'tiny', 'diminutive', 'flyspeck', 'bantam', 'midget']",The Moon and the Thorn.
+forepaws,['forepaw'],The Moon and the Thorn.
+sea-damp,[],The Moon and the Thorn.
+swelling,"['intumesce', 'gibbosity', 'prominence', 'intumescence', 'protuberance', 'swell_up', 'tumefy', 'excrescence', 'bulge', 'hump', 'swell', 'well', 'puffiness', 'swelling', 'well_up', 'bump', 'protrusion', 'lump', 'gibbousness', 'extrusion', 'puff_up', 'tumesce', 'intumescency', 'jut']",The Moon and the Thorn.
+way,"['mode', 'way_of_life', 'fashion', 'room', 'way', 'style', 'agency', 'right_smart', 'manner', 'means', 'path', 'elbow_room', 'direction']",The Moon and the Thorn.
+drink,"['beverage', 'tope', 'booze', 'imbibe', 'boozing', 'drink_in', 'pledge', 'salute', 'drunkenness', 'wassail', 'drinkable', 'drink', 'toast', 'drinking', 'potable', 'swallow', 'deglutition', 'fuddle', 'crapulence']",The Moon and the Thorn.
+School,"['schoolhouse', 'civilize', 'cultivate', 'school', 'school_day', 'train', 'schooltime', 'shoal', 'civilise', 'schooling', 'educate']",The Moon and the Thorn.
+old,"['honest-to-god', 'former', 'sometime', 'erstwhile', 'older', 'quondam', 'honest-to-goodness', 'sure-enough', 'old', 'previous', 'onetime', 'Old', 'one-time']",The Moon and the Thorn.
+play,"['shimmer', 'playact', 'dally', 'bring', 'bet', 'meet', 'sport', 'frolic', 'spiel', 'trifle', 'wreak', 'maneuver', 'swordplay', 'romp', 'recreate', ""child's_play"", 'dramatic_play', 'encounter', 'looseness', 'manoeuvre', 'gambol', 'playing_period', 'toy', 'work', 'diddle', 'represent', 'take_on', 'drama', 'play', 'roleplay', 'act_as', 'make_for', 'gaming', 'flirt', 'run', 'fiddle', 'act', 'wager', 'gambling', 'free_rein', 'turn', 'fun', 'period_of_play', 'bid', 'caper']",The Moon and the Thorn.
+corruption,"['subversion', 'depravation', 'rottenness', 'putridness', 'corruptness', 'putrescence', 'putrefaction', 'corruption', 'depravity', 'degeneracy']",The Moon and the Thorn.
+pilgrim,"['pilgrim', 'Pilgrim', 'Pilgrim_Father']",The Moon and the Thorn.
+apron,"['forestage', 'proscenium', 'apron']",The Moon and the Thorn.
+condemned,"['sentence', 'condemn', 'doom', 'decry', 'reprobate', 'excoriate', 'objurgate']",The Moon and the Thorn.
+it,"['IT', 'information_technology']",The Moon and the Thorn.
+Now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",The Moon and the Thorn.
+Ran,"['escape', 'range', 'track_down', 'endure', 'draw', 'run_for', 'turn_tail', 'break_away', 'function', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'lam', 'operate', 'execute', 'persist', 'run_away', 'work', 'consort', 'melt', 'ply', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'carry', 'play', 'incline', 'prevail', 'pass', 'run', 'tend', 'bleed', 'hunt', 'lead', 'campaign', 'hunt_down', 'scarper', 'take_to_the_woods', 'go', 'die_hard', 'lean', 'ladder', 'extend', 'head_for_the_hills', 'bunk']",The Moon and the Thorn.
+How,[],The Moon and the Thorn.
+easier,"['comfortable', 'light', 'well-off', 'leisurely', 'easy', 'prosperous', 'gentle', 'promiscuous', 'easygoing', 'well-fixed', 'well-heeled', 'loose', 'sluttish', 'wanton', 'well-to-do', 'well-situated', 'soft']",The Moon and the Thorn.
+wet,"['plastered', 'pixilated', 'cockeyed', 'sloshed', 'loaded', 'besotted', 'fuddled', 'smashed', 'tight', 'blotto', 'slopped', 'soused', 'moisture', 'pie-eyed', 'lactating', 'pissed', 'blind_drunk', 'wet', 'sozzled', 'stiff', 'crocked', 'soaked', 'squiffy']",The Moon and the Thorn.
+No,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",The Moon and the Thorn.
+doubtfully,"['doubtfully', 'dubiously']",The Moon and the Thorn.
+grass,"['pot', 'betray', 'smoke', 'pasture', 'supergrass', 'Gunter_Wilhelm_Grass', 'sens', 'green_goddess', 'stag', 'grass_over', 'shop', 'snitch', 'gage', 'pasturage', 'forage', 'Grass', 'Gunter_Grass', 'tell_on', 'Mary_Jane', 'sess', 'weed', 'eatage', 'rat', 'grass', 'skunk', 'give_away', 'denounce', 'dope', 'locoweed', 'shit']",The Moon and the Thorn.
+buffeted,"['buffet', 'storm-tossed', 'tempest-swept', 'buffeted', 'knock_about', 'tempest-tossed', 'batter', 'buff', 'tempest-tost']",The Moon and the Thorn.
+You'll,[],The Moon and the Thorn.
+slow,"['easy', 'dense', 'irksome', 'tiresome', 'slow_up', 'retard', 'slack', 'ho-hum', 'tedious', 'sluggish', 'tardily', 'dumb', 'decelerate', 'behind', 'wearisome', 'dim', 'boring', 'slacken', 'slowly', 'slow', 'obtuse', 'slow_down', 'deadening', 'dull']",The Moon and the Thorn.
+tissues,"['tissue', 'weave', 'tissue_paper']",The Moon and the Thorn.
+grown,"['spring_up', 'uprise', 'big', 'full-grown', 'adult', 'arise', 'originate', 'raise', 'grow', 'acquire', 'maturate', 'develop', 'get', 'fully_grown', 'grownup', 'rise', 'produce', 'mature', 'turn', 'grown', 'farm']",The Moon and the Thorn.
+plan,"['design', 'architectural_plan', 'contrive', 'project', 'plan', 'be_after', 'program', 'programme']",The Moon and the Thorn.
+duty,"['tariff', 'duty', 'obligation', 'responsibility']",The Moon and the Thorn.
+away,"['forth', 'aside', 'outside', 'off', 'away', 'out', 'by']",The Moon and the Thorn.
+decidedly,"['unquestionably', 'by_all_odds', 'decidedly', 'definitely', 'emphatically', 'in_spades']",The Moon and the Thorn.
+inside,"['indoors', 'at_bottom', 'privileged', 'inside', 'inner', 'within', 'inwardly', 'deep_down', 'in_spite_of_appearance', 'at_heart', 'interior']",The Moon and the Thorn.
+blossoms,"['prime', 'flush', 'flower', 'unfold', 'efflorescence', 'blossom_forth', 'bloom', 'heyday', 'peak', 'blossom', 'blossom_out']",The Moon and the Thorn.
+true,"['unfeigned', 'dependable', 'on-key', 'true_up', 'lawful', 'admittedly', 'avowedly', 'honest', 'reliable', 'genuine', 'straight', 'true', 'rightful', 'dead_on_target', 'truthful', 'confessedly']",The Moon and the Thorn.
+graveyards,"['burial_ground', 'necropolis', 'memorial_park', 'burial_site', 'burying_ground', 'cemetery', 'graveyard']",The Moon and the Thorn.
+fetes,"['celebrate', 'festival', 'fiesta', 'feast', 'fete']",The Moon and the Thorn.
+day's,[],The Moon and the Thorn.
+prayerful,['prayerful'],The Moon and the Thorn.
+their,[],The Moon and the Thorn.
+is,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Moon and the Thorn.
+remembered,"['remember', 'recollect', 'commend', 'think', 'commemorate', 'think_of', 'think_back', 'recall', 'call_back', 'call_up', 'retrieve']",The Moon and the Thorn.
+straightened,"['straighten', 'unbend', 'neaten', 'square_away', 'tidy_up', 'tidy', 'straighten_out', 'clean_up', 'roll_out']",The Moon and the Thorn.
+indeed,"['so', 'indeed']",The Moon and the Thorn.
+month,"['calendar_month', 'month']",The Moon and the Thorn.
+at,"['atomic_number_85', 'At', 'at', 'astatine']",The Moon and the Thorn.
+announcing,"['declare', 'foretell', 'herald', 'annunciate', 'harbinger', 'denote', 'announce']",The Moon and the Thorn.
+inhabitants,"['inhabitant', 'indweller', 'denizen', 'dweller', 'habitant']",The Moon and the Thorn.
+sounds,"['strait', 'audio', 'speech_sound', 'voice', 'vocalize', 'fathom', 'go', 'sound', 'auditory_sensation', 'phone', 'vocalise']",The Moon and the Thorn.
+told,"['recite', 'order', 'say', 'severalize', 'secern', 'differentiate', 'tell_apart', 'narrate', 'separate', 'evidence', 'recount', 'severalise', 'tell', 'assure', 'state', 'distinguish', 'secernate', 'enjoin']",The Moon and the Thorn.
+pointer,"['Spanish_pointer', 'arrow', 'cursor', 'pointer']",The Moon and the Thorn.
+walked,"['take_the_air', 'walk']",The Moon and the Thorn.
+circumspect,"['discreet', 'circumspect']",The Moon and the Thorn.
+Rummaging,['rummage'],The Moon and the Thorn.
+sleeping,"['sleeping', 'sleep', ""catch_some_Z's"", 'dormant', 'slumber', 'kip', 'quiescency', ""log_Z's"", 'dormancy', 'quiescence']",The Moon and the Thorn.
+supervising,"['supervising', 'oversight', 'supervise', 'superintendence', 'supervision', 'monitor', 'oversee', 'superintend', 'manage']",The Moon and the Thorn.
+were,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Moon and the Thorn.
+being,"['constitute', 'existence', 'equal', 'being', 'organism', 'embody', 'comprise', 'cost', 'represent', 'make_up', 'live', 'be', 'exist', 'beingness', 'follow', 'personify']",The Moon and the Thorn.
+text,"['textual_matter', 'text_edition', 'textbook', 'text', 'schoolbook', 'school_text']",The Moon and the Thorn.
+Blackwell,[],The Moon and the Thorn.
+tame,"['subdue', 'reclaim', 'chasten', 'tame', 'meek', 'naturalize', 'domesticize', 'tone_down', 'naturalise', 'domesticise', 'tamed', 'domesticate', 'cultivate', 'moderate']",The Moon and the Thorn.
+say,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",The Moon and the Thorn.
+field,"['playing_field', 'athletic_field', 'bailiwick', 'field_of_force', 'field_of_operations', 'landing_field', 'field_of_honor', 'orbit', 'flying_field', 'airfield', 'theater_of_operations', 'battleground', 'battlefield', 'field_of_study', 'plain', 'domain', 'line_of_business', 'theater', 'area', 'field_of_operation', 'field_of_view', 'field', 'discipline', 'playing_area', 'field_of_battle', 'theatre_of_operations', 'subject_area', 'sphere', 'champaign', 'study', 'subject', 'theatre', 'subject_field', 'force_field', 'arena']",The Moon and the Thorn.
+pin,"['immobilize', 'stick', 'pivot', 'flag', 'thole', 'pin', 'PIN', 'fall', 'rowlock', 'PIN_number', 'peg', 'bowling_pin', 'pin_tumbler', 'oarlock', 'tholepin', 'personal_identification_number', 'trap', 'immobilise']",The Moon and the Thorn.
+much,"['a_great_deal', 'practically', 'much', 'lots', 'often', 'a_lot', 'very_much', 'a_good_deal']",The Moon and the Thorn.
+heaven,"['paradise', 'heaven', 'Heaven', 'Shangri-la', 'Eden', 'promised_land', 'nirvana']",The Moon and the Thorn.
+Craddock,[],The Moon and the Thorn.
+Great,"['large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'dandy', 'peachy', 'expectant', 'smashing', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",The Moon and the Thorn.
+fell,"['return', 'savage', 'fly', 'decrease', 'roughshod', 'vicious', 'hide', 'settle', 'precipitate', 'go_down', 'diminish', 'fall_down', 'vanish', 'accrue', 'strike_down', 'lessen', 'light', 'felled_seam', 'hang', 'shine', 'fall', 'cut_down', 'fell', 'drop', 'come_down', 'flow', 'strike', 'pass', 'barbarous', 'descend', 'devolve', 'brutal', 'come', 'cruel']",The Moon and the Thorn.
+hospitality,"['hospitality', 'cordial_reception']",The Moon and the Thorn.
+watching,"['take_in', 'see', 'keep_an_eye_on', 'watch', 'catch', 'find_out', 'look_out', 'observation', 'ascertain', 'view', 'watching', 'determine', 'check', 'watch_out', 'observance', 'observe', 'watch_over', 'learn', 'follow', 'look_on']",The Moon and the Thorn.
+myself,[],The Moon and the Thorn.
+blue,"['risque', 'dismal', 'puritanical', 'dispirited', 'down', 'disconsolate', 'sorry', 'low', 'blasphemous', 'bluing', 'aristocratic', 'aristocratical', 'low-spirited', 'patrician', 'drab', 'amobarbital_sodium', 'racy', 'depressed', 'blue_angel', 'blue_sky', 'profane', 'blueish', 'gamy', 'Amytal', 'juicy', 'drear', 'blue-blooded', 'blueing', 'down_in_the_mouth', 'naughty', 'dark', 'wild_blue_yonder', 'blue_devil', 'bluish', 'blueness', 'blue', 'dreary', 'puritanic', 'spicy', 'gloomy', 'gamey', 'downcast', 'gentle', 'downhearted', 'grim', 'blue_air', 'dingy']",The Moon and the Thorn.
+sang,"['tattle', 'peach', 'blab', 'let_the_cat_out_of_the_bag', 'blab_out', 'sing', 'talk', 'babble', 'spill_the_beans', 'American_ginseng', 'whistle', 'sang', 'Panax_quinquefolius', 'babble_out']",The Moon and the Thorn.
+ground,"['primer_coat', 'cranch', 'run_aground', 'craunch', 'bray', 'strand', 'base', 'dry_land', 'grind', 'solid_ground', 'prime', 'earth', 'primer', 'moil', 'comminute', 'grate', 'mash', 'priming', 'soil', 'crunch', 'labor', 'labour', 'travail', 'undercoat', 'found', 'flat_coat', 'dig', 'ground', 'background', 'anchor', 'basis', 'reason', 'terra_firma', 'priming_coat', 'establish', 'land', 'drudge', 'fag', 'footing', 'toil']",The Moon and the Thorn.
+sitting,"['sit_down', 'sitting', 'posture', 'model', 'session', 'posing', 'baby-sit', 'seat', 'sit', 'seated', 'sit_around', 'pose', 'seance', 'ride']",The Moon and the Thorn.
+said,"['order', 'say', 'aver', 'said', 'allege', 'aforementioned', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'aforesaid', 'enjoin']",The Moon and the Thorn.
+take,"['claim', 'return', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'issue', 'fill', 'rent', 'payoff', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'takings', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'yield', 'proceeds', 'get_hold_of', 'take', 'lead', 'film', 'remove', 'read', 'study', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",The Moon and the Thorn.
+home,"['home_plate', 'place', 'menage', 'rest_home', 'base', 'domicile', 'household', 'home_base', 'dwelling', 'habitation', 'house', 'nursing_home', 'abode', 'internal', 'interior', 'dwelling_house', 'national', 'home', 'plate', 'family']",The Moon and the Thorn.
+gentle,"['lenify', 'easy', 'mollify', 'entitle', 'conciliate', 'aristocratic', 'aristocratical', 'docile', 'soft', 'blue-blooded', 'appease', 'assuage', 'blue', 'pacify', 'ennoble', 'gruntle', 'gentle', 'placate', 'patrician']",The Moon and the Thorn.
+Blackwells,[],The Moon and the Thorn.
+clean,"['clean_house', 'blank', 'clear', 'fresh', 'clean_and_jerk', 'fair', 'fairly', 'uninfected', 'cleanse', 'pick', 'light', 'make_clean', 'uncontaminating', 'houseclean', 'sporting', 'scavenge', 'sporty', 'sportsmanlike', 'plum', 'unobjectionable', 'strip', 'plumb', 'unclouded', 'white', 'clean', 'clean-living', 'neat']",The Moon and the Thorn.
+land,"['commonwealth', 'Edwin_Herbert_Land', 'demesne', 'bring', 'shoot_down', 'dry_land', 'down', 'solid_ground', 'earth', 'set_down', 'estate', 'body_politic', 'landed_estate', 'state', 'domain', 'soil', 'country', 'set_ashore', 'acres', 'put_down', 'Din_Land', 'farming', 'ground', 'realm', 'shore', 'Land', 'terra_firma', 'land', 'kingdom', 'bring_down', 'nation', 'res_publica']",The Moon and the Thorn.
+comfort,"['quilt', 'consolation', 'soothe', 'comfortableness', 'console', 'comforter', 'solace', 'comfort', 'ease', 'puff']",The Moon and the Thorn.
+princess-in-a-carriage,[],The Moon and the Thorn.
+thin,"['slim', 'reduce', 'slight', 'cut', 'sparse', 'thinly', 'fragile', 'melt_off', 'tenuous', 'slenderize', 'flimsy', 'dilute', 'lean', 'thin_out', 'lose_weight', 'slender', 'thin', 'slim_down']",The Moon and the Thorn.
+slipped,"['dislocate', 'slew', 'slip', 'slide', 'drop_away', 'drop_off', 'luxate', 'mistake', 'sneak', 'skid', 'fall_away', 'splay', ""slip_one's_mind"", 'slue', 'steal', 'err']",The Moon and the Thorn.
+one,"['one', '1', 'unrivalled', 'I', 'unrivaled', 'unmatched', 'one_and_only', 'peerless', 'single', 'matchless', 'nonpareil', 'i', 'unitary', 'unmatchable', 'unity', 'ace', 'ane']",The Moon and the Thorn.
+Leaning,"['tendency', 'proclivity', 'propensity', 'tip', 'leaning', 'list', 'slant', 'angle', 'inclination', 'be_given', 'incline', 'tilted', 'run', 'tend', 'atilt', 'canted', 'tipped', 'lean', 'tilt']",The Moon and the Thorn.
+fellow,"['fellow', 'familiar', 'swain', 'comrade', 'chap', 'gent', 'confrere', 'companion', 'beau', 'cuss', 'mate', 'buster', 'boyfriend', 'feller', 'dude', 'young_man', 'bloke', 'colleague', 'fella', 'blighter', 'associate', 'lad']",The Moon and the Thorn.
+brought,"['bring_in', 'get', 'lend', 'bestow', 'add', 'take', 'wreak', 'bring', 'convey', 'contribute', 'fetch', 'land', 'institute', 'play', 'make_for', 'impart', 'work']",The Moon and the Thorn.
+bed,"['crawl_in', 'be_intimate', 'roll_in_the_hay', 'go_to_bed', 'sleep_together', 'bed', 'screw', 'kip_down', 'have_it_off', 'do_it', 'turn_in', 'retire', 'make_love', 'have_sex', 'hit_the_hay', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'go_to_sleep', 'hump', 'layer', 'bang', 'know', 'get_it_on', 'get_laid', 'jazz', 'have_a_go_at_it', 'seam', 'love', 'bottom', 'hit_the_sack', 'sleep_with', 'eff', 'have_intercourse', 'sack_out']",The Moon and the Thorn.
+protective,['protective'],The Moon and the Thorn.
+forgiven,['forgive'],The Moon and the Thorn.
+something,[],The Moon and the Thorn.
+exactly,"['incisively', 'exactly', 'just', 'on_the_button', 'on_the_dot', 'on_the_nose', 'precisely']",The Moon and the Thorn.
+tomb,"['tomb', 'grave']",The Moon and the Thorn.
+else,[],The Moon and the Thorn.
+how,[],The Moon and the Thorn.
+quite,"['quite_an', 'quite', 'rather', 'quite_a']",The Moon and the Thorn.
+idea,"['estimation', 'approximation', 'estimate', 'musical_theme', 'theme', 'thought', 'melodic_theme', 'mind', 'idea']",The Moon and the Thorn.
+Hetty's,[],The Moon and the Thorn.
+class,"['form', 'course', 'social_class', 'year', 'sort', 'separate', 'course_of_instruction', 'classify', 'sort_out', 'category', 'assort', 'socio-economic_class', 'course_of_study', 'division', 'family', 'class', 'stratum', 'grade']",The Moon and the Thorn.
+jocular,"['jesting', 'jocose', 'joking', 'jocosely', 'jocular']",The Moon and the Thorn.
+someone,"['individual', 'mortal', 'soul', 'person', 'somebody', 'someone']",The Moon and the Thorn.
+alive,"['awake', 'alive', 'live', 'animated', 'active', 'alert']",The Moon and the Thorn.
+grow,"['maturate', 'develop', 'grow', 'spring_up', 'get', 'uprise', 'produce', 'acquire', 'mature', 'turn', 'arise', 'rise', 'farm', 'originate', 'raise']",The Moon and the Thorn.
+censure,"['reprimand', 'censure', 'exclusion', 'excommunication', 'animadversion', 'criminate']",The Moon and the Thorn.
+because,[],The Moon and the Thorn.
+stick,"['sting', 'reefer', 'adhere', 'spliff', 'stick_by', 'dumbfound', 'deposit', 'nonplus', 'stupefy', 'stand_by', 'vex', 'stick', 'cleave', 'cohere', 'stay', 'lodge', 'stick_to', 'get', 'bond', 'hold_fast', 'baffle', 'gravel', 'pin', 'bind', 'amaze', 'cling', 'mystify', 'pose', 'joystick', 'marijuana_cigarette', 'puzzle', 'flummox', 'joint', 'beat', 'perplex', 'stick_around', 'wedge', 'peg', 'control_stick', 'stay_put', 'bewilder']",The Moon and the Thorn.
+certain,"['sealed', 'sure', 'certain']",The Moon and the Thorn.
+sun,"['insolate', 'Sunday', 'sun', 'Dominicus', ""Lord's_Day"", 'solarise', 'solarize', 'sunlight', 'Sun', 'sunshine', 'sunbathe']",The Moon and the Thorn.
+repetition,"['repetition', 'repeat', 'repeating']",The Moon and the Thorn.
+liking,"['wish', 'liking', 'like', 'care']",The Moon and the Thorn.
+breakfast,['breakfast'],The Moon and the Thorn.
+senses,"['pot', 'smoke', 'smell', 'sens', 'smell_out', 'green_goddess', 'signified', 'sentience', 'common_sense', 'sentiency', 'feel', 'gage', 'sensation', 'sense', 'horse_sense', 'mother_wit', 'gumption', 'Mary_Jane', 'sess', 'weed', 'sensory_faculty', 'grass', 'skunk', 'good_sense', 'dope', 'locoweed']",The Moon and the Thorn.
+dress,"['garb', 'groom', 'cut_back', 'frock', 'clothe', 'snip', 'coif', 'clip', 'clothes', 'trim', 'dress_out', 'attire', 'tog', 'dress_up', 'full-dress', 'lop', 'set', 'do', 'crop', 'fit_out', 'prune', 'enclothe', 'dress', 'curry', 'habilitate', 'decorate', 'garment', 'wearing_apparel', 'coiffe', 'line_up', 'arrange', 'get_dressed', 'raiment', 'coiffure', 'primp', 'preen', 'plume', 'apparel', 'garnish']",The Moon and the Thorn.
+Doaty's,[],The Moon and the Thorn.
+shops,"['buy_at', 'frequent', 'betray', 'shop_at', 'stag', 'workshop', 'shop', 'snitch', 'patronise', 'tell_on', 'browse', 'sponsor', 'patronize', 'store', 'rat', 'grass', 'shop_class', 'give_away', 'denounce', 'shit']",The Moon and the Thorn.
+across,"['crossways', 'crosswise', 'across']",The Moon and the Thorn.
+only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",The Moon and the Thorn.
+Mama,"['mom', 'mammy', 'ma', 'mum', 'Mama', 'mommy', 'mamma', 'mummy', 'mama', 'momma']",The Moon and the Thorn.
+narrow,"['pin_down', 'narrow-minded', 'constringe', 'narrow_down', 'narrow', 'nail_down', 'contract', 'specialize', 'constrict', 'specify', 'specialise', 'peg_down', 'minute']",The Moon and the Thorn.
+each,"['to_each_one', 'each', 'for_each_one', 'apiece', 'from_each_one']",The Moon and the Thorn.
+himself,[],The Moon and the Thorn.
+found,"['base', 'see', 'rule', 'institute', 'constitute', 'happen', 'notice', 'find', 'encounter', 'find_out', 'incur', 'feel', 'receive', 'get', 'come_up', 'detect', 'ascertain', 'regain', 'get_hold', 'determine', 'found', 'obtain', 'bump', 'chance', 'ground', 'plant', 'recover', 'discover', 'witness', 'observe', 'establish', 'set_up', 'launch', 'line_up', 'find_oneself', 'retrieve']",The Moon and the Thorn.
+well's,[],The Moon and the Thorn.
+parasol,"['parasol', 'sunshade']",The Moon and the Thorn.
+imagine,"['imagine', 'opine', 'envisage', 'reckon', 'conceive_of', 'think', 'suppose', 'ideate', 'guess']",The Moon and the Thorn.
+today,"['today', 'nowadays', 'now']",The Moon and the Thorn.
+Who,"['World_Health_Organization', 'WHO']",The Moon and the Thorn.
+mission,"['delegation', 'missionary_work', 'mission', 'military_mission', 'missionary_station', 'foreign_mission', 'deputation', 'commission', 'charge', 'missionary_post', 'delegacy']",The Moon and the Thorn.
+Beer,['beer'],The Moon and the Thorn.
+under,"['under', 'below', 'nether']",The Moon and the Thorn.
+herself,[],The Moon and the Thorn.
+those,[],The Moon and the Thorn.
+took,"['claim', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'rent', 'fill', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'get_hold_of', 'film', 'take', 'lead', 'remove', 'study', 'read', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",The Moon and the Thorn.
+graves,"['inscribe', 'Graves', 'Robert_Graves', 'grave_accent', 'Robert_Ranke_Graves', 'Stephanie_Graf', 'tomb', 'Graf', 'scratch', 'sculpt', 'grave', 'engrave', 'sculpture', 'Steffi_Graf']",The Moon and the Thorn.
+My,[],The Moon and the Thorn.
+if,[],The Moon and the Thorn.
+color,"['color', 'colorize', 'emblazon', 'distort', 'coloration', 'discolor', 'tinge', 'colouration', 'colorise', 'colourise', 'colouring_material', 'vividness', 'people_of_color', 'coloring_material', 'people_of_colour', 'gloss', 'discolour', 'coloring', 'color_in', 'colouring', 'colour_in', 'colourize', 'colour', 'semblance']",The Moon and the Thorn.
+anyway,"['anyway', 'at_any_rate', 'in_any_case', 'in_any_event', 'anyhow', 'anyways']",The Moon and the Thorn.
+'em,[],The Moon and the Thorn.
+nineties,"['nineties', '1990s', '90', 'XC', 'mid-nineties', 'ninety', '1890s']",The Moon and the Thorn.
+counsel,"['advocate', 'counsel', 'advise', 'counselor-at-law', 'guidance', 'counseling', 'counselor', 'counsellor', 'pleader', 'counselling', 'rede', 'direction']",The Moon and the Thorn.
+une,[],The Moon and the Thorn.
+emphasizing,"['emphasise', 'emphasize', 'accent', 'accentuation', 'emphasizing', 'punctuate', 'underline', 'stress', 'accenting', 'underscore', 'accentuate']",The Moon and the Thorn.
+Charles',[],The Moon and the Thorn.
+?,[],The Moon and the Thorn.
+sky,"['sky', 'flip', 'toss', 'pitch']",The Moon and the Thorn.
+To,[],The Moon and the Thorn.
+covered,"['incubate', 'overlay', 'hide', 'report', 'spread_over', 'wrap_up', 'covered', 'insure', 'cut_through', 'deal', 'track', 'cover_up', 'get_over', 'traverse', 'cross', 'treat', 'encompass', 'hatch', 'breed', 'handle', 'enshroud', 'shroud', 'embrace', 'brood', 'cover', 'compensate', 'get_across', 'underwrite', 'overcompensate', 'continue', 'cut_across', 'address', 'pass_over', 'comprehend', 'extend', 'plow']",The Moon and the Thorn.
+It's,[],The Moon and the Thorn.
+feet,"['metrical_unit', 'infantry', 'animal_foot', 'invertebrate_foot', 'base', 'groundwork', 'fundament', 'understructure', 'human_foot', 'metrical_foot', 'substructure', 'foot', 'foundation', 'pes', 'ft']",The Moon and the Thorn.
+boots,"['iron_heel', 'iron_boot', 'kicking', 'flush', 'boot', 'bring_up', 'the_boot', 'kick', 'bang', 'thrill', 'charge', 'rush', 'reboot']",The Moon and the Thorn.
+friendly,"['favorable', 'well-disposed', 'friendly']",The Moon and the Thorn.
+long,"['long', 'prospicient', 'tenacious', 'farseeing', 'foresighted', 'retentive', 'hanker', 'recollective', 'longsighted', 'yearn', 'foresightful', 'farsighted']",The Moon and the Thorn.
+dad,"['dad', 'pappa', 'papa', 'dada', 'pa', 'daddy', 'pop']",The Moon and the Thorn.
+died,"['break_down', 'perish', 'kick_the_bucket', 'die', ""cash_in_one's_chips"", 'die_out', 'croak', 'exit', 'become_flat', 'buy_the_farm', 'expire', 'pass_away', 'decease', 'conk_out', 'go_bad', 'pall', 'break', 'pass', 'give-up_the_ghost', 'pop_off', 'conk', 'go', 'drop_dead', 'snuff_it', 'give_out', 'choke', 'fail', 'give_way']",The Moon and the Thorn.
+distaste,"['antipathy', 'distaste', 'aversion']",The Moon and the Thorn.
+mother,"['generate', 'get', 'female_parent', 'mother', 'beget', 'sire', 'father', 'overprotect', 'engender', 'bring_forth', 'fuss']",The Moon and the Thorn.
+finding,"['see', 'rule', 'finding', 'happen', 'notice', 'find', 'encounter', 'find_out', 'incur', 'feel', 'determination', 'receive', 'get', 'come_up', 'detect', 'ascertain', 'regain', 'get_hold', 'determine', 'obtain', 'bump', 'chance', 'recover', 'discover', 'witness', 'observe', 'line_up', 'find_oneself', 'retrieve']",The Moon and the Thorn.
+could,[],The Moon and the Thorn.
+her,[],The Moon and the Thorn.
+consisted,"['lie', 'comprise', 'dwell', 'lie_in', 'consist']",The Moon and the Thorn.
+feeling,"['finger', 'experience', 'flavour', 'notion', 'look', 'smell', 'tactual_sensation', 'opinion', 'tone', 'feeling', 'find', 'feel', 'intuitive_feeling', 'spirit', 'sense', 'flavor', 'belief', 'impression', 'touch', 'tactile_sensation', 'palpate', 'touch_sensation']",The Moon and the Thorn.
+tangle,"['mat', 'sweep', 'dishevel', 'drag_in', 'tousle', 'tangle', 'knot', 'entangle', 'embroil', 'snarl', 'maze', 'sweep_up', 'ravel', 'drag']",The Moon and the Thorn.
+His,[],The Moon and the Thorn.
+eating,"['exhaust', 'wipe_out', 'feed', 'eat', 'eating', 'run_through', 'use_up', 'consume', 'eat_on', 'rust', 'feeding', 'deplete', 'eat_up', 'corrode']",The Moon and the Thorn.
+praised,['praise'],The Moon and the Thorn.
+led,"['LED', 'guide', 'contribute', 'conduce', 'head', 'precede', 'leave', 'direct', 'top', 'pass', 'moderate', 'chair', 'run', 'take', 'lead', 'result', 'conduct', 'go', 'light-emitting_diode', 'extend']",The Moon and the Thorn.
+while,"['patch', 'spell', 'piece', 'while']",The Moon and the Thorn.
+Milk,"['Milk', 'milk', 'Milk_River']",The Moon and the Thorn.
+green,"['dark-green', 'common', 'cat_valium', 'viridity', 'light-green', 'jet', 'unripened', 'commons', 'green', 'greens', 'leafy_vegetable', 'Green_River', 'greenness', 'greenish', 'putting_surface', 'unripe', 'gullible', 'K', 'Green', 'park', 'super_C', 'putting_green', 'fleeceable', 'special_K', 'immature', 'super_acid', 'William_Green', 'honey_oil']",The Moon and the Thorn.
+seemed,"['seem', 'appear', 'look']",The Moon and the Thorn.
+head,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",The Moon and the Thorn.
+do,"['make', 'brawl', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'DO', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'Doctor_of_Osteopathy', 'doh', 'coiffe', 'ut', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'bash']",The Moon and the Thorn.
+without,[],The Moon and the Thorn.
+william,[],The Moon and the Thorn.
+Any,"['whatever', 'any', 'whatsoever']",The Moon and the Thorn.
+music,"['music', 'medicine', 'euphony']",The Moon and the Thorn.
+nondescriptly,[],The Moon and the Thorn.
+ahead,"['in_the_lead', 'forward', 'onward', 'ahead', 'beforehand', 'forwards', 'forrader', 'before', 'in_front', 'in_advance', 'out_front', 'onwards', 'leading']",The Moon and the Thorn.
+roots,"['beginning', 'etymon', 'ascendent', 'base', 'settle', 'solution', 'steady_down', 'ascendant', 'tooth_root', 'root', 'stem', 'root_word', 'rout', 'rootle', 'take_root', 'roots', 'rootage', 'origin', 'source', 'settle_down', 'ancestor', 'antecedent', 'theme', 'radical']",The Moon and the Thorn.
+scant,"['light', 'skimp', 'scant', 'short', 'stint']",The Moon and the Thorn.
+man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",The Moon and the Thorn.
+know,"['experience', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'live', 'screw', 'have_it_off', 'do_it', 'cognize', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'acknowledge', 'recognise', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'cognise', 'sleep_with', 'eff', 'recognize', 'have_intercourse']",The Moon and the Thorn.
+gran'dad,[],The Moon and the Thorn.
+permitted,"['countenance', 'tolerate', 'permit', 'let', 'allow']",The Moon and the Thorn.
+!,[],The Moon and the Thorn.
+hungry,"['hungry', 'thirsty', 'athirst']",The Moon and the Thorn.
+Adelia,[],The Moon and the Thorn.
+soon's,[],The Moon and the Thorn.
+It,"['IT', 'information_technology']",The Moon and the Thorn.
+coffin,"['coffin', 'casket']",The Moon and the Thorn.
+revolved,"['roll', 'go_around', 'revolved', 'revolve', 'orb', 'rotated', 'rotate', 'orbit']",The Moon and the Thorn.
+necessary,"['requisite', 'requirement', 'necessary', 'essential', 'necessity']",The Moon and the Thorn.
+suddenly,"['abruptly', 'suddenly', 'short', 'on_the_spur_of_the_moment', 'dead', 'all_of_a_sudden', 'of_a_sudden']",The Moon and the Thorn.
+anything,[],The Moon and the Thorn.
+summer,"['summer', 'summertime']",The Moon and the Thorn.
+Don't,[],The Moon and the Thorn.
+affect,"['involve', 'bear_on', 'sham', 'dissemble', 'move', 'impress', 'strike', 'feign', 'touch_on', 'touch', 'bear_upon', 'affect', 'impact', 'pretend', 'regard']",The Moon and the Thorn.
+first,"['number_one', 'beginning', 'showtime', 'inaugural', 'low', 'maiden', 'first-class_honours_degree', 'for_the_first_time', 'low_gear', 'kickoff', 'first_off', 'first_of_all', 'first_gear', 'initiatory', 'number_1', 'offset', 'get-go', 'initiative', 'world-class', 'outset', 'first_base', 'firstly', 'foremost', 'starting_time', 'start', 'commencement', 'first', '1st']",The Moon and the Thorn.
+memory,"['retentivity', 'computer_storage', 'memory_board', 'retentiveness', 'retention', 'computer_memory', 'memory', 'remembering', 'storage', 'store']",The Moon and the Thorn.
+against,[],The Moon and the Thorn.
+church,"['church_building', 'Christian_church', 'church_service', 'church']",The Moon and the Thorn.
+savage,"['blast', 'savage', 'feral', 'roughshod', 'vicious', 'crucify', 'beast', 'ferine', 'barbarian', 'wolf', 'pillory', 'ferocious', 'wild', 'uncivilized', 'fell', 'furious', 'barbaric', 'wildcat', 'fierce', 'barbarous', 'brute', 'uncivilised', 'brutal', 'cruel']",The Moon and the Thorn.
+Charles,"['Prince_Charles', 'Jacques_Charles', 'Charles', 'Jacques_Alexandre_Cesar_Charles', 'Charlemagne', 'Charles_the_Great', 'Charles_I', 'Charles_Stuart', 'Charles_II', 'Charles_IX', 'Carolus', 'Charles_the_Bald', 'Charles_River', 'Charles_VII']",The Moon and the Thorn.
+soul,"['individual', 'mortal', 'soulfulness', 'soul', 'psyche', 'person', 'somebody', 'someone']",The Moon and the Thorn.
+fearing,"['venerate', 'fear', 'revere', 'reverence', 'dread']",The Moon and the Thorn.
+walls,"['rampart', 'fence_in', 'surround', 'palisade', 'fence', 'paries', 'bulwark', 'wall']",The Moon and the Thorn.
+equivalent,"['tantamount', 'equivalent_weight', 'equivalent', 'combining_weight', 'eq']",The Moon and the Thorn.
+pacifies,"['pacify', 'lenify', 'appease', 'gruntle', 'mollify', 'conciliate', 'placate', 'gentle', 'assuage']",The Moon and the Thorn.
+welcome,"['receive', 'welcome']",The Moon and the Thorn.
+Folly,"['folly', 'tomfoolery', 'imbecility', 'indulgence', 'foolery', 'foolishness', 'stupidity', 'lunacy', 'craziness', 'madness', 'betise', 'unwiseness']",The Moon and the Thorn.
+Titus,"['Titus_Vespasianus_Augustus', 'Epistle_to_Titus', 'Epistle_of_Paul_the_Apostle_to_Titus', 'Titus', 'Titus_Flavius_Vespasianus']",The Moon and the Thorn.
+became,"['get', 'suit', 'go', 'turn', 'become']",The Moon and the Thorn.
+than,[],The Moon and the Thorn.
+birds,"['hoot', 'birdie', 'boo', 'razzing', 'bird', 'raspberry', 'birdwatch', 'razz', 'doll', 'chick', 'fowl', 'shuttlecock', 'Bronx_cheer', 'dame', 'hiss', 'skirt', 'shuttle', 'snort', 'wench']",The Moon and the Thorn.
+Every,['every'],The Moon and the Thorn.
+Next,"['succeeding', 'next', 'future', 'following', 'adjacent', 'side_by_side']",The Moon and the Thorn.
+nodded,['nod'],The Moon and the Thorn.
+godless,"['irreverent', 'godless']",The Moon and the Thorn.
+have,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'wealthy_person', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'rich_person', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",The Moon and the Thorn.
+spoke,"['verbalize', 'spoke', 'rundle', 'address', 'talk', 'speak', 'mouth', 'radius', 'rung', 'wheel_spoke', 'utter', 'verbalise']",The Moon and the Thorn.
+chin,"['Kuki', 'mentum', 'chin', 'Kuki-Chin', 'Chin', 'chin_up']",The Moon and the Thorn.
+man's,[],The Moon and the Thorn.
+coldly,"['coldly', 'in_cold_blood']",The Moon and the Thorn.
+sap,"['cosh', 'exhaust', 'fool', 'play_out', 'sap', 'saphead', 'blackjack', 'tomfool', 'muggins', 'tire', 'run_down']",The Moon and the Thorn.
+upon,[],The Moon and the Thorn.
+system,"['system_of_rules', 'arrangement', 'organisation', 'system', 'organization', 'scheme']",The Moon and the Thorn.
+got,"['generate', 'sustain', 'experience', 'father', 'bugger_off', 'make', 'bring', 'draw', 'set_about', 'dumbfound', 'suffer', 'aim', 'cause', 'nonplus', 'stupefy', 'vex', 'grow', 'mother', 'pay_off', 'fuck_off', 'stick', 'have', 'start_out', 'engender', 'acquire', 'catch', 'find', 'get_down', 'incur', 'pay_back', 'arrest', 'scram', 'develop', 'get', 'buzz_off', 'set_out', 'commence', 'baffle', 'beget', 'gravel', 'convey', 'begin', 'drive', 'induce', 'amaze', 'obtain', 'mystify', 'become', 'let', 'capture', 'pose', 'arrive', 'fix', 'stimulate', 'puzzle', 'take', 'beat', 'produce', 'flummox', 'perplex', 'contract', 'come', 'go', 'fetch', ""get_under_one's_skin"", 'bring_forth', 'start', 'receive', 'sire', 'bewilder']",The Moon and the Thorn.
+little,"['slight', 'lilliputian', 'petty', 'footling', 'niggling', 'little', 'trivial', 'short', 'minuscule', 'picayune', 'small', 'piffling', 'fiddling', 'piddling']",The Moon and the Thorn.
+pick,"['find_fault', 'pickaxe', 'break_up', 'option', 'cull', 'beak', 'choice', 'nibble', 'filling', 'piece', 'weft', 'blame', 'plectron', 'plunk', 'pick', 'pluck', 'peck', 'pickax', 'selection', 'plectrum', 'clean', 'cream', 'foot', 'picking', 'woof']",The Moon and the Thorn.
+stolen,"['slip', 'steal']",The Moon and the Thorn.
+clouds,"['overcast', 'obnubilate', 'haze_over', 'corrupt', 'defile', 'sully', 'obscure', 'mottle', 'becloud', 'swarm', 'taint', 'befog', 'dapple', 'mist', 'fog', 'cloud']",The Moon and the Thorn.
+Papa,"['dad', 'pappa', 'papa', 'dada', 'pa', 'daddy', 'pop']",The Moon and the Thorn.
+weak,"['frail', 'debile', 'washy', 'weak', 'light', 'feeble', 'faint', 'imperfect', 'unaccented', 'infirm', 'rickety', 'sapless', 'decrepit', 'weakly', 'watery', 'fallible']",The Moon and the Thorn.
+since,[],The Moon and the Thorn.
+wondering,"['questioning', 'wonder', 'wondering', 'inquire', 'inquisitive', 'enquire', 'question', 'marvel', 'speculative']",The Moon and the Thorn.
+parties,"['party', 'political_party', 'company']",The Moon and the Thorn.
+going,"['plump', 'break_down', 'endure', 'departure', 'go_away', 'perish', 'choke', 'kick_the_bucket', 'get_going', 'live', 'die', ""cash_in_one's_chips"", 'croak', 'function', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'blend_in', 'expire', 'operate', 'leaving', 'hold_out', 'pass_away', 'passing', 'work', 'last', 'depart', 'get', 'decease', 'loss', 'conk_out', 'fit', 'release', 'move', 'live_on', 'go_bad', 'going', 'going_away', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'sledding', 'conk', 'lead', 'blend', 'go', 'sound', 'survive', 'drop_dead', 'extend', 'snuff_it', 'start', 'rifle', 'fail', 'expiration', 'give_out', 'travel', 'give_way']",The Moon and the Thorn.
+The,[],The Moon and the Thorn.
+show,"['render', 'shew', 'show_up', 'evidence', 'register', 'usher', 'evince', 'testify', 'indicate', 'demo', 'bear_witness', 'express', 'record', 'prove', 'point', 'appearance', 'depict', 'designate', 'display', 'demonstrate', 'show', 'picture', 'exhibit', 'read', 'establish', 'present']",The Moon and the Thorn.
+everlasting,"['eternal', 'eonian', 'perfect', 'pure', 'unceasing', 'sodding', 'utter', 'gross', 'stark', 'complete', 'consummate', 'aeonian', 'everlasting_flower', 'thoroughgoing', 'everlasting', 'unadulterated', 'staring', 'ageless', 'arrant', 'double-dyed', 'perpetual', 'unending']",The Moon and the Thorn.
+you,[],The Moon and the Thorn.
+nature,['nature'],The Moon and the Thorn.
+here,"['here', 'Hera', 'hither', 'Here']",The Moon and the Thorn.
+are,"['constitute', 'equal', 'are', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'personify', 'exist', 'follow', 'ar']",The Moon and the Thorn.
+childhood,"['childhood', 'puerility']",The Moon and the Thorn.
+jug,"['immure', 'jail', 'jug', 'put_behind_bars', 'incarcerate', 'lag', 'jugful', 'put_away', 'gaol', 'imprison', 'remand']",The Moon and the Thorn.
+this,[],The Moon and the Thorn.
+felt,"['mat', 'palpate', 'finger', 'experience', 'felt', 'mat_up', 'matte_up', 'matte', 'sense', 'find', 'matt-up', 'felt_up', 'feel']",The Moon and the Thorn.
+world,"['mankind', 'earthly_concern', 'humanity', 'planetary', 'humans', 'macrocosm', 'earth', 'world-wide', 'globe', 'cosmos', 'domain', 'worldly_concern', 'Earth', 'man', 'global', 'human_beings', 'creation', 'existence', 'reality', 'universe', 'world', 'public', 'humankind', 'worldwide', 'populace', 'human_race']",The Moon and the Thorn.
+spoken,"['spoken', 'address', 'speak', 'talk', 'mouth', 'verbalize', 'utter', 'verbalise']",The Moon and the Thorn.
+his,[],The Moon and the Thorn.
+somewhat,"['fairly', 'pretty', 'moderately', 'passably', 'somewhat', 'slightly', 'reasonably', 'more_or_less', 'jolly', 'middling']",The Moon and the Thorn.
+fifty,"['L', '50', 'fifty_dollar_bill', 'fifty', 'l']",The Moon and the Thorn.
+shade,"['shadiness', 'subtlety', 'tone', 'specter', 'wraith', 'shadow', 'refinement', 'nuance', 'spook', 'shade_off', 'nicety', 'ghost', 'tint', 'spectre', 'shadowiness', 'fill_in', 'tincture', 'shade', 'tad']",The Moon and the Thorn.
+perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",The Moon and the Thorn.
+connivance,"['collusion', 'tacit_consent', 'connivance', 'secret_approval']",The Moon and the Thorn.
+ancient,"['ancient', 'antediluvian']",The Moon and the Thorn.
+knew,"['experience', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'live', 'screw', 'have_it_off', 'do_it', 'cognize', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'acknowledge', 'recognise', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'cognise', 'sleep_with', 'eff', 'recognize', 'have_intercourse']",The Moon and the Thorn.
+age,"['get_on', 'maturate', 'historic_period', 'years', 'old_age', 'age', 'mature', 'eld', 'geezerhood', 'senesce', 'long_time']",The Moon and the Thorn.
+You'd,[],The Moon and the Thorn.
+sorry,"['dismal', 'disconsolate', 'sorry', 'sad', 'no-account', 'drab', 'lamentable', 'distressing', 'drear', 'dark', 'meritless', 'regretful', 'blue', 'no-count', 'dreary', 'deplorable', 'gloomy', 'good-for-naught', 'good-for-nothing', 'bad', 'pitiful', 'grim', 'no-good', 'dingy']",The Moon and the Thorn.
+city,"['city', 'urban_center', 'metropolis']",The Moon and the Thorn.
+excellently,"['famously', 'excellently', 'magnificently', 'splendidly']",The Moon and the Thorn.
+blossom,"['prime', 'flush', 'flower', 'unfold', 'efflorescence', 'blossom_forth', 'bloom', 'heyday', 'peak', 'blossom', 'blossom_out']",The Moon and the Thorn.
+frequently,"['ofttimes', 'oft', 'oftentimes', 'often', 'frequently']",The Moon and the Thorn.
+hear,"['try', 'get_word', 'discover', 'listen', 'find_out', 'learn', 'hear', 'see', 'take_heed', 'get_a_line', 'get_wind', 'pick_up']",The Moon and the Thorn.
+hard,"['severe', 'gruelling', 'severely', 'intemperately', 'punishing', 'firmly', 'heavily', 'hard', 'arduous', 'unvoiced', 'laborious', 'operose', 'backbreaking', 'grueling', 'toilsome', 'difficult', 'intemperate', 'knockout', 'concentrated', 'heavy', 'tough', 'surd', 'voiceless', 'strong']",The Moon and the Thorn.
+knowingly,"['knowingly', 'wittingly']",The Moon and the Thorn.
+children,"['tyke', 'nipper', 'shaver', 'child', 'youngster', 'fry', 'tike', 'minor', 'nestling', 'kid', 'tiddler', 'small_fry', 'baby']",The Moon and the Thorn.
+nod,['nod'],The Moon and the Thorn.
+fish,"['Pisces_the_Fishes', 'Fish', 'Pisces', 'fish', 'angle']",The Moon and the Thorn.
+she,[],The Moon and the Thorn.
+its,"['IT', 'information_technology']",The Moon and the Thorn.
+carved,"['carven', 'carve', 'cut_up', 'carved', 'chip_at']",The Moon and the Thorn.
+tempted,"['allure', 'tempt', 'invite', 'charm', 'entice', 'influence', 'lure']",The Moon and the Thorn.
+assume,"['put_on', 'feign', 'seize', 'accept', 'take_up', 'sham', 'assume', 'wear', 'acquire', 'take_for_granted', 'take_over', 'presume', 'bear', 'simulate', 'take_on', 'don', 'strike', 'usurp', 'take', 'adopt', 'get_into', 'arrogate']",The Moon and the Thorn.
+off,"['forth', 'turned', 'slay', 'bump_off', 'off', 'dispatch', 'remove', 'cancelled', 'away', 'murder', 'hit', 'polish_off', 'sour']",The Moon and the Thorn.
+garnet,['garnet'],The Moon and the Thorn.
+happily,"['merrily', 'mirthfully', 'happily', 'blithely', 'gayly', 'jubilantly']",The Moon and the Thorn.
+Man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",The Moon and the Thorn.
+short,"['unretentive', 'unawares', 'short-circuit', 'brusk', 'dead', 'curt', 'short_circuit', 'short-change', 'short', 'poor', 'little', 'shortstop', 'brusque', 'light', 'scant', 'forgetful', 'inadequate', 'myopic', 'shortly', 'unforesightful', 'abruptly', 'curtly', 'shortsighted', 'suddenly']",The Moon and the Thorn.
+cats,"['honk', 'purge', 'spew', 'computerized_tomography', 'true_cat', 'CT', 'vomit_up', 'regorge', 'be_sick', 'qat', 'regurgitate', 'guy', 'Caterpillar', 'bozo', 'big_cat', 'African_tea', 'throw_up', 'vomit', 'cat', 'disgorge', 'barf', ""cat-o'-nine-tails"", 'computerized_axial_tomography', 'computed_axial_tomography', 'retch', 'spue', 'cast', 'CAT', 'computed_tomography', 'Arabian_tea', 'quat', 'upchuck', 'khat', 'hombre', 'sick', 'kat', 'chuck', 'puke']",The Moon and the Thorn.
+over,"['all_over', 'terminated', ""o'er"", 'over', 'concluded', 'complete', 'ended']",The Moon and the Thorn.
+morning,"['break_of_day', 'first_light', 'break_of_the_day', 'cockcrow', 'dawn', 'good_morning', 'daybreak', 'sunrise', 'aurora', 'forenoon', 'dawning', 'sunup', 'morn', 'dayspring', 'morning', 'morning_time']",The Moon and the Thorn.
+smaller,"['pocket-size', 'humble', 'littler', 'pocket-sized', 'modest', 'diminished', 'minor', 'lowly', 'small-scale', 'low', 'minuscule', 'smaller', 'small', 'belittled', 'little']",The Moon and the Thorn.
+work,"['piece_of_work', 'employment', 'make', 'bring', 'function', 'solve', 'wreak', 'oeuvre', 'operate', 'exploit', 'do_work', 'crop', 'exercise', 'work', 'mould', 'knead', 'form', 'workplace', 'process', 'body_of_work', 'work_out', 'forge', 'play', 'make_for', 'cultivate', 'run', 'study', 'act_upon', 'act', 'shape', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",The Moon and the Thorn.
+curious,"['curious', 'funny', 'peculiar', 'rum', 'rummy', 'singular', 'odd', 'queer']",The Moon and the Thorn.
+awake,"['awake', 'arouse', 'alert', 'come_alive', 'waken', 'wake', 'alive', 'wake_up', 'awaken']",The Moon and the Thorn.
+voices,"['vox', 'phonation', 'vocalism', 'voice', 'interpreter', 'part', 'vocalize', 'vocalization', 'representative', 'sound', 'spokesperson', 'articulation', 'vocalise', 'vocalisation']",The Moon and the Thorn.
+poodle,"['poodle_dog', 'poodle']",The Moon and the Thorn.
+ignore,"['disregard', 'brush_aside', 'cut', 'ignore', 'brush_off', 'push_aside', 'discount', 'neglect', 'dismiss', 'snub']",The Moon and the Thorn.
+But,"['simply', 'merely', 'only', 'just', 'but']",The Moon and the Thorn.
+absolution,"['absolution', 'remittal', 'remission_of_sin', 'remission']",The Moon and the Thorn.
+eager,"['tidal_bore', 'aegir', 'eager', 'bore', 'eagre']",The Moon and the Thorn.
+slumbered,"['sleep', ""catch_some_Z's"", 'slumber', 'kip', ""log_Z's""]",The Moon and the Thorn.
+At,"['atomic_number_85', 'At', 'at', 'astatine']",The Moon and the Thorn.
+enchanting,"['bewitching', 'witch', 'jinx', 'enamour', 'enthral', 'trance', 'bewitch', 'captivate', 'beguile', 'catch', 'delight', 'entrancing', 'entrance', 'becharm', 'enchant', 'enchanting', 'transport', 'fascinate', 'enthrall', 'glamour', 'capture', 'enrapture', 'captivating', 'ravish', 'fascinating', 'charm', 'enamor', 'hex', 'enthralling']",The Moon and the Thorn.
+strength,"['force', 'military_strength', 'specialty', 'posture', 'potency', 'metier', 'persuasiveness', 'military_posture', 'durability', 'enduringness', 'forte', 'effectiveness', 'long_suit', 'military_capability', 'strength', 'lastingness', 'forcefulness', 'intensity_level', 'strong_suit', 'strong_point', 'speciality', 'intensity']",The Moon and the Thorn.
+artificial,"['hokey', 'unreal', 'artificial', 'stilted', 'contrived']",The Moon and the Thorn.
+thought,"['opine', 'cogitate', 'believe', 'suppose', 'thinking', 'persuasion', 'cerebration', 'opinion', 'guess', 'idea', 'thought_process', 'intellection', 'conceive', 'reckon', 'recall', 'intend', 'mean', 'recollect', 'view', 'thought', 'sentiment', 'consider', 'imagine', 'mentation', 'remember', 'think', 'cerebrate', 'call_back', 'call_up', 'retrieve']",The Moon and the Thorn.
+austere,"['severe', 'stern', 'spartan', 'ascetical', 'stark', 'austere', 'ascetic']",The Moon and the Thorn.
+frankest,"['point-blank', 'candid', 'plainspoken', 'free-spoken', 'outspoken', 'straight-from-the-shoulder', 'blunt', 'frank', 'forthright']",The Moon and the Thorn.
+then,"['then', 'and_so', 'and_then', 'so']",The Moon and the Thorn.
+Ma'am,"[""ma'am"", 'lady', 'dame', 'madam', 'gentlewoman']",The Moon and the Thorn.
+nearly,"['nigh', 'virtually', 'about', 'closely', 'most', 'nearly', 'well-nigh', 'almost', 'intimately', 'near']",The Moon and the Thorn.
+regard,"['heed', 'wish', 'involve', 'reckon', 'consider', 'view', 'respect', 'compliments', 'esteem', 'see', 'regard', 'affect', 'gaze', 'attentiveness', 'paying_attention']",The Moon and the Thorn.
+nearest,"['approximate', 'skinny', 'nigh', 'closest', 'dear', 'nighest', 'close', 'penny-pinching', 'nearest', 'cheeseparing', 'near', 'good']",The Moon and the Thorn.
+wait,"['expect', 'hold_off', 'hold_back', 'waitress', 'postponement', 'look', 'time_lag', 'await', 'waiting', 'hold', 'wait', 'delay']",The Moon and the Thorn.
+they,[],The Moon and the Thorn.
+near,"['draw_near', 'good', 'approximate', 'about', 'draw_close', 'skinny', 'approach', 'come_on', 'most', 'go_up', 'penny-pinching', 'nearly', 'cheeseparing', 'well-nigh', 'close', 'near', 'nigh', 'virtually', 'dear', 'come_near', 'almost']",The Moon and the Thorn.
+temptation,"['enticement', 'temptation']",The Moon and the Thorn.
+Y're,[],The Moon and the Thorn.
+best,"['honest', 'undecomposed', 'easily', 'unspoilt', 'intimately', 'skillful', 'adept', 'trump', 'skilful', 'good', 'practiced', 'proficient', 'beneficial', 'substantially', 'safe', 'full', 'expert', 'Best', 'Charles_Herbert_Best', 'topper', 'salutary', 'respectable', 'upright', 'advantageously', 'unspoiled', 'effective', 'comfortably', 'well', 'outdo', 'better', 'near', 'ripe', 'C._H._Best', 'in_effect', 'best', 'dependable', 'dear', 'serious', 'scoop', 'right', 'just', 'sound', 'honorable', 'in_force', 'outflank', 'considerably', 'secure', 'estimable']",The Moon and the Thorn.
+winter,"['winter', 'overwinter', 'wintertime']",The Moon and the Thorn.
+run,"['escape', 'range', 'track_down', 'endure', 'discharge', 'draw', 'trial', 'run_for', 'streamlet', 'turn_tail', 'break_away', 'function', 'runnel', 'test', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'ravel', 'lam', 'operate', 'persist', 'execute', 'run_away', 'work', 'rill', 'consort', 'melt', 'ply', 'rivulet', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'carry', 'play', 'foot_race', 'incline', 'footrace', 'pass', 'prevail', 'run', 'running_play', 'tend', 'bleed', 'hunt', 'campaign', 'streak', 'lead', 'hunt_down', 'scarper', 'running_game', 'outpouring', 'take_to_the_woods', 'go', 'ladder', 'political_campaign', 'lean', 'die_hard', 'extend', 'head_for_the_hills', 'bunk', 'tally', 'running']",The Moon and the Thorn.
+patchwork,"['hodgepodge', 'patchwork', 'jumble', 'patchwork_quilt']",The Moon and the Thorn.
+thing,"['affair', 'thing', 'matter']",The Moon and the Thorn.
+ghosts,"['ghostwrite', 'spook', 'specter', 'ghost', 'wraith', 'spectre', 'ghostwriter', 'obsess', 'shade', 'trace', 'touch', 'haunt']",The Moon and the Thorn.
+moral,"['moral', 'lesson']",The Moon and the Thorn.
+child,"['tyke', 'nipper', 'shaver', 'child', 'youngster', 'fry', 'tike', 'minor', 'nestling', 'kid', 'tiddler', 'small_fry', 'baby']",The Moon and the Thorn.
+comply,"['follow', 'comply', 'abide_by']",The Moon and the Thorn.
+humming,"['seethe', 'thrum', 'humming', 'hum', 'buzz']",The Moon and the Thorn.
+must,"['moldiness', 'mustiness', 'must']",The Moon and the Thorn.
+really,"['very', 'genuinely', 'really', 'in_truth', 'truly', 'rattling', 'real', 'actually']",The Moon and the Thorn.
+impression,"['belief', 'stamp', 'feeling', 'effect', 'depression', 'notion', 'mental_picture', 'printing', 'imprint', 'impression', 'picture', 'opinion']",The Moon and the Thorn.
+choose,"['select', 'opt', 'take', 'prefer', 'choose', 'pick_out']",The Moon and the Thorn.
+sentimental,"['drippy', 'schmalzy', 'soppy', 'maudlin', 'slushy', 'hokey', 'mushy', 'schmaltzy', 'soupy', 'bathetic', 'sentimental', 'mawkish', 'kitschy']",The Moon and the Thorn.
+none,['none'],The Moon and the Thorn.
+whose,[],The Moon and the Thorn.
+finer,"['okay', 'fine', 'o.k.', 'all_right', 'hunky-dory', 'finer', 'ok']",The Moon and the Thorn.
+on,"['on', 'along']",The Moon and the Thorn.
+running,"['escape', 'range', 'track_down', 'endure', 'draw', 'run_for', 'working', 'turn_tail', 'break_away', 'function', 'track', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'lam', 'operate', 'execute', 'persist', 'run_away', 'work', 'consort', 'melt', 'ply', 'functional', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'linear', 'carry', 'play', 'incline', 'prevail', 'pass', 'operative', 'run', 'running_play', 'tend', 'bleed', 'hunt', 'lead', 'campaign', 'hunt_down', 'scarper', 'running_game', 'take_to_the_woods', 'go', 'die_hard', 'lean', 'ladder', 'extend', 'head_for_the_hills', 'bunk', 'running']",The Moon and the Thorn.
+cupped,"['transfuse', 'cup']",The Moon and the Thorn.
+loving,"['loving', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",The Moon and the Thorn.
+sheep,['sheep'],The Moon and the Thorn.
+tracing,"['decipher', 'describe', 'line', 'hound', 'hunt', 'draw', 'retrace', 'follow', 'trace', 'tracing', 'delineate']",The Moon and the Thorn.
+powerful,"['potent', 'hefty', 'powerful', 'herculean', 'mightily', 'right', 'knock-down', 'muscular', 'sinewy', 'brawny', 'mighty']",The Moon and the Thorn.
+oppressive,"['tyrannical', 'oppressive', 'tyrannous']",The Moon and the Thorn.
+Blackwell's,[],The Moon and the Thorn.
+the,[],The Moon and the Thorn.
+fishing-boat,[],The Moon and the Thorn.
+branches,"['offshoot', 'offset', 'leg', 'limb', 'fork', 'ramify', 'ramification', 'outgrowth', 'branch', 'arm', 'furcate', 'subdivision', 'separate']",The Moon and the Thorn.
+boat,"['gravy_holder', 'sauceboat', 'boat', 'gravy_boat']",The Moon and the Thorn.
+so,"['sol', 'thusly', 'therefore', 'indeed', 'and_so', 'soh', 'thus', 'thence', 'then', 'and_then', 'hence', 'so']",The Moon and the Thorn.
+sharply,"['sharply', 'precipitously', 'acutely', 'aggressively', 'sharp', 'crisply']",The Moon and the Thorn.
+darted,"['scud', 'shoot', 'flit', 'flutter', 'dart', 'fleet', 'flash', 'dash', 'scoot']",The Moon and the Thorn.
+son,"['Son', 'Logos', 'son', 'Word', 'boy']",The Moon and the Thorn.
+from,[],The Moon and the Thorn.
+song,"['strain', 'Song', 'vocal', 'Sung', 'Sung_dynasty', 'song', 'birdcall', 'Song_dynasty', 'call', 'birdsong']",The Moon and the Thorn.
+many,['many'],The Moon and the Thorn.
+shuttered,"['shuttered', 'shutter']",The Moon and the Thorn.
+Rests,"['remainder', 'take_a_breather', 'remain', 'eternal_rest', 'rest', 'repose', 'eternal_sleep', 'sleep', 'balance', 'perch', 'stay', 'breathe', 'relief', 'rest_period', 'residual', 'residuum', 'respite', 'ease', 'roost', 'pillow', 'quietus', ""catch_one's_breath"", 'relaxation', 'lie', 'reside', 'residue']",The Moon and the Thorn.
+possible,"['potential', 'possible']",The Moon and the Thorn.
+there,"['there', 'at_that_place', 'on_that_point', 'thither', 'in_that_location', 'in_that_respect']",The Moon and the Thorn.
+before,"['before', 'in_front', 'earlier', 'ahead']",The Moon and the Thorn.
+kitchen,['kitchen'],The Moon and the Thorn.
+You,[],The Moon and the Thorn.
+different,"['different', 'dissimilar', 'unlike']",The Moon and the Thorn.
+stock,"['well-worn', 'line', 'old-hat', 'lineage', 'gunstock', 'inventory', 'neckcloth', 'pedigree', 'stock_up', 'timeworn', 'parentage', 'buy_in', 'gillyflower', 'stockpile', 'shopworn', 'threadbare', 'descent', 'tired', 'broth', 'stock', 'hackneyed', 'breed', 'banal', 'line_of_descent', 'fund', 'origin', 'standard', 'ancestry', 'stock_certificate', 'carry', 'caudex', 'store', 'strain', 'sprout', 'stemma', 'livestock', 'blood', 'Malcolm_stock', 'commonplace', 'farm_animal', 'bloodline', 'blood_line', 'trite']",The Moon and the Thorn.
+especially,"['specially', 'peculiarly', 'particularly', 'especially']",The Moon and the Thorn.
+stony,"['obdurate', 'flinty', 'granitelike', 'bouldery', 'granitic', 'rocky', 'flint', 'rocklike', 'bouldered', 'stony']",The Moon and the Thorn.
+indoors,"['inside', 'indoors']",The Moon and the Thorn.
+French,"['French_people', 'French', 'Gallic', 'Daniel_Chester_French']",The Moon and the Thorn.
+somewheres,['somewhere'],The Moon and the Thorn.
+well,"['advantageously', 'swell', 'substantially', 'fountainhead', 'wellspring', 'well', 'easily', 'comfortably', 'intimately', 'considerably', 'good']",The Moon and the Thorn.
+passion,"['love', 'rage', 'cacoethes', 'Passion_of_Christ', 'Passion', 'warmth', 'passion', 'mania', 'passionateness', 'heat']",The Moon and the Thorn.
+reassurance,['reassurance'],The Moon and the Thorn.
+which,[],The Moon and the Thorn.
+island,['island'],The Moon and the Thorn.
+sops,"['soak', 'souse', 'douse', 'sop', 'standard_operating_procedure', 'soak_through', 'sops', 'SOP', 'standard_procedure', 'dowse', 'drench', 'standing_operating_procedure']",The Moon and the Thorn.
+daughter,"['daughter', 'girl']",The Moon and the Thorn.
+water,"['weewee', 'irrigate', 'H2O', 'piddle', 'water_system', 'urine', 'piss', 'pee', 'water_supply', 'body_of_water', 'water']",The Moon and the Thorn.
+shook,"['shook', 'stir', 'escape_from', 'shake_off', 'excite', 'shake_up', 'sway', 'shake', 'throw_off', 'judder', 'rock', 'didder', 'agitate', 'stimulate']",The Moon and the Thorn.
+lying,"['lie', 'fabrication', 'rest', 'lie_down', 'dwell', 'lie_in', 'consist', 'prevarication', 'lying']",The Moon and the Thorn.
+terrestrial,"['planetary', 'mundane', 'telluric', 'tellurian', 'sublunar', 'terrene', 'sublunary', 'terrestrial']",The Moon and the Thorn.
+lessened,"['diminish', 'decrease', 'minify', 'vitiated', 'fall', 'diminished', 'subside', 'lessen', 'weakened', 'lessened']",The Moon and the Thorn.
+Hetty,[],The Moon and the Thorn.
+turned,"['reverse', 'change_by_reversal', 'flex', 'grow', 'off', 'rick', 'move_around', 'sprain', 'change_state', 'work', 'twist', 'turn_over', 'call_on', 'release', 'plough', 'deform', 'become', 'turned', 'wrench', 'bend', 'turn', 'sour', 'ferment', 'plow', 'wrick']",The Moon and the Thorn.
+impatient,"['impatient', 'raring']",The Moon and the Thorn.
+a,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",The Moon and the Thorn.
+mariner,"['Jack-tar', 'gob', 'mariner', 'tar', 'seaman', 'old_salt', 'Jack', 'sea_dog', 'seafarer']",The Moon and the Thorn.
+wished,"['wish_well', 'wish', 'like', 'bid', 'care']",The Moon and the Thorn.
+had,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",The Moon and the Thorn.
+me,"['ME', 'Maine', 'Pine_Tree_State']",The Moon and the Thorn.
+already,['already'],The Moon and the Thorn.
+your,[],The Moon and the Thorn.
+grasses,"['pot', 'betray', 'smoke', 'pasture', 'supergrass', 'Gunter_Wilhelm_Grass', 'sens', 'green_goddess', 'stag', 'grass_over', 'shop', 'snitch', 'gage', 'pasturage', 'forage', 'Grass', 'Gunter_Grass', 'tell_on', 'Mary_Jane', 'sess', 'weed', 'eatage', 'rat', 'grass', 'skunk', 'give_away', 'denounce', 'dope', 'locoweed', 'shit']",The Moon and the Thorn.
+put,"['put', 'put_option', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",The Moon and the Thorn.
+approval,"['approval', 'approving', 'favorable_reception', 'blessing', 'favourable_reception', 'commendation']",The Moon and the Thorn.
+woman,"['adult_female', 'woman', 'charwoman', 'char', 'cleaning_lady', 'womanhood', 'cleaning_woman', 'fair_sex']",The Moon and the Thorn.
+ability,"['power', 'ability']",The Moon and the Thorn.
+deep-set,"['deep-set', 'sunken', 'recessed']",The Moon and the Thorn.
+enormously,"['tremendously', 'enormously', 'staggeringly', 'hugely']",The Moon and the Thorn.
+even,"['still', 'fifty-fifty', 'even_out', 'flush', 'eve', 'even', 'level', 'regular', 'tied', 'yet', 'eventide', 'evening']",The Moon and the Thorn.
+street,['street'],The Moon and the Thorn.
+creep,"['spook', 'grovel', 'weirdy', 'fawn', 'pussyfoot', 'cringe', 'crawl', 'creep', 'sneak', 'weirdie', 'mouse', 'crawling', 'cower', 'creeping', 'weirdo']",The Moon and the Thorn.
+remaining,"['left_over', 'continue', 'unexpended', 'left', 'remain', 'rest', 'stay', 'leftover', 'odd', 'persist', 'remaining', 'stay_on']",The Moon and the Thorn.
+dressed,"['garb', 'groom', 'cut_back', 'clothe', 'snip', 'coif', 'dressed_to_kill', 'clip', 'dressed', 'spruced_up', 'dressed-up', 'trim', 'dress_out', 'tog', 'dress_up', 'garmented', 'lop', 'set', 'do', 'crop', 'fit_out', 'prune', 'enclothe', 'polished', 'dress', 'curry', 'dressed_to_the_nines', 'habilitate', 'decorate', 'garment', 'robed', 'coiffe', 'appareled', 'dolled_up', 'spiffed_up', 'habilimented', 'attired', 'line_up', 'arrange', 'get_dressed', 'garbed', 'raiment', 'coiffure', 'primp', 'preen', 'plume', 'apparel', 'garnish', 'togged_up']",The Moon and the Thorn.
+never,"[""ne'er"", 'never']",The Moon and the Thorn.
+village,"['Greenwich_Village', 'Village', 'settlement', 'village', 'small_town', 'hamlet']",The Moon and the Thorn.
+named,"['describe', 'make', 'advert', 'list', 'diagnose', 'key', 'refer', 'constitute', 'appoint', 'key_out', 'cite', 'call', 'name', 'identify', 'mention', 'distinguish', 'discover', 'bring_up', 'nominate']",The Moon and the Thorn.
+mumbled,"['maunder', 'mussitate', 'gum', 'mumble', 'mutter']",The Moon and the Thorn.
+defend,"['fight_back', 'fight', 'fight_down', 'support', 'champion', 'represent', 'maintain', 'fend_for', 'guard', 'hold', 'defend', 'oppose']",The Moon and the Thorn.
+us,"['U.S.', 'uracil', 'US', 'atomic_number_92', 'the_States', 'United_States_of_America', 'United_States', 'uranium', 'America', 'U', 'u', 'U.S.A.', 'USA']",The Moon and the Thorn.
+Both,['both'],The Moon and the Thorn.
+enclosed,"['enfold', 'envelop', 'enclosed', 'enwrap', 'enclose', 'introduce', 'confine', 'shut_in', 'put_in', 'inclose', 'hold_in', 'close_in', 'insert', 'wrap', 'stick_in']",The Moon and the Thorn.
+dancing,"['trip_the_light_fantastic', 'saltation', 'dance', 'dancing', 'trip_the_light_fantastic_toe', 'terpsichore']",The Moon and the Thorn.
+smiled,['smile'],The Moon and the Thorn.
+no,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",The Moon and the Thorn.
+leavin',[],The Moon and the Thorn.
+question,"['interrogative_sentence', 'interview', 'interrogation', 'motion', 'call_into_question', 'doubtfulness', 'wonder', 'enquiry', 'inquiry', 'oppugn', 'question', 'interrogative', 'head', 'doubt', 'dubiousness', 'query', 'interrogate']",The Moon and the Thorn.
+cautious,"['cautious', 'timid', 'conservative']",The Moon and the Thorn.
+terrible,"['severe', 'unspeakable', 'awful', 'tremendous', 'fearful', 'horrendous', 'wicked', 'abominable', 'direful', 'terrible', 'atrocious', 'frightening', 'dreaded', 'fearsome', 'painful', 'dire', 'horrific', 'dreadful', 'frightful', 'dread']",The Moon and the Thorn.
+great,"['large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'dandy', 'peachy', 'expectant', 'smashing', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",The Moon and the Thorn.
+one-two-three,[],The Moon and the Thorn.
+together,"['together', 'in_concert', 'unitedly']",The Moon and the Thorn.
+front,"['social_movement', 'straw_man', 'front_end', 'presence', 'figurehead', 'look', 'movement', 'face', 'battlefront', 'front_man', 'strawman', 'nominal_head', 'breast', 'front', 'forepart', 'front_line']",The Moon and the Thorn.
+recalling,"['come_back', 'return', 'remember', 'recollect', 'hark_back', 'call_in', 'withdraw', 'think', 'recall', 'echo', 'call_back', 'call_up', 'retrieve']",The Moon and the Thorn.
+Come,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",The Moon and the Thorn.
+spire,"['steeple', 'spire']",The Moon and the Thorn.
+don't,[],The Moon and the Thorn.
+impressed,"['print', 'shanghai', 'yarn-dye', 'move', 'impress', 'impressed', 'strike', 'instill', 'imprint', 'ingrain', 'affect']",The Moon and the Thorn.
+Their,[],The Moon and the Thorn.
+pupils,"['pupil', 'student', 'school-age_child', 'schoolchild', 'educatee']",The Moon and the Thorn.
+virtue,"['moral_excellence', 'chastity', 'virtuousness', 'merit', 'virtue', 'sexual_morality']",The Moon and the Thorn.
+lacy,"['weblike', 'lacelike', 'netted', 'webby', 'lacy', 'netlike', 'webbed']",The Moon and the Thorn.
+scented,"['odoriferous', 'wind', 'odourise', 'odorous', 'nose', 'scent', 'perfume', 'sweet-scented', 'sweet-smelling', 'scented', 'perfumed', 'sweet', 'odorize']",The Moon and the Thorn.
+unenthusiastic,['unenthusiastic'],The Moon and the Thorn.
+journey's,[],The Moon and the Thorn.
+angel,"['Angel', 'holy_person', 'Angel_Falls', 'holy_man', 'saint', 'backer', 'angel']",The Moon and the Thorn.
+reach,"['range', 'arrive_at', 'make', 'hit', 'reach_out', 'scope', 'extend_to', 'contact', 'stretch', 'get_to', 'progress_to', 'get_through', 'reaching', 'turn_over', 'attain', 'achieve', 'touch', 'pass', 'reach', 'pass_on', 'strain', 'hand', 'ambit', 'get_hold_of', 'strive', 'gain', 'give', 'accomplish', 'compass', 'grasp', 'orbit']",The Moon and the Thorn.
+cemetery,"['burial_ground', 'necropolis', 'memorial_park', 'burial_site', 'burying_ground', 'cemetery', 'graveyard']",The Moon and the Thorn.
+forgave,['forgive'],The Moon and the Thorn.
+clawing,['claw'],The Moon and the Thorn.
+stone,"['Harlan_F._Stone', 'stone', 'gemstone', 'Harlan_Fisk_Stone', 'Oliver_Stone', 'Lucy_Stone', 'Edward_Durell_Stone', 'Harlan_Stone', 'Isidor_Feinstein_Stone', 'lapidate', 'endocarp', 'gem', 'rock', 'I._F._Stone', 'Harlan_Fiske_Stone', 'pit', 'Stone']",The Moon and the Thorn.
+might,"['might', 'power', 'mightiness']",The Moon and the Thorn.
+heard,"['heard', 'try', 'get_word', 'discover', 'listen', 'find_out', 'learn', 'hear', 'see', 'take_heed', 'get_a_line', 'get_wind', 'pick_up']",The Moon and the Thorn.
+bushes,"['George_W._Bush', 'George_Bush', 'George_Walker_Bush', 'Dubya', 'chaparral', 'Bush', 'Dubyuh', 'President_George_W._Bush', 'bush', 'Vannevar_Bush', 'George_Herbert_Walker_Bush', 'pubic_hair', 'George_H.W._Bush', 'President_Bush', 'shrub', 'crotch_hair', 'scrub']",The Moon and the Thorn.
+taste,"['gustatory_perception', 'try', 'gustatory_sensation', 'gustation', 'savor', 'discernment', 'sample', 'mouthful', 'appreciation', 'preference', 'penchant', 'predilection', 'taste_sensation', 'gustatory_modality', 'try_out', 'savour', 'perceptiveness', 'smack', 'taste', 'sense_of_taste', 'tasting', 'taste_perception']",The Moon and the Thorn.
+stirring,"['conjure', 'budge', 'inspiration', 'rousing', 'shake', 'soul-stirring', 'stir', 'raise', 'arouse', 'call_down', 'conjure_up', 'evoke', 'excite', 'shake_up', 'call_forth', 'invoke', 'stimulate', 'bring_up', 'stirring', 'shift', 'touch', 'agitate', 'put_forward']",The Moon and the Thorn.
+enjoyed,"['savour', 'love', 'savor', 'revel', 'relish', 'bask', 'delight', 'enjoy']",The Moon and the Thorn.
+lady's,[],The Moon and the Thorn.
+inevitably,"['ineluctably', 'needs', 'necessarily', 'inevitably', 'unavoidably', 'inescapably', 'of_necessity']",The Moon and the Thorn.
+touching,"['advert', 'affecting', 'meet', 'poignant', 'impact', 'stir', 'refer', 'tinge', 'bear_on', 'contact', 'concern', 'bear_upon', 'affect', 'rival', 'allude', 'adjoin', 'come_to', 'tinct', 'touch_on', 'relate', 'have-to_doe_with', 'reach', 'equal', 'partake', 'pertain', 'match', 'tint', 'touching', 'touch', 'extend_to', 'disturb']",The Moon and the Thorn.
+ain't,[],The Moon and the Thorn.
+just,"['hardly', 'upright', 'just_now', 'simply', 'merely', 'only', 'scarcely', 'equitable', 'exactly', 'just', 'barely', 'but', 'scarce', 'fair', 'precisely', 'good']",The Moon and the Thorn.
+table,"['defer', 'shelve', 'tabulate', 'put_off', 'tabularise', 'put_over', 'postpone', 'prorogue', 'table', 'mesa', 'tabularize', 'set_back', 'remit', 'hold_over', 'tabular_array', 'board']",The Moon and the Thorn.
+bare,"['denude', 'unembellished', 'marginal', 'unfinished', 'unornamented', 'spare', 'stark', 'air', 'barren', 'stripped', 'mere', 'desolate', 'plain', 'au_naturel', 'bleak', 'nude', 'publicize', 'denudate', 'publicise', 'strip', 'scanty', 'bare', 'naked', 'simple', 'unsheathed']",The Moon and the Thorn.
+almost,"['nigh', 'virtually', 'about', 'most', 'nearly', 'well-nigh', 'almost', 'near']",The Moon and the Thorn.
+until,[],The Moon and the Thorn.
+sisters,"['Sister', 'sister', 'babe', 'sis', 'baby']",The Moon and the Thorn.
+remembering,"['call_back', 'remember', 'recollect', 'commend', 'think', 'commemorate', 'think_of', 'think_back', 'recall', 'memory', 'remembering', 'call_up', 'retrieve']",The Moon and the Thorn.
+thick,"['thickset', 'blockheaded', 'thickheaded', 'dense', 'compact', 'loggerheaded', 'buddy-buddy', 'boneheaded', 'thick-skulled', 'slurred', 'duncish', 'stocky', 'deep', 'midst', 'wooden-headed', 'chummy', 'heavyset', 'thickly', 'duncical', 'thick', 'fatheaded']",The Moon and the Thorn.
+he,"['He', 'helium', 'atomic_number_2', 'he']",The Moon and the Thorn.
+strong,"['stiff', 'unassailable', 'unattackable', 'substantial', 'strong', 'warm', 'firm', 'solid', 'hard', 'inviolable', 'secure', 'potent', 'impregnable']",The Moon and the Thorn.
+father,"['generate', 'father', 'Padre', 'forefather', 'Father', 'founding_father', 'mother', 'engender', 'Fatherhood', 'Church_Father', 'male_parent', 'begetter', 'get', 'beget', 'Father-God', 'don', 'Father_of_the_Church', 'founder', 'beginner', 'bring_forth', 'sire']",The Moon and the Thorn.
+make,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'brand', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'shuffling', 'make_up', 'shuffle', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",The Moon and the Thorn.
+dewdrops,['dewdrop'],The Moon and the Thorn.
+things,"['affair', 'matter', 'thing', 'things']",The Moon and the Thorn.
+figure,"['number', 'enter', 'estimate', 'pattern', 'fig', 'physique', 'calculate', 'figure', 'material_body', 'see', 'compute', 'bod', 'trope', 'soma', 'count_on', 'visualise', 'image', 'reckon', 'build', 'anatomy', 'public_figure', 'flesh', 'digit', 'physical_body', 'form', 'design', 'envision', 'name', 'figure_of_speech', 'work_out', 'picture', 'cypher', 'frame', 'chassis', 'fancy', 'cipher', 'shape', 'human_body', 'visualize', 'project', 'forecast']",The Moon and the Thorn.
+Only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",The Moon and the Thorn.
+see,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Moon and the Thorn.
+after,"['subsequently', 'afterwards', 'after', 'later_on', 'later', 'afterward']",The Moon and the Thorn.
+lowly,"['junior-grade', 'lower-ranking', 'humble', 'petty', 'menial', 'modest', 'subaltern', 'base', 'baseborn', 'lowly', 'low', 'secondary', 'small']",The Moon and the Thorn.
+taught,"['learn', 'instruct', 'teach']",The Moon and the Thorn.
+Of,[],The Moon and the Thorn.
+would,[],The Moon and the Thorn.
+drying,"['dry', 'dry_out']",The Moon and the Thorn.
+wicked,"['severe', 'pixilated', 'skanky', 'wicked', 'repelling', 'loathsome', 'repellent', 'implike', 'prankish', 'terrible', 'impish', 'repellant', 'unholy', 'arch', 'mischievous', 'revolting', 'disgustful', 'loathly', 'distasteful', 'puckish', 'yucky', 'sinful', 'disgusting', 'foul']",The Moon and the Thorn.
+rolling,"['range', 'seethe', 'pealing', 'undulate', 'wheeling', 'wrap', 'wheel', 'drift', 'rolling', 'ramble', 'tramp', 'rolled', 'wander', 'hustle', 'rove', 'stray', 'roll_up', 'vagabond', 'turn_over', 'roll', 'pluck', 'wind', 'cast', 'wave', 'revolve', 'flap', 'peal', 'roll_out', 'twine', 'roam', 'swan', 'trilled']",The Moon and the Thorn.
+Valentine,"['Valentine', 'valentine']",The Moon and the Thorn.
+course,"['of_course', 'track', 'line', 'run', 'form', 'feed', 'course', 'course_of_action', 'course_of_instruction', 'flow', 'trend', 'course_of_study', 'path', 'row', 'naturally', 'class', 'grade']",The Moon and the Thorn.
+stones,"['Harlan_F._Stone', 'stone', 'gemstone', 'Harlan_Fisk_Stone', 'Oliver_Stone', 'Lucy_Stone', 'Edward_Durell_Stone', 'Harlan_Stone', 'Isidor_Feinstein_Stone', 'lapidate', 'endocarp', 'gem', 'rock', 'I._F._Stone', 'Harlan_Fiske_Stone', 'pit', 'Stone']",The Moon and the Thorn.
+whatsoever,"['whatever', 'any', 'whatsoever']",The Moon and the Thorn.
+murmured,"['gnarl', 'grumble', 'murmur', 'croak', 'mutter']",The Moon and the Thorn.
+passed,"['perish', 'clear', 'authorize', 'buy_the_farm', 'expire', 'put_across', 'make_pass', 'reach', 'evanesce', 'pass_on', 'conk', 'pass_off', 'blow_over', 'go_along', 'pass_along', 'die', ""cash_in_one's_chips"", 'go_through', 'croak', 'happen', 'overstep', 'overtake', 'spend', 'fade', 'elapse', 'fall_out', 'pass_away', 'legislate', 'take_place', 'eliminate', 'give-up_the_ghost', 'slide_by', 'transcend', 'lapse', 'drop_dead', 'extend', 'choke', 'go_on', 'occur', 'draw', 'kick_the_bucket', 'overhaul', 'sink', 'exit', 'communicate', 'hap', 'glide_by', 'slip_away', 'egest', 'decease', 'pass', 'run', 'make_it', 'fleet', 'pass_by', 'return', 'travel_by', 'come_about', 'guide', 'go_past', 'exceed', 'turn_over', 'go_across', 'slip_by', 'fall', 'top', 'surpass', 'hand', 'pop_off', 'go_by', 'lead', 'devolve', 'excrete', 'go', 'give', 'authorise', 'snuff_it']",The Moon and the Thorn.
+places,"['put', 'come_out', 'target', 'range', 'place', 'situation', 'aim', 'station', 'property', 'position', 'rate', 'lay', 'plaza', 'stead', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'seat', 'point', 'billet', 'commit', 'shoes', 'localize', 'identify', 'rank', 'office', 'pose', 'grade', 'localise', 'topographic_point', 'blank_space', 'home', 'spot', 'space', 'send', 'locate', 'lieu', 'berth', 'site', 'piazza']",The Moon and the Thorn.
+plainly,"['evidently', 'simply', 'patently', 'plainly', 'obviously', 'plain', 'apparently', 'manifestly']",The Moon and the Thorn.
+again,"['once_more', 'once_again', 'over_again', 'again']",The Moon and the Thorn.
+house,"['household', 'star_sign', 'sign', 'theater', 'mansion', 'sign_of_the_zodiac', 'menage', 'home', 'put_up', 'planetary_house', 'business_firm', 'domiciliate', 'theatre', 'family', 'firm', 'house']",The Moon and the Thorn.
+wish,"['wish_well', 'wish', 'like', 'wishing', 'want', 'bid', 'compliments', 'indirect_request', 'regard', 'care']",The Moon and the Thorn.
+ran,"['escape', 'range', 'track_down', 'endure', 'draw', 'run_for', 'turn_tail', 'break_away', 'function', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'lam', 'operate', 'execute', 'persist', 'run_away', 'work', 'consort', 'melt', 'ply', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'carry', 'play', 'incline', 'prevail', 'pass', 'run', 'tend', 'bleed', 'hunt', 'lead', 'campaign', 'hunt_down', 'scarper', 'take_to_the_woods', 'go', 'die_hard', 'lean', 'ladder', 'extend', 'head_for_the_hills', 'bunk']",The Moon and the Thorn.
+wishing,"['wish_well', 'like', 'wish', 'wishing', 'want', 'bid', 'care']",The Moon and the Thorn.
+of,[],The Moon and the Thorn.
+bouquet,"['sweetness', 'fragrancy', 'redolence', 'bouquet', 'fragrance', 'corsage', 'nosegay', 'posy']",The Moon and the Thorn.
+pleasantly,"['agreeably', 'sunnily', 'enjoyably', 'pleasantly', 'cheerily']",The Moon and the Thorn.
+below,"['beneath', 'infra', 'down_the_stairs', 'under', 'to_a_lower_place', 'at_a_lower_place', 'downstairs', 'below', 'on_a_lower_floor']",The Moon and the Thorn.
+stint,"['scrimp', 'least_sandpiper', 'skimp', 'scant', 'stretch', 'Erolia_minutilla', 'stint']",The Moon and the Thorn.
+seem,"['seem', 'appear', 'look']",The Moon and the Thorn.
+chair,"['death_chair', 'hot_seat', 'lead', 'professorship', 'chairwoman', 'president', 'electric_chair', 'moderate', 'chairman', 'chairperson', 'chair']",The Moon and the Thorn.
+visiting,"['see', 'chit-chat', 'confabulate', 'chat', 'inspect', 'chitchat', 'visit', 'call', 'chew_the_fat', 'travel_to', 'impose', 'call_in', 'chatter', 'inflict', 'shoot_the_breeze', 'visiting', 'jaw', 'claver', 'natter', 'confab', 'gossip', 'chaffer', 'bring_down']",The Moon and the Thorn.
+very,"['very', 'selfsame', 'identical', 'really', 'rattling', 'real']",The Moon and the Thorn.
+Y'r,[],The Moon and the Thorn.
+They,[],The Moon and the Thorn.
+womanly,"['womanly', 'feminine']",The Moon and the Thorn.
+sighed,"['suspire', 'sigh']",The Moon and the Thorn.
+note,"['line', 'notation', 'greenback', 'tone', 'short_letter', 'banknote', 'preeminence', 'government_note', 'notice', 'take_down', ""banker's_bill"", 'distinction', 'mark', 'promissory_note', 'bank_note', 'billet', 'note_of_hand', 'bank_bill', 'bill', 'Federal_Reserve_note', 'mention', 'take_note', 'eminence', 'annotation', 'observe', 'note', 'musical_note', 'remark']",The Moon and the Thorn.
+;,[],The Moon and the Thorn.
+beard,"['face_fungus', 'byssus', 'beard', 'whiskers']",The Moon and the Thorn.
+wearily,"['tiredly', 'wearily']",The Moon and the Thorn.
+tied,"['bond', 'trussed', 'splice', 'laced', 'draw', 'marry', 'even', 'level', 'bind', 'connect', 'tied', 'link', 'link_up', 'attach', 'fastened', 'tie', 'wed']",The Moon and the Thorn.
+turn,"['number', 'round', 'change_by_reversal', 'reverse', 'flex', 'grow', 'crook', 'rick', 'move_around', 'sprain', 'change_state', 'tour', 'spell', 'work', 'twist', 'good_turn', 'turn_over', 'turning', 'call_on', 'release', 'plow', 'plough', 'deform', 'play', 'become', 'bend', 'wrench', 'act', 'bit', 'bout', 'go', 'turn', 'turn_of_events', 'sour', 'ferment', 'routine', 'wrick']",The Moon and the Thorn.
+weather,"['atmospheric_condition', 'conditions', 'endure', 'weather', 'brave', 'weather_condition', 'brave_out', 'upwind']",The Moon and the Thorn.
+rosebush,"['rosebush', 'rose']",The Moon and the Thorn.
+side,"['side_of_meat', 'face', 'side', 'incline', 'English', 'position', 'slope']",The Moon and the Thorn.
+argue,"['indicate', 'reason', 'fence', 'contend', 'argue', 'debate']",The Moon and the Thorn.
+Miss,"['leave_out', 'pretermit', 'girl', 'escape', 'overlook', 'fille', 'lose', 'overleap', 'drop', 'young_lady', 'lack', 'misfire', 'missy', 'Miss', 'neglect', 'omit', 'young_woman', 'miss']",The Moon and the Thorn.
+family,"['folk', 'menage', 'sept', 'class', 'household', 'kinfolk', 'kinsfolk', 'house', 'kin', 'kinsperson', 'fellowship', 'family_unit', 'family', 'mob', 'phratry', 'syndicate', 'family_line', 'home', 'crime_syndicate', 'category']",The Moon and the Thorn.
+small,"['pocket-size', 'humble', 'pocket-sized', 'modest', 'diminished', 'minor', 'lowly', 'small-scale', 'low', 'minuscule', 'small', 'belittled', 'little']",The Moon and the Thorn.
+spared,"['dispense_with', 'part_with', 'save', 'spare', 'give_up', 'spar']",The Moon and the Thorn.
+padded,"['padded', 'aggrandise', 'lard', 'cushioned', 'bolster', 'fill_out', 'cushiony', 'pad', 'plod', 'tramp', 'footslog', 'trudge', 'slog', 'embroider', 'dramatise', 'dramatize', 'aggrandize', 'embellish', 'blow_up']",The Moon and the Thorn.
+time,"['metre', 'time', 'prison_term', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'fourth_dimension']",The Moon and the Thorn.
+gently,"['mildly', 'lightly', 'gently', 'softly']",The Moon and the Thorn.
+lawful,"['licit', 'lawful', 'legitimate', 'true', 'rule-governed', 'rightful']",The Moon and the Thorn.
+If,[],The Moon and the Thorn.
+human,"['man', 'human_being', 'homo', 'human']",The Moon and the Thorn.
+(,[],The Moon and the Thorn.
+lot,"['pot', 'stack', 'draw', 'fate', 'distribute', 'deal_out', 'portion', 'allot', 'lot', 'mickle', 'plenty', 'band', 'hatful', 'tidy_sum', 'deal', 'muckle', 'pile', 'slew', 'mete_out', 'mint', 'spate', 'mountain', 'parcel_out', 'dispense', 'set', 'dole_out', 'luck', 'administer', 'circumstances', 'bunch', 'peck', 'sight', 'circle', 'batch', 'Lot', 'dish_out', 'good_deal', 'mess', 'shell_out', 'caboodle', 'destiny', 'passel', 'wad', 'heap', 'fortune', 'flock', 'mass', 'quite_a_little', 'great_deal', 'raft']",The Moon and the Thorn.
+peace,"['peacefulness', 'serenity', 'public_security', 'peace', 'repose', 'heartsease', 'peace_treaty', 'peace_of_mind', 'ataraxis', 'pacification']",The Moon and the Thorn.
+wildness,"['ferocity', 'abandon', 'vehemence', 'furiousness', 'violence', 'wildness', 'fury', 'fierceness']",The Moon and the Thorn.
+Left,"['get_out', 'leave_alone', 'go_away', 'left', 'left-hand', 'entrust', 'remaining', 'allow_for', 'exit', 'left_over', 'left_hand', 'go_out', 'pull_up_stakes', 'leftfield', 'go_forth', 'leftover', 'odd', 'impart', 'allow', 'leave', 'provide', 'depart', 'unexpended', 'left_wing', 'will', 'pass_on', 'bequeath', 'forget', 'leave_behind', 'left_field', 'lead', 'result', 'give']",The Moon and the Thorn.
+round,"['round_out', 'assail', 'assault', 'cycle', 'fill_out', 'orotund', 'round_down', 'round', 'around', 'rotund', 'labialize', 'attack', 'lash_out', 'one_shot', 'pear-shaped', 'unit_of_ammunition', 'polish', 'rhythm', 'round_of_golf', 'round_off', 'troll', 'circle', 'circular', 'stave', 'rung', 'flesh_out', 'brush_up', 'polish_up', 'snipe', 'beat', 'round_of_drinks', 'bout', 'turn', 'daily_round', 'labialise']",The Moon and the Thorn.
+mightily,"['right', 'powerful', 'mightily', 'mighty']",The Moon and the Thorn.
+sad,"['sad', 'lamentable', 'sorry', 'pitiful', 'distressing', 'deplorable']",The Moon and the Thorn.
+gray,"['hoary', 'gray-headed', 'grey-haired', 'Gy', 'gray', 'grayness', 'Asa_Gray', 'greyness', 'grey-headed', 'hoar', 'white-haired', 'Robert_Gray', 'grey', 'Louis_Harold_Gray', 'Thomas_Gray', 'greyish', 'grayish', 'gray-haired', 'grizzly', 'Gray']",The Moon and the Thorn.
+own,"['possess', 'own', 'ain', 'have']",The Moon and the Thorn.
+rests,"['remainder', 'take_a_breather', 'remain', 'eternal_rest', 'rest', 'repose', 'eternal_sleep', 'sleep', 'balance', 'perch', 'stay', 'breathe', 'relief', 'rest_period', 'residual', 'residuum', 'respite', 'ease', 'roost', 'pillow', 'quietus', ""catch_one's_breath"", 'relaxation', 'lie', 'reside', 'residue']",The Moon and the Thorn.
+moss,['moss'],The Moon and the Thorn.
+find,"['see', 'rule', 'breakthrough', 'happen', 'uncovering', 'notice', 'find', 'encounter', 'find_out', 'incur', 'feel', 'receive', 'get', 'come_up', 'detect', 'ascertain', 'regain', 'get_hold', 'determine', 'obtain', 'bump', 'chance', 'recover', 'discover', 'witness', 'observe', 'line_up', 'discovery', 'find_oneself', 'retrieve']",The Moon and the Thorn.
+fingers,"['finger', 'fingerbreadth', ""finger's_breadth"", 'thumb', 'digit', 'feel']",The Moon and the Thorn.
+shadow,"['tail', 'shadower', 'shade_off', 'phantom', 'overshadow', 'phantasm', 'phantasma', 'dark', 'fantasm', 'tincture', 'dwarf', 'shadow', 'trace', 'shade', 'vestige', 'darkness', 'apparition']",The Moon and the Thorn.
+set,"['put', 'hardened', 'determined', 'place', 'located', 'adjust', 'lay_out', 'typeset', 'coif', 'rigid', 'lot', 'correct', 'band', 'position', 'Set', 'go_down', 'congeal', 'exercise_set', 'sic', 'lay', 'readiness', 'limit', 'ready', 'primed', 'placed', 'Seth', 'set', 'define', 'fructify', 'mark', 'go_under', 'do', 'curing', 'laid', 'rig', 'dress', 'stage_set', 'situated', 'fit', 'circle', 'jell', 'dictated', 'hardening', 'bent', 'determine', 'solidifying', 'localize', 'coiffe', 'solidification', 'pose', 'plant', 'fix', 'arrange', 'localise', 'fixed', 'set_up', 'coiffure', 'prepare', 'specify', 'countersink', 'gear_up']",The Moon and the Thorn.
+burst,"['flare-up', 'fit', 'bust', 'collapse', 'break_open', 'split', 'break', 'explode', 'burst', 'volley', 'outburst', 'explosion', 'abound', 'fusillade', 'bristle', 'erupt', 'salvo']",The Moon and the Thorn.
+Maneret,[],The Moon and the Thorn.
+unbelievably,"['incredibly', 'implausibly', 'unbelievably', 'improbably']",The Moon and the Thorn.
+indecipherable,"['unclear', 'unreadable', 'indecipherable', 'undecipherable']",The Moon and the Thorn.
+that,[],The Moon and the Thorn.
+came,"['number', 'total', 'occur', 'get_along', 'fare', 'make_out', 'hail', 'do', 'come_in', 'amount', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'descend', 'come', 'issue_forth', 'follow']",The Moon and the Thorn.
+young,"['Whitney_Young', 'Pres_Young', 'Cy_Young', 'unseasoned', 'Loretta_Young', 'Brigham_Young', 'vernal', 'Lester_Willis_Young', 'youthful', 'Thomas_Young', 'offspring', 'youth', 'untried', 'new', 'Whitney_Moore_Young_Jr.', 'Edward_Young', 'young', 'Young', 'Danton_True_Young', 'immature', 'untested']",The Moon and the Thorn.
+now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",The Moon and the Thorn.
+be,"['constitute', 'Be', 'equal', 'embody', 'cost', 'comprise', 'glucinium', 'represent', 'make_up', 'be', 'live', 'exist', 'follow', 'personify', 'beryllium', 'atomic_number_4']",The Moon and the Thorn.
+shoes,"['shoe', 'horseshoe', 'place', 'shoes', 'brake_shoe', 'skid']",The Moon and the Thorn.
+bent,"['dead_set', 'turn_away', 'deflect', 'bended', 'bent_grass', 'flex', 'out_to', 'dented', 'set', 'knack', 'stoop', 'twist', 'hang', 'deform', 'crumpled', 'bent', 'bow', 'bend', 'bent_on', 'turn', 'crouch', 'bent-grass']",The Moon and the Thorn.
+proof,"['proofread', 'validation', 'substantiation', 'proof', 'test_copy', 'cogent_evidence', 'trial_impression']",The Moon and the Thorn.
+but,"['simply', 'merely', 'only', 'just', 'but']",The Moon and the Thorn.
+There,"['there', 'at_that_place', 'on_that_point', 'thither', 'in_that_location', 'in_that_respect']",The Moon and the Thorn.
+spray,"['spraying', 'spray', 'atomiser', 'atomizer', 'sprayer', 'nebuliser', 'nebulizer']",The Moon and the Thorn.
+either,['either'],The Moon and the Thorn.
+An,"['Associate_in_Nursing', 'AN']",The Moon and the Thorn.
+harm,"['impairment', 'harm', 'injury', 'damage', 'scathe', 'hurt', 'trauma']",The Moon and the Thorn.
+what,[],The Moon and the Thorn.
+both,['both'],The Moon and the Thorn.
+soldierly,"['warriorlike', 'soldierlike', 'martial', 'soldierly']",The Moon and the Thorn.
+flowers,"['prime', 'flush', 'flower', 'efflorescence', 'bloom', 'heyday', 'peak', 'blossom']",The Moon and the Thorn.
+brown,"['John_Brown', 'Brown', 'dark-brown', 'brown', 'browned', 'brownness', 'embrown', 'Brown_University', 'brownish', 'chocolate-brown', 'Robert_Brown']",The Moon and the Thorn.
+dew,['dew'],The Moon and the Thorn.
+headstones,"['tombstone', 'headstone', 'key', 'keystone', 'gravestone']",The Moon and the Thorn.
+three,"['iii', 'triad', 'leash', 'ternary', 'troika', 'terzetto', '3', 'trinity', 'triplet', 'trio', 'threesome', 'tierce', 'trine', 'deuce-ace', 'ternion', 'III', 'three', 'tercet', 'trey']",The Moon and the Thorn.
+Doaty,[],The Moon and the Thorn.
+not,"['non', 'not']",The Moon and the Thorn.
+milk,"['Milk', 'milk', 'Milk_River']",The Moon and the Thorn.
+open,"['clear', 'exposed', 'opened', 'undetermined', 'unresolved', 'capable', 'surface', 'unfastened', 'loose', 'undefended', 'heart-to-heart', 'out-of-doors', 'overt', 'open_up', 'open_air', 'assailable', 'spread_out', 'undefendable', 'spread', 'unfold', 'afford', 'outdoors', 'candid', 'give', 'receptive', 'undecided', 'subject', 'open']",The Moon and the Thorn.
+scowled,['scowl'],The Moon and the Thorn.
+lifted,"['pilfer', 'uprise', 'revoke', 'arise', 'countermand', 'overturn', 'reverse', 'vacate', 'raise', 'lift', 'rustle', 'cabbage', 'hoist', 'face-lift', 'sneak', 'upraised', 'get_up', 'swipe', 'abstract', 'come_up', 'hook', 'wind', 'plagiarize', 'go_up', 'rise', 'rescind', 'pinch', 'nobble', 'bring_up', 'rear', 'lifted', 'move_up', 'airlift', 'annul', 'repeal', 'plagiarise', 'snarf', 'elevate', 'purloin', 'filch']",The Moon and the Thorn.
+edge,"['edge', 'butt', 'border', 'boundary', 'inch', 'abut', 'butt_on', 'adjoin', 'bound', 'march', 'butt_against', 'sharpness']",The Moon and the Thorn.
+awed,"['awed', 'awe', 'awestruck', 'awful', 'awestricken']",The Moon and the Thorn.
+colloquy,['colloquy'],The Moon and the Thorn.
+closed,"['unopen', 'unsympathetic', 'close_up', 'shut', 'closed', 'come_together', 'fold', 'close_down', 'fill_up', 'conclude', 'close', 'closed_in', 'shut_down']",The Moon and the Thorn.
+cry,"['blazon_out', 'shout_out', 'rallying_cry', 'cry', 'shout', 'yell', 'outcry', 'cry_out', 'exclaim', 'squall', 'call', 'hollo', 'watchword', 'war_cry', 'holler', 'battle_cry', 'vociferation', 'weep', 'call_out', 'scream']",The Moon and the Thorn.
+choice,"['select', 'prime', 'choice', 'alternative', 'quality', 'option', 'selection', 'prize', 'pick']",The Moon and the Thorn.
+or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",The Moon and the Thorn.
+moonlight,"['moonlight', 'moonshine', 'Moon']",The Moon and the Thorn.
+good,"['honest', 'undecomposed', 'unspoilt', 'skillful', 'adept', 'skilful', 'soundly', 'good', 'thoroughly', 'practiced', 'proficient', 'beneficial', 'trade_good', 'safe', 'goodness', 'full', 'expert', 'salutary', 'respectable', 'upright', 'unspoiled', 'effective', 'well', 'near', 'ripe', 'in_effect', 'dependable', 'dear', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'commodity', 'estimable']",The Moon and the Thorn.
+door,"['doorway', 'threshold', 'door', 'room_access']",The Moon and the Thorn.
+beer,['beer'],The Moon and the Thorn.
+enough,"['decent', 'enough', 'sufficiency', 'adequate', 'plenty']",The Moon and the Thorn.
+big-boned,['big-boned'],The Moon and the Thorn.
+vaguely,"['vaguely', 'mistily']",The Moon and the Thorn.
+full,"['full-of-the-moon', 'fully', 'wide-cut', 'full_moon', 'replete', 'broad', 'total', 'full', 'to_the_full', 'entire', 'wax', 'wide', 'full_phase_of_the_moon', 'good']",The Moon and the Thorn.
+wand,"['scepter', 'baton', 'verge', 'wand', 'sceptre']",The Moon and the Thorn.
+poor,"['wretched', 'pitiable', 'misfortunate', 'poor_people', 'hapless', 'poor', 'piteous', 'miserable', 'pathetic', 'pitiful', 'inadequate', 'short']",The Moon and the Thorn.
+yet,"['as_yet', 'even', 'all_the_same', 'even_so', 'still', 'until_now', 'yet', 'til_now', 'nonetheless', 'heretofore', 'notwithstanding', 'so_far', 'hitherto', 'nevertheless', 'however', 'in_time', 'thus_far', 'up_to_now', 'withal']",The Moon and the Thorn.
+other,"['early', 'former', 'other']",The Moon and the Thorn.
+See,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Moon and the Thorn.
+back,"['spine', 'binding', 'endorse', 'plunk_for', 'punt', 'hinder', 'dorsum', 'plump_for', 'game', 'second', 'stake', 'indorse', 'support', 'backward', 'back_up', 'back', 'spinal_column', 'rearward', 'gage', 'backbone', 'rearwards', 'cover', 'bet_on', 'backwards', 'book_binding', 'vertebral_column', 'rear', 'rachis', 'backrest', 'hind']",The Moon and the Thorn.
+rising,"['spring_up', 'uprise', 'arise', 'wax', 'originate', 'heighten', 'lift', 'grow', 'emerging', 'jump', 'surface', 'uphill', 'stand_up', 'acclivitous', 'climb_up', 'get_up', 'turn_out', 'rising', 'uprising', 'develop', 'come_up', 'prove', 'go_up', 'rise', 'ascension', 'rebellion', 'rebel', 'ascend', 'rear', 'climb', 'move_up', 'resurrect', 'revolt', 'mount', 'ascent', 'rise_up', 'insurrection']",The Moon and the Thorn.
+Polish,"['culture', 'burnish', 'down', 'round', 'refinement', 'fine-tune', 'refine', 'Polish', 'gloss', 'polish', 'round_off', 'glossiness', 'shine', 'smooth', 'brush_up', 'polish_up', 'cultivation', 'smoothen', 'finish']",The Moon and the Thorn.
+anyone,[],The Moon and the Thorn.
+him,[],The Moon and the Thorn.
+offered,"['provide', 'pop_the_question', 'volunteer', 'offer_up', 'offer', 'put_up', 'extend', 'bid', 'proffer', 'declare_oneself', 'propose', 'tender']",The Moon and the Thorn.
+often,"['ofttimes', 'oft', 'a_great_deal', 'oftentimes', 'much', 'often', 'frequently']",The Moon and the Thorn.
+pulled,"['get_out', 'tear', 'force', 'draw', 'draw_out', 'extract', 'pull_up', 'take_out', 'displume', 'rive', 'deplume', 'pull_in', 'root_for', 'deplumate', 'pull_out', 'rip', 'pluck', 'rend', 'perpetrate', 'commit', 'pull', 'attract', 'draw_in', 'overstretch']",The Moon and the Thorn.
+grand-daughter,[],The Moon and the Thorn.
+begged,"['tap', 'implore', 'beg', 'solicit', 'pray']",The Moon and the Thorn.
+Perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",The Moon and the Thorn.
+He's,[],The Moon and the Thorn.
+interested,"['concerned', 'concern', 'occupy', 'interested', 'worry', 'matter_to', 'interest']",The Moon and the Thorn.
+will,"['bequeath', 'volition', 'testament', 'will', 'leave']",The Moon and the Thorn.
+hand,"['helping_hand', 'deal', 'hand', 'paw', 'script', 'handwriting', 'bridge_player', 'hired_hand', 'mitt', 'manus', 'pass_on', 'give', 'pass', 'reach', 'hired_man', 'turn_over']",The Moon and the Thorn.
+d'un,[],The Moon and the Thorn.
+wedded,"['hook_up_with', 'splice', 'wedded', 'espouse', 'marry', 'get_hitched_with', 'get_married', 'conjoin', 'tie', 'wed']",The Moon and the Thorn.
+Selma,['Selma'],The Moon and the Thorn.
+testament,"['Testament', 'testament', 'will']",The Moon and the Thorn.
+able,"['capable', 'able', 'able-bodied']",The Moon and the Thorn.
+go,"['crack', 'plump', 'break_down', 'endure', 'go_away', 'perish', 'choke', 'kick_the_bucket', 'go_game', 'live', 'die', 'get_going', ""cash_in_one's_chips"", 'croak', 'function', 'whirl', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'cristal', 'blend_in', 'expire', 'disco_biscuit', 'operate', 'tour', 'spell', 'hug_drug', 'hold_out', 'pass_away', 'work', 'last', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'offer', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'conk', 'Adam', 'lead', 'give_out', 'ecstasy', 'start', 'blend', 'go', 'turn', 'X', 'sound', 'extend', 'survive', 'fling', 'drop_dead', 'snuff_it', 'XTC', 'rifle', 'fail', 'travel', 'give_way']",The Moon and the Thorn.
+eying,"['eyeball', 'eye']",The Moon and the Thorn.
+change,"['vary', 'interchange', 'alter', 'modify', 'exchange', 'modification', 'shift', 'transfer', 'deepen', 'variety', 'alteration', 'change', 'convert', 'switch', 'commute']",The Moon and the Thorn.
+rock-carved,[],The Moon and the Thorn.
+Rosa,"['genus_Rosa', 'Rosa']",The Moon and the Thorn.
+can,"['pot', 'butt', 'give_notice', 'stern', 'sack', 'toilet', 'tail_end', 'terminate', 'hindquarters', 'fanny', 'tush', 'can_buoy', 'tail', 'stool', 'throne', 'buttocks', 'buns', 'john', 'posterior', 'keister', 'tooshie', 'nates', 'give_the_sack', 'prat', 'seat', 'bathroom', 'canful', 'give_the_axe', 'ass', 'put_up', 'privy', 'potty', 'hind_end', 'bum', 'backside', 'behind', 'displace', 'can', 'commode', 'force_out', 'bottom', 'rear', 'crapper', 'lav', 'send_away', 'rump', 'fire', 'tin_can', 'rear_end', 'derriere', 'lavatory', 'fundament', 'arse', 'dismiss', 'tin']",The Moon and the Thorn.
+neat,"['not_bad', 'bully', 'bang-up', 'great', 'tasteful', 'cracking', 'nifty', 'swell', 'corking', 'straight', 'keen', 'groovy', 'refined', 'dandy', 'peachy', 'smashing', 'orderly', 'slap-up', 'full-strength', 'clean', 'neat']",The Moon and the Thorn.
+dotted,"['constellate', 'dot', 'dust', 'stippled', 'specked', 'dashed', 'disperse', 'stud', 'flecked', 'scatter', 'sprinkle', 'dotted', 'speckled']",The Moon and the Thorn.

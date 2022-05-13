@@ -1,0 +1,857 @@
+w,vector_semantico
+Dr.,"['Dr.', 'doctor', 'physician', 'MD', 'medico', 'doc']",How Much Do You Tell When You Talk?
+mind,"['brain', 'creative_thinker', 'mind', 'judgement', 'head', 'judgment', 'idea', 'take_care', 'listen', 'bear_in_mind', 'intellect', 'nous', 'psyche', 'beware', 'thinker', 'heed']",How Much Do You Tell When You Talk?
+also,"['likewise', 'also', 'too', 'besides', 'as_well']",How Much Do You Tell When You Talk?
+automation,"['automation', 'mechanization', 'mechanisation']",How Much Do You Tell When You Talk?
+view,"['watch', 'take_in', 'sight', 'sentiment', 'view', 'reckon', 'look_at', 'regard', 'survey', 'thought', 'catch', 'prospect', 'position', 'scene', 'perspective', 'horizon', 'eyeshot', 'consider', 'see', 'persuasion', 'opinion', 'purview', 'aspect', 'panorama', 'vista']",How Much Do You Tell When You Talk?
+designed,"['design', 'designed', 'contrive', 'intentional', 'project', 'plan']",How Much Do You Tell When You Talk?
+For,[],How Much Do You Tell When You Talk?
+above,"['supra', 'in_a_higher_place', 'higher_up', 'above', 'to_a_higher_place']",How Much Do You Tell When You Talk?
+kinesics,[],How Much Do You Tell When You Talk?
+psychotherapy,"['psychotherapy', 'psychotherapeutics', 'mental_hygiene']",How Much Do You Tell When You Talk?
+norm,"['average', 'norm']",How Much Do You Tell When You Talk?
+by,"['aside', 'away', 'by', 'past']",How Much Do You Tell When You Talk?
+last,"['death', 'live_on', 'in_conclusion', 'finally', 'finish', 'close', 'last', 'live', 'terminal', 'hold_up', 'final_stage', 'endure', 'finale', 'utmost', 'last-place', 'end', 'lastly', ""cobbler's_last"", 'final', 'lowest', 'stopping_point', 'go', 'hold_out', 'concluding', 'finis', 'net', 'conclusion', 'survive', ""shoemaker's_last""]",How Much Do You Tell When You Talk?
+linguists,"['polyglot', 'linguist', 'linguistic_scientist']",How Much Do You Tell When You Talk?
+talker,"['speaker', 'verbaliser', 'verbalizer', 'utterer', 'talker']",How Much Do You Tell When You Talk?
+them,[],How Much Do You Tell When You Talk?
+anthropology,['anthropology'],How Much Do You Tell When You Talk?
+spirits,"['John_Barleycorn', 'spirit_up', 'strong_drink', 'flavour', 'hard_liquor', 'inspirit', 'booze', 'intent', 'heart', 'hard_drink', 'disembodied_spirit', 'purport', 'spirits', 'liveliness', 'feel', 'liquor', 'spirit', 'feeling', 'flavor', 'look', 'smell', 'tone', 'life', 'emotional_state', 'sprightliness']",How Much Do You Tell When You Talk?
+that's,[],How Much Do You Tell When You Talk?
+eventually,"['finally', 'eventually']",How Much Do You Tell When You Talk?
+revealed,"['unwrap', 'discover', 'expose', 'let_on', 'bring_out', 'reveal', 'divulge', 'break', 'uncover', 'let_out', 'give_away', 'unveil', 'disclose']",How Much Do You Tell When You Talk?
+later,"['by_and_by', 'recent', 'later', 'tardy', 'ulterior', 'belated', 'subsequently', 'after', 'later_on', 'former', 'afterwards', 'posterior', 'afterward', 'late', 'previous']",How Much Do You Tell When You Talk?
+human,"['human', 'homo', 'human_being', 'man']",How Much Do You Tell When You Talk?
+as,"['every_bit', 'AS', 'a', 'group_A', 'arsenic', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'American_Samoa', 'angstrom', 'atomic_number_33', 'As', 'as', 'equally', 'A', 'adenine', 'axerophthol', 'ampere', 'angstrom_unit', 'vitamin_A', 'Eastern_Samoa']",How Much Do You Tell When You Talk?
+progress,"['get_along', 'shape_up', 'move_on', 'onward_motion', 'advance', 'pass_on', 'progression', 'build_up', 'forward_motion', 'progress', 'come_along', 'come_on', 'go_on', 'march_on', 'advancement', 'procession', 'get_on', 'work_up', 'build']",How Much Do You Tell When You Talk?
+always,"['perpetually', 'invariably', 'ever', 'constantly', 'incessantly', 'always', ""e'er"", 'forever']",How Much Do You Tell When You Talk?
+mentally,['mentally'],How Much Do You Tell When You Talk?
+instantly,"['immediately', 'directly', 'in_a_flash', 'straight_off', 'forthwith', 'at_once', 'straightaway', 'instantaneously', 'instantly', 'outright', 'right_away', 'now', 'like_a_shot']",How Much Do You Tell When You Talk?
+psychological,['psychological'],How Much Do You Tell When You Talk?
+hardly,"['barely', 'scarce', 'hardly', 'just', 'scarcely']",How Much Do You Tell When You Talk?
+nagging,"['hen-peck', 'nag', 'shrewish', 'peck', 'nagging']",How Much Do You Tell When You Talk?
+desire,"['desire', 'trust', 'hope', 'want']",How Much Do You Tell When You Talk?
+ambivalence,"['ambivalence', 'ambivalency']",How Much Do You Tell When You Talk?
+times,"['times', 'clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'multiplication', 'prison_term', 'time']",How Much Do You Tell When You Talk?
+ear,"['spike', 'ear', 'auricle', 'pinna', 'capitulum']",How Much Do You Tell When You Talk?
+other,"['early', 'former', 'other']",How Much Do You Tell When You Talk?
+Conclusions,"['close', 'ratiocination', 'end', 'decision', 'stopping_point', 'conclusion', 'finish', 'ending', 'closing', 'finis', 'last', 'termination', 'determination', 'finale']",How Much Do You Tell When You Talk?
+another,"['some_other', 'another']",How Much Do You Tell When You Talk?
+spoke,"['radius', 'address', 'rundle', 'verbalise', 'rung', 'mouth', 'talk', 'spoke', 'utter', 'verbalize', 'speak', 'wheel_spoke']",How Much Do You Tell When You Talk?
+Ray,"['ray', 'shaft', 'ray_of_light', 'radiate', 'light_beam', 'beam_of_light', 'electron_beam', 'irradiation', 'irradiate', 'beam', 'shaft_of_light', 're']",How Much Do You Tell When You Talk?
+orientation,"['predilection', 'orientation', 'orientation_course', 'preference']",How Much Do You Tell When You Talk?
+spot,"['billet', 'distinguish', 'fleck', 'topographic_point', 'smear', 'descry', 'espy', 'blemish', 'make_out', 'daub', 'situation', 'smudge', 'speckle', 'position', 'patch', 'pip', 'pick_out', 'recognise', 'office', 'smirch', 'touch', 'stain', 'spotlight', 'blot', 'tell_apart', 'berth', 'dapple', 'blob', 'place', 'discern', 'maculation', 'point', 'post', 'bit', 'spot', 'spy', 'recognize', 'slur']",How Much Do You Tell When You Talk?
+sort,"['kind', 'classify', 'sieve', 'assort', 'form', 'sort_out', 'screen_out', 'screen', 'class', 'sorting', 'sort', 'separate', 'variety']",How Much Do You Tell When You Talk?
+away,"['outside', 'forth', 'aside', 'by', 'off', 'out', 'away']",How Much Do You Tell When You Talk?
+stress,"['focus', 'tenseness', 'accent', 'emphasize', 'strain', 'try', 'emphasis', 'tension', 'emphasise', 'stress', 'accentuate', 'punctuate']",How Much Do You Tell When You Talk?
+same,"['Saami', 'Saame', 'Lapp', 'Sami', 'Lapplander', 'Same', 'same', 'like']",How Much Do You Tell When You Talk?
+sentences,"['condemn', 'judgment_of_conviction', 'sentence', 'doom', 'condemnation', 'conviction', 'prison_term', 'time']",How Much Do You Tell When You Talk?
+i.e.,"['i.e.', 'id_est', 'ie']",How Much Do You Tell When You Talk?
+experience,"['experience', 'have', 'see', 'know', 'receive', 'feel', 'live', 'go_through', 'get']",How Much Do You Tell When You Talk?
+drawling,['drawl'],How Much Do You Tell When You Talk?
+and,[],How Much Do You Tell When You Talk?
+level,"['storey', 'level', 'level_off', 'floor', 'even', 'charge', 'tied', 'degree', 'raze', 'flush', 'even_out', 'layer', 'take_down', 'pull_down', 'stage', 'flat', 'rase', 'tear_down', 'story', 'point', 'unwavering', 'dismantle', 'stratum', 'grade', 'spirit_level', 'horizontal_surface', 'tier', 'plane']",How Much Do You Tell When You Talk?
+repetition,"['repeating', 'repeat', 'repetition']",How Much Do You Tell When You Talk?
+Trager,[],How Much Do You Tell When You Talk?
+pause,"['intermit', 'interruption', 'hesitate', 'break', 'pause', 'suspension', 'intermission']",How Much Do You Tell When You Talk?
+book,"['Koran', 'record_book', 'Holy_Writ', 'book', 'book_of_account', 'reserve', 'rule_book', 'script', ""al-Qur'an"", 'ledger', 'Word', 'playscript', 'Holy_Scripture', 'leger', 'Book', 'hold', 'Bible', 'volume', 'Good_Book', 'Scripture', 'Quran', 'record', 'Christian_Bible', 'account_book', 'Word_of_God']",How Much Do You Tell When You Talk?
+girls,"['girlfriend', 'young_woman', 'lady_friend', 'fille', 'girl', 'missy', 'miss', 'young_lady', 'little_girl', 'female_child', 'daughter']",How Much Do You Tell When You Talk?
+explored,"['research', 'explore', 'search']",How Much Do You Tell When You Talk?
+happened,"['bump', 'come_about', 'hap', 'fall_out', 'pass_off', 'find', 'materialize', 'encounter', 'happen', 'befall', 'pass', 'take_place', 'chance', 'go_on', 'bechance', 'occur', 'materialise']",How Much Do You Tell When You Talk?
+central,"['central', 'exchange', 'key', 'primal', 'fundamental', 'telephone_exchange', 'cardinal']",How Much Do You Tell When You Talk?
+knotted,"['gnarly', 'knobbed', 'tangle', 'knot', 'knotted', 'ravel', 'knotty', 'gnarled']",How Much Do You Tell When You Talk?
+him,[],How Much Do You Tell When You Talk?
+described,"['distinguish', 'key', 'describe', 'discover', 'line', 'delineate', 'described', 'depict', 'draw', 'account', 'identify', 'trace', 'name', 'report', 'key_out']",How Much Do You Tell When You Talk?
+neurasthenic,['neurasthenic'],How Much Do You Tell When You Talk?
+1940's,[],How Much Do You Tell When You Talk?
+used,"['utilise', 'habituate', 'exploited', 'put-upon', 'apply', 'victimized', 'use', 'practice', 'expend', 'employ', 'utilize', 'used', 'ill-used', 'victimised', 'secondhand']",How Much Do You Tell When You Talk?
+Ross,"['Sir_Ronald_Ross', 'Nellie_Ross', 'Nellie_Tayloe_Ross', 'Sir_John_Ross', 'Sir_James_Clark_Ross', 'Betsy_Ross', 'Betsy_Griscom_Ross', 'Ross', 'James_Clark_Ross', 'John_Ross']",How Much Do You Tell When You Talk?
+doesn't,[],How Much Do You Tell When You Talk?
+The,[],How Much Do You Tell When You Talk?
+understanding,"['sympathize', 'realize', 'read', 'interpret', 'savvy', 'sympathy', 'empathize', 'agreement', 'apprehension', 'intellect', 'discernment', 'empathise', 'understanding', 'see', 'translate', 'understand', 'reason', 'infer', 'sympathise', 'realise']",How Much Do You Tell When You Talk?
+signal,"['point', 'signalize', 'signalise', 'signal', 'indicate', 'sign', 'betoken', 'signaling', 'bespeak']",How Much Do You Tell When You Talk?
+significant,"['pregnant', 'substantial', 'important', 'significant', 'meaning']",How Much Do You Tell When You Talk?
+listen,"['mind', 'hear', 'take_heed', 'listen', 'heed']",How Much Do You Tell When You Talk?
+points,"['level', 'head', 'channelise', 'taper', 'manoeuvre', 'charge', 'full_stop', 'degree', 'compass_point', 'breaker_point', 'bespeak', 'steer', 'tip', 'peak', 'dot', 'pointedness', 'distributor_point', 'detail', 'sharpen', 'stage', 'aim', 'period', 'signal', 'full_point', 'gunpoint', 'designate', 'show', 'manoeuver', 'direct', 'place', 'guide', 'channelize', 'stop', 'target', 'point', 'decimal_point', 'repoint', 'indicate', 'point_in_time', 'orient', 'percentage_point', 'item', 'spot', 'betoken', 'luff', 'power_point', 'maneuver']",How Much Do You Tell When You Talk?
+Linguistic,"['lingual', 'linguistic']",How Much Do You Tell When You Talk?
+speech,"['address', 'manner_of_speaking', 'delivery', 'spoken_language', ""actor's_line"", 'talking_to', 'spoken_communication', 'words', 'oral_communication', 'speech_communication', 'voice_communication', 'speech', 'lecture', 'language']",How Much Do You Tell When You Talk?
+hands,"['men', 'hired_man', 'custody', 'script', 'pass_on', 'deal', 'helping_hand', 'give', 'mitt', 'work_force', 'workforce', 'hands', 'pass', 'paw', 'turn_over', 'manpower', 'hand', 'reach', 'handwriting', 'hired_hand', 'manus', 'bridge_player']",How Much Do You Tell When You Talk?
+light,"['twinkle', 'illumine', 'get_off', 'Light_Within', 'lightly', 'promiscuous', 'igniter', 'wanton', 'faint', 'calorie-free', 'wakeful', 'Light', 'illume', 'lightness', 'light_source', 'ignite', 'clear', 'sluttish', 'luminousness', 'ignitor', 'tripping', 'Inner_Light', 'scant', 'sparkle', 'brightness_level', 'lighter', 'swooning', 'light-colored', 'unclouded', 'clean', 'idle', 'luminosity', 'lighting', 'get_down', 'unaccented', 'weak', 'fall', 'visible_radiation', 'spark', 'light', 'easy', 'perch', 'unhorse', 'low-cal', 'brightness', 'illuminate', 'abstemious', 'light-headed', 'short', 'lite', 'Christ_Within', 'light_up', 'loose', 'fire_up', 'lightsome', 'luminance', 'visible_light', 'illumination', 'alight', 'lightheaded', 'dismount']",How Much Do You Tell When You Talk?
+up,"['improving', 'upwardly', 'astir', 'upwards', 'upward', 'up']",How Much Do You Tell When You Talk?
+fade,"['slicing', 'languish', 'disappearance', 'wither', 'pass_off', 'fleet', 'slice', 'pass', 'melt', 'evanesce', 'fade', 'blow_over']",How Much Do You Tell When You Talk?
+expressing,"['give_tongue_to', 'verbalise', 'extract', 'carry', 'evince', 'press_out', 'utter', 'show', 'state', 'express', 'convey', 'verbalize']",How Much Do You Tell When You Talk?
+don't,[],How Much Do You Tell When You Talk?
+point,"['level', 'head', 'channelise', 'taper', 'manoeuvre', 'charge', 'full_stop', 'degree', 'compass_point', 'breaker_point', 'bespeak', 'steer', 'tip', 'peak', 'dot', 'pointedness', 'distributor_point', 'detail', 'sharpen', 'stage', 'aim', 'period', 'signal', 'full_point', 'gunpoint', 'designate', 'show', 'manoeuver', 'direct', 'place', 'guide', 'channelize', 'stop', 'target', 'point', 'decimal_point', 'repoint', 'indicate', 'point_in_time', 'orient', 'percentage_point', 'item', 'spot', 'betoken', 'luff', 'power_point', 'maneuver']",How Much Do You Tell When You Talk?
+accent,"['emphasize', 'accent', 'accent_mark', 'emphasis', 'dialect', 'emphasise', 'stress', 'accentuate', 'punctuate', 'speech_pattern', 'idiom']",How Much Do You Tell When You Talk?
+becomes,"['become', 'go', 'turn', 'suit', 'get']",How Much Do You Tell When You Talk?
+blunted,"['numb', 'blunt', 'blunted', 'dulled', 'benumb', 'dull', 'deaden']",How Much Do You Tell When You Talk?
+enlivened,"['liven_up', 'enlivened', 'exalt', 'enliven', 'liven', 'animate', 'inspire', 'invigorate', 'spirited']",How Much Do You Tell When You Talk?
+laughing,"['express_mirth', 'laugh', 'laughing', 'riant', 'express_joy']",How Much Do You Tell When You Talk?
+mother's,[],How Much Do You Tell When You Talk?
+none,['none'],How Much Do You Tell When You Talk?
+therapist,"['healer', 'therapist']",How Much Do You Tell When You Talk?
+might,"['mightiness', 'power', 'might']",How Much Do You Tell When You Talk?
+content,"['capacity', 'subject', 'message', 'depicted_object', 'substance', 'content', 'contented', 'subject_matter', 'contentedness', 'cognitive_content', 'mental_object']",How Much Do You Tell When You Talk?
+drawl,['drawl'],How Much Do You Tell When You Talk?
+When,[],How Much Do You Tell When You Talk?
+previous,"['old', 'former', 'premature', 'late', 'previous']",How Much Do You Tell When You Talk?
+accept,"['take_on', 'accept', 'take', 'consent', 'go_for', 'swallow', 'take_over', 'assume', 'admit', 'bear', 'live_with', 'have']",How Much Do You Tell When You Talk?
+third,"['third_gear', 'third_base', 'tierce', 'third', 'tertiary', 'thirdly', 'one-third', '3rd']",How Much Do You Tell When You Talk?
+With,[],How Much Do You Tell When You Talk?
+within,"['within', 'inside']",How Much Do You Tell When You Talk?
+any,"['whatever', 'whatsoever', 'any']",How Much Do You Tell When You Talk?
+origin,"['line', 'ancestry', 'origin', 'blood', 'pedigree', 'parentage', 'blood_line', 'bloodline', 'inception', 'rootage', 'beginning', 'extraction', 'descent', 'stemma', 'stock', 'root', 'source', 'origination', 'line_of_descent', 'lineage']",How Much Do You Tell When You Talk?
+touching,"['allude', 'adjoin', 'impact', 'touching', 'have-to_doe_with', 'affecting', 'refer', 'match', 'poignant', 'bear_on', 'come_to', 'touch', 'equal', 'pertain', 'bear_upon', 'extend_to', 'advert', 'affect', 'tinge', 'tint', 'rival', 'meet', 'contact', 'tinct', 'touch_on', 'disturb', 'reach', 'stir', 'partake', 'relate', 'concern']",How Much Do You Tell When You Talk?
+career,"['career', 'life_history', 'vocation', 'calling']",How Much Do You Tell When You Talk?
+investigations,"['investigation', 'investigating', 'probe']",How Much Do You Tell When You Talk?
+most,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'to_the_highest_degree', 'nigh']",How Much Do You Tell When You Talk?
+higher,"['in_high_spirits', 'high-pitched', 'gamey', 'higher', 'mellow', 'high', 'gamy', 'eminent']",How Much Do You Tell When You Talk?
+even,"['yet', 'flush', 'eve', 'evening', 'even_out', 'level', 'fifty-fifty', 'eventide', 'even', 'regular', 'tied', 'still']",How Much Do You Tell When You Talk?
+fade-in,[],How Much Do You Tell When You Talk?
+fewer,"['fewer', 'few']",How Much Do You Tell When You Talk?
+Quite,"['quite_a', 'rather', 'quite', 'quite_an']",How Much Do You Tell When You Talk?
+work,"['body_of_work', 'knead', 'sour', 'play', 'piece_of_work', 'shape', 'bring', 'oeuvre', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'lick', 'act_upon', 'puzzle_out', 'exploit', 'make_for', 'work_out', 'act', 'go', 'figure_out', 'workplace', 'operate', 'influence', 'process', 'turn', 'solve', 'run', 'function', 'form', 'crop', 'study', 'make', 'cultivate', 'forge', 'mold', 'employment']",How Much Do You Tell When You Talk?
+refer,"['cite', 'refer', 'consult', 'bear_on', 'come_to', 'touch', 'touch_on', 'have-to_doe_with', 'bring_up', 'name', 'look_up', 'denote', 'pertain', 'mention', 'relate', 'concern', 'advert']",How Much Do You Tell When You Talk?
+U.S.,"['America', 'U.S.', 'United_States', 'the_States', 'United_States_of_America', 'United_States_government', 'U.S._government', 'US', 'US_Government', 'U.S.A.', 'USA']",How Much Do You Tell When You Talk?
+concealed,"['conceal', 'hide', 'concealed', 'hidden', 'hold_in', 'hold_back', 'out_of_sight']",How Much Do You Tell When You Talk?
+psychiatric,"['psychiatrical', 'psychiatric']",How Much Do You Tell When You Talk?
+skill,"['acquisition', 'accomplishment', 'skill', 'acquirement', 'attainment', 'science']",How Much Do You Tell When You Talk?
+few,['few'],How Much Do You Tell When You Talk?
+3,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'iii', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'tierce', 'trio', 'terzetto', 'trine', 'trey']",How Much Do You Tell When You Talk?
+Jr.,"['jr.', 'younger']",How Much Do You Tell When You Talk?
+pitch,"['lurch', 'flip', 'deliver', 'incline', 'tar', 'rake', 'monger', 'sky', 'slope', 'sales_talk', 'slant', 'gear', 'sales_pitch', 'huckster', 'tilt', 'pitch', 'set_up', 'hawk', 'delivery', 'pitching', 'shift', 'pitch_shot', 'cant_over', 'peddle', 'vend', 'toss', 'auction_pitch', 'cant']",How Much Do You Tell When You Talk?
+range,"['orbit', 'ambit', 'mountain_chain', 'grasp', 'order', 'stove', 'ramble', 'rove', 'chain_of_mountains', 'mountain_range', 'kitchen_stove', 'drift', 'array', 'wander', 'rate', 'tramp', 'graze', 'chain', 'compass', 'image', 'rank', 'range', 'range_of_a_function', 'cooking_stove', 'roam', 'vagabond', 'scope', 'swan', 'kitchen_range', 'place', 'straddle', 'run', 'range_of_mountains', 'set_out', 'browse', 'pasture', 'grade', 'lay_out', 'cast', 'crop', 'reach', 'roll', 'stray']",How Much Do You Tell When You Talk?
+discovered,"['detect', 'get_a_line', 'distinguish', 'discover', 'find', 'break', 'strike', 'name', 'come_upon', 'chance_on', 'observe', 'unwrap', 'notice', 'let_on', 'bring_out', 'reveal', 'learn', 'pick_up', 'chance_upon', 'identify', 'key', 'discovered', 'give_away', 'see', 'describe', 'expose', 'ascertained', 'get_word', 'come_across', 'happen_upon', 'let_out', 'find_out', 'key_out', 'hear', 'divulge', 'light_upon', 'attain', 'get_wind', 'fall_upon', 'observed', 'disclose']",How Much Do You Tell When You Talk?
+well-adjusted,"['well-balanced', 'well-adjusted']",How Much Do You Tell When You Talk?
+premises,"['premises', 'assumption', 'preface', 'premise', 'introduce', 'premiss', 'precede']",How Much Do You Tell When You Talk?
+world's,[],How Much Do You Tell When You Talk?
+style,"['elan', 'panache', 'title', 'expressive_style', 'style', 'trend', 'way', 'dash', 'fashion', 'flair', 'mode', 'stylus', 'vogue', 'manner']",How Much Do You Tell When You Talk?
+father,"['Fatherhood', 'founding_father', 'don', 'engender', 'Father_of_the_Church', 'founder', 'Father', 'bring_forth', 'generate', 'get', 'begetter', 'father', 'Padre', 'male_parent', 'Father-God', 'beginner', 'mother', 'sire', 'Church_Father', 'forefather', 'beget']",How Much Do You Tell When You Talk?
+first,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",How Much Do You Tell When You Talk?
+professional,"['professional_person', 'professional', 'pro', 'master']",How Much Do You Tell When You Talk?
+voice,"['vocalisation', 'part', 'spokesperson', 'articulation', 'representative', 'voice', 'vocalize', 'interpreter', 'vocalise', 'vocalism', 'sound', 'vocalization', 'vox', 'phonation']",How Much Do You Tell When You Talk?
+readers,"['proofreader', 'reader', 'referee', 'subscriber', 'reviewer', 'lector', 'lecturer']",How Much Do You Tell When You Talk?
+recorded,"['enter', 'read', 'memorialize', 'immortalize', 'register', 'record', 'memorialise', 'put_down', 'tape', 'show', 'recorded', 'commemorate', 'immortalise']",How Much Do You Tell When You Talk?
+And,[],How Much Do You Tell When You Talk?
+undoubtedly,"['doubtlessly', 'doubtless', 'undoubtedly']",How Much Do You Tell When You Talk?
+non-verbal,[],How Much Do You Tell When You Talk?
+written,"['compose', 'save', 'drop_a_line', 'write', 'written', 'pen', 'publish', 'indite', 'spell', 'scripted']",How Much Do You Tell When You Talk?
+speak,"['address', 'verbalise', 'mouth', 'talk', 'utter', 'verbalize', 'speak']",How Much Do You Tell When You Talk?
+basic,"['introductory', 'staple', 'canonical', 'BASIC', 'canonic', 'basic']",How Much Do You Tell When You Talk?
+identity,"['identity_element', 'individuality', 'identity_operator', 'indistinguishability', 'identicalness', 'identity', 'personal_identity']",How Much Do You Tell When You Talk?
+pedantic,"['pedantic', 'academic', 'donnish']",How Much Do You Tell When You Talk?
+reasons,"['understanding', 'ground', 'argue', 'reason', 'intellect', 'reasonableness', 'reason_out', 'grounds', 'rationality', 'cause', 'conclude']",How Much Do You Tell When You Talk?
+diagnosis,"['diagnosing', 'diagnosis']",How Much Do You Tell When You Talk?
+departed,"['pull_up_stakes', 'take_leave', 'take_off', 'go_away', 'foregone', 'dead_person', 'deceased_person', 'bypast', 'bygone', 'start_out', 'dead_soul', 'diverge', 'part', 'depart', 'go', 'at_rest', 'deceased', 'deviate', 'decedent', 'start', 'gone', 'at_peace', 'quit', 'set_out', 'departed', 'leave', 'sidetrack', 'set_forth', 'vary', 'digress', 'asleep', 'set_off', 'straggle']",How Much Do You Tell When You Talk?
+diagnostic,"['diagnostic', 'symptomatic']",How Much Do You Tell When You Talk?
+reveals,"['unwrap', 'discover', 'expose', 'let_on', 'bring_out', 'reveal', 'divulge', 'break', 'uncover', 'let_out', 'give_away', 'unveil', 'disclose']",How Much Do You Tell When You Talk?
+much,"['a_great_deal', 'a_good_deal', 'a_lot', 'practically', 'often', 'much', 'very_much', 'lots']",How Much Do You Tell When You Talk?
+make,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'shuffle', 'take', 'progress_to', 'brand', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'shuffling', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",How Much Do You Tell When You Talk?
+are,"['comprise', 'follow', 'embody', 'constitute', 'be', 'ar', 'equal', 'personify', 'cost', 'are', 'make_up', 'live', 'represent', 'exist']",How Much Do You Tell When You Talk?
+rat,"['blabber', 'betray', 'so-and-so', 'strikebreaker', 'rat', 'scum_bag', 'dirty_dog', 'squealer', 'denounce', 'give_away', 'scab', 'fink', 'skunk', 'puke', 'crumb', 'blackleg', 'informer', 'stinkpot', 'grass', 'betrayer', 'snitch', 'lowlife', 'shit', 'shop', 'stag', 'git', 'tell_on', 'stinker', 'bum', 'rotter']",How Much Do You Tell When You Talk?
+prepare,"['machinate', 'train', 'cook', 'groom', 'fix', 'devise', 'get_up', 'develop', 'organise', 'make', 'ready', 'educate', 'gear_up', 'prepare', 'set_up', 'set', 'organize']",How Much Do You Tell When You Talk?
+Af,[],How Much Do You Tell When You Talk?
+men,"['military_man', 'men', 'humanity', 'homo', 'world', 'Isle_of_Man', 'humans', 'Man', 'human_being', 'serviceman', 'piece', 'adult_male', 'valet', 'human_beings', 'human', 'work_force', 'workforce', ""gentleman's_gentleman"", 'hands', 'man', 'human_race', 'manpower', 'valet_de_chambre', 'humankind', 'military_personnel', 'gentleman', 'mankind']",How Much Do You Tell When You Talk?
+mentioned,"['cite', 'observe', 'refer', 'remark', 'note', 'bring_up', 'name', 'mention', 'advert']",How Much Do You Tell When You Talk?
+indicating,"['point', 'signal', 'indicate', 'argue', 'designate', 'betoken', 'show', 'suggest', 'bespeak']",How Much Do You Tell When You Talk?
+tandem,"['in_tandem', 'tandem_bicycle', 'tandem', 'bicycle-built-for-two']",How Much Do You Tell When You Talk?
+hate,"['detest', 'hatred', 'hate']",How Much Do You Tell When You Talk?
+high-school,[],How Much Do You Tell When You Talk?
+beefed,"['holler', 'bellyache', 'beef', 'grouse', 'squawk', 'gripe', 'crab', 'bitch']",How Much Do You Tell When You Talk?
+without,[],How Much Do You Tell When You Talk?
+Birdwhistell,[],How Much Do You Tell When You Talk?
+accepting,"['take_on', 'accept', 'take', 'consent', 'go_for', 'swallow', 'take_over', 'assume', 'accepting', 'admit', 'bear', 'live_with', 'have']",How Much Do You Tell When You Talk?
+print,"['impress', 'mark', 'publish', 'print', 'photographic_print']",How Much Do You Tell When You Talk?
+out,"['stunned', 'knocked_out', 'forbidden', 'taboo', 'extinct', 'come_out_of_the_closet', 'prohibited', ""KO'd"", 'proscribed', 'kayoed', 'tabu', 'verboten', 'out', 'away', 'come_out']",How Much Do You Tell When You Talk?
+thereafter,"['thenceforth', 'thereafter']",How Much Do You Tell When You Talk?
+shifts,"['lurch', 'work_shift', 'break', 'shimmy', 'reposition', 'switching', 'change_over', 'careen', 'chemise', 'duty_period', 'dislodge', 'tilt', 'pitch', 'sack', 'shifting', 'shift', 'fracture', 'fault', 'faulting', 'teddy', 'agitate', 'wobble', 'shift_key', 'budge', 'switch', 'change', 'transformation', 'geological_fault', 'slip', 'transfer', 'stir', 'displacement', 'transmutation']",How Much Do You Tell When You Talk?
+Note,"['billet', 'preeminence', 'line', 'bank_bill', 'annotation', 'mark', ""banker's_bill"", 'observe', 'take_note', 'note_of_hand', 'distinction', 'notice', 'eminence', 'government_note', 'greenback', 'take_down', 'banknote', 'musical_note', 'bank_note', 'promissory_note', 'mention', 'short_letter', 'bill', 'remark', 'note', 'tone', 'Federal_Reserve_note', 'notation']",How Much Do You Tell When You Talk?
+culture,"['civilization', 'refinement', 'culture', 'civilisation', 'finish', 'acculturation', 'cultivation', 'polish']",How Much Do You Tell When You Talk?
+system,"['arrangement', 'system', 'organization', 'scheme', 'organisation', 'system_of_rules']",How Much Do You Tell When You Talk?
+may,"['Crataegus_oxycantha', 'May', 'English_hawthorn', 'may', 'whitethorn', 'Crataegus_laevigata']",How Much Do You Tell When You Talk?
+boy-meets-girl,[],How Much Do You Tell When You Talk?
+talk,"['mouth', 'spill', 'spill_the_beans', 'babble_out', 'peach', 'tattle', 'let_the_cat_out_of_the_bag', 'lecture', 'verbalize', 'babble', 'talk', 'sing', 'blab', 'speak', 'blab_out', 'verbalise', 'talk_of_the_town', 'talking', 'utter', 'public_lecture']",How Much Do You Tell When You Talk?
+proportions,"['proportion', 'ratio', 'proportionality', 'balance', 'dimension', 'symmetry']",How Much Do You Tell When You Talk?
+He,"['atomic_number_2', 'he', 'He', 'helium']",How Much Do You Tell When You Talk?
+reputedly,['reputedly'],How Much Do You Tell When You Talk?
+By,"['aside', 'away', 'by', 'past']",How Much Do You Tell When You Talk?
+A,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",How Much Do You Tell When You Talk?
+depressed,"['down', 'cast_down', 'gloomy', 'low', 'depress', 'blue', 'press_down', 'dispirited', 'demoralise', 'downcast', 'low-spirited', 'get_down', 'dispirit', 'depressed', 'deject', 'dismay', 'grim', 'lower', 'demoralize', 'down_in_the_mouth', 'downhearted']",How Much Do You Tell When You Talk?
+taped,"['beg', 'exploit', 'rap', 'knock', 'intercept', 'videotape', 'tap', 'tip', 'solicit', 'record', 'tape', 'tape-recorded', 'bug', 'tapdance', 'pink', 'wiretap', 'taped']",How Much Do You Tell When You Talk?
+communication,"['communicating', 'communication']",How Much Do You Tell When You Talk?
+the,[],How Much Do You Tell When You Talk?
+rasp,"['wood_file', 'rasp', 'rasping']",How Much Do You Tell When You Talk?
+definitely,"['definitely', 'unquestionably', 'in_spades', 'by_all_odds', 'emphatically', 'decidedly']",How Much Do You Tell When You Talk?
+heads,"['head_teacher', 'mind', 'head', 'channelise', 'manoeuvre', 'heading', 'drumhead', 'fountainhead', 'question', 'head_up', 'steer', 'headland', 'headspring', 'nous', 'chief', 'forefront', 'capitulum', 'caput', 'foreland', 'read/write_head', 'pass', 'header', 'lead', 'manoeuver', 'direct', 'principal', 'guide', 'channelize', 'promontory', 'brain', 'point', 'head_word', 'headway', 'oral_sex', 'school_principal', 'straits', 'psyche', 'top_dog', 'maneuver']",How Much Do You Tell When You Talk?
+interviewing,"['question', 'interview']",How Much Do You Tell When You Talk?
+interviews,"['audience', 'question', 'consultation', 'interview']",How Much Do You Tell When You Talk?
+Army,"['army', 'US_Army', 'U._S._Army', 'Army', 'USA', 'United_States_Army', 'regular_army', 'ground_forces']",How Much Do You Tell When You Talk?
+study,"['field', 'read', 'analyse', 'canvas', 'analyze', 'contemplate', 'survey', 'cogitation', 'work', 'written_report', 'learn', 'report', 'hit_the_books', 'take', 'consider', 'meditate', 'subject', 'examine', 'field_of_study', 'canvass', 'sketch', 'subject_field', 'bailiwick', 'discipline', 'study', 'subject_area']",How Much Do You Tell When You Talk?
+Then,"['then', 'so', 'and_then', 'and_so']",How Much Do You Tell When You Talk?
+annoyance,"['annoying', 'pain_in_the_ass', 'bother', 'aggravator', 'infliction', 'botheration', 'irritation', 'pain', 'annoyance', 'pain_in_the_neck', 'chafe', 'vexation']",How Much Do You Tell When You Talk?
+rates,"['charge_per_unit', 'order', 'betray', 'pace', 'rate', 'rank', 'range', 'denounce', 'give_away', 'scab', 'fink', 'place', 'blackleg', 'grass', 'grade', 'snitch', 'value', 'shop', 'shit', 'stag', 'tell_on', 'rat', 'rates']",How Much Do You Tell When You Talk?
+ways,"['manner', 'means', 'agency', 'direction', 'elbow_room', 'style', 'way', 'slipway', 'fashion', 'path', 'mode', 'way_of_life', 'shipway', 'ways', 'room']",How Much Do You Tell When You Talk?
+She,[],How Much Do You Tell When You Talk?
+like,"['corresponding', 'similar', 'wish', 'alike', 'comparable', 'the_likes_of', 'the_like', 'care', 'same', 'ilk', 'like']",How Much Do You Tell When You Talk?
+compare,"['comparison', 'equivalence', 'liken', 'equate', 'compare', 'comparability']",How Much Do You Tell When You Talk?
+been,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",How Much Do You Tell When You Talk?
+rise,"['rise', 'salary_increase', 'rebel', 'surface', 'develop', 'wax', 'climb_up', 'rising_slope', 'rise_up', 'come_up', 'spring_up', 'ascending', 'go_up', 'lift', 'grow', 'originate', 'advance', 'wage_hike', 'upgrade', 'rising', 'acclivity', 'stand_up', 'hike', 'boost', 'ascension', 'jump', 'rear', 'move_up', 'prove', 'turn_out', 'mount', 'ascend', 'wage_increase', 'procession', 'raise', 'arise', 'get_up', 'heighten', 'emanation', 'cost_increase', 'ascent', 'resurrect', 'uprise', 'climb']",How Much Do You Tell When You Talk?
+discernible,"['discernable', 'observable', 'discernible', 'evident']",How Much Do You Tell When You Talk?
+disinclination,"['disinclination', 'indisposition', 'hesitancy', 'hesitation', 'reluctance']",How Much Do You Tell When You Talk?
+will,"['will', 'volition', 'leave', 'testament', 'bequeath']",How Much Do You Tell When You Talk?
+values,"['prize', 'economic_value', 'evaluate', 'assess', 'rate', 'values', 'value', 'appreciate', 'esteem', 'prise', 'appraise', 'treasure', 'measure', 'valuate', 'time_value', 'note_value', 'respect']",How Much Do You Tell When You Talk?
+girl,"['girlfriend', 'young_woman', 'lady_friend', 'fille', 'girl', 'missy', 'miss', 'young_lady', 'little_girl', 'female_child', 'daughter']",How Much Do You Tell When You Talk?
+which,[],How Much Do You Tell When You Talk?
+important,"['authoritative', 'important', 'significant', 'crucial', 'of_import']",How Much Do You Tell When You Talk?
+five,"['cinque', 'V', 'quintet', 'five-spot', 'Phoebe', 'quint', 'quintuplet', 'five', 'fivesome', 'Little_Phoebe', 'pentad', 'basketball_team', 'fin', '5', 'v']",How Much Do You Tell When You Talk?
+U.S.A.,"['America', 'U.S.', 'the_States', 'United_States', 'United_States_of_America', 'US', 'U.S.A.', 'USA']",How Much Do You Tell When You Talk?
+addressing,"['address', 'turn_to', 'call', 'accost', 'cover', 'treat', 'handle', 'plow', 'direct', 'come_up_to', 'speak', 'deal']",How Much Do You Tell When You Talk?
+present,"['deliver', 'demonstrate', 'confront', 'present', 'portray', 'nowadays', 'represent', 'submit', 'acquaint', 'present_tense', 'stage', 'give', 'demo', 'show', 'pose', 'award', 'lay_out', 'gift', 'face', 'introduce', 'exhibit', 'salute']",How Much Do You Tell When You Talk?
+sentence,"['condemn', 'judgment_of_conviction', 'sentence', 'doom', 'condemnation', 'conviction', 'prison_term', 'time']",How Much Do You Tell When You Talk?
+veering,"['cut', 'sheer', 'trend', 'slue', 'swerving', 'slew', 'curve', 'swerve', 'veering', 'veer']",How Much Do You Tell When You Talk?
+Pittenger,[],How Much Do You Tell When You Talk?
+made,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'made', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",How Much Do You Tell When You Talk?
+This,[],How Much Do You Tell When You Talk?
+systematic,"['systematic', 'taxonomical', 'taxonomic']",How Much Do You Tell When You Talk?
+adorable,"['lovely', 'adorable', 'endearing']",How Much Do You Tell When You Talk?
+conceivably,['conceivably'],How Much Do You Tell When You Talk?
+come,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'ejaculate', 'occur', 'come_up', 'seed', 'come', 'number', 'arrive', 'hail', 'fare', 'seminal_fluid', 'get', 'descend', 'fall', 'total', 'issue_forth', 'add_up', 'do', 'cum', 'follow', 'semen']",How Much Do You Tell When You Talk?
+its,"['IT', 'information_technology']",How Much Do You Tell When You Talk?
+number,"['numerate', 'keep_down', 'numeral', 'amount', 'come', 'number', 'identification_number', 'phone_number', 'act', 'figure', 'turn', 'list', 'total', 'add_up', 'issue', 'bit', 'count', 'telephone_number', 'routine', 'enumerate']",How Much Do You Tell When You Talk?
+right,"['compensate', 'rightfulness', 'right_on', 'right_hand', 'ripe', 'in_good_order', 'powerful', 'redress', 'decently', 'right_field', 'right-hand', 'mightily', 'the_right_way', 'mighty', 'right', 'justly', 'veracious', 'properly', 'aright', 'decent', 'right_wing', 'correctly', 'proper', 'rectify', 'rightfield', 'flop', 'correct', 'good']",How Much Do You Tell When You Talk?
+Even,"['yet', 'flush', 'eve', 'evening', 'even_out', 'level', 'fifty-fifty', 'eventide', 'even', 'regular', 'tied', 'still']",How Much Do You Tell When You Talk?
+still,"['nonetheless', 'notwithstanding', 'tranquil', 'calm', 'withal', 'placid', 'hush_up', 'distillery', 'unruffled', 'even', 'yet', 'hush', 'static', 'smooth', 'ease', 'soundless', 'however', 'quieten', 'tranquilize', 'allay', 'motionless', 'still', 'all_the_same', 'stock-still', 'calm_down', 'shut_up', 'tranquillise', 'relieve', 'silent', 'tranquillize', 'even_so', 'nevertheless', 'stillness', 'silence', 'lull', 'inactive', 'noneffervescent', 'quiet']",How Much Do You Tell When You Talk?
+possible,"['possible', 'potential']",How Much Do You Tell When You Talk?
+spots,"['billet', 'distinguish', 'fleck', 'topographic_point', 'smear', 'descry', 'espy', 'blemish', 'make_out', 'daub', 'situation', 'smudge', 'speckle', 'position', 'patch', 'pip', 'pick_out', 'recognise', 'office', 'smirch', 'touch', 'stain', 'spotlight', 'spots', 'blot', 'tell_apart', 'berth', 'dapple', 'blob', 'floater', 'place', 'muscae_volitantes', 'discern', 'maculation', 'point', 'post', 'bit', 'musca_volitans', 'spot', 'spy', 'recognize', 'slur']",How Much Do You Tell When You Talk?
+more,"['more', 'More', 'more_than', 'Sir_Thomas_More', 'to_a_greater_extent', 'Thomas_More']",How Much Do You Tell When You Talk?
+at,"['at', 'astatine', 'atomic_number_85', 'At']",How Much Do You Tell When You Talk?
+undaunted,"['unshaken', 'undaunted', 'undismayed']",How Much Do You Tell When You Talk?
+experts,['expert'],How Much Do You Tell When You Talk?
+consider,"['think', 'take', 'consider', 'deliberate', 'view', 'see', 'debate', 'moot', 'reckon', 'look_at', 'count', 'weigh', 'study', 'regard', 'believe', 'conceive', 'deal', 'turn_over']",How Much Do You Tell When You Talk?
+workout,"['workout', 'physical_exertion', 'exercise', 'physical_exercise', 'exercising']",How Much Do You Tell When You Talk?
+emotion,['emotion'],How Much Do You Tell When You Talk?
+intensive,"['intensifier', 'intensive']",How Much Do You Tell When You Talk?
+pays,"['compensate', 'pay', 'give', 'devote', 'salary', 'pay_off', 'ante_up', 'yield', 'pay_up', 'make_up', 'bear', 'earnings', 'wage', 'remuneration']",How Much Do You Tell When You Talk?
+subsequent,['subsequent'],How Much Do You Tell When You Talk?
+cetera,[],How Much Do You Tell When You Talk?
+things,"['thing', 'affair', 'matter', 'things']",How Much Do You Tell When You Talk?
+probing,"['poke_into', 'examine', 'inquisitory', 'probe', 'dig_into', 'probing', 'searching']",How Much Do You Tell When You Talk?
+expressed,"['give_tongue_to', 'verbalise', 'extract', 'uttered', 'carry', 'explicit', 'verbalised', 'evince', 'expressed', 'press_out', 'utter', 'show', 'state', 'express', 'convey', 'verbalize', 'verbalized']",How Much Do You Tell When You Talk?
+enthralling,"['enchant', 'ravish', 'transport', 'enthral', 'fascinating', 'enrapture', 'bewitching', 'enthrall', 'enchanting', 'entrancing', 'captivating', 'delight', 'enthralling']",How Much Do You Tell When You Talk?
+necessarily,"['of_necessity', 'needs', 'inevitably', 'needfully', 'necessarily']",How Much Do You Tell When You Talk?
+about,"['about', 'approximately', 'roughly', 'around', 'or_so', 'nearly', 'astir', 'near', 'almost', 'well-nigh', 'most', 'just_about', 'virtually', 'some', 'more_or_less', 'close_to', 'nigh']",How Much Do You Tell When You Talk?
+change,"['exchange', 'switch', 'change', 'convert', 'shift', 'modify', 'alter', 'alteration', 'vary', 'commute', 'modification', 'transfer', 'interchange', 'variety', 'deepen']",How Much Do You Tell When You Talk?
+drop,"['degenerate', 'free_fall', 'send_packing', 'spend', 'drop_curtain', 'shed', 'dangle', 'drop_off', 'send_away', 'dismiss', 'throw_away', 'cast_off', 'set_down', 'unload', 'overlook', 'leave_out', 'devolve', 'shake_off', 'drib', 'discharge', 'driblet', 'flatten', 'drip', 'throw', 'bead', 'neglect', 'expend', 'fall', 'pretermit', 'cliff', 'drop_down', 'knock_off', 'deteriorate', 'drop_cloth', 'drop-off', 'cut_down', 'pearl', 'drop', 'sink', 'fell', 'swing', 'overleap', 'cast', 'strike_down', 'omit', 'miss', 'put_down', 'throw_off', 'dip', 'dribble']",How Much Do You Tell When You Talk?
+comico-romantico,[],How Much Do You Tell When You Talk?
+be,"['exist', 'beryllium', 'comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'atomic_number_4', 'make_up', 'glucinium', 'represent', 'Be', 'live']",How Much Do You Tell When You Talk?
+constructed,"['construct', 'manufacture', 'fabricate', 'make', 'reconstruct', 'retrace', 'build']",How Much Do You Tell When You Talk?
+almost,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'nigh']",How Much Do You Tell When You Talk?
+background,"['background_signal', 'downplay', 'ground', 'background', 'backcloth', 'scope', 'desktop', 'play_down', 'screen_background', 'background_knowledge', 'backdrop', 'setting']",How Much Do You Tell When You Talk?
+recording,"['enter', 'read', 'memorialize', 'immortalize', 'register', 'record', 'recording', 'put_down', 'memorialise', 'tape', 'show', 'transcription', 'commemorate', 'immortalise']",How Much Do You Tell When You Talk?
+Danehy,[],How Much Do You Tell When You Talk?
+someone,"['mortal', 'soul', 'individual', 'person', 'somebody', 'someone']",How Much Do You Tell When You Talk?
+psychiatrists,"['psychiatrist', 'head-shrinker', 'shrink']",How Much Do You Tell When You Talk?
+feelings,"['experience', 'impression', 'sense', 'flavour', 'find', 'tactile_sensation', 'belief', 'finger', 'touch', 'feel', 'notion', 'feeling', 'spirit', 'tactual_sensation', 'palpate', 'opinion', 'intuitive_feeling', 'touch_sensation', 'flavor', 'look', 'smell', 'tone', 'feelings']",How Much Do You Tell When You Talk?
+movie,"['flick', 'picture_show', 'moving-picture_show', 'picture', 'motion_picture', 'film', 'pic', 'movie', 'motion-picture_show', 'moving_picture']",How Much Do You Tell When You Talk?
+between,"['between', 'betwixt', ""'tween""]",How Much Do You Tell When You Talk?
+indicates,"['point', 'signal', 'indicate', 'argue', 'designate', 'betoken', 'show', 'suggest', 'bespeak']",How Much Do You Tell When You Talk?
+questioning,"['questioning', 'question', 'call_into_question', 'query', 'oppugn', 'inquiring', 'skeptical', 'sceptical', 'wondering', 'wonder', 'inquisitive', 'interrogate', 'speculative', 'quizzical', 'doubting', 'interview']",How Much Do You Tell When You Talk?
+oversoft,[],How Much Do You Tell When You Talk?
+acoustic,"['acoustic', 'acoustical']",How Much Do You Tell When You Talk?
+while,"['patch', 'spell', 'piece', 'while']",How Much Do You Tell When You Talk?
+violence,"['fierceness', 'force', 'fury', 'violence', 'wildness', 'ferocity', 'vehemence', 'furiousness']",How Much Do You Tell When You Talk?
+stammered,"['stammer', 'bumble', 'stutter', 'falter']",How Much Do You Tell When You Talk?
+classic,"['authoritative', 'Graeco-Roman', 'Greco-Roman', 'definitive', 'classic', 'Hellenic', 'classical']",How Much Do You Tell When You Talk?
+Blauberman,[],How Much Do You Tell When You Talk?
+voices,"['vocalisation', 'part', 'spokesperson', 'articulation', 'representative', 'voice', 'vocalize', 'interpreter', 'vocalise', 'vocalism', 'sound', 'vocalization', 'vox', 'phonation']",How Much Do You Tell When You Talk?
+such,['such'],How Much Do You Tell When You Talk?
+cause,"['stimulate', 'lawsuit', 'cause', 'grounds', 'suit', 'get', 'causal_agent', 'movement', 'induce', 'have', 'effort', 'do', 'causa', 'crusade', 'causal_agency', 'reason', 'drive', 'case', 'campaign', 'make']",How Much Do You Tell When You Talk?
+emeralds,['emerald'],How Much Do You Tell When You Talk?
+skilled,['skilled'],How Much Do You Tell When You Talk?
+charting,"['chart', 'graph']",How Much Do You Tell When You Talk?
+established,"['found', 'shew', 'demonstrate', 'establish', 'accomplished', 'institute', 'constitute', 'established', 'plant', 'constituted', 'set_up', 'ground', 'give', 'show', 'conventional', 'instal', 'install', 'naturalized', 'launch', 'make', 'base', 'effected', 'build', 'prove', 'lay_down']",How Much Do You Tell When You Talk?
+creative,"['creative', 'originative']",How Much Do You Tell When You Talk?
+depends,"['depend', 'look', 'reckon', 'count', 'calculate', 'bet']",How Much Do You Tell When You Talk?
+analysis,"['depth_psychology', 'analytic_thinking', 'analysis', 'psychoanalysis']",How Much Do You Tell When You Talk?
+unmeshed,[],How Much Do You Tell When You Talk?
+know,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",How Much Do You Tell When You Talk?
+operated,"['mesh', 'work', 'go', 'engage', 'operate', 'manoeuvre', 'manoeuver', 'control', 'lock', 'operate_on', 'run', 'function', 'maneuver']",How Much Do You Tell When You Talk?
+ending,"['end', 'conclusion', 'finish', 'terminate', 'ending', 'cease', 'termination', 'close', 'closing', 'stop']",How Much Do You Tell When You Talk?
+does,"['behave', 'DOE', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'Department_of_Energy', 'come', 'arrange', 'doe', 'exercise', 'fare', 'perform', 'dress', 'Energy_Department', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'Energy', 'execute', 'manage', 'make', 'set']",How Much Do You Tell When You Talk?
+refers,"['cite', 'refer', 'consult', 'bear_on', 'come_to', 'touch', 'touch_on', 'have-to_doe_with', 'bring_up', 'name', 'look_up', 'denote', 'pertain', 'mention', 'relate', 'concern', 'advert']",How Much Do You Tell When You Talk?
+considerably,"['substantially', 'considerably', 'well']",How Much Do You Tell When You Talk?
+part,"['take_off', 'region', 'section', 'parting', 'split_up', 'break', 'share', 'partly', 'character', 'split', 'office', 'break_up', 'contribution', 'start_out', 'percentage', 'separate', 'piece', 'part', 'depart', 'role', 'voice', 'theatrical_role', 'disunite', 'constituent', 'start', 'component_part', 'function', 'set_out', 'persona', 'component', 'set_forth', 'portion', 'division', 'partially', 'divide', 'set_off']",How Much Do You Tell When You Talk?
+four,"['quatern', 'four', 'quaternion', 'tetrad', '4', 'quadruplet', 'Little_Joe', 'iv', 'four-spot', 'quaternity', 'IV', 'quartet', 'foursome', 'quaternary']",How Much Do You Tell When You Talk?
+give,"['return', 'break', 'establish', 'present', 'contribute', 'open', 'cave_in', 'devote', 'pass_on', 'commit', 'chip_in', 'founder', 'generate', 'collapse', 'springiness', 'afford', 'render', 'apply', 'grant', 'give', 'feed', 'kick_in', 'hold', 'throw', 'give_way', 'sacrifice', 'dedicate', 'pass', 'fall_in', 'impart', 'spring', 'have', 'turn_over', 'consecrate', 'ease_up', 'pay', 'leave', 'move_over', 'yield', 'gift', 'make', 'hand', 'reach']",How Much Do You Tell When You Talk?
+role,"['character', 'part', 'persona', 'use', 'role', 'office', 'theatrical_role', 'purpose', 'function']",How Much Do You Tell When You Talk?
+track,"['cut', 'course', 'rails', 'data_track', 'chase_after', 'cartroad', 'caterpillar_tread', 'get_across', 'runway', 'trail', 'racetrack', 'raceway', 'caterpillar_track', 'give_chase', 'racecourse', 'cover', 'path', 'cut_across', 'cut_through', 'rail', 'pass_over', 'chase', 'tag', 'track', 'lead', 'cross', 'running', 'get_over', 'traverse', 'tail', 'dog', 'cart_track', 'go_after']",How Much Do You Tell When You Talk?
+1,"['i', '1', 'single', 'unity', 'ane', 'one', 'ace', 'I']",How Much Do You Tell When You Talk?
+actuality,['actuality'],How Much Do You Tell When You Talk?
+disastrous,"['calamitous', 'black', 'fateful', 'disastrous', 'fatal']",How Much Do You Tell When You Talk?
+goes,"['exit', 'expire', 'give_out', 'live_on', 'go_game', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'disco_biscuit', 'proceed', 'hold_up', 'fling', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'whirl', 'XTC', 'crack', 'ecstasy', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'X', 'turn', 'hold_out', 'extend', 'croak', 'pass', 'die', 'lead', 'belong', 'start', 'get_going', 'run', 'function', 'choke', 'drop_dead', 'conk_out', 'cristal', 'travel', 'Adam', 'blend', 'hug_drug', 'tour', 'sound', 'pop_off', 'move', 'spell', 'rifle', 'survive', 'offer']",How Much Do You Tell When You Talk?
+paralinguistic,[],How Much Do You Tell When You Talk?
+but,"['simply', 'only', 'just', 'merely', 'but']",How Much Do You Tell When You Talk?
+alert,"['awake', 'warning_signal', 'merry', 'lively', 'brisk', 'zippy', 'alerting', 'alive', 'rattling', 'qui_vive', 'alarm', 'alarum', 'snappy', 'watchful', 'spanking', 'alert']",How Much Do You Tell When You Talk?
+pursue,"['pursue', 'follow', 'follow_up_on', 'quest_for', 'quest_after', 'engage', 'act_on', 'prosecute', 'go_after']",How Much Do You Tell When You Talk?
+cues,"['cue', 'pool_cue', 'pool_stick', 'remind', 'cue_stick', 'clue', 'prompt', 'clew', 'discriminative_stimulus']",How Much Do You Tell When You Talk?
+apparatus,"['setup', 'apparatus']",How Much Do You Tell When You Talk?
+spells,"['magic_spell', 'patch', 'write', 'go', 'spell_out', 'while', 'import', 'turn', 'tour', 'charm', 'trance', 'enchantment', 'spell', 'piece', 'magical_spell']",How Much Do You Tell When You Talk?
+socio-economic,[],How Much Do You Tell When You Talk?
+reason,"['understanding', 'ground', 'argue', 'reason', 'intellect', 'reasonableness', 'reason_out', 'grounds', 'rationality', 'cause', 'conclude']",How Much Do You Tell When You Talk?
+called,"['address', 'holler', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'shout_out', 'foretell', 'visit', 'call_off', 'cry', 'telephone', 'predict', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'prognosticate', 'anticipate']",How Much Do You Tell When You Talk?
+hand,"['script', 'helping_hand', 'bridge_player', 'give', 'mitt', 'hired_man', 'pass_on', 'hand', 'reach', 'handwriting', 'hired_hand', 'pass', 'manus', 'paw', 'deal', 'turn_over']",How Much Do You Tell When You Talk?
+mother,"['female_parent', 'bring_forth', 'father', 'fuss', 'mother', 'sire', 'overprotect', 'generate', 'beget', 'engender', 'get']",How Much Do You Tell When You Talk?
+misery,"['wretchedness', 'miserableness', 'misery']",How Much Do You Tell When You Talk?
+seems,"['appear', 'look', 'seem']",How Much Do You Tell When You Talk?
+on,"['on', 'along']",How Much Do You Tell When You Talk?
+It,"['IT', 'information_technology']",How Much Do You Tell When You Talk?
+Consequently,"['consequently', 'accordingly', 'therefore']",How Much Do You Tell When You Talk?
+Five,"['cinque', 'V', 'quintet', 'five-spot', 'Phoebe', 'quint', 'quintuplet', 'five', 'fivesome', 'Little_Phoebe', 'pentad', 'basketball_team', 'fin', '5', 'v']",How Much Do You Tell When You Talk?
+flag,"['iris', 'ease_up', 'ease_off', 'sword_lily', 'flag', 'sag', 'masthead', 'slacken_off', 'pin', 'signal_flag', 'swag', 'droop', 'fleur-de-lis', 'flagstone']",How Much Do You Tell When You Talk?
+for,[],How Much Do You Tell When You Talk?
+evaluate,"['pass_judgment', 'judge', 'evaluate', 'assess', 'value', 'appraise', 'valuate', 'measure']",How Much Do You Tell When You Talk?
+facts,['fact'],How Much Do You Tell When You Talk?
+handful,"['handful', 'fistful', 'smattering']",How Much Do You Tell When You Talk?
+head,"['head_teacher', 'mind', 'head', 'channelise', 'manoeuvre', 'heading', 'drumhead', 'fountainhead', 'question', 'head_up', 'steer', 'headland', 'headspring', 'nous', 'chief', 'forefront', 'capitulum', 'caput', 'foreland', 'read/write_head', 'pass', 'header', 'lead', 'manoeuver', 'direct', 'principal', 'guide', 'channelize', 'promontory', 'brain', 'point', 'head_word', 'headway', 'oral_sex', 'school_principal', 'straits', 'psyche', 'top_dog', 'maneuver']",How Much Do You Tell When You Talk?
+their,[],How Much Do You Tell When You Talk?
+named,"['distinguish', 'discover', 'name', 'bring_up', 'diagnose', 'appoint', 'refer', 'constitute', 'nominate', 'identify', 'key', 'advert', 'cite', 'describe', 'mention', 'key_out', 'call', 'make', 'list']",How Much Do You Tell When You Talk?
+superbly,"['toppingly', 'terrifically', 'marvelously', 'wonderfully', 'wondrous', 'marvellously', 'superbly', 'wondrously']",How Much Do You Tell When You Talk?
+word,"['word', 'word_of_honor', 'Holy_Writ', 'parole', 'countersign', 'formulate', 'discussion', 'Word', 'give_voice', 'Holy_Scripture', 'intelligence', 'articulate', 'Book', 'phrase', 'watchword', 'Bible', 'Son', 'news', 'Good_Book', 'give-and-take', 'Scripture', 'tidings', 'Christian_Bible', 'password', 'Word_of_God', 'Logos']",How Much Do You Tell When You Talk?
+psychiatry,"['psychological_medicine', 'psychiatry', 'psychopathology']",How Much Do You Tell When You Talk?
+charm,"['entrance', 'charm', 'catch', 'magical_spell', 'enchant', 'enamour', 'beguile', 'captivate', 'becharm', 'tempt', 'trance', 'appeal', 'bewitch', 'influence', 'good_luck_charm', 'magic_spell', 'fascinate', 'enamor', 'spell', 'appealingness', 'capture']",How Much Do You Tell When You Talk?
+apple,"['orchard_apple_tree', 'Malus_pumila', 'apple']",How Much Do You Tell When You Talk?
+a,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']",How Much Do You Tell When You Talk?
+degree,"['point', 'academic_degree', 'grade', 'level', 'arcdegree', 'degree', 'stage']",How Much Do You Tell When You Talk?
+Aside,"['digression', 'divagation', 'apart', 'excursus', 'parenthesis', 'aside', 'by', 'away']",How Much Do You Tell When You Talk?
+together,"['unitedly', 'in_concert', 'together']",How Much Do You Tell When You Talk?
+adding,"['tot', 'tot_up', 'sum_up', 'tally', 'bestow', 'add', 'sum', 'summate', 'add_together', 'add_up', 'lend', 'bring', 'supply', 'contribute', 'impart', 'total', 'append', 'tote_up']",How Much Do You Tell When You Talk?
+could,[],How Much Do You Tell When You Talk?
+modern,"['modern', 'Bodoni', 'innovative', 'modern_font', 'New', 'forward-looking', 'modernistic', 'Bodoni_font', 'advanced', 'mod', 'Modern']",How Much Do You Tell When You Talk?
+developed,"['rise', 'develop', 'break', 'modernise', 'evolve', 'germinate', 'spring_up', 'grow', 'formulate', 'originate', 'developed', 'explicate', 'educate', 'get', 'modernize', 'build_up', 'acquire', 'make_grow', 'train', 'recrudesce', 'highly-developed', 'arise', 'produce', 'prepare', 'uprise']",How Much Do You Tell When You Talk?
+fights,"['contend', 'push', 'fight_down', 'defend', 'battle', 'press', 'combat', 'fighting', 'scrap', 'competitiveness', 'agitate', 'struggle', 'conflict', 'oppose', 'crusade', 'fight', 'engagement', 'fight_back', 'campaign']",How Much Do You Tell When You Talk?
+monetary,"['pecuniary', 'monetary']",How Much Do You Tell When You Talk?
+here,"['hither', 'here', 'Hera', 'Here']",How Much Do You Tell When You Talk?
+able,"['able-bodied', 'capable', 'able']",How Much Do You Tell When You Talk?
+indicated,"['point', 'signal', 'indicate', 'argue', 'designate', 'betoken', 'show', 'suggest', 'bespeak']",How Much Do You Tell When You Talk?
+monumentally,[],How Much Do You Tell When You Talk?
+of,[],How Much Do You Tell When You Talk?
+said,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'aforesaid', 'enunciate', 'state', 'allege', 'sound_out', 'said', 'aforementioned']",How Much Do You Tell When You Talk?
+impaired,"['afflicted', 'mar', 'spoil', 'deflower', 'vitiate', 'impair', 'impaired']",How Much Do You Tell When You Talk?
+departs,"['pull_up_stakes', 'take_leave', 'take_off', 'go_away', 'start_out', 'diverge', 'part', 'depart', 'go', 'deviate', 'start', 'quit', 'set_out', 'leave', 'sidetrack', 'set_forth', 'vary', 'digress', 'set_off', 'straggle']",How Much Do You Tell When You Talk?
+signals,"['point', 'signalize', 'signalise', 'signal', 'indicate', 'sign', 'betoken', 'signaling', 'bespeak']",How Much Do You Tell When You Talk?
+Alexandria,"['Alexandria', 'El_Iskandriyah']",How Much Do You Tell When You Talk?
+high-powered,"['high-power', 'high-energy', 'high-powered', 'high-octane', 'high-voltage']",How Much Do You Tell When You Talk?
+normally,"['usually', 'unremarkably', 'normally', 'commonly', 'ordinarily']",How Much Do You Tell When You Talk?
+she,[],How Much Do You Tell When You Talk?
+what's,[],How Much Do You Tell When You Talk?
+breaks,"['snap_off', 'split_up', 'get_around', 'fail', 'jailbreak', 'split', 'wear_out', 'happy_chance', 'let_on', 'break_up', 'severance', 'collapse', 'smash', 'intermit', 'fracture', 'go', 'come_apart', 'break_dance', 'bump', 'breaking', 'recrudesce', 'offend', 'good_luck', 'suspension', 'rupture', 'falling_out', 'erupt', 'transgress', 'ruin', 'pause', 'break_out', 'open_frame', 'go_bad', 'demote', 'weaken', 'give_away', 'break_in', 'part', 'give', 'interrupt', 'expose', 'give_way', 'infract', 'disruption', 'fall_in', 'die', 'bankrupt', 'better', 'break_of_serve', 'prisonbreak', 'recess', 'break_off', 'soften', 'disclose', 'damp', 'give_out', 'discover', 'develop', 'cave_in', 'get_out', 'bring_out', 'reveal', 'respite', 'bust', 'rift', 'separate', 'break_down', 'crack', 'interruption', 'conk_out', 'let_out', 'breach', 'dampen', 'breakage', 'violate', 'go_against', 'break-dance', 'check', 'fall_apart', 'break', 'discontinue', 'prison-breaking', 'unwrap', 'breakout', 'relegate', 'founder', 'break_away', 'shift', 'fault', 'faulting', 'stop', 'wear', 'gap', 'burst', 'gaolbreak', 'time_out', 'divulge', 'geological_fault', 'intermission', 'kick_downstairs']",How Much Do You Tell When You Talk?
+truthfully,['truthfully'],How Much Do You Tell When You Talk?
+beginning,"['offset', 'lead_off', 'origin', 'get-go', 'commencement', 'set_about', 'commence', 'showtime', 'start_out', 'get', 'kickoff', 'starting_time', 'get_down', 'first', 'rootage', 'beginning', 'outset', 'start', 'begin', 'set_out', 'root', 'source']",How Much Do You Tell When You Talk?
+Smith's,[],How Much Do You Tell When You Talk?
+no,"['atomic_number_102', 'No', 'nobelium', 'no', 'no_more']",How Much Do You Tell When You Talk?
+success,"['winner', 'success', 'achiever', 'succeeder']",How Much Do You Tell When You Talk?
+Eskimo,"['Inuit', 'Eskimo', 'Esquimau']",How Much Do You Tell When You Talk?
+triad,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'triple', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'common_chord', 'tierce', 'trio', 'terzetto', 'trine', 'trey']",How Much Do You Tell When You Talk?
+do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",How Much Do You Tell When You Talk?
+target,"['point', 'aim', 'objective', 'prey', 'fair_game', 'target_area', 'mark', 'object', 'place', 'direct', 'quarry', 'butt', 'target']",How Much Do You Tell When You Talk?
+romance,"['love_affair', 'solicit', 'flirt', 'Latin', 'mash', 'coquet', 'chat_up', 'Romance_language', 'court', 'dally', 'woo', 'romanticism', 'coquette', 'Latinian_language', 'butterfly', 'romance', 'love_story', 'philander', 'Romance']",How Much Do You Tell When You Talk?
+records,"['disk', 'record_book', 'read', 'book', 'disc', 'phonograph_recording', 'criminal_record', 'memorialise', 'phonograph_record', 'platter', 'show', 'commemorate', 'immortalise', 'enter', 'memorialize', 'immortalize', 'register', 'record', 'put_down', 'track_record', 'tape']",How Much Do You Tell When You Talk?
+transcript,"['copy', 'transcript']",How Much Do You Tell When You Talk?
+principle,"['rule', 'precept', 'principle', 'rationale']",How Much Do You Tell When You Talk?
+sometimes,['sometimes'],How Much Do You Tell When You Talk?
+than,[],How Much Do You Tell When You Talk?
+irritable,"['peckish', 'fractious', 'cranky', 'scratchy', 'pettish', 'petulant', 'testy', 'tetchy', 'techy', 'nettlesome', 'irritable', 'excitable', 'peevish']",How Much Do You Tell When You Talk?
+or,"['operating_room', 'operating_theatre', 'operating_theater', 'Oregon', 'surgery', 'Beaver_State', 'OR']",How Much Do You Tell When You Talk?
+failure,"['unsuccessful_person', 'nonstarter', 'bankruptcy', 'failure', 'loser']",How Much Do You Tell When You Talk?
+status,"['status', 'position', 'condition']",How Much Do You Tell When You Talk?
+how,[],How Much Do You Tell When You Talk?
+relate,"['refer', 'link', 'connect', 'link_up', 'bear_on', 'come_to', 'touch', 'touch_on', 'have-to_doe_with', 'interrelate', 'concern', 'pertain', 'tie_in', 'relate', 'associate', 'colligate']",How Much Do You Tell When You Talk?
+tense,"['tense', 'strain', 'tense_up']",How Much Do You Tell When You Talk?
+had,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",How Much Do You Tell When You Talk?
+simply,"['plainly', 'simply', 'only', 'just', 'merely', 'but']",How Much Do You Tell When You Talk?
+shock,"['shock', 'impact', 'cushion', 'floor', 'scandalize', 'traumatise', 'jar', 'appall', 'seismic_disturbance', 'blow_out_of_the_water', 'daze', 'blow', 'appal', 'ball_over', 'jounce', 'take_aback', 'scandalise', 'jolt', 'electric_shock', 'offend', 'shock_absorber', 'traumatize', 'electrical_shock', 'stupor', 'outrage']",How Much Do You Tell When You Talk?
+relates,"['refer', 'link', 'connect', 'link_up', 'bear_on', 'come_to', 'touch', 'touch_on', 'have-to_doe_with', 'interrelate', 'concern', 'pertain', 'tie_in', 'relate', 'associate', 'colligate']",How Much Do You Tell When You Talk?
+to,[],How Much Do You Tell When You Talk?
+cute,"['precious', 'cunning', 'cute']",How Much Do You Tell When You Talk?
+acute,"['acuate', 'piercing', 'sharp', 'incisive', 'intense', 'ague', 'acute', 'penetrating', 'penetrative', 'knifelike', 'acute_accent', 'needlelike', 'keen', 'discriminating']",How Much Do You Tell When You Talk?
+transmitted,"['familial', 'transmissible', 'broadcast', 'channelise', 'transmitted', 'transmit', 'send', 'carry', 'conduct', 'genetic', 'inherited', 'impart', 'hereditary', 'beam', 'channel', 'channelize', 'air', 'communicate', 'transport', 'transfer', 'convey']",How Much Do You Tell When You Talk?
+knew,"['experience', 'sleep_with', 'love', 'be_intimate', 'roll_in_the_hay', 'fuck', 'make_out', 'do_it', 'cognise', 'live', 'screw', 'have_sex', 'have_it_off', 'recognise', 'know', 'acknowledge', 'hump', 'bonk', 'have_a_go_at_it', 'lie_with', 'bed', 'have_it_away', 'have_intercourse', 'eff', 'get_it_on', 'make_love', 'cognize', 'get_laid', 'bang', 'jazz', 'recognize', 'sleep_together']",How Much Do You Tell When You Talk?
+laid,"['position', 'put', 'repose', 'lay', 'put_down', 'laid', 'place', 'set', 'pose']",How Much Do You Tell When You Talk?
+now-historic,[],How Much Do You Tell When You Talk?
+symbols,"['symbolisation', 'symbolization', 'symbol', 'symbolic_representation']",How Much Do You Tell When You Talk?
+Hayes,"['Rutherford_Birchard_Hayes', 'Rutherford_B._Hayes', 'hay', 'Hayes', 'Helen_Hayes', 'President_Hayes']",How Much Do You Tell When You Talk?
+Foreign,"['alien', 'extraneous', 'strange', 'foreign']",How Much Do You Tell When You Talk?
+deeper,"['profoundly', 'recondite', 'cryptical', 'thick', 'deep', 'abstruse', 'deeply', 'mysterious', 'mystifying', 'cryptic', 'rich', 'inscrutable', 'bass']",How Much Do You Tell When You Talk?
+Within,"['within', 'inside']",How Much Do You Tell When You Talk?
+On,"['on', 'along']",How Much Do You Tell When You Talk?
+conveyed,"['transmit', 'take', 'carry', 'conduct', 'impart', 'channel', 'fetch', 'bring', 'express', 'convey', 'communicate', 'get']",How Much Do You Tell When You Talk?
+little,"['picayune', 'lilliputian', 'slight', 'small', 'niggling', 'piffling', 'piddling', 'fiddling', 'short', 'footling', 'petty', 'trivial', 'little', 'minuscule']",How Much Do You Tell When You Talk?
+felt,"['experience', 'finger', 'matt-up', 'mat', 'matte_up', 'matte', 'sense', 'find', 'mat_up', 'feel', 'felt', 'felt_up', 'palpate']",How Much Do You Tell When You Talk?
+areas,"['field', 'surface_area', 'area', 'expanse', 'orbit', 'arena', 'domain', 'region', 'country', 'sphere']",How Much Do You Tell When You Talk?
+picked,"['clean', 'pluck', 'piece', 'foot', 'plunk', 'nibble', 'blame', 'break_up', 'beak', 'pick', 'peck', 'cull', 'find_fault']",How Much Do You Tell When You Talk?
+end,"['close', 'death', 'end', 'goal', 'destruction', 'conclusion', 'oddment', 'final_stage', 'finish', 'terminate', 'ending', 'cease', 'remnant', 'last', 'closing', 'remainder', 'terminal', 'stop']",How Much Do You Tell When You Talk?
+black,"['melanize', 'Shirley_Temple_Black', 'dim', 'Black_person', 'contraband', 'sinister', 'total_darkness', 'bleak', 'nigrify', 'ignominious', 'fateful', 'pitch-dark', 'blacken', 'blackness', 'bootleg', 'lightlessness', 'Negroid', 'fatal', 'black', 'shameful', 'blackened', 'disgraceful', 'pitch-black', 'disastrous', 'Shirley_Temple', 'pitch_blackness', 'inglorious', 'Black', 'mordant', 'inkiness', 'black-market', 'calamitous', 'opprobrious', 'Negro', 'grim', 'dark', 'melanise', 'Joseph_Black', 'smutty', 'smuggled', 'blackamoor']",How Much Do You Tell When You Talk?
+take,"['accept', 'remove', 'take_in', 'contract', 'return', 'take_away', 'read', 'rent', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'payoff', 'consume', 'learn', 'proceeds', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'takings', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'issue', 'contain', 'yield', 'study', 'ingest', 'make', 'take_aim', 'drive', 'choose', 'select', 'convey', 'charter']",How Much Do You Tell When You Talk?
+boost,"['hike', 'rise', 'boost', 'further', 'promote', 'advance', 'cost_increase', 'encourage', 'encouragement', 'hike_up', 'supercharge']",How Much Do You Tell When You Talk?
+overseas,"['overseas', 'abroad', 'oversea']",How Much Do You Tell When You Talk?
+Lillian,[],How Much Do You Tell When You Talk?
+they,[],How Much Do You Tell When You Talk?
+bundle,"['big_bucks', 'practice_bundling', 'package', 'parcel', 'compact', 'bunch', 'pile', 'bunch_up', 'sheaf', 'wad', 'megabucks', 'pack', 'bundle', 'roll_up', 'bundle_up', 'packet', 'clump', 'cluster', 'big_money']",How Much Do You Tell When You Talk?
+battery,"['electric_battery', 'bombardment', 'barrage', 'shelling', 'stamp_battery', 'barrage_fire', 'battery', 'assault_and_battery']",How Much Do You Tell When You Talk?
+including,"['let_in', 'include', 'admit']",How Much Do You Tell When You Talk?
+linguist,"['polyglot', 'linguist', 'linguistic_scientist']",How Much Do You Tell When You Talk?
+recordings,"['enter', 'read', 'memorialize', 'immortalize', 'register', 'record', 'recording', 'put_down', 'memorialise', 'tape', 'show', 'transcription', 'commemorate', 'immortalise']",How Much Do You Tell When You Talk?
+especially,"['particularly', 'specially', 'peculiarly', 'especially']",How Much Do You Tell When You Talk?
+throaty,['throaty'],How Much Do You Tell When You Talk?
+me,"['ME', 'Maine', 'Pine_Tree_State']",How Much Do You Tell When You Talk?
+record,"['disk', 'record_book', 'read', 'book', 'disc', 'phonograph_recording', 'criminal_record', 'memorialise', 'phonograph_record', 'platter', 'show', 'commemorate', 'immortalise', 'enter', 'memorialize', 'immortalize', 'register', 'record', 'put_down', 'track_record', 'tape']",How Much Do You Tell When You Talk?
+information,"['info', 'data', 'information', 'entropy', 'selective_information']",How Much Do You Tell When You Talk?
+flags,"['iris', 'ease_up', 'ease_off', 'sword_lily', 'flag', 'sag', 'masthead', 'slacken_off', 'pin', 'signal_flag', 'swag', 'droop', 'fleur-de-lis', 'flagstone']",How Much Do You Tell When You Talk?
+typed,"['typewrite', 'type', 'typecast']",How Much Do You Tell When You Talk?
+making,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'devising', 'take_a_crap', 'fix', 'constitute', 'pee', 'fashioning', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'qualification', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'making', 'make', 'reach', 'attain', 'realise', 'produce', 'arrive_at', 'ready', 'prepare', 'build', 'lay_down']",How Much Do You Tell When You Talk?
+rivalry,"['rivalry', 'competition', 'contention']",How Much Do You Tell When You Talk?
+Smith,"['David_Roland_Smith', 'Julia_Evelina_Smith', 'Adam_Smith', 'metalworker', 'Joseph_Smith', 'Kathryn_Elizabeth_Smith', 'Captain_John_Smith', 'Ian_Smith', 'smith', 'John_Smith', 'Smith', 'Bessie_Smith', 'Kate_Smith', 'Ian_Douglas_Smith', 'David_Smith']",How Much Do You Tell When You Talk?
+based,"['found', 'ground', 'free-base', 'base', 'establish', 'based']",How Much Do You Tell When You Talk?
+richly,"['amply', 'luxuriously', 'extravagantly', 'lavishly', 'high', 'richly']",How Much Do You Tell When You Talk?
+time,"['clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'prison_term', 'time']",How Much Do You Tell When You Talk?
+then,"['then', 'so', 'and_then', 'and_so']",How Much Do You Tell When You Talk?
+whole,"['whole', 'all', 'unharmed', 'altogether', 'totally', 'completely', 'unanimous', 'wholly', 'hale', 'unit', 'solid', 'entirely', 'unscathed', 'unhurt']",How Much Do You Tell When You Talk?
+Service,"['armed_service', 'serving', 'divine_service', 'Service', 'overhaul', 'servicing', 'military_service', 'service', 'table_service', 'service_of_process', 'religious_service', 'avail', 'serve', 'Robert_William_Service', 'help', 'inspection_and_repair']",How Much Do You Tell When You Talk?
+line,"['billet', 'transmission_line', 'contrast', 'line', 'logical_argument', 'course', 'pipeline', 'phone_line', 'ancestry', 'origin', 'agate_line', 'assembly_line', 'blood', 'argument', 'furrow', 'crinkle', 'wrinkle', 'run_along', 'business', 'pedigree', 'product_line', 'line_of_credit', 'melodic_line', 'occupation', 'demarcation', 'draw', 'crease', 'line_of_merchandise', 'subscriber_line', 'line_of_work', 'line_of_business', 'melody', 'telephone_circuit', 'parentage', 'credit_line', 'job', 'melodic_phrase', 'production_line', 'blood_line', 'argumentation', 'bank_line', 'strain', 'cable', 'bloodline', 'describe', 'delineate', 'personal_credit_line', 'railway_line', 'telephone_line', 'rail_line', 'trace', 'descent', 'business_line', 'stemma', 'air', 'channel', 'short_letter', 'stock', 'line_of_reasoning', 'note', 'dividing_line', 'tune', 'line_of_products', 'line_of_descent', 'lineage', 'personal_line_of_credit', 'seam', 'communication_channel']",How Much Do You Tell When You Talk?
+useful,"['utile', 'useful', 'utilitarian']",How Much Do You Tell When You Talk?
+rehearsed,"['practice', 'practise', 'rehearse']",How Much Do You Tell When You Talk?
+meaning,"['think', 'stand_for', 'significance', 'intend', 'signify', 'import', 'pregnant', 'significant', 'imply', 'meaning', 'think_of', 'entail', 'substance', 'mean', 'have_in_mind', 'signification']",How Much Do You Tell When You Talk?
+Arthur,"['Chester_A._Arthur', 'Chester_Alan_Arthur', 'Arthur', 'President_Arthur', 'King_Arthur']",How Much Do You Tell When You Talk?
+keep,"['hold_on', 'keep', 'sustenance', 'prevent', 'observe', 'hold_open', 'proceed', 'keep_back', 'stay_fresh', 'keep_on', 'support', 'go_along', 'save', 'continue', 'hold', 'bread_and_butter', 'restrain', 'maintain', 'living', 'go_on', 'hold_back', 'donjon', 'keep_open', 'dungeon', 'celebrate', 'livelihood', 'sustain', 'retain', 'preserve']",How Much Do You Tell When You Talk?
+meeting,"['adjoin', 'play', 'run_into', 'fill', 'cope_with', 'receive', 'meeting', 'fulfill', 'foregather', 'match', 'coming_together', 'fit', 'touch', 'group_meeting', 'encounter', 'converge', 'forgather', 'merging', 'get_together', 'run_across', 'see', 'come_across', 'suffer', 'gather', 'conform_to', 'assemble', 'take_on', 'meet', 'satisfy', 'contact', 'fulfil', 'confluence']",How Much Do You Tell When You Talk?
+paralanguage,"['paralanguage', 'paralinguistic_communication']",How Much Do You Tell When You Talk?
+reproduced,"['regurgitate', 'procreate', 'multiply', 'reproduce']",How Much Do You Tell When You Talk?
+An,"['Associate_in_Nursing', 'AN']",How Much Do You Tell When You Talk?
+articulated,"['articulate', 'articulated', 'phrase', 'formulate', 'pronounce', 'enounce', 'say', 'word', 'vocalize', 'vocalise', 'enunciate', 'give_voice', 'sound_out', 'joint']",How Much Do You Tell When You Talk?
+shaking,"['stimulate', 'excite', 'vibration', 'shaking', 'shake_off', 'palpitation', 'didder', 'shake', 'escape_from', 'quiver', 'trembling', 'agitate', 'judder', 'shakiness', 'shake_up', 'sway', 'throw_off', 'quivering', 'stir', 'rock']",How Much Do You Tell When You Talk?
+atmosphere,"['aura', 'standard_atmosphere', 'atmospheric_state', 'atmosphere', 'ambience', 'atm', 'air', 'standard_pressure', 'ambiance']",How Much Do You Tell When You Talk?
+unfortunately,"['regrettably', 'unfortunately', 'unluckily', 'alas']",How Much Do You Tell When You Talk?
+alone,"['exclusively', 'solely', 'unparalleled', 'solitary', 'unaccompanied', 'lone', 'only', 'unique', 'unequalled', 'lonely', 'alone', 'solo', 'entirely', 'unequaled']",How Much Do You Tell When You Talk?
+just,"['barely', 'precisely', 'simply', 'upright', 'only', 'exactly', 'scarce', 'equitable', 'hardly', 'just', 'scarcely', 'merely', 'just_now', 'good', 'but', 'fair']",How Much Do You Tell When You Talk?
+oversoftness,[],How Much Do You Tell When You Talk?
+deal,"['address', 'sight', 'flock', 'spate', 'contend', 'look_at', 'treat', 'parcel_out', 'mickle', 'dole_out', 'portion_out', 'make_out', 'share', 'distribute', 'stack', 'business_deal', 'quite_a_little', 'cover', 'conduct', 'handle', 'tidy_sum', 'raft', 'softwood', 'carry_on', 'care', 'shell_out', 'administer', 'deal', 'pile', 'mess', 'dispense', 'divvy_up', 'mint', 'consider', 'take', 'make_do', 'wad', 'mete_out', 'slew', 'dish_out', 'passel', 'hatful', 'lot', 'mass', 'get_by', 'heap', 'plenty', 'allot', 'great_deal', 'trade', 'muckle', 'pot', 'grapple', 'good_deal', 'sell', 'apportion', 'cope', 'hand', 'manage', 'batch', 'mountain', 'plow', 'deal_out', 'peck', 'bargain']",How Much Do You Tell When You Talk?
+trained,"['coach', 'develop', 'trail', 'groom', 'condition', 'civilize', 'school', 'educate', 'rail', 'trained', 'take', 'aim', 'direct', 'civilise', 'discipline', 'train', 'check', 'cultivate', 'take_aim', 'prepare']",How Much Do You Tell When You Talk?
+revealing,"['revelation', 'unwrap', 'discover', 'expose', 'let_on', 'bring_out', 'reveal', 'divulge', 'disclose', 'uncover', 'break', 'let_out', 'telltale', 'telling', 'give_away', 'unveil', 'disclosure', 'revealing']",How Much Do You Tell When You Talk?
+over,"['over', 'all_over', ""o'er"", 'terminated', 'concluded', 'complete', 'ended']",How Much Do You Tell When You Talk?
+obvious,['obvious'],How Much Do You Tell When You Talk?
+words,"['word', 'word_of_honor', 'Holy_Writ', 'run-in', 'row', 'parole', 'countersign', 'formulate', 'discussion', 'Word', 'give_voice', 'Holy_Scripture', 'lyric', 'intelligence', 'articulate', 'Book', 'words', ""actor's_line"", 'phrase', 'quarrel', 'watchword', 'Bible', 'Son', 'speech', 'language', 'news', 'Christian_Bible', 'Good_Book', 'give-and-take', 'Scripture', 'tidings', 'dustup', 'wrangle', 'password', 'Word_of_God', 'Logos']",How Much Do You Tell When You Talk?
+subject,"['field', 'capable', 'subjugate', 'dependent', 'open', 'submit', 'matter', 'guinea_pig', 'topic', 'national', 'subject', 'field_of_study', 'bailiwick', 'subject_field', 'discipline', 'issue', 'theme', 'study', 'depicted_object', 'case', 'subject_area', 'content']",How Much Do You Tell When You Talk?
+go,"['exit', 'expire', 'give_out', 'live_on', 'go_game', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'disco_biscuit', 'proceed', 'hold_up', 'fling', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'whirl', 'XTC', 'crack', 'ecstasy', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'X', 'turn', 'hold_out', 'extend', 'croak', 'pass', 'die', 'lead', 'belong', 'start', 'get_going', 'run', 'function', 'choke', 'drop_dead', 'conk_out', 'cristal', 'travel', 'Adam', 'blend', 'hug_drug', 'tour', 'sound', 'pop_off', 'move', 'spell', 'rifle', 'survive', 'offer']",How Much Do You Tell When You Talk?
+speakers,"['speaker', 'verbaliser', 'verbalizer', 'loudspeaker', 'speaker_unit', 'speaker_system', 'utterer', 'Speaker', 'talker', 'loudspeaker_system']",How Much Do You Tell When You Talk?
+three-part,[],How Much Do You Tell When You Talk?
+process,"['operation', 'treat', 'cognitive_process', 'serve', 'work', 'work_on', 'swear_out', 'summons', 'outgrowth', 'litigate', 'procedure', 'process', 'mental_process', 'physical_process', 'action', 'cognitive_operation', 'appendage', 'march', 'unconscious_process', 'sue']",How Much Do You Tell When You Talk?
+now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']",How Much Do You Tell When You Talk?
+dozen,"['xii', 'XII', 'dozen', '12', 'twelve']",How Much Do You Tell When You Talk?
+evidenced,"['evidence', 'tell', 'manifest', 'demonstrate', 'testify', 'bear_witness', 'show', 'prove', 'evidenced', 'certify', 'attest']",How Much Do You Tell When You Talk?
+scientifically,['scientifically'],How Much Do You Tell When You Talk?
+have,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'wealthy_person', 'induce', 'rich_person', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",How Much Do You Tell When You Talk?
+respect,"['prize', 'respectfulness', 'obedience', 'abide_by', 'observe', 'honor', 'value', 'prise', 'deference', 'regard', 'honour', 'esteem', 'respect']",How Much Do You Tell When You Talk?
+expected,"['ask', 'wait', 'gestate', 'carry', 'look', 'expect', 'have_a_bun_in_the_oven', 'bear', 'await', 'anticipate', 'require', 'expected']",How Much Do You Tell When You Talk?
+speaker,"['speaker', 'verbaliser', 'verbalizer', 'loudspeaker', 'speaker_unit', 'speaker_system', 'utterer', 'Speaker', 'talker', 'loudspeaker_system']",How Much Do You Tell When You Talk?
+regional,['regional'],How Much Do You Tell When You Talk?
+Barnard,[],How Much Do You Tell When You Talk?
+her,[],How Much Do You Tell When You Talk?
+patient,"['patient_role', 'patient', 'affected_role']",How Much Do You Tell When You Talk?
+saga,['saga'],How Much Do You Tell When You Talk?
+expressions,"['expression', 'manifestation', 'aspect', 'saying', 'locution', 'look', 'reflection', 'reflexion', 'formulation', 'facial_expression', 'face', 'verbalism', 'verbal_expression', 'formula', 'construction', 'grammatical_construction']",How Much Do You Tell When You Talk?
+programming,"['programing', 'scheduling', 'computer_programing', 'programming', 'program', 'computer_programming', 'programme']",How Much Do You Tell When You Talk?
+all,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']",How Much Do You Tell When You Talk?
+Just,"['barely', 'precisely', 'simply', 'upright', 'only', 'exactly', 'scarce', 'equitable', 'hardly', 'just', 'scarcely', 'merely', 'just_now', 'good', 'but', 'fair']",How Much Do You Tell When You Talk?
+resentment,"['gall', 'rancor', 'bitterness', 'rancour', 'resentment']",How Much Do You Tell When You Talk?
+history,"['history', 'account', 'story', 'chronicle']",How Much Do You Tell When You Talk?
+immediately,"['immediately', 'directly', 'straight_off', 'forthwith', 'at_once', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot']",How Much Do You Tell When You Talk?
+woman,"['woman', 'womanhood', 'fair_sex', 'char', 'cleaning_woman', 'cleaning_lady', 'adult_female', 'charwoman']",How Much Do You Tell When You Talk?
+First,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']",How Much Do You Tell When You Talk?
+my,[],How Much Do You Tell When You Talk?
+chartings,"['chart', 'graph']",How Much Do You Tell When You Talk?
+lack,"['want', 'lack', 'miss', 'deficiency']",How Much Do You Tell When You Talk?
+Lee,"['Bruce_Lee', 'Gypsy_Rose_Lee', 'Henry_Lee', 'Lighthorse_Harry_Lee', 'Robert_E._Lee', 'Tsung_Dao_Lee', 'Richard_Henry_Lee', 'Spike_Lee', 'Lee_Yuen_Kam', 'Lee', 'lee_side', 'Rose_Louise_Hovick', 'leeward', 'lee', 'downwind', 'Robert_Edward_Lee', 'Shelton_Jackson_Lee']",How Much Do You Tell When You Talk?
+reasonably,"['somewhat', 'pretty', 'jolly', 'moderately', 'sensibly', 'passably', 'reasonably', 'middling', 'fairly', 'sanely']",How Much Do You Tell When You Talk?
+regard,"['gaze', 'consider', 'see', 'view', 'compliments', 'attentiveness', 'paying_attention', 'wish', 'reckon', 'regard', 'involve', 'affect', 'esteem', 'respect', 'heed']",How Much Do You Tell When You Talk?
+establish,"['found', 'shew', 'demonstrate', 'establish', 'institute', 'constitute', 'plant', 'set_up', 'ground', 'give', 'show', 'instal', 'install', 'launch', 'make', 'base', 'build', 'prove', 'lay_down']",How Much Do You Tell When You Talk?
+bring,"['work', 'institute', 'take', 'make_for', 'play', 'bestow', 'impart', 'add', 'bring_in', 'fetch', 'wreak', 'lend', 'bring', 'land', 'contribute', 'convey', 'get']",How Much Do You Tell When You Talk?
+speed,"['amphetamine', 'race', 'hasten', 'pelt_along', 'speed', 'accelerate', 'hie', 'velocity', 'cannonball_along', 'quicken', 'hurry', 'hotfoot', 'rush_along', 'speed_up', 'fastness', 'step_on_it', 'focal_ratio', 'bucket_along', 'hurrying', 'f_number', 'belt_along', 'speeding', 'pep_pill', 'travel_rapidly', 'rush', 'upper', 'stop_number', 'swiftness', 'zip']",How Much Do You Tell When You Talk?
+general,"['cosmopolitan', 'superior_general', 'worldwide', 'ecumenical', 'full_general', 'world-wide', 'oecumenical', 'universal', 'general']",How Much Do You Tell When You Talk?
+devotion,"['idolatry', 'veneration', 'cultism', 'devotedness', 'devotion']",How Much Do You Tell When You Talk?
+marked,"['distinguish', 'stigmatise', 'pit', 'pock', 'mark', 'marked', 'scar', 'notice', 'tick_off', 'stigmatize', 'score', 'mark_off', 'cross_off', 'denounce', 'differentiate', 'cross_out', 'tag', 'brand', 'nock', 'strike_off', 'commemorate', 'punctuate', 'label', 'grade', 'check', 'strike_out', 'note', 'check_off', 'tick', 'pronounced', 'set']",How Much Do You Tell When You Talk?
+usually,"['usually', 'unremarkably', 'normally', 'commonly', 'ordinarily']",How Much Do You Tell When You Talk?
+transcribed,"['transliterate', 'transcribed', 'transcribe', 'canned']",How Much Do You Tell When You Talk?
+Redstone,[],How Much Do You Tell When You Talk?
+non-scientific,[],How Much Do You Tell When You Talk?
+facial,"['facial', 'facial_nerve', 'nervus_facialis', 'seventh_cranial_nerve']",How Much Do You Tell When You Talk?
+nodding,"['cernuous', 'weeping', 'drooping', 'nodding', 'nod', 'pendulous']",How Much Do You Tell When You Talk?
+wish,"['wish_well', 'want', 'indirect_request', 'compliments', 'wish', 'regard', 'care', 'wishing', 'like', 'bid']",How Much Do You Tell When You Talk?
+Drs.,[],How Much Do You Tell When You Talk?
+supplied,"['issue', 'render', 'furnish', 'provide', 'add', 'cater', 'ply', 'supply', 'append']",How Much Do You Tell When You Talk?
+Later,"['by_and_by', 'recent', 'later', 'tardy', 'ulterior', 'belated', 'subsequently', 'after', 'later_on', 'former', 'afterwards', 'posterior', 'afterward', 'late', 'previous']",How Much Do You Tell When You Talk?
+certain,"['sealed', 'sure', 'certain']",How Much Do You Tell When You Talk?
+though,['though'],How Much Do You Tell When You Talk?
+pronouns,['pronoun'],How Much Do You Tell When You Talk?
+x-rays,"['X-ray_picture', 'X-ray', 'X-ray_photograph', 'X-radiation', 'x-ray', 'roentgen_ray', 'X_ray', 'roentgenogram']",How Much Do You Tell When You Talk?
+mechanism,"['mechanism', 'mechanics', 'chemical_mechanism']",How Much Do You Tell When You Talk?
+posts,"['billet', 'situation', 'send', 'stake', 'Emily_Price_Post', 'position', 'C._W._Post', 'carry', 'office', 'Charles_William_Post', 'Emily_Post', 'brand', 'berth', 'place', 'station', 'mail', 'Wiley_Post', 'postal_service', 'post', 'Post', 'mail_service', 'put_up', 'military_post', 'spot']",How Much Do You Tell When You Talk?
+playbacks,['playback'],How Much Do You Tell When You Talk?
+small,"['humble', 'small', 'minor', 'pocket-sized', 'belittled', 'low', 'modest', 'diminished', 'small-scale', 'lowly', 'little', 'minuscule', 'pocket-size']",How Much Do You Tell When You Talk?
+gambit,"['stratagem', 'ploy', 'gambit']",How Much Do You Tell When You Talk?
+woman's,[],How Much Do You Tell When You Talk?
+man,"['military_man', 'humanity', 'homo', 'world', 'Isle_of_Man', 'humans', 'Man', 'human_being', 'serviceman', 'piece', 'adult_male', 'valet', 'human_beings', 'human', ""gentleman's_gentleman"", 'man', 'human_race', 'valet_de_chambre', 'humankind', 'military_personnel', 'gentleman', 'mankind']",How Much Do You Tell When You Talk?
+bare,"['publicize', 'unembellished', 'au_naturel', 'bleak', 'simple', 'unsheathed', 'denudate', 'unfinished', 'barren', 'scanty', 'publicise', 'stripped', 'stark', 'spare', 'mere', 'strip', 'bare', 'air', 'naked', 'marginal', 'plain', 'denude', 'nude', 'desolate', 'unornamented']",How Much Do You Tell When You Talk?
+either,['either'],How Much Do You Tell When You Talk?
+language,"['linguistic_communication', 'spoken_language', 'words', 'spoken_communication', 'oral_communication', 'speech_communication', 'nomenclature', 'terminology', 'voice_communication', 'linguistic_process', 'speech', 'language', 'lyric']",How Much Do You Tell When You Talk?
+pretty,"['somewhat', 'pretty', 'jolly', 'moderately', 'passably', 'reasonably', 'middling', 'fairly']",How Much Do You Tell When You Talk?
+techniques,"['proficiency', 'technique']",How Much Do You Tell When You Talk?
+less,"['to_a_lesser_extent', 'less', 'lupus_erythematosus', 'LE']",How Much Do You Tell When You Talk?
+body,"['soundbox', 'dead_body', 'consistency', 'personify', 'consistence', 'body', 'trunk', 'eubstance', 'organic_structure', 'torso', 'physical_structure']",How Much Do You Tell When You Talk?
+Charles,"['Prince_Charles', 'Charles_Stuart', 'Charles_River', 'Charles_the_Great', 'Charles_IX', 'Charles_the_Bald', 'Charles_I', 'Charles', 'Jacques_Charles', 'Jacques_Alexandre_Cesar_Charles', 'Carolus', 'Charles_II', 'Charles_VII', 'Charlemagne']",How Much Do You Tell When You Talk?
+it,"['IT', 'information_technology']",How Much Do You Tell When You Talk?
+MacArthur,"['MacArthur', 'Douglas_MacArthur']",How Much Do You Tell When You Talk?
+earliest,"['other', 'soonest', 'former', 'early', 'earlier', 'earliest']",How Much Do You Tell When You Talk?
+reacted,"['react', 'oppose', 'respond']",How Much Do You Tell When You Talk?
+junctures,"['junction', 'crossroads', 'articulation', 'joint', 'occasion', 'join', 'critical_point', 'juncture']",How Much Do You Tell When You Talk?
+appropriate,"['appropriate', 'reserve', 'seize', 'set_aside', 'conquer', 'earmark', 'allow', 'capture']",How Much Do You Tell When You Talk?
+regrettably,"['regrettably', 'unfortunately', 'unluckily', 'alas']",How Much Do You Tell When You Talk?
+quantity,"['quantity', 'measure', 'amount']",How Much Do You Tell When You Talk?
+apart,"['asunder', 'isolated', 'apart', 'aside', 'obscure']",How Much Do You Tell When You Talk?
+Institute,"['institute', 'found', 'constitute', 'plant', 'establish', 'bring']",How Much Do You Tell When You Talk?
+develop,"['rise', 'develop', 'break', 'modernise', 'evolve', 'germinate', 'spring_up', 'grow', 'formulate', 'originate', 'explicate', 'educate', 'get', 'modernize', 'build_up', 'acquire', 'make_grow', 'train', 'recrudesce', 'arise', 'produce', 'prepare', 'uprise']",How Much Do You Tell When You Talk?
+breathy,[],How Much Do You Tell When You Talk?
+dialogue,"['duologue', 'negotiation', 'talks', 'dialogue', 'dialog']",How Much Do You Tell When You Talk?
+pitches,"['lurch', 'flip', 'deliver', 'incline', 'tar', 'rake', 'monger', 'sky', 'slope', 'sales_talk', 'slant', 'gear', 'sales_pitch', 'huckster', 'tilt', 'pitch', 'set_up', 'hawk', 'delivery', 'pitching', 'shift', 'pitch_shot', 'cant_over', 'peddle', 'vend', 'toss', 'auction_pitch', 'cant']",How Much Do You Tell When You Talk?
+literary,['literary'],How Much Do You Tell When You Talk?
+gestures,"['motion', 'gesticulate', 'gesture']",How Much Do You Tell When You Talk?
+Middle,"['centre', 'midsection', 'middle', 'center', 'midriff', 'halfway', 'in-between', 'eye', 'mediate', 'midway', 'heart']",How Much Do You Tell When You Talk?
+suggest,"['intimate', 'indicate', 'advise', 'hint', 'suggest', 'paint_a_picture', 'propose', 'evoke']",How Much Do You Tell When You Talk?
+stresses,"['focus', 'tenseness', 'accent', 'emphasize', 'strain', 'try', 'emphasis', 'tension', 'emphasise', 'stress', 'accentuate', 'punctuate']",How Much Do You Tell When You Talk?
+juncture,"['junction', 'crossroads', 'articulation', 'joint', 'occasion', 'join', 'critical_point', 'juncture']",How Much Do You Tell When You Talk?
+University,['university'],How Much Do You Tell When You Talk?
+examples,"['model', 'exemplar', 'example', 'lesson', 'deterrent_example', 'illustration', 'representative', 'instance', 'case', 'exercise', 'object_lesson', 'good_example']",How Much Do You Tell When You Talk?
+difficulties,"['trouble', 'difficultness', 'difficulty']",How Much Do You Tell When You Talk?
+amusing,"['amuse', 'amusing', 'mirthful', 'disport', 'amusive', 'comic', 'divert', 'risible', 'comical', 'funny', 'diverting', 'laughable']",How Much Do You Tell When You Talk?
+fractures,"['crack', 'fracture', 'shift', 'break', 'geological_fault', 'fault', 'cracking', 'faulting']",How Much Do You Tell When You Talk?
+white,"['ovalbumin', 'Patrick_Victor_Martindale_White', 'albumen', 'whiten', 'ashen', 'White', 'Andrew_Dickson_White', 'egg_white', 'White_person', 'white', 'whitened', 'blanched', 'Theodore_Harold_White', 'Caucasian', 'White_River', 'Edward_D._White', 'Patrick_White', 'Stanford_White', 'clean', 'Elwyn_Brooks_White', 'snowy', 'bloodless', 'Edward_White', 'whiteness', 'tweed', 'gabardine', 'E._B._White', 'flannel', 'Edward_Douglas_White_Jr.', 'white-hot', 'blank', 'Andrew_D._White', 'T._H._White', 'livid', 'lily-white']",How Much Do You Tell When You Talk?
+neutral,"['achromatic', 'impersonal', 'inert', 'neutral', 'electroneutral', 'indifferent']",How Much Do You Tell When You Talk?
+Amateur,"['amateur', 'recreational', 'unpaid', 'inexpert', 'amateurish', 'unskilled']",How Much Do You Tell When You Talk?
+school,"['train', 'schooltime', 'schooling', 'civilize', 'school_day', 'shoal', 'school', 'cultivate', 'educate', 'civilise', 'schoolhouse']",How Much Do You Tell When You Talk?
+referred,"['cite', 'refer', 'consult', 'bear_on', 'come_to', 'touch', 'touch_on', 'have-to_doe_with', 'bring_up', 'name', 'look_up', 'denote', 'pertain', 'mention', 'relate', 'concern', 'advert']",How Much Do You Tell When You Talk?
+wife,"['wife', 'married_woman']",How Much Do You Tell When You Talk?
+therapeutic,"['remedial', 'therapeutical', 'remedy', 'curative', 'sanative', 'therapeutic', 'alterative', 'cure', 'healing']",How Much Do You Tell When You Talk?
+alternatives,"['option', 'alternative', 'choice']",How Much Do You Tell When You Talk?
+vocal,"['vocal', 'vocal_music', 'song', 'outspoken']",How Much Do You Tell When You Talk?
+Newest,"['unexampled', 'newfangled', 'young', 'fresh', 'New', 'novel', 'new', 'raw', 'Modern']",How Much Do You Tell When You Talk?
+geographical,"['geographic', 'geographical']",How Much Do You Tell When You Talk?
+American,"['American_English', 'American_language', 'American']",How Much Do You Tell When You Talk?
+trying,"['judge', 'nerve-racking', 'try', 'attempt', 'essay', 'adjudicate', 'try_on', 'nerve-wracking', 'try_out', 'render', 'seek', 'strain', 'trying', 'sample', 'examine', 'stressful', 'taste', 'test', 'assay', 'hear', 'stress', 'prove']",How Much Do You Tell When You Talk?
+austerely,['austerely'],How Much Do You Tell When You Talk?
+recently,"['lately', 'latterly', 'recently', 'late', 'of_late']",How Much Do You Tell When You Talk?
+when,[],How Much Do You Tell When You Talk?
+often,"['a_great_deal', 'oft', 'frequently', 'often', 'much', 'oftentimes', 'ofttimes']",How Much Do You Tell When You Talk?
+picture,"['flick', 'picture_show', 'impression', 'icon', 'motion_picture', 'film', 'project', 'characterization', 'painting', 'visualise', 'fancy', 'pictorial_matter', 'motion-picture_show', 'moving_picture', 'word-painting', 'characterisation', 'scene', 'visualize', 'exposure', 'envision', 'image', 'render', 'see', 'depiction', 'delineation', 'picture', 'ikon', 'figure', 'show', 'mental_picture', 'moving-picture_show', 'depict', 'photograph', 'video', 'pic', 'word_picture', 'movie', 'photo']",How Much Do You Tell When You Talk?
+Sibling,"['sibling', 'sib']",How Much Do You Tell When You Talk?
+downtalking,[],How Much Do You Tell When You Talk?
+interesting,"['worry', 'interest', 'interesting', 'concern', 'matter_to', 'occupy']",How Much Do You Tell When You Talk?
+total,"['tot', 'totality', 'sum_up', 'tally', 'entire', 'sum', 'aggregate', 'come', 'summate', 'number', 'add', 'tote_up', 'add_together', 'total', 'amount', 'tot_up', 'add_up', 'full']",How Much Do You Tell When You Talk?
+seven-word,[],How Much Do You Tell When You Talk?
+At,"['at', 'astatine', 'atomic_number_85', 'At']",How Much Do You Tell When You Talk?
+enough,"['sufficiency', 'adequate', 'decent', 'enough', 'plenty']",How Much Do You Tell When You Talk?
+everything,[],How Much Do You Tell When You Talk?
+spring-joints,[],How Much Do You Tell When You Talk?
+husband,"['married_man', 'economise', 'husband', 'hubby', 'economize', 'conserve']",How Much Do You Tell When You Talk?
+young,"['youthful', 'Whitney_Moore_Young_Jr.', 'Thomas_Young', 'untried', 'immature', 'youth', 'vernal', 'Whitney_Young', 'Brigham_Young', 'unseasoned', 'Pres_Young', 'untested', 'Edward_Young', 'Loretta_Young', 'Danton_True_Young', 'Lester_Willis_Young', 'Cy_Young', 'offspring', 'young', 'Young', 'new']",How Much Do You Tell When You Talk?
+temperament,"['disposition', 'temperament']",How Much Do You Tell When You Talk?
+nothing,"['aught', 'cipher', 'zilch', 'nix', 'nada', 'goose_egg', 'nil', 'nothing', 'zero', 'cypher', 'zippo', 'null', 'zip', 'naught']",How Much Do You Tell When You Talk?
+Henry,"['William_Henry', 'H', 'henry', 'Patrick_Henry', 'Henry', 'Joseph_Henry']",How Much Do You Tell When You Talk?
+therapists,"['healer', 'therapist']",How Much Do You Tell When You Talk?
+sound,"['well-grounded', 'healthy', 'vocalize', 'legal', 'strait', 'heavy', 'fathom', 'audio', 'wakeless', 'intelligent', 'profound', 'go', 'voice', 'auditory_sensation', 'effectual', 'speech_sound', 'phone', 'vocalise', 'sound', 'reasoned', 'levelheaded', 'level-headed', 'good']",How Much Do You Tell When You Talk?
+naturally,"['course', 'by_nature', 'of_course', 'naturally']",How Much Do You Tell When You Talk?
+pick,"['choice', 'nibble', 'cream', 'weft', 'filling', 'find_fault', 'plectron', 'picking', 'pickax', 'plunk', 'blame', 'break_up', 'beak', 'cull', 'piece', 'woof', 'clean', 'pluck', 'option', 'plectrum', 'foot', 'selection', 'pick', 'peck', 'pickaxe']",How Much Do You Tell When You Talk?
+conversation,['conversation'],How Much Do You Tell When You Talk?
+with,[],How Much Do You Tell When You Talk?
+people,"['hoi_polloi', 'the_great_unwashed', 'multitude', 'citizenry', 'mass', 'people', 'masses']",How Much Do You Tell When You Talk?
+Washington's,[],How Much Do You Tell When You Talk?
+flair,"['elan', 'panache', 'style', 'dash', 'flare', 'genius', 'flair']",How Much Do You Tell When You Talk?
+Naturally,"['course', 'by_nature', 'of_course', 'naturally']",How Much Do You Tell When You Talk?
+good,"['goodness', 'ripe', 'well', 'secure', 'dependable', 'honest', 'effective', 'trade_good', 'beneficial', 'in_effect', 'undecomposed', 'right', 'adept', 'serious', 'just', 'commodity', 'full', 'skilful', 'estimable', 'honorable', 'in_force', 'unspoiled', 'near', 'skillful', 'proficient', 'salutary', 'safe', 'expert', 'thoroughly', 'upright', 'dear', 'respectable', 'soundly', 'sound', 'practiced', 'good', 'unspoilt']",How Much Do You Tell When You Talk?
+set,"['determined', 'sic', 'adjust', 'Seth', 'mark', 'laid', 'circle', 'specify', 'band', 'limit', 'typeset', 'rig', 'go_under', 'situated', 'countersink', 'position', 'solidifying', 'coif', 'fix', 'localize', 'correct', 'plant', 'fit', 'arrange', 'located', 'placed', 'dictated', 'hardening', 'set_up', 'dress', 'readiness', 'curing', 'put', 'jell', 'coiffure', 'determine', 'fructify', 'solidification', 'hardened', 'lot', 'coiffe', 'place', 'gear_up', 'define', 'go_down', 'rigid', 'do', 'pose', 'congeal', 'Set', 'primed', 'localise', 'lay_out', 'lay', 'fixed', 'exercise_set', 'ready', 'prepare', 'stage_set', 'set', 'bent']",How Much Do You Tell When You Talk?
+sessions,"['Roger_Huntington_Sessions', 'session', 'academic_term', 'Sessions', 'sitting', 'academic_session', 'seance', 'school_term', 'Roger_Sessions']",How Much Do You Tell When You Talk?
+Primary,"['primary_feather', 'primary_election', 'primary_coil', 'main', 'elementary', 'master', 'basal', 'primary_winding', 'chief', 'primary', 'primary_quill', 'principal', 'elemental']",How Much Do You Tell When You Talk?
+he,"['atomic_number_2', 'he', 'He', 'helium']",How Much Do You Tell When You Talk?
+esoteric,['esoteric'],How Much Do You Tell When You Talk?
+makes,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'shuffle', 'take', 'progress_to', 'brand', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'shuffling', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']",How Much Do You Tell When You Talk?
+own,"['ain', 'have', 'possess', 'own']",How Much Do You Tell When You Talk?
+specifically,['specifically'],How Much Do You Tell When You Talk?
+use,"['utilise', 'habituate', 'use_of_goods_and_services', 'use', 'economic_consumption', 'employ', 'manipulation', 'utilisation', 'exercise', 'apply', 'utilization', 'role', 'practice', 'expend', 'utilize', 'usance', 'function', 'usage', 'habit', 'enjoyment', 'consumption', 'purpose', 'employment']",How Much Do You Tell When You Talk?
+everybody,[],How Much Do You Tell When You Talk?
+course,"['course_of_instruction', 'row', 'course_of_action', 'form', 'grade', 'feed', 'trend', 'course', 'line', 'track', 'path', 'of_course', 'class', 'naturally', 'course_of_study', 'run', 'flow']",How Much Do You Tell When You Talk?
+successfully,['successfully'],How Much Do You Tell When You Talk?
+one,"['i', 'matchless', 'one_and_only', '1', 'single', 'unmatched', 'nonpareil', 'unmatchable', 'unity', 'unrivaled', 'peerless', 'unrivalled', 'ane', 'one', 'ace', 'I', 'unitary']",How Much Do You Tell When You Talk?
+Language,"['linguistic_communication', 'spoken_language', 'words', 'spoken_communication', 'oral_communication', 'speech_communication', 'nomenclature', 'terminology', 'voice_communication', 'linguistic_process', 'speech', 'language', 'lyric']",How Much Do You Tell When You Talk?
+must,"['moldiness', 'must', 'mustiness']",How Much Do You Tell When You Talk?
+--,[],How Much Do You Tell When You Talk?
+communicating,"['communication', 'transmit', 'pass_along', 'communicating', 'put_across', 'pass_on', 'commune', 'pass', 'convey', 'intercommunicate', 'communicate']",How Much Do You Tell When You Talk?
+one's,[],How Much Do You Tell When You Talk?
+particular,"['special', 'specific', 'particular', 'finicky', 'especial', 'finical', 'picky', 'item', 'fussy', 'detail', 'particular_proposition', 'peculiar', 'exceptional']",How Much Do You Tell When You Talk?
+sloppily,['sloppily'],How Much Do You Tell When You Talk?
+feel,"['experience', 'finger', 'spirit', 'feeling', 'flavor', 'look', 'flavour', 'sense', 'smell', 'find', 'feel', 'tone', 'tactile_property', 'palpate']",How Much Do You Tell When You Talk?
+mean,"['average', 'think', 'signify', 'have_in_mind', 'mingy', 'meanspirited', 'stand_for', 'think_of', 'entail', 'mean', 'mean_value', 'beggarly', 'miserly', 'bastardly', 'hateful', 'intend', 'imply', 'tight', 'base']",How Much Do You Tell When You Talk?
+way,"['means', 'agency', 'direction', 'elbow_room', 'right_smart', 'style', 'way', 'fashion', 'path', 'way_of_life', 'mode', 'manner', 'room']",How Much Do You Tell When You Talk?
+attuned,['attune'],How Much Do You Tell When You Talk?
+fact,['fact'],How Much Do You Tell When You Talk?
+therapy,['therapy'],How Much Do You Tell When You Talk?
+MacArthur-Helen,[],How Much Do You Tell When You Talk?
+began,"['set_out', 'get_down', 'lead_off', 'start_out', 'commence', 'set_about', 'start', 'begin', 'get']",How Much Do You Tell When You Talk?
+lowest,"['broken', 'down', 'gloomy', 'low', 'last', 'low-pitched', 'scurvy', 'blue', 'modest', 'dispirited', 'low-down', 'last-place', 'humble', 'downcast', 'low-spirited', 'small', 'lowest', 'abject', 'miserable', 'lowly', 'humiliated', 'depressed', 'low-toned', 'humbled', 'depleted', 'grim', 'scummy', 'crushed', 'down_in_the_mouth', 'downhearted']",How Much Do You Tell When You Talk?
+repeatedly,['repeatedly'],How Much Do You Tell When You Talk?
+accompanying,"['accompany', 'companion', 'attendant', 'follow', 'ensuant', 'keep_company', 'come_with', 'concomitant', 'play_along', 'accompanying', 'go_with', 'attach_to', 'consequent', 'incidental', 'resultant', 'sequent', 'company']",How Much Do You Tell When You Talk?
+Durrell's,[],How Much Do You Tell When You Talk?
+not,"['not', 'non']",How Much Do You Tell When You Talk?
+apparently,"['plainly', 'evidently', 'plain', 'on_the_face_of_it', 'patently', 'ostensibly', 'seemingly', 'obviously', 'manifestly', 'apparently']",How Much Do You Tell When You Talk?
+remark,"['observe', 'remark', 'notice', 'note', 'comment', 'point_out', 'mention', 'input']",How Much Do You Tell When You Talk?
+shared,"['apportion', 'divided', 'shared', 'portion_out', 'shared_out', 'partake_in', 'share', 'divided_up', 'partake', 'deal', 'divvy_up']",How Much Do You Tell When You Talk?
+ingenious,"['clever', 'ingenious', 'cunning']",How Much Do You Tell When You Talk?
+Since,[],How Much Do You Tell When You Talk?
+talking,"['babble', 'blab_out', 'verbalise', 'let_the_cat_out_of_the_bag', 'mouth', 'talk', 'talking', 'spill', 'spill_the_beans', 'sing', 'babble_out', 'utter', 'blab', 'peach', 'tattle', 'verbalize', 'speak', 'lecture']",How Much Do You Tell When You Talk?
+psyche,"['brain', 'mind', 'soul', 'head', 'nous', 'psyche', 'Psyche']",How Much Do You Tell When You Talk?
+staggering,"['lurch', 'staggering', 'stagger', 'keel', 'flounder', 'stupefying', 'reel', 'swag', 'careen', 'astonishing', 'distribute', 'astounding']",How Much Do You Tell When You Talk?
+new,"['unexampled', 'newfangled', 'young', 'freshly', 'fresh', 'New', 'newly', 'novel', 'new', 'raw', 'Modern']",How Much Do You Tell When You Talk?
+in,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",How Much Do You Tell When You Talk?
+again,"['once_more', 'again', 'over_again', 'once_again']",How Much Do You Tell When You Talk?
+that,[],How Much Do You Tell When You Talk?
+disapproval,"['dislike', 'disapproval', 'disfavor', 'disfavour']",How Much Do You Tell When You Talk?
+apparent,"['plain', 'evident', 'patent', 'manifest', 'seeming', 'ostensible', 'apparent', 'unmistakable']",How Much Do You Tell When You Talk?
+second,"['second', 'endorsement', 'irregular', 'indorsement', 'secondly', 'arcsecond', 'secondment', 'instant', 'minute', 'sec', 's', 'second_base', 'moment', '2nd', '2d', 'mo', 'indorse', 'second_gear', 'bit', 'back', 'endorse']",How Much Do You Tell When You Talk?
+you,[],How Much Do You Tell When You Talk?
+therapist's,[],How Much Do You Tell When You Talk?
+this,[],How Much Do You Tell When You Talk?
+quality,"['character', 'prime', 'prize', 'choice', 'caliber', 'quality', 'timbre', 'timber', 'tone', 'select', 'lineament', 'calibre']",How Much Do You Tell When You Talk?
+demonstrated,"['attest', 'shew', 'evidence', 'demonstrated', 'demo', 'demonstrate', 'manifest', 'establish', 'show', 'march', 'present', 'certify', 'exhibit', 'prove']",How Much Do You Tell When You Talk?
+;,[],How Much Do You Tell When You Talk?
+aside,"['digression', 'divagation', 'apart', 'excursus', 'parenthesis', 'aside', 'by', 'away']",How Much Do You Tell When You Talk?
+To,[],How Much Do You Tell When You Talk?
+wide,"['all-embracing', 'spacious', 'wide-cut', 'wide_of_the_mark', 'panoptic', 'extensive', 'blanket', 'across-the-board', 'astray', 'widely', 'all-encompassing', 'encompassing', 'wide', 'broad', 'wide-eyed', 'all-inclusive', 'full']",How Much Do You Tell When You Talk?
+both,['both'],How Much Do You Tell When You Talk?
+agreed,"['match', 'tally', 'check', 'fit_in', 'hold', 'fit', 'accord', 'in_agreement', 'correspond', 'harmonise', 'agree', 'concord', 'consort', 'concur', 'agreed', 'gibe', 'harmonize', 'jibe']",How Much Do You Tell When You Talk?
+difficulty,"['trouble', 'difficultness', 'difficulty']",How Much Do You Tell When You Talk?
+evident,"['plain', 'discernible', 'evident', 'patent', 'manifest', 'apparent', 'observable', 'unmistakable']",How Much Do You Tell When You Talk?
+matter,"['topic', 'issue', 'matter', 'thing', 'subject', 'affair', 'count', 'weigh']",How Much Do You Tell When You Talk?
+training,"['coach', 'education', 'preparation', 'breeding', 'develop', 'trail', 'groom', 'condition', 'civilize', 'training', 'grooming', 'school', 'educate', 'rail', 'take', 'aim', 'civilise', 'direct', 'discipline', 'train', 'check', 'cultivate', 'take_aim', 'prepare']",How Much Do You Tell When You Talk?
+prescribed,"['dictate', 'ordained', 'appointed', 'order', 'prescribed', 'official', 'decreed', 'prescribe', 'positive']",How Much Do You Tell When You Talk?
+danger,"['risk', 'peril', 'danger']",How Much Do You Tell When You Talk?
+peanuts,"['goober_pea', 'peanut', 'Arachis_hypogaea', 'earthnut', 'groundnut', 'monkey_nut', 'peanuts', 'goober', 'peanut_vine']",How Much Do You Tell When You Talk?
+avoided,"['ward_off', 'keep_off', 'forfend', 'obviate', 'deflect', 'void', 'nullify', 'avert', 'fend_off', 'avoid', 'stave_off', 'invalidate', 'annul', 'quash', 'debar', 'forefend', 'head_off']",How Much Do You Tell When You Talk?
+real-life,[],How Much Do You Tell When You Talk?
+full,"['full_moon', 'wide-cut', 'entire', 'fully', 'to_the_full', 'wax', 'replete', 'full-of-the-moon', 'full_phase_of_the_moon', 'total', 'wide', 'broad', 'good', 'full']",How Much Do You Tell When You Talk?
+hearing,"['get_a_line', 'discover', 'try', 'audition', 'learn', 'pick_up', 'earshot', 'auditory_modality', 'hearing', 'earreach', 'see', 'listen', 'get_word', 'sense_of_hearing', 'find_out', 'audience', 'hear', 'listening', 'take_heed', 'auditory_sense', 'get_wind']",How Much Do You Tell When You Talk?
+engaging,"['rent', 'engage', 'employ', 'betroth', 'affiance', 'occupy', 'lease', 'mesh', 'enlist', 'absorb', 'lock', 'wage', 'hire', 'take', 'engaging', 'piquant', 'operate', 'prosecute', 'engross', 'plight', 'pursue', 'charter']",How Much Do You Tell When You Talk?
+involved,"['convoluted', 'knotty', 'regard', 'call_for', 'necessitate', 'tortuous', 'need', 'require', 'ask', 'take', 'involved', 'postulate', 'affect', 'imply', 'involve', 'mired', 'demand', 'Byzantine', 'tangled']",How Much Do You Tell When You Talk?
+saying,"['expression', 'enjoin', 'articulate', 'locution', 'saying', 'tell', 'suppose', 'say', 'aver', 'read', 'order', 'pronounce', 'enounce', 'enunciate', 'state', 'allege', 'sound_out']",How Much Do You Tell When You Talk?
+itemization,"['itemisation', 'itemization', 'listing']",How Much Do You Tell When You Talk?
+imply,"['inculpate', 'connote', 'imply', 'involve', 'incriminate', 'entail', 'mean']",How Much Do You Tell When You Talk?
+",",[],How Much Do You Tell When You Talk?
+minutes,"['second', 'moment', 'minute_of_arc', 'bit', 'min', 'minutes', 'transactions', 'mo', 'arcminute', 'hour', 'instant', 'minute', 'proceedings']",How Much Do You Tell When You Talk?
+statement,"['program_line', 'affirmation', 'assertion', 'instruction', 'financial_statement', 'statement', 'command', 'argument']",How Much Do You Tell When You Talk?
+story,"['narration', 'tale', 'history', 'write_up', 'tarradiddle', 'storey', 'level', 'fib', 'taradiddle', 'chronicle', 'account', 'floor', 'story', 'report', 'news_report', 'narrative']",How Much Do You Tell When You Talk?
+peppery,['peppery'],How Much Do You Tell When You Talk?
+conventional,"['ceremonious', 'established', 'schematic', 'formal', 'conventional']",How Much Do You Tell When You Talk?
+underlying,"['inherent', 'rudimentary', 'implicit_in', 'underlie', 'underlying', 'fundamental']",How Much Do You Tell When You Talk?
+perverse,"['perverted', 'reprobate', 'obstinate', 'depraved', 'wayward', 'contrary', 'perverse']",How Much Do You Tell When You Talk?
+two,"['two', 'deuce', 'II', 'ii', '2']",How Much Do You Tell When You Talk?
+department,"['department', 'section']",How Much Do You Tell When You Talk?
+relationship,"['kinship', 'family_relationship', 'relationship', 'human_relationship']",How Much Do You Tell When You Talk?
+before,"['in_front', 'ahead', 'earlier', 'before']",How Much Do You Tell When You Talk?
+thing,"['thing', 'affair', 'matter']",How Much Do You Tell When You Talk?
+only,"['exclusively', 'only_if', 'solely', 'solitary', 'simply', 'only_when', 'lone', 'only', 'lonesome', 'alone', 'just', 'merely', 'entirely', 'sole', 'but']",How Much Do You Tell When You Talk?
+note,"['billet', 'preeminence', 'line', 'bank_bill', 'annotation', 'mark', ""banker's_bill"", 'observe', 'take_note', 'note_of_hand', 'distinction', 'notice', 'eminence', 'government_note', 'greenback', 'take_down', 'banknote', 'musical_note', 'bank_note', 'promissory_note', 'mention', 'short_letter', 'bill', 'remark', 'note', 'tone', 'Federal_Reserve_note', 'notation']",How Much Do You Tell When You Talk?
+psychotherapists,"['psychotherapist', 'clinical_psychologist']",How Much Do You Tell When You Talk?
+probably,"['believably', 'plausibly', 'credibly', 'probably', 'likely', 'belike', 'in_all_probability', 'in_all_likelihood']",How Much Do You Tell When You Talk?
+George,"['St._George', 'George_V', 'Saint_George', 'George_VI', 'George_IV', 'George_III', 'George', 'George_I', 'George_II']",How Much Do You Tell When You Talk?
+2,"['two', 'deuce', 'II', 'ii', '2']",How Much Do You Tell When You Talk?
+customs,"['customs_duty', 'usage', 'custom', 'tradition', 'impost', 'usance', 'customs']",How Much Do You Tell When You Talk?
+whereas,[],How Much Do You Tell When You Talk?
+rhythm,"['rhythm', 'round', 'beat', 'rhythm_method_of_birth_control', 'rhythm_method', 'speech_rhythm', 'musical_rhythm', 'regular_recurrence', 'calendar_method', 'cycle', 'calendar_method_of_birth_control']",How Much Do You Tell When You Talk?
+research,"['enquiry', 'research', 'search', 'inquiry', 'explore']",How Much Do You Tell When You Talk?
+death,"['death', 'end', 'destruction', 'expiry', 'Death', 'decease', 'last', 'dying', 'demise']",How Much Do You Tell When You Talk?
+slight,"['slight', 'fragile', 'rebuff', 'slim', 'flimsy', 'cold-shoulder', 'tenuous', 'svelte', 'thin', 'slender', 'little']",How Much Do You Tell When You Talk?
+did,"['behave', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']",How Much Do You Tell When You Talk?
+weeping,"['dolourous', 'weep', 'weeping', 'dolorous', 'cernuous', 'drooping', 'tears', 'nodding', 'tearful', 'pendulous', 'crying', 'lachrymose', 'cry']",How Much Do You Tell When You Talk?
+minimum,"['minimal', 'minimum', 'lower_limit']",How Much Do You Tell When You Talk?
+say,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'enunciate', 'state', 'allege', 'sound_out']",How Much Do You Tell When You Talk?
+these,[],How Much Do You Tell When You Talk?
+paper,"['paper', 'theme', 'composition', 'wallpaper', 'newspaper', 'newspaper_publisher', 'report']",How Much Do You Tell When You Talk?
+indicators,"['index', 'indicant', 'index_number', 'indicator']",How Much Do You Tell When You Talk?
+name,"['distinguish', 'gens', 'discover', 'name', 'bring_up', 'diagnose', 'appoint', 'refer', 'constitute', 'nominate', 'identify', 'key', 'advert', 'cite', 'describe', 'public_figure', 'figure', 'epithet', 'mention', 'key_out', 'call', 'make', 'list']",How Much Do You Tell When You Talk?
+world,"['populace', 'earthly_concern', 'humanity', 'world', 'global', 'universe', 'Earth', 'humans', 'public', 'existence', 'globe', 'human_beings', 'earth', 'domain', 'worldwide', 'world-wide', 'man', 'reality', 'human_race', 'cosmos', 'creation', 'humankind', 'mankind', 'worldly_concern', 'macrocosm', 'planetary']",How Much Do You Tell When You Talk?
+They,[],How Much Do You Tell When You Talk?
+sensitive,"['sensible', 'tender', 'spiritualist', 'sensitive', 'medium', 'sore', 'raw']",How Much Do You Tell When You Talk?
+high,"['senior_high_school', 'in_high_spirits', 'gamy', 'luxuriously', 'senior_high', 'highschool', 'high-pitched', 'high_up', 'heights', 'gamey', 'mellow', 'high', 'high_school', 'high_gear', 'eminent', 'richly']",How Much Do You Tell When You Talk?
+so,"['then', 'and_then', 'thusly', 'indeed', 'hence', 'sol', 'therefore', 'thence', 'and_so', 'so', 'soh', 'thus']",How Much Do You Tell When You Talk?
+his,[],How Much Do You Tell When You Talk?
+relative,"['comparative', 'relative', 'congener', 'relation', 'proportional', 'congenator', 'congeneric']",How Much Do You Tell When You Talk?
+bread,"['clams', 'dinero', 'staff_of_life', 'pelf', 'bread', 'simoleons', 'moolah', 'dough', 'wampum', 'sugar', 'breadstuff', 'cabbage', 'boodle', 'gelt', 'lolly', 'lettuce', 'scratch', 'loot', 'shekels', 'kale', 'lucre']",How Much Do You Tell When You Talk?
+flirtation,"['flirting', 'flirtation', 'coquetry', 'flirt', 'toying', 'dalliance']",How Much Do You Tell When You Talk?
+food,"['intellectual_nourishment', 'food', 'nutrient', 'food_for_thought', 'solid_food']",How Much Do You Tell When You Talk?
+where,[],How Much Do You Tell When You Talk?
+familiarity,"['casualness', 'conversance', 'indecorum', 'familiarity', 'intimacy', 'conversancy', 'acquaintance', 'closeness', 'impropriety', 'liberty']",How Much Do You Tell When You Talk?
+Minutes,"['second', 'moment', 'minute_of_arc', 'bit', 'min', 'minutes', 'transactions', 'mo', 'arcminute', 'hour', 'instant', 'minute', 'proceedings']",How Much Do You Tell When You Talk?
+there,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']",How Much Do You Tell When You Talk?
+bland,"['insipid', 'bland', 'savorless', 'smooth', 'flavourless', 'flavorless', 'flat', 'vapid', 'savourless', 'politic', 'suave']",How Much Do You Tell When You Talk?
+linguist-anthropologist,[],How Much Do You Tell When You Talk?
+),[],How Much Do You Tell When You Talk?
+see,"['get_a_line', 'watch', 'take_in', 'experience', 'realize', 'view', 'discover', 'reckon', 'run_into', 'find', 'ascertain', 'see_to_it', 'regard', 'interpret', 'project', 'fancy', 'visualise', 'insure', 'control', 'catch', 'visualize', 'learn', 'pick_up', 'encounter', 'envision', 'go_steady', 'image', 'assure', 'visit', 'go_through', 'witness', 'consider', 'run_across', 'see', 'date', 'determine', 'take_care', 'get_word', 'come_across', 'figure', 'picture', 'examine', 'construe', 'go_out', 'ensure', 'find_out', 'understand', 'hear', 'check', 'meet', 'look', 'attend', 'escort', 'realise', 'get_wind']",How Much Do You Tell When You Talk?
+remote,"['outside', 'removed', 'remote', 'outback', 'distant', 'remote_control']",How Much Do You Tell When You Talk?
+'',[],How Much Do You Tell When You Talk?
+readily,"['pronto', 'promptly', 'readily']",How Much Do You Tell When You Talk?
+what,[],How Much Do You Tell When You Talk?
+Quartet,"['quatern', 'four', 'quaternion', 'tetrad', '4', 'quadruplet', 'Little_Joe', 'quadruple', 'quaternity', 'IV', 'quartet', 'foursome', 'quaternary', 'quartette']",How Much Do You Tell When You Talk?
+place,"['billet', 'come_in', 'piazza', 'topographic_point', 'order', 'property', 'shoes', 'situation', 'stead', 'send', 'position', 'localize', 'rate', 'invest', 'office', 'identify', 'commit', 'rank', 'range', 'seat', 'come_out', 'blank_space', 'put', 'aim', 'locate', 'berth', 'plaza', 'place', 'station', 'space', 'direct', 'home', 'pose', 'target', 'point', 'post', 'grade', 'localise', 'lay', 'site', 'spot', 'lieu', 'set']",How Much Do You Tell When You Talk?
+fairly,"['somewhat', 'pretty', 'jolly', 'clean', 'moderately', 'passably', 'reasonably', 'middling', 'fairly', 'evenhandedly', 'fair']",How Much Do You Tell When You Talk?
+English,"['English_people', 'English_language', 'side', 'English']",How Much Do You Tell When You Talk?
+carried,"['behave', 'acquit', 'expect', 'have_a_bun_in_the_oven', 'express', 'persuade', 'transmit', 'stockpile', 'carry', 'conduct', 'comport', 'take', 'gestate', 'hold', 'extend', 'pack', 'impart', 'deport', 'run', 'channel', 'stock', 'transport', 'post', 'contain', 'sway', 'bear', 'convey', 'dribble']",How Much Do You Tell When You Talk?
+uncertainty,"['doubtfulness', 'precariousness', 'dubiety', 'doubt', 'incertitude', 'dubiousness', 'uncertainness', 'uncertainty']",How Much Do You Tell When You Talk?
+putting,"['position', 'put', 'putt', 'frame', 'lay', 'cast', 'couch', 'invest', 'arrange', 'redact', 'order', 'place', 'commit', 'assign', 'set_up', 'putting', 'set', 'pose']",How Much Do You Tell When You Talk?
+everyone,[],How Much Do You Tell When You Talk?
+Interestingly,['interestingly'],How Much Do You Tell When You Talk?
+anxiety,"['anxiety', 'anxiousness']",How Much Do You Tell When You Talk?
+person,"['mortal', 'soul', 'individual', 'person', 'somebody', 'someone']",How Much Do You Tell When You Talk?
+thinking,"['think', 'imagine', 'retrieve', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'thought', 'opine', 'intellection', 'mean', 'intelligent', 'consider', 'suppose', 'intend', 'believe', 'remember', 'thought_process', 'recall', 'reasoning', 'thinking', 'conceive', 'cerebrate', 'cerebration', 'mentation', 'call_back']",How Much Do You Tell When You Talk?
+clearly,"['clearly', 'clear', 'distinctly', 'intelligibly', 'understandably']",How Much Do You Tell When You Talk?
+became,"['become', 'go', 'turn', 'suit', 'get']",How Much Do You Tell When You Talk?
+tone,"['chant', 'shade', 'inflect', 'quality', 'flavour', 'modulate', 'tonus', 'whole_tone', 'intone', 'whole_step', 'step', 'feel', 'tincture', 'pure_tone', 'spirit', 'feeling', 'tonicity', 'tone_of_voice', 'timbre', 'timber', 'musical_note', 'strengthen', 'tint', 'tone_up', 'flavor', 'look', 'note', 'smell', 'tone']",How Much Do You Tell When You Talk?
+brings,"['work', 'institute', 'take', 'make_for', 'play', 'bestow', 'impart', 'add', 'bring_in', 'fetch', 'wreak', 'lend', 'bring', 'land', 'contribute', 'convey', 'get']",How Much Do You Tell When You Talk?
+were,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",How Much Do You Tell When You Talk?
+very,"['identical', 'real', 'selfsame', 'really', 'rattling', 'very']",How Much Do You Tell When You Talk?
+conclude,"['reason', 'resolve', 'reason_out', 'close', 'conclude']",How Much Do You Tell When You Talk?
+Some,"['approximately', 'about', 'roughly', 'around', 'or_so', 'just_about', 'some', 'more_or_less', 'close_to']",How Much Do You Tell When You Talk?
+linguistic,"['lingual', 'linguistic']",How Much Do You Tell When You Talk?
+is,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']",How Much Do You Tell When You Talk?
+(,[],How Much Do You Tell When You Talk?
+mutual,"['mutual', 'reciprocal', 'common']",How Much Do You Tell When You Talk?
+education,"['education', 'educational_activity', 'training', 'breeding', 'Education', 'instruction', 'teaching', 'Education_Department', 'didactics', 'Department_of_Education', 'pedagogy']",How Much Do You Tell When You Talk?
+from,[],How Much Do You Tell When You Talk?
+factors,"['cistron', 'ingredient', 'factor', 'gene', 'component', 'element', 'agent', 'broker', 'constituent', 'factor_in', 'factor_out', 'divisor']",How Much Do You Tell When You Talk?
+Buffalo,"['buffalo', 'Old_World_buffalo', 'Bison_bison', 'Buffalo', 'American_buffalo', 'American_bison']",How Much Do You Tell When You Talk?
+altered,"['castrate', 'change', 'adapted', 'neuter', 'neutered', 'spay', 'modify', 'alter', 'altered', 'vary', 'interpolate', 'falsify']",How Much Do You Tell When You Talk?
+impossible,"['unsufferable', 'inconceivable', 'insufferable', 'impossible', 'unacceptable', 'out_of_the_question', 'unimaginable']",How Much Do You Tell When You Talk?
+mom's,[],How Much Do You Tell When You Talk?
+distinguished,"['distinguish', 'signalize', 'discover', 'mark', 'secern', 'make_out', 'name', 'distinguished', 'secernate', 'grand', 'magisterial', 'signalise', 'pick_out', 'recognise', 'severalise', 'identify', 'separate', 'key', 'differentiate', 'describe', 'tell_apart', 'discern', 'key_out', 'severalize', 'tell', 'spot', 'recognize', 'imposing']",How Much Do You Tell When You Talk?
+thought,"['think', 'sentiment', 'imagine', 'retrieve', 'view', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'thought', 'opine', 'intellection', 'mean', 'consider', 'suppose', 'intend', 'idea', 'believe', 'persuasion', 'remember', 'thought_process', 'recall', 'opinion', 'thinking', 'conceive', 'cerebrate', 'cerebration', 'mentation', 'call_back']",How Much Do You Tell When You Talk?
+bugs,"['hemipteran', 'tease', 'pester', 'intercept', 'badger', 'tap', 'hemipterous_insect', 'microbe', 'germ', 'glitch', 'hemipteron', 'bug', 'beleaguer', 'wiretap']",How Much Do You Tell When You Talk?
+patient's,[],How Much Do You Tell When You Talk?
+interview,"['audience', 'question', 'consultation', 'interview']",How Much Do You Tell When You Talk?
+Stammering,"['stammer', 'bumble', 'stutter', 'falter']",How Much Do You Tell When You Talk?
+tells,"['distinguish', 'recount', 'say', 'William_Tell', 'order', 'secern', 'secernate', 'enjoin', 'severalise', 'separate', 'assure', 'differentiate', 'recite', 'tell_apart', 'severalize', 'evidence', 'tell', 'state', 'Tell', 'narrate']",How Much Do You Tell When You Talk?
+if,[],How Much Do You Tell When You Talk?
+and/or,[],How Much Do You Tell When You Talk?
+example,"['model', 'exemplar', 'example', 'lesson', 'deterrent_example', 'illustration', 'representative', 'instance', 'case', 'exercise', 'object_lesson', 'good_example']",How Much Do You Tell When You Talk?
+academic,"['pedantic', 'academic', 'donnish', 'academician', 'faculty_member']",How Much Do You Tell When You Talk?
+encounter,"['play', 'clash', 'run_into', 'find', 'receive', 'meeting', 'skirmish', 'encounter', 'happen', 'confrontation', 'brush', 'run_across', 'see', 'come_across', 'chance', 'bump', 'take_on', 'coming_upon', 'meet', 'showdown', 'face-off']",How Much Do You Tell When You Talk?
+catapults,"['ballista', 'catapult', 'arbalest', 'bricole', 'onager', 'mangonel', 'trebuchet', 'launcher', 'slingshot', 'arbalist', 'trebucket', 'sling']",How Much Do You Tell When You Talk?
+would,[],How Much Do You Tell When You Talk?
+chart,"['chart', 'graph']",How Much Do You Tell When You Talk?
+instrument,"['instrumentate', 'official_document', 'instrumental_role', 'musical_instrument', 'tool', 'legal_document', 'legal_instrument', 'pawn', ""cat's-paw"", 'instrument']",How Much Do You Tell When You Talk?
+Pursewarden,[],How Much Do You Tell When You Talk?
+joint,"['junction', 'articulate', 'stick', 'articulation', 'roast', 'marijuana_cigarette', 'joint', 'reefer', 'spliff', 'articulatio', 'join', 'juncture']",How Much Do You Tell When You Talk?
+initial,['initial'],How Much Do You Tell When You Talk?
+linguistics,"['linguistics', 'philology']",How Much Do You Tell When You Talk?
+your,[],How Much Do You Tell When You Talk?
+himself,[],How Much Do You Tell When You Talk?
+studying,"['hit_the_books', 'take', 'consider', 'meditate', 'perusal', 'poring_over', 'studying', 'analyse', 'perusing', 'analyze', 'canvas', 'read', 'study', 'examine', 'learn', 'contemplate', 'canvass']",How Much Do You Tell When You Talk?
+was,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'WA', 'Washington', 'make_up', 'Evergreen_State', 'live', 'represent', 'exist']",How Much Do You Tell When You Talk?
+teaching,"['education', 'educational_activity', 'instruction', 'commandment', 'teaching', 'learn', 'precept', 'instruct', 'didactics', 'teach', 'pedagogy']",How Much Do You Tell When You Talk?
+transcripts,"['copy', 'transcript']",How Much Do You Tell When You Talk?
+reasonable,"['sane', 'sensible', 'fairish', 'reasonable', 'fair']",How Much Do You Tell When You Talk?
+et,[],How Much Do You Tell When You Talk?
+gone,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'foregone', 'conk', 'proceed', 'hold_up', 'fit', 'bypast', 'run_low', 'bygone', 'done_for', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'at_rest', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'kaput', 'run', 'function', 'gone', 'at_peace', 'choke', 'drop_dead', 'departed', 'travel', 'blend', 'asleep', 'sound', 'pop_off', 'move', 'deceased', 'rifle', 'survive']",How Much Do You Tell When You Talk?
+telling,"['distinguish', 'singing', 'recount', 'say', 'order', 'secern', 'tattle', 'impressive', 'secernate', 'telltale', 'weighty', 'enjoin', 'severalise', 'separate', 'assure', 'cogent', 'differentiate', 'apprisal', 'revealing', 'recite', 'relation', 'tell_apart', 'notification', 'telling', 'severalize', 'evidence', 'tell', 'state', 'recounting', 'narrate']",How Much Do You Tell When You Talk?
+least,"['to_the_lowest_degree', 'least']",How Much Do You Tell When You Talk?
+surprising,"['surprising', 'surprise', 'storm']",How Much Do You Tell When You Talk?
+:,[],How Much Do You Tell When You Talk?
+intuitively,['intuitively'],How Much Do You Tell When You Talk?
+What,[],How Much Do You Tell When You Talk?
+In,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']",How Much Do You Tell When You Talk?
+specific,"['specific', 'particular']",How Much Do You Tell When You Talk?
+early,"['other', 'too_soon', 'former', 'early', 'ahead_of_time', 'early_on', 'betimes']",How Much Do You Tell When You Talk?
+``,[],How Much Do You Tell When You Talk?
+1950's,[],How Much Do You Tell When You Talk?
+usual,"['common', 'usual']",How Much Do You Tell When You Talk?
+offered,"['offer_up', 'propose', 'provide', 'pop_the_question', 'proffer', 'volunteer', 'put_up', 'declare_oneself', 'tender', 'extend', 'offer', 'bid']",How Much Do You Tell When You Talk?
+far,"['FAR', 'ALIR', 'Interahamwe', 'Army_for_the_Liberation_of_Rwanda', 'far', 'Former_Armed_Forces']",How Much Do You Tell When You Talk?
+tape,"['tape_recording', 'tapeline', 'videotape', 'record', 'mag_tape', 'tape', 'taping', 'tape_measure', 'magnetic_tape']",How Much Do You Tell When You Talk?
+overt,"['open', 'overt']",How Much Do You Tell When You Talk?
+groups,"['grouping', 'group', 'aggroup', 'chemical_group', 'mathematical_group', 'radical']",How Much Do You Tell When You Talk?
+dealing,"['address', 'contend', 'look_at', 'treat', 'parcel_out', 'dole_out', 'portion_out', 'make_out', 'share', 'distribute', 'cover', 'conduct', 'handle', 'carry_on', 'care', 'shell_out', 'administer', 'deal', 'dispense', 'divvy_up', 'take', 'consider', 'make_do', 'mete_out', 'dish_out', 'lot', 'get_by', 'allot', 'trade', 'grapple', 'apportion', 'dealings', 'sell', 'cope', 'transaction', 'manage', 'deal_out', 'plow', 'dealing']",How Much Do You Tell When You Talk?
+giveaways,"['game_show', 'giveaway']",How Much Do You Tell When You Talk?
+rest,"['sleep', 'rest', 'residue', 'relaxation', 'stay', 'balance', 'eternal_rest', ""catch_one's_breath"", 'reside', 'take_a_breather', 'pillow', 'breathe', 'ease', 'respite', 'quietus', 'lie', 'residuum', 'repose', 'eternal_sleep', 'roost', 'remainder', 'relief', 'perch', 'rest_period', 'remain', 'residual']",How Much Do You Tell When You Talk?
+anger,"['choler', 'wrath', 'anger', 'ire', 'see_red', 'ira', 'angriness']",How Much Do You Tell When You Talk?
+.,[],How Much Do You Tell When You Talk?
+technical,"['expert', 'technical', 'technical_foul', 'proficient', 'technological']",How Much Do You Tell When You Talk?
+well,"['fountainhead', 'advantageously', 'wellspring', 'swell', 'well', 'easily', 'intimately', 'comfortably', 'considerably', 'good', 'substantially']",How Much Do You Tell When You Talk?
+suggests,"['intimate', 'indicate', 'advise', 'hint', 'suggest', 'paint_a_picture', 'propose', 'evoke']",How Much Do You Tell When You Talk?
+instance,"['illustrate', 'example', 'illustration', 'representative', 'case', 'instance', 'exemplify']",How Much Do You Tell When You Talk?
+divorce,"['dissociate', 'divorce', 'disassociate', 'split_up', 'disunite', 'disjoint', 'divorcement']",How Much Do You Tell When You Talk?
+rather,"['preferably', 'quite', 'kinda', 'instead', 'sooner', 'sort_of', 'rather', 'kind_of']",How Much Do You Tell When You Talk?
+project,"['protrude', 'project', 'fancy', 'visualise', 'externalize', 'projection', 'labor', 'undertaking', 'stick_out', 'contrive', 'task', 'visualize', 'envision', 'image', 'externalise', 'plan', 'jut_out', 'see', 'throw', 'figure', 'picture', 'send_off', 'propose', 'jut', 'design', 'cast']",How Much Do You Tell When You Talk?
+teams,"['squad', 'team_up', 'team']",How Much Do You Tell When You Talk?
+true,"['avowedly', 'true_up', 'unfeigned', 'confessedly', 'truthful', 'rightful', 'dead_on_target', 'genuine', 'dependable', 'honest', 'straight', 'reliable', 'true', 'on-key', 'admittedly', 'lawful']",How Much Do You Tell When You Talk?
+machines,"['auto', 'political_machine', 'motorcar', 'simple_machine', 'machine', 'car', 'automobile']",How Much Do You Tell When You Talk?
+wanted,"['require', 'want', 'cherished', 'treasured', 'need', 'desire', 'precious', 'wanted']",How Much Do You Tell When You Talk?
+never,"[""ne'er"", 'never']",How Much Do You Tell When You Talk?
+simultaneously,"['simultaneously', 'at_the_same_time']",How Much Do You Tell When You Talk?
+polish,"['down', 'Polish', 'finish', 'polish', 'round_off', 'smooth', 'refinement', 'burnish', 'smoothen', 'refine', 'shine', 'round', 'polish_up', 'culture', 'glossiness', 'fine-tune', 'brush_up', 'gloss', 'cultivation']",How Much Do You Tell When You Talk?
+took,"['accept', 'remove', 'take_in', 'contract', 'take_away', 'rent', 'read', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'consume', 'learn', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'contain', 'study', 'drive', 'ingest', 'make', 'take_aim', 'choose', 'select', 'convey', 'charter']",How Much Do You Tell When You Talk?
+quite,"['quite_a', 'rather', 'quite', 'quite_an']",How Much Do You Tell When You Talk?
+colleague,"['colleague', 'fellow_worker', 'fellow', 'workfellow', 'confrere', 'co-worker']",How Much Do You Tell When You Talk?
+brisk,"['brisken', 'lively', 'brisk', 'refreshing', 'fresh', 'zippy', 'bracing', 'brisk_up', 'rattling', 'refreshful', 'merry', 'tonic', 'snappy', 'spanking', 'alert']",How Much Do You Tell When You Talk?
+basis,"['fundament', 'basis', 'ground', 'cornerstone', 'base', 'footing', 'foundation', 'groundwork']",How Much Do You Tell When You Talk?
+sentimental,"['schmaltzy', 'sentimental', 'mawkish', 'schmalzy', 'maudlin', 'soppy', 'soupy', 'slushy', 'bathetic', 'drippy', 'kitschy', 'hokey', 'mushy']",How Much Do You Tell When You Talk?
+phenomena,['phenomenon'],How Much Do You Tell When You Talk?
+remains,"['persist', 'cadaver', 'stiff', 'rest', 'remains', 'continue', 'corpse', 'stay', 'stay_on', 'remain', 'clay']",How Much Do You Tell When You Talk?
+however,"['nevertheless', 'yet', 'nonetheless', 'notwithstanding', 'all_the_same', 'withal', 'however', 'still', 'even_so']",How Much Do You Tell When You Talk?
+into,[],How Much Do You Tell When You Talk?
+says,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'enunciate', 'state', 'allege', 'sound_out']",How Much Do You Tell When You Talk?
+has,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'HA', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'hour_angle', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']",How Much Do You Tell When You Talk?
+who,"['World_Health_Organization', 'WHO']",How Much Do You Tell When You Talk?
+attention,"['attention', 'care', 'attending', 'aid', 'tending']",How Much Do You Tell When You Talk?
+some,"['approximately', 'about', 'roughly', 'around', 'or_so', 'just_about', 'some', 'more_or_less', 'close_to']",How Much Do You Tell When You Talk?
+Immediately,"['immediately', 'directly', 'straight_off', 'forthwith', 'at_once', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot']",How Much Do You Tell When You Talk?
+resemblance,['resemblance'],How Much Do You Tell When You Talk?
+something,[],How Much Do You Tell When You Talk?
+I,"['i', 'iodine', '1', 'single', 'iodin', 'unity', 'ane', 'one', 'ace', 'I', 'atomic_number_53']",How Much Do You Tell When You Talk?
+His,[],How Much Do You Tell When You Talk?
+Yet,"['nonetheless', 'notwithstanding', 'withal', 'heretofore', 'in_time', 'even', 'up_to_now', 'yet', 'til_now', 'however', 'until_now', 'thus_far', 'still', 'so_far', 'all_the_same', 'as_yet', 'even_so', 'nevertheless', 'hitherto']",How Much Do You Tell When You Talk?
+playing,"['play', 'flirt', 'diddle', 'recreate', 'act_as', 'bring', 'playacting', 'represent', 'toy', 'acting', 'work', 'playact', 'encounter', 'wreak', 'spiel', 'playing', 'dally', 'make_for', 'act', 'roleplay', 'performing', 'trifle', 'run', 'fiddle', 'take_on', 'meet', 'wager', 'bet']",How Much Do You Tell When You Talk?
+boredom,"['boredom', 'tedium', 'ennui']",How Much Do You Tell When You Talk?
+perhaps,"['perhaps', 'possibly', 'perchance', 'maybe', 'mayhap', 'peradventure']",How Much Do You Tell When You Talk?
+phrase,"['articulate', 'phrasal_idiom', 'phrase', 'formulate', 'musical_phrase', 'idiomatic_expression', 'word', 'give_voice', 'set_phrase', 'idiom']",How Much Do You Tell When You Talk?
+an,"['Associate_in_Nursing', 'AN']",How Much Do You Tell When You Talk?
+norms,"['average', 'norm']",How Much Do You Tell When You Talk?
+Hockett,[],How Much Do You Tell When You Talk?
+although,[],How Much Do You Tell When You Talk?
+Program,"['computer_programme', 'syllabus', 'political_platform', 'broadcast', 'political_program', 'platform', 'computer_program', 'program', 'curriculum', 'course_of_study', 'programme', 'plan']",How Much Do You Tell When You Talk?
+wrong,"['legal_injury', 'incorrect', 'faulty', 'unseasonable', 'incorrectly', 'amiss', 'wrong', 'damage', 'wrongfulness', 'haywire', 'ill-timed', 'untimely', 'awry', 'improper', 'wrongly']",How Much Do You Tell When You Talk?
+emotional,"['excited', 'aroused', 'worked_up', 'emotional']",How Much Do You Tell When You Talk?
+breakdowns,"['dislocation', 'crack-up', 'partitioning', 'breakdown', 'equipment_failure']",How Much Do You Tell When You Talk?
+soma,"['human_body', 'physique', 'Soma', 'chassis', 'form', 'frame', 'shape', 'anatomy', 'Sarcostemma_acidum', 'figure', 'bod', 'flesh', 'physical_body', 'material_body', 'soma', 'build', 'haoma']",How Much Do You Tell When You Talk?
+surprise,"['storm', 'surprise', 'surprisal']",How Much Do You Tell When You Talk?
+can,"['ass', 'tush', 'backside', 'give_the_sack', 'stern', 'bathroom', 'behind', 'canful', 'butt', 'nates', 'fundament', 'tail_end', 'privy', 'keister', 'send_away', 'dismiss', 'rear_end', 'fanny', 'give_the_axe', 'lav', 'potty', 'arse', 'john', 'fire', 'hindquarters', 'seat', 'rump', 'bottom', 'sack', 'throne', 'give_notice', 'rear', 'lavatory', 'displace', 'derriere', 'terminate', 'posterior', 'buttocks', 'can', 'can_buoy', 'pot', 'stool', 'crapper', 'buns', 'tail', 'tin', 'tooshie', 'commode', 'put_up', 'toilet', 'tin_can', 'force_out', 'hind_end', 'prat', 'bum']",How Much Do You Tell When You Talk?
+Interpretation,"['rendition', 'reading', 'rendering', 'interpretation', 'version', 'interpreting']",How Much Do You Tell When You Talk?
+stressing,"['emphasize', 'accent', 'strain', 'try', 'emphasise', 'stress', 'accentuate', 'punctuate']",How Much Do You Tell When You Talk?
+scientific,['scientific'],How Much Do You Tell When You Talk?
+long,"['retentive', 'long', 'farseeing', 'recollective', 'longsighted', 'hanker', 'farsighted', 'tenacious', 'foresighted', 'yearn', 'prospicient', 'foresightful']",How Much Do You Tell When You Talk?
+blubber,"['avoirdupois', 'fat', 'blubber', 'snuffle', 'snivel', 'blubber_out', 'fatness', 'blub', 'sniffle']",How Much Do You Tell When You Talk?
+congruent,"['congruous', 'congruent']",How Much Do You Tell When You Talk?
+our,[],How Much Do You Tell When You Talk?
+ambiguity,"['equivocalness', 'ambiguity']",How Much Do You Tell When You Talk?
+back,"['second', 'book_binding', 'hind', 'plunk_for', 'backrest', 'backward', 'stake', 'back_up', 'rearward', 'cover', 'vertebral_column', 'backbone', 'support', 'rear', 'bet_on', 'backwards', 'rachis', 'indorse', 'plump_for', 'dorsum', 'rearwards', 'game', 'binding', 'hinder', 'back', 'punt', 'endorse', 'gage', 'spine', 'spinal_column']",How Much Do You Tell When You Talk?
+opening,"['opening_move', 'orifice', 'scuttle', 'porta', 'open', 'spread_out', 'first_step', 'possibility', 'initiative', 'spread', 'chess_opening', 'possible_action', 'hatchway', 'opening_night', 'curtain_raising', 'afford', 'give', 'open_up', 'gap', 'opening', 'unfold']",How Much Do You Tell When You Talk?
+alive,"['awake', 'active', 'animated', 'alive', 'live', 'alert']",How Much Do You Tell When You Talk?
+mom,"['mammy', 'mum', 'mamma', 'mama', 'ma', 'mom', 'mommy', 'mummy', 'momma']",How Much Do You Tell When You Talk?
+bear,"['accept', 'deliver', 'abide', 'behave', 'acquit', 'stomach', 'expect', 'have_a_bun_in_the_oven', 'give_birth', 'stick_out', 'carry', 'conduct', 'endure', 'birth', 'support', 'comport', 'gestate', 'hold', 'stand', 'suffer', 'assume', 'turn_out', 'have', 'deport', 'brook', 'wear', 'tolerate', 'pay', 'contain', 'digest', 'put_up', 'yield', 'take_over', 'bear']",How Much Do You Tell When You Talk?
+pie,"['pie', 'PIE', 'Proto-Indo_European']",How Much Do You Tell When You Talk?
+spite,"['injure', 'hurt', 'cattiness', 'offend', 'wound', 'bruise', 'spitefulness', 'malice', 'bitchiness', 'spite', 'venom', 'nastiness', 'maliciousness']",How Much Do You Tell When You Talk?
+correct,"['compensate', 'adjust', 'objurgate', 'make_up', 'redress', 'even_out', 'right', 'chastise', 'castigate', 'slump', 'chasten', 'sort_out', 'even_off', 'decline', 'discipline', 'counterbalance', 'rectify', 'even_up', 'correct', 'set']",How Much Do You Tell When You Talk?
+many,['many'],How Much Do You Tell When You Talk?

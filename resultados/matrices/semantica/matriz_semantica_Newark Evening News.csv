@@ -1,0 +1,942 @@
+w,vector_semantico
+A,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",Newark Evening News
+16-hour,[],Newark Evening News
+steel,"['steel', 'brand', 'nerve', 'blade', 'sword']",Newark Evening News
+spark,"['activate', 'Muriel_Sarah_Spark', 'spark', 'actuate', 'discharge', 'touch_off', 'sparkle', 'glint', 'Dame_Muriel_Spark', 'set_off', 'twinkle', 'trigger', 'light', 'Muriel_Spark', 'Spark', 'trip', 'electric_discharge', 'trigger_off', 'flicker', 'spark_off', 'electric_arc', 'arc']",Newark Evening News
+Hodges,[],Newark Evening News
+week,"['week', 'calendar_week', 'workweek', 'hebdomad']",Newark Evening News
+lined,"['describe', 'line', 'seamed', 'draw', 'lined', 'trace', 'delineate', 'run_along']",Newark Evening News
+march,"['edge', 'butt', 'butt_on', 'march', 'March', 'marching_music', 'parade', 'Master_of_Architecture', 'marching', 'border', 'process', 'MArch', 'adjoin', 'borderland', 'demonstrate', 'exhibit', 'abut', 'marchland', 'Mar', 'butt_against', 'border_district']",Newark Evening News
+criticism,"['critique', 'unfavorable_judgment', 'criticism', 'literary_criticism']",Newark Evening News
+Industrial,['industrial'],Newark Evening News
+sea,"['sea', 'ocean']",Newark Evening News
+preserves,"['bear_on', 'preserve', 'keep_up', 'continue', 'save', 'keep', 'carry_on', 'maintain', 'conserve', 'uphold', 'conserves', 'preserves']",Newark Evening News
+agriculture,"['agriculture', 'USDA', 'Agriculture', 'agribusiness', 'farming', 'Department_of_Agriculture', 'factory_farm', 'husbandry', 'Agriculture_Department']",Newark Evening News
+year-earlier,[],Newark Evening News
+saved,"['lay_aside', 'save', 'carry_through', 'redeem', 'economise', 'saved', 'pull_through', 'spare', 'hold_open', 'make_unnecessary', 'economize', 'save_up', 'write', 'keep_open', 'relieve', 'preserve', 'deliver', 'keep', 'salvage', 'salve', 'protected', 'bring_through']",Newark Evening News
+having,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Newark Evening News
+acreage,"['acreage', 'land_area']",Newark Evening News
+second,"['s', 'endorse', 'moment', 'endorsement', '2nd', 'irregular', 'second', 'sec', 'indorse', 'arcsecond', 'back', 'indorsement', 'minute', 'secondly', 'mo', '2d', 'second_gear', 'bit', 'secondment', 'second_base', 'instant']",Newark Evening News
+effectiveness,"['effectuality', 'potency', 'effectiveness', 'effectivity', 'strength', 'effectualness']",Newark Evening News
+4,"['iv', 'quartet', 'quadruplet', '4', 'IV', 'four', 'quaternary', 'quatern', 'quaternity', 'foursome', 'tetrad', 'Little_Joe', 'quaternion']",Newark Evening News
+complexity,"['complexness', 'complexity']",Newark Evening News
+pro-Trujillo,[],Newark Evening News
+with,[],Newark Evening News
+sailing,"['glide', 'sweep', 'sail', 'sailplaning', 'soaring', 'navigate', 'gliding', 'navigation', 'sailing', 'voyage', 'seafaring']",Newark Evening News
+Hoffa,"['James_Riddle_Hoffa', 'Jimmy_Hoffa', 'Hoffa']",Newark Evening News
+conclusions,"['decision', 'conclusion', 'closing', 'finale', 'stopping_point', 'finish', 'finis', 'ratiocination', 'termination', 'end', 'close', 'last', 'determination', 'ending']",Newark Evening News
+like,"['corresponding', 'wish', 'like', 'similar', 'ilk', 'same', 'alike', 'the_likes_of', 'comparable', 'the_like', 'care']",Newark Evening News
+secession,"['withdrawal', 'secession', 'sezession', 'Secession']",Newark Evening News
+country,"['commonwealth', 'country', 'rural_area', 'body_politic', 'land', 'state', 'nation', 'res_publica', 'area']",Newark Evening News
+who,"['World_Health_Organization', 'WHO']",Newark Evening News
+nations,"['commonwealth', 'country', 'Nation', 'Carry_Nation', 'body_politic', 'land', 'state', 'Carry_Amelia_Moore_Nation', 'nation', 'res_publica']",Newark Evening News
+prognostication,"['presage', 'prediction', 'prophecy', 'omen', 'prognostication', 'forecasting', 'portent', 'prodigy', 'prognostic', 'vaticination', 'foretelling']",Newark Evening News
+alike,"['similar', 'alike', 'like', 'likewise']",Newark Evening News
+organization,"['arrangement', 'governing_body', 'brass', 'organisation', 'constitution', 'system', 'governance', 'organization', 'formation', 'establishment', 'administration']",Newark Evening News
+coalition,"['coalescency', 'concretion', 'alliance', 'conglutination', 'fusion', 'alinement', 'coalition', 'coalescence', 'alignment']",Newark Evening News
+factories,"['manufacturing_plant', 'mill', 'factory', 'manufactory']",Newark Evening News
+This,[],Newark Evening News
+harboring,"['entertain', 'nurse', 'harbour', 'harbor', 'shield', 'hold']",Newark Evening News
+In,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",Newark Evening News
+end,"['cease', 'closing', 'conclusion', 'remnant', 'remainder', 'finish', 'goal', 'close', 'terminal', 'stop', 'terminate', 'destruction', 'oddment', 'end', 'final_stage', 'last', 'death', 'ending']",Newark Evening News
+direction,"['instruction', 'centering', 'steering', 'counsel', 'focal_point', 'way', 'management', 'guidance', 'focus', 'counseling', 'commission', 'charge', 'focusing', 'counselling', 'focussing', 'direction']",Newark Evening News
+putting,"['putting', 'put', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'putt', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",Newark Evening News
+towel,['towel'],Newark Evening News
+Betting,"['reckon', 'card-playing', 'calculate', 'look', 'wager', 'depend', 'bet', 'sporting', 'betting', 'play', 'dissipated', 'count']",Newark Evening News
+thinks,"['opine', 'cogitate', 'believe', 'suppose', 'guess', 'conceive', 'reckon', 'recall', 'intend', 'mean', 'recollect', 'consider', 'imagine', 'remember', 'think', 'cerebrate', 'call_back', 'call_up', 'retrieve']",Newark Evening News
+troubles,"['distract', 'inconvenience_oneself', 'incommode', 'upset', 'fuss', 'trouble_oneself', 'ail', 'disoblige', 'problem', 'inconvenience', 'perturb', 'put_out', 'worry', 'unhinge', 'disquiet', 'trouble', 'pain', 'cark', 'difficulty', 'hassle', 'bother', 'discommode', 'disorder', 'disturb']",Newark Evening News
+presence,"['presence', 'mien', 'bearing', 'comportment', 'front']",Newark Evening News
+based,"['based', 'establish', 'base', 'found', 'ground', 'free-base']",Newark Evening News
+vantage,"['advantage', 'vantage']",Newark Evening News
+sanctuary,"['sanctuary', 'chancel', 'asylum', 'refuge', 'bema']",Newark Evening News
+language,"['spoken_language', 'language', 'oral_communication', 'voice_communication', 'linguistic_process', 'speech', 'spoken_communication', 'words', 'terminology', 'speech_communication', 'nomenclature', 'lyric', 'linguistic_communication']",Newark Evening News
+made,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'make_up', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'made', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",Newark Evening News
+suspicious,"['leery', 'suspect', 'wary', 'funny', 'fishy', 'shady', 'suspicious', 'mistrustful', 'untrusting']",Newark Evening News
+nest,"['cuddle', 'nuzzle', 'snuggle', 'nest', 'draw_close', 'nestle']",Newark Evening News
+supports,"['supporting', 'sustenance', 'sustain', 'digest', 'financial_backing', 'endorse', 'plunk_for', 'patronage', 'affirm', 'endure', 'suffer', 'plump_for', 'stick_out', 'backing', 'defend', 'hold_up', 'corroborate', 'musical_accompaniment', 'bear_out', 'indorse', 'support', 'back_up', 'subscribe', 'funding', 'back', 'accompaniment', 'underpin', 'reenforcement', 'stomach', 'backup', 'livelihood', 'patronise', 'bear', 'tolerate', 'abide', 'financial_support', 'put_up', 'substantiate', 'fend_for', 'brook', 'patronize', 'keep', 'keep_going', 'bread_and_butter', 'confirm', 'stand', 'reinforcement', 'documentation', 'hold', 'living']",Newark Evening News
+Well,"['advantageously', 'swell', 'substantially', 'fountainhead', 'wellspring', 'well', 'easily', 'comfortably', 'intimately', 'considerably', 'good']",Newark Evening News
+Within,"['within', 'inside']",Newark Evening News
+claim,"['claim', 'exact', 'title', 'lay_claim', 'take', 'call', 'arrogate']",Newark Evening News
+leaders,"['leaders', 'leadership', 'leader', 'drawing_card', 'loss_leader']",Newark Evening News
+toward,[],Newark Evening News
+life,"['lifetime', 'life-time', 'spirit', 'aliveness', 'life', 'lifespan', 'biography', 'life_story', 'life_sentence', 'animation', 'life_history', 'liveliness', 'sprightliness', 'living']",Newark Evening News
+condition,"['stipulate', 'shape', 'condition', 'experimental_condition', 'consideration', 'discipline', 'specify', 'train', 'qualify', 'check', 'precondition', 'term', 'circumstance', 'status', 'stipulation']",Newark Evening News
+sale,"['sales_agreement', 'cut-rate_sale', 'sale', 'sales_event']",Newark Evening News
+war,"['war', 'state_of_war', 'warfare']",Newark Evening News
+concedes,"['yield', 'grant', 'concede', 'profess', 'confess', 'cede']",Newark Evening News
+October,"['Oct', 'October']",Newark Evening News
+to,[],Newark Evening News
+in,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",Newark Evening News
+down,"['pour_down', 'down_pat', 'bolt_down', 'shoot_down', 'dispirited', 'down', 'go_through', 'kill', 'low', 'drink_down', 'pull_down', 'low-spirited', 'pile', 'downwards', 'Down', 'devour', 'consume', 'depressed', 'belt_down', 'pop', 'fine-tune', 'refine', 'polish', 'down_in_the_mouth', 'cut_down', 'downward', 'downwardly', 'blue', 'knock_down', 'gloomy', 'John_L._H._Down', 'downcast', 'down_feather', 'push_down', 'land', 'toss_off', 'mastered', 'downhearted', 'grim']",Newark Evening News
+losing,"['recede', 'turn_a_loss', 'lose', 'fall_behind', 'suffer', 'mislay', 'fall_back', 'misplace', 'drop_off', 'miss']",Newark Evening News
+warns,"['discourage', 'admonish', 'monish', 'warn']",Newark Evening News
+dictatorship,"['one-man_rule', 'totalitarianism', 'authoritarianism', 'Caesarism', 'despotism', 'shogunate', 'dictatorship', 'tyranny', 'monocracy', 'absolutism', 'Stalinism']",Newark Evening News
+countries,"['commonwealth', 'country', 'rural_area', 'body_politic', 'land', 'state', 'nation', 'res_publica', 'area']",Newark Evening News
+surpluses,"['surplus', 'surplusage', 'nimiety', 'excess']",Newark Evening News
+achieves,"['attain', 'achieve', 'reach', 'accomplish']",Newark Evening News
+fearful,"['dreaded', 'frightening', 'timorous', 'trepid', 'fearsome', 'direful', 'terrible', 'dire', 'awful', 'horrific', 'fearful', 'frightful', 'dreadful', 'cowardly', 'horrendous', 'dread']",Newark Evening News
+shouldn't,[],Newark Evening News
+Juan,[],Newark Evening News
+United,"['unify', 'combine', 'united', 'connect', 'link', 'link_up', 'merge', 'joined', 'unite', 'join']",Newark Evening News
+Whether,[],Newark Evening News
+estate,"['estate_of_the_realm', 'estate', 'demesne', 'acres', 'landed_estate', 'land', 'the_three_estates']",Newark Evening News
+around,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'round', 'just_about']",Newark Evening News
+conserving,"['economise', 'keep_up', 'preserve', 'economize', 'maintain', 'conserve', 'husband']",Newark Evening News
+becomes,"['get', 'suit', 'go', 'turn', 'become']",Newark Evening News
+months,"['calendar_month', 'month']",Newark Evening News
+finally,"['in_the_end', 'lastly', 'in_conclusion', 'finally', 'at_long_last', 'at_last', 'ultimately', 'last', 'eventually']",Newark Evening News
+November,"['Nov', 'November']",Newark Evening News
+improved,"['amend', 'improve', 'meliorate', 'better', 'ameliorate', 'improved']",Newark Evening News
+25,"['XXV', 'xxv', '25', 'twenty-five']",Newark Evening News
+parceled,['parcel'],Newark Evening News
+February,"['Feb', 'February']",Newark Evening News
+though,['though'],Newark Evening News
+corps,"['corps', 'corporation', 'army_corps', 'corp']",Newark Evening News
+complaint,"['complaint', 'ailment', 'ill', 'charge']",Newark Evening News
+feuds,['feud'],Newark Evening News
+greatest,"['sterling', 'large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'greatest', 'dandy', 'peachy', 'expectant', 'smashing', 'superlative', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",Newark Evening News
+More,"['Thomas_More', 'more', 'to_a_greater_extent', 'Sir_Thomas_More', 'More', 'more_than']",Newark Evening News
+produced,"['develop', 'get', 'grow', 'bring_about', 'produce', 'make', 'bring_out', 'give_rise', 'acquire', 'bring_forth', 'bring_on', 'farm', 'create', 'raise']",Newark Evening News
+spring,"['fountain', 'rebound', 'outflow', 'take_a_hop', 'resile', 'recoil', 'jump', 'ricochet', 'natural_spring', 'bound', 'leaping', 'form', 'springiness', 'take_shape', 'reverberate', 'spring', 'saltation', 'outpouring', 'leap', 'springtime', 'give', 'bounce', 'take_form']",Newark Evening News
+success,"['winner', 'succeeder', 'achiever', 'success']",Newark Evening News
+Anybody,[],Newark Evening News
+Castro,"['Castro', 'Fidel_Castro', 'Fidel_Castro_Ruz']",Newark Evening News
+:,[],Newark Evening News
+holding,"['sustain', 'view_as', 'make', 'curb', 'confine', 'keep_back', 'retention', 'have_got', 'property', 'defend', 'hold_up', 'have', 'concur', 'maintain', 'support', 'admit', 'arrest', 'concord', 'entertain', 'accommodate', 'obligate', 'bear', 'throw', 'harbour', 'nurse', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'moderate', 'take_hold', 'belongings', 'halt', 'declare', 'keeping', 'take', 'holding', 'restrain', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'adjudge', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'withstand', 'agree', 'reserve']",Newark Evening News
+over-produce,[],Newark Evening News
+any,"['whatever', 'any', 'whatsoever']",Newark Evening News
+them,[],Newark Evening News
+comes,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",Newark Evening News
+``,[],Newark Evening News
+squabbling,"['bicker', 'squabble', 'quibble', 'niggle', 'pettifog', 'brabble']",Newark Evening News
+help,"['assistance', 'serve', 'assistant', 'aid', 'avail', 'help_oneself', 'helper', 'service', 'facilitate', 'supporter', 'help', 'assist']",Newark Evening News
+Washington,"['WA', 'Capital', 'Evergreen_State', 'American_capital', 'capital_of_the_United_States', 'George_Washington', 'Booker_T._Washington', 'President_Washington', 'Booker_Taliaferro_Washington', 'Washington', 'Washington_D.C.']",Newark Evening News
+rid,"['disembarrass', 'rid', 'free']",Newark Evening News
+guessing,"['opine', 'imagine', 'venture', 'dead_reckoning', 'approximate', 'judge', 'estimate', 'hazard', 'guesswork', 'reckon', 'infer', 'think', 'gauge', 'pretend', 'suppose', 'shot', 'guess', 'guessing']",Newark Evening News
+'',[],Newark Evening News
+Kennedy's,[],Newark Evening News
+held,"['held', 'sustain', 'view_as', 'make', 'curb', 'confine', 'keep_back', 'have_got', 'defend', 'hold_up', 'have', 'concur', 'maintain', 'support', 'admit', 'arrest', 'concord', 'entertain', 'accommodate', 'obligate', 'bear', 'throw', 'harbour', 'nurse', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'moderate', 'take_hold', 'halt', 'declare', 'take', 'agree', 'restrain', 'adjudge', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'withstand', 'reserve']",Newark Evening News
+shouting,"['shout_out', 'shouting', 'clapperclaw', 'cry', 'shout', 'yell', 'outcry', 'cry_out', 'exclaim', 'abuse', 'squall', 'blackguard', 'call', 'yelling', 'hollo', 'holler', 'cheering', 'call_out', 'scream']",Newark Evening News
+conjecture,"['theorise', 'surmise', 'supposition', 'conjecture', 'hypothesis', 'theorize', 'hypothesise', 'hypothesize', 'hypothecate', 'surmisal', 'suppose', 'guess', 'speculate', 'speculation']",Newark Evening News
+slump,"['sink', 'falling_off', 'slump', 'falloff', 'decline', 'slide_down', 'slouch', 'economic_crisis', 'fall_off', 'drop-off', 'correct', 'depression', 'slack']",Newark Evening News
+big,"['large', 'bighearted', 'self-aggrandising', 'openhanded', 'giving', 'big', 'cock-a-hoop', 'full-grown', 'enceinte', 'magnanimous', 'adult', 'liberal', 'crowing', 'swelled', 'braggy', 'bountiful', 'braggart', 'boastfully', 'great', 'self-aggrandizing', 'prominent', 'bragging', 'fully_grown', 'grownup', 'boastful', 'vauntingly', 'bounteous', 'expectant', 'handsome', 'heavy', 'gravid', 'vainglorious', 'with_child', 'bad', 'freehanded', 'grown']",Newark Evening News
+accused,"['accused', 'incriminate', 'accuse', 'criminate', 'charge', 'impeach']",Newark Evening News
+Southeast,"[""sou'-east"", 'southeasterly', 'southeastern', 'southeastward', 'Southeast', 'southeast', 'south-east', 'SE', 'southeastern_United_States']",Newark Evening News
+report,"['describe', 'news_report', 'study', 'write_up', 'composition', 'paper', 'story', 'theme', 'written_report', 'report_card', 'cover', 'report', 'account', 'reputation']",Newark Evening News
+pickup,"['cartridge', 'pick-me-up', 'pickup_truck', 'pickup_arm', 'pickup', 'tone_arm', 'getaway']",Newark Evening News
+crowds,"['bunch', 'push', 'herd', 'crowd', 'gang', 'crowd_together', 'crew']",Newark Evening News
+every,['every'],Newark Evening News
+Newark,['Newark'],Newark Evening News
+U.S.,"['U.S.', 'US', 'US_Government', 'United_States_of_America', 'the_States', 'United_States', 'U.S._government', 'America', 'U.S.A.', 'USA', 'United_States_government']",Newark Evening News
+Peace,"['peacefulness', 'serenity', 'public_security', 'peace', 'repose', 'heartsease', 'peace_treaty', 'peace_of_mind', 'ataraxis', 'pacification']",Newark Evening News
+pouring,"['decant', 'teem', 'pour_out', 'stream', 'pouring', 'swarm', 'pullulate', 'pelt', 'rain_buckets', 'pour', 'rain_cats_and_dogs', 'gushing']",Newark Evening News
+arduous,"['gruelling', 'strenuous', 'backbreaking', 'grueling', 'punishing', 'arduous', 'toilsome', 'heavy', 'laborious', 'hard', 'operose', 'straining']",Newark Evening News
+States,"['state_of_matter', 'Department_of_State', 'commonwealth', 'United_States_Department_of_State', 'submit', 'province', 'posit', 'body_politic', 'tell', 'express', 'state', 'say', 'country', 'DoS', 'State', 'land', 'State_Department', 'nation', 'res_publica', 'put_forward']",Newark Evening News
+Louisiana,"['LA', 'Louisiana', 'Pelican_State']",Newark Evening News
+has,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'hour_angle', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'HA', 'hold', 'receive']",Newark Evening News
+labor's,[],Newark Evening News
+auto,"['motorcar', 'machine', 'car', 'auto', 'automobile']",Newark Evening News
+it's,[],Newark Evening News
+everything,[],Newark Evening News
+was,"['constitute', 'WA', 'equal', 'Evergreen_State', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify', 'Washington']",Newark Evening News
+specialist,"['specialist', 'medical_specialist', 'specializer', 'specialiser']",Newark Evening News
+prevent,"['forestall', 'keep', 'preclude', 'foreclose', 'prevent', 'forbid']",Newark Evening News
+anticipated,"['anticipate', 'predict', 'look_to', 'expect', 'promise', 'counter', 'foretell', 'look_for', 'forestall', 'awaited', 'forebode', 'foresee', 'prognosticate', 'call', 'foreknow', 'previse', 'hoped-for', 'anticipated']",Newark Evening News
+develop,"['spring_up', 'explicate', 'evolve', 'uprise', 'build_up', 'arise', 'formulate', 'originate', 'grow', 'acquire', 'modernize', 'educate', 'develop', 'get', 'train', 'break', 'germinate', 'rise', 'modernise', 'produce', 'recrudesce', 'prepare', 'make_grow']",Newark Evening News
+black-crowned,[],Newark Evening News
+countless,"['infinite', 'numberless', 'innumerous', 'myriad', 'unnumberable', 'multitudinous', 'unnumerable', 'innumerable', 'unnumbered', 'uncounted', 'countless']",Newark Evening News
+political,['political'],Newark Evening News
+job,"['line', 'Book_of_Job', 'job', 'occupation', 'problem', 'business', 'farm_out', 'line_of_work', 'task', 'Job', 'chore', 'caper', 'speculate', 'subcontract']",Newark Evening News
+years,"['years', 'yr', 'old_age', 'age', 'twelvemonth', 'class', 'days', 'eld', 'geezerhood', 'year', 'long_time']",Newark Evening News
+for,[],Newark Evening News
+move,"['actuate', 'relocation', 'movement', 'make_a_motion', 'motility', 'proceed', 'be_active', 'motion', 'incite', 'motivate', 'prompt', 'move', 'impress', 'strike', 'locomote', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",Newark Evening News
+Dr.,"['physician', 'MD', 'medico', 'Dr.', 'doctor', 'doc']",Newark Evening News
+forecasting,"['estimate', 'calculate', 'figure', 'bode', 'betoken', 'count_on', 'predict', 'prediction', 'foretell', 'reckon', 'prefigure', 'foreshadow', 'foretelling', 'auspicate', 'augur', 'forecasting', 'prognostication', 'prognosticate', 'presage', 'omen', 'portend', 'forecast']",Newark Evening News
+sense,"['common_sense', 'smell_out', 'sensation', 'sense', 'horse_sense', 'good_sense', 'mother_wit', 'gumption', 'signified', 'sentience', 'sentiency', 'smell', 'sensory_faculty', 'feel']",Newark Evening News
+seashore,"['sea-coast', 'seacoast', 'seashore', 'coast']",Newark Evening News
+OAS,"['OAS', 'Organization_of_American_States']",Newark Evening News
+Force,"['ram', 'military_group', 'force', 'draw', 'coerce', 'violence', 'pressure', 'personnel', 'force_play', 'push', 'military_unit', 'squeeze', 'impel', 'force-out', 'drive', 'strength', 'forcefulness', 'military_force', 'pull', 'force_out', 'hale', 'power', 'wedge', 'storm', 'thrust', 'effect']",Newark Evening News
+betting,"['reckon', 'card-playing', 'calculate', 'look', 'wager', 'depend', 'bet', 'sporting', 'betting', 'play', 'dissipated', 'count']",Newark Evening News
+expecting,"['anticipate', 'expect', 'bear', 'look', 'have_a_bun_in_the_oven', 'require', 'ask', 'await', 'carry', 'gestate', 'wait']",Newark Evening News
+He,"['He', 'helium', 'atomic_number_2', 'he']",Newark Evening News
+been,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Newark Evening News
+competent,['competent'],Newark Evening News
+South,"['Confederate_States_of_America', 'Confederate_States', 'southward', 'Dixieland', 'south', 'S', 'Dixie', 'due_south', 'in_the_south', 'Confederacy', 'to_the_south', 'South']",Newark Evening News
+among,[],Newark Evening News
+prognosticator,"['predictor', 'forecaster', 'prognosticator', 'soothsayer']",Newark Evening News
+Matter,"['weigh', 'thing', 'affair', 'subject', 'topic', 'count', 'issue', 'matter']",Newark Evening News
+unknown,"['alien', 'unnamed', 'stranger', 'strange', 'obscure', 'nameless', 'unknown_region', 'unidentified', 'unsung', 'terra_incognita', 'unknown_quantity', 'unknown']",Newark Evening News
+spaces,"['infinite', 'place', 'blank', 'blank_space', 'distance', 'space', 'outer_space', 'quad']",Newark Evening News
+beyond,['beyond'],Newark Evening News
+others,[],Newark Evening News
+Corroborating,"['sustain', 'corroborate', 'affirm', 'bear_out', 'support', 'confirm', 'substantiate', 'validate', 'underpin']",Newark Evening News
+merely,"['simply', 'merely', 'only', 'just', 'but']",Newark Evening News
+speed,"['pep_pill', 'upper', 'amphetamine', 'cannonball_along', 'hasten', 'focal_ratio', 'hie', 'quicken', 'speed_up', 'stop_number', 'hurry', 'race', 'step_on_it', 'zip', 'hurrying', 'fastness', 'bucket_along', 'pelt_along', 'hotfoot', 'travel_rapidly', 'belt_along', 'swiftness', 'speed', 'rush_along', 'f_number', 'velocity', 'speeding', 'rush', 'accelerate']",Newark Evening News
+gain,"['arrive_at', 'make', 'put_on', 'take_in', 'clear', 'hit', 'realise', 'addition', 'win', 'amplification', 'make_headway', 'earn', 'pull_ahead', 'gain_ground', 'pull_in', 'profit', 'acquire', 'benefit', 'attain', 'increase', 'derive', 'gather', 'reach', 'bring_in', 'get_ahead', 'gain', 'realize', 'advance']",Newark Evening News
+public,"['public', 'populace', 'world']",Newark Evening News
+heads,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",Newark Evening News
+result,"['solution', 'ensue', 'lead', 'upshot', 'termination', 'outcome', 'consequence', 'answer', 'result', 'resultant_role', 'leave', 'solvent', 'event', 'effect', 'final_result', 'issue', 'resolution', 'resultant']",Newark Evening News
+looked,"['expect', 'appear', 'reckon', 'wait', 'look', 'attend', 'face', 'bet', 'depend', 'see', 'await', 'calculate', 'take_care', 'count', 'seem', 'front', 'search']",Newark Evening News
+strengthened,"['tone_up', 'strengthen', 'fortify', 'strengthened', 'beef_up', 'reinforced', 'tone']",Newark Evening News
+blamed,"['goddamn', 'blessed', 'find_fault', 'blame', 'goddam', 'damned', 'blasted', 'deuced', 'blamed', 'infernal', 'charge', 'fault', 'goddamned', 'darned', 'damn', 'pick']",Newark Evening News
+some,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",Newark Evening News
+unhappy,"['dysphoric', 'unhappy', 'distressed', 'infelicitous']",Newark Evening News
+include,"['let_in', 'include', 'admit']",Newark Evening News
+need,"['motivation', 'involve', 'necessitate', 'want', 'take', 'call_for', 'motive', 'postulate', 'require', 'penury', 'ask', 'pauperism', 'demand', 'pauperization', 'indigence', 'need']",Newark Evening News
+disastrous,"['fateful', 'calamitous', 'fatal', 'black', 'disastrous']",Newark Evening News
+and,[],Newark Evening News
+basing,"['establish', 'base', 'found', 'ground', 'free-base']",Newark Evening News
+Balaguer,[],Newark Evening News
+believe,"['conceive', 'trust', 'believe', 'think', 'consider']",Newark Evening News
+Against,[],Newark Evening News
+tends,"['run', 'tend', 'be_given', 'lean', 'incline']",Newark Evening News
+anybody,[],Newark Evening News
+deficit,"['shortfall', 'deficit', 'shortage']",Newark Evening News
+farmer,"['farmer', 'Fannie_Farmer', 'sodbuster', 'Farmer', 'husbandman', 'Fannie_Merritt_Farmer', 'James_Leonard_Farmer', 'granger']",Newark Evening News
+all,"['entirely', 'all', 'whole', 'completely', 'totally', 'altogether', 'wholly']",Newark Evening News
+vital,"['full_of_life', 'life-sustaining', 'vital', 'critical', 'lively']",Newark Evening News
+bird,"['hoot', 'birdie', 'boo', 'razzing', 'bird', 'raspberry', 'birdwatch', 'razz', 'doll', 'chick', 'fowl', 'shuttlecock', 'Bronx_cheer', 'dame', 'hiss', 'skirt', 'shuttle', 'snort', 'wench']",Newark Evening News
+Federation,"['confederacy', 'confederation', 'federation']",Newark Evening News
+pro-Castro,[],Newark Evening News
+heritage,"['inheritance', 'heritage']",Newark Evening News
+Cambodia's,[],Newark Evening News
+out,"['come_out', 'forbidden', 'taboo', 'stunned', 'tabu', 'away', 'extinct', 'kayoed', 'prohibited', 'proscribed', 'come_out_of_the_closet', 'out', 'verboten', 'knocked_out', ""KO'd""]",Newark Evening News
+too,"['excessively', 'overly', 'besides', 'also', 'to_a_fault', 'likewise', 'as_well', 'too']",Newark Evening News
+example,"['illustration', 'object_lesson', 'model', 'deterrent_example', 'case', 'representative', 'lesson', 'exercise', 'good_example', 'example', 'instance', 'exemplar']",Newark Evening News
+Corps,"['corps', 'corporation', 'army_corps', 'corp']",Newark Evening News
+throw,"['cam_stroke', 'make', 'cast_off', 'stroke', 'bemuse', 'bedevil', 'discombobulate', 'confound', 'flip', 'shake_off', 'have', 'throw_away', 'confuse', 'throw', 'cast', 'drop', 'throw_off', 'fox', 'befuddle', 'switch', 'shed', 'project', 'give', 'thrust', 'hurl', 'contrive', 'hold', 'fuddle', 'bewilder']",Newark Evening News
+interrupted,"['interrupt', 'fitful', 'break_up', 'cut_off', 'interrupted', 'break', 'off-and-on', 'disrupt', 'disturb']",Newark Evening News
+",",[],Newark Evening News
+cast,"['put', 'honk', 'range', 'purge', 'spew', 'draw', 'cast_off', 'vomit_up', 'regorge', 'be_sick', 'regurgitate', 'drift', 'stamp', 'ramble', 'shake_off', 'tramp', 'dramatis_personae', 'hurtle', 'casting', 'wander', 'throw_away', 'rove', 'vomit', 'stray', 'throw_up', 'cast_of_characters', 'redact', 'vagabond', 'cat', 'disgorge', 'roll', 'mould', 'couch', 'barf', 'form', 'throw', 'plaster_bandage', 'retch', 'plaster_cast', 'cast', 'spue', 'drop', 'throw_off', 'frame', 'upchuck', 'roam', 'shape', 'swan', 'shed', 'project', 'sick', 'hurl', 'chuck', 'contrive', 'puke', 'mold']",Newark Evening News
+Sihanouk's,[],Newark Evening News
+praise,"['congratulations', 'praise', 'extolment', 'kudos']",Newark Evening News
+such,['such'],Newark Evening News
+top,"['circus_tent', 'tip', 'elevation', 'pinnacle', 'clear', 'whirligig', 'top_out', 'teetotum', 'overstep', 'go_past', 'round_top', 'exceed', 'upside', 'meridian', 'summit', 'tiptop', 'top_of_the_inning', 'crest', 'height', 'acme', 'cover', 'top', 'big_top', 'pass', 'pinch', 'top_off', 'lead', 'top_side', 'superlative', 'transcend', 'crown', 'peak', 'upper_side', 'spinning_top']",Newark Evening News
+favorable,"['well-disposed', 'lucky', 'prosperous', 'favorable', 'golden', 'favourable', 'friendly']",Newark Evening News
+create,"['produce', 'make', 'create']",Newark Evening News
+takeover,"['coup', ""coup_d'etat"", 'putsch', 'takeover']",Newark Evening News
+battle,"['fight', 'conflict', 'struggle', 'combat', 'engagement', 'battle']",Newark Evening News
+Little,"['slight', 'lilliputian', 'petty', 'footling', 'niggling', 'little', 'trivial', 'short', 'minuscule', 'picayune', 'small', 'piffling', 'fiddling', 'piddling']",Newark Evening News
+New,"['unexampled', 'New', 'freshly', 'new', 'newly', 'raw', 'Modern', 'young', 'newfangled', 'fresh', 'novel']",Newark Evening News
+captured,"['get', 'entrance', 'becharm', 'trance', 'bewitch', 'captivate', 'enchant', 'charm', 'beguile', 'catch', 'enamor', 'fascinate', 'appropriate', 'seize', 'capture', 'conquer', 'enamour']",Newark Evening News
+procedures,"['subroutine', 'process', 'procedure', 'operation', 'subprogram', 'routine', 'function']",Newark Evening News
+lie,"['Lie', 'lie', 'Trygve_Halvden_Lie', 'Trygve_Lie', 'rest', 'lie_down', 'dwell', 'lie_in', 'consist', 'prevarication']",Newark Evening News
+Teamsters,"['teamster', 'trucker', 'truck_driver']",Newark Evening News
+outmoded,"['ex', 'old-hat', 'old-fashioned', 'outmoded', 'passe', 'passee', 'outmode', 'antique', 'demode']",Newark Evening News
+spot,"['place', 'slur', 'situation', 'daub', 'pip', 'berth', 'position', 'blemish', 'spotlight', 'espy', 'blob', 'smudge', 'speckle', 'stain', 'make_out', 'smirch', 'blot', 'smear', 'pick_out', 'post', 'recognize', 'descry', 'point', 'billet', 'dapple', 'distinguish', 'office', 'recognise', 'maculation', 'spy', 'tell_apart', 'bit', 'topographic_point', 'fleck', 'spot', 'touch', 'discern', 'patch']",Newark Evening News
+merger,"['uniting', 'unification', 'fusion', 'merger', 'amalgamation']",Newark Evening News
+single,"['one', 'individual', 'I', 'undivided', 'bingle', 'single', 'ace', 'exclusive', 'unmarried', 'unity', '1']",Newark Evening News
+Thailand,"['Siam', 'Thailand', 'Kingdom_of_Thailand']",Newark Evening News
+26,"['26', 'XXVI', 'twenty-six', 'xxvi']",Newark Evening News
+that's,[],Newark Evening News
+And,[],Newark Evening News
+.,[],Newark Evening News
+snowy,"['snow-covered', 'snow-white', 'white', 'snowy', 'snow-clad']",Newark Evening News
+factory,"['manufacturing_plant', 'mill', 'factory', 'manufactory']",Newark Evening News
+when,[],Newark Evening News
+cake,"['coat', 'patty', 'cake', 'bar']",Newark Evening News
+industrial,['industrial'],Newark Evening News
+situation,"['post', 'place', 'billet', 'situation', 'spot', 'state_of_affairs', 'office', 'berth', 'position', 'site']",Newark Evening News
+does,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'Energy_Department', 'make_out', 'execute', 'do', 'set', 'Energy', 'exercise', 'dress', 'practice', 'doe', 'DOE', 'coiffe', 'Department_of_Energy', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",Newark Evening News
+Kennedy,"['President_John_F._Kennedy', 'John_Fitzgerald_Kennedy', 'Kennedy_Interrnational', 'Kennedy', 'Jack_Kennedy', 'JFK', 'Kennedy_International_Airport', 'President_Kennedy']",Newark Evening News
+methods,"['method_acting', 'method']",Newark Evening News
+Easter,"['Easter', 'easterly', 'easter', 'east_wind']",Newark Evening News
+itself,[],Newark Evening News
+hazardous,"['risky', 'hazardous', 'wild']",Newark Evening News
+regional,['regional'],Newark Evening News
+civil,"['polite', 'civil', 'civic']",Newark Evening News
+eradicate,"['wipe_out', 'annihilate', 'extinguish', 'extirpate', 'decimate', 'exterminate', 'root_out', 'eradicate', 'eliminate', 'uproot', 'carry_off']",Newark Evening News
+by,"['away', 'by', 'aside', 'past']",Newark Evening News
+dealing,"['trade', 'distribute', 'deal_out', 'make_do', 'allot', 'lot', 'cope', 'care', 'dealing', 'deal', 'dealings', 'apportion', 'mete_out', 'carry_on', 'make_out', 'dispense', 'parcel_out', 'dole_out', 'get_by', 'administer', 'treat', 'grapple', 'portion_out', 'handle', 'contend', 'dish_out', 'cover', 'shell_out', 'consider', 'manage', 'divvy_up', 'take', 'sell', 'transaction', 'address', 'look_at', 'conduct', 'share', 'plow']",Newark Evening News
+still,"['distillery', 'stillness', 'even', 'static', 'silent', 'quieten', 'all_the_same', 'even_so', 'inactive', 'calm', 'placid', 'allay', 'still', 'calm_down', 'lull', 'quiet', 'silence', 'tranquil', 'tranquillize', 'yet', 'noneffervescent', 'hush', 'soundless', 'nonetheless', 'notwithstanding', 'shut_up', 'unruffled', 'smooth', 'tranquillise', 'ease', 'stock-still', 'relieve', 'however', 'nevertheless', 'tranquilize', 'motionless', 'hush_up', 'withal']",Newark Evening News
+preferred,"['favorite', 'preferred', 'opt', 'preferable', 'favor', 'preferent', 'best-loved', 'prefer', 'favourite', 'choose', 'pet', 'favored', 'favour']",Newark Evening News
+income,['income'],Newark Evening News
+less,"['to_a_lesser_extent', 'LE', 'less', 'lupus_erythematosus']",Newark Evening News
+seems,"['seem', 'appear', 'look']",Newark Evening News
+comparison,"['comparison', 'compare', 'equivalence', 'comparability', 'comparing']",Newark Evening News
+as,"['A', 'atomic_number_33', 'axerophthol', 'amp', 'American_Samoa', 'type_A', 'adenine', 'as', 'group_A', 'every_bit', 'AS', 'Eastern_Samoa', 'vitamin_A', 'equally', 'deoxyadenosine_monophosphate', 'angstrom', 'a', 'ampere', 'arsenic', 'As', 'angstrom_unit', 'antiophthalmic_factor']",Newark Evening News
+union,"['marriage', 'conglutination', 'spousal_relationship', 'pairing', 'North', 'join', 'mating', 'wedlock', 'jointure', 'unification', 'union', 'Union', 'trades_union', 'coupling', 'labor_union', 'sexual_union', 'matrimony', 'trade_union', 'brotherhood', 'Federal', 'uniting', 'sum', 'conjugation']",Newark Evening News
+discuss,"['discus', 'hash_out', 'talk_over', 'talk_about', 'saucer', 'discourse', 'discuss']",Newark Evening News
+he's,[],Newark Evening News
+dunes,"['dun', 'sand_dune', 'dune', 'crucify', 'rag', 'bedevil', 'torment', 'frustrate']",Newark Evening News
+later,"['subsequently', 'recent', 'former', 'afterwards', 'by_and_by', 'ulterior', 'belated', 'posterior', 'after', 'late', 'later_on', 'previous', 'later', 'tardy', 'afterward']",Newark Evening News
+economy,"['saving', 'economy', 'thriftiness', 'economic_system']",Newark Evening News
+Jackson's,[],Newark Evening News
+Jackson,"['Jesse_Louis_Jackson', 'Thomas_J._Jackson', 'Michael_Jackson', 'Helen_Maria_Fiske_Hunt_Jackson', 'Michael_Joe_Jackson', 'Old_Hickory', 'Thomas_Jonathan_Jackson', 'capital_of_Mississippi', 'Jesse_Jackson', 'Stonewall_Jackson', 'Andrew_Jackson', 'Mahalia_Jackson', 'Glenda_Jackson', 'Helen_Hunt_Jackson', 'Thomas_Jackson', 'Jackson']",Newark Evening News
+ending,"['cease', 'closing', 'conclusion', 'finish', 'stop', 'terminate', 'end', 'close', 'termination', 'ending']",Newark Evening News
+I,"['one', 'I', 'iodin', 'atomic_number_53', 'single', 'ace', 'i', 'iodine', 'unity', '1', 'ane']",Newark Evening News
+prince,['prince'],Newark Evening News
+underdeveloped,"['developing', 'underdevelop', 'underdeveloped']",Newark Evening News
+more,"['Thomas_More', 'more', 'to_a_greater_extent', 'Sir_Thomas_More', 'More', 'more_than']",Newark Evening News
+jurisdictional,['jurisdictional'],Newark Evening News
+retail,['retail'],Newark Evening News
+park,"['Mungo_Park', 'car_park', 'commons', 'parking_lot', 'parkland', 'green', 'park', 'ballpark', 'common', 'Park', 'parking_area']",Newark Evening News
+apparently,"['evidently', 'patently', 'plainly', 'seemingly', 'obviously', 'plain', 'apparently', 'manifestly', 'ostensibly', 'on_the_face_of_it']",Newark Evening News
+predictable,['predictable'],Newark Evening News
+into,[],Newark Evening News
+billion,"['1000000000', 'million', '1000000000000', 'gazillion', 'jillion', 'one_thousand_million', 'trillion', 'billion', 'one_million_million', 'zillion']",Newark Evening News
+my,[],Newark Evening News
+starts,"['starting_signal', 'pop_out', 'come_out', 'beginning', 'showtime', 'get_going', 'set_about', 'take_up', 'originate', 'kickoff', 'start_out', 'jump', 'set_off', 'scratch', 'get_down', 'head_start', 'startle', 'initiate', 'pop', 'get', 'set_out', 'commence', 'offset', 'depart', 'embark_on', 'bulge', 'bulge_out', 'get-go', 'begin', 'outset', 'starting', 'scratch_line', 'start_up', 'take_off', 'set_forth', 'part', 'starting_line', 'go', 'bug_out', 'protrude', 'starting_time', 'lead_off', 'start', 'commencement', 'first']",Newark Evening News
+herons,"['Hero', 'Heron', 'Hero_of_Alexandria', 'heron']",Newark Evening News
+an,"['Associate_in_Nursing', 'AN']",Newark Evening News
+January's,[],Newark Evening News
+waged,"['waggle', 'wage', 'wag', 'engage']",Newark Evening News
+growing,"['spring_up', 'uprise', 'development', 'arise', 'originate', 'raise', 'grow', 'maturation', 'ontogeny', 'acquire', 'growth', 'maturate', 'develop', 'ontogenesis', 'get', 'rise', 'growing', 'produce', 'mature', 'turn', 'farm']",Newark Evening News
+progress,"['get_along', 'build_up', 'build', 'progression', 'work_up', 'procession', 'shape_up', 'forward_motion', 'advancement', 'get_on', 'move_on', 'come_on', 'march_on', 'onward_motion', 'pass_on', 'advance', 'progress', 'go_on', 'come_along']",Newark Evening News
+alone,"['solitary', 'lonely', 'entirely', 'unaccompanied', 'unique', 'only', 'solo', 'alone', 'unequaled', 'exclusively', 'solely', 'unparalleled', 'lone', 'unequalled']",Newark Evening News
+--,[],Newark Evening News
+tagged,"['chase_after', 'trail', 'tail', 'track', 'give_chase', 'tagged', 'label', 'go_after', 'tag', 'chase', 'mark', 'dog', 'labelled', 'labeled']",Newark Evening News
+populated,"['live', 'inhabit', 'dwell', 'populated', 'populate']",Newark Evening News
+Engaged,"['affiance', 'employ', 'mesh', 'engage', 'charter', 'lock', 'occupy', 'rent', 'in_use', 'intermeshed', 'pursue', 'set-aside', 'busy', 'operate', 'hire', 'occupied', 'plight', 'engaged', 'enlist', 'engross', 'wage', 'prosecute', 'betroth', 'booked', 'take', 'absorb', 'meshed', 'lease']",Newark Evening News
+indicated,"['indicate', 'suggest', 'bespeak', 'signal', 'point', 'designate', 'show', 'argue', 'betoken']",Newark Evening News
+tax,"['tax', 'task', 'taxation', 'revenue_enhancement', 'assess']",Newark Evening News
+preliminary,"['prelude', 'prelim', 'preliminary', 'overture']",Newark Evening News
+intervention,"['intervention', 'interposition', 'treatment', 'intercession', 'interference']",Newark Evening News
+questioning,"['interview', 'questioning', 'call_into_question', 'wonder', 'doubting', 'wondering', 'oppugn', 'inquisitive', 'inquiring', 'question', 'interrogate', 'speculative', 'skeptical', 'query', 'sceptical', 'quizzical']",Newark Evening News
+renewed,"['regenerate', 'renew', 'reincarnate', 'renewed']",Newark Evening News
+needed,"['requisite', 'involve', 'necessitate', 'take', 'want', 'needed', 'required', 'postulate', 'require', 'ask', 'demand', 'needful', 'call_for', 'need']",Newark Evening News
+subcommittee,['subcommittee'],Newark Evening News
+Another,"['some_other', 'another']",Newark Evening News
+elements,"['ingredient', 'component', 'elements', 'element', 'constituent', 'factor', 'chemical_element']",Newark Evening News
+trends,"['tendency', 'drift', 'sheer', 'curve', 'cut', 'course', 'slew', 'movement', 'style', 'veer', 'trend', 'slue', 'swerve', 'vogue']",Newark Evening News
+joyride,"['joyride', 'tool_around', 'tool']",Newark Evening News
+members,"['extremity', 'appendage', 'penis', 'phallus', 'fellow_member', 'member']",Newark Evening News
+fertilizer,"['plant_food', 'fertilizer', 'fertiliser']",Newark Evening News
+Soviet's,[],Newark Evening News
+particularly,"['in_particular', 'peculiarly', 'particularly', 'specially', 'especially']",Newark Evening News
+senate,"['United_States_Senate', 'U.S._Senate', 'Senate', 'US_Senate', 'senate']",Newark Evening News
+facts,['fact'],Newark Evening News
+credit,"['acknowledgment', 'recognition', 'quotation', 'citation', 'accredit', 'reference', 'credit_rating', 'course_credit', 'credit', 'cite', 'mention', 'credit_entry', 'deferred_payment']",Newark Evening News
+builder's,[],Newark Evening News
+generation,"['contemporaries', 'coevals', 'propagation', 'genesis', 'generation', 'multiplication']",Newark Evening News
+few,['few'],Newark Evening News
+visited,"['see', 'chit-chat', 'confabulate', 'chat', 'inspect', 'chitchat', 'visit', 'call', 'chew_the_fat', 'travel_to', 'impose', 'call_in', 'chatter', 'inflict', 'shoot_the_breeze', 'jaw', 'claver', 'natter', 'confab', 'gossip', 'chaffer', 'bring_down']",Newark Evening News
+personnel,"['personnel', 'personnel_department', 'personnel_office', 'force', 'staff_office']",Newark Evening News
+men,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'homo', 'humanity', 'piece', 'men', 'manpower', 'humans', 'Man', 'human_being', 'military_personnel', 'hands', 'gentleman', 'serviceman', 'man', 'work_force', 'human_beings', 'workforce', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",Newark Evening News
+reputation,"['repute', 'report', 'reputation']",Newark Evening News
+appear,"['come_out', 'appear', 'look', 'seem', 'come_along']",Newark Evening News
+$1.1,[],Newark Evening News
+inevitable,['inevitable'],Newark Evening News
+stopped,"['stop', 'terminate', 'give_up', 'stop_over', 'discontinue', 'stopped', 'blockade', 'kibosh', 'lay_off', 'turn_back', 'arrest', 'block_off', 'quit', 'block', 'break', 'check', 'contain', 'stopped-up', 'hold_on', 'end', 'intercept', 'cease', 'barricade', 'hold_back', 'finish', 'stopped_up', 'block_up', 'halt', 'bar', 'break_off']",Newark Evening News
+earlier,"['to_begin_with', 'former', 'earlier', 'in_the_beginning', 'originally', 'before', 'other', 'early', 'earliest', 'in_the_first_place', 'sooner']",Newark Evening News
+keel,"['keel', 'reel', 'swag', 'lurch', 'careen', 'stagger']",Newark Evening News
+dropped,"['deteriorate', 'swing', 'discharge', 'dribble', 'cast_off', 'dangle', 'miss', 'sink', 'degenerate', 'leave_out', 'set_down', 'shake_off', 'knock_off', 'dismiss', 'spend', 'strike_down', 'throw_away', 'omit', 'pretermit', 'expend', 'throw', 'overlook', 'cast', 'cut_down', 'drop', 'fell', 'put_down', 'throw_off', 'neglect', 'drop_off', 'unload', 'devolve', 'send_away', 'drip', 'shed', 'flatten', 'overleap', 'send_packing', 'drop_down']",Newark Evening News
+obviously,"['evidently', 'patently', 'plainly', 'obviously', 'plain', 'apparently', 'manifestly']",Newark Evening News
+Dominican,"['Blackfriar', 'friar_preacher', 'Dominican', 'Black_Friar']",Newark Evening News
+kind,"['form', 'sort', 'variety', 'genial', 'kind', 'tolerant']",Newark Evening News
+couple,"['pair', 'couple_on', 'mates', 'couplet', 'duad', 'twain', 'dyad', 'duet', 'mate', 'couple', 'pair_off', 'twosome', 'twin', 'distich', 'duo', 'yoke', 'match', 'couple_up', 'copulate', 'span', 'partner_off', 'brace']",Newark Evening News
+last,"['endure', 'live', 'lowest', 'finis', 'hold_up', 'concluding', 'terminal', 'finally', 'net', 'hold_out', 'last', 'death', 'utmost', 'conclusion', 'lastly', 'finale', ""cobbler's_last"", 'live_on', 'in_conclusion', 'last-place', 'end', 'final_stage', 'close', 'stopping_point', 'finish', 'go', 'survive', ""shoemaker's_last"", 'final']",Newark Evening News
+claims,"['claim', 'exact', 'title', 'lay_claim', 'take', 'call', 'arrogate']",Newark Evening News
+Commerce,"['commerce', 'Department_of_Commerce', 'Commerce', 'DoC', 'commercialism', 'mercantilism', 'Commerce_Department']",Newark Evening News
+faster,"['degenerate', 'dissolute', 'faster', 'riotous', 'loyal', 'fast', 'immobile', 'quicker', 'degraded', 'debauched', 'dissipated', 'profligate', 'quick', 'libertine', 'truehearted', 'flying', 'firm']",Newark Evening News
+tiny,"['petite', 'lilliputian', 'tiny', 'diminutive', 'flyspeck', 'bantam', 'midget']",Newark Evening News
+rows,"['run-in', 'course', 'quarrel', 'wrangle', 'words', 'dustup', 'rowing', 'row']",Newark Evening News
+distance,"['space', 'length', 'distance', 'aloofness', 'outstrip', 'outdistance']",Newark Evening News
+Rusk,"['twice-baked_bread', 'Brussels_biscuit', 'zwieback', 'rusk']",Newark Evening News
+way,"['mode', 'way_of_life', 'fashion', 'room', 'way', 'style', 'agency', 'right_smart', 'manner', 'means', 'path', 'elbow_room', 'direction']",Newark Evening News
+figures,"['number', 'enter', 'estimate', 'pattern', 'fig', 'physique', 'calculate', 'figure', 'material_body', 'see', 'compute', 'bod', 'trope', 'soma', 'count_on', 'visualise', 'image', 'reckon', 'build', 'anatomy', 'public_figure', 'flesh', 'digit', 'physical_body', 'form', 'design', 'envision', 'name', 'figure_of_speech', 'work_out', 'picture', 'cypher', 'frame', 'chassis', 'fancy', 'cipher', 'shape', 'human_body', 'visualize', 'project', 'forecast']",Newark Evening News
+miserable,"['low-down', 'abject', 'pathetic', 'low', 'suffering', 'woeful', 'execrable', 'misfortunate', 'measly', 'poor', 'wretched', 'scummy', 'paltry', 'hapless', 'piteous', 'miserable', 'deplorable', 'pitiable', 'scurvy', 'pitiful']",Newark Evening News
+rise,"['spring_up', 'boost', 'uprise', 'salary_increase', 'wage_hike', 'arise', 'wax', 'originate', 'raise', 'ascending', 'lift', 'heighten', 'grow', 'hike', 'jump', 'surface', 'procession', 'stand_up', 'climb_up', 'get_up', 'turn_out', 'rising', 'develop', 'wage_increase', 'come_up', 'prove', 'go_up', 'rise', 'ascension', 'cost_increase', 'rebel', 'ascend', 'acclivity', 'rear', 'climb', 'move_up', 'upgrade', 'emanation', 'resurrect', 'mount', 'ascent', 'rise_up', 'rising_slope', 'advance']",Newark Evening News
+trip,"['activate', 'spark', 'actuate', 'jaunt', 'touch_off', 'turn_on', 'trip_out', 'head_trip', 'slip', 'set_off', 'trigger', 'trip-up', 'stumble', 'misstep', 'trip', 'trip_up', 'trigger_off', 'spark_off', 'tripper', 'get_off', 'travel']",Newark Evening News
+national,"['home', 'internal', 'interior', 'subject', 'national']",Newark Evening News
+it,"['IT', 'information_technology']",Newark Evening News
+Now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",Newark Evening News
+disputes,"['altercate', 'dispute', 'conflict', 'difference', 'quarrel', 'difference_of_opinion', 'scrap', 'argufy', 'contravention', 'gainsay', 'challenge']",Newark Evening News
+principal,"['chief', 'head_teacher', 'principal_sum', 'primary', 'lead', 'school_principal', 'main', 'master', 'dealer', 'head', 'corpus', 'star', 'principal']",Newark Evening News
+matter,"['weigh', 'thing', 'affair', 'subject', 'topic', 'count', 'issue', 'matter']",Newark Evening News
+fact,['fact'],Newark Evening News
+between,"[""'tween"", 'between', 'betwixt']",Newark Evening News
+easier,"['comfortable', 'light', 'well-off', 'leisurely', 'easy', 'prosperous', 'gentle', 'promiscuous', 'easygoing', 'well-fixed', 'well-heeled', 'loose', 'sluttish', 'wanton', 'well-to-do', 'well-situated', 'soft']",Newark Evening News
+James,"['Henry_James', 'chock_up', 'cram', 'William_James', 'ram', 'obturate', 'James_II', 'King_James', 'throng', 'pile', 'King_James_I', 'James_River', 'James_I', 'block', 'James_IV', 'obstruct', 'St._James', 'Epistle_of_James', 'pack', 'James', 'wad', 'mob', 'impede', 'occlude', 'close_up', 'crush', 'jam', 'jampack', 'St._James_the_Apostle', 'Jesse_James', 'Saint_James_the_Apostle', 'Saint_James']",Newark Evening News
+spread,"['pass_around', 'bedcover', 'distribute', 'spread_head', 'cattle_farm', 'bed_covering', 'propagate', 'paste', 'overspread', 'bed_cover', 'disperse', 'counterpane', 'cattle_ranch', 'spreading', 'diffuse', 'spreadhead', 'outspread', 'circularize', 'circularise', 'disseminate', 'fan_out', 'scatter', 'spread_out', 'banquet', 'spread', 'broadcast', 'go_around', 'dispersed', 'unfold', 'gap', 'circulate', 'feast', 'facing_pages', 'bedspread', 'open', 'ranch']",Newark Evening News
+No,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",Newark Evening News
+study,"['contemplate', 'bailiwick', 'report', 'meditate', 'canvas', 'analyze', 'field_of_study', 'work', 'analyse', 'discipline', 'field', 'survey', 'subject_area', 'hit_the_books', 'canvass', 'consider', 'study', 'take', 'read', 'written_report', 'sketch', 'learn', 'subject', 'examine', 'subject_field', 'cogitation']",Newark Evening News
+bottom,"['butt', 'stern', 'bed', 'tail_end', 'hindquarters', 'fanny', 'tush', 'merchantman', 'tail', 'buttocks', 'buns', 'posterior', 'bottomland', 'keister', 'freighter', 'tooshie', 'nates', 'prat', 'seat', 'ass', 'undersurface', 'hind_end', 'merchant_ship', 'bum', 'backside', 'behind', 'can', 'bottom', 'rear', 'rump', 'rear_end', 'bottom_of_the_inning', 'derriere', 'fundament', 'fathom', 'penetrate', 'arse', 'underside']",Newark Evening News
+sign,"['signal', 'signed', 'ratify', 'signalise', 'polarity', 'mansion', 'sign_of_the_zodiac', 'signaling', 'planetary_house', 'sign_on', 'sign_up', 'mark', 'subscribe', 'house', 'sign-language', 'signboard', 'augury', 'gestural', 'bless', 'sign', 'star_sign', 'contract', 'preindication', 'signalize', 'foretoken']",Newark Evening News
+traditional,['traditional'],Newark Evening News
+above,"['above', 'to_a_higher_place', 'in_a_higher_place', 'higher_up', 'supra']",Newark Evening News
+shorelines,['shoreline'],Newark Evening News
+forecasters,"['predictor', 'forecaster', 'prognosticator', 'soothsayer']",Newark Evening News
+start,"['starting_signal', 'pop_out', 'come_out', 'beginning', 'showtime', 'get_going', 'set_about', 'take_up', 'originate', 'kickoff', 'start_out', 'jump', 'set_off', 'scratch', 'get_down', 'head_start', 'startle', 'initiate', 'pop', 'get', 'set_out', 'commence', 'offset', 'depart', 'embark_on', 'bulge', 'bulge_out', 'get-go', 'begin', 'outset', 'starting', 'scratch_line', 'start_up', 'take_off', 'set_forth', 'part', 'starting_line', 'go', 'bug_out', 'protrude', 'starting_time', 'lead_off', 'start', 'commencement', 'first']",Newark Evening News
+Army,"['ground_forces', 'regular_army', 'US_Army', 'army', 'Army', 'U._S._Army', 'USA', 'United_States_Army']",Newark Evening News
+surprised,"['surprise', 'surprised', 'storm']",Newark Evening News
+two,"['two', 'II', 'ii', 'deuce', '2']",Newark Evening News
+line,"['describe', 'line', 'railway_line', 'production_line', 'assembly_line', 'lineage', 'credit_line', 'line_of_merchandise', 'draw', 'furrow', 'subscriber_line', 'argumentation', 'pedigree', 'parentage', 'demarcation', 'pipeline', 'communication_channel', 'transmission_line', 'wrinkle', 'dividing_line', 'line_of_credit', 'cable', 'short_letter', 'course', 'business_line', 'business', 'line_of_reasoning', 'descent', 'air', 'crinkle', 'telephone_line', 'channel', 'rail_line', 'stock', 'line_of_business', 'personal_line_of_credit', 'run_along', 'argument', 'logical_argument', 'line_of_products', 'job', 'telephone_circuit', 'billet', 'line_of_descent', 'crease', 'origin', 'melodic_line', 'ancestry', 'personal_credit_line', 'agate_line', 'product_line', 'delineate', 'contrast', 'tune', 'strain', 'melody', 'seam', 'phone_line', 'stemma', 'occupation', 'melodic_phrase', 'note', 'blood', 'line_of_work', 'trace', 'bank_line', 'bloodline', 'blood_line']",Newark Evening News
+shoreline,['shoreline'],Newark Evening News
+trade,"['deal', 'swop', 'craft', 'trade', 'patronage', 'barter', 'business_deal', 'sell', 'swap', 'merchandise', 'trade_wind', 'switch', 'trade_in']",Newark Evening News
+grain,"['granulate', 'cereal', 'grain', 'caryopsis', 'texture', 'ingrain', 'metric_grain', 'food_grain']",Newark Evening News
+draw,"['describe', 'line', 'get_out', 'force', 'make', 'sop_up', 'draw', 'take_in', 'attractor', 'hooking', 'draw_poker', 'lot', 'take_up', 'puff', 'take_out', 'imbibe', 'suck_up', 'pull_in', 'guide', 'pull_out', 'pull_back', 'eviscerate', 'thread', 'attracter', 'draw_in', 'drag', 'get', 'hook', 'withdraw', 'cast', 'depict', 'reap', 'string', 'draw_off', 'delineate', 'tie', 'pass', 'pull', 'standoff', 'attraction', 'run', 'disembowel', 'suck', 'soak_up', 'attract', 'draw_play', 'haul', 'absorb', 'drawing_card', 'quarter', 'trace', 'draw_and_quarter', 'haulage']",Newark Evening News
+secretary's,[],Newark Evening News
+Hodges',[],Newark Evening News
+odds,"['betting_odds', 'odds']",Newark Evening News
+Society,"['gild', 'order', 'guild', 'society', 'beau_monde', 'bon_ton', 'fellowship', 'high_society', 'smart_set', 'social_club', 'lodge', 'club', 'companionship', 'company']",Newark Evening News
+farmers,"['farmer', 'Fannie_Farmer', 'sodbuster', 'Farmer', 'husbandman', 'Fannie_Merritt_Farmer', 'James_Leonard_Farmer', 'granger']",Newark Evening News
+is,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Newark Evening News
+insure,"['underwrite', 'see_to_it', 'guarantee', 'ascertain', 'ensure', 'control', 'cover', 'check', 'see', 'assure', 'secure', 'insure']",Newark Evening News
+their,[],Newark Evening News
+year,"['twelvemonth', 'year', 'class', 'yr']",Newark Evening News
+coast,"['glide', 'slide', 'seacoast', 'seashore', 'sea-coast', 'coast']",Newark Evening News
+interests,"['involvement', 'interestingness', 'interest_group', 'stake', 'occupy', 'pastime', 'sake', 'concern', 'pursuit', 'worry', 'matter_to', 'interest']",Newark Evening News
+apparent,"['apparent', 'evident', 'manifest', 'seeming', 'ostensible', 'patent', 'plain', 'unmistakable']",Newark Evening News
+posture,"['pose', 'posture', 'stance', 'model', 'bearing', 'military_posture', 'sit', 'military_strength', 'carriage', 'military_capability', 'strength', 'attitude', 'position']",Newark Evening News
+competition,"['contender', 'competition', 'contention', 'rival', 'contest', 'challenger', 'competitor', 'rivalry']",Newark Evening News
+month,"['calendar_month', 'month']",Newark Evening News
+at,"['atomic_number_85', 'At', 'at', 'astatine']",Newark Evening News
+upward,"['up', 'upwardly', 'upward', 'upwards']",Newark Evening News
+understanding,"['savvy', 'sympathize', 'translate', 'see', 'realise', 'understand', 'sympathise', 'understanding', 'agreement', 'interpret', 'empathise', 'discernment', 'empathize', 'apprehension', 'reason', 'intellect', 'sympathy', 'read', 'infer', 'realize']",Newark Evening News
+told,"['recite', 'order', 'say', 'severalize', 'secern', 'differentiate', 'tell_apart', 'narrate', 'separate', 'evidence', 'recount', 'severalise', 'tell', 'assure', 'state', 'distinguish', 'secernate', 'enjoin']",Newark Evening News
+fedora,"['felt_hat', 'homburg', 'Stetson', 'fedora', 'trilby']",Newark Evening News
+authoritarianism,"['one-man_rule', 'totalitarianism', 'authoritarianism', 'Caesarism', 'despotism', 'shogunate', 'dictatorship', 'tyranny', 'monocracy', 'absolutism', 'Stalinism']",Newark Evening News
+Communists,"['communist', 'Communist', 'commie']",Newark Evening News
+say,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",Newark Evening News
+were,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",Newark Evening News
+personal,['personal'],Newark Evening News
+being,"['constitute', 'existence', 'equal', 'being', 'organism', 'embody', 'comprise', 'cost', 'represent', 'make_up', 'live', 'be', 'exist', 'beingness', 'follow', 'personify']",Newark Evening News
+Jimmy,"['lever', 'pry', 'prise', 'jimmy', 'jemmy', 'prize']",Newark Evening News
+promised,"['predict', 'anticipate', 'promise', 'foretell', 'forebode', 'assure', 'prognosticate', 'call']",Newark Evening News
+much,"['a_great_deal', 'practically', 'much', 'lots', 'often', 'a_lot', 'very_much', 'a_good_deal']",Newark Evening News
+level,"['tear_down', 'flush', 'story', 'even', 'stage', 'stratum', 'pull_down', 'dismantle', 'unwavering', 'plane', 'level_off', 'take_down', 'charge', 'raze', 'point', 'spirit_level', 'level', 'layer', 'flat', 'storey', 'degree', 'tier', 'horizontal_surface', 'grade', 'even_out', 'rase', 'floor', 'tied']",Newark Evening News
+capacity,"['mental_ability', 'capacity', 'capability', 'content', 'electrical_capacity', 'capacitance']",Newark Evening News
+fell,"['return', 'savage', 'fly', 'decrease', 'roughshod', 'vicious', 'hide', 'settle', 'precipitate', 'go_down', 'diminish', 'fall_down', 'vanish', 'accrue', 'strike_down', 'lessen', 'light', 'felled_seam', 'hang', 'shine', 'fall', 'cut_down', 'fell', 'drop', 'come_down', 'flow', 'strike', 'pass', 'barbarous', 'descend', 'devolve', 'brutal', 'come', 'cruel']",Newark Evening News
+watching,"['take_in', 'see', 'keep_an_eye_on', 'watch', 'catch', 'find_out', 'look_out', 'observation', 'ascertain', 'view', 'watching', 'determine', 'check', 'watch_out', 'observance', 'observe', 'watch_over', 'learn', 'follow', 'look_on']",Newark Evening News
+patience,"['longanimity', 'forbearance', 'solitaire', 'patience']",Newark Evening News
+blue,"['risque', 'dismal', 'puritanical', 'dispirited', 'down', 'disconsolate', 'sorry', 'low', 'blasphemous', 'bluing', 'aristocratic', 'aristocratical', 'low-spirited', 'patrician', 'drab', 'amobarbital_sodium', 'racy', 'depressed', 'blue_angel', 'blue_sky', 'profane', 'blueish', 'gamy', 'Amytal', 'juicy', 'drear', 'blue-blooded', 'blueing', 'down_in_the_mouth', 'naughty', 'dark', 'wild_blue_yonder', 'blue_devil', 'bluish', 'blueness', 'blue', 'dreary', 'puritanic', 'spicy', 'gloomy', 'gamey', 'downcast', 'gentle', 'downhearted', 'grim', 'blue_air', 'dingy']",Newark Evening News
+natural,"['born', 'lifelike', 'raw', 'rude', 'cancel', 'instinctive', 'natural', 'innate']",Newark Evening News
+Federal,"['Federal_soldier', 'Federal', 'Fed', 'federal', 'Union_soldier', 'federal_official', 'Union']",Newark Evening News
+said,"['order', 'say', 'aver', 'said', 'allege', 'aforementioned', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'aforesaid', 'enjoin']",Newark Evening News
+neighboring,"['neighbour', 'neighboring', 'conterminous', 'neighbor', 'adjacent', 'contiguous']",Newark Evening News
+saw,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'sawing_machine', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'byword', 'get_wind', 'go_through', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'power_saw', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'proverb', 'fancy', 'consider', 'discover', 'saw', 'witness', 'get_word', 'visualize', 'project', 'realize', 'adage', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",Newark Evening News
+higher,"['eminent', 'gamey', 'higher', 'mellow', 'high', 'in_high_spirits', 'high-pitched', 'gamy']",Newark Evening News
+according,"['harmonise', 'consort', 'grant', 'accord', 'agree', 'according', 'harmonize', 'fit_in', 'allot', 'concord']",Newark Evening News
+America,"['U.S.', 'US', 'the_States', 'United_States_of_America', 'United_States', 'America', 'U.S.A.', 'USA']",Newark Evening News
+comfort,"['quilt', 'consolation', 'soothe', 'comfortableness', 'console', 'comforter', 'solace', 'comfort', 'ease', 'puff']",Newark Evening News
+unimportant,"['unimportant', 'insignificant']",Newark Evening News
+commodity,"['commodity', 'good', 'trade_good']",Newark Evening News
+rivalry,"['contention', 'rivalry', 'competition']",Newark Evening News
+problems,"['trouble', 'problem', 'job']",Newark Evening News
+Ciudad,[],Newark Evening News
+one,"['one', '1', 'unrivalled', 'I', 'unrivaled', 'unmatched', 'one_and_only', 'peerless', 'single', 'matchless', 'nonpareil', 'i', 'unitary', 'unmatchable', 'unity', 'ace', 'ane']",Newark Evening News
+probably,"['probably', 'in_all_probability', 'belike', 'likely', 'credibly', 'plausibly', 'in_all_likelihood', 'believably']",Newark Evening News
+culture,"['polish', 'acculturation', 'culture', 'cultivation', 'finish', 'civilization', 'refinement', 'civilisation']",Newark Evening News
+stride,"['footstep', 'pace', 'stride', 'step', 'tread']",Newark Evening News
+30,"['XXX', 'xxx', '30', 'thirty']",Newark Evening News
+successes,"['winner', 'succeeder', 'achiever', 'success']",Newark Evening News
+secretary,"['secretarial_assistant', 'repository', 'secretary', 'writing_table', 'escritoire', 'secretaire']",Newark Evening News
+disagreement,"['variance', 'disagreement', 'dissension', 'divergence', 'discrepancy', 'dissonance']",Newark Evening News
+concept,"['concept', 'construct', 'conception']",Newark Evening News
+else,[],Newark Evening News
+Organizations,"['arrangement', 'governing_body', 'brass', 'organisation', 'constitution', 'system', 'governance', 'organization', 'formation', 'establishment', 'administration']",Newark Evening News
+established,"['shew', 'lay_down', 'make', 'conventional', 'base', 'install', 'established', 'institute', 'constitute', 'instal', 'build', 'naturalized', 'accomplished', 'prove', 'found', 'demonstrate', 'show', 'ground', 'plant', 'effected', 'constituted', 'establish', 'set_up', 'give', 'launch']",Newark Evening News
+per,[],Newark Evening News
+House,"['household', 'star_sign', 'sign', 'theater', 'mansion', 'sign_of_the_zodiac', 'menage', 'home', 'put_up', 'planetary_house', 'business_firm', 'domiciliate', 'theatre', 'family', 'firm', 'house']",Newark Evening News
+may,"['May', 'Crataegus_laevigata', 'English_hawthorn', 'Crataegus_oxycantha', 'may', 'whitethorn']",Newark Evening News
+Interior,"['midland', 'Interior_Department', 'DoI', 'inside', 'Department_of_the_Interior', 'inner', 'home', 'internal', 'interior', 'Interior', 'upcountry', 'national']",Newark Evening News
+guess,"['opine', 'estimate', 'conjecture', 'hypothesis', 'hazard', 'gauge', 'surmisal', 'suppose', 'shot', 'guess', 'approximate', 'dead_reckoning', 'guesswork', 'reckon', 'venture', 'pretend', 'judge', 'imagine', 'surmise', 'supposition', 'infer', 'think', 'guessing', 'speculation']",Newark Evening News
+idea,"['estimation', 'approximation', 'estimate', 'musical_theme', 'theme', 'thought', 'melodic_theme', 'mind', 'idea']",Newark Evening News
+class,"['form', 'course', 'social_class', 'year', 'sort', 'separate', 'course_of_instruction', 'classify', 'sort_out', 'category', 'assort', 'socio-economic_class', 'course_of_study', 'division', 'family', 'class', 'stratum', 'grade']",Newark Evening News
+making,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'making', 'constitute', 'construct', 'cook', 'stool', 'devising', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'make_up', 'induce', 'name', 'attain', 'fashioning', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'qualification', 'realize', 'take_a_crap', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",Newark Evening News
+AFL-CIO,"['AFL-CIO', 'American_Federation_of_Labor_and_Congress_of_Industrial_Organizations']",Newark Evening News
+mostly,"['mostly', 'generally', 'more_often_than_not', 'by_and_large', 'largely', 'for_the_most_part']",Newark Evening News
+conflict,"['dispute', 'fight', 'struggle', 'conflict', 'difference', 'contravene', 'difference_of_opinion', 'run_afoul', 'infringe', 'engagement', 'battle']",Newark Evening News
+Secretary,"['secretarial_assistant', 'repository', 'secretary', 'writing_table', 'escritoire', 'secretaire']",Newark Evening News
+Nam,[],Newark Evening News
+state,"['state_of_matter', 'Department_of_State', 'commonwealth', 'United_States_Department_of_State', 'submit', 'province', 'posit', 'body_politic', 'tell', 'express', 'state', 'say', 'country', 'DoS', 'State', 'land', 'State_Department', 'nation', 'res_publica', 'put_forward']",Newark Evening News
+upturn,['upturn'],Newark Evening News
+another,"['some_other', 'another']",Newark Evening News
+removed,"['take_away', 'hit', 'polish_off', 'take_out', 'get_rid_of', 'off', 'remote', 'removed', 'move_out', 'bump_off', 'withdraw', 'slay', 'take', 'remove', 'dispatch', 'distant', 'absent', 'transfer', 'murder']",Newark Evening News
+prospective,['prospective'],Newark Evening News
+economic,"['economic', 'economical']",Newark Evening News
+new,"['unexampled', 'New', 'freshly', 'new', 'newly', 'raw', 'Modern', 'young', 'newfangled', 'fresh', 'novel']",Newark Evening News
+Outwardly,"['externally', 'outwardly']",Newark Evening News
+confronting,"['face', 'present', 'confront', 'face_up']",Newark Evening News
+train,"['trail', 'groom', 'condition', 'aim', 'gearing', 'civilise', 'power_train', 'coach', 'gear', 'school', 'take_aim', 'caravan', 'wagon_train', 'educate', 'develop', 'civilize', 'direct', 'discipline', 'train', 'check', 'geartrain', 'string', 'cultivate', 'rail', 'take', 'railroad_train', 'prepare']",Newark Evening News
+rich,"['robust', 'full-bodied', 'fat', 'productive', 'plenteous', 'deep', 'racy', 'rich', 'rich_people', 'ample', 'plentiful', 'fertile', 'copious']",Newark Evening News
+increase,"['gain', 'growth', 'increment', 'increase', 'addition', 'step-up']",Newark Evening News
+double,"['double_up', 'threefold', 'three-fold', 'image', 'reduplicate', 'twice', 'forked', 'doubling', 'two-fold', 'replicate', 'stunt_man', 'two-baser', 'two-base_hit', 'double', 'dual', 'doubled', 'doubly', 'repeat', 'treble', 'twofold', 'duplicate', 'two-bagger', 'stunt_woman', 'bivalent', 'look-alike', 'double_over', 'duple']",Newark Evening News
+formidable,"['redoubtable', 'unnerving', 'formidable']",Newark Evening News
+sentiment,"['view', 'thought', 'sentiment', 'persuasion', 'opinion']",Newark Evening News
+orders,"['put', 'range', 'place', 'society', 'monastic_order', 'regularise', 'consecrate', 'ordination', 'rate', 'enjoin', 'govern', 'prescribe', 'guild', 'order_of_magnitude', 'rules_of_order', 'tell', 'regulate', 'fiat', 'lodge', 'regularize', 'rescript', 'gild', 'order', 'edict', 'parliamentary_procedure', 'say', 'orderliness', 'Order', 'social_club', 'rank', 'dictate', 'grade', 'ordinate', 'ordering', 'arrange', 'ordain', 'decree', 'Holy_Order', 'set_up', 'purchase_order', 'parliamentary_law', 'club']",Newark Evening News
+unilateral,"['unilateral', 'one-sided']",Newark Evening News
+automation,"['automation', 'mechanization', 'mechanisation']",Newark Evening News
+produce,"['develop', 'get', 'grow', 'bring_about', 'produce', 'make', 'bring_out', 'give_rise', 'acquire', 'bring_forth', 'green_groceries', 'garden_truck', 'bring_on', 'farm', 'create', 'raise', 'green_goods']",Newark Evening News
+assessment,"['assessment', 'judgment', 'judgement', 'appraisal']",Newark Evening News
+special,"['exceptional', 'peculiar', 'special', 'extra', 'especial', 'limited', 'particular']",Newark Evening News
+control,"['manipulate', 'ensure', 'curb', 'command', 'see', 'ascendance', 'insure', 'mastery', 'ascendency', 'restraint', 'ascendence', 'master', 'operate', 'control_condition', 'see_to_it', 'ascertain', 'verify', 'check', 'assure', 'contain', 'dominance', 'moderate', 'controller', 'control', 'ascendancy', 'hold_in', 'hold', 'keep_in_line']",Newark Evening News
+under,"['under', 'below', 'nether']",Newark Evening News
+Republic,"['republic', 'democracy', 'commonwealth']",Newark Evening News
+those,[],Newark Evening News
+outlook,"['expectation', 'lookout', 'mind-set', 'outlook', 'prospect', 'mentality', 'mindset']",Newark Evening News
+Shriver,[],Newark Evening News
+quarter,"['poop', 'twenty-five_percent', 'tail', 'canton', 'stern', 'fourth_part', 'billet', 'fourth', 'one-quarter', 'quartern', 'draw', 'one-fourth', 'quarter', 'draw_and_quarter', 'after_part']",Newark Evening News
+lists,"['number', 'inclination', 'leaning', 'heel', 'list', 'name', 'lean', 'listing', 'tilt']",Newark Evening News
+taxes,"['tax', 'task', 'taxation', 'taxis', 'revenue_enhancement', 'assess']",Newark Evening News
+breach,"['falling_out', 'rift', 'rupture', 'gap', 'offend', 'break', 'infract', 'transgress', 'violate', 'go_against', 'breach', 'severance']",Newark Evening News
+pacemaker,"['cardiac_pacemaker', 'artificial_pacemaker', 'pacesetter', 'pacer', 'SA_node', 'sinoatrial_node', 'pacemaker']",Newark Evening News
+Navy,"['navy', 'United_States_Navy', 'USN', 'US_Navy', 'navy_blue', 'dark_blue', 'naval_forces', 'Navy']",Newark Evening News
+if,[],Newark Evening News
+Freeman's,[],Newark Evening News
+boost,"['promote', 'boost', 'hike', 'encouragement', 'encourage', 'hike_up', 'supercharge', 'further', 'rise', 'cost_increase', 'advance']",Newark Evening News
+optimistic,"['affirmative', 'optimistic']",Newark Evening News
+fiasco,"['fiasco', 'debacle']",Newark Evening News
+also,"['besides', 'also', 'likewise', 'as_well', 'too']",Newark Evening News
+grace,"['beautify', 'embellish', 'decorate', 'grace_of_God', 'adorn', 'deck', 'grace', 'Grace', 'free_grace', 'state_of_grace', 'gracility', 'goodwill', 'ornament', 'seemliness', 'saving_grace', 'blessing', 'thanksgiving', 'good_will']",Newark Evening News
+powers,"['great_power', 'superpower', 'mogul', 'force', 'ability', 'major_power', 'tycoon', 'business_leader', 'powerfulness', 'world_power', 'king', 'big_businessman', 'magnate', 'mightiness', 'index', 'office', 'might', 'power', 'top_executive', 'baron', 'exponent']",Newark Evening News
+rate,"['pace', 'range', 'order', 'charge_per_unit', 'place', 'value', 'rank', 'rate', 'grade']",Newark Evening News
+issue,"['number', 'return', 'supply', 'come_out', 'emerge', 'upshot', 'egress', 'outlet', 'emergence', 'issuance', 'issue', 'payoff', 'exit', 'way_out', 'outcome', 'consequence', 'bring_out', 'go_forth', 'progeny', 'make_out', 'topic', 'publication', 'offspring', 'put_out', 'cut', 'release', 'takings', 'write_out', 'issuing', 'government_issue', 'matter', 'yield', 'proceeds', 'take', 'publish', 'result', 'subject', 'event', 'effect', 'come_forth', 'military_issue']",Newark Evening News
+enjoyment,"['delectation', 'use', 'enjoyment']",Newark Evening News
+along,"['on', 'along']",Newark Evening News
+long,"['long', 'prospicient', 'tenacious', 'farseeing', 'foresighted', 'retentive', 'hanker', 'recollective', 'longsighted', 'yearn', 'foresightful', 'farsighted']",Newark Evening News
+could,[],Newark Evening News
+we,[],Newark Evening News
+unions,"['marriage', 'conglutination', 'spousal_relationship', 'pairing', 'North', 'join', 'mating', 'wedlock', 'jointure', 'unification', 'union', 'Union', 'trades_union', 'coupling', 'labor_union', 'sexual_union', 'matrimony', 'trade_union', 'brotherhood', 'uniting', 'sum', 'conjugation']",Newark Evening News
+reached,"['arrive_at', 'make', 'hit', 'reach_out', 'contact', 'get_to', 'progress_to', 'get_through', 'turn_over', 'attain', 'achieve', 'pass', 'reach', 'pass_on', 'strain', 'hand', 'strive', 'get_hold_of', 'gain', 'give', 'accomplish', 'touch', 'extend_to']",Newark Evening News
+His,[],Newark Evening News
+led,"['LED', 'guide', 'contribute', 'conduce', 'head', 'precede', 'leave', 'direct', 'top', 'pass', 'moderate', 'chair', 'run', 'take', 'lead', 'result', 'conduct', 'go', 'light-emitting_diode', 'extend']",Newark Evening News
+while,"['patch', 'spell', 'piece', 'while']",Newark Evening News
+business,"['line', 'job', 'occupation', 'business_sector', 'patronage', 'business', 'business_organization', 'commercial_enterprise', 'stage_business', 'business_enterprise', 'business_organisation', 'line_of_work', 'concern', 'byplay', 'clientele', 'business_concern']",Newark Evening News
+green,"['dark-green', 'common', 'cat_valium', 'viridity', 'light-green', 'jet', 'unripened', 'commons', 'green', 'greens', 'leafy_vegetable', 'Green_River', 'greenness', 'greenish', 'putting_surface', 'unripe', 'gullible', 'K', 'Green', 'park', 'super_C', 'putting_green', 'fleeceable', 'special_K', 'immature', 'super_acid', 'William_Green', 'honey_oil']",Newark Evening News
+shrinking,"['wither', 'recoil', 'shrivel_up', 'wince', 'funk', 'quail', 'shrinking', 'reduce', 'shrinkage', 'contract', 'squinch', 'cringe', 'shrink', 'flinch', 'shrivel']",Newark Evening News
+goods,"['commodity', 'goodness', 'good', 'trade_good']",Newark Evening News
+presses,"['crusade', 'conjure', 'public_press', 'wardrobe', 'mechanical_press', 'insistence', 'pressure', 'printing_press', 'compact', 'exhort', 'weightlift', 'fight', 'iron', 'press_out', 'pressing', 'push', 'constrict', 'compress', 'military_press', 'squeeze', 'adjure', 'iron_out', 'press', 'weigh', 'weight-lift', 'entreat', 'urge', 'campaign', 'contract', 'closet', 'jam', 'insistency', 'imperativeness', 'beseech', 'bid', 'crush', 'agitate', 'urge_on']",Newark Evening News
+do,"['make', 'brawl', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'DO', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'Doctor_of_Osteopathy', 'doh', 'coiffe', 'ut', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'bash']",Newark Evening News
+head,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",Newark Evening News
+split,"['tear', 'break_up', 'carve_up', 'schism', 'rent', 'dissever', 'rive', 'cleave', 'rip', 'disconnected', 'burst', 'split', 'fragmented', 'break', 'break_open', 'separate', 'Split', 'split_up', 'snag', 'divide', 'part', 'disunited', 'stock_split']",Newark Evening News
+delicate,"['touchy', 'frail', 'finespun', 'fragile', 'ticklish', 'delicate', 'soft']",Newark Evening News
+courage,"['bravery', 'courage', 'courageousness', 'braveness']",Newark Evening News
+11,"['eleven', 'XI', '11', 'xi']",Newark Evening News
+without,[],Newark Evening News
+foreign,"['foreign', 'extraneous', 'alien', 'strange']",Newark Evening News
+forces,"['ram', 'military_group', 'force', 'draw', 'coerce', 'violence', 'pressure', 'personnel', 'force_play', 'push', 'military_unit', 'squeeze', 'impel', 'force-out', 'drive', 'strength', 'forcefulness', 'military_force', 'pull', 'force_out', 'hale', 'power', 'wedge', 'storm', 'thrust', 'effect']",Newark Evening News
+added,"['supply', 'lend', 'bestow', 'add', 'summate', 'total', 'bring', 'contribute', 'sum_up', 'tot_up', 'sum', 'tote_up', 'tot', 'add_together', 'append', 'tally', 'impart', 'add_up']",Newark Evening News
+"8,100",[],Newark Evening News
+applicants,"['applier', 'applicant']",Newark Evening News
+confirmed,"['sustain', 'corroborate', 'affirm', 'confirmed', 'support', 'confirm', 'substantiate', 'reassert']",Newark Evening News
+communism's,[],Newark Evening News
+Bottom,"['butt', 'stern', 'bed', 'tail_end', 'hindquarters', 'fanny', 'tush', 'merchantman', 'tail', 'buttocks', 'buns', 'posterior', 'bottomland', 'keister', 'freighter', 'tooshie', 'nates', 'prat', 'seat', 'ass', 'undersurface', 'hind_end', 'merchant_ship', 'bum', 'backside', 'behind', 'can', 'bottom', 'rear', 'rump', 'rear_end', 'bottom_of_the_inning', 'derriere', 'fundament', 'fathom', 'penetrate', 'arse', 'underside']",Newark Evening News
+man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",Newark Evening News
+role,"['part', 'character', 'use', 'role', 'purpose', 'office', 'persona', 'theatrical_role', 'function']",Newark Evening News
+Dillon,[],Newark Evening News
+better,"['punter', 'honest', 'undecomposed', 'easily', 'unspoilt', 'meliorate', 'skillful', 'intimately', 'adept', 'skilful', 'good', 'amend', 'practiced', 'proficient', 'beneficial', 'substantially', 'safe', 'improve', 'full', 'expert', 'salutary', 'bettor', 'respectable', 'upright', 'advantageously', 'unspoiled', 'effective', 'comfortably', 'well', 'break', 'better', 'near', 'ripe', 'in_effect', 'considerably', 'best', 'dependable', 'dear', 'wagerer', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'ameliorate', 'estimable']",Newark Evening News
+means,"['substance', 'mean_value', 'have_in_mind', 'imply', 'think', 'signify', 'way', 'think_of', 'agency', 'entail', 'stand_for', 'means', 'intend', 'mean']",Newark Evening News
+hopes,"['Leslie_Townes_Hope', 'Hope', 'hope', 'promise', 'go_for', 'trust', 'Bob_Hope', 'hop', 'hop-skip', 'skip', 'desire']",Newark Evening News
+Congress,"['congress', 'copulation', 'US_Congress', 'sexual_relation', 'relation', 'carnal_knowledge', 'United_States_Congress', 'coition', 'intercourse', 'sex_act', 'U.S._Congress', 'sexual_intercourse', 'sexual_congress', 'coitus', 'Congress']",Newark Evening News
+!,[],Newark Evening News
+action,"['sue', 'action', 'activity', 'action_at_law', 'process', 'activeness', 'natural_action', 'military_action', 'legal_action', 'litigate', 'carry_through', 'execute', 'action_mechanism', 'accomplish', 'carry_out', 'fulfill', 'natural_process', 'fulfil']",Newark Evening News
+exchange,"['interchange', 'telephone_exchange', 'exchange', 'replace', 'switch_over', 'rally', 'commutation', 'central', 'change', 'substitution', 'convert', 'substitute', 'switch', 'commute']",Newark Evening News
+Board's,[],Newark Evening News
+food,"['nutrient', 'food', 'intellectual_nourishment', 'solid_food', 'food_for_thought']",Newark Evening News
+It,"['IT', 'information_technology']",Newark Evening News
+State,"['state_of_matter', 'Department_of_State', 'commonwealth', 'United_States_Department_of_State', 'submit', 'province', 'posit', 'body_politic', 'tell', 'express', 'state', 'say', 'country', 'DoS', 'State', 'land', 'State_Department', 'nation', 'res_publica', 'put_forward']",Newark Evening News
+Prosperity,"['prosperity', 'successfulness']",Newark Evening News
+training,"['trail', 'groom', 'grooming', 'condition', 'aim', 'education', 'civilise', 'coach', 'school', 'take_aim', 'preparation', 'educate', 'develop', 'civilize', 'direct', 'discipline', 'train', 'check', 'cultivate', 'rail', 'take', 'training', 'prepare', 'breeding']",Newark Evening News
+task,"['labor', 'tax', 'job', 'project', 'undertaking', 'task', 'chore']",Newark Evening News
+That,[],Newark Evening News
+first,"['number_one', 'beginning', 'showtime', 'inaugural', 'low', 'maiden', 'first-class_honours_degree', 'for_the_first_time', 'low_gear', 'kickoff', 'first_off', 'first_of_all', 'first_gear', 'initiatory', 'number_1', 'offset', 'get-go', 'initiative', 'world-class', 'outset', 'first_base', 'firstly', 'foremost', 'starting_time', 'start', 'commencement', 'first', '1st']",Newark Evening News
+puts,"['put', 'put_option', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",Newark Evening News
+otherwise,"['otherwise', 'other_than', 'differently']",Newark Evening News
+clearer,"['vindicated', 'clean-cut', 'light', 'well-defined', 'readable', 'absolved', 'decipherable', 'percipient', 'cleared', 'clear-cut', 'unclouded', 'clear', 'clean', 'exculpated', 'unmortgaged', 'open', 'exonerated']",Newark Evening News
+weeks,"['week', 'calendar_week', 'workweek', 'hebdomad']",Newark Evening News
+Goldberg,"['Goldberg', 'Reuben_Lucius_Goldberg', 'Rube_Goldberg']",Newark Evening News
+Ultimately,"['in_the_end', 'finally', 'at_long_last', 'at_last', 'ultimately']",Newark Evening News
+calm,"['composure', 'calmness', 'quieten', 'calm', 'chill_out', 'calm_down', 'lull', 'still', 'quiet', 'tranquil', 'unagitated', 'tranquillize', 'becalm', 'calm_air', 'cool_off', 'tranquillise', 'settle_down', 'tranquilize', 'steady', 'equanimity', 'sedate', 'cool_it', 'serene', 'simmer_down']",Newark Evening News
+faction,"['junto', 'faction', 'camarilla', 'cabal', 'sect']",Newark Evening News
+than,[],Newark Evening News
+possibility,"['possibility', 'theory', 'opening', 'hypothesis', 'possibleness', 'possible_action']",Newark Evening News
+aside,"['aside', 'away', 'apart', 'excursus', 'divagation', 'digression', 'by', 'parenthesis']",Newark Evening News
+conditions,"['condition', 'consideration', 'term', 'status', 'stipulate', 'conditions', 'weather_condition', 'atmospheric_condition', 'experimental_condition', 'discipline', 'train', 'qualify', 'check', 'shape', 'weather', 'precondition', 'specify', 'circumstance', 'stipulation']",Newark Evening News
+reduction,"['reduction', 'decrease', 'reducing', 'simplification', 'step-down', 'diminution']",Newark Evening News
+Prince,['prince'],Newark Evening News
+have,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'wealthy_person', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'rich_person', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Newark Evening News
+democratic,"['democratic', 'popular', 'Democratic']",Newark Evening News
+hopeful,"['aspirant', 'promising', 'wannabee', 'aspirer', 'wannabe', 'hopeful', 'bright']",Newark Evening News
+recruits,"['enter', 'inscribe', 'military_recruit', 'enroll', 'levy', 'recruit', 'enlistee', 'enrol', 'raise']",Newark Evening News
+diet,"['diet', 'dieting']",Newark Evening News
+Reserve,"['military_reserve', 'reservation', 'set_aside', 'reticence', 'earmark', 'stockpile', 'taciturnity', 'appropriate', 'backlog', 'second-stringer', 'book', 'hold', 'modesty', 'substitute', 'reserve', 'allow']",Newark Evening News
+Viet,[],Newark Evening News
+Bosch,"['Bosch', 'Hieronymus_Bosch', 'Jerom_Bos']",Newark Evening News
+concern,"['vexation', 'business_organization', 'business_organisation', 'occupy', 'refer', 'care', 'bear_on', 'business', 'concern', 'worry', 'business_concern', 'come_to', 'touch_on', 'relate', 'have-to_doe_with', 'interest', 'pertain', 'fear', 'headache', 'touch']",Newark Evening News
+Deterrent,"['handicap', 'deterrent', 'baulk', 'check', 'balk', 'hinderance', 'hindrance', 'impediment']",Newark Evening News
+didn't,[],Newark Evening News
+little,"['slight', 'lilliputian', 'petty', 'footling', 'niggling', 'little', 'trivial', 'short', 'minuscule', 'picayune', 'small', 'piffling', 'fiddling', 'piddling']",Newark Evening News
+free,"['unloose', 'gratis', 'discharge', 'absolve', 'give_up', 'justify', 'disembarrass', 'liberal', 'devoid', 'exempt', 'spare', 'loose', 'barren', 'disengage', 'free', 'costless', 'detached', 'release', 'unblock', 'complimentary', 'dislodge', 'relieve', 'unloosen', 'free_people', 'resign', 'unfreeze', 'innocent', 'destitute', 'gratuitous', 'liberate', 'relinquish', 'rid']",Newark Evening News
+threatened,"['imperil', 'threaten', 'endanger', 'jeopardize', 'menace', 'jeopardise', 'peril', 'threatened']",Newark Evening News
+opposition,"['Opposition', 'opposition', 'opponent', 'resistance', 'foeman', 'oppositeness', 'confrontation', 'foe', 'opposite', 'enemy']",Newark Evening News
+labor,"['trade_union_movement', 'fag', 'Labour', 'grind', 'British_Labour_Party', 'moil', 'push', 'tug', 'labor_movement', 'proletariat', 'confinement', 'labor', 'lying-in', 'labour', 'travail', 'drive', 'DoL', 'dig', 'childbed', 'Department_of_Labor', 'Labor_Department', 'Labour_Party', 'Labor', 'project', 'undertaking', 'task', 'drudge', 'parturiency', 'working_class', 'toil']",Newark Evening News
+assistants,"['supporter', 'help', 'helper', 'assistant']",Newark Evening News
+promote,"['promote', 'boost', 'encourage', 'advertise', 'upgrade', 'advertize', 'push', 'further', 'elevate', 'kick_upstairs', 'raise', 'advance']",Newark Evening News
+provide,"['provide', 'supply', 'ply', 'cater', 'render', 'bring_home_the_bacon', 'put_up', 'offer', 'allow_for', 'furnish', 'allow', 'leave']",Newark Evening News
+get,"['generate', 'sustain', 'experience', 'father', 'bugger_off', 'make', 'bring', 'draw', 'set_about', 'dumbfound', 'suffer', 'aim', 'cause', 'nonplus', 'stupefy', 'vex', 'grow', 'mother', 'pay_off', 'fuck_off', 'stick', 'have', 'start_out', 'engender', 'acquire', 'catch', 'find', 'get_down', 'incur', 'pay_back', 'arrest', 'scram', 'develop', 'get', 'buzz_off', 'set_out', 'commence', 'baffle', 'beget', 'gravel', 'convey', 'begin', 'drive', 'induce', 'amaze', 'obtain', 'mystify', 'become', 'let', 'capture', 'pose', 'arrive', 'fix', 'stimulate', 'puzzle', 'take', 'beat', 'produce', 'flummox', 'perplex', 'contract', 'come', 'go', 'fetch', ""get_under_one's_skin"", 'bring_forth', 'start', 'receive', 'sire', 'bewilder']",Newark Evening News
+struggle,"['scramble', 'fight', 'conflict', 'struggle', 'shin', 'shinny', 'sputter', 'contend', 'clamber', 'skin', 'battle']",Newark Evening News
+since,[],Newark Evening News
+cut,"['geld', 'curve', 'cut_back', 'shortened', 'cutting_off', 'switch_off', 'thinned', 'abbreviate', 'edit', 'weakened', 'slashed', 'slash', 'issue', 'track', 'trim', 'trim_down', 'foreshorten', 'shorten', 'slew', 'deletion', 'cutting', 'gash', 'make_out', 'veer', 'hack', 'prune', 'turn_out', 'mown', 'disregard', 'cut', 'excision', 'trim_back', 'sheer', 'cold_shoulder', 'ignore', 'cut_off', 'turn_off', 'write_out', 'cut_down', 'rationalize', 'rationalise', 'emasculated', 'thin_out', 'burn', 'undercut', 'gelded', 'swerve', 'slue', 'skip', 'baseball_swing', 'reduce', 'tailor', 'contract', 'abridge', 'trimmed', 'edit_out', 'cut_of_meat', 'dilute', 'trend', 'slice', 'bring_down', 'stinger', 'thin', 'swing', 'snub']",Newark Evening News
+Asia,['Asia'],Newark Evening News
+acres,"['Accho', 'Akko', 'Akka', 'estate', 'demesne', 'acres', 'acre', 'landed_estate', 'land', 'Acre']",Newark Evening News
+going,"['plump', 'break_down', 'endure', 'departure', 'go_away', 'perish', 'choke', 'kick_the_bucket', 'get_going', 'live', 'die', ""cash_in_one's_chips"", 'croak', 'function', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'blend_in', 'expire', 'operate', 'leaving', 'hold_out', 'pass_away', 'passing', 'work', 'last', 'depart', 'get', 'decease', 'loss', 'conk_out', 'fit', 'release', 'move', 'live_on', 'go_bad', 'going', 'going_away', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'sledding', 'conk', 'lead', 'blend', 'go', 'sound', 'survive', 'drop_dead', 'extend', 'snuff_it', 'start', 'rifle', 'fail', 'expiration', 'give_out', 'travel', 'give_way']",Newark Evening News
+The,[],Newark Evening News
+show,"['render', 'shew', 'show_up', 'evidence', 'register', 'usher', 'evince', 'testify', 'indicate', 'demo', 'bear_witness', 'express', 'record', 'prove', 'point', 'appearance', 'depict', 'designate', 'display', 'demonstrate', 'show', 'picture', 'exhibit', 'read', 'establish', 'present']",Newark Evening News
+source,"['seed', 'beginning', 'reference', 'root', 'rootage', 'origin', 'informant', 'author', 'source', 'germ', 'reservoir', 'generator']",Newark Evening News
+neck,"['make_out', 'neck', 'cervix', 'neck_opening']",Newark Evening News
+due,"['referable', 'imputable', 'ascribable', 'due']",Newark Evening News
+friction,"['rubbing', 'friction', 'detrition', 'clash']",Newark Evening News
+lasted,"['hold_up', 'endure', 'live_on', 'live', 'go', 'survive', 'hold_out', 'last']",Newark Evening News
+are,"['constitute', 'equal', 'are', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'personify', 'exist', 'follow', 'ar']",Newark Evening News
+allies,"['Allies', 'ally', 'allies', 'friend']",Newark Evening News
+willing,"['bequeath', 'willing', 'volition', 'uncoerced', 'unforced', 'will', 'leave']",Newark Evening News
+declared,"['stated', 'declared', 'declare', 'adjudge', 'hold', 'announce']",Newark Evening News
+ago,"['agone', 'ago']",Newark Evening News
+reason,"['intellect', 'reason', 'reason_out', 'reasonableness', 'rationality', 'argue', 'understanding', 'conclude', 'cause', 'grounds', 'ground']",Newark Evening News
+corpsman,[],Newark Evening News
+part,"['break_up', 'contribution', 'portion', 'partly', 'character', 'persona', 'percentage', 'disunite', 'partially', 'piece', 'function', 'section', 'start_out', 'component', 'set_off', 'component_part', 'constituent', 'theatrical_role', 'split', 'depart', 'set_out', 'role', 'break', 'office', 'take_off', 'separate', 'set_forth', 'split_up', 'voice', 'region', 'parting', 'part', 'divide', 'start', 'share', 'division']",Newark Evening News
+this,[],Newark Evening News
+world,"['mankind', 'earthly_concern', 'humanity', 'planetary', 'humans', 'macrocosm', 'earth', 'world-wide', 'globe', 'cosmos', 'domain', 'worldly_concern', 'Earth', 'man', 'global', 'human_beings', 'creation', 'existence', 'reality', 'universe', 'world', 'public', 'humankind', 'worldwide', 'populace', 'human_race']",Newark Evening News
+congressional,['congressional'],Newark Evening News
+his,[],Newark Evening News
+policy,"['insurance', 'insurance_policy', 'policy']",Newark Evening News
+Had,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Newark Evening News
+recognize,"['tell_apart', 'accredit', 'greet', 'realize', 'spot', 'distinguish', 'make_out', 'know', 'acknowledge', 'realise', 'agnize', 'agnise', 'recognize', 'recognise', 'discern', 'pick_out']",Newark Evening News
+desirability,"['oomph', 'desirableness', 'desirability', 'sex_appeal']",Newark Evening News
+surprise,"['surprisal', 'surprise', 'storm']",Newark Evening News
+objective,"['documentary', 'object_lens', 'objective', 'target', 'nonsubjective', 'object_glass', 'object', 'accusative', 'aim', 'objective_lens']",Newark Evening News
+jobs,"['line', 'Book_of_Job', 'job', 'occupation', 'problem', 'business', 'farm_out', 'line_of_work', 'task', 'Job', 'chore', 'caper', 'speculate', 'subcontract']",Newark Evening News
+convinced,"['convinced', 'convince', 'positive', 'win_over', 'confident', 'convert']",Newark Evening News
+recommendation,"['testimonial', 'passport', 'recommendation', 'good_word']",Newark Evening News
+whole,"['unhurt', 'whole', 'hale', 'entirely', 'all', 'unscathed', 'unit', 'completely', 'totally', 'altogether', 'wholly', 'unharmed', 'solid', 'unanimous']",Newark Evening News
+force,"['ram', 'military_group', 'force', 'draw', 'coerce', 'violence', 'pressure', 'personnel', 'force_play', 'push', 'military_unit', 'squeeze', 'impel', 'force-out', 'drive', 'strength', 'forcefulness', 'military_force', 'pull', 'force_out', 'hale', 'power', 'wedge', 'storm', 'thrust', 'effect']",Newark Evening News
+needs,"['necessitate', 'needs', 'postulate', 'demand', 'call_for', 'of_necessity', 'motivation', 'want', 'indigence', 'involve', 'necessarily', 'motive', 'penury', 'take', 'inevitably', 'require', 'ask', 'pauperism', 'pauperization', 'need']",Newark Evening News
+complex,"['building_complex', 'complex', 'coordination_compound', 'composite']",Newark Evening News
+imagination,"['resourcefulness', 'imagination', 'mental_imagery', 'imaging', 'vision', 'imagery', 'imaginativeness', 'resource']",Newark Evening News
+age,"['get_on', 'maturate', 'historic_period', 'years', 'old_age', 'age', 'mature', 'eld', 'geezerhood', 'senesce', 'long_time']",Newark Evening News
+By,"['away', 'by', 'aside', 'past']",Newark Evening News
+extends,"['draw_out', 'stretch_forth', 'gallop', 'reach_out', 'protract', 'broaden', 'stretch', 'hold_out', 'put_out', 'poke_out', 'stretch_out', 'offer', 'cover', 'carry', 'prolong', 'pass', 'strain', 'run', 'widen', 'lead', 'continue', 'unfold', 'go', 'exsert', 'extend', 'expand']",Newark Evening News
+doesn't,[],Newark Evening News
+benefits,"['welfare', 'gain', 'profit', 'benefit', 'do_good']",Newark Evening News
+Stone,"['Harlan_F._Stone', 'stone', 'gemstone', 'Harlan_Fisk_Stone', 'Oliver_Stone', 'Lucy_Stone', 'Edward_Durell_Stone', 'Harlan_Stone', 'Isidor_Feinstein_Stone', 'lapidate', 'endocarp', 'gem', 'rock', 'I._F._Stone', 'Harlan_Fiske_Stone', 'pit', 'Stone']",Newark Evening News
+its,"['IT', 'information_technology']",Newark Evening News
+Commissioner,['commissioner'],Newark Evening News
+off,"['forth', 'turned', 'slay', 'bump_off', 'off', 'dispatch', 'remove', 'cancelled', 'away', 'murder', 'hit', 'polish_off', 'sour']",Newark Evening News
+Conservation,"['preservation', 'conservation']",Newark Evening News
+fight,"['crusade', 'combat', 'scrap', 'engagement', 'defend', 'competitiveness', 'fight', 'conflict', 'fight_down', 'push', 'fighting', 'press', 'contend', 'struggle', 'oppose', 'fight_back', 'battle', 'campaign', 'agitate']",Newark Evening News
+observers,"['observer', 'beholder', 'commentator', 'percipient', 'perceiver']",Newark Evening News
+likely,"['probably', 'in_all_probability', 'belike', 'likely', 'potential', 'in_all_likelihood', 'probable']",Newark Evening News
+tract,"['nerve_tract', 'pathway', 'nerve_pathway', 'tract', 'parcel', 'piece_of_land', 'piece_of_ground', 'parcel_of_land', 'pamphlet']",Newark Evening News
+over,"['all_over', 'terminated', ""o'er"", 'over', 'concluded', 'complete', 'ended']",Newark Evening News
+craft-industrial,[],Newark Evening News
+hurricane,['hurricane'],Newark Evening News
+outsmarted,"['outwit', 'beat', 'outmaneuver', 'overreach', 'outmanoeuvre', 'circumvent', 'outsmart', 'outfox']",Newark Evening News
+work,"['piece_of_work', 'employment', 'make', 'bring', 'function', 'solve', 'wreak', 'oeuvre', 'operate', 'exploit', 'do_work', 'crop', 'exercise', 'work', 'mould', 'knead', 'form', 'workplace', 'process', 'body_of_work', 'work_out', 'forge', 'play', 'make_for', 'cultivate', 'run', 'study', 'act_upon', 'act', 'shape', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",Newark Evening News
+What's,[],Newark Evening News
+President,"['President', 'Chief_Executive', 'chairwoman', 'president', 'chairman', 'prexy', 'United_States_President', 'chairperson', 'chair', 'President_of_the_United_States']",Newark Evening News
+feed,"['run', 'bung', 'feed', 'course', 'tip', 'eat', 'prey', 'flow', 'give', 'fee', 'fertilise', 'feed_in', 'fertilize', 'provender', 'feast']",Newark Evening News
+craft,"['craftiness', 'craft', 'trade', 'workmanship', 'guile', 'cunning', 'wiliness', 'slyness', 'craftsmanship', 'foxiness']",Newark Evening News
+But,"['simply', 'merely', 'only', 'just', 'but']",Newark Evening News
+Mitchell,"['Reginald_Joseph_Mitchell', 'Maria_Mitchell', 'Mitchell', 'R._J._Mitchell', 'Margaret_Munnerlyn_Mitchell', 'John_Mitchell', 'Arthur_Mitchell', 'William_Mitchell', 'Margaret_Mitchell', 'Billy_Mitchell']",Newark Evening News
+youths,"['young_person', 'younker', 'young', 'early_days', 'youthfulness', 'juvenility', 'spring_chicken', 'youth']",Newark Evening News
+strength,"['force', 'military_strength', 'specialty', 'posture', 'potency', 'metier', 'persuasiveness', 'military_posture', 'durability', 'enduringness', 'forte', 'effectiveness', 'long_suit', 'military_capability', 'strength', 'lastingness', 'forcefulness', 'intensity_level', 'strong_suit', 'strong_point', 'speciality', 'intensity']",Newark Evening News
+then,"['then', 'and_so', 'and_then', 'so']",Newark Evening News
+requires,"['involve', 'expect', 'necessitate', 'take', 'want', 'command', 'postulate', 'require', 'ask', 'demand', 'call_for', 'need']",Newark Evening News
+subordinates,"['subdue', 'hyponym', 'subordinate', 'foot_soldier', 'subordinate_word', 'underling', 'subsidiary']",Newark Evening News
+White,"['bloodless', 'blank', 'whiten', 'Patrick_Victor_Martindale_White', 'egg_white', 'Andrew_Dickson_White', 'livid', 'White_River', 'tweed', 'flannel', 'Theodore_Harold_White', 'Andrew_D._White', 'E._B._White', 'T._H._White', 'albumen', 'Caucasian', 'Elwyn_Brooks_White', 'blanched', 'ashen', 'whitened', 'lily-white', 'gabardine', 'White', 'White_person', 'Edward_D._White', 'Stanford_White', 'Edward_Douglas_White_Jr.', 'white', 'ovalbumin', 'clean', 'Edward_White', 'whiteness', 'white-hot', 'snowy', 'Patrick_White']",Newark Evening News
+missing,"['leave_out', 'pretermit', 'escape', 'overlook', 'absent', 'lose', 'overleap', 'drop', 'missing', 'wanting', 'lacking', 'lack', 'neglect', 'omit', 'miss']",Newark Evening News
+near,"['draw_near', 'good', 'approximate', 'about', 'draw_close', 'skinny', 'approach', 'come_on', 'most', 'go_up', 'penny-pinching', 'nearly', 'cheeseparing', 'well-nigh', 'close', 'near', 'nigh', 'virtually', 'dear', 'come_near', 'almost']",Newark Evening News
+longer,"['long', 'prospicient', 'tenacious', 'farseeing', 'yearner', 'foresighted', 'retentive', 'thirster', 'recollective', 'longsighted', 'foresightful', 'farsighted', 'longer']",Newark Evening News
+they,[],Newark Evening News
+Recently,"['latterly', 'of_late', 'recently', 'lately', 'late']",Newark Evening News
+attraction,"['attraction', 'magnet', 'attractive_force', 'draw', 'attractor', 'attractive_feature', 'drawing_card', 'attractiveness', 'attracter']",Newark Evening News
+improvement,"['melioration', 'betterment', 'improvement', 'advance']",Newark Evening News
+payments,"['payment', 'requital', 'defrayal', 'defrayment']",Newark Evening News
+must,"['moldiness', 'mustiness', 'must']",Newark Evening News
+high,"['senior_high_school', 'eminent', 'gamey', 'heights', 'senior_high', 'mellow', 'highschool', 'high_school', 'high_up', 'high', 'luxuriously', 'high_gear', 'in_high_spirits', 'high-pitched', 'richly', 'gamy']",Newark Evening News
+really,"['very', 'genuinely', 'really', 'in_truth', 'truly', 'rattling', 'real', 'actually']",Newark Evening News
+survive,"['hold_up', 'subsist', 'endure', 'pull_through', 'live_on', 'live', 'go', 'make_it', 'pull_round', 'outlive', 'survive', 'exist', 'outlast', 'hold_out', 'last', 'come_through']",Newark Evening News
+Balaguer's,[],Newark Evening News
+undertaking,"['labor', 'take_in_charge', 'guarantee', 'tackle', 'project', 'contract', 'take_on', 'set_about', 'undertaking', 'task', 'undertake', 'attempt']",Newark Evening News
+reluctance,"['hesitation', 'indisposition', 'hesitancy', 'reluctance', 'disinclination']",Newark Evening News
+surviving,"['hold_up', 'subsist', 'endure', 'pull_through', 'live_on', 'live', 'go', 'make_it', 'pull_round', 'outlive', 'survive', 'exist', 'outlast', 'hold_out', 'surviving', 'living', 'last', 'come_through']",Newark Evening News
+cattle,"['oxen', 'kine', 'cows', 'cattle', 'Bos_taurus']",Newark Evening News
+sponsored,"['buy_at', 'frequent', 'patronise', 'shop_at', 'sponsor', 'patronize', 'shop']",Newark Evening News
+whose,[],Newark Evening News
+on,"['on', 'along']",Newark Evening News
+although,[],Newark Evening News
+Trujillo,[],Newark Evening News
+responsive,"['responsive', 'reactive', 'antiphonal']",Newark Evening News
+given,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'disposed', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'minded', 'leave', 'presumption', 'turn_over', 'granted', 'move_over', 'feed', 'throw', 'commit', 'chip_in', 'tending', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'apply', 'open', 'apt', 'give', 'present', 'precondition', 'hold', 'given', 'give_way', 'sacrifice']",Newark Evening News
+resistance,"['opposition', 'resistance', 'ohmic_resistance', 'resistivity', 'electric_resistance', 'electrical_resistance', 'impedance', 'resistor', 'underground', 'immunity']",Newark Evening News
+jobless,"['out_of_work', 'jobless', 'idle']",Newark Evening News
+Walter,"['Bruno_Walter', 'Walter']",Newark Evening News
+primary,"['primary_quill', 'chief', 'elementary', 'basal', 'primary', 'primary_winding', 'elemental', 'main', 'primary_coil', 'master', 'primary_feather', 'principal', 'primary_election']",Newark Evening News
+price,"['monetary_value', 'terms', 'cost', 'toll', 'price', 'Price', 'Mary_Leontyne_Price', 'damage', 'Leontyne_Price']",Newark Evening News
+the,[],Newark Evening News
+stop,"['stoppage', 'stop', 'closure', 'terminate', 'give_up', 'occlusion', 'blockage', 'stop_over', 'stopover', 'discontinue', 'blockade', 'kibosh', 'lay_off', 'catch', 'turn_back', 'stay', 'period', 'arrest', 'block_off', 'quit', 'plosive_consonant', 'plosive_speech_sound', 'point', 'block', 'layover', 'check', 'break', 'contain', 'hold_on', 'end', 'intercept', 'cease', 'barricade', 'occlusive', 'hold_back', 'hitch', 'full_stop', 'finish', 'plosive', 'stop_consonant', 'full_point', 'block_up', 'halt', 'bar', 'diaphragm', 'break_off']",Newark Evening News
+Treasury,"['First_Lord_of_the_Treasury', 'United_States_Treasury', 'treasury', 'exchequer', 'Treasury', 'Treasury_obligations', 'Department_of_the_Treasury', 'Treasury_Department']",Newark Evening News
+Yankees,"['Yankee', 'New_Englander', 'Yankee-Doodle', 'Northerner', 'Yank']",Newark Evening News
+Self-criticism,['self-criticism'],Newark Evening News
+hat,"['hat', 'chapeau', 'lid']",Newark Evening News
+fewer,"['few', 'fewer']",Newark Evening News
+so,"['sol', 'thusly', 'therefore', 'indeed', 'and_so', 'soh', 'thus', 'thence', 'then', 'and_then', 'hence', 'so']",Newark Evening News
+unemployment,['unemployment'],Newark Evening News
+February's,[],Newark Evening News
+maintenance,"['sustenance', 'maintenance', 'sustainment', 'alimony', 'upkeep', 'criminal_maintenance', 'sustentation', 'care']",Newark Evening News
+innovation,"['institution', 'conception', 'excogitation', 'introduction', 'innovation', 'design', 'origination', 'initiation', 'instauration', 'founding', 'invention', 'foundation', 'creation']",Newark Evening News
+from,[],Newark Evening News
+future,"['hereafter', 'time_to_come', 'succeeding', 'future_tense', 'next', 'future', 'futurity']",Newark Evening News
+many,['many'],Newark Evening News
+million,"['million', '1000000', 'gazillion', 'meg', 'jillion', 'one_thousand_thousand', 'trillion', 'billion', 'zillion']",Newark Evening News
+volume,"['volume', 'mass', 'book', 'loudness', 'intensity', 'bulk']",Newark Evening News
+restoration,"['return', 'renovation', 'refurbishment', 'restitution', 'Restoration', 'regaining', 'restoration']",Newark Evening News
+race,"['airstream', 'cannonball_along', 'hasten', 'hie', 'race', 'wash', 'step_on_it', 'bucket_along', 'subspecies', 'slipstream', 'raceway', 'pelt_along', 'backwash', 'hotfoot', 'run', 'belt_along', 'speed', 'rush_along', 'rush']",Newark Evening News
+there,"['there', 'at_that_place', 'on_that_point', 'thither', 'in_that_location', 'in_that_respect']",Newark Evening News
+different,"['different', 'dissimilar', 'unlike']",Newark Evening News
+response,"['response', 'reaction', 'reply', 'answer', 'reception']",Newark Evening News
+Communist,"['communist', 'Communist', 'commie', 'communistic']",Newark Evening News
+potent,"['stiff', 'virile', 'powerful', 'potent', 'strong']",Newark Evening News
+wracked,"['bust_up', 'wrack', 'wreck']",Newark Evening News
+Feb.,[],Newark Evening News
+Air,"['line', 'aura', 'air', 'vent', 'atmosphere', 'airwave', 'breeze', 'publicize', 'air_travel', 'ventilate', 'aviation', 'strain', 'melody', 'tune', 'zephyr', 'broadcast', 'melodic_phrase', 'aerate', 'send', 'publicise', 'gentle_wind', 'bare', 'air_out', 'melodic_line', 'transmit', 'beam']",Newark Evening News
+Bontempo,[],Newark Evening News
+officials,"['official', 'functionary']",Newark Evening News
+increasing,"['increase', 'increasing']",Newark Evening News
+offer,"['crack', 'whirl', 'provide', 'pop_the_question', 'volunteer', 'offer_up', 'offering', 'bid', 'go', 'offer', 'put_up', 'extend', 'fling', 'pass', 'proffer', 'declare_oneself', 'propose', 'tender']",Newark Evening News
+healed,"['bring_around', 'recovered', 'cured', 'healed', 'cure', 'mend', 'heal']",Newark Evening News
+battlefront,"['battlefront', 'front', 'front_line']",Newark Evening News
+which,[],Newark Evening News
+freedom,"['freedom', 'exemption']",Newark Evening News
+officer,"['officeholder', ""ship's_officer"", 'police_officer', 'policeman', 'officer', 'military_officer']",Newark Evening News
+a,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",Newark Evening News
+presidential,['presidential'],Newark Evening News
+nation's,[],Newark Evening News
+thus,"['thusly', 'therefore', 'thus', 'thence', 'frankincense', 'gum_olibanum', 'hence', 'olibanum', 'so']",Newark Evening News
+Or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",Newark Evening News
+elections,['election'],Newark Evening News
+had,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",Newark Evening News
+doing,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'coiffe', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",Newark Evening News
+growers,"['agriculturalist', 'raiser', 'cultivator', 'grower', 'agriculturist']",Newark Evening News
+housing,"['housing', 'put_up', 'living_accommodations', 'lodging', 'domiciliate', 'trapping', 'caparison', 'house']",Newark Evening News
+marauders,"['piranha', 'predator', 'marauder', 'vulture']",Newark Evening News
+put,"['put', 'put_option', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",Newark Evening News
+Mr.,"['Mr.', 'Mister', 'Mr']",Newark Evening News
+layers,"['bed', 'layer', 'stratum', 'level']",Newark Evening News
+pioneered,"['initiate', 'open_up', 'pioneer']",Newark Evening News
+even,"['still', 'fifty-fifty', 'even_out', 'flush', 'eve', 'even', 'level', 'regular', 'tied', 'yet', 'eventide', 'evening']",Newark Evening News
+season,"['flavour', 'temper', 'time_of_year', 'harden', 'mollify', 'flavor', 'season']",Newark Evening News
+durable,"['durable', 'undestroyable', 'long-lasting', 'long-wearing', 'perdurable', 'indestructible', 'lasting', 'long-lived']",Newark Evening News
+taxpayer,['taxpayer'],Newark Evening News
+pro-Western,[],Newark Evening News
+maintaining,"['sustain', 'asseverate', 'preserve', 'keep_up', 'observe', 'keep', 'maintain', 'exert', 'hold', 'conserve', 'wield', 'uphold', 'assert', 'defend']",Newark Evening News
+recent,"['recent', 'Recent_epoch', 'Holocene_epoch', 'late', 'Holocene', 'Recent']",Newark Evening News
+20,"['twenty', 'xx', '20', 'XX']",Newark Evening News
+warships,"['war_vessel', 'combat_ship', 'warship']",Newark Evening News
+mistakes,"['misunderstanding', 'misidentify', 'error', 'slip', 'misapprehension', 'mistake', 'fault', 'err']",Newark Evening News
+no,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",Newark Evening News
+support,"['supporting', 'sustenance', 'sustain', 'digest', 'financial_backing', 'endorse', 'plunk_for', 'patronage', 'affirm', 'endure', 'suffer', 'plump_for', 'stick_out', 'backing', 'defend', 'hold_up', 'corroborate', 'musical_accompaniment', 'bear_out', 'indorse', 'support', 'back_up', 'subscribe', 'funding', 'back', 'accompaniment', 'underpin', 'reenforcement', 'stomach', 'backup', 'livelihood', 'patronise', 'bear', 'tolerate', 'abide', 'financial_support', 'put_up', 'substantiate', 'fend_for', 'brook', 'patronize', 'keep', 'keep_going', 'bread_and_butter', 'confirm', 'stand', 'reinforcement', 'documentation', 'hold', 'living']",Newark Evening News
+Department,"['department', 'section']",Newark Evening News
+question,"['interrogative_sentence', 'interview', 'interrogation', 'motion', 'call_into_question', 'doubtfulness', 'wonder', 'enquiry', 'inquiry', 'oppugn', 'question', 'interrogative', 'head', 'doubt', 'dubiousness', 'query', 'interrogate']",Newark Evening News
+wrong,"['haywire', 'improper', 'unseasonable', 'wrongly', 'legal_injury', 'wrongfulness', 'ill-timed', 'wrong', 'damage', 'incorrect', 'untimely', 'awry', 'amiss', 'incorrectly', 'faulty']",Newark Evening News
+lost,"['suffer', 'missed', 'misplace', 'bewildered', 'miss', 'confounded', 'confused', 'lost', 'helpless', 'fall_behind', 'mazed', 'mislay', 'fall_back', 'turn_a_loss', 'lose', 'doomed', 'bemused', 'disoriented', 'drop_off', 'mixed-up', 'recede', 'at_sea', 'preoccupied', 'deep_in_thought', 'baffled', 'befuddled']",Newark Evening News
+parents,"['bring_up', 'rear', 'nurture', 'raise', 'parent']",Newark Evening News
+1961,[],Newark Evening News
+sliding,"['slew', 'slip', 'slide', 'slither', 'skid', 'slue', 'sliding']",Newark Evening News
+risk,"['risk', 'endangerment', 'risk_of_infection', 'risk_of_exposure', 'hazard', 'adventure', 'run_a_risk', 'take_a_chance', 'take_chances', 'gamble', 'lay_on_the_line', 'peril', 'chance', 'put_on_the_line', 'jeopardy', 'danger']",Newark Evening News
+shaking,"['palpitation', 'shake', 'judder', 'stir', 'shake_off', 'quivering', 'shakiness', 'shaking', 'trembling', 'escape_from', 'excite', 'shake_up', 'vibration', 'throw_off', 'quiver', 'stimulate', 'sway', 'rock', 'didder', 'agitate']",Newark Evening News
+deterrent,"['handicap', 'deterrent', 'baulk', 'check', 'balk', 'hinderance', 'hindrance', 'impediment']",Newark Evening News
+nil,"['cipher', 'nil', 'zip', 'aught', 'zero', 'nada', 'nothing', 'goose_egg', 'naught', 'zilch', 'cypher', 'nix', 'null', 'zippo']",Newark Evening News
+statistics,"['statistics', 'statistic']",Newark Evening News
+colleagues,"['fellow', 'workfellow', 'confrere', 'co-worker', 'fellow_worker', 'colleague']",Newark Evening News
+our,[],Newark Evening News
+impressed,"['print', 'shanghai', 'yarn-dye', 'move', 'impress', 'impressed', 'strike', 'instill', 'imprint', 'ingrain', 'affect']",Newark Evening News
+drop,"['deteriorate', 'discharge', 'pearl', 'dribble', 'cast_off', 'dangle', 'send_packing', 'miss', 'sink', 'degenerate', 'leave_out', 'cliff', 'set_down', 'shake_off', 'knock_off', 'dismiss', 'spend', 'strike_down', 'throw_away', 'omit', 'drib', 'free_fall', 'pretermit', 'expend', 'throw', 'overlook', 'cast', 'fall', 'drop_curtain', 'drop', 'fell', 'put_down', 'cut_down', 'throw_off', 'drop_cloth', 'neglect', 'drop_off', 'bead', 'unload', 'devolve', 'dip', 'send_away', 'drip', 'shed', 'flatten', 'drop-off', 'driblet', 'overleap', 'swing', 'drop_down']",Newark Evening News
+should,[],Newark Evening News
+program,"['broadcast', 'political_platform', 'platform', 'political_program', 'plan', 'syllabus', 'course_of_study', 'program', 'curriculum', 'computer_program', 'programme', 'computer_programme']",Newark Evening News
+Cape,"['ness', 'mantle', 'cape']",Newark Evening News
+shortening,"['foreshorten', 'reduce', 'cut', 'shorten', 'contract', 'abridge', 'bowdlerize', 'bowdlerise', 'castrate', 'abbreviate', 'shortening', 'expurgate']",Newark Evening News
+Initial,['initial'],Newark Evening News
+America's,[],Newark Evening News
+Public,"['public', 'populace', 'world']",Newark Evening News
+can't,[],Newark Evening News
+might,"['might', 'power', 'mightiness']",Newark Evening News
+dollar,"['dollar', 'one_dollar_bill', 'buck', 'dollar_bill', 'dollar_sign', 'clam', 'dollar_mark']",Newark Evening News
+7,"['vii', 'seven', '7', 'heptad', 'septenary', 'VII', 'septet', 'sevener']",Newark Evening News
+eat,"['exhaust', 'wipe_out', 'feed', 'eat', 'run_through', 'use_up', 'consume', 'eat_on', 'rust', 'deplete', 'eat_up', 'corrode']",Newark Evening News
+communism,['communism'],Newark Evening News
+pressures,"['hale', 'force', 'force_per_unit_area', 'coerce', 'pressing', 'pressure_sensation', 'squeeze', 'blackmail', 'insistency', 'imperativeness', 'insistence', 'air_pressure', 'pressure', 'blackjack', 'atmospheric_pressure', 'press', 'pressure_level']",Newark Evening News
+cent,"['penny', 'cent', 'centime']",Newark Evening News
+think,"['opine', 'cogitate', 'believe', 'suppose', 'guess', 'conceive', 'reckon', 'recall', 'intend', 'mean', 'recollect', 'consider', 'imagine', 'remember', 'think', 'cerebrate', 'call_back', 'call_up', 'retrieve']",Newark Evening News
+just,"['hardly', 'upright', 'just_now', 'simply', 'merely', 'only', 'scarcely', 'equitable', 'exactly', 'just', 'barely', 'but', 'scarce', 'fair', 'precisely', 'good']",Newark Evening News
+Harbor,"['entertain', 'nurse', 'harbour', 'haven', 'seaport', 'harbor', 'shield', 'hold']",Newark Evening News
+beauty,"['lulu', 'smasher', 'peach', 'sweetheart', 'dish', 'knockout', 'ravisher', 'beaut', 'looker', 'beauty', 'mantrap', 'stunner']",Newark Evening News
+None,['none'],Newark Evening News
+nation,"['commonwealth', 'country', 'Nation', 'Carry_Nation', 'body_politic', 'land', 'state', 'Carry_Amelia_Moore_Nation', 'nation', 'res_publica']",Newark Evening News
+Chatham,[],Newark Evening News
+undergo,['undergo'],Newark Evening News
+he,"['He', 'helium', 'atomic_number_2', 'he']",Newark Evening News
+folk,"['folk', 'kinfolk', 'phratry', 'kinsfolk', 'folk_music', 'common_people', 'folks', 'family_line', 'ethnic_music', 'sept', 'family', 'tribe']",Newark Evening News
+Cabinet,"['locker', 'storage_locker', 'console', 'cabinet']",Newark Evening News
+restore,"['mend', 'repair', 'furbish_up', 'reconstruct', 'restore', 'reinstate', 'touch_on', 'bushel', 'rejuvenate', 'doctor', 'regenerate', 'restitute', 'reestablish', 'fix']",Newark Evening News
+see,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",Newark Evening News
+production,"['yield', 'product', 'output', 'production']",Newark Evening News
+sighted,"['sight', 'sighted', 'spy']",Newark Evening News
+department,"['department', 'section']",Newark Evening News
+bastion,"['citadel', 'bastion']",Newark Evening News
+stores,"['computer_storage', 'memory_board', 'depot', 'entrepot', 'hive_away', 'fund', 'put_in', 'salt_away', 'stack_away', 'lay_in', 'computer_memory', 'storehouse', 'memory', 'shop', 'storage', 'stock', 'stash_away', 'store']",Newark Evening News
+remains,"['stiff', 'continue', 'remain', 'rest', 'stay', 'cadaver', 'persist', 'corpse', 'clay', 'stay_on', 'remains']",Newark Evening News
+would,[],Newark Evening News
+Of,[],Newark Evening News
+course,"['of_course', 'track', 'line', 'run', 'form', 'feed', 'course', 'course_of_action', 'course_of_instruction', 'flow', 'trend', 'course_of_study', 'path', 'row', 'naturally', 'class', 'grade']",Newark Evening News
+taxpayers,['taxpayer'],Newark Evening News
+ready,"['cook', 'gear_up', 'make', 'ready', 'set_up', 'prepare', 'set', 'quick', 'fix']",Newark Evening News
+Reuther,[],Newark Evening News
+survival,"['survival_of_the_fittest', 'natural_selection', 'survival', 'endurance', 'selection']",Newark Evening News
+history,"['story', 'chronicle', 'account', 'history']",Newark Evening News
+relief,"['fill-in', 'rilievo', 'rest', 'easement', 'easing', 'reliever', 'relief', 'rest_period', 'ministration', 'embossment', 'assuagement', 'backup', 'succour', 'relievo', 'respite', 'ease', 'substitute', 'stand-in', 'succor', 'alleviation', 'moderation', 'backup_man', 'sculptural_relief']",Newark Evening News
+government,"['governing', 'regime', 'politics', 'authorities', 'governance', 'government_activity', 'administration', 'government', 'political_science']",Newark Evening News
+waterfront,['waterfront'],Newark Evening News
+again,"['once_more', 'once_again', 'over_again', 'again']",Newark Evening News
+1,"['one', '1', 'I', 'single', 'i', 'unity', 'ace', 'ane']",Newark Evening News
+places,"['put', 'come_out', 'target', 'range', 'place', 'situation', 'aim', 'station', 'property', 'position', 'rate', 'lay', 'plaza', 'stead', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'seat', 'point', 'billet', 'commit', 'shoes', 'localize', 'identify', 'rank', 'office', 'pose', 'grade', 'localise', 'topographic_point', 'blank_space', 'home', 'spot', 'space', 'send', 'locate', 'lieu', 'berth', 'site', 'piazza']",Newark Evening News
+rare,"['rare', 'uncommon', 'rarified', 'rarefied']",Newark Evening News
+activity,"['action', 'activity', 'activeness', 'bodily_process', 'natural_action', 'bodily_function', 'body_process', 'natural_process']",Newark Evening News
+engaged,"['affiance', 'employ', 'mesh', 'engage', 'charter', 'lock', 'occupy', 'rent', 'in_use', 'intermeshed', 'pursue', 'set-aside', 'busy', 'operate', 'hire', 'occupied', 'plight', 'engaged', 'enlist', 'engross', 'wage', 'prosecute', 'betroth', 'booked', 'take', 'absorb', 'meshed', 'lease']",Newark Evening News
+confusion,"['confusion', 'muddiness', 'discombobulation', 'mix-up', 'confusedness', 'mental_confusion', 'disarray']",Newark Evening News
+of,[],Newark Evening News
+excuse,"['explain', 'apologise', 'self-justification', 'justify', 'condone', 'pardon', 'exempt', 'let_off', 'excuse', 'rationalize', 'rationalise', 'beg_off', 'alibi', 'exculpation', 'apology', 'apologize', 'relieve']",Newark Evening News
+Vive,[],Newark Evening News
+vigor,"['energy', 'vim', 'heartiness', 'dynamism', 'muscularity', 'vigor', 'zip', 'vigour']",Newark Evening News
+strike,"['work_stoppage', 'smasher', 'expunge', 'walk_out', 'hit', 'chance_on', 'take_up', 'collide_with', 'rap', 'assume', 'tap', 'mint', 'scratch', 'come_across', 'light_upon', 'happen_upon', 'shine', 'move', 'impress', 'smash', 'excise', 'fall', 'come_to', 'bang', 'attain', 'impinge_on', 'ten-strike', 'strickle', 'strike', 'come_upon', 'coin', 'fall_upon', 'discover', 'take', 'chance_upon', 'affect', 'run_into']",Newark Evening News
+Cod,"['put_on', 'take_in', 'rally', 'tantalize', 'dupe', 'ride', 'put_one_over', 'C.O.D.', 'collect', 'befool', 'pod', 'slang', 'twit', 'rag', 'tantalise', 'put_one_across', 'tease', 'razz', 'cash_on_delivery', 'bait', 'fool', 'cod', 'gull', 'seedcase', 'taunt', 'codfish', 'COD']",Newark Evening News
+below,"['beneath', 'infra', 'down_the_stairs', 'under', 'to_a_lower_place', 'at_a_lower_place', 'downstairs', 'below', 'on_a_lower_floor']",Newark Evening News
+seem,"['seem', 'appear', 'look']",Newark Evening News
+31,"['thirty-one', '31', 'xxxi']",Newark Evening News
+glamor,"['glamor', 'glamour']",Newark Evening News
+very,"['very', 'selfsame', 'identical', 'really', 'rattling', 'real']",Newark Evening News
+shape,"['condition', 'pattern', 'physique', 'figure', 'contour', 'material_body', 'bod', 'soma', 'conformation', 'build', 'anatomy', 'Supreme_Headquarters_Allied_Powers_Europe', 'flesh', 'regulate', 'physical_body', 'work', 'mould', 'form', 'cast', 'determine', 'forge', 'frame', 'embodiment', 'chassis', 'SHAPE', 'shape', 'configuration', 'human_body', 'influence', 'mold']",Newark Evening News
+settled,"['square_off', 'colonised', 'conciliate', 'settle', 'colonized', 'finalize', 'go_down', 'patch_up', 'sink', 'steady_down', 'get_back', 'decide', 'root', 'nail_down', 'go_under', 'adjudicate', 'take_root', 'make_up', 'fall', 'determine', 'finalise', 'resolve', 'settle_down', 'descend', 'settled', 'ensconce', 'square_up', 'locate', 'reconcile', 'subside']",Newark Evening News
+Labor,"['trade_union_movement', 'fag', 'Labour', 'grind', 'British_Labour_Party', 'moil', 'push', 'tug', 'labor_movement', 'proletariat', 'confinement', 'labor', 'lying-in', 'labour', 'travail', 'drive', 'DoL', 'dig', 'childbed', 'Department_of_Labor', 'Labor_Department', 'Labour_Party', 'Labor', 'project', 'undertaking', 'task', 'drudge', 'parturiency', 'working_class', 'toil']",Newark Evening News
+power,"['great_power', 'superpower', 'mogul', 'force', 'ability', 'major_power', 'tycoon', 'business_leader', 'powerfulness', 'world_power', 'king', 'big_businessman', 'magnate', 'mightiness', 'index', 'office', 'might', 'power', 'top_executive', 'baron', 'exponent']",Newark Evening News
+;,[],Newark Evening News
+preserving,"['bear_on', 'preserve', 'keep_up', 'continue', 'save', 'keep', 'carry_on', 'maintain', 'conserve', 'uphold']",Newark Evening News
+day,"['Day', 'daylight', 'twenty-four_hour_period', 'sidereal_day', 'Clarence_Day', 'day', '24-hour_interval', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'solar_day', 'daytime', 'twenty-four_hours']",Newark Evening News
+learn,"['memorise', 'teach', 'see', 'hear', 'get_wind', 'memorize', 'pick_up', 'watch', 'acquire', 'find_out', 'ascertain', 'determine', 'check', 'larn', 'discover', 'study', 'get_word', 'take', 'con', 'read', 'instruct', 'learn', 'get_a_line']",Newark Evening News
+performance,"['functioning', 'public_presentation', 'performance', 'operation', 'carrying_out', 'execution', 'carrying_into_action']",Newark Evening News
+weather,"['atmospheric_condition', 'conditions', 'endure', 'weather', 'brave', 'weather_condition', 'brave_out', 'upwind']",Newark Evening News
+automobile,"['motorcar', 'machine', 'car', 'auto', 'automobile']",Newark Evening News
+far,"['Army_for_the_Liberation_of_Rwanda', 'ALIR', 'Interahamwe', 'FAR', 'far', 'Former_Armed_Forces']",Newark Evening News
+initiative,"['first', 'go-ahead', 'enterprise', 'opening', 'enterprisingness', 'inaugural', 'initiatory', 'opening_move', 'maiden', 'initiative', 'first_step']",Newark Evening News
+sanctuary's,[],Newark Evening News
+family,"['folk', 'menage', 'sept', 'class', 'household', 'kinfolk', 'kinsfolk', 'house', 'kin', 'kinsperson', 'fellowship', 'family_unit', 'family', 'mob', 'phratry', 'syndicate', 'family_line', 'home', 'crime_syndicate', 'category']",Newark Evening News
+official,"['official', 'prescribed', 'functionary']",Newark Evening News
+spared,"['dispense_with', 'part_with', 'save', 'spare', 'give_up', 'spar']",Newark Evening News
+enabled,['enable'],Newark Evening News
+suspect,"['suspect', 'surmise', 'funny', 'fishy', 'mistrust', 'shady', 'distrust', 'suspicious', 'defendant']",Newark Evening News
+time,"['metre', 'time', 'prison_term', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'fourth_dimension']",Newark Evening News
+demonstrated,"['demo', 'exhibit', 'certify', 'manifest', 'shew', 'demonstrated', 'prove', 'establish', 'evidence', 'march', 'present', 'demonstrate', 'show', 'attest']",Newark Evening News
+place,"['put', 'come_out', 'target', 'range', 'place', 'situation', 'aim', 'station', 'property', 'position', 'rate', 'lay', 'plaza', 'stead', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'seat', 'point', 'billet', 'commit', 'shoes', 'localize', 'identify', 'rank', 'office', 'pose', 'grade', 'localise', 'topographic_point', 'blank_space', 'home', 'spot', 'space', 'send', 'locate', 'lieu', 'berth', 'site', 'piazza']",Newark Evening News
+remain,"['continue', 'remain', 'rest', 'stay', 'persist', 'stay_on']",Newark Evening News
+If,[],Newark Evening News
+Audubon,"['John_James_Audubon', 'Audubon']",Newark Evening News
+spurt,"['jet', 'spout', 'squirt', 'gush', 'spurt', 'forge', 'spirt']",Newark Evening News
+appeared,"['come_out', 'appear', 'look', 'seem', 'come_along']",Newark Evening News
+sales,"['cut-rate_sale', 'sale', 'sales_event', 'sales', 'gross_revenue', 'gross_sales', 'sales_agreement']",Newark Evening News
+Despite,"['disdain', 'contempt', 'scorn', 'despite']",Newark Evening News
+Trujillos,[],Newark Evening News
+win,"['get_ahead', 'profits', 'gain', 'pull_ahead', 'gain_ground', 'come_through', 'bring_home_the_bacon', 'succeed', 'acquire', 'winnings', 'win', 'make_headway', 'deliver_the_goods', 'advance']",Newark Evening News
+administration,"['governing_body', 'brass', 'judicature', 'governing', 'giving_medication', 'organisation', 'presidency', 'governance', 'disposal', 'organization', 'government', 'administration', 'government_activity', 'establishment', 'presidential_term']",Newark Evening News
+P.,[],Newark Evening News
+hailed,"['acclaim', 'come', 'hail', 'herald']",Newark Evening News
+exotic,"['alien', 'exotic']",Newark Evening News
+chief,"['chief', 'primary', 'headman', 'boss', 'gaffer', 'main', 'foreman', 'master', 'chieftain', 'head', 'honcho', 'tribal_chief', 'top_dog', 'principal']",Newark Evening News
+recreation,"['recreation', 'refreshment', 'diversion']",Newark Evening News
+hope,"['Leslie_Townes_Hope', 'Hope', 'hope', 'promise', 'go_for', 'trust', 'Bob_Hope', 'desire']",Newark Evening News
+1.5,[],Newark Evening News
+"30,000",[],Newark Evening News
+Weeks,"['week', 'calendar_week', 'workweek', 'hebdomad']",Newark Evening News
+where,[],Newark Evening News
+First,"['number_one', 'beginning', 'showtime', 'inaugural', 'low', 'maiden', 'first-class_honours_degree', 'for_the_first_time', 'low_gear', 'kickoff', 'first_off', 'first_of_all', 'first_gear', 'initiatory', 'number_1', 'offset', 'get-go', 'initiative', 'world-class', 'outset', 'first_base', 'firstly', 'foremost', 'starting_time', 'start', 'commencement', 'first', '1st']",Newark Evening News
+Cuba,"['Cuba', 'Republic_of_Cuba']",Newark Evening News
+compensation,"['compensation', 'recompense']",Newark Evening News
+people,"['mass', 'the_great_unwashed', 'citizenry', 'people', 'multitude', 'hoi_polloi', 'masses']",Newark Evening News
+returned,"['generate', 'return', 'render', 'repay', 'riposte', 'take_back', 'rejoin', 'turn_back', 'recall', 'refund', 'bring_back', 'come_back', 'reelect', 'fall', 'retrovert', 'retort', 'pass', 'regress', 'give_back', 'revert', 'yield', 'hark_back', 'deliver', 'devolve', 'give']",Newark Evening News
+American,"['American_language', 'American', 'American_English']",Newark Evening News
+friends,"['Quaker', 'admirer', 'friend', 'champion', 'ally', 'supporter', 'booster', 'Friend', 'acquaintance', 'protagonist']",Newark Evening News
+budget,['budget'],Newark Evening News
+that,[],Newark Evening News
+now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",Newark Evening News
+be,"['constitute', 'Be', 'equal', 'embody', 'cost', 'comprise', 'glucinium', 'represent', 'make_up', 'be', 'live', 'exist', 'follow', 'personify', 'beryllium', 'atomic_number_4']",Newark Evening News
+leader,"['leader', 'loss_leader', 'drawing_card']",Newark Evening News
+Sihanouk,[],Newark Evening News
+revitalize,"['regenerate', 'revitalise', 'revitalize']",Newark Evening News
+appraisal,"['assessment', 'estimation', 'estimate', 'appraisal']",Newark Evening News
+triumph,"['wallow', 'victory', 'exuberate', 'exult', 'crow', 'jubilate', 'triumph', 'rejoice', 'prevail', 'gloat']",Newark Evening News
+but,"['simply', 'merely', 'only', 'just', 'but']",Newark Evening News
+1960,[],Newark Evening News
+magic,"['deception', 'sorcerous', 'witching', 'charming', 'thaumaturgy', 'wizard', 'magic', 'magic_trick', 'conjuration', 'magical', 'trick', 'illusion', 'wizardly', 'legerdemain', 'conjuring_trick']",Newark Evening News
+establishment,"['institution', 'governing_body', 'brass', 'organisation', 'validation', 'ecesis', 'constitution', 'formation', 'organization', 'governance', 'administration', 'establishment']",Newark Evening News
+farmer's,[],Newark Evening News
+Sen.,[],Newark Evening News
+Then,"['then', 'and_so', 'and_then', 'so']",Newark Evening News
+headed,"['steer', 'direct', 'channelise', 'channelize', 'lead', 'point', 'headed', 'guide', 'maneuver', 'head_up', 'head', 'manoeuver', 'manoeuvre']",Newark Evening News
+either,['either'],Newark Evening News
+what,[],Newark Evening News
+Jersey,"['jersey', 'island_of_Jersey', 'T-shirt', 'Jersey', 'New_Jersey', 'tee_shirt', 'NJ', 'Garden_State']",Newark Evening News
+preservation,"['preservation', 'saving', 'conservation']",Newark Evening News
+further,"['farther', 'promote', 'boost', 'encourage', 'foster', 'further', 'far', 'advance']",Newark Evening News
+lives,"['subsist', 'experience', 'life', 'endure', 'live', 'animation', 'liveliness', 'lifetime', 'hold_up', 'lifespan', 'life_story', 'hold_out', 'sprightliness', 'last', 'life-time', 'spirit', 'aliveness', 'life_sentence', 'live_on', 'be', 'life_history', 'know', 'dwell', 'biography', 'go', 'survive', 'exist', 'inhabit', 'populate', 'living']",Newark Evening News
+sufficiently,['sufficiently'],Newark Evening News
+Freeman,"['freeman', 'freewoman']",Newark Evening News
+says,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",Newark Evening News
+three,"['iii', 'triad', 'leash', 'ternary', 'troika', 'terzetto', '3', 'trinity', 'triplet', 'trio', 'threesome', 'tierce', 'trine', 'deuce-ace', 'ternion', 'III', 'three', 'tercet', 'trey']",Newark Evening News
+dramatic,"['spectacular', 'dramatic', 'striking']",Newark Evening News
+not,"['non', 'not']",Newark Evening News
+planted,"['constitute', 'implanted', 'establish', 'imbed', 'deep-seated', 'embed', 'found', 'set', 'engraft', 'institute', 'ingrained', 'implant', 'plant', 'planted', 'deep-rooted']",Newark Evening News
+open,"['clear', 'exposed', 'opened', 'undetermined', 'unresolved', 'capable', 'surface', 'unfastened', 'loose', 'undefended', 'heart-to-heart', 'out-of-doors', 'overt', 'open_up', 'open_air', 'assailable', 'spread_out', 'undefendable', 'spread', 'unfold', 'afford', 'outdoors', 'candid', 'give', 'receptive', 'undecided', 'subject', 'open']",Newark Evening News
+schooling,"['civilize', 'school', 'schooling', 'train', 'civilise', 'cultivate', 'educate']",Newark Evening News
+living,"['sustenance', 'subsist', 'experience', 'life', 'endure', 'live', 'animation', 'hold_up', 'support', 'hold_out', 'last', 'livelihood', 'aliveness', 'live_on', 'be', 'know', 'dwell', 'keep', 'bread_and_butter', 'go', 'survive', 'exist', 'inhabit', 'surviving', 'populate', 'living']",Newark Evening News
+large,"['large', 'bombastic', 'great', 'vauntingly', 'big', 'enceinte', 'heavy', 'magnanimous', 'turgid', 'declamatory', 'gravid', 'orotund', 'with_child', 'boastfully', 'tumid', 'prominent', 'expectant']",Newark Evening News
+seek,"['essay', 'seek', 'try', 'look_for', 'assay', 'search', 'attempt']",Newark Evening News
+awed,"['awed', 'awe', 'awestruck', 'awful', 'awestricken']",Newark Evening News
+cost,"['monetary_value', 'toll', 'cost', 'price', 'be']",Newark Evening News
+Udall,[],Newark Evening News
+save,"['lay_aside', 'save', 'carry_through', 'redeem', 'economise', 'pull_through', 'spare', 'hold_open', 'make_unnecessary', 'economize', 'save_up', 'write', 'keep_open', 'relieve', 'preserve', 'deliver', 'keep', 'salvage', 'salve', 'bring_through']",Newark Evening News
+March,"['edge', 'butt', 'butt_on', 'march', 'March', 'marching_music', 'parade', 'Master_of_Architecture', 'marching', 'border', 'process', 'MArch', 'adjoin', 'borderland', 'demonstrate', 'exhibit', 'abut', 'marchland', 'Mar', 'butt_against', 'border_district']",Newark Evening News
+or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",Newark Evening News
+Craft,"['craftiness', 'craft', 'trade', 'workmanship', 'guile', 'cunning', 'wiliness', 'slyness', 'craftsmanship', 'foxiness']",Newark Evening News
+common,"['uncouth', 'unwashed', 'vulgar', 'commons', 'plebeian', 'green', 'coarse', 'usual', 'mutual', 'park', 'vernacular', 'rough-cut', 'common']",Newark Evening News
+Nor,[],Newark Evening News
+Organization,"['arrangement', 'governing_body', 'brass', 'organisation', 'constitution', 'system', 'governance', 'organization', 'formation', 'establishment', 'administration']",Newark Evening News
+convictions,"['sentence', 'strong_belief', 'judgment_of_conviction', 'condemnation', 'conviction', 'article_of_faith']",Newark Evening News
+egrets,['egret'],Newark Evening News
+Sargent,"['Sargent', 'John_Singer_Sargent']",Newark Evening News
+remote,"['outside', 'remote', 'distant', 'outback', 'remote_control', 'removed']",Newark Evening News
+federal,"['Federal_soldier', 'Federal', 'Fed', 'federal', 'Union_soldier', 'federal_official', 'Union']",Newark Evening News
+certainly,"['sure', 'for_sure', 'sure_as_shooting', 'for_certain', 'surely', 'certainly', 'sure_enough']",Newark Evening News
+cooperating,"['join_forces', 'collaborate', 'cooperate', 'get_together']",Newark Evening News
+1935,[],Newark Evening News
+record,"['enter', 'phonograph_recording', 'register', 'platter', 'phonograph_record', 'criminal_record', 'track_record', 'disc', 'record', 'memorialize', 'immortalize', 'book', 'put_down', 'show', 'record_book', 'read', 'immortalise', 'tape', 'commemorate', 'disk', 'memorialise']",Newark Evening News
+area,"['country', 'region', 'field', 'surface_area', 'expanse', 'domain', 'orbit', 'arena', 'sphere', 'area']",Newark Evening News
+predicting,"['predict', 'anticipate', 'auspicate', 'augur', 'promise', 'presage', 'foretell', 'prefigure', 'omen', 'portend', 'forebode', 'prognosticate', 'foreshadow', 'call', 'bode', 'betoken', 'forecast']",Newark Evening News
+miles,"['stat_mi', 'nautical_mile', 'mi', 'geographical_mile', 'international_nautical_mile', 'Admiralty_mile', 'international_mile', 'statute_mile', 'land_mile', 'Swedish_mile', 'mil', 'Roman_mile', 'sea_mile', 'knot', 'mile', 'air_mile', 'naut_mi']",Newark Evening News
+broadened,"['widen', 'broaden', 'extend', 'diversify', 'branch_out']",Newark Evening News
+offered,"['provide', 'pop_the_question', 'volunteer', 'offer_up', 'offer', 'put_up', 'extend', 'bid', 'proffer', 'declare_oneself', 'propose', 'tender']",Newark Evening News
+overcome,"['subdue', 'get_the_better_of', 'defeat', 'sweep_over', 'overcome', 'get_over', 'overwhelm', 'overpower', 'overtake', 'whelm', 'have_the_best', 'master', 'surmount', 'get_the_best']",Newark Evening News
+point,"['target', 'place', 'signal', 'tip', 'sharpen', 'stop', 'point_in_time', 'stage', 'aim', 'luff', 'compass_point', 'pointedness', 'betoken', 'indicate', 'breaker_point', 'channelise', 'bespeak', 'guide', 'maneuver', 'period', 'head', 'manoeuver', 'charge', 'decimal_point', 'manoeuvre', 'repoint', 'item', 'gunpoint', 'steer', 'direct', 'point', 'dot', 'power_point', 'distributor_point', 'level', 'designate', 'show', 'degree', 'detail', 'channelize', 'full_stop', 'spot', 'orient', 'taper', 'full_point', 'peak', 'percentage_point']",Newark Evening News
+security,"['security_measures', 'security_department', 'security_measure', 'certificate', 'security_system', 'security', 'surety', 'protection']",Newark Evening News
+Washington's,[],Newark Evening News
+pay,"['ante_up', 'yield', 'devote', 'pay_off', 'bear', 'salary', 'make_up', 'earnings', 'give', 'compensate', 'pay', 'wage', 'pay_up', 'remuneration']",Newark Evening News
+Perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",Newark Evening News
+swindling,"['scam', 'swindle', 'bunco', 'goldbrick', 'gyp', 'short-change', 'con', 'mulct', 'gip', 'rook', 'victimize', 'hornswoggle', 'defraud', 'nobble', 'diddle']",Newark Evening News
+strongest,"['stiff', 'unassailable', 'unattackable', 'substantial', 'strong', 'warm', 'firm', 'solid', 'hard', 'inviolable', 'secure', 'potent', 'impregnable']",Newark Evening News
+Provincetown,[],Newark Evening News
+will,"['bequeath', 'volition', 'testament', 'will', 'leave']",Newark Evening News
+interest,"['involvement', 'interestingness', 'interest_group', 'stake', 'occupy', 'pastime', 'sake', 'concern', 'pursuit', 'worry', 'matter_to', 'interest']",Newark Evening News
+Trujillo's,[],Newark Evening News
+wedded,"['hook_up_with', 'splice', 'wedded', 'espouse', 'marry', 'get_hitched_with', 'get_married', 'conjoin', 'tie', 'wed']",Newark Evening News
+Help,"['assistance', 'serve', 'assistant', 'aid', 'avail', 'help_oneself', 'helper', 'service', 'facilitate', 'supporter', 'help', 'assist']",Newark Evening News
+created,"['produce', 'make', 'create']",Newark Evening News
+insists,"['take_a_firm_stand', 'importune', 'assert', 'insist']",Newark Evening News
+space,"['infinite', 'place', 'blank', 'blank_space', 'distance', 'space', 'outer_space', 'quad']",Newark Evening News
+pledged,"['plight', 'wassail', 'sworn', 'pledged', 'drink', 'toast', 'pledge', 'subscribe', 'salute']",Newark Evening News
+go,"['crack', 'plump', 'break_down', 'endure', 'go_away', 'perish', 'choke', 'kick_the_bucket', 'go_game', 'live', 'die', 'get_going', ""cash_in_one's_chips"", 'croak', 'function', 'whirl', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'cristal', 'blend_in', 'expire', 'disco_biscuit', 'operate', 'tour', 'spell', 'hug_drug', 'hold_out', 'pass_away', 'work', 'last', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'offer', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'conk', 'Adam', 'lead', 'give_out', 'ecstasy', 'start', 'blend', 'go', 'turn', 'X', 'sound', 'extend', 'survive', 'fling', 'drop_dead', 'snuff_it', 'XTC', 'rifle', 'fail', 'travel', 'give_way']",Newark Evening News
+right,"['decent', 'rightfield', 'powerful', 'correct', 'good', 'mightily', 'proper', 'right_hand', 'rightfulness', 'justly', 'right-hand', 'flop', 'veracious', 'decently', 'compensate', 'redress', 'right_field', 'ripe', 'rectify', 'properly', 'aright', 'right_wing', 'in_good_order', 'right', 'right_on', 'the_right_way', 'correctly', 'mighty']",Newark Evening News
+announcement,"['promulgation', 'annunciation', 'declaration', 'proclamation', 'announcement']",Newark Evening News
+strikes,"['work_stoppage', 'smasher', 'expunge', 'walk_out', 'hit', 'chance_on', 'take_up', 'collide_with', 'rap', 'assume', 'tap', 'mint', 'scratch', 'come_across', 'light_upon', 'happen_upon', 'shine', 'move', 'impress', 'smash', 'excise', 'fall', 'come_to', 'bang', 'attain', 'impinge_on', 'ten-strike', 'strickle', 'strike', 'come_upon', 'coin', 'fall_upon', 'discover', 'take', 'chance_upon', 'affect', 'run_into']",Newark Evening News
+dissatisfaction,['dissatisfaction'],Newark Evening News
+can,"['pot', 'butt', 'give_notice', 'stern', 'sack', 'toilet', 'tail_end', 'terminate', 'hindquarters', 'fanny', 'tush', 'can_buoy', 'tail', 'stool', 'throne', 'buttocks', 'buns', 'john', 'posterior', 'keister', 'tooshie', 'nates', 'give_the_sack', 'prat', 'seat', 'bathroom', 'canful', 'give_the_axe', 'ass', 'put_up', 'privy', 'potty', 'hind_end', 'bum', 'backside', 'behind', 'displace', 'can', 'commode', 'force_out', 'bottom', 'rear', 'crapper', 'lav', 'send_away', 'rump', 'fire', 'tin_can', 'rear_end', 'derriere', 'lavatory', 'fundament', 'arse', 'dismiss', 'tin']",Newark Evening News
+successor,"['heir', 'successor', 'replacement']",Newark Evening News

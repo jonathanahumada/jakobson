@@ -1,0 +1,821 @@
+w,vector_semantico
+A,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",The Invisible Aborigine
+kept,"['celebrate', 'sustain', 'kept', 'save', 'keep_back', 'proceed', 'maintain', 'hold_open', 'prevent', 'unbroken', 'keep_on', 'keep_open', 'hold_on', 'stay_fresh', 'preserve', 'continue', 'observe', 'keep', 'restrain', 'retain', 'hold_back', 'hold', 'go_along', 'go_on']",The Invisible Aborigine
+left,"['get_out', 'leave_alone', 'go_away', 'left', 'left-hand', 'entrust', 'remaining', 'allow_for', 'exit', 'left_over', 'left_hand', 'go_out', 'pull_up_stakes', 'leftfield', 'go_forth', 'leftover', 'odd', 'impart', 'allow', 'leave', 'provide', 'depart', 'unexpended', 'left_wing', 'will', 'pass_on', 'bequeath', 'forget', 'leave_behind', 'left_field', 'lead', 'result', 'give']",The Invisible Aborigine
+worms,"['insect', 'wrestle', 'worm', 'louse', 'writhe', 'dirt_ball', 'squirm', 'wriggle', 'twist']",The Invisible Aborigine
+beckoned,"['wave', 'beckon']",The Invisible Aborigine
+hills,"['hill', 'Alfred_Hawthorne', 'J._J._Hill', 'Hill', ""pitcher's_mound"", 'James_Jerome_Hill', 'mound', 'Benny_Hill']",The Invisible Aborigine
+confined,"['throttle', 'restrain', 'trammel', 'enclose', 'captive', 'limit', 'imprisoned', 'restrict', 'bound', 'confine', 'detain', 'hold_in', 'jailed', 'hold', 'circumscribe', 'confined']",The Invisible Aborigine
+container,['container'],The Invisible Aborigine
+well-equipped,[],The Invisible Aborigine
+burning,"['sting', 'burning', 'incinerate', 'burn_off', 'bite', 'cut', 'glow', 'cauterize', 'electrocution', 'fire', 'combust', 'cauterise', 'burning_at_the_stake', 'burn_up', 'sunburn', 'burn', 'burn_down', 'combustion']",The Invisible Aborigine
+leaf,"['riff', 'leafage', 'leaf', 'flip', 'riffle', 'thumb', 'folio', 'flick', 'foliage']",The Invisible Aborigine
+second,"['s', 'endorse', 'moment', 'endorsement', '2nd', 'irregular', 'second', 'sec', 'indorse', 'arcsecond', 'back', 'indorsement', 'minute', 'secondly', 'mo', '2d', 'second_gear', 'bit', 'secondment', 'second_base', 'instant']",The Invisible Aborigine
+closest,"['stuffy', 'snug', 'tight', 'closelipped', 'closest', 'faithful', 'closemouthed', 'skinny', 'nighest', 'secretive', 'penny-pinching', 'nearest', 'cheeseparing', 'close', 'near', 'tightlipped', 'close-fitting', 'nigh', 'airless', 'confining', 'unaired']",The Invisible Aborigine
+started,"['come_out', 'pop_out', 'get_going', 'set_about', 'take_up', 'originate', 'start_out', 'jump', 'set_off', 'get_down', 'startle', 'initiate', 'pop', 'get', 'set_out', 'commence', 'depart', 'embark_on', 'bulge', 'bulge_out', 'begin', 'start_up', 'take_off', 'set_forth', 'part', 'go', 'bug_out', 'protrude', 'lead_off', 'start']",The Invisible Aborigine
+night,"['nighttime', 'Night', 'night', 'Nox', 'dark']",The Invisible Aborigine
+softened,"['yield', 'dull', 'muffled', 'damp', 'softened', 'relent', 'break', 'weaken', 'buffer', 'cushion', 'dampen', 'muted', 'mince', 'moderate', 'soften']",The Invisible Aborigine
+highest,"['eminent', 'gamey', 'mellow', 'high', 'in_high_spirits', 'high-pitched', 'gamy']",The Invisible Aborigine
+Occasionally,"['at_times', 'now_and_again', 'from_time_to_time', 'now_and_then', 'occasionally', 'on_occasion', 'once_in_a_while']",The Invisible Aborigine
+with,[],The Invisible Aborigine
+moments,"['second', 'bit', 'import', 'consequence', 'mo', 'here_and_now', 'instant', 'moment', 'present_moment', 'minute']",The Invisible Aborigine
+surprising,"['surprise', 'surprising', 'storm']",The Invisible Aborigine
+like,"['corresponding', 'wish', 'like', 'similar', 'ilk', 'same', 'alike', 'the_likes_of', 'comparable', 'the_like', 'care']",The Invisible Aborigine
+country,"['commonwealth', 'country', 'rural_area', 'body_politic', 'land', 'state', 'nation', 'res_publica', 'area']",The Invisible Aborigine
+fence,"['fencing', 'surround', 'fence_in', 'palisade', 'fence', 'contend', 'wall', 'argue', 'debate']",The Invisible Aborigine
+lived,"['hold_up', 'subsist', 'experience', 'endure', 'live_on', 'live', 'go', 'be', 'know', 'survive', 'exist', 'inhabit', 'dwell', 'hold_out', 'populate', 'last']",The Invisible Aborigine
+dignity,"['dignity', 'self-worth', 'self-respect', 'gravitas', 'lordliness', 'self-regard']",The Invisible Aborigine
+who,"['World_Health_Organization', 'WHO']",The Invisible Aborigine
+roughly,"['rough', 'around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",The Invisible Aborigine
+grazer,[],The Invisible Aborigine
+sniffing,"['sniffle', 'sniff', 'whiff']",The Invisible Aborigine
+pet,"['dearie', 'favorite', 'preferred', 'positron_emission_tomography', 'ducky', 'preferent', 'deary', 'best-loved', 'PET', 'favourite', 'pet', 'darling', 'favored']",The Invisible Aborigine
+behind,"['butt', 'stern', 'tail_end', 'hindquarters', 'fanny', 'tush', 'tail', 'buttocks', 'buns', 'in_arrears', 'posterior', 'keister', 'tooshie', 'nates', 'prat', 'seat', 'behindhand', 'ass', 'hind_end', 'bum', 'backside', 'behind', 'can', 'bottom', 'rear', 'rump', 'slow', 'rear_end', 'derriere', 'fundament', 'arse']",The Invisible Aborigine
+In,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",The Invisible Aborigine
+close,"['closing', 'stuffy', 'finis', 'fill_up', 'snug', 'tight', 'shut_down', 'closelipped', 'come_together', 'closely', 'faithful', 'closemouthed', 'conclude', 'last', 'ending', 'skinny', 'conclusion', 'finale', 'shut', 'secretive', 'penny-pinching', 'fold', 'cheeseparing', 'end', 'close', 'near', 'tightlipped', 'close-fitting', 'close_up', 'nigh', 'stopping_point', 'finish', 'airless', 'confining', 'closing_curtain', 'close_down', 'unaired']",The Invisible Aborigine
+direction,"['instruction', 'centering', 'steering', 'counsel', 'focal_point', 'way', 'management', 'guidance', 'focus', 'counseling', 'commission', 'charge', 'focusing', 'counselling', 'focussing', 'direction']",The Invisible Aborigine
+pinched,"['nip', 'adenoidal', 'pilfer', 'vellicate', 'gaunt', 'in_straitened_circumstances', 'tweet', 'lift', 'impecunious', 'cabbage', 'nasal', 'hard_up', 'squeeze', 'crimp', 'sneak', 'swipe', 'penniless', 'abstract', 'skeletal', 'hook', 'penurious', 'twinge', 'wasted', 'top', 'nobble', 'pinch', 'pinched', 'emaciated', 'bony', 'twitch', 'snarf', 'purloin', 'filch', 'cadaverous', 'haggard']",The Invisible Aborigine
+For,[],The Invisible Aborigine
+sixty,"['threescore', 'sixty', 'lx', 'LX', '60']",The Invisible Aborigine
+language,"['spoken_language', 'language', 'oral_communication', 'voice_communication', 'linguistic_process', 'speech', 'spoken_communication', 'words', 'terminology', 'speech_communication', 'nomenclature', 'lyric', 'linguistic_communication']",The Invisible Aborigine
+made,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'make_up', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'made', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",The Invisible Aborigine
+white,"['bloodless', 'blank', 'whiten', 'Patrick_Victor_Martindale_White', 'egg_white', 'Andrew_Dickson_White', 'livid', 'White_River', 'tweed', 'flannel', 'Theodore_Harold_White', 'Andrew_D._White', 'E._B._White', 'T._H._White', 'albumen', 'Caucasian', 'Elwyn_Brooks_White', 'blanched', 'ashen', 'whitened', 'lily-white', 'gabardine', 'White', 'White_person', 'Edward_D._White', 'Stanford_White', 'Edward_Douglas_White_Jr.', 'white', 'ovalbumin', 'clean', 'Edward_White', 'whiteness', 'white-hot', 'snowy', 'Patrick_White']",The Invisible Aborigine
+rock,"['rock-and-roll', 'stone', 'rock_and_roll', 'Rock', ""rock_'n'_roll"", 'John_Rock', 'sway', 'shake', 'rock_music', 'careen', 'rock', 'rock_candy', ""rock'n'roll"", 'tilt']",The Invisible Aborigine
+squatted,"['hunker', 'scrunch_up', 'squat', 'crouch', 'scrunch', 'hunker_down']",The Invisible Aborigine
+knowledge,"['cognition', 'noesis', 'knowledge']",The Invisible Aborigine
+body,"['trunk', 'dead_body', 'body', 'consistence', 'eubstance', 'torso', 'organic_structure', 'physical_structure', 'personify', 'soundbox', 'consistency']",The Invisible Aborigine
+range,"['range', 'mountain_chain', 'place', 'lay_out', 'straddle', 'pasture', 'mountain_range', 'chain_of_mountains', 'stove', 'chain', 'scope', 'rate', 'array', 'drift', 'image', 'range_of_mountains', 'ramble', 'kitchen_range', 'tramp', 'wander', 'crop', 'rove', 'stray', 'vagabond', 'roll', 'kitchen_stove', 'set_out', 'order', 'range_of_a_function', 'cast', 'browse', 'rank', 'reach', 'cooking_stove', 'grade', 'run', 'ambit', 'roam', 'graze', 'swan', 'compass', 'grasp', 'orbit']",The Invisible Aborigine
+toward,[],The Invisible Aborigine
+life,"['lifetime', 'life-time', 'spirit', 'aliveness', 'life', 'lifespan', 'biography', 'life_story', 'life_sentence', 'animation', 'life_history', 'liveliness', 'sprightliness', 'living']",The Invisible Aborigine
+impossible,"['inconceivable', 'unsufferable', 'impossible', 'unacceptable', 'insufferable', 'out_of_the_question', 'unimaginable']",The Invisible Aborigine
+fly,"['tent_flap', 'fly_front', 'wing', 'vaporize', 'fly', 'take_flight', 'fly_sheet', 'pilot', 'fell', 'vanish', 'flee', 'tent-fly', 'fly_ball', 'aviate', 'rainfly']",The Invisible Aborigine
+guessed,"['opine', 'imagine', 'venture', 'approximate', 'judge', 'estimate', 'hazard', 'reckon', 'infer', 'think', 'gauge', 'suppose', 'guess', 'pretend']",The Invisible Aborigine
+grease,"['grime', 'soil', 'dirt', 'stain', 'grease', 'lubricating_oil', 'filth', 'grunge']",The Invisible Aborigine
+to,[],The Invisible Aborigine
+in,"['atomic_number_49', 'indium', 'inwards', 'inch', 'IN', 'in', 'In', 'inward', 'Indiana', 'Hoosier_State']",The Invisible Aborigine
+down,"['pour_down', 'down_pat', 'bolt_down', 'shoot_down', 'dispirited', 'down', 'go_through', 'kill', 'low', 'drink_down', 'pull_down', 'low-spirited', 'pile', 'downwards', 'Down', 'devour', 'consume', 'depressed', 'belt_down', 'pop', 'fine-tune', 'refine', 'polish', 'down_in_the_mouth', 'cut_down', 'downward', 'downwardly', 'blue', 'knock_down', 'gloomy', 'John_L._H._Down', 'downcast', 'down_feather', 'push_down', 'land', 'toss_off', 'mastered', 'downhearted', 'grim']",The Invisible Aborigine
+low,"['Low', 'humiliated', 'low-down', 'low-pitched', 'abject', 'dispirited', 'down', 'David_Low', 'lowly', 'low', 'crushed', 'Sir_David_Alexander_Cecil_Low', 'low_gear', 'low-spirited', 'broken', 'first_gear', 'depressed', 'depression', 'depleted', 'scummy', 'humble', 'low-toned', 'moo', 'down_in_the_mouth', 'miserable', 'blue', 'gloomy', 'Sir_David_Low', 'downcast', 'scurvy', 'modest', 'downhearted', 'grim', 'first', 'small', 'humbled']",The Invisible Aborigine
+woven-root,[],The Invisible Aborigine
+They'll,[],The Invisible Aborigine
+road,"['road', 'route']",The Invisible Aborigine
+concentration,"['assiduousness', 'absorption', 'assiduity', 'concentration', 'denseness', 'immersion', 'compactness', 'tightness', 'density', 'engrossment']",The Invisible Aborigine
+around,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'round', 'just_about']",The Invisible Aborigine
+Its,"['IT', 'information_technology']",The Invisible Aborigine
+impulse,"['urge', 'pulsation', 'neural_impulse', 'nerve_impulse', 'momentum', 'nervous_impulse', 'whim', 'impulse', 'impulsion', 'impetus', 'pulsing', 'pulse', 'caprice']",The Invisible Aborigine
+air,"['line', 'aura', 'air', 'vent', 'atmosphere', 'airwave', 'breeze', 'publicize', 'air_travel', 'ventilate', 'aviation', 'strain', 'melody', 'tune', 'zephyr', 'broadcast', 'melodic_phrase', 'aerate', 'send', 'publicise', 'gentle_wind', 'bare', 'air_out', 'melodic_line', 'transmit', 'beam']",The Invisible Aborigine
+misperceives,['misperceive'],The Invisible Aborigine
+cities,"['city', 'urban_center', 'metropolis']",The Invisible Aborigine
+loose,"['unaffixed', 'unloose', 'escaped', 'easy', 'relax', 'at_large', 'liberal', 'idle', 'on_the_loose', 'loose', 'wanton', 'slack', 'free', 'light', 'release', 'unleash', 'informal', 'sluttish', 'loosen', 'unloosen', 'promiscuous', 'let_loose', 'liberate', 'lax', 'open']",The Invisible Aborigine
+finally,"['in_the_end', 'lastly', 'in_conclusion', 'finally', 'at_long_last', 'at_last', 'ultimately', 'last', 'eventually']",The Invisible Aborigine
+dangling,"['suspension', 'hanging', 'drop', 'dangling', 'dangle', 'swing']",The Invisible Aborigine
+hideous,"['outrageous', 'horrid', 'repulsive', 'horrific', 'hideous']",The Invisible Aborigine
+tire,"['wear_out', 'outwear', 'fatigue', 'weary', 'wear_upon', 'tire_out', 'exhaust', 'tyre', 'wear', 'play_out', 'sap', 'wear_down', 'bore', 'fag_out', 'tire', 'run_down', 'pall', 'jade', 'fag']",The Invisible Aborigine
+six,"['Captain_Hicks', 'six', 'VI', 'hexad', 'sextuplet', 'half_dozen', 'sextet', 'sestet', 'sixer', 'vi', 'sise', 'half-dozen', '6', 'half_a_dozen', 'six-spot']",The Invisible Aborigine
+flatland,[],The Invisible Aborigine
+loss,"['exit', 'loss', 'red_ink', 'departure', 'release', 'personnel_casualty', 'deprivation', 'going', 'red', 'passing', 'expiration']",The Invisible Aborigine
+ten-by-ten-mile,[],The Invisible Aborigine
+capering,['caper'],The Invisible Aborigine
+though,['though'],The Invisible Aborigine
+five,"['Phoebe', 'Little_Phoebe', 'v', 'quint', 'V', 'quintet', 'five-spot', 'fivesome', 'fin', 'basketball_team', '5', 'pentad', 'five', 'quintuplet', 'cinque']",The Invisible Aborigine
+half,"['half', 'one-half']",The Invisible Aborigine
+insect,"['insect', 'worm', 'dirt_ball', 'louse']",The Invisible Aborigine
+Damned,"['blasted', 'maledict', 'damn', 'infernal', 'blame', 'imprecate', 'damned', 'anathemize', 'unredeemed', 'deuced', 'goddamned', 'darned', 'blessed', 'anathemise', 'doomed', 'damnably', 'goddamn', 'unsaved', 'cursedly', 'goddam', 'bedamn', 'cursed', 'beshrew', 'blamed', 'curse']",The Invisible Aborigine
+:,[],The Invisible Aborigine
+lordly,"['august', 'lordly', 'supercilious', 'grand', 'sniffy', 'swaggering', 'haughty', 'overbearing', 'prideful', 'disdainful', 'imperious']",The Invisible Aborigine
+Land,"['commonwealth', 'Edwin_Herbert_Land', 'demesne', 'bring', 'shoot_down', 'dry_land', 'down', 'solid_ground', 'earth', 'set_down', 'estate', 'body_politic', 'landed_estate', 'state', 'domain', 'soil', 'country', 'set_ashore', 'acres', 'put_down', 'Din_Land', 'farming', 'ground', 'realm', 'shore', 'Land', 'terra_firma', 'land', 'kingdom', 'bring_down', 'nation', 'res_publica']",The Invisible Aborigine
+dirt,"['soil', 'grime', 'poop', 'turd', 'dirt', 'ungraded', 'stain', 'grease', 'malicious_gossip', 'filth', 'shite', 'crap', 'grunge', 'scandal', 'shit']",The Invisible Aborigine
+dry,"['prohibitionist', 'teetotal', 'dry_out', 'dry', 'ironical', 'ironic', 'wry', 'juiceless']",The Invisible Aborigine
+any,"['whatever', 'any', 'whatsoever']",The Invisible Aborigine
+them,[],The Invisible Aborigine
+Australian,"['Aboriginal_Australian', 'Aussie', 'Australian']",The Invisible Aborigine
+centuries,"['C', '100', 'hundred', 'one_C', 'century']",The Invisible Aborigine
+``,[],The Invisible Aborigine
+comes,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",The Invisible Aborigine
+consistency,"['body', 'consistency', 'consistence', 'eubstance']",The Invisible Aborigine
+'',[],The Invisible Aborigine
+held,"['held', 'sustain', 'view_as', 'make', 'curb', 'confine', 'keep_back', 'have_got', 'defend', 'hold_up', 'have', 'concur', 'maintain', 'support', 'admit', 'arrest', 'concord', 'entertain', 'accommodate', 'obligate', 'bear', 'throw', 'harbour', 'nurse', 'go_for', 'bind', 'book', 'check', 'contain', 'carry', 'obtain', 'prevail', 'defy', 'moderate', 'take_hold', 'halt', 'declare', 'take', 'agree', 'restrain', 'adjudge', 'keep', 'hold_back', 'retain', 'oblige', 'apply', 'harbor', 'control', 'give', 'hold_in', 'deem', 'take_for', 'hold', 'guard', 'withstand', 'reserve']",The Invisible Aborigine
+familiar,"['fellow', 'familiar', 'associate', 'intimate', 'companion', 'comrade', 'conversant', 'familiar_spirit']",The Invisible Aborigine
+shouting,"['shout_out', 'shouting', 'clapperclaw', 'cry', 'shout', 'yell', 'outcry', 'cry_out', 'exclaim', 'abuse', 'squall', 'blackguard', 'call', 'yelling', 'hollo', 'holler', 'cheering', 'call_out', 'scream']",The Invisible Aborigine
+falters,"['hesitation', 'bumble', 'faltering', 'waver', 'stumble', 'stutter', 'falter', 'stammer']",The Invisible Aborigine
+rain,"['rainfall', 'rain', 'pelting', 'rainwater', 'rain_down']",The Invisible Aborigine
+outback,"['outback', 'remote']",The Invisible Aborigine
+bothered,"['inconvenience_oneself', 'bothered', 'incommode', 'get_at', 'vex', 'trouble_oneself', 'disoblige', 'nettle', 'devil', 'get_to', 'rile', 'nark', 'inconvenience', 'rag', 'put_out', 'fazed', 'gravel', 'irritate', 'annoy', 'trouble', 'bother', 'chafe', 'discommode', 'daunted']",The Invisible Aborigine
+big,"['large', 'bighearted', 'self-aggrandising', 'openhanded', 'giving', 'big', 'cock-a-hoop', 'full-grown', 'enceinte', 'magnanimous', 'adult', 'liberal', 'crowing', 'swelled', 'braggy', 'bountiful', 'braggart', 'boastfully', 'great', 'self-aggrandizing', 'prominent', 'bragging', 'fully_grown', 'grownup', 'boastful', 'vauntingly', 'bounteous', 'expectant', 'handsome', 'heavy', 'gravid', 'vainglorious', 'with_child', 'bad', 'freehanded', 'grown']",The Invisible Aborigine
+minutes,"['proceedings', 'second', 'transactions', 'arcminute', 'bit', 'minutes', 'mo', 'hour', 'min', 'instant', 'moment', 'minute_of_arc', 'minute']",The Invisible Aborigine
+tree-clumps,[],The Invisible Aborigine
+dead,"['deadened', 'absolutely', 'perfectly', 'bushed', 'abruptly', 'beat', 'idle', 'suddenly', 'short', 'dead', 'drained', 'all_in', 'numb', 'utterly', 'utter', 'stagnant']",The Invisible Aborigine
+fastened,"['buttoned', 'tighten', 'tied', 'fasten', 'fastened', 'secure', 'fix']",The Invisible Aborigine
+red,"['red-faced', 'bolshie', 'reddish', 'redness', 'Bolshevik', 'reddened', 'red', 'flushed', 'scarlet', 'cherry-red', 'bolshy', 'ruby', 'loss', 'Red_River', 'cerise', 'Red', 'carmine', 'ruby-red', 'red_ink', 'crimson', 'violent', 'blood-red', 'ruddy', 'Marxist', 'cherry']",The Invisible Aborigine
+moment,"['second', 'bit', 'import', 'consequence', 'mo', 'here_and_now', 'instant', 'moment', 'present_moment', 'minute']",The Invisible Aborigine
+except,"['exclude', 'demur', 'leave_off', 'leave_out', 'except', 'take_out', 'omit']",The Invisible Aborigine
+every,['every'],The Invisible Aborigine
+unpleasant,['unpleasant'],The Invisible Aborigine
+thirty,"['XXX', 'xxx', '30', 'thirty']",The Invisible Aborigine
+bright,"['brilliant', 'lustrous', 'promising', 'undimmed', 'shiny', 'shining', 'burnished', 'vivid', 'brilliantly', 'brightly', 'hopeful', 'bright', 'smart']",The Invisible Aborigine
+you'll,[],The Invisible Aborigine
+beautiful,['beautiful'],The Invisible Aborigine
+hospitable,['hospitable'],The Invisible Aborigine
+placed,"['put', 'come_out', 'target', 'range', 'place', 'located', 'aim', 'station', 'rate', 'position', 'lay', 'placed', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'situated', 'point', 'commit', 'localize', 'identify', 'rank', 'pose', 'grade', 'localise', 'send', 'locate', 'site']",The Invisible Aborigine
+has,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'hour_angle', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'HA', 'hold', 'receive']",The Invisible Aborigine
+everything,[],The Invisible Aborigine
+constantly,"['always', 'perpetually', 'forever', 'constantly', 'incessantly', 'invariably']",The Invisible Aborigine
+was,"['constitute', 'WA', 'equal', 'Evergreen_State', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify', 'Washington']",The Invisible Aborigine
+countless,"['infinite', 'numberless', 'innumerous', 'myriad', 'unnumberable', 'multitudinous', 'unnumerable', 'innumerable', 'unnumbered', 'uncounted', 'countless']",The Invisible Aborigine
+years,"['years', 'yr', 'old_age', 'age', 'twelvemonth', 'class', 'days', 'eld', 'geezerhood', 'year', 'long_time']",The Invisible Aborigine
+hopping,"['skip', 'hop-skip', 'hop']",The Invisible Aborigine
+for,[],The Invisible Aborigine
+move,"['actuate', 'relocation', 'movement', 'make_a_motion', 'motility', 'proceed', 'be_active', 'motion', 'incite', 'motivate', 'prompt', 'move', 'impress', 'strike', 'locomote', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",The Invisible Aborigine
+straight,"['direct', 'directly', 'straightaway', 'straight', 'unbent', 'square', 'uncoiled', 'unbowed', 'true', 'full-strength', 'straightforward', 'straight_person', 'flat', 'heterosexual_person', 'neat', 'heterosexual', 'consecutive']",The Invisible Aborigine
+flat,"['mat', 'flatcar', 'directly', 'monotonic', 'prostrate', 'bland', 'savourless', 'monotone', 'two-dimensional', 'unconditional', 'flatbed', 'matte', '2-dimensional', 'categorical', 'flat_tire', 'savorless', 'plane', 'compressed', 'matt', 'apartment', 'flavorless', 'monotonous', 'straight', 'level', 'flat', 'insipid', 'categoric', 'matted', 'vapid', 'flavourless']",The Invisible Aborigine
+elaborately,"['intricately', 'in_an_elaborate_way', 'elaborately']",The Invisible Aborigine
+She,[],The Invisible Aborigine
+He,"['He', 'helium', 'atomic_number_2', 'he']",The Invisible Aborigine
+been,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Invisible Aborigine
+buggers,"['sodomise', 'sodomize', 'sodomite', 'bugger', 'sodomist', 'sod']",The Invisible Aborigine
+beyond,['beyond'],The Invisible Aborigine
+others,[],The Invisible Aborigine
+softly,"['gently', 'softly', 'lightly', 'piano', 'quietly']",The Invisible Aborigine
+merely,"['simply', 'merely', 'only', 'just', 'but']",The Invisible Aborigine
+room,"['way', 'room', 'elbow_room', 'board']",The Invisible Aborigine
+exhibits,"['parade', 'expose', 'exhibit', 'demo', 'display', 'present', 'march', 'demonstrate', 'show', 'showing']",The Invisible Aborigine
+heads,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",The Invisible Aborigine
+thickened,"['callous', 'thicken', 'thickened', 'calloused', 'inspissate']",The Invisible Aborigine
+looked,"['expect', 'appear', 'reckon', 'wait', 'look', 'attend', 'face', 'bet', 'depend', 'see', 'await', 'calculate', 'take_care', 'count', 'seem', 'front', 'search']",The Invisible Aborigine
+warm,"['warmly', 'warm_up', 'lovesome', 'fond', 'affectionate', 'warm', 'strong', 'ardent', 'quick', 'tender']",The Invisible Aborigine
+gulley,[],The Invisible Aborigine
+crawled,"['grovel', 'fawn', 'cringe', 'crawl', 'creep', 'cower']",The Invisible Aborigine
+some,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",The Invisible Aborigine
+stink,"['malodor', 'mephitis', 'foetor', 'malodour', 'reek', 'fetor', 'stink', 'stench']",The Invisible Aborigine
+followed,"['stick_with', 'succeed', 'accompany', 'espouse', 'postdate', 'keep_an_eye_on', 'watch', 'pursue', 'surveil', 'fall_out', 'stick_to', 'keep_abreast', 'play_along', 'survey', 'come_after', 'take_after', 'be', 'abide_by', 'conform_to', 'keep_up', 'observe', 'watch_over', 'comply', 'come', 'adopt', 'follow', 'trace', 'travel_along']",The Invisible Aborigine
+swept,"['sweep', 'sail', 'drag_in', 'tangle', 'swing', 'brush', 'broom', 'traverse', 'cross', 'embroil', 'sweep_up', 'swing_out', 'span', 'drag', 'swept']",The Invisible Aborigine
+horrible,"['ugly', 'frightful', 'atrocious', 'horrible', 'horrifying']",The Invisible Aborigine
+tortured,"['torture', 'excruciate', 'anguished', 'rack', 'tormented', 'torment', 'tortured']",The Invisible Aborigine
+and,[],The Invisible Aborigine
+wanders,"['range', 'betray', 'drift', 'ramble', 'weave', 'cheat_on', 'tramp', 'thread', 'wander', 'rove', 'stray', 'digress', 'cheat', 'vagabond', 'roll', 'wind', 'cast', 'cuckold', 'meander', 'roam', 'divagate', 'swan']",The Invisible Aborigine
+darker,"['dour', 'dismal', 'sullen', 'disconsolate', 'sorry', 'coloured', 'drab', 'glowering', 'black', 'drear', 'glum', 'benighted', 'obscure', 'dark', 'dark-skinned', 'blue', 'dreary', 'gloomy', 'non-white', 'colored', 'morose', 'saturnine', 'sinister', 'moody', 'sour', 'grim', 'dingy']",The Invisible Aborigine
+knows,"['experience', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'live', 'screw', 'have_it_off', 'do_it', 'cognize', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'acknowledge', 'recognise', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'cognise', 'sleep_with', 'eff', 'recognize', 'have_intercourse']",The Invisible Aborigine
+saltbush,['saltbush'],The Invisible Aborigine
+blink,"['blinking', 'eye_blink', 'winking', 'wink', 'nictitate', 'blink_away', 'winkle', 'nictitation', 'twinkle', 'blink', 'nictate', 'flash', 'nictation']",The Invisible Aborigine
+areas,"['country', 'region', 'field', 'surface_area', 'expanse', 'domain', 'orbit', 'arena', 'sphere', 'area']",The Invisible Aborigine
+did,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'coiffe', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",The Invisible Aborigine
+all,"['entirely', 'all', 'whole', 'completely', 'totally', 'altogether', 'wholly']",The Invisible Aborigine
+palm,"['medallion', 'palm_tree', 'palm', 'handle', 'laurel_wreath', 'thenar', 'decoration', 'ribbon', 'medal']",The Invisible Aborigine
+times,"['metre', 'time', 'prison_term', 'fourth_dimension', 'times', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'multiplication']",The Invisible Aborigine
+scuttling,"['scamper', 'scuttle', 'scurry', 'skitter']",The Invisible Aborigine
+out,"['come_out', 'forbidden', 'taboo', 'stunned', 'tabu', 'away', 'extinct', 'kayoed', 'prohibited', 'proscribed', 'come_out_of_the_closet', 'out', 'verboten', 'knocked_out', ""KO'd""]",The Invisible Aborigine
+beneath,"['at_a_lower_place', 'beneath', 'below', 'to_a_lower_place']",The Invisible Aborigine
+soil,"['grime', 'soil', 'bemire', 'dirt', 'territory', 'stain', 'grease', 'begrime', 'filth', 'land', 'colly', 'dirty', 'ground', 'grunge']",The Invisible Aborigine
+rained,"['rain', 'rain_down']",The Invisible Aborigine
+owned,"['owned', 'possess', 'own', 'have']",The Invisible Aborigine
+swear,"['rely', 'aver', 'depose', 'imprecate', 'swear', 'avow', 'affirm', 'swan', 'trust', 'verify', 'bank', 'curse', 'cuss', 'blaspheme', 'assert', 'depone']",The Invisible Aborigine
+",",[],The Invisible Aborigine
+cast,"['put', 'honk', 'range', 'purge', 'spew', 'draw', 'cast_off', 'vomit_up', 'regorge', 'be_sick', 'regurgitate', 'drift', 'stamp', 'ramble', 'shake_off', 'tramp', 'dramatis_personae', 'hurtle', 'casting', 'wander', 'throw_away', 'rove', 'vomit', 'stray', 'throw_up', 'cast_of_characters', 'redact', 'vagabond', 'cat', 'disgorge', 'roll', 'mould', 'couch', 'barf', 'form', 'throw', 'plaster_bandage', 'retch', 'plaster_cast', 'cast', 'spue', 'drop', 'throw_off', 'frame', 'upchuck', 'roam', 'shape', 'swan', 'shed', 'project', 'sick', 'hurl', 'chuck', 'contrive', 'puke', 'mold']",The Invisible Aborigine
+picked,"['pluck', 'find_fault', 'peck', 'blame', 'break_up', 'cull', 'clean', 'plunk', 'nibble', 'foot', 'beak', 'piece', 'pick']",The Invisible Aborigine
+Such,['such'],The Invisible Aborigine
+yards,"['pace', 'G', 'yard', 'M', 'grand', 'curtilage', 'cubic_yard', 'K', 'one_thousand', 'chiliad', 'thou', 'railyard', 'railway_yard', 'grounds', 'thousand', '1000']",The Invisible Aborigine
+such,['such'],The Invisible Aborigine
+eyeball,"['eyeball', 'eye', 'orb']",The Invisible Aborigine
+mile,"['stat_mi', 'nautical_mile', 'mi', 'geographical_mile', 'international_nautical_mile', 'Admiralty_mile', 'international_mile', 'statute_mile', 'land_mile', 'Swedish_mile', 'mil', 'Roman_mile', 'sea_mile', 'knot', 'mile', 'air_mile', 'naut_mi']",The Invisible Aborigine
+Everything,[],The Invisible Aborigine
+seaports,"['harbour', 'haven', 'seaport', 'harbor']",The Invisible Aborigine
+come,"['number', 'seed', 'total', 'occur', 'get_along', 'ejaculate', 'fare', 'make_out', 'seminal_fluid', 'hail', 'do', 'come_in', 'amount', 'cum', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'semen', 'descend', 'come', 'issue_forth', 'follow']",The Invisible Aborigine
+pitiless,"['unkind', 'remorseless', 'unpitying', 'pitiless', 'ruthless']",The Invisible Aborigine
+ageless,"['unceasing', 'eternal', 'eonian', 'aeonian', 'ageless', 'everlasting', 'perpetual', 'unending']",The Invisible Aborigine
+single,"['one', 'individual', 'I', 'undivided', 'bingle', 'single', 'ace', 'exclusive', 'unmarried', 'unity', '1']",The Invisible Aborigine
+changed,"['vary', 'interchange', 'modify', 'alter', 'exchange', 'shift', 'transfer', 'deepen', 'change', 'changed', 'convert', 'switch', 'commute']",The Invisible Aborigine
+And,[],The Invisible Aborigine
+.,[],The Invisible Aborigine
+Very,"['very', 'selfsame', 'identical', 'really', 'rattling', 'real']",The Invisible Aborigine
+when,[],The Invisible Aborigine
+sticks,"['sting', 'reefer', 'adhere', 'spliff', 'stick_by', 'dumbfound', 'deposit', 'nonplus', 'stupefy', 'stand_by', 'vex', 'stick', 'cleave', 'cohere', 'stay', 'lodge', 'stick_to', 'get', 'bond', 'hold_fast', 'baffle', 'gravel', 'pin', 'bind', 'amaze', 'cling', 'mystify', 'pose', 'joystick', 'marijuana_cigarette', 'puzzle', 'flummox', 'joint', 'beat', 'perplex', 'stick_around', 'wedge', 'peg', 'control_stick', 'stay_put', 'bewilder']",The Invisible Aborigine
+device,"['gimmick', 'twist', 'device']",The Invisible Aborigine
+up,"['up', 'astir', 'upward', 'improving', 'upwardly', 'upwards']",The Invisible Aborigine
+next,"['succeeding', 'next', 'future', 'following', 'adjacent', 'side_by_side']",The Invisible Aborigine
+always,"['ever', 'always', 'perpetually', ""e'er"", 'forever', 'constantly', 'incessantly', 'invariably']",The Invisible Aborigine
+studying,"['analyse', 'contemplate', 'study', 'take', 'perusing', 'read', 'studying', 'canvass', 'perusal', 'analyze', 'learn', 'examine', 'meditate', 'canvas', 'hit_the_books', 'poring_over', 'consider']",The Invisible Aborigine
+does,"['make', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'fare', 'Energy_Department', 'make_out', 'execute', 'do', 'set', 'Energy', 'exercise', 'dress', 'practice', 'doe', 'DOE', 'coiffe', 'Department_of_Energy', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure']",The Invisible Aborigine
+unlike,"['different', 'dissimilar', 'unlike']",The Invisible Aborigine
+malignancy,"['malignity', 'malignance', 'malignancy']",The Invisible Aborigine
+gait,"['pace', 'gait']",The Invisible Aborigine
+itself,[],The Invisible Aborigine
+by,"['away', 'by', 'aside', 'past']",The Invisible Aborigine
+game,"['punt', 'halting', 'gritty', 'game', 'crippled', 'stake', 'back', 'gamy', 'lame', 'gage', 'spunky', 'spirited', 'gimpy', 'mettlesome', 'bet_on', 'plot', 'secret_plan', 'biz', 'gamey', 'halt']",The Invisible Aborigine
+ravines,['ravine'],The Invisible Aborigine
+deceived,"['lead_astray', 'betray', 'lead_on', 'delude', 'deceive', 'cozen']",The Invisible Aborigine
+still,"['distillery', 'stillness', 'even', 'static', 'silent', 'quieten', 'all_the_same', 'even_so', 'inactive', 'calm', 'placid', 'allay', 'still', 'calm_down', 'lull', 'quiet', 'silence', 'tranquil', 'tranquillize', 'yet', 'noneffervescent', 'hush', 'soundless', 'nonetheless', 'notwithstanding', 'shut_up', 'unruffled', 'smooth', 'tranquillise', 'ease', 'stock-still', 'relieve', 'however', 'nevertheless', 'tranquilize', 'motionless', 'hush_up', 'withal']",The Invisible Aborigine
+pile,"['pot', 'stack', 'nap', 'atomic_reactor', 'galvanic_pile', 'voltaic_pile', 'atomic_pile', 'down', 'piling', 'agglomerate', 'lot', 'mickle', 'bundle', 'plenty', 'hatful', 'tidy_sum', 'deal', 'throng', 'pile', 'muckle', 'slew', 'mint', 'spate', 'mountain', 'big_money', 'cumulation', 'peck', 'sight', 'big_bucks', 'batch', 'chain_reactor', 'good_deal', 'mess', 'stilt', 'passel', 'pack', 'wad', 'mob', 'heap', 'flock', 'mass', 'megabucks', 'quite_a_little', 'jam', 'cumulus', 'great_deal', 'spile', 'mound', 'raft']",The Invisible Aborigine
+earth,"['worldly_concern', 'earth', 'globe', 'terra_firma', 'world', 'Earth', 'dry_land', 'land', 'solid_ground', 'ground', 'earthly_concern']",The Invisible Aborigine
+as,"['A', 'atomic_number_33', 'axerophthol', 'amp', 'American_Samoa', 'type_A', 'adenine', 'as', 'group_A', 'every_bit', 'AS', 'Eastern_Samoa', 'vitamin_A', 'equally', 'deoxyadenosine_monophosphate', 'angstrom', 'a', 'ampere', 'arsenic', 'As', 'angstrom_unit', 'antiophthalmic_factor']",The Invisible Aborigine
+rodent,"['rodent', 'gnawer']",The Invisible Aborigine
+jeep,"['jeep', 'landrover']",The Invisible Aborigine
+spear,"['gig', 'fishgig', 'spear', 'shaft', 'lance', 'spear_up', 'fizgig']",The Invisible Aborigine
+ridges,"['rooftree', 'ridge', 'ridgeline', 'ridgepole']",The Invisible Aborigine
+inches,"['edge', 'in', 'column_inch', 'inch']",The Invisible Aborigine
+economy,"['saving', 'economy', 'thriftiness', 'economic_system']",The Invisible Aborigine
+runner,"['offset', 'base_runner', 'smuggler', 'Caranx_crysos', 'moon-curser', 'moon_curser', 'contrabandist', 'ball_carrier', 'stolon', 'runner', 'blue_runner']",The Invisible Aborigine
+went,"['plump', 'break_down', 'endure', 'go_away', 'perish', 'kick_the_bucket', 'get_going', 'live', 'die', ""cash_in_one's_chips"", 'croak', 'function', 'exit', 'run_short', 'proceed', 'hold_up', 'buy_the_farm', 'blend_in', 'expire', 'operate', 'hold_out', 'pass_away', 'work', 'last', 'depart', 'get', 'decease', 'conk_out', 'fit', 'move', 'live_on', 'go_bad', 'break', 'belong', 'run_low', 'become', 'pass', 'give-up_the_ghost', 'locomote', 'run', 'pop_off', 'conk', 'lead', 'blend', 'go', 'sound', 'survive', 'drop_dead', 'extend', 'snuff_it', 'start', 'rifle', 'fail', 'choke', 'give_out', 'travel', 'give_way']",The Invisible Aborigine
+light,"['light_up', 'spark', 'ignitor', 'lightheaded', 'light-headed', 'luminance', 'lite', 'calorie-free', 'easy', 'Christ_Within', 'igniter', 'clear', 'sparkle', 'Inner_Light', 'faint', 'light_source', 'light-colored', 'visible_radiation', 'ignite', 'lightness', 'twinkle', 'perch', 'get_down', 'short', 'idle', 'illume', 'loose', 'illuminate', 'wanton', 'illumine', 'tripping', 'luminousness', 'light', 'unhorse', 'weak', 'lighting', 'lightly', 'alight', 'scant', 'fall', 'visible_light', 'brightness', 'unaccented', 'abstemious', 'sluttish', 'Light_Within', 'swooning', 'wakeful', 'illumination', 'Light', 'lightsome', 'low-cal', 'fire_up', 'promiscuous', 'unclouded', 'brightness_level', 'dismount', 'clean', 'lighter', 'get_off', 'luminosity']",The Invisible Aborigine
+I,"['one', 'I', 'iodin', 'atomic_number_53', 'single', 'ace', 'i', 'iodine', 'unity', '1', 'ane']",The Invisible Aborigine
+stood,"['remain_firm', 'stomach', 'tolerate', 'abide', 'digest', 'endure', 'bear', 'fend', 'place_upright', 'support', 'stand', 'put_up', 'resist', 'stand_up', 'suffer', 'brook', 'stick_out']",The Invisible Aborigine
+driven,"['determined', 'ram', 'force', 'aim', 'ride', 'impelled', 'beat_back', 'push', 'tug', 'get', 'labor', 'labour', 'driven', 'drive', 'goaded', 'motor', 'push_back', 'force_back', 'repel', 'compulsive', 'repulse', 'take']",The Invisible Aborigine
+eyes,"['eyes', 'oculus', 'heart', 'eyeball', 'center', 'middle', 'centre', 'optic', 'eye']",The Invisible Aborigine
+eyelids,"['palpebra', 'eyelid', 'lid']",The Invisible Aborigine
+more,"['Thomas_More', 'more', 'to_a_greater_extent', 'Sir_Thomas_More', 'More', 'more_than']",The Invisible Aborigine
+deep,"['recondite', 'inscrutable', 'abstruse', 'trench', 'mysterious', 'oceanic_abyss', 'deep', 'deeply', 'rich', 'mystifying', 'thick', 'late', 'cryptic', 'bass', 'cryptical']",The Invisible Aborigine
+park,"['Mungo_Park', 'car_park', 'commons', 'parking_lot', 'parkland', 'green', 'park', 'ballpark', 'common', 'Park', 'parking_area']",The Invisible Aborigine
+looks,"['take_care', 'flavour', 'calculate', 'look', 'bet', 'see', 'smell', 'search', 'tone', 'expect', 'appear', 'reckon', 'feeling', 'face', 'depend', 'count', 'front', 'feel', 'spirit', 'attend', 'facial_expression', 'flavor', 'wait', 'seem', 'expression', 'aspect', 'await', 'looking', 'looking_at']",The Invisible Aborigine
+quality,"['select', 'prime', 'calibre', 'caliber', 'choice', 'lineament', 'timbre', 'quality', 'character', 'timber', 'prize', 'tone']",The Invisible Aborigine
+into,[],The Invisible Aborigine
+eye,"['oculus', 'heart', 'eyeball', 'center', 'middle', 'centre', 'optic', 'eye']",The Invisible Aborigine
+my,[],The Invisible Aborigine
+difficult,"['unmanageable', 'hard', 'difficult']",The Invisible Aborigine
+an,"['Associate_in_Nursing', 'AN']",The Invisible Aborigine
+sucked,"['blow', 'sop_up', 'draw', 'take_in', 'take_up', 'go_down_on', 'suckle', 'imbibe', 'fellate', 'suck_up', 'nurse', 'suck_in', 'give_suck', 'wet-nurse', 'suck', 'soak_up', 'absorb', 'breastfeed', 'lactate']",The Invisible Aborigine
+drifted,"['float', 'blow', 'roll', 'drift', 'range', 'roam', 'swan', 'ramble', 'cast', 'tramp', 'freewheel', 'wander', 'be_adrift', 'rove', 'stray', 'vagabond', 'err']",The Invisible Aborigine
+hopeless,['hopeless'],The Invisible Aborigine
+fire,"['flaming', 'blast', 'fervidness', 'give_notice', 'sack', 'discharge', 'fuel', 'terminate', 'kindle', 'flak', 'raise', 'arouse', 'attack', 'enkindle', 'ardour', 'burn_down', 'give_the_sack', 'evoke', 'flame', 'give_the_axe', 'fervor', 'provoke', 'elicit', 'open_fire', 'burn', 'go_off', 'fervour', 'displace', 'force_out', 'send_away', 'fire', 'flack', 'fervency', 'ardor', 'firing', 'can', 'dismiss']",The Invisible Aborigine
+constant,"['incessant', 'constant_quantity', 'invariable', 'constant', 'never-ending', 'invariant', 'perpetual', 'unceasing', 'changeless', 'unvarying', 'unremitting', 'ceaseless']",The Invisible Aborigine
+forty,"['twoscore', 'forty', 'XL', '40', 'xl']",The Invisible Aborigine
+--,[],The Invisible Aborigine
+deny,"['abnegate', 'deny', 'traverse', 'refuse']",The Invisible Aborigine
+tabac,[],The Invisible Aborigine
+signals,"['indicate', 'signalise', 'bespeak', 'sign', 'signal', 'point', 'signaling', 'signalize', 'betoken']",The Invisible Aborigine
+viewed,"['watch', 'reckon', 'view', 'take_in', 'look_at', 'catch', 'see', 'regard', 'consider']",The Invisible Aborigine
+sand,"['grit', 'backbone', 'sand', 'Baroness_Dudevant', 'moxie', 'George_Sand', 'sandpaper', 'gumption', 'guts', 'Amandine_Aurore_Lucie_Dupin', 'Sand']",The Invisible Aborigine
+look,"['take_care', 'flavour', 'calculate', 'look', 'bet', 'see', 'smell', 'search', 'tone', 'expect', 'appear', 'reckon', 'feeling', 'face', 'depend', 'count', 'front', 'feel', 'spirit', 'attend', 'facial_expression', 'flavor', 'wait', 'seem', 'expression', 'aspect', 'await', 'looking', 'looking_at']",The Invisible Aborigine
+boulder,"['boulder', 'bowlder', 'Boulder']",The Invisible Aborigine
+style,"['mode', 'title', 'stylus', 'fashion', 'expressive_style', 'elan', 'way', 'style', 'panache', 'flair', 'manner', 'trend', 'dash', 'vogue']",The Invisible Aborigine
+once,"['erst', 'one_time', 'formerly', 'erstwhile', 'at_one_time', 'once', 'in_one_case']",The Invisible Aborigine
+ashes,"['ash', 'ash_tree']",The Invisible Aborigine
+swung,"['sweep', 'get_around', 'swing_over', 'drop', 'sway', 'swing_out', 'dangle', 'swing']",The Invisible Aborigine
+isn't,[],The Invisible Aborigine
+few,['few'],The Invisible Aborigine
+odor,"['odour', 'aroma', 'scent', 'olfactory_perception', 'smell', 'olfactory_sensation', 'odor', 'olfactory_property']",The Invisible Aborigine
+men,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'homo', 'humanity', 'piece', 'men', 'manpower', 'humans', 'Man', 'human_being', 'military_personnel', 'hands', 'gentleman', 'serviceman', 'man', 'work_force', 'human_beings', 'workforce', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",The Invisible Aborigine
+pitch,"['cant_over', 'sky', 'lurch', 'toss', 'pitch_shot', 'pitch', 'sales_pitch', 'slant', 'flip', 'peddle', 'gear', 'monger', 'slope', 'tilt', 'auction_pitch', 'rake', 'huckster', 'vend', 'pitching', 'cant', 'incline', 'delivery', 'deliver', 'shift', 'tar', 'set_up', 'sales_talk', 'hawk']",The Invisible Aborigine
+angular,"['angular', 'angulate']",The Invisible Aborigine
+lay,"['put', 'lay', 'place', 'lie', 'laic', 'consist', 'secular', 'put_down', 'repose', 'ballad', 'set', 'dwell', 'rest', 'lie_in', 'lie_down', 'pose', 'position']",The Invisible Aborigine
+stopped,"['stop', 'terminate', 'give_up', 'stop_over', 'discontinue', 'stopped', 'blockade', 'kibosh', 'lay_off', 'turn_back', 'arrest', 'block_off', 'quit', 'block', 'break', 'check', 'contain', 'stopped-up', 'hold_on', 'end', 'intercept', 'cease', 'barricade', 'hold_back', 'finish', 'stopped_up', 'block_up', 'halt', 'bar', 'break_off']",The Invisible Aborigine
+about,"['nigh', 'around', 'virtually', 'about', 'astir', 'approximately', 'roughly', 'most', 'nearly', 'well-nigh', 'close_to', 'or_so', 'almost', 'more_or_less', 'some', 'near', 'just_about']",The Invisible Aborigine
+bodies,"['trunk', 'dead_body', 'body', 'consistence', 'eubstance', 'torso', 'organic_structure', 'physical_structure', 'personify', 'soundbox', 'consistency']",The Invisible Aborigine
+objects,"['objective', 'target', 'physical_object', 'object', 'aim']",The Invisible Aborigine
+blindfolded,"['blindfold', 'blindfolded']",The Invisible Aborigine
+dropped,"['deteriorate', 'swing', 'discharge', 'dribble', 'cast_off', 'dangle', 'miss', 'sink', 'degenerate', 'leave_out', 'set_down', 'shake_off', 'knock_off', 'dismiss', 'spend', 'strike_down', 'throw_away', 'omit', 'pretermit', 'expend', 'throw', 'overlook', 'cast', 'cut_down', 'drop', 'fell', 'put_down', 'throw_off', 'neglect', 'drop_off', 'unload', 'devolve', 'send_away', 'drip', 'shed', 'flatten', 'overleap', 'send_packing', 'drop_down']",The Invisible Aborigine
+words,"['quarrel', 'Word', 'Holy_Scripture', 'articulate', 'parole', 'password', 'countersign', 'lyric', 'formulate', 'row', 'Book', 'wrangle', 'speech', 'phrase', 'word_of_honor', 'words', 'Bible', 'Scripture', 'give_voice', 'Son', 'Logos', 'run-in', 'tidings', 'watchword', ""actor's_line"", 'Christian_Bible', 'Holy_Writ', 'news', 'give-and-take', 'intelligence', 'Word_of_God', 'Good_Book', 'language', 'discussion', 'dustup', 'word']",The Invisible Aborigine
+kind,"['form', 'sort', 'variety', 'genial', 'kind', 'tolerant']",The Invisible Aborigine
+black,"['inkiness', 'grim', 'blackamoor', 'melanize', 'bootleg', 'inglorious', 'Shirley_Temple_Black', 'mordant', 'lightlessness', 'Black_person', 'shameful', 'smutty', 'pitch-black', 'black-market', 'Negro', 'nigrify', 'Black', 'blackness', 'smuggled', 'pitch-dark', 'black', 'blackened', 'Joseph_Black', 'contraband', 'bleak', 'ignominious', 'dark', 'Negroid', 'fatal', 'dim', 'disgraceful', 'Shirley_Temple', 'fateful', 'calamitous', 'opprobrious', 'pitch_blackness', 'sinister', 'blacken', 'melanise', 'total_darkness', 'disastrous']",The Invisible Aborigine
+strange,"['unusual', 'foreign', 'strange', 'unknown']",The Invisible Aborigine
+cow,"['moo-cow', 'overawe', 'cow']",The Invisible Aborigine
+dingo,"['Canis_dingo', 'warrigal', 'warragal', 'dingo']",The Invisible Aborigine
+tiny,"['petite', 'lilliputian', 'tiny', 'diminutive', 'flyspeck', 'bantam', 'midget']",The Invisible Aborigine
+way,"['mode', 'way_of_life', 'fashion', 'room', 'way', 'style', 'agency', 'right_smart', 'manner', 'means', 'path', 'elbow_room', 'direction']",The Invisible Aborigine
+smells,"['odour', 'aroma', 'flavour', 'look', 'olfactory_perception', 'smell', 'odor', 'tone', 'olfactory_property', 'olfactory_modality', 'olfaction', 'sense_of_smell', 'smell_out', 'feeling', 'feel', 'spirit', 'sense', 'scent', 'flavor', 'smelling', 'olfactory_sensation', 'smack', 'reek']",The Invisible Aborigine
+figures,"['number', 'enter', 'estimate', 'pattern', 'fig', 'physique', 'calculate', 'figure', 'material_body', 'see', 'compute', 'bod', 'trope', 'soma', 'count_on', 'visualise', 'image', 'reckon', 'build', 'anatomy', 'public_figure', 'flesh', 'digit', 'physical_body', 'form', 'design', 'envision', 'name', 'figure_of_speech', 'work_out', 'picture', 'cypher', 'frame', 'chassis', 'fancy', 'cipher', 'shape', 'human_body', 'visualize', 'project', 'forecast']",The Invisible Aborigine
+rise,"['spring_up', 'boost', 'uprise', 'salary_increase', 'wage_hike', 'arise', 'wax', 'originate', 'raise', 'ascending', 'lift', 'heighten', 'grow', 'hike', 'jump', 'surface', 'procession', 'stand_up', 'climb_up', 'get_up', 'turn_out', 'rising', 'develop', 'wage_increase', 'come_up', 'prove', 'go_up', 'rise', 'ascension', 'cost_increase', 'rebel', 'ascend', 'acclivity', 'rear', 'climb', 'move_up', 'upgrade', 'emanation', 'resurrect', 'mount', 'ascent', 'rise_up', 'rising_slope', 'advance']",The Invisible Aborigine
+trip,"['activate', 'spark', 'actuate', 'jaunt', 'touch_off', 'turn_on', 'trip_out', 'head_trip', 'slip', 'set_off', 'trigger', 'trip-up', 'stumble', 'misstep', 'trip', 'trip_up', 'trigger_off', 'spark_off', 'tripper', 'get_off', 'travel']",The Invisible Aborigine
+moonlike,"['moonlike', 'moon-round']",The Invisible Aborigine
+it,"['IT', 'information_technology']",The Invisible Aborigine
+persuaded,"['sway', 'carry', 'persuade']",The Invisible Aborigine
+column-shaped,[],The Invisible Aborigine
+wandered,"['range', 'betray', 'drift', 'ramble', 'weave', 'cheat_on', 'tramp', 'thread', 'wander', 'rove', 'stray', 'digress', 'cheat', 'vagabond', 'roll', 'wind', 'cast', 'cuckold', 'meander', 'roam', 'divagate', 'swan']",The Invisible Aborigine
+however,"['still', 'nonetheless', 'notwithstanding', 'yet', 'however', 'all_the_same', 'even_so', 'withal', 'nevertheless']",The Invisible Aborigine
+wet,"['plastered', 'pixilated', 'cockeyed', 'sloshed', 'loaded', 'besotted', 'fuddled', 'smashed', 'tight', 'blotto', 'slopped', 'soused', 'moisture', 'pie-eyed', 'lactating', 'pissed', 'blind_drunk', 'wet', 'sozzled', 'stiff', 'crocked', 'soaked', 'squiffy']",The Invisible Aborigine
+between,"[""'tween"", 'between', 'betwixt']",The Invisible Aborigine
+No,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",The Invisible Aborigine
+fact,['fact'],The Invisible Aborigine
+trying,"['seek', 'try', 'render', 'hear', 'test', 'adjudicate', 'sample', 'attempt', 'stressful', 'prove', 'try_on', 'stress', 'judge', 'try_out', 'strain', 'essay', 'taste', 'trying', 'nerve-racking', 'examine', 'assay', 'nerve-wracking']",The Invisible Aborigine
+above,"['above', 'to_a_higher_place', 'in_a_higher_place', 'higher_up', 'supra']",The Invisible Aborigine
+use,"['economic_consumption', 'utilization', 'employment', 'employ', 'utilisation', 'use_of_goods_and_services', 'enjoyment', 'function', 'utilise', 'habituate', 'purpose', 'usage', 'exercise', 'habit', 'practice', 'expend', 'role', 'utilize', 'manipulation', 'use', 'consumption', 'usance', 'apply']",The Invisible Aborigine
+slow,"['easy', 'dense', 'irksome', 'tiresome', 'slow_up', 'retard', 'slack', 'ho-hum', 'tedious', 'sluggish', 'tardily', 'dumb', 'decelerate', 'behind', 'wearisome', 'dim', 'boring', 'slacken', 'slowly', 'slow', 'obtuse', 'slow_down', 'deadening', 'dull']",The Invisible Aborigine
+walk,"['take_the_air', 'walking', 'walk', 'manner_of_walking', 'walk_of_life', 'pass', 'paseo', 'walkway', 'base_on_balls']",The Invisible Aborigine
+barely,"['hardly', 'scantily', 'scarcely', 'just', 'barely', 'scarce']",The Invisible Aborigine
+worn,"['endure', 'wear_out', 'put_on', 'outwear', 'fatigue', 'weary', 'wear_upon', 'tire_out', 'raddled', 'assume', 'wear_thin', 'wear', 'wear_down', 'wear_off', 'hold_out', 'fag_out', 'tire', 'bear', 'fall_apart', 'bust', 'break', 'don', 'drawn', 'get_into', 'have_on', 'jade', 'careworn', 'fag', 'haggard', 'worn']",The Invisible Aborigine
+two,"['two', 'II', 'ii', 'deuce', '2']",The Invisible Aborigine
+forehead,"['forehead', 'os_frontale', 'frontal_bone', 'brow']",The Invisible Aborigine
+away,"['forth', 'aside', 'outside', 'off', 'away', 'out', 'by']",The Invisible Aborigine
+rancher,['rancher'],The Invisible Aborigine
+spots,"['floater', 'place', 'slur', 'musca_volitans', 'situation', 'daub', 'spots', 'pip', 'berth', 'position', 'blemish', 'spotlight', 'espy', 'blob', 'smudge', 'speckle', 'stain', 'make_out', 'smirch', 'blot', 'smear', 'pick_out', 'post', 'recognize', 'descry', 'point', 'billet', 'dapple', 'distinguish', 'office', 'recognise', 'maculation', 'spy', 'muscae_volitantes', 'bit', 'tell_apart', 'topographic_point', 'fleck', 'spot', 'touch', 'discern', 'patch']",The Invisible Aborigine
+their,[],The Invisible Aborigine
+is,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Invisible Aborigine
+Many,['many'],The Invisible Aborigine
+posture,"['pose', 'posture', 'stance', 'model', 'bearing', 'military_posture', 'sit', 'military_strength', 'carriage', 'military_capability', 'strength', 'attitude', 'position']",The Invisible Aborigine
+alter,"['vary', 'modify', 'alter', 'neuter', 'spay', 'interpolate', 'change', 'castrate', 'falsify']",The Invisible Aborigine
+winds,"['farting', 'curve', 'breaking_wind', 'air_current', 'current_of_air', 'tip', 'wreathe', 'winding', 'nothingness', 'wrap', 'confidential_information', 'lift', 'weave', 'idle_words', 'thread', 'hoist', 'malarky', 'wander', 'twist', 'roll', 'steer', 'wind', 'scent', 'wind_instrument', 'malarkey', 'fart', 'jazz', 'meander', 'twine', 'lead', 'wind_up', 'nose', 'flatus', 'hint']",The Invisible Aborigine
+hike,"['wage_increase', 'boost', 'hike', 'hike_up', 'hiking', 'tramp', 'salary_increase', 'wage_hike', 'rise', 'cost_increase', 'raise']",The Invisible Aborigine
+indeed,"['so', 'indeed']",The Invisible Aborigine
+Here,"['here', 'Hera', 'hither', 'Here']",The Invisible Aborigine
+at,"['atomic_number_85', 'At', 'at', 'astatine']",The Invisible Aborigine
+Which,[],The Invisible Aborigine
+obscured,"['obnubilate', 'haze_over', 'bedim', 'obliterate', 'blot_out', 'obscure', 'becloud', 'confuse', 'befog', 'veil', 'hide', 'mist', 'fog', 'blur', 'overcloud', 'cloud']",The Invisible Aborigine
+beside,[],The Invisible Aborigine
+flies,"['tent_flap', 'fly_front', 'wing', 'vaporize', 'fly', 'take_flight', 'fly_sheet', 'flies', 'pilot', 'fell', 'vanish', 'flee', 'tent-fly', 'fly_ball', 'aviate', 'rainfly']",The Invisible Aborigine
+moves,"['actuate', 'relocation', 'movement', 'make_a_motion', 'motility', 'proceed', 'be_active', 'motion', 'incite', 'motivate', 'prompt', 'move', 'impress', 'strike', 'locomote', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",The Invisible Aborigine
+gesture,"['gesture', 'gesticulate', 'motion']",The Invisible Aborigine
+walked,"['take_the_air', 'walk']",The Invisible Aborigine
+woomera,[],The Invisible Aborigine
+struck,"['expunge', 'smitten', 'walk_out', 'hit', 'chance_on', 'take_up', 'collide_with', 'stricken', 'assume', 'mint', 'scratch', 'come_across', 'light_upon', 'struck', 'happen_upon', 'shine', 'move', 'impress', 'excise', 'fall', 'come_to', 'attain', 'impinge_on', 'strickle', 'strike', 'come_upon', 'coin', 'fall_upon', 'discover', 'take', 'chance_upon', 'affect', 'run_into']",The Invisible Aborigine
+unfulfilled,"['unrealised', 'unfulfilled', 'unrealized']",The Invisible Aborigine
+shouted,"['shout_out', 'hollo', 'cry_out', 'clapperclaw', 'exclaim', 'outcry', 'squall', 'abuse', 'cry', 'blackguard', 'shout', 'call_out', 'yelled', 'scream', 'call', 'yell', 'holler', 'shouted']",The Invisible Aborigine
+were,"['constitute', 'equal', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'exist', 'follow', 'personify']",The Invisible Aborigine
+approached,"['draw_near', 'approach', 'come_on', 'come_near', 'set_about', 'go_up', 'border_on', 'draw_close', 'near', 'go_about']",The Invisible Aborigine
+say,"['order', 'say', 'aver', 'allege', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'enjoin']",The Invisible Aborigine
+burnished,"['lustrous', 'burnish', 'shiny', 'shining', 'burnished', 'buff', 'furbish', 'bright']",The Invisible Aborigine
+much,"['a_great_deal', 'practically', 'much', 'lots', 'often', 'a_lot', 'very_much', 'a_good_deal']",The Invisible Aborigine
+raising,"['conjure', 'elevation', 'erect', 'kindle', 'recruit', 'bringing_up', 'raise', 'stir', 'lift', 'arouse', 'grow', 'heighten', 'put_forward', 'fosterage', 'levy', 'enkindle', 'rearing', 'get_up', 'kick_upstairs', 'promote', 'fostering', 'conjure_up', 'nurture', 'evoke', 'call_down', 'enhance', 'prove', 'leaven', 'raising', 'put_up', 'call_forth', 'invoke', 'provoke', 'elicit', 'advance', 'bring_up', 'rear', 'produce', 'fire', 'upgrade', 'resurrect', 'set_up', 'upraise', 'breeding', 'upbringing', 'elevate', 'farm', 'parent']",The Invisible Aborigine
+watching,"['take_in', 'see', 'keep_an_eye_on', 'watch', 'catch', 'find_out', 'look_out', 'observation', 'ascertain', 'view', 'watching', 'determine', 'check', 'watch_out', 'observance', 'observe', 'watch_over', 'learn', 'follow', 'look_on']",The Invisible Aborigine
+ten,"['ten-spot', 'decade', 'X', 'x', 'ten', '10', 'tenner']",The Invisible Aborigine
+nothing,"['cipher', 'nil', 'zip', 'aught', 'zero', 'nada', 'nothing', 'goose_egg', 'naught', 'zilch', 'cypher', 'nix', 'null', 'zippo']",The Invisible Aborigine
+skimming,"['skim_off', 'scan', 'shaving', 'plane', 'rake', 'glance_over', 'cream_off', 'skim_over', 'cream', 'skimming', 'grazing', 'skim', 'skitter', 'skip', 'run_down']",The Invisible Aborigine
+degree,"['point', 'level', 'arcdegree', 'stage', 'degree', 'academic_degree', 'grade']",The Invisible Aborigine
+ground,"['primer_coat', 'cranch', 'run_aground', 'craunch', 'bray', 'strand', 'base', 'dry_land', 'grind', 'solid_ground', 'prime', 'earth', 'primer', 'moil', 'comminute', 'grate', 'mash', 'priming', 'soil', 'crunch', 'labor', 'labour', 'travail', 'undercoat', 'found', 'flat_coat', 'dig', 'ground', 'background', 'anchor', 'basis', 'reason', 'terra_firma', 'priming_coat', 'establish', 'land', 'drudge', 'fag', 'footing', 'toil']",The Invisible Aborigine
+heels,"['cad', 'hound', 'heel', 'reheel', 'list', 'blackguard', 'bounder', 'dog']",The Invisible Aborigine
+hours,"['hours', '60_minutes', 'time_of_day', 'hour', 'hr', 'minute']",The Invisible Aborigine
+said,"['order', 'say', 'aver', 'said', 'allege', 'aforementioned', 'enounce', 'read', 'pronounce', 'articulate', 'suppose', 'tell', 'enunciate', 'state', 'sound_out', 'aforesaid', 'enjoin']",The Invisible Aborigine
+saw,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'sawing_machine', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'byword', 'get_wind', 'go_through', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'power_saw', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'proverb', 'fancy', 'consider', 'discover', 'saw', 'witness', 'get_word', 'visualize', 'project', 'realize', 'adage', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Invisible Aborigine
+take,"['claim', 'return', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'issue', 'fill', 'rent', 'payoff', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'takings', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'yield', 'proceeds', 'get_hold_of', 'take', 'lead', 'film', 'remove', 'read', 'study', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",The Invisible Aborigine
+distant,"['remote', 'upstage', 'distant', 'aloof', 'removed']",The Invisible Aborigine
+gentle,"['lenify', 'easy', 'mollify', 'entitle', 'conciliate', 'aristocratic', 'aristocratical', 'docile', 'soft', 'blue-blooded', 'appease', 'assuage', 'blue', 'pacify', 'ennoble', 'gruntle', 'gentle', 'placate', 'patrician']",The Invisible Aborigine
+land,"['commonwealth', 'Edwin_Herbert_Land', 'demesne', 'bring', 'shoot_down', 'dry_land', 'down', 'solid_ground', 'earth', 'set_down', 'estate', 'body_politic', 'landed_estate', 'state', 'domain', 'soil', 'country', 'set_ashore', 'acres', 'put_down', 'Din_Land', 'farming', 'ground', 'realm', 'shore', 'Land', 'terra_firma', 'land', 'kingdom', 'bring_down', 'nation', 'res_publica']",The Invisible Aborigine
+compass,"['savvy', 'range', 'orbit', 'ambit', 'circumnavigate', 'grok', 'apprehend', 'comprehend', 'get_the_picture', 'dig', 'compass', 'grasp', 'scope', 'reach']",The Invisible Aborigine
+depression,"['slump', 'Depression', 'depressive_disorder', 'natural_depression', 'economic_crisis', 'imprint', 'clinical_depression', 'low', 'impression', 'depression', 'Great_Depression']",The Invisible Aborigine
+thin,"['slim', 'reduce', 'slight', 'cut', 'sparse', 'thinly', 'fragile', 'melt_off', 'tenuous', 'slenderize', 'flimsy', 'dilute', 'lean', 'thin_out', 'lose_weight', 'slender', 'thin', 'slim_down']",The Invisible Aborigine
+specially,"['particularly', 'peculiarly', 'specially', 'especially']",The Invisible Aborigine
+huge,"['vast', 'immense', 'Brobdingnagian', 'huge']",The Invisible Aborigine
+Even,"['still', 'fifty-fifty', 'even_out', 'flush', 'eve', 'even', 'level', 'regular', 'tied', 'yet', 'eventide', 'evening']",The Invisible Aborigine
+one,"['one', '1', 'unrivalled', 'I', 'unrivaled', 'unmatched', 'one_and_only', 'peerless', 'single', 'matchless', 'nonpareil', 'i', 'unitary', 'unmatchable', 'unity', 'ace', 'ane']",The Invisible Aborigine
+slopes,"['splatter', 'spill', 'splash', 'slosh', 'slop', 'squish', 'splosh', 'gradient', 'squelch', 'side', 'incline', 'swill', 'slope', 'pitch']",The Invisible Aborigine
+stride,"['footstep', 'pace', 'stride', 'step', 'tread']",The Invisible Aborigine
+culture,"['polish', 'acculturation', 'culture', 'cultivation', 'finish', 'civilization', 'refinement', 'civilisation']",The Invisible Aborigine
+blinked,"['blink_away', 'wink', 'nictitate', 'winkle', 'twinkle', 'blink', 'nictate', 'flash']",The Invisible Aborigine
+Nothing,"['cipher', 'nil', 'zip', 'aught', 'zero', 'nada', 'nothing', 'goose_egg', 'naught', 'zilch', 'cypher', 'nix', 'null', 'zippo']",The Invisible Aborigine
+half-hour,"['30_minutes', 'half-hour']",The Invisible Aborigine
+something,[],The Invisible Aborigine
+bush,"['George_W._Bush', 'George_Bush', 'George_Walker_Bush', 'Dubya', 'chaparral', 'Bush', 'Dubyuh', 'President_George_W._Bush', 'bush', 'Vannevar_Bush', 'bush-league', 'George_Herbert_Walker_Bush', 'pubic_hair', 'George_H.W._Bush', 'President_Bush', 'shrub', 'crotch_hair', 'scrub']",The Invisible Aborigine
+seconds,"['s', 'second', 'arcsecond', 'sec', 'second_gear', 'bit', 'indorsement', 'irregular', 'endorse', 'secondment', 'indorse', 'mo', 'second_base', 'instant', 'moment', 'back', 'endorsement', 'minute']",The Invisible Aborigine
+awful,"['awed', 'unspeakable', 'awful', 'tremendous', 'fearful', 'horrendous', 'abominable', 'direful', 'awe-inspiring', 'terrible', 'terribly', 'atrocious', 'frightening', 'dreaded', 'awesome', 'fearsome', 'painful', 'dire', 'horrific', 'awing', 'dreadful', 'nasty', 'frightful', 'frightfully', 'amazing', 'awfully', 'dread']",The Invisible Aborigine
+speedometer,"['speedometer', 'speed_indicator']",The Invisible Aborigine
+ambiguous,"['ambiguous', 'equivocal']",The Invisible Aborigine
+rhythmical,"['rhythmic', 'rhythmical']",The Invisible Aborigine
+bluebush,[],The Invisible Aborigine
+making,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'making', 'constitute', 'construct', 'cook', 'stool', 'devising', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'make_up', 'induce', 'name', 'attain', 'fashioning', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'qualification', 'realize', 'take_a_crap', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",The Invisible Aborigine
+rushed,"['hotfoot', 'bucket_along', 'look_sharp', 'belt_along', 'rushed', 'festinate', 'speed', 'rush_along', 'induce', 'race', 'cannonball_along', 'hasten', 'step_on_it', 'rush', 'pelt_along', 'hie', 'hurry', 'stimulate']",The Invisible Aborigine
+hottest,"['blistering', 'live', 'raging', 'hot', 'spicy', 'red-hot']",The Invisible Aborigine
+forward,"['forth', 'forward', 'forrad', 'onward', 'ahead', 'forwards', 'forrader', 'fore', 'forward-moving', 'forrard', 'frontwards', 'frontward', 'advancing', 'onwards', 'send_on']",The Invisible Aborigine
+done,"['make', 'get_along', 'coif', 'through_with', 'cause', 'answer', 'done', 'behave', 'practise', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'coiffe', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'through']",The Invisible Aborigine
+because,[],The Invisible Aborigine
+eh,[],The Invisible Aborigine
+sun,"['insolate', 'Sunday', 'sun', 'Dominicus', ""Lord's_Day"", 'solarise', 'solarize', 'sunlight', 'Sun', 'sunshine', 'sunbathe']",The Invisible Aborigine
+marks,"['target', 'scrape', 'Gospel_According_to_Mark', 'patsy', 'sucker', 'nock', 'Simon_Marks', 'tick', 'punctuate', 'marking', 'pock', ""bull's_eye"", 'cross_out', 'stigma', 'Marks', 'differentiate', 'Deutschmark', 'fall_guy', 'stain', 'chump', 'check_off', 'brand', 'cross', 'mug', 'Mark', 'scratch', 'notice', 'set', 'Deutsche_Mark', 'mark', 'Saint_Mark', 'St._Mark', 'soft_touch', 'mark_off', 'stigmatize', 'pit', 'tick_off', 'fool', 'marker', 'home_run', 'crisscross', 'score', 'stigmatise', 'cross_off', 'distinguish', 'check', 'strike_off', 'bell_ringer', 'grade', 'gull', 'print', 'sign', 'German_mark', 'label', 'note', 'commemorate', 'scar', 'denounce', 'tag', 'strike_out', 'First_Baron_Marks_of_Broughton']",The Invisible Aborigine
+another,"['some_other', 'another']",The Invisible Aborigine
+multiplied,"['breed', 'reproduce', 'manifold', 'procreate', 'multiplied', 'multiply']",The Invisible Aborigine
+across,"['crossways', 'crosswise', 'across']",The Invisible Aborigine
+only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",The Invisible Aborigine
+beautifully,"['attractively', 'beautifully']",The Invisible Aborigine
+scabbed,[],The Invisible Aborigine
+narrow,"['pin_down', 'narrow-minded', 'constringe', 'narrow_down', 'narrow', 'nail_down', 'contract', 'specialize', 'constrict', 'specify', 'specialise', 'peg_down', 'minute']",The Invisible Aborigine
+appearance,"['visual_aspect', 'appearance', 'show', 'appearing', 'coming_into_court']",The Invisible Aborigine
+surrounded,"['ring', 'surround', 'smother', 'fence_in', 'palisade', 'border', 'fence', 'hem_in', 'surrounded', 'wall', 'skirt', 'circumvent', 'encircled', 'beleaguer', 'environ', 'besiege']",The Invisible Aborigine
+found,"['base', 'see', 'rule', 'institute', 'constitute', 'happen', 'notice', 'find', 'encounter', 'find_out', 'incur', 'feel', 'receive', 'get', 'come_up', 'detect', 'ascertain', 'regain', 'get_hold', 'determine', 'found', 'obtain', 'bump', 'chance', 'ground', 'plant', 'recover', 'discover', 'witness', 'observe', 'establish', 'set_up', 'launch', 'line_up', 'find_oneself', 'retrieve']",The Invisible Aborigine
+colony,"['Colony', 'colony', 'settlement', 'dependency']",The Invisible Aborigine
+arms,"['arms', 'limb', 'weapons_system', 'sleeve', 'munition', 'weaponry', 'fortify', 'arm', 'coat_of_arms', 'build_up', 'weapon', 'weapon_system', 'gird', 'implements_of_war', 'blazon', 'subdivision', 'branch', 'blazonry']",The Invisible Aborigine
+today,"['today', 'nowadays', 'now']",The Invisible Aborigine
+steady,"['stabilize', 'regular', 'sweetie', 'calm', 'unwavering', 'unbendable', 'steadily', 'firm', 'unfluctuating', 'becalm', 'steadfast', 'unshakable', 'stiff', 'stabilise', 'sweetheart', 'steady', 'truelove', 'unfaltering', 'brace']",The Invisible Aborigine
+knives,"['knife', 'tongue']",The Invisible Aborigine
+innumerable,"['infinite', 'numberless', 'innumerous', 'myriad', 'unnumberable', 'multitudinous', 'unnumerable', 'innumerable', 'unnumbered', 'uncounted', 'countless']",The Invisible Aborigine
+naked,"['raw', 'nude', 'defenseless', 'bare', 'naked', 'au_naturel']",The Invisible Aborigine
+instant,"['wink', 'heartbeat', 'moment', 'twinkling', 'second', 'insistent', 'inst', 'New_York_minute', 'trice', 'split_second', 'blink_of_an_eye', 'flash', 'minute', 'clamant', 'jiffy', 'instantaneous', 'exigent', 'crying', 'instant']",The Invisible Aborigine
+coming,"['number', 'climax', 'total', 'occur', 'get_along', 'orgasm', 'fare', 'make_out', 'hail', 'do', 'amount', 'come_in', 'get', 'come_up', 'upcoming', 'approach', 'fall', 'derive', 'arrive', 'add_up', 'descend', 'forthcoming', 'sexual_climax', 'approaching', 'come', 'issue_forth', 'follow', 'coming', 'advent']",The Invisible Aborigine
+dull,"['leaden', 'muffled', 'benumb', 'dull', 'damp', 'blunt', 'irksome', 'dense', 'muffle', 'tiresome', 'thudding', 'softened', 'mute', 'ho-hum', 'tedious', 'pall', 'sluggish', 'dumb', 'dampen', 'wearisome', 'dim', 'boring', 'slow', 'obtuse', 'deadening', 'tone_down', 'numb', 'muted']",The Invisible Aborigine
+took,"['claim', 'select', 'necessitate', 'make', 'bring', 'take_away', 'take_in', 'submit', 'postulate', 'aim', 'accept', 'demand', 'take_up', 'engage', 'charter', 'occupy', 'call_for', 'rent', 'fill', 'deal', 'exact', 'assume', 'take_aim', 'have', 'guide', 'ingest', 'consume', 'acquire', 'admit', 'subscribe', 'pick_out', 'hire', 'get', 'involve', 'direct', 'withdraw', 'convey', 'drive', 'train', 'take_on', 'contain', 'carry', 'strike', 'pack', 'subscribe_to', 'consider', 'get_hold_of', 'film', 'take', 'lead', 'remove', 'study', 'read', 'contract', 'use_up', 'look_at', 'conduct', 'adopt', 'ask', 'require', 'learn', 'lease', 'hold', 'choose', 'shoot', 'need']",The Invisible Aborigine
+rubbing,"['rubbing', 'fray', 'rub', 'chafe', 'scratch', 'itch', 'fret', 'detrition', 'friction']",The Invisible Aborigine
+if,[],The Invisible Aborigine
+color,"['color', 'colorize', 'emblazon', 'distort', 'coloration', 'discolor', 'tinge', 'colouration', 'colorise', 'colourise', 'colouring_material', 'vividness', 'people_of_color', 'coloring_material', 'people_of_colour', 'gloss', 'discolour', 'coloring', 'color_in', 'colouring', 'colour_in', 'colourize', 'colour', 'semblance']",The Invisible Aborigine
+camped,"['tent', 'camp_down', 'camp', 'bivouac', 'camp_out', 'encamp']",The Invisible Aborigine
+moving,"['moving', 'actuate', 'make_a_motion', 'proceed', 'be_active', 'incite', 'motivate', 'prompt', 'move', 'impress', 'strike', 'locomote', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",The Invisible Aborigine
+Idje,[],The Invisible Aborigine
+also,"['besides', 'also', 'likewise', 'as_well', 'too']",The Invisible Aborigine
+live,"['subsist', 'experience', 'endure', 'live', 'bouncy', 'alive', 'lively', 'springy', 'hold_up', 'hold_out', 'last', 'unrecorded', 'resilient', 'live_on', 'be', 'know', 'hot', 'dwell', 'go', 'survive', 'exist', 'inhabit', 'populate']",The Invisible Aborigine
+sky,"['sky', 'flip', 'toss', 'pitch']",The Invisible Aborigine
+?,[],The Invisible Aborigine
+covered,"['incubate', 'overlay', 'hide', 'report', 'spread_over', 'wrap_up', 'covered', 'insure', 'cut_through', 'deal', 'track', 'cover_up', 'get_over', 'traverse', 'cross', 'treat', 'encompass', 'hatch', 'breed', 'handle', 'enshroud', 'shroud', 'embrace', 'brood', 'cover', 'compensate', 'get_across', 'underwrite', 'overcompensate', 'continue', 'cut_across', 'address', 'pass_over', 'comprehend', 'extend', 'plow']",The Invisible Aborigine
+feet,"['metrical_unit', 'infantry', 'animal_foot', 'invertebrate_foot', 'base', 'groundwork', 'fundament', 'understructure', 'human_foot', 'metrical_foot', 'substructure', 'foot', 'foundation', 'pes', 'ft']",The Invisible Aborigine
+along,"['on', 'along']",The Invisible Aborigine
+long,"['long', 'prospicient', 'tenacious', 'farseeing', 'foresighted', 'retentive', 'hanker', 'recollective', 'longsighted', 'yearn', 'foresightful', 'farsighted']",The Invisible Aborigine
+understand,"['understand', 'sympathize', 'empathize', 'sympathise', 'read', 'infer', 'realize', 'interpret', 'translate', 'empathise', 'see', 'realise']",The Invisible Aborigine
+could,[],The Invisible Aborigine
+died,"['break_down', 'perish', 'kick_the_bucket', 'die', ""cash_in_one's_chips"", 'die_out', 'croak', 'exit', 'become_flat', 'buy_the_farm', 'expire', 'pass_away', 'decease', 'conk_out', 'go_bad', 'pall', 'break', 'pass', 'give-up_the_ghost', 'pop_off', 'conk', 'go', 'drop_dead', 'snuff_it', 'give_out', 'choke', 'fail', 'give_way']",The Invisible Aborigine
+we,[],The Invisible Aborigine
+ever,"['ever', 'always', ""e'er"", 'ever_so', 'of_all_time']",The Invisible Aborigine
+reached,"['arrive_at', 'make', 'hit', 'reach_out', 'contact', 'get_to', 'progress_to', 'get_through', 'turn_over', 'attain', 'achieve', 'pass', 'reach', 'pass_on', 'strain', 'hand', 'strive', 'get_hold_of', 'gain', 'give', 'accomplish', 'touch', 'extend_to']",The Invisible Aborigine
+His,[],The Invisible Aborigine
+her,[],The Invisible Aborigine
+following,"['next', 'stick_with', 'succeed', 'accompany', 'espouse', 'pursuit', 'postdate', 'keep_an_eye_on', 'watch', 'pursue', 'following', 'surveil', 'pursual', 'fall_out', 'stick_to', 'undermentioned', 'keep_abreast', 'play_along', 'survey', 'come_after', 'take_after', 'be', 'chase', 'abide_by', 'conform_to', 'keep_up', 'observe', 'watch_over', 'comply', 'come', 'adopt', 'followers', 'follow', 'trace', 'travel_along']",The Invisible Aborigine
+expert,"['practiced', 'proficient', 'technical', 'expert', 'skillful', 'adept', 'skilful', 'good']",The Invisible Aborigine
+peeping,"['chirp', 'chirrup', 'peep', 'cheep']",The Invisible Aborigine
+Once,"['erst', 'one_time', 'formerly', 'erstwhile', 'at_one_time', 'once', 'in_one_case']",The Invisible Aborigine
+seemed,"['seem', 'appear', 'look']",The Invisible Aborigine
+head,"['drumhead', 'headspring', 'top_dog', 'promontory', 'chief', 'channelise', 'guide', 'psyche', 'fountainhead', 'maneuver', 'school_principal', 'question', 'read/write_head', 'mind', 'head', 'head_word', 'manoeuver', 'heading', 'manoeuvre', 'head_teacher', 'steer', 'direct', 'caput', 'point', 'header', 'head_up', 'oral_sex', 'headland', 'nous', 'pass', 'principal', 'channelize', 'forefront', 'lead', 'headway', 'capitulum', 'foreland', 'straits', 'brain']",The Invisible Aborigine
+do,"['make', 'brawl', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'DO', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'Doctor_of_Osteopathy', 'doh', 'coiffe', 'ut', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'bash']",The Invisible Aborigine
+bounced,"['recoil', 'jounce', 'ricochet', 'rebound', 'bound', 'take_a_hop', 'resile', 'bounce', 'reverberate', 'spring']",The Invisible Aborigine
+sores,['sore'],The Invisible Aborigine
+One's,[],The Invisible Aborigine
+Any,"['whatever', 'any', 'whatsoever']",The Invisible Aborigine
+rocked,"['rock', 'sway', 'shake']",The Invisible Aborigine
+wearing,"['endure', 'wear_out', 'put_on', 'erosion', 'outwear', 'fatigue', 'weary', 'wear_upon', 'tire_out', 'eating_away', 'assume', 'wear_thin', 'wear', 'wear_down', 'wear_off', 'hold_out', 'fag_out', 'tire', 'wearing', 'bear', 'fall_apart', 'bust', 'exhausting', 'break', 'don', 'tiring', 'wearying', 'get_into', 'have_on', 'jade', 'fag', 'eroding', 'wearing_away']",The Invisible Aborigine
+nondescript,"['characterless', 'nondescript']",The Invisible Aborigine
+pidgin,['pidgin'],The Invisible Aborigine
+convey,"['get', 'communicate', 'take', 'convey', 'bring', 'conduct', 'impart', 'fetch', 'express', 'carry', 'channel', 'transmit']",The Invisible Aborigine
+ugly,"['wretched', 'ugly', 'frightful', 'vile', 'horrifying', 'slimy', 'despicable', 'worthless', 'unworthy', 'atrocious', 'horrible', 'surly']",The Invisible Aborigine
+justifiably,['justifiably'],The Invisible Aborigine
+chasing,"['chase_after', 'trail', 'tail', 'track', 'give_chase', 'furrow', 'go_after', 'tag', 'chamfer', 'chase', 'dog']",The Invisible Aborigine
+man,"['valet', 'military_man', 'human', 'mankind', 'Isle_of_Man', 'adult_male', 'humanity', 'homo', 'piece', 'humans', 'Man', 'human_being', 'military_personnel', 'gentleman', 'serviceman', 'man', 'human_beings', 'world', ""gentleman's_gentleman"", 'humankind', 'valet_de_chambre', 'human_race']",The Invisible Aborigine
+mummified,"['mummify', 'dry_up']",The Invisible Aborigine
+know,"['experience', 'be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'live', 'screw', 'have_it_off', 'do_it', 'cognize', 'make_love', 'have_sex', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'bang', 'know', 'get_it_on', 'acknowledge', 'recognise', 'get_laid', 'jazz', 'have_a_go_at_it', 'love', 'cognise', 'sleep_with', 'eff', 'recognize', 'have_intercourse']",The Invisible Aborigine
+socket,['socket'],The Invisible Aborigine
+better,"['punter', 'honest', 'undecomposed', 'easily', 'unspoilt', 'meliorate', 'skillful', 'intimately', 'adept', 'skilful', 'good', 'amend', 'practiced', 'proficient', 'beneficial', 'substantially', 'safe', 'improve', 'full', 'expert', 'salutary', 'bettor', 'respectable', 'upright', 'advantageously', 'unspoiled', 'effective', 'comfortably', 'well', 'break', 'better', 'near', 'ripe', 'in_effect', 'considerably', 'best', 'dependable', 'dear', 'wagerer', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'ameliorate', 'estimable']",The Invisible Aborigine
+puddle,"['relieve_oneself', 'piddle', 'muddle', 'pass_water', 'make', 'take_a_leak', 'spend_a_penny', 'addle', 'wee', 'piss', 'pee-pee', 'micturate', 'make_water', 'puddle', 'urinate', 'pool', 'wee-wee', 'pee']",The Invisible Aborigine
+drifting,"['blow', 'range', 'freewheel', 'floating', 'drift', 'ramble', 'aimless', 'tramp', 'wander', 'rove', 'stray', 'vagabond', 'err', 'roll', 'cast', 'be_adrift', 'drifting', 'float', 'roam', 'swan', 'vagrant']",The Invisible Aborigine
+onto,[],The Invisible Aborigine
+paddock,['paddock'],The Invisible Aborigine
+forth,"['forth', 'forward', 'Forth_River', 'off', 'onward', 'away', 'Forth']",The Invisible Aborigine
+bulging,"['come_out', 'pop_out', 'convex', 'pouch', 'bulge', 'bulge_out', 'bulbous', 'bellying', 'protuberant', 'bulging', 'bellied', 'bug_out', 'protrude', 'bulgy', 'start', 'bag', 'pop', 'bulk']",The Invisible Aborigine
+It,"['IT', 'information_technology']",The Invisible Aborigine
+talk,"['spill', 'blab', 'utter', 'babble', 'talk_of_the_town', 'tattle', 'let_the_cat_out_of_the_bag', 'sing', 'talking', 'spill_the_beans', 'babble_out', 'public_lecture', 'verbalise', 'blab_out', 'lecture', 'talk', 'speak', 'mouth', 'peach', 'verbalize']",The Invisible Aborigine
+360,[],The Invisible Aborigine
+muscle,"['sinew', 'muscular_tissue', 'brawn', 'muscleman', 'muscle', 'brawniness', 'muscularity', 'heftiness', 'musculus']",The Invisible Aborigine
+lean,"['inclination', 'run', 'tend', 'slant', 'skimpy', 'tip', 'leaning', 'be_given', 'list', 'lean', 'incline', 'thin', 'angle', 'tilt']",The Invisible Aborigine
+suddenly,"['abruptly', 'suddenly', 'short', 'on_the_spur_of_the_moment', 'dead', 'all_of_a_sudden', 'of_a_sudden']",The Invisible Aborigine
+paws,"['hand', 'paw', 'mitt', 'manus']",The Invisible Aborigine
+first,"['number_one', 'beginning', 'showtime', 'inaugural', 'low', 'maiden', 'first-class_honours_degree', 'for_the_first_time', 'low_gear', 'kickoff', 'first_off', 'first_of_all', 'first_gear', 'initiatory', 'number_1', 'offset', 'get-go', 'initiative', 'world-class', 'outset', 'first_base', 'firstly', 'foremost', 'starting_time', 'start', 'commencement', 'first', '1st']",The Invisible Aborigine
+skin,"['scramble', 'bark', 'cutis', 'scrape', 'struggle', 'shinny', 'tegument', 'shin', 'sputter', 'peel', 'hide', 'pelt', 'clamber', 'skin', 'pare']",The Invisible Aborigine
+That,[],The Invisible Aborigine
+appalling,"['alarm', 'appall', 'scandalize', 'dismay', 'offend', 'horrify', 'outrage', 'appal', 'scandalise', 'appalling', 'dismaying', 'shock']",The Invisible Aborigine
+against,[],The Invisible Aborigine
+stretches,"['stretch_out', 'elongate', 'stretch_along', 'unfold', 'debase', 'stretching', 'stretch', 'adulterate', 'dilute', 'stretchability', 'stretchiness', 'extend', 'load', 'stint', 'reach', 'reaching']",The Invisible Aborigine
+Charles,"['Prince_Charles', 'Jacques_Charles', 'Charles', 'Jacques_Alexandre_Cesar_Charles', 'Charlemagne', 'Charles_the_Great', 'Charles_I', 'Charles_Stuart', 'Charles_II', 'Charles_IX', 'Carolus', 'Charles_the_Bald', 'Charles_River', 'Charles_VII']",The Invisible Aborigine
+yellow,"['sensationalistic', 'yellowness', 'xanthous', 'yellowed', 'scandalmongering', 'icteric', 'yellow', 'jaundiced', 'chickenhearted', 'white-livered', 'yellow-bellied', 'chicken', 'yellowish', 'lily-livered']",The Invisible Aborigine
+realized,"['completed', 'make', 'take_in', 'realized', 'clear', 'see', 'agnize', 'realise', 'actualize', 'earn', 'understand', 'pull_in', 'realised', 'accomplished', 'substantiate', 'agnise', 'recognise', 'bring_in', 'actualise', 'gain', 'realize', 'recognize']",The Invisible Aborigine
+supposed,"['opine', 'theorize', 'conjecture', 'presuppose', 'supposed', 'suppose', 'suppositional', 'guess', 'hypothetic', 'theorise', 'reckon', 'supposititious', 'suppositious', 'conjectural', 'divinatory', 'alleged', 'say', 'hypothecate', 'speculate', 'imagine', 'hypothesise', 'hypothesize', 'think', 'so-called', 'hypothetical']",The Invisible Aborigine
+same,"['Lapplander', 'like', 'Same', 'same', 'Saami', 'Saame', 'Lapp', 'Sami']",The Invisible Aborigine
+verve,"['vitality', 'verve']",The Invisible Aborigine
+than,[],The Invisible Aborigine
+cruelest,"['savage', 'brutal', 'roughshod', 'vicious', 'fell', 'cruel', 'barbarous']",The Invisible Aborigine
+birds,"['hoot', 'birdie', 'boo', 'razzing', 'bird', 'raspberry', 'birdwatch', 'razz', 'doll', 'chick', 'fowl', 'shuttlecock', 'Bronx_cheer', 'dame', 'hiss', 'skirt', 'shuttle', 'snort', 'wench']",The Invisible Aborigine
+Do,"['make', 'brawl', 'get_along', 'coif', 'cause', 'answer', 'behave', 'practise', 'DO', 'fare', 'make_out', 'execute', 'do', 'set', 'exercise', 'dress', 'practice', 'Doctor_of_Osteopathy', 'doh', 'coiffe', 'ut', 'manage', 'perform', 'serve', 'arrange', 'act', 'suffice', 'come', 'coiffure', 'bash']",The Invisible Aborigine
+saves,"['lay_aside', 'save', 'carry_through', 'redeem', 'economise', 'pull_through', 'spare', 'hold_open', 'make_unnecessary', 'economize', 'save_up', 'write', 'keep_open', 'relieve', 'preserve', 'deliver', 'keep', 'salvage', 'salve', 'bring_through']",The Invisible Aborigine
+negotiation,"['talks', 'negotiation', 'dialogue']",The Invisible Aborigine
+Every,['every'],The Invisible Aborigine
+nodded,['nod'],The Invisible Aborigine
+spoke,"['verbalize', 'spoke', 'rundle', 'address', 'talk', 'speak', 'mouth', 'radius', 'rung', 'wheel_spoke', 'utter', 'verbalise']",The Invisible Aborigine
+have,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'wealthy_person', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'rich_person', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",The Invisible Aborigine
+squall,"['shout_out', 'hollo', 'wawl', 'squall', 'waul', 'cry', 'shout', 'scream', 'call', 'yell', 'holler']",The Invisible Aborigine
+gimbaled,['gimbaled'],The Invisible Aborigine
+man's,[],The Invisible Aborigine
+upon,[],The Invisible Aborigine
+During,[],The Invisible Aborigine
+odd,"['curious', 'left_over', 'uneven', 'funny', 'unmatched', 'unpaired', 'unexpended', 'left', 'peculiar', 'unmated', 'rum', 'rummy', 'singular', 'odd', 'leftover', 'remaining', 'queer']",The Invisible Aborigine
+ended,"['cease', 'all_over', 'finish', 'terminated', 'stop', 'terminate', 'over', 'concluded', 'end', 'complete', 'ended']",The Invisible Aborigine
+southwest,"['southwestern', 'south-west', ""sou'-west"", 'SW', ""sou'west"", 'southwestern_United_States', 'southwestward', 'southwesterly', 'Southwest', 'southwest']",The Invisible Aborigine
+get,"['generate', 'sustain', 'experience', 'father', 'bugger_off', 'make', 'bring', 'draw', 'set_about', 'dumbfound', 'suffer', 'aim', 'cause', 'nonplus', 'stupefy', 'vex', 'grow', 'mother', 'pay_off', 'fuck_off', 'stick', 'have', 'start_out', 'engender', 'acquire', 'catch', 'find', 'get_down', 'incur', 'pay_back', 'arrest', 'scram', 'develop', 'get', 'buzz_off', 'set_out', 'commence', 'baffle', 'beget', 'gravel', 'convey', 'begin', 'drive', 'induce', 'amaze', 'obtain', 'mystify', 'become', 'let', 'capture', 'pose', 'arrive', 'fix', 'stimulate', 'puzzle', 'take', 'beat', 'produce', 'flummox', 'perplex', 'contract', 'come', 'go', 'fetch', ""get_under_one's_skin"", 'bring_forth', 'start', 'receive', 'sire', 'bewilder']",The Invisible Aborigine
+clouds,"['overcast', 'obnubilate', 'haze_over', 'corrupt', 'defile', 'sully', 'obscure', 'mottle', 'becloud', 'swarm', 'taint', 'befog', 'dapple', 'mist', 'fog', 'cloud']",The Invisible Aborigine
+remained,"['continue', 'remain', 'rest', 'stay', 'persist', 'stay_on']",The Invisible Aborigine
+weakens,"['damp', 'countermine', 'subvert', 'de-escalate', 'step_down', 'weaken', 'sabotage', 'break', 'dampen', 'undermine', 'counteract', 'soften']",The Invisible Aborigine
+trot,"['Trotskyist', 'Trot', 'lope', 'trot', 'pony', 'jog', 'Trotskyite', 'clip', 'crib']",The Invisible Aborigine
+degrees,"['point', 'level', 'arcdegree', 'stage', 'degree', 'academic_degree', 'grade']",The Invisible Aborigine
+friend,"['Quaker', 'admirer', 'friend', 'champion', 'ally', 'supporter', 'booster', 'Friend', 'acquaintance', 'protagonist']",The Invisible Aborigine
+The,[],The Invisible Aborigine
+you,[],The Invisible Aborigine
+watered,"['moire', 'irrigate', 'water', 'watered']",The Invisible Aborigine
+pool,"['syndicate', 'consortium', 'kitty', 'pond', 'puddle', 'pocket_billiards', 'pool']",The Invisible Aborigine
+Suddenly,"['abruptly', 'suddenly', 'short', 'on_the_spur_of_the_moment', 'dead', 'all_of_a_sudden', 'of_a_sudden']",The Invisible Aborigine
+mercilessly,"['unmercifully', 'pitilessly', 'remorselessly', 'mercilessly']",The Invisible Aborigine
+here,"['here', 'Hera', 'hither', 'Here']",The Invisible Aborigine
+are,"['constitute', 'equal', 'are', 'embody', 'cost', 'comprise', 'represent', 'make_up', 'live', 'be', 'personify', 'exist', 'follow', 'ar']",The Invisible Aborigine
+fella,"['fellow', 'fella', 'blighter', 'feller', 'bloke', 'chap', 'cuss', 'gent', 'lad']",The Invisible Aborigine
+reason,"['intellect', 'reason', 'reason_out', 'reasonableness', 'rationality', 'argue', 'understanding', 'conclude', 'cause', 'grounds', 'ground']",The Invisible Aborigine
+love,"['be_intimate', 'roll_in_the_hay', 'sleep_together', 'bed', 'screw', 'have_it_off', 'do_it', 'make_love', 'have_sex', 'dearest', 'making_love', 'make_out', 'fuck', 'bonk', 'lie_with', 'have_it_away', 'hump', 'honey', 'bang', 'know', 'get_it_on', 'passion', 'beloved', 'sexual_love', 'erotic_love', 'get_laid', 'jazz', 'have_a_go_at_it', 'love_life', 'love', 'dear', 'lovemaking', 'sleep_with', 'eff', 'enjoy', 'have_intercourse']",The Invisible Aborigine
+organism,"['being', 'organism']",The Invisible Aborigine
+enormous,"['tremendous', 'enormous']",The Invisible Aborigine
+this,[],The Invisible Aborigine
+part,"['break_up', 'contribution', 'portion', 'partly', 'character', 'persona', 'percentage', 'disunite', 'partially', 'piece', 'function', 'section', 'start_out', 'component', 'set_off', 'component_part', 'constituent', 'theatrical_role', 'split', 'depart', 'set_out', 'role', 'break', 'office', 'take_off', 'separate', 'set_forth', 'split_up', 'voice', 'region', 'parting', 'part', 'divide', 'start', 'share', 'division']",The Invisible Aborigine
+his,[],The Invisible Aborigine
+fifty,"['L', '50', 'fifty_dollar_bill', 'fifty', 'l']",The Invisible Aborigine
+crawl,"['front_crawl', 'grovel', 'fawn', 'Australian_crawl', 'cringe', 'crawl', 'creep', 'cower', 'crawling', 'creeping']",The Invisible Aborigine
+shade,"['shadiness', 'subtlety', 'tone', 'specter', 'wraith', 'shadow', 'refinement', 'nuance', 'spook', 'shade_off', 'nicety', 'ghost', 'tint', 'spectre', 'shadowiness', 'fill_in', 'tincture', 'shade', 'tad']",The Invisible Aborigine
+branch,"['offshoot', 'offset', 'leg', 'limb', 'fork', 'ramify', 'ramification', 'outgrowth', 'branch', 'arm', 'furcate', 'subdivision', 'separate']",The Invisible Aborigine
+suffered,"['sustain', 'digest', 'endure', 'suffer', 'hurt', 'meet', 'stick_out', 'ache', 'have', 'support', 'get', 'stomach', 'tolerate', 'abide', 'bear', 'lose', 'put_up', 'brook', 'stand']",The Invisible Aborigine
+badly,"['seriously', 'severely', 'mischievously', 'gravely', 'poorly', 'naughtily', 'bad', 'disadvantageously', 'ill', 'badly']",The Invisible Aborigine
+whole,"['unhurt', 'whole', 'hale', 'entirely', 'all', 'unscathed', 'unit', 'completely', 'totally', 'altogether', 'wholly', 'unharmed', 'solid', 'unanimous']",The Invisible Aborigine
+try,"['seek', 'try', 'render', 'effort', 'hear', 'test', 'adjudicate', 'sample', 'endeavor', 'attempt', 'prove', 'try_on', 'stress', 'judge', 'try_out', 'strain', 'essay', 'taste', 'examine', 'endeavour', 'assay']",The Invisible Aborigine
+error,"['misplay', 'computer_error', 'error', 'erroneous_belief', 'mistake', 'erroneousness', 'fault', 'wrongdoing']",The Invisible Aborigine
+civilized,"['civilize', 'school', 'genteel', 'train', 'civilized', 'civilised', 'polite', 'cultured', 'civilise', 'cultivate', 'cultivated', 'educate']",The Invisible Aborigine
+hard,"['severe', 'gruelling', 'severely', 'intemperately', 'punishing', 'firmly', 'heavily', 'hard', 'arduous', 'unvoiced', 'laborious', 'operose', 'backbreaking', 'grueling', 'toilsome', 'difficult', 'intemperate', 'knockout', 'concentrated', 'heavy', 'tough', 'surd', 'voiceless', 'strong']",The Invisible Aborigine
+children,"['tyke', 'nipper', 'shaver', 'child', 'youngster', 'fry', 'tike', 'minor', 'nestling', 'kid', 'tiddler', 'small_fry', 'baby']",The Invisible Aborigine
+asked,"['involve', 'expect', 'necessitate', 'take', 'inquire', 'enquire', 'postulate', 'require', 'ask', 'demand', 'call_for', 'need']",The Invisible Aborigine
+carved,"['carven', 'carve', 'cut_up', 'carved', 'chip_at']",The Invisible Aborigine
+accuracy,"['accuracy', 'truth']",The Invisible Aborigine
+she,[],The Invisible Aborigine
+its,"['IT', 'information_technology']",The Invisible Aborigine
+carefully,"['carefully', 'cautiously']",The Invisible Aborigine
+seeing,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'beholding', 'insure', 'visualise', 'pick_up', 'understand', 'seeing', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'sightedness', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'visual_perception', 'picture', 'regard', 'fancy', 'consider', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'eyesight', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Invisible Aborigine
+off,"['forth', 'turned', 'slay', 'bump_off', 'off', 'dispatch', 'remove', 'cancelled', 'away', 'murder', 'hit', 'polish_off', 'sour']",The Invisible Aborigine
+chest,"['dresser', 'chest', 'thorax', 'bureau', 'chest_of_drawers', 'pectus', 'breast']",The Invisible Aborigine
+short,"['unretentive', 'unawares', 'short-circuit', 'brusk', 'dead', 'curt', 'short_circuit', 'short-change', 'short', 'poor', 'little', 'shortstop', 'brusque', 'light', 'scant', 'forgetful', 'inadequate', 'myopic', 'shortly', 'unforesightful', 'abruptly', 'curtly', 'shortsighted', 'suddenly']",The Invisible Aborigine
+over,"['all_over', 'terminated', ""o'er"", 'over', 'concluded', 'complete', 'ended']",The Invisible Aborigine
+wash,"['wash_away', 'airstream', 'rinse', 'lap', 'wash_drawing', 'lave', 'wash_out', 'washables', 'lavation', 'race', 'wash', 'wash_off', 'laundry', 'washout', 'slipstream', 'washing', 'dry_wash', 'dampen', 'backwash', 'launder', 'moisten']",The Invisible Aborigine
+mean,"['miserly', 'beggarly', 'imply', 'base', 'stand_for', 'tight', 'mingy', 'entail', 'average', 'intend', 'mean', 'have_in_mind', 'bastardly', 'hateful', 'think_of', 'meanspirited', 'mean_value', 'think', 'signify']",The Invisible Aborigine
+smaller,"['pocket-size', 'humble', 'littler', 'pocket-sized', 'modest', 'diminished', 'minor', 'lowly', 'small-scale', 'low', 'minuscule', 'smaller', 'small', 'belittled', 'little']",The Invisible Aborigine
+angle,"['slant', 'weight', 'tip', 'lean', 'fish', 'Angle', 'angle', 'tilt']",The Invisible Aborigine
+stumbling,"['bumble', 'stumble', 'slip_up', 'hit', 'trip', 'trip_up', 'falter']",The Invisible Aborigine
+work,"['piece_of_work', 'employment', 'make', 'bring', 'function', 'solve', 'wreak', 'oeuvre', 'operate', 'exploit', 'do_work', 'crop', 'exercise', 'work', 'mould', 'knead', 'form', 'workplace', 'process', 'body_of_work', 'work_out', 'forge', 'play', 'make_for', 'cultivate', 'run', 'study', 'act_upon', 'act', 'shape', 'puzzle_out', 'go', 'influence', 'turn', 'figure_out', 'put_to_work', 'lick', 'sour', 'ferment', 'mold', 'work_on']",The Invisible Aborigine
+gives,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'springiness', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'spring', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",The Invisible Aborigine
+began,"['get', 'set_out', 'commence', 'start_out', 'begin', 'set_about', 'get_down', 'lead_off', 'start']",The Invisible Aborigine
+legs,"['pegleg', 'legs', 'leg', 'wooden_leg', 'ramification', 'peg', 'stage', 'branch']",The Invisible Aborigine
+countryside,['countryside'],The Invisible Aborigine
+But,"['simply', 'merely', 'only', 'just', 'but']",The Invisible Aborigine
+At,"['atomic_number_85', 'At', 'at', 'astatine']",The Invisible Aborigine
+swinging,"['sweep', 'get_around', 'tripping', 'swinge', 'swing_over', 'lilting', 'singe', 'swingy', 'vacillation', 'swinging', 'drop', 'sway', 'swing_out', 'dangle', 'swing']",The Invisible Aborigine
+Part,"['break_up', 'contribution', 'portion', 'partly', 'character', 'persona', 'percentage', 'disunite', 'partially', 'piece', 'function', 'section', 'start_out', 'component', 'set_off', 'component_part', 'constituent', 'theatrical_role', 'split', 'depart', 'set_out', 'role', 'break', 'office', 'take_off', 'separate', 'set_forth', 'split_up', 'voice', 'region', 'parting', 'part', 'divide', 'start', 'share', 'division']",The Invisible Aborigine
+then,"['then', 'and_so', 'and_then', 'so']",The Invisible Aborigine
+cosmetic,"['ornamental', 'decorative', 'enhancive', 'cosmetic']",The Invisible Aborigine
+square,"['hearty', 'substantial', 'squarely', 'straight', 'satisfying', 'square_up', 'square_toes', 'solid', 'foursquare', 'straightforward', 'public_square', 'feather', 'square', 'second_power', 'lame']",The Invisible Aborigine
+they,[],The Invisible Aborigine
+run,"['escape', 'range', 'track_down', 'endure', 'discharge', 'draw', 'trial', 'run_for', 'streamlet', 'turn_tail', 'break_away', 'function', 'runnel', 'test', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'ravel', 'lam', 'operate', 'persist', 'execute', 'run_away', 'work', 'rill', 'consort', 'melt', 'ply', 'rivulet', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'carry', 'play', 'foot_race', 'incline', 'footrace', 'pass', 'prevail', 'run', 'running_play', 'tend', 'bleed', 'hunt', 'campaign', 'streak', 'lead', 'hunt_down', 'scarper', 'running_game', 'outpouring', 'take_to_the_woods', 'go', 'ladder', 'political_campaign', 'lean', 'die_hard', 'extend', 'head_for_the_hills', 'bunk', 'tally', 'running']",The Invisible Aborigine
+slowly,"['slowly', 'easy', 'slow', 'lento', 'tardily']",The Invisible Aborigine
+salt,"['saltiness', 'common_salt', 'salt', 'SALT', 'salinity', 'Strategic_Arms_Limitation_Talks', 'table_salt']",The Invisible Aborigine
+thing,"['affair', 'thing', 'matter']",The Invisible Aborigine
+towns,"['townspeople', 'townsfolk', 'town', 'Ithiel_Town', 'township', 'Town']",The Invisible Aborigine
+patches,"['plot_of_land', 'while', 'plot_of_ground', 'speckle', 'fleck', 'spot', 'temporary_hookup', 'dapple', 'patch_up', 'spell', 'darn', 'eyepatch', 'mend', 'plot', 'patch', 'bandage', 'piece', 'maculation']",The Invisible Aborigine
+must,"['moldiness', 'mustiness', 'must']",The Invisible Aborigine
+high,"['senior_high_school', 'eminent', 'gamey', 'heights', 'senior_high', 'mellow', 'highschool', 'high_school', 'high_up', 'high', 'luxuriously', 'high_gear', 'in_high_spirits', 'high-pitched', 'richly', 'gamy']",The Invisible Aborigine
+really,"['very', 'genuinely', 'really', 'in_truth', 'truly', 'rattling', 'real', 'actually']",The Invisible Aborigine
+instrument,"[""cat's-paw"", 'legal_instrument', 'instrumental_role', 'musical_instrument', 'tool', 'pawn', 'instrument', 'official_document', 'instrumentate', 'legal_document']",The Invisible Aborigine
+material,"['stuff', 'corporeal', 'substantial', 'material', 'cloth', 'fabric', 'real', 'textile']",The Invisible Aborigine
+on,"['on', 'along']",The Invisible Aborigine
+peaceful,"['peaceable', 'passive', 'peaceful']",The Invisible Aborigine
+sheep,['sheep'],The Invisible Aborigine
+worker,"['proletarian', 'actor', 'prole', 'doer', 'worker']",The Invisible Aborigine
+brushed,"['sweep', 'brushed', 'brush', 'napped', 'fleecy']",The Invisible Aborigine
+leaning,"['tendency', 'proclivity', 'propensity', 'tip', 'leaning', 'list', 'slant', 'angle', 'inclination', 'be_given', 'incline', 'tilted', 'run', 'tend', 'atilt', 'canted', 'tipped', 'lean', 'tilt']",The Invisible Aborigine
+apple,"['Malus_pumila', 'apple', 'orchard_apple_tree']",The Invisible Aborigine
+powerful,"['potent', 'hefty', 'powerful', 'herculean', 'mightily', 'right', 'knock-down', 'muscular', 'sinewy', 'brawny', 'mighty']",The Invisible Aborigine
+described,"['describe', 'line', 'draw', 'depict', 'distinguish', 'name', 'described', 'key_out', 'report', 'trace', 'identify', 'key', 'delineate', 'account', 'discover']",The Invisible Aborigine
+the,[],The Invisible Aborigine
+Others,[],The Invisible Aborigine
+Watching,"['take_in', 'see', 'keep_an_eye_on', 'watch', 'catch', 'find_out', 'look_out', 'observation', 'ascertain', 'view', 'watching', 'determine', 'check', 'watch_out', 'observance', 'observe', 'watch_over', 'learn', 'follow', 'look_on']",The Invisible Aborigine
+smell,"['odour', 'aroma', 'flavour', 'look', 'olfactory_perception', 'smell', 'odor', 'tone', 'olfactory_property', 'olfactory_modality', 'olfaction', 'sense_of_smell', 'smell_out', 'feeling', 'feel', 'spirit', 'sense', 'scent', 'flavor', 'smelling', 'olfactory_sensation', 'smack', 'reek']",The Invisible Aborigine
+so,"['sol', 'thusly', 'therefore', 'indeed', 'and_so', 'soh', 'thus', 'thence', 'then', 'and_then', 'hence', 'so']",The Invisible Aborigine
+sharply,"['sharply', 'precipitously', 'acutely', 'aggressively', 'sharp', 'crisply']",The Invisible Aborigine
+wonderfully,"['wonderfully', 'wondrously', 'toppingly', 'marvelously', 'superbly', 'wondrous', 'terrifically', 'marvellously']",The Invisible Aborigine
+motion,"['motility', 'gesticulate', 'motion', 'move', 'movement', 'gesture', 'question', 'apparent_movement', 'apparent_motion']",The Invisible Aborigine
+from,[],The Invisible Aborigine
+many,['many'],The Invisible Aborigine
+extremely,"['highly', 'extremely', 'super', 'exceedingly', 'passing']",The Invisible Aborigine
+cranelike,[],The Invisible Aborigine
+there,"['there', 'at_that_place', 'on_that_point', 'thither', 'in_that_location', 'in_that_respect']",The Invisible Aborigine
+statuary,['statuary'],The Invisible Aborigine
+before,"['before', 'in_front', 'earlier', 'ahead']",The Invisible Aborigine
+these,[],The Invisible Aborigine
+dusty,"['dust-covered', 'cold', 'stale', 'dusty', 'moth-eaten']",The Invisible Aborigine
+different,"['different', 'dissimilar', 'unlike']",The Invisible Aborigine
+mate,"['fellow', 'checkmate', 'better_half', 'match', 'pair', 'spouse', 'copulate', 'partner', 'married_person', 'Ilex_paraguariensis', 'Paraguay_tea', 'twin', 'mate', 'first_mate', 'teammate', 'couple']",The Invisible Aborigine
+panel,"['gore', 'control_panel', 'dialog_box', 'impanel', 'control_board', 'venire', 'instrument_panel', 'empanel', 'jury', 'panel', 'board']",The Invisible Aborigine
+narrowed,"['pin_down', 'narrowed', 'constringe', 'narrow_down', 'narrow', 'nail_down', 'contract', 'specialize', 'constrict', 'specify', 'specialise', 'peg_down']",The Invisible Aborigine
+wind,"['farting', 'curve', 'breaking_wind', 'air_current', 'current_of_air', 'tip', 'wreathe', 'winding', 'nothingness', 'wrap', 'confidential_information', 'lift', 'weave', 'idle_words', 'thread', 'hoist', 'malarky', 'wander', 'twist', 'roll', 'steer', 'wind', 'scent', 'wind_instrument', 'malarkey', 'fart', 'jazz', 'meander', 'twine', 'lead', 'wind_up', 'nose', 'flatus', 'hint']",The Invisible Aborigine
+tree,"['corner', 'Sir_Herbert_Beerbohm_Tree', 'Tree', 'tree', 'shoetree', 'tree_diagram']",The Invisible Aborigine
+tall,"['marvelous', 'improbable', 'tall', 'marvellous', 'grandiloquent', 'magniloquent']",The Invisible Aborigine
+well,"['advantageously', 'swell', 'substantially', 'fountainhead', 'wellspring', 'well', 'easily', 'comfortably', 'intimately', 'considerably', 'good']",The Invisible Aborigine
+waited,"['expect', 'hold_off', 'hold_back', 'waitress', 'look', 'await', 'wait']",The Invisible Aborigine
+occasionally,"['at_times', 'now_and_again', 'from_time_to_time', 'now_and_then', 'occasionally', 'on_occasion', 'once_in_a_while']",The Invisible Aborigine
+controlled,"['manipulate', 'ensure', 'curb', 'command', 'see', 'insure', 'master', 'operate', 'see_to_it', 'ascertain', 'verify', 'controlled', 'check', 'assure', 'contain', 'moderate', 'control', 'hold_in', 'hold', 'keep_in_line']",The Invisible Aborigine
+you'd,[],The Invisible Aborigine
+sockets,['socket'],The Invisible Aborigine
+which,[],The Invisible Aborigine
+pack,"['ring', 'plurality', 'camp', 'bundle', 'compact', 'gang', 'throng', 'pile', 'ingroup', 'multitude', 'coterie', 'battalion', 'face_pack', 'tamp_down', 'tamp', 'carry', 'pack', 'wad', 'mob', 'clique', 'take', 'large_number', 'backpack', 'jam', 'inner_circle', 'load_down']",The Invisible Aborigine
+water,"['weewee', 'irrigate', 'H2O', 'piddle', 'water_system', 'urine', 'piss', 'pee', 'water_supply', 'body_of_water', 'water']",The Invisible Aborigine
+squatting,"['hunker', 'scrunch_up', 'knee_bend', 'squat', 'crouch', 'scrunch', 'squatting', 'hunker_down']",The Invisible Aborigine
+turned,"['reverse', 'change_by_reversal', 'flex', 'grow', 'off', 'rick', 'move_around', 'sprain', 'change_state', 'work', 'twist', 'turn_over', 'call_on', 'release', 'plough', 'deform', 'become', 'turned', 'wrench', 'bend', 'turn', 'sour', 'ferment', 'plow', 'wrick']",The Invisible Aborigine
+wispy,"['wisplike', 'wispy', 'faint', 'vague', 'shadowy', 'dim']",The Invisible Aborigine
+ribs,"['costa', 'jest_at', 'guy', 'poke_fun', 'laugh_at', 'make_fun', 'rib', 'blackguard', 'roast', 'ridicule']",The Invisible Aborigine
+asphalt,"['mineral_pitch', 'asphalt']",The Invisible Aborigine
+a,"['vitamin_A', 'A', 'a', 'axerophthol', 'deoxyadenosine_monophosphate', 'group_A', 'ampere', 'amp', 'type_A', 'angstrom', 'adenine', 'angstrom_unit', 'antiophthalmic_factor']",The Invisible Aborigine
+insects,"['insect', 'worm', 'dirt_ball', 'louse']",The Invisible Aborigine
+shunning,"['turning_away', 'avoidance', 'ostracize', 'shunning', 'blackball', 'dodging', 'cast_out', 'shun', 'ostracise', 'eschew', 'ban', 'banish']",The Invisible Aborigine
+realize,"['understand', 'bring_in', 'actualise', 'pull_in', 'gain', 'make', 'take_in', 'realize', 'actualize', 'substantiate', 'clear', 'see', 'agnize', 'realise', 'agnise', 'recognize', 'recognise', 'earn']",The Invisible Aborigine
+reservations,"['reservation', 'mental_reservation', 'qualification', 'booking', 'arriere_pensee', 'reserve']",The Invisible Aborigine
+graceful,"['graceful', 'elegant', 'refined']",The Invisible Aborigine
+had,"['sustain', 'experience', 'give_birth', 'make', 'take_in', 'suffer', 'have_got', 'cause', 'accept', 'own', 'have', 'feature', 'ingest', 'consume', 'get', 'bear', 'throw', 'induce', 'let', 'stimulate', 'birth', 'possess', 'take', 'deliver', 'give', 'hold', 'receive']",The Invisible Aborigine
+me,"['ME', 'Maine', 'Pine_Tree_State']",The Invisible Aborigine
+skirt,"['ring', 'fudge', 'duck', 'elude', 'surround', 'bird', 'evade', 'annulus', 'hedge', 'environ', 'border', 'dodge', 'doll', 'chick', 'parry', 'circumvent', 'put_off', 'dame', 'skirt', 'wench', 'sidestep']",The Invisible Aborigine
+gazed,"['gaze', 'stare']",The Invisible Aborigine
+give,"['generate', 'return', 'render', 'make', 'consecrate', 'cave_in', 'have', 'fall_in', 'gift', 'contribute', 'collapse', 'ease_up', 'impart', 'leave', 'turn_over', 'move_over', 'feed', 'throw', 'commit', 'springiness', 'chip_in', 'break', 'pay', 'founder', 'pass', 'dedicate', 'reach', 'kick_in', 'pass_on', 'spring', 'yield', 'grant', 'hand', 'devote', 'afford', 'establish', 'open', 'give', 'present', 'hold', 'apply', 'give_way', 'sacrifice']",The Invisible Aborigine
+apart,"['aside', 'obscure', 'apart', 'asunder', 'isolated']",The Invisible Aborigine
+vast,"['vast', 'immense', 'Brobdingnagian', 'huge']",The Invisible Aborigine
+your,[],The Invisible Aborigine
+put,"['put', 'put_option', 'couch', 'lay', 'invest', 'place', 'arrange', 'order', 'commit', 'cast', 'set_up', 'redact', 'set', 'pose', 'frame', 'assign', 'position']",The Invisible Aborigine
+malnourished,"['malnourished', 'malnourish', 'undernourish']",The Invisible Aborigine
+target,"['target', 'fair_game', 'butt', 'objective', 'place', 'target_area', 'direct', 'point', 'prey', 'object', 'aim', 'mark', 'quarry']",The Invisible Aborigine
+who's,[],The Invisible Aborigine
+even,"['still', 'fifty-fifty', 'even_out', 'flush', 'eve', 'even', 'level', 'regular', 'tied', 'yet', 'eventide', 'evening']",The Invisible Aborigine
+navigate,"['pilot', 'voyage', 'navigate', 'sail']",The Invisible Aborigine
+town,"['townspeople', 'townsfolk', 'town', 'Ithiel_Town', 'township', 'Town']",The Invisible Aborigine
+inhuman,"['cold', 'cold-blooded', 'insensate', 'inhuman']",The Invisible Aborigine
+never,"[""ne'er"", 'never']",The Invisible Aborigine
+crawling,"['grovel', 'fawn', 'cringe', 'crawl', 'creep', 'cower', 'crawling', 'creeping']",The Invisible Aborigine
+band,"['ring', 'stria', 'stripe', 'circle', 'isthmus', 'dance_band', 'set', 'striation', 'lot', 'banding', 'dance_orchestra', 'band']",The Invisible Aborigine
+chaps,"['fellow', 'fella', 'crack', 'blighter', 'fissure', 'feller', 'cranny', 'bloke', 'chap', 'cuss', 'gent', 'lad', 'crevice']",The Invisible Aborigine
+lubra,[],The Invisible Aborigine
+us,"['U.S.', 'uracil', 'US', 'atomic_number_92', 'the_States', 'United_States_of_America', 'United_States', 'uranium', 'America', 'U', 'u', 'U.S.A.', 'USA']",The Invisible Aborigine
+aborigine,"['aborigine', 'indigene', 'Abo', 'indigen', 'Australian_Aborigine', 'Aboriginal', 'Aborigine', 'native_Australian', 'native', 'aboriginal']",The Invisible Aborigine
+repellent,"['yucky', 'repelling', 'wicked', 'repellant', 'revolting', 'disgustful', 'repellent', 'loathly', 'loathsome', 'distasteful', 'resistant', 'skanky', 'disgusting', 'rebarbative', 'foul']",The Invisible Aborigine
+aborigines,"['aborigine', 'indigene', 'Abo', 'indigen', 'Australian_Aborigine', 'Aboriginal', 'Aborigine', 'native_Australian', 'native', 'aboriginal']",The Invisible Aborigine
+surface,"['come_out', 'control_surface', 'come_up', ""Earth's_surface"", 'come_on', 'show_up', 'surface', 'turn_up', 'coat', 'rise', 'rise_up', 'airfoil', 'aerofoil', 'open']",The Invisible Aborigine
+lost,"['suffer', 'missed', 'misplace', 'bewildered', 'miss', 'confounded', 'confused', 'lost', 'helpless', 'fall_behind', 'mazed', 'mislay', 'fall_back', 'turn_a_loss', 'lose', 'doomed', 'bemused', 'disoriented', 'drop_off', 'mixed-up', 'recede', 'at_sea', 'preoccupied', 'deep_in_thought', 'baffled', 'befuddled']",The Invisible Aborigine
+dancing,"['trip_the_light_fantastic', 'saltation', 'dance', 'dancing', 'trip_the_light_fantastic_toe', 'terpsichore']",The Invisible Aborigine
+no,"['No', 'atomic_number_102', 'nobelium', 'no', 'no_more']",The Invisible Aborigine
+face,"['grimace', 'look', 'font', 'confront', 'fount', 'brass', 'human_face', 'face', 'nerve', 'typeface', 'front', 'cheek', 'case', 'boldness', 'face_up', 'facial_expression', 'expression', 'aspect', 'present', 'side']",The Invisible Aborigine
+great,"['large', 'big', 'enceinte', 'capital', 'not_bad', 'bully', 'bang-up', 'outstanding', 'great', 'cracking', 'nifty', 'swell', 'corking', 'keen', 'groovy', 'dandy', 'peachy', 'expectant', 'smashing', 'slap-up', 'gravid', 'heavy', 'with_child', 'majuscule', 'neat']",The Invisible Aborigine
+together,"['together', 'in_concert', 'unitedly']",The Invisible Aborigine
+front,"['social_movement', 'straw_man', 'front_end', 'presence', 'figurehead', 'look', 'movement', 'face', 'battlefront', 'front_man', 'strawman', 'nominal_head', 'breast', 'front', 'forepart', 'front_line']",The Invisible Aborigine
+twenty-mile,[],The Invisible Aborigine
+roll,"['range', 'seethe', 'roster', 'pealing', 'undulate', 'scroll', 'bun', 'bankroll', 'wrap', 'bowl', 'wheel', 'axial_motion', 'coil', 'rolling', 'drift', 'ramble', 'axial_rotation', 'tramp', 'wander', 'curl', 'rolling_wave', 'hustle', 'rove', 'stray', 'roll_up', 'vagabond', 'turn_over', 'roll', 'pluck', 'gyre', 'wind', 'cast', 'wave', 'revolve', 'paradiddle', 'ringlet', 'curlicue', 'flap', 'peal', 'roll_out', 'drum_roll', 'twine', 'roam', 'swan', 'roller', 'whorl']",The Invisible Aborigine
+lope,"['canter', 'lope', 'trot', 'jog']",The Invisible Aborigine
+northeast,"['northeast', 'northeastern_United_States', ""nor'-east"", 'northeasterly', 'north-east', 'NE', 'Northeast', 'northeastern', 'northeastward']",The Invisible Aborigine
+don't,[],The Invisible Aborigine
+our,[],The Invisible Aborigine
+sheet,"['sail', 'shroud', 'sheet_of_paper', 'plane', 'canvass', 'sheet', 'mainsheet', 'tabloid', 'piece_of_paper', 'rag', 'bed_sheet', 'canvas', 'flat_solid', 'weather_sheet', 'tack']",The Invisible Aborigine
+dark,"['dour', 'dismal', 'sullen', 'disconsolate', 'sorry', 'coloured', 'drab', 'glowering', 'night', 'shadow', 'black', 'nighttime', 'drear', 'glum', 'benighted', 'obscure', 'dark', 'dark-skinned', 'blue', 'dreary', 'darkness', 'gloomy', 'non-white', 'colored', 'morose', 'saturnine', 'iniquity', 'sinister', 'moody', 'sour', 'grim', 'wickedness', 'dingy']",The Invisible Aborigine
+Their,[],The Invisible Aborigine
+should,[],The Invisible Aborigine
+Rover,"['roamer', 'wanderer', 'scouter', 'bird_of_passage', 'rover']",The Invisible Aborigine
+cloud,"['overcast', 'obnubilate', 'haze_over', 'corrupt', 'defile', 'sully', 'obscure', 'mottle', 'becloud', 'swarm', 'taint', 'befog', 'dapple', 'mist', 'fog', 'cloud']",The Invisible Aborigine
+shoulders,"['articulatio_humeri', 'shoulder_joint', 'berm', 'shoulder']",The Invisible Aborigine
+happened,"['hap', 'happen', 'pass_off', 'take_place', 'occur', 'befall', 'materialize', 'bechance', 'find', 'chance', 'bump', 'encounter', 'fall_out', 'materialise', 'pass', 'go_on', 'come_about']",The Invisible Aborigine
+might,"['might', 'power', 'mightiness']",The Invisible Aborigine
+think,"['opine', 'cogitate', 'believe', 'suppose', 'guess', 'conceive', 'reckon', 'recall', 'intend', 'mean', 'recollect', 'consider', 'imagine', 'remember', 'think', 'cerebrate', 'call_back', 'call_up', 'retrieve']",The Invisible Aborigine
+avoiding,"['forfend', 'invalidate', 'quash', 'void', 'nullify', 'head_off', 'stave_off', 'keep_off', 'deflect', 'obviate', 'annul', 'avert', 'ward_off', 'forefend', 'debar', 'avoid', 'fend_off']",The Invisible Aborigine
+mouth,"['mouthpiece', 'sass', 'backtalk', 'lip', 'talk', 'oral_cavity', 'speak', 'mouth', 'back_talk', 'sassing', 'oral_fissure', 'rima_oris', 'verbalize', 'utter', 'verbalise']",The Invisible Aborigine
+until,[],The Invisible Aborigine
+just,"['hardly', 'upright', 'just_now', 'simply', 'merely', 'only', 'scarcely', 'equitable', 'exactly', 'just', 'barely', 'but', 'scarce', 'fair', 'precisely', 'good']",The Invisible Aborigine
+bare,"['denude', 'unembellished', 'marginal', 'unfinished', 'unornamented', 'spare', 'stark', 'air', 'barren', 'stripped', 'mere', 'desolate', 'plain', 'au_naturel', 'bleak', 'nude', 'publicize', 'denudate', 'publicise', 'strip', 'scanty', 'bare', 'naked', 'simple', 'unsheathed']",The Invisible Aborigine
+velocity,"['speed', 'velocity']",The Invisible Aborigine
+Her,[],The Invisible Aborigine
+almost,"['nigh', 'virtually', 'about', 'most', 'nearly', 'well-nigh', 'almost', 'near']",The Invisible Aborigine
+several,"['respective', 'several', 'various']",The Invisible Aborigine
+he,"['He', 'helium', 'atomic_number_2', 'he']",The Invisible Aborigine
+shaped,"['mould', 'form', 'shaped', 'shape', 'molded', 'influence', 'determine', 'regulate', 'forge', 'wrought', 'work', 'mold']",The Invisible Aborigine
+father,"['generate', 'father', 'Padre', 'forefather', 'Father', 'founding_father', 'mother', 'engender', 'Fatherhood', 'Church_Father', 'male_parent', 'begetter', 'get', 'beget', 'Father-God', 'don', 'Father_of_the_Church', 'founder', 'beginner', 'bring_forth', 'sire']",The Invisible Aborigine
+located,"['place', 'situated', 'located', 'turn_up', 'placed', 'locate', 'set', 'settle', 'situate', 'site']",The Invisible Aborigine
+make,"['take_a_shit', 'arrive_at', 'lay_down', 'make', 'make_believe', 'draw', 'take_in', 'take_a_leak', 'wee', 'clear', 'realise', 'cause', 'hit', 'micturate', 'urinate', 'pee', 'earn', 'constitute', 'construct', 'cook', 'stool', 'piddle', 'have', 'pull_in', 'build', 'spend_a_penny', 'ready', 'brand', 'get_to', 'do', 'make_water', 'progress_to', 'relieve_oneself', 'wee-wee', 'work', 'get', 'form', 'throw', 'shuffling', 'make_up', 'shuffle', 'induce', 'name', 'attain', 'score', 'puddle', 'create', 'reach', 'defecate', 'fix', 'stimulate', 'bring_in', 'pretend', 'take', 'pass_water', 'produce', 'gain', 'establish', 'realize', 'take_a_crap', 'give', 'piss', 'prepare', 'hold', 'seduce', 'crap', 'pee-pee', 'ca-ca', 'nominate', 'shit']",The Invisible Aborigine
+runway,"['rails', 'track', 'runway', 'rail']",The Invisible Aborigine
+riders,"['rider', 'passenger']",The Invisible Aborigine
+figure,"['number', 'enter', 'estimate', 'pattern', 'fig', 'physique', 'calculate', 'figure', 'material_body', 'see', 'compute', 'bod', 'trope', 'soma', 'count_on', 'visualise', 'image', 'reckon', 'build', 'anatomy', 'public_figure', 'flesh', 'digit', 'physical_body', 'form', 'design', 'envision', 'name', 'figure_of_speech', 'work_out', 'picture', 'cypher', 'frame', 'chassis', 'fancy', 'cipher', 'shape', 'human_body', 'visualize', 'project', 'forecast']",The Invisible Aborigine
+Only,"['solitary', 'entirely', 'simply', 'merely', 'only', 'only_if', 'alone', 'lonesome', 'exclusively', 'just', 'solely', 'but', 'only_when', 'lone', 'sole']",The Invisible Aborigine
+see,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Invisible Aborigine
+after,"['subsequently', 'afterwards', 'after', 'later_on', 'later', 'afterward']",The Invisible Aborigine
+showed,"['render', 'shew', 'show_up', 'evidence', 'register', 'usher', 'evince', 'testify', 'indicate', 'demo', 'bear_witness', 'express', 'record', 'prove', 'point', 'depict', 'designate', 'demonstrate', 'show', 'picture', 'exhibit', 'read', 'establish', 'present']",The Invisible Aborigine
+knees,"['stifle', 'articulatio_genus', 'human_knee', 'knee_joint', 'genu', 'knee']",The Invisible Aborigine
+cool,"['assuredness', 'nerveless', 'sang-froid', 'aplomb', 'cool_off', 'chill', 'cool_down', 'poise', 'coolheaded', 'cool']",The Invisible Aborigine
+memorize,"['memorise', 'memorize', 'learn', 'con']",The Invisible Aborigine
+would,[],The Invisible Aborigine
+possessions,"['self-will', 'self-possession', 'possession', 'will_power', 'willpower', 'self-command', 'monomania', 'self-control', 'ownership']",The Invisible Aborigine
+dishonest,"['dishonorable', 'dishonest', 'corruptible', 'venal', 'bribable', 'purchasable']",The Invisible Aborigine
+elbows,"['cubital_joint', 'elbow_joint', 'cubitus', 'articulatio_cubiti', 'human_elbow', 'elbow']",The Invisible Aborigine
+course,"['of_course', 'track', 'line', 'run', 'form', 'feed', 'course', 'course_of_action', 'course_of_instruction', 'flow', 'trend', 'course_of_study', 'path', 'row', 'naturally', 'class', 'grade']",The Invisible Aborigine
+stones,"['Harlan_F._Stone', 'stone', 'gemstone', 'Harlan_Fisk_Stone', 'Oliver_Stone', 'Lucy_Stone', 'Edward_Durell_Stone', 'Harlan_Stone', 'Isidor_Feinstein_Stone', 'lapidate', 'endocarp', 'gem', 'rock', 'I._F._Stone', 'Harlan_Fiske_Stone', 'pit', 'Stone']",The Invisible Aborigine
+pathos,"['poignancy', 'pathos', 'pity', 'ruth', 'commiseration']",The Invisible Aborigine
+intercepted,"['tap', 'bug', 'wiretap', 'stop', 'intercept']",The Invisible Aborigine
+spear-throwing,[],The Invisible Aborigine
+government,"['governing', 'regime', 'politics', 'authorities', 'governance', 'government_activity', 'administration', 'government', 'political_science']",The Invisible Aborigine
+disturbed,"['raise_up', 'distressed', 'crazy', 'upset', 'brainsick', 'mad', 'vex', 'interrupt', 'unbalanced', 'disturbed', 'disquieted', 'worried', 'maladjusted', 'shake_up', 'trouble', 'stir_up', 'commove', 'sick', 'unhinged', 'demented', 'touch', 'disturb', 'agitate']",The Invisible Aborigine
+soft,"['voiced', 'diffuse', 'indulgent', 'lenient', 'sonant', 'diffused', 'mild', 'flabby', 'piano', 'easy', 'flaccid', 'gentle', 'easygoing', 'cushy', 'subdued', 'delicate', 'balmy', 'soft']",The Invisible Aborigine
+house,"['household', 'star_sign', 'sign', 'theater', 'mansion', 'sign_of_the_zodiac', 'menage', 'home', 'put_up', 'planetary_house', 'business_firm', 'domiciliate', 'theatre', 'family', 'firm', 'house']",The Invisible Aborigine
+wish,"['wish_well', 'wish', 'like', 'wishing', 'want', 'bid', 'compliments', 'indirect_request', 'regard', 'care']",The Invisible Aborigine
+entirely,"['entirely', 'all', 'whole', 'only', 'completely', 'alone', 'totally', 'altogether', 'wholly', 'exclusively', 'solely']",The Invisible Aborigine
+ran,"['escape', 'range', 'track_down', 'endure', 'draw', 'run_for', 'turn_tail', 'break_away', 'function', 'fly_the_coop', 'melt_down', 'black_market', 'hightail_it', 'course', 'guide', 'race', 'lam', 'operate', 'execute', 'persist', 'run_away', 'work', 'consort', 'melt', 'ply', 'feed', 'be_given', 'move', 'unravel', 'flow', 'scat', 'carry', 'play', 'incline', 'prevail', 'pass', 'run', 'tend', 'bleed', 'hunt', 'lead', 'campaign', 'hunt_down', 'scarper', 'take_to_the_woods', 'go', 'die_hard', 'lean', 'ladder', 'extend', 'head_for_the_hills', 'bunk']",The Invisible Aborigine
+moved,"['actuate', 'make_a_motion', 'proceed', 'be_active', 'incite', 'motivate', 'prompt', 'moved', 'move', 'impress', 'stirred', 'affected', 'strike', 'locomote', 'touched', 'displace', 'run', 'propel', 'act', 'go', 'affect', 'travel']",The Invisible Aborigine
+proud,"['proud', 'gallant', 'majestic', 'lofty']",The Invisible Aborigine
+of,[],The Invisible Aborigine
+shut,"['exclude', 'unopen', 'keep_out', 'shut', 'closed', 'shut_out', 'close']",The Invisible Aborigine
+wooden,['wooden'],The Invisible Aborigine
+attempted,"['essay', 'seek', 'try', 'set_about', 'undertake', 'assay', 'attempted', 'attempt']",The Invisible Aborigine
+Sometimes,['sometimes'],The Invisible Aborigine
+patted,"['pat', 'chuck', 'dab']",The Invisible Aborigine
+lashes,"['lash', 'eyelash', 'whip', 'whiplash', 'lather', 'thong', 'flog', 'trounce', 'cilium', 'slash', 'strap', 'welt']",The Invisible Aborigine
+very,"['very', 'selfsame', 'identical', 'really', 'rattling', 'real']",The Invisible Aborigine
+They,[],The Invisible Aborigine
+keep,"['sustenance', 'celebrate', 'sustain', 'save', 'donjon', 'keep_back', 'dungeon', 'proceed', 'living', 'support', 'maintain', 'hold_open', 'prevent', 'livelihood', 'keep_on', 'keep_open', 'hold_on', 'stay_fresh', 'preserve', 'continue', 'observe', 'keep', 'restrain', 'retain', 'hold_back', 'bread_and_butter', 'hold', 'go_along', 'go_on']",The Invisible Aborigine
+dried,"['dehydrated', 'dried', 'desiccated', 'dry_out', 'dry']",The Invisible Aborigine
+;,[],The Invisible Aborigine
+beard,"['face_fungus', 'byssus', 'beard', 'whiskers']",The Invisible Aborigine
+day,"['Day', 'daylight', 'twenty-four_hour_period', 'sidereal_day', 'Clarence_Day', 'day', '24-hour_interval', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'solar_day', 'daytime', 'twenty-four_hours']",The Invisible Aborigine
+bathed,"['bathe', 'bath']",The Invisible Aborigine
+glance,"[""coup_d'oeil"", 'glimpse', 'glance', 'glint', 'peek']",The Invisible Aborigine
+far,"['Army_for_the_Liberation_of_Rwanda', 'ALIR', 'Interahamwe', 'FAR', 'far', 'Former_Armed_Forces']",The Invisible Aborigine
+games,"['back', 'gage', 'punt', 'stake', 'plot', 'bet_on', 'game', 'secret_plan', 'biz']",The Invisible Aborigine
+family,"['folk', 'menage', 'sept', 'class', 'household', 'kinfolk', 'kinsfolk', 'house', 'kin', 'kinsperson', 'fellowship', 'family_unit', 'family', 'mob', 'phratry', 'syndicate', 'family_line', 'home', 'crime_syndicate', 'category']",The Invisible Aborigine
+small,"['pocket-size', 'humble', 'pocket-sized', 'modest', 'diminished', 'minor', 'lowly', 'small-scale', 'low', 'minuscule', 'small', 'belittled', 'little']",The Invisible Aborigine
+time,"['metre', 'time', 'prison_term', 'clock_time', 'clip', 'meter', 'sentence', 'clock', 'fourth_dimension']",The Invisible Aborigine
+promise,"['predict', 'anticipate', 'hope', 'promise', 'foretell', 'forebode', 'assure', 'prognosticate', 'call']",The Invisible Aborigine
+suspect,"['suspect', 'surmise', 'funny', 'fishy', 'mistrust', 'shady', 'distrust', 'suspicious', 'defendant']",The Invisible Aborigine
+gently,"['mildly', 'lightly', 'gently', 'softly']",The Invisible Aborigine
+place,"['put', 'come_out', 'target', 'range', 'place', 'situation', 'aim', 'station', 'property', 'position', 'rate', 'lay', 'plaza', 'stead', 'set', 'come_in', 'post', 'order', 'direct', 'invest', 'seat', 'point', 'billet', 'commit', 'shoes', 'localize', 'identify', 'rank', 'office', 'pose', 'grade', 'localise', 'topographic_point', 'blank_space', 'home', 'spot', 'space', 'send', 'locate', 'lieu', 'berth', 'site', 'piazza']",The Invisible Aborigine
+human,"['man', 'human_being', 'homo', 'human']",The Invisible Aborigine
+binoculars,"['field_glasses', 'opera_glasses', 'binoculars']",The Invisible Aborigine
+suppose,"['opine', 'imagine', 'theorise', 'say', 'theorize', 'hypothecate', 'conjecture', 'reckon', 'hypothesise', 'presuppose', 'hypothesize', 'think', 'suppose', 'guess', 'speculate']",The Invisible Aborigine
+appeared,"['come_out', 'appear', 'look', 'seem', 'come_along']",The Invisible Aborigine
+rigid,"['stiff', 'fixed', 'strict', 'unbending', 'inflexible', 'set', 'rigid']",The Invisible Aborigine
+landscape,"['landscape', 'landscape_painting']",The Invisible Aborigine
+Bean,"['dome', 'bean_plant', 'noggin', 'edible_bean', 'bean', 'attic', 'noodle', 'bonce']",The Invisible Aborigine
+dog,"['trail', 'frump', 'hot_dog', 'bounder', 'dog', 'cad', 'wienerwurst', 'tail', 'track', 'pawl', 'give_chase', 'frankfurter', 'click', 'wiener', 'blackguard', 'Canis_familiaris', 'domestic_dog', 'frank', 'hotdog', 'detent', 'chase_after', 'hound', 'firedog', 'chase', 'dog-iron', 'andiron', 'heel', 'weenie', 'go_after', 'tag']",The Invisible Aborigine
+gray,"['hoary', 'gray-headed', 'grey-haired', 'Gy', 'gray', 'grayness', 'Asa_Gray', 'greyness', 'grey-headed', 'hoar', 'white-haired', 'Robert_Gray', 'grey', 'Louis_Harold_Gray', 'Thomas_Gray', 'greyish', 'grayish', 'gray-haired', 'grizzly', 'Gray']",The Invisible Aborigine
+slant,"['tilt', 'weight', 'slant', 'tip', 'rake', 'cant_over', 'lean', 'cant', 'angle', 'pitch']",The Invisible Aborigine
+wolf,"['savage', 'brute', 'Wolf', 'wolf', 'Hugo_Wolf', 'wolf_down', 'Friedrich_August_Wolf', 'woman_chaser', 'skirt_chaser', 'wildcat', 'beast', 'masher']",The Invisible Aborigine
+variety,"['potpourri', 'form', 'mixed_bag', 'multifariousness', 'salmagundi', 'sort', 'variety_show', 'assortment', 'variety', 'smorgasbord', 'motley', 'diverseness', 'miscellany', 'kind', 'change', 'mixture', 'diversity', 'miscellanea']",The Invisible Aborigine
+set,"['put', 'hardened', 'determined', 'place', 'located', 'adjust', 'lay_out', 'typeset', 'coif', 'rigid', 'lot', 'correct', 'band', 'position', 'Set', 'go_down', 'congeal', 'exercise_set', 'sic', 'lay', 'readiness', 'limit', 'ready', 'primed', 'placed', 'Seth', 'set', 'define', 'fructify', 'mark', 'go_under', 'do', 'curing', 'laid', 'rig', 'dress', 'stage_set', 'situated', 'fit', 'circle', 'jell', 'dictated', 'hardening', 'bent', 'determine', 'solidifying', 'localize', 'coiffe', 'solidification', 'pose', 'plant', 'fix', 'arrange', 'localise', 'fixed', 'set_up', 'coiffure', 'prepare', 'specify', 'countersink', 'gear_up']",The Invisible Aborigine
+Finally,"['in_the_end', 'lastly', 'in_conclusion', 'finally', 'at_long_last', 'at_last', 'ultimately', 'last', 'eventually']",The Invisible Aborigine
+returned,"['generate', 'return', 'render', 'repay', 'riposte', 'take_back', 'rejoin', 'turn_back', 'recall', 'refund', 'bring_back', 'come_back', 'reelect', 'fall', 'retrovert', 'retort', 'pass', 'regress', 'give_back', 'revert', 'yield', 'hark_back', 'deliver', 'devolve', 'give']",The Invisible Aborigine
+stared,"['gaze', 'asterisk', 'stare', 'star']",The Invisible Aborigine
+boomerang,"['throwing_stick', 'throw_stick', 'backfire', 'boomerang']",The Invisible Aborigine
+that,[],The Invisible Aborigine
+waste,"['blow', 'emaciate', 'pine_away', 'waste_material', 'devastate', 'squander', 'run_off', 'knock_off', 'permissive_waste', 'consume', 'godforsaken', 'ware', 'thriftlessness', 'barren', 'desolate', 'waste_matter', 'wild', 'waste', 'languish', 'lay_waste_to', 'macerate', 'neutralise', 'wastefulness', 'liquidate', 'rot', 'neutralize', 'wasteland', 'scourge', 'dissipation', 'waste_product', 'ravage', 'do_in']",The Invisible Aborigine
+hair,"['haircloth', 'hairsbreadth', 'hair', 'whisker', 'fuzz', 'tomentum', 'pilus', ""hair's-breadth""]",The Invisible Aborigine
+came,"['number', 'total', 'occur', 'get_along', 'fare', 'make_out', 'hail', 'do', 'come_in', 'amount', 'get', 'come_up', 'fall', 'derive', 'arrive', 'add_up', 'descend', 'come', 'issue_forth', 'follow']",The Invisible Aborigine
+now,"['immediately', 'today', 'nowadays', 'straightaway', 'directly', 'like_a_shot', 'instantly', 'right_away', 'now', 'at_present', 'at_once', 'straight_off', 'forthwith']",The Invisible Aborigine
+be,"['constitute', 'Be', 'equal', 'embody', 'cost', 'comprise', 'glucinium', 'represent', 'make_up', 'be', 'live', 'exist', 'follow', 'personify', 'beryllium', 'atomic_number_4']",The Invisible Aborigine
+bent,"['dead_set', 'turn_away', 'deflect', 'bended', 'bent_grass', 'flex', 'out_to', 'dented', 'set', 'knack', 'stoop', 'twist', 'hang', 'deform', 'crumpled', 'bent', 'bow', 'bend', 'bent_on', 'turn', 'crouch', 'bent-grass']",The Invisible Aborigine
+fellows,"['fellow', 'familiar', 'swain', 'comrade', 'chap', 'gent', 'confrere', 'companion', 'beau', 'cuss', 'mate', 'buster', 'boyfriend', 'feller', 'dude', 'young_man', 'bloke', 'colleague', 'fella', 'blighter', 'associate', 'lad']",The Invisible Aborigine
+swooped,"['pounce', 'swoop', 'swoop_up']",The Invisible Aborigine
+but,"['simply', 'merely', 'only', 'just', 'but']",The Invisible Aborigine
+bivouac,"['camping_site', 'camp_out', 'tent', 'camping_ground', 'encampment', 'campsite', 'camp', 'campground', 'camping_area', 'bivouac', 'encamp', 'cantonment']",The Invisible Aborigine
+There,"['there', 'at_that_place', 'on_that_point', 'thither', 'in_that_location', 'in_that_respect']",The Invisible Aborigine
+self-conscious,"['self-conscious', 'self-aware']",The Invisible Aborigine
+heat,"['oestrus', 'inflame', 'rut', 'heat_energy', 'ignite', 'estrus', 'hot_up', 'hotness', 'heating', 'heating_plant', 'heat_up', 'passion', 'high_temperature', 'heating_system', 'heat', 'stir_up', 'fire_up', 'warmth', 'wake']",The Invisible Aborigine
+zoo,"['zoo', 'menagerie', 'zoological_garden']",The Invisible Aborigine
+sexual,"['intimate', 'sexual']",The Invisible Aborigine
+Then,"['then', 'and_so', 'and_then', 'so']",The Invisible Aborigine
+fugitive,"['momentary', 'fugitive', 'fleer', 'momentaneous', 'fleeting', 'fugitive_from_justice', 'runaway']",The Invisible Aborigine
+Some,"['around', 'about', 'approximately', 'roughly', 'close_to', 'or_so', 'more_or_less', 'some', 'just_about']",The Invisible Aborigine
+what,[],The Invisible Aborigine
+starving,"['thirst', 'starvation', 'starve', 'hunger', 'lust', 'starving', 'starved', 'famish', 'crave']",The Invisible Aborigine
+both,['both'],The Invisible Aborigine
+With,[],The Invisible Aborigine
+coating,"['covering', 'cake', 'finish', 'surface', 'coat', 'coating', 'application', 'finishing']",The Invisible Aborigine
+lives,"['subsist', 'experience', 'life', 'endure', 'live', 'animation', 'liveliness', 'lifetime', 'hold_up', 'lifespan', 'life_story', 'hold_out', 'sprightliness', 'last', 'life-time', 'spirit', 'aliveness', 'life_sentence', 'live_on', 'be', 'life_history', 'know', 'dwell', 'biography', 'go', 'survive', 'exist', 'inhabit', 'populate', 'living']",The Invisible Aborigine
+three,"['iii', 'triad', 'leash', 'ternary', 'troika', 'terzetto', '3', 'trinity', 'triplet', 'trio', 'threesome', 'tierce', 'trine', 'deuce-ace', 'ternion', 'III', 'three', 'tercet', 'trey']",The Invisible Aborigine
+pan,"['pan_off', 'goat_god', 'cooking_pan', 'trash', 'pan_out', 'genus_Pan', 'pan', 'tear_apart', 'Pan']",The Invisible Aborigine
+simple,"['simpleton', 'elementary', 'unsubdivided', 'round-eyed', 'wide-eyed', 'dim-witted', 'mere', 'bare', 'simple-minded', 'unproblematic', 'dewy-eyed', 'childlike', 'simple', 'uncomplicated']",The Invisible Aborigine
+not,"['non', 'not']",The Invisible Aborigine
+living,"['sustenance', 'subsist', 'experience', 'life', 'endure', 'live', 'animation', 'hold_up', 'support', 'hold_out', 'last', 'livelihood', 'aliveness', 'live_on', 'be', 'know', 'dwell', 'keep', 'bread_and_butter', 'go', 'survive', 'exist', 'inhabit', 'surviving', 'populate', 'living']",The Invisible Aborigine
+generous,['generous'],The Invisible Aborigine
+open,"['clear', 'exposed', 'opened', 'undetermined', 'unresolved', 'capable', 'surface', 'unfastened', 'loose', 'undefended', 'heart-to-heart', 'out-of-doors', 'overt', 'open_up', 'open_air', 'assailable', 'spread_out', 'undefendable', 'spread', 'unfold', 'afford', 'outdoors', 'candid', 'give', 'receptive', 'undecided', 'subject', 'open']",The Invisible Aborigine
+corroborees,[],The Invisible Aborigine
+large,"['large', 'bombastic', 'great', 'vauntingly', 'big', 'enceinte', 'heavy', 'magnanimous', 'turgid', 'declamatory', 'gravid', 'orotund', 'with_child', 'boastfully', 'tumid', 'prominent', 'expectant']",The Invisible Aborigine
+welded,['weld'],The Invisible Aborigine
+subtly,['subtly'],The Invisible Aborigine
+drove,"['ram', 'force', 'drove', 'horde', 'aim', 'drove_chisel', 'ride', 'beat_back', 'push', 'swarm', 'tug', 'get', 'labor', 'labour', 'drive', 'motor', 'push_back', 'force_back', 'repel', 'repulse', 'take']",The Invisible Aborigine
+trained,"['trail', 'groom', 'condition', 'trained', 'aim', 'civilise', 'coach', 'school', 'take_aim', 'educate', 'develop', 'civilize', 'direct', 'discipline', 'train', 'check', 'cultivate', 'rail', 'take', 'prepare']",The Invisible Aborigine
+or,"['OR', 'Beaver_State', 'Oregon', 'surgery', 'operating_room', 'operating_theater', 'operating_theatre']",The Invisible Aborigine
+boys,"['boy', 'male_child', 'son']",The Invisible Aborigine
+pounds,"['pound', 'poke', 'Sudanese_pound', 'punt', 'ram', 'Pound', 'lb', 'impound', 'lumber', 'Ezra_Pound', 'thump', 'Cypriot_pound', 'British_pound', 'British_pound_sterling', 'pound_sign', 'pounding', 'Lebanese_pound', 'ram_down', 'hammer', 'hammering', 'pound_sterling', 'pound_off', 'Ezra_Loomis_Pound', 'Syrian_pound', 'Irish_punt', 'quid', 'beat', 'Irish_pound', 'dog_pound', 'Egyptian_pound', 'lbf.', 'pound_up']",The Invisible Aborigine
+bone,"['cram', 'swot_up', 'off-white', 'pearl', 'osseous_tissue', 'swot', 'bone_up', 'drum', 'ivory', 'debone', 'mug_up', 'grind_away', 'bone', 'get_up', 'os']",The Invisible Aborigine
+powerfully,"['strongly', 'powerfully', 'potently']",The Invisible Aborigine
+trotted,"['clip', 'trot', 'jog']",The Invisible Aborigine
+care,"['precaution', 'care', 'deal', 'tutelage', 'maintenance', 'forethought', 'concern', 'guardianship', 'charge', 'give_care', 'worry', 'wish', 'like', 'handle', 'tending', 'upkeep', 'manage', 'attention', 'aid', 'fear', 'caution']",The Invisible Aborigine
+abandoned,"['empty', 'forsake', 'abandon', 'deserted', 'derelict', 'give_up', 'desert', 'desolate', 'vacate', 'abandoned']",The Invisible Aborigine
+challenge,"['take_exception', 'dispute', 'gainsay', 'challenge']",The Invisible Aborigine
+navigating,"['pilot', 'voyage', 'navigate', 'sail']",The Invisible Aborigine
+good,"['honest', 'undecomposed', 'unspoilt', 'skillful', 'adept', 'skilful', 'soundly', 'good', 'thoroughly', 'practiced', 'proficient', 'beneficial', 'trade_good', 'safe', 'goodness', 'full', 'expert', 'salutary', 'respectable', 'upright', 'unspoiled', 'effective', 'well', 'near', 'ripe', 'in_effect', 'dependable', 'dear', 'serious', 'right', 'just', 'sound', 'honorable', 'in_force', 'secure', 'commodity', 'estimable']",The Invisible Aborigine
+seeking,"['attempt', 'seeking', 'seek', 'try', 'essay', 'look_for', 'assay', 'quest', 'search']",The Invisible Aborigine
+ants,"['pismire', 'ant', 'emmet']",The Invisible Aborigine
+seen,"['run_across', 'experience', 'ensure', 'take_in', 'look', 'construe', 'figure', 'see', 'realise', 'hear', 'meet', 'go_through', 'get_wind', 'insure', 'visualise', 'pick_up', 'understand', 'watch', 'image', 'reckon', 'go_out', 'interpret', 'find_out', 'find', 'catch', 'encounter', 'come_across', 'visit', 'escort', 'go_steady', 'date', 'see_to_it', 'ascertain', 'envision', 'view', 'attend', 'determine', 'check', 'assure', 'picture', 'regard', 'consider', 'fancy', 'discover', 'witness', 'get_word', 'visualize', 'project', 'realize', 'control', 'learn', 'examine', 'get_a_line', 'take_care', 'run_into']",The Invisible Aborigine
+landmarks,"['watershed', 'landmark', 'turning_point']",The Invisible Aborigine
+yet,"['as_yet', 'even', 'all_the_same', 'even_so', 'still', 'until_now', 'yet', 'til_now', 'nonetheless', 'heretofore', 'notwithstanding', 'so_far', 'hitherto', 'nevertheless', 'however', 'in_time', 'thus_far', 'up_to_now', 'withal']",The Invisible Aborigine
+person,"['individual', 'mortal', 'soul', 'person', 'somebody', 'someone']",The Invisible Aborigine
+other,"['early', 'former', 'other']",The Invisible Aborigine
+sweating,"['perspire', 'perspiration', 'hidrosis', 'sudate', 'sudation', 'sweating', 'sweat', 'diaphoresis']",The Invisible Aborigine
+sweat,"['perspire', 'stew', 'elbow_grease', 'perspiration', 'exertion', 'travail', 'sudate', 'effort', 'lather', 'fret', 'sweat', 'swither', 'sudor']",The Invisible Aborigine
+back,"['spine', 'binding', 'endorse', 'plunk_for', 'punt', 'hinder', 'dorsum', 'plump_for', 'game', 'second', 'stake', 'indorse', 'support', 'backward', 'back_up', 'back', 'spinal_column', 'rearward', 'gage', 'backbone', 'rearwards', 'cover', 'bet_on', 'backwards', 'book_binding', 'vertebral_column', 'rear', 'rachis', 'backrest', 'hind']",The Invisible Aborigine
+hung,"['string_up', 'hang_up', 'hang', 'advert', 'pay_heed', 'fall', 'attend', 'flow', 'cling', 'give_ear']",The Invisible Aborigine
+area,"['country', 'region', 'field', 'surface_area', 'expanse', 'domain', 'orbit', 'arena', 'sphere', 'area']",The Invisible Aborigine
+horizon,"['apparent_horizon', 'horizon', 'purview', 'view', 'sensible_horizon', 'skyline', 'celestial_horizon', 'visible_horizon']",The Invisible Aborigine
+Two,"['two', 'II', 'ii', 'deuce', '2']",The Invisible Aborigine
+miles,"['stat_mi', 'nautical_mile', 'mi', 'geographical_mile', 'international_nautical_mile', 'Admiralty_mile', 'international_mile', 'statute_mile', 'land_mile', 'Swedish_mile', 'mil', 'Roman_mile', 'sea_mile', 'knot', 'mile', 'air_mile', 'naut_mi']",The Invisible Aborigine
+thousands,"['G', 'yard', 'M', 'grand', 'K', 'one_thousand', 'chiliad', 'thou', 'thousand', '1000']",The Invisible Aborigine
+layer,"['bed', 'layer', 'stratum', 'level']",The Invisible Aborigine
+Perhaps,"['maybe', 'mayhap', 'perchance', 'possibly', 'perhaps', 'peradventure']",The Invisible Aborigine
+will,"['bequeath', 'volition', 'testament', 'will', 'leave']",The Invisible Aborigine
+camps,"['camp_out', 'clique', 'tent', 'ingroup', 'camp_down', 'refugee_camp', 'encampment', 'pack', 'camp', 'inner_circle', 'bivouac', 'encamp', 'coterie', 'cantonment', 'summer_camp']",The Invisible Aborigine
+hummocks,"['hammock', 'hummock', 'hillock', 'knoll', 'mound']",The Invisible Aborigine
+tells,"['Tell', 'evidence', 'William_Tell', 'enjoin', 'secern', 'differentiate', 'narrate', 'recount', 'tell', 'state', 'secernate', 'order', 'say', 'assure', 'distinguish', 'separate', 'recite', 'severalize', 'tell_apart', 'severalise']",The Invisible Aborigine
+hand,"['helping_hand', 'deal', 'hand', 'paw', 'script', 'handwriting', 'bridge_player', 'hired_hand', 'mitt', 'manus', 'pass_on', 'give', 'pass', 'reach', 'hired_man', 'turn_over']",The Invisible Aborigine
+We,[],The Invisible Aborigine
+repeating,"['replicate', 'ingeminate', 'retell', 'reiterate', 'duplicate', 'repeating', 'repetition', 'reduplicate', 'recur', 'restate', 'reprise', 'reprize', 'iterate', 'recapitulate', 'take_over', 'double', 'echo', 'repeat']",The Invisible Aborigine
+sort,"['form', 'sort', 'class', 'sieve', 'variety', 'sort_out', 'assort', 'kind', 'screen', 'screen_out', 'sorting', 'classify', 'separate']",The Invisible Aborigine
+cliche,"['banality', 'bromide', 'cliche', 'commonplace', 'platitude']",The Invisible Aborigine
+nose,"['olfactory_organ', 'poke', 'pry', 'wind', 'nuzzle', 'nozzle', 'nose', 'scent', 'intrude', 'horn_in']",The Invisible Aborigine
+arrangements,"['arrangement', 'arranging', 'organisation', 'placement', 'agreement', 'system', 'organization', 'musical_arrangement', 'transcription']",The Invisible Aborigine
+right,"['decent', 'rightfield', 'powerful', 'correct', 'good', 'mightily', 'proper', 'right_hand', 'rightfulness', 'justly', 'right-hand', 'flop', 'veracious', 'decently', 'compensate', 'redress', 'right_field', 'ripe', 'rectify', 'properly', 'aright', 'right_wing', 'in_good_order', 'right', 'right_on', 'the_right_way', 'correctly', 'mighty']",The Invisible Aborigine
+discoverer,"['spotter', 'finder', 'inventor', 'discoverer', 'artificer']",The Invisible Aborigine
+mad,"['sore', 'harebrained', 'crazy', 'delirious', 'frantic', 'brainsick', 'mad', 'sick', 'excited', 'unbalanced', 'demented', 'unhinged', 'huffy', 'unrestrained', 'insane', 'disturbed']",The Invisible Aborigine
+can,"['pot', 'butt', 'give_notice', 'stern', 'sack', 'toilet', 'tail_end', 'terminate', 'hindquarters', 'fanny', 'tush', 'can_buoy', 'tail', 'stool', 'throne', 'buttocks', 'buns', 'john', 'posterior', 'keister', 'tooshie', 'nates', 'give_the_sack', 'prat', 'seat', 'bathroom', 'canful', 'give_the_axe', 'ass', 'put_up', 'privy', 'potty', 'hind_end', 'bum', 'backside', 'behind', 'displace', 'can', 'commode', 'force_out', 'bottom', 'rear', 'crapper', 'lav', 'send_away', 'rump', 'fire', 'tin_can', 'rear_end', 'derriere', 'lavatory', 'fundament', 'arse', 'dismiss', 'tin']",The Invisible Aborigine

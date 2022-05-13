@@ -1,0 +1,751 @@
+w,vector_semantico
+experience,"['experience', 'receive', 'go_through', 'get', 'see', 'have', 'feel', 'know', 'live']",The Star Dwellers
+here,"['here', 'Here', 'Hera', 'hither']",The Star Dwellers
+snapping,"['snarl', 'photograph', 'break_down', 'snap', 'shoot', 'tear', 'click', 'snatch', 'snatch_up', 'flick', 'bust', 'rupture', 'crack', 'lose_it']",The Star Dwellers
+Besides,"['likewise', 'as_well', 'too', 'besides', 'also', 'in_any_case']",The Star Dwellers
+absolutes,['absolute'],The Star Dwellers
+declaration,"['resolution', 'contract', 'announcement', 'resolve', 'declaration', 'proclamation', 'annunciation']",The Star Dwellers
+as,"['a', 'As', 'amp', 'as', 'deoxyadenosine_monophosphate', 'AS', 'adenine', 'every_bit', 'vitamin_A', 'A', 'ampere', 'angstrom', 'group_A', 'Eastern_Samoa', 'equally', 'angstrom_unit', 'arsenic', 'axerophthol', 'American_Samoa', 'atomic_number_33', 'antiophthalmic_factor', 'type_A']",The Star Dwellers
+kind,"['sort', 'form', 'tolerant', 'variety', 'genial', 'kind']",The Star Dwellers
+really,"['really', 'rattling', 'actually', 'truly', 'very', 'genuinely', 'real', 'in_truth']",The Star Dwellers
+admitted,"['admit', 'hold', 'acknowledge', 'take_on', 'accommodate', 'let_in', 'take', 'allow_in', 'intromit', 'accept', 'include', 'allow']",The Star Dwellers
+whereas,[],The Star Dwellers
+radar,"['radar', 'radio_detection_and_ranging', 'radiolocation', 'microwave_radar']",The Star Dwellers
+little,"['trivial', 'slight', 'piffling', 'short', 'piddling', 'little', 'petty', 'niggling', 'footling', 'picayune', 'minuscule', 'fiddling', 'lilliputian', 'small']",The Star Dwellers
+Always,"['ever', 'always', 'incessantly', 'perpetually', ""e'er"", 'forever', 'invariably', 'constantly']",The Star Dwellers
+fixed,"['fasten', 'fixate', 'fix', 'sterilize', 'unsex', 'make', 'prepare', 'pay_off', 'get', 'secure', 'limit', 'repair', 'posit', 'cook', 'mend', 'fixed', 'frozen', 'bushel', 'touch_on', 'specify', 'pay_back', 'doctor', 'ready', 'situate', 'define', 'desexualize', 'desex', 'sterilise', 'set_up', 'desexualise', 'rigid', 'deposit', 'restore', 'furbish_up', 'gear_up', 'determine', 'set']",The Star Dwellers
+at,"['astatine', 'atomic_number_85', 'at', 'At']",The Star Dwellers
+Hesperus',[],The Star Dwellers
+In,"['inch', 'inwards', 'indium', 'inward', 'Indiana', 'In', 'in', 'IN', 'atomic_number_49', 'Hoosier_State']",The Star Dwellers
+worth,"['worth', 'Charles_Frederick_Worth', 'deserving', 'Worth']",The Star Dwellers
+be,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'beryllium', 'Be', 'comprise', 'live', 'constitute', 'equal', 'glucinium', 'personify', 'atomic_number_4']",The Star Dwellers
+convinced,"['convinced', 'confident', 'positive', 'convince', 'convert', 'win_over']",The Star Dwellers
+don't,[],The Star Dwellers
+him,[],The Star Dwellers
+which,[],The Star Dwellers
+riot,"['rioting', 'orgy', 'bacchanalia', 'wow', 'drunken_revelry', 'carouse', 'howler', 'sidesplitter', 'belly_laugh', 'debauch', 'bacchanal', 'roister', 'riot', 'thigh-slapper', 'saturnalia', 'public_violence', 'debauchery', 'scream']",The Star Dwellers
+periods,"['period', 'point', 'full_point', 'full_stop', 'menstruation', 'flow', 'catamenia', 'menstruum', 'period_of_time', 'stop', 'geological_period', 'time_period', 'menses']",The Star Dwellers
+because,[],The Star Dwellers
+law,"['police_force', 'practice_of_law', 'police', 'natural_law', 'constabulary', 'jurisprudence', 'legal_philosophy', 'law_of_nature', 'law']",The Star Dwellers
+speak,"['utter', 'address', 'talk', 'mouth', 'verbalize', 'verbalise', 'speak']",The Star Dwellers
+),[],The Star Dwellers
+since,[],The Star Dwellers
+Being,"['exist', 'organism', 'cost', 'represent', 'existence', 'be', 'make_up', 'embody', 'follow', 'being', 'comprise', 'beingness', 'live', 'constitute', 'equal', 'personify']",The Star Dwellers
+Republics,"['republic', 'commonwealth', 'democracy']",The Star Dwellers
+practicing,"['apply', 'do', 'commit', 'practise', 'rehearse', 'use', 'practice', 'drill', 'exercise']",The Star Dwellers
+sort,"['screen_out', 'sort', 'sorting', 'separate', 'form', 'variety', 'screen', 'classify', 'assort', 'sort_out', 'class', 'sieve', 'kind']",The Star Dwellers
+trick,"['whoremonger', 'play_tricks', 'legerdemain', 'play_a_trick_on', 'joke', 'illusion', 'play_a_joke_on', 'fox', 'deception', 'magic_trick', 'pull_a_fast_one_on', 'put-on', 'whoremaster', 'caper', 'john', 'conjuration', 'conjuring_trick', 'flim-flam', 'thaumaturgy', 'trick', 'prank', 'fast_one', 'antic', 'magic', 'fob']",The Star Dwellers
+angry,"['wild', 'angry', 'raging', 'furious', 'tempestuous']",The Star Dwellers
+aboard,"['aboard', 'on_base', 'alongside', 'on_board']",The Star Dwellers
+taught,"['instruct', 'learn', 'teach']",The Star Dwellers
+computer,"['information_processing_system', 'electronic_computer', 'computing_device', 'data_processor', 'reckoner', 'figurer', 'computer', 'calculator', 'computing_machine', 'estimator']",The Star Dwellers
+trained,"['educate', 'rail', 'school', 'cultivate', 'take', 'train', 'develop', 'prepare', 'discipline', 'groom', 'trail', 'condition', 'civilise', 'direct', 'coach', 'civilize', 'trained', 'check', 'aim', 'take_aim']",The Star Dwellers
+quarters,"['poop', 'billet', 'twenty-five_percent', 'stern', 'one-quarter', 'fourth', 'tail', 'quarter', 'draw', 'one-fourth', 'fourth_part', 'quarters', 'after_part', 'canton', 'draw_and_quarter', 'quartern', 'living_quarters']",The Star Dwellers
+Soviet,"['soviet', 'Soviet']",The Star Dwellers
+will,"['testament', 'volition', 'leave', 'will', 'bequeath']",The Star Dwellers
+agent,"['agentive_role', 'broker', 'factor', 'federal_agent', 'agent']",The Star Dwellers
+parochial,"['parochial', 'insular']",The Star Dwellers
+short-lived,"['passing', 'transient', 'fugacious', 'transitory', 'ephemeral', 'short-lived']",The Star Dwellers
+but,"['but', 'simply', 'just', 'only', 'merely']",The Star Dwellers
+Coal,"['char', 'ember', 'coal']",The Star Dwellers
+Holies,"['holy', 'holy_place', 'sanctum']",The Star Dwellers
+doubt,"['incertitude', 'doubt', 'doubtfulness', 'dubiety', 'question', 'uncertainty', 'dubiousness']",The Star Dwellers
+everything,[],The Star Dwellers
+powers,"['ability', 'office', 'power', 'world_power', 'tycoon', 'baron', 'king', 'business_leader', 'top_executive', 'might', 'exponent', 'superpower', 'great_power', 'force', 'mogul', 'major_power', 'powerfulness', 'index', 'mightiness', 'magnate', 'big_businessman']",The Star Dwellers
+eventually,"['eventually', 'finally']",The Star Dwellers
+again,"['over_again', 'once_again', 'once_more', 'again']",The Star Dwellers
+He,"['atomic_number_2', 'he', 'helium', 'He']",The Star Dwellers
+part,"['persona', 'office', 'percentage', 'section', 'portion', 'part', 'function', 'depart', 'split_up', 'start_out', 'share', 'separate', 'split', 'take_off', 'break_up', 'set_off', 'theatrical_role', 'component', 'start', 'role', 'set_out', 'component_part', 'divide', 'division', 'partly', 'disunite', 'region', 'piece', 'character', 'set_forth', 'contribution', 'partially', 'break', 'voice', 'parting', 'constituent']",The Star Dwellers
+easy,"['well-heeled', 'well-fixed', 'sluttish', 'easygoing', 'easy', 'slow', 'soft', 'comfortable', 'easily', 'promiscuous', 'gentle', 'well-to-do', 'leisurely', 'well-off', 'light', 'tardily', 'slowly', 'wanton', 'prosperous', 'well-situated', 'loose']",The Star Dwellers
+signed,"['ratify', 'contract', 'subscribe', 'signalize', 'signal', 'signalise', 'sign_on', 'gestural', 'sign', 'signed', 'sign-language', 'sign_up', 'bless']",The Star Dwellers
+virulence,"['virulence', 'virulency']",The Star Dwellers
+incident,"['incidental', 'incident']",The Star Dwellers
+distance,"['outstrip', 'outdistance', 'space', 'length', 'distance', 'aloofness']",The Star Dwellers
+(,[],The Star Dwellers
+Your,[],The Star Dwellers
+blackness,"['pitch_blackness', 'lightlessness', 'total_darkness', 'inkiness', 'black', 'blackness']",The Star Dwellers
+call,"['birdcall', 'foretell', 'vociferation', 'outcry', 'Call', 'birdsong', 'claim', 'send_for', 'call_off', 'scream', 'call', 'phone', 'holler', 'shout', 'name', 'cry', 'song', 'call_up', 'prognosticate', 'hollo', 'anticipate', 'telephone_call', 'promise', 'ring', 'shout_out', 'phone_call', 'forebode', 'bid', 'address', 'yell', 'predict', 'call_option', 'telephone', 'squall', 'call_in', 'visit', 'margin_call']",The Star Dwellers
+toward,[],The Star Dwellers
+lost,"['disoriented', 'mislay', 'doomed', 'lose', 'suffer', 'lost', 'bemused', 'recede', 'misplace', 'mazed', 'at_sea', 'fall_behind', 'turn_a_loss', 'miss', 'preoccupied', 'drop_off', 'confounded', 'fall_back', 'baffled', 'befuddled', 'confused', 'missed', 'bewildered', 'mixed-up', 'helpless', 'deep_in_thought']",The Star Dwellers
+might,"['might', 'power', 'mightiness']",The Star Dwellers
+ocean,"['ocean', 'sea']",The Star Dwellers
+use,"['apply', 'utilisation', 'function', 'employ', 'habituate', 'utilise', 'employment', 'purpose', 'use_of_goods_and_services', 'use', 'practice', 'exercise', 'role', 'manipulation', 'consumption', 'utilization', 'expend', 'enjoyment', 'economic_consumption', 'usage', 'utilize', 'usance', 'habit']",The Star Dwellers
+relief,"['rest_period', 'ministration', 'respite', 'alleviation', 'stand-in', 'reliever', 'assuagement', 'ease', 'succor', 'backup_man', 'relief', 'embossment', 'rilievo', 'moderation', 'sculptural_relief', 'relievo', 'backup', 'rest', 'succour', 'substitute', 'fill-in', 'easing', 'easement']",The Star Dwellers
+Earthmen,"['tellurian', 'earthman', 'worldling', 'earthling']",The Star Dwellers
+this,[],The Star Dwellers
+made,"['construct', 'score', 'piss', 'urinate', 'stool', 'induce', 'attain', 'shit', 'progress_to', 'take', 'take_a_crap', 'fix', 'realize', 'realise', 'give', 'gain', 'establish', 'pretend', 'make', 'take_a_shit', 'make_believe', 'prepare', 'wee-wee', 'cause', 'get', 'name', 'make_water', 'defecate', 'arrive_at', 'draw', 'seduce', 'throw', 'cook', 'micturate', 'create', 'made', 'reach', 'do', 'relieve_oneself', 'pee-pee', 'clear', 'make_up', 'bring_in', 'spend_a_penny', 'have', 'build', 'earn', 'wee', 'ready', 'take_a_leak', 'piddle', 'puddle', 'stimulate', 'pull_in', 'produce', 'ca-ca', 'hold', 'work', 'form', 'pass_water', 'nominate', 'pee', 'get_to', 'lay_down', 'hit', 'constitute', 'crap', 'take_in']",The Star Dwellers
+agitation,"['ferment', 'tempestuousness', 'fermentation', 'hullabaloo', 'excitement', 'turmoil', 'unrest', 'upheaval', 'agitation']",The Star Dwellers
+alive,"['alive', 'alert', 'live', 'animated', 'awake', 'active']",The Star Dwellers
+Where,[],The Star Dwellers
+green,"['viridity', 'greenish', 'K', 'fleeceable', 'Green_River', 'common', 'dark-green', 'Green', 'unripe', 'William_Green', 'cat_valium', 'park', 'putting_green', 'immature', 'leafy_vegetable', 'jet', 'greenness', 'green', 'super_acid', 'light-green', 'putting_surface', 'unripened', 'honey_oil', 'gullible', 'super_C', 'greens', 'special_K', 'commons']",The Star Dwellers
+good,"['dependable', 'just', 'proficient', 'undecomposed', 'dear', 'salutary', 'serious', 'thoroughly', 'respectable', 'upright', 'right', 'well', 'adept', 'practiced', 'ripe', 'skillful', 'secure', 'unspoiled', 'expert', 'effective', 'in_force', 'near', 'honorable', 'unspoilt', 'trade_good', 'sound', 'estimable', 'good', 'beneficial', 'honest', 'skilful', 'full', 'goodness', 'in_effect', 'commodity', 'safe', 'soundly']",The Star Dwellers
+property,"['prop', 'belongings', 'dimension', 'attribute', 'holding', 'property', 'place']",The Star Dwellers
+instance,"['example', 'representative', 'case', 'illustrate', 'illustration', 'exemplify', 'instance']",The Star Dwellers
+heart,"['affection', 'ticker', 'fondness', 'pump', 'spirit', 'pith', 'nerve', 'centre', 'nub', 'substance', 'heart_and_soul', 'inwardness', 'warmheartedness', 'kernel', 'marrow', 'tenderness', 'essence', 'core', 'gist', 'bosom', 'philia', 'heart', 'warmness', 'mettle', 'eye', 'nitty-gritty', 'center', 'affectionateness', 'sum', 'middle', 'meat', 'spunk']",The Star Dwellers
+instruments,"['instrumental_role', 'instrumentate', 'instrument', 'musical_instrument', 'tool', 'pawn', 'legal_instrument', 'official_document', ""cat's-paw"", 'legal_document']",The Star Dwellers
+Nothing,"['nix', 'zero', 'naught', 'goose_egg', 'zilch', 'zip', 'zippo', 'nothing', 'cipher', 'cypher', 'nil', 'aught', 'null', 'nada']",The Star Dwellers
+skies,"['flip', 'sky', 'ski', 'pitch', 'toss']",The Star Dwellers
+.,[],The Star Dwellers
+been,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Star Dwellers
+it's,[],The Star Dwellers
+passing,"['sink', 'casual', 'pass_away', 'passing_game', 'go_by', 'make_pass', 'croak', 'extremely', 'overhaul', 'departure', 'top', 'go_past', 'guide', 'slip_away', 'loss', 'go_across', 'take_place', 'fall_out', 'decease', 'go_along', 'authorise', 'go_on', 'spend', 'turn_over', 'buy_the_farm', 'hand', 'lead', 'happen', 'give-up_the_ghost', 'short-lived', 'transient', 'give', 'pass_along', 'elapse', 'exceedingly', 'pop_off', 'eliminate', 'conk', 'occur', 'overtake', 'lapse', ""cash_in_one's_chips"", 'glide_by', 'qualifying', 'expiration', 'passing', 'going', 'go', 'release', 'make_it', 'legislate', 'transitory', 'devolve', 'fugacious', 'overstep', 'hap', 'expire', 'travel_by', 'blow_over', 'slide_by', 'exceed', 'drop_dead', 'return', 'pass_off', 'cursory', 'slip_by', 'run', 'clear', 'transcend', 'perfunctory', 'egest', 'die', 'pass_on', 'go_through', 'passing_play', 'exit', 'snuff_it', 'come_about', 'communicate', 'evanesce', 'draw', 'extend', 'excrete', 'reach', 'passage', 'choke', 'fade', 'perish', 'ephemeral', 'surpass', 'kick_the_bucket', 'fall', 'pass_by', 'pass', 'fleet', 'super', 'put_across', 'authorize', 'overtaking']",The Star Dwellers
+off,"['remove', 'off', 'cancelled', 'turned', 'sour', 'dispatch', 'slay', 'hit', 'polish_off', 'forth', 'murder', 'bump_off', 'away']",The Star Dwellers
+work,"['make_for', 'ferment', 'oeuvre', 'mould', 'do_work', 'cultivate', 'function', 'influence', 'puzzle_out', 'mold', 'make', 'forge', 'put_to_work', 'process', 'employment', 'piece_of_work', 'study', 'bring', 'work_on', 'knead', 'work_out', 'solve', 'operate', 'body_of_work', 'exploit', 'exercise', 'turn', 'shape', 'wreak', 'figure_out', 'run', 'workplace', 'act', 'lick', 'work', 'go', 'form', 'sour', 'crop', 'play', 'act_upon']",The Star Dwellers
+card,"['identity_card', 'lineup', 'posting', 'bill', 'tease', 'calling_card', 'add-in', 'bill_of_fare', 'placard', 'wit', 'poster', 'carte_du_jour', 'circuit_card', 'batting_order', 'visiting_card', 'board', 'menu', 'carte', 'wag', 'scorecard', 'circuit_board', 'card', 'plug-in', 'notice']",The Star Dwellers
+never,"['never', ""ne'er""]",The Star Dwellers
+put,"['invest', 'pose', 'position', 'put_option', 'commit', 'cast', 'set', 'couch', 'redact', 'assign', 'frame', 'put', 'place', 'arrange', 'order', 'set_up', 'lay']",The Star Dwellers
+final,"['final_exam', 'net', 'final_examination', 'terminal', 'concluding', 'final', 'last']",The Star Dwellers
+pause,"['intermit', 'intermission', 'suspension', 'break', 'interruption', 'pause', 'hesitate']",The Star Dwellers
+habit,"['riding_habit', 'habit', 'use', 'substance_abuse', 'drug_abuse', 'wont']",The Star Dwellers
+about,"['most', 'roughly', 'just_about', 'near', 'nearly', 'well-nigh', 'about', 'some', 'almost', 'around', 'or_so', 'nigh', 'more_or_less', 'virtually', 'close_to', 'astir', 'approximately']",The Star Dwellers
+reasoning,"['conclude', 'reasoning', 'intelligent', 'thinking', 'reason', 'reason_out', 'argue', 'abstract_thought', 'logical_thinking']",The Star Dwellers
+power,"['ability', 'office', 'power', 'world_power', 'tycoon', 'baron', 'king', 'business_leader', 'top_executive', 'might', 'exponent', 'superpower', 'great_power', 'force', 'mogul', 'major_power', 'powerfulness', 'index', 'mightiness', 'magnate', 'big_businessman']",The Star Dwellers
+must,"['moldiness', 'mustiness', 'must']",The Star Dwellers
+mankind,"['man', 'mankind', 'world', 'humanity', 'humankind', 'human_beings', 'humans', 'human_race']",The Star Dwellers
+fact,['fact'],The Star Dwellers
+only,"['but', 'simply', 'exclusively', 'sole', 'just', 'entirely', 'lone', 'solitary', 'lonesome', 'only', 'alone', 'solely', 'only_if', 'only_when', 'merely']",The Star Dwellers
+considering,"['moot', 'study', 'view', 'regard', 'weigh', 'count', 'look_at', 'see', 'consider', 'deal', 'turn_over', 'take', 'debate', 'think', 'deliberate', 'reckon', 'believe', 'conceive']",The Star Dwellers
+under,"['below', 'under', 'nether']",The Star Dwellers
+bigger,"['big', 'expectant', 'large', 'vainglorious', 'grownup', 'braggy', 'bighearted', 'enceinte', 'self-aggrandising', 'handsome', 'bigger', 'adult', 'fully_grown', 'magnanimous', 'full-grown', 'great', 'liberal', 'openhanded', 'giving', 'boastful', 'self-aggrandizing', 'freehanded', 'bad', 'crowing', 'prominent', 'bountiful', 'grown', 'larger', 'swelled', 'with_child', 'cock-a-hoop', 'gravid', 'braggart', 'bragging', 'bounteous', 'heavy']",The Star Dwellers
+between,"['betwixt', ""'tween"", 'between']",The Star Dwellers
+in,"['inch', 'inwards', 'indium', 'inward', 'Indiana', 'In', 'in', 'IN', 'atomic_number_49', 'Hoosier_State']",The Star Dwellers
+their,[],The Star Dwellers
+if,[],The Star Dwellers
+most,"['to_the_highest_degree', 'most', 'nearly', 'well-nigh', 'almost', 'nigh', 'virtually', 'near', 'about']",The Star Dwellers
+period,"['period', 'point', 'full_point', 'full_stop', 'menstruation', 'flow', 'catamenia', 'menstruum', 'period_of_time', 'stop', 'geological_period', 'time_period', 'menses']",The Star Dwellers
+violations,"['trespass', 'usurpation', 'rape', 'intrusion', 'irreverence', 'assault', 'misdemeanour', 'violation', 'infringement', 'ravishment', 'infraction', 'encroachment', 'misdemeanor']",The Star Dwellers
+would,[],The Star Dwellers
+agreements,"['concord', 'understanding', 'correspondence', 'agreement', 'accord', 'arrangement']",The Star Dwellers
+content,"['mental_object', 'content', 'subject_matter', 'cognitive_content', 'capacity', 'substance', 'subject', 'contentedness', 'message', 'depicted_object', 'contented']",The Star Dwellers
+before,"['ahead', 'in_front', 'before', 'earlier']",The Star Dwellers
+return,"['restoration', 'reelect', 'take_back', 'recurrence', 'take', 'homecoming', 'income_tax_return', 'give', 'comeback', 'restitution', 'revert', 'bring_back', 'refund', 'generate', 'proceeds', 'reappearance', 'hark_back', 'recall', 'deliver', 'takings', 'rejoin', 'return', 'repay', 'return_key', 'give_back', 'regress', 'payoff', 'yield', 'retort', 'riposte', 'getting_even', 'retrovert', 'tax_return', 'replication', 'counter', 'paying_back', 'turn_back', 'regaining', 'issue', 'fall', 'rejoinder', 'pass', 'coming_back', 'come_back', 'devolve', 'render']",The Star Dwellers
+watched,"['watch', 'catch', 'look_on', 'check', 'view', 'watch_over', 'see', 'watch_out', 'keep_an_eye_on', 'follow', 'ascertain', 'determine', 'find_out', 'learn', 'look_out', 'observe', 'take_in']",The Star Dwellers
+cloud,"['mottle', 'obscure', 'sully', 'swarm', 'fog', 'defile', 'taint', 'cloud', 'becloud', 'befog', 'overcast', 'corrupt', 'mist', 'obnubilate', 'haze_over', 'dapple']",The Star Dwellers
+wait,"['hold', 'hold_off', 'waitress', 'wait', 'waiting', 'delay', 'expect', 'time_lag', 'await', 'hold_back', 'look', 'postponement']",The Star Dwellers
+exercise,"['exercising', 'utilisation', 'physical_exercise', 'practice_session', 'employment', 'example', 'work_out', 'use', 'practice', 'exercise', 'do', 'recitation', 'utilization', 'practise', 'drill', 'exert', 'work', 'usage', 'physical_exertion', 'workout']",The Star Dwellers
+preferences,"['preference', 'druthers', 'penchant', 'orientation', 'taste', 'predilection']",The Star Dwellers
+emerged,"['come_out', 'issue', 'come_forth', 'emerge', 'go_forth', 'egress']",The Star Dwellers
+wholly,"['altogether', 'entirely', 'whole', 'completely', 'wholly', 'all', 'totally']",The Star Dwellers
+triggered,"['trip', 'spark_off', 'set_off', 'activate', 'spark', 'trigger_off', 'actuate', 'trigger', 'touch_off']",The Star Dwellers
+treaty,"['treaty', 'pact', 'accord']",The Star Dwellers
+sure,"['surely', 'sure', 'certainly', 'sure_as_shooting', 'for_sure', 'certain', 'for_certain', 'sure_enough', 'indisputable', 'trusted']",The Star Dwellers
+my,[],The Star Dwellers
+has,"['experience', 'sustain', 'HA', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'hour_angle', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Star Dwellers
+precedent,"['case_in_point', 'precedent', 'common_law', 'case_law']",The Star Dwellers
+dreamed,"['dreamed', 'daydream', 'stargaze', 'dream', 'woolgather']",The Star Dwellers
+faintest,"['shadowy', 'fainthearted', 'faint-hearted', 'vague', 'wispy', 'dim', 'lightheaded', 'swooning', 'timid', 'light-headed', 'weak', 'feeble', 'light', 'faint']",The Star Dwellers
+And,[],The Star Dwellers
+To,[],The Star Dwellers
+What,[],The Star Dwellers
+complete,"['make_out', 'thoroughgoing', 'unadulterated', 'concluded', 'discharge', 'accomplished', 'stark', 'finish', 'pure', 'over', 'all_over', 'utter', 'gross', 'staring', 'terminated', 'sodding', 'double-dyed', 'dispatch', 'consummate', 'complete', 'perfect', 'ended', 'arrant', 'fill_out', 'fill_in', 'nail', 'everlasting']",The Star Dwellers
+dot,"['DoT', 'Transportation', 'dust', 'Lucy_in_the_sky_with_diamonds', 'Department_of_Transportation', 'loony_toons', 'point', 'acid', 'pane', 'back_breaker', 'disperse', 'stud', 'dot', 'sprinkle', 'dose', 'superman', 'dit', 'Zen', 'constellate', 'window_pane', 'battery-acid', 'scatter', 'Elvis']",The Star Dwellers
+heading,"['maneuver', 'gallery', 'steer', 'direct', 'point', 'channelise', 'manoeuvre', 'heading', 'drift', 'lead', 'manoeuver', 'channelize', 'header', 'head', 'bearing', 'aim', 'head_up', 'guide']",The Star Dwellers
+for,[],The Star Dwellers
+fast,"['truehearted', 'firm', 'quick', 'libertine', 'flying', 'debauched', 'tight', 'degraded', 'riotous', 'loyal', 'immobile', 'fast', 'degenerate', 'profligate', 'fasting', 'dissolute', 'dissipated']",The Star Dwellers
+Union,"['trades_union', 'spousal_relationship', 'join', 'jointure', 'trade_union', 'labor_union', 'conjugation', 'matrimony', 'Federal', 'sexual_union', 'uniting', 'coupling', 'pairing', 'North', 'mating', 'conglutination', 'Union', 'sum', 'wedlock', 'unification', 'marriage', 'brotherhood', 'union']",The Star Dwellers
+Nations,"['body_politic', 'state', 'Carry_Nation', 'land', 'nation', 'Nation', 'country', 'Carry_Amelia_Moore_Nation', 'commonwealth', 'res_publica']",The Star Dwellers
+distinction,"['distinction', 'note', 'preeminence', 'eminence', 'differentiation']",The Star Dwellers
+both,['both'],The Star Dwellers
+proper,"['proper', 'right']",The Star Dwellers
+enormous,"['tremendous', 'enormous']",The Star Dwellers
+agree,"['match', 'concur', 'concord', 'consort', 'hold', 'agree', 'harmonise', 'correspond', 'jibe', 'gibe', 'accord', 'check', 'fit_in', 'harmonize', 'tally', 'fit']",The Star Dwellers
+trust,"['hope', 'reliance', 'cartel', 'believe', 'corporate_trust', 'entrust', 'combine', 'confide', 'swear', 'bank', 'confidence', 'rely', 'commit', 'intrust', 'trustingness', 'trustfulness', 'desire', 'trust', 'faith']",The Star Dwellers
+details,"['point', 'inside_information', 'detail', 'item', 'contingent', 'details', 'particular']",The Star Dwellers
+given,"['apply', 'precondition', 'give_way', 'gift', 'give', 'grant', 'generate', 'contribute', 'kick_in', 'establish', 'make', 'presumption', 'collapse', 'present', 'founder', 'tending', 'return', 'chip_in', 'minded', 'throw', 'disposed', 'consecrate', 'reach', 'open', 'ease_up', 'yield', 'apt', 'have', 'leave', 'commit', 'pay', 'fall_in', 'afford', 'cave_in', 'dedicate', 'pass_on', 'hold', 'impart', 'hand', 'turn_over', 'move_over', 'given', 'devote', 'pass', 'break', 'feed', 'granted', 'sacrifice', 'render']",The Star Dwellers
+late,"['tardily', 'of_late', 'previous', 'later', 'belated', 'former', 'late', 'deep', 'recent', 'belatedly', 'recently', 'lately', 'tardy', 'latterly']",The Star Dwellers
+Lucifer,"['match', 'daystar', 'friction_match', 'Prince_of_Darkness', 'Phosphorus', 'Old_Nick', 'lucifer', 'Satan', 'Devil', 'the_Tempter', 'morning_star', 'Lucifer', 'Beelzebub']",The Star Dwellers
+am,"['embody', 'americium', 'exist', 'follow', 'live', 'amplitude_modulation', 'equal', 'personify', 'cost', 'represent', 'make_up', 'Master_of_Arts', 'be', 'atomic_number_95', 'MA', 'AM', 'comprise', 'constitute', 'Artium_Magister', 'Am']",The Star Dwellers
+those,[],The Star Dwellers
+United,"['link', 'merge', 'united', 'join', 'unify', 'combine', 'joined', 'connect', 'unite', 'link_up']",The Star Dwellers
+dance,"['trip_the_light_fantastic', 'terpsichore', 'trip_the_light_fantastic_toe', 'dance', 'dancing', 'saltation']",The Star Dwellers
+petty,"['petty_larceny', 'trivial', 'small-minded', 'secondary', 'piffling', 'piddling', 'petit_larceny', 'lowly', 'little', 'petty', 'subaltern', 'niggling', 'footling', 'picayune', 'junior-grade', 'fiddling', 'lilliputian', 'lower-ranking']",The Star Dwellers
+10,"['ten', 'tenner', '10', 'x', 'decade', 'X']",The Star Dwellers
+were,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Star Dwellers
+marked,"['label', 'score', 'commemorate', 'scar', 'cross_off', 'strike_off', 'denounce', 'mark', 'pock', 'marked', 'distinguish', 'tick_off', 'mark_off', 'check', 'note', 'stigmatize', 'pit', 'check_off', 'cross_out', 'strike_out', 'tag', 'stigmatise', 'differentiate', 'pronounced', 'punctuate', 'notice', 'brand', 'nock', 'set', 'tick', 'grade']",The Star Dwellers
+range,"['orbit', 'mountain_chain', 'range_of_a_function', 'grasp', 'stove', 'pasture', 'kitchen_stove', 'straddle', 'place', 'range', 'kitchen_range', 'compass', 'lay_out', 'range_of_mountains', 'vagabond', 'tramp', 'image', 'drift', 'mountain_range', 'swan', 'order', 'reach', 'rove', 'graze', 'rank', 'run', 'roll', 'set_out', 'array', 'cast', 'cooking_stove', 'rate', 'chain_of_mountains', 'scope', 'chain', 'browse', 'stray', 'ambit', 'crop', 'wander', 'roam', 'ramble', 'grade']",The Star Dwellers
+Through,"['through_with', 'done', 'through', 'through_and_through']",The Star Dwellers
+make,"['construct', 'score', 'piss', 'urinate', 'stool', 'induce', 'attain', 'shit', 'progress_to', 'take', 'take_a_crap', 'fix', 'realize', 'realise', 'give', 'gain', 'establish', 'pretend', 'make', 'take_a_shit', 'make_believe', 'prepare', 'wee-wee', 'cause', 'get', 'name', 'make_water', 'defecate', 'arrive_at', 'draw', 'seduce', 'throw', 'cook', 'micturate', 'create', 'reach', 'do', 'relieve_oneself', 'pee-pee', 'clear', 'make_up', 'bring_in', 'spend_a_penny', 'have', 'build', 'earn', 'wee', 'ready', 'shuffling', 'take_a_leak', 'piddle', 'puddle', 'stimulate', 'pull_in', 'produce', 'ca-ca', 'hold', 'work', 'form', 'pass_water', 'nominate', 'shuffle', 'pee', 'get_to', 'lay_down', 'hit', 'brand', 'constitute', 'crap', 'take_in']",The Star Dwellers
+great,"['big', 'expectant', 'large', 'corking', 'nifty', 'enceinte', 'smashing', 'great', 'dandy', 'not_bad', 'outstanding', 'keen', 'neat', 'swell', 'capital', 'bang-up', 'bully', 'groovy', 'with_child', 'peachy', 'gravid', 'slap-up', 'cracking', 'majuscule', 'heavy']",The Star Dwellers
+With,[],The Star Dwellers
+example,"['object_lesson', 'example', 'representative', 'exemplar', 'model', 'case', 'exercise', 'deterrent_example', 'illustration', 'instance', 'lesson', 'good_example']",The Star Dwellers
+light-year,"['light_year', 'light-year']",The Star Dwellers
+fusion,"['nuclear_fusion_reaction', 'fusion', 'nuclear_fusion', 'unification', 'spinal_fusion', 'merger', 'optical_fusion', 'coalition']",The Star Dwellers
+'',[],The Star Dwellers
+restraints,"['simpleness', 'constraint', 'simplicity', 'control', 'restraint', 'chasteness']",The Star Dwellers
+hearth,"['open_fireplace', 'hearth', 'fireside', 'fireplace']",The Star Dwellers
+become,"['get', 'go', 'become', 'turn', 'suit']",The Star Dwellers
+didn't,[],The Star Dwellers
+impossible,"['inconceivable', 'out_of_the_question', 'unimaginable', 'insufferable', 'unacceptable', 'impossible', 'unsufferable']",The Star Dwellers
+bomb,"['bomb', 'bombard', 'flush_it', 'turkey', 'dud', 'bomb_calorimeter', 'fail', 'flunk']",The Star Dwellers
+No,"['No', 'no', 'atomic_number_102', 'no_more', 'nobelium']",The Star Dwellers
+skiff's,[],The Star Dwellers
+race,"['hasten', 'slipstream', 'subspecies', 'belt_along', 'speed', 'bucket_along', 'pelt_along', 'hotfoot', 'rush', 'backwash', 'race', 'run', 'cannonball_along', 'wash', 'airstream', 'step_on_it', 'raceway', 'rush_along', 'hie']",The Star Dwellers
+attention,"['attending', 'aid', 'attention', 'tending', 'care']",The Star Dwellers
+have,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'wealthy_person', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'rich_person', 'let', 'hold', 'take_in']",The Star Dwellers
+felt,"['experience', 'matt-up', 'felt_up', 'find', 'feel', 'felt', 'palpate', 'sense', 'finger', 'matte', 'mat_up', 'mat', 'matte_up']",The Star Dwellers
+?,[],The Star Dwellers
+having,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Star Dwellers
+plotting,"['plot', 'diagram', 'plat']",The Star Dwellers
+on,"['along', 'on']",The Star Dwellers
+highly,"['highly', 'extremely']",The Star Dwellers
+they,[],The Star Dwellers
+essential,"['crucial', 'essential', 'requirement', 'substantive', 'necessary', 'of_the_essence', 'necessity', 'indispensable', 'all_important', 'requisite', 'all-important']",The Star Dwellers
+!,[],The Star Dwellers
+intentional,"['intentional', 'knowing', 'designed']",The Star Dwellers
+fuses,"['fusee', 'primer', 'fuzee', 'blend', 'meld', 'mix', 'fuze', 'flux', 'merge', 'coalesce', 'safety_fuse', 'combine', 'immix', 'fuse', 'electrical_fuse', 'priming', 'commingle', 'conflate']",The Star Dwellers
+proposal,"['proposition', 'marriage_offer', 'proposal', 'proposal_of_marriage', 'marriage_proposal']",The Star Dwellers
+commodities,"['commodity', 'good', 'trade_good']",The Star Dwellers
+pass,"['sink', 'pass_away', 'passing_game', 'go_by', 'make_pass', 'croak', 'whirl', 'overhaul', 'strait', 'top', 'go_past', 'guide', 'slip_away', 'go_across', 'take_place', 'flip', 'fall_out', 'decease', 'straits', 'go_along', 'authorise', 'go_on', 'spend', 'turn_over', 'buy_the_farm', 'hand', 'walk', 'lead', 'toss', 'happen', 'give-up_the_ghost', 'give', 'pass_along', 'head', 'elapse', 'pop_off', 'mountain_pass', 'eliminate', 'conk', 'occur', 'overtake', 'bye', 'lapse', ""cash_in_one's_chips"", 'glide_by', 'qualifying', 'passing', 'go', 'make_it', 'legislate', 'devolve', 'overstep', 'laissez_passer', 'hap', 'expire', 'travel_by', 'blow_over', 'liberty_chit', 'slide_by', 'exceed', 'drop_dead', 'return', 'pass_off', 'slip_by', 'crack', 'run', 'clear', 'transcend', 'egest', 'die', 'pass_on', 'go_through', 'passing_play', 'exit', 'snuff_it', 'come_about', 'notch', 'communicate', 'evanesce', 'offer', 'draw', 'extend', 'excrete', 'reach', 'base_on_balls', 'choke', 'fling', 'fade', 'perish', 'passport', 'pas', 'surpass', 'kick_the_bucket', 'fall', 'pass_by', 'pass', 'fleet', 'put_across', 'authorize']",The Star Dwellers
+somewhere,"['someplace', 'somewhere']",The Star Dwellers
+pentagon,"['Pentagon', 'pentagon']",The Star Dwellers
+pip,"['worst', 'radar_target', 'rack_up', 'shoot', 'whip', 'spot', 'hit', 'mop_up', 'pip', 'blip']",The Star Dwellers
+elation,"['lightness', 'high_spirits', 'elation']",The Star Dwellers
+time,"['fourth_dimension', 'prison_term', 'sentence', 'metre', 'meter', 'clock', 'clock_time', 'clip', 'time']",The Star Dwellers
+seeing,"['seeing', 'watch', 'get_a_line', 'experience', 'view', 'regard', 'visual_perception', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'discover', 'hear', 'pick_up', 'date', 'run_into', 'encounter', 'beholding', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'go_steady', 'consider', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'examine', 'go_through', 'eyesight', 'see', 'get_word', 'visualize', 'ascertain', 'sightedness', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Star Dwellers
+it,"['information_technology', 'IT']",The Star Dwellers
+unnecessary,"['unneeded', 'unnecessary']",The Star Dwellers
+regard,"['paying_attention', 'involve', 'wish', 'attentiveness', 'affect', 'regard', 'view', 'heed', 'gaze', 'respect', 'see', 'consider', 'esteem', 'reckon', 'compliments']",The Star Dwellers
+screens,"['screen_door', 'block_out', 'riddle', 'blind', 'screen_out', 'sort', 'concealment', 'shield', 'screenland', 'filmdom', 'CRT_screen', 'silver_screen', 'covert', 'screen', 'cover', 'test', 'sieve', 'projection_screen']",The Star Dwellers
+out,"['come_out_of_the_closet', 'verboten', 'knocked_out', 'come_out', 'forbidden', 'out', 'prohibited', 'tabu', 'proscribed', 'kayoed', 'stunned', 'taboo', 'extinct', ""KO'd"", 'away']",The Star Dwellers
+Yet,"['withal', 'all_the_same', 'so_far', 'however', 'yet', 'heretofore', 'notwithstanding', 'still', 'up_to_now', 'hitherto', 'even', 'thus_far', 'as_yet', 'til_now', 'nonetheless', 'nevertheless', 'in_time', 'even_so', 'until_now']",The Star Dwellers
+respect,"['obedience', 'abide_by', 'prise', 'regard', 'prize', 'respectfulness', 'respect', 'value', 'esteem', 'observe', 'honour', 'honor', 'deference']",The Star Dwellers
+tiny,"['diminutive', 'flyspeck', 'midget', 'tiny', 'petite', 'bantam', 'lilliputian']",The Star Dwellers
+more,"['More', 'to_a_greater_extent', 'more_than', 'Thomas_More', 'more', 'Sir_Thomas_More']",The Star Dwellers
+knew,"['experience', 'make_out', 'hump', 'acknowledge', 'cognize', 'cognise', 'have_it_away', 'know', 'have_a_go_at_it', 'have_sex', 'sleep_together', 'make_love', 'get_it_on', 'fuck', 'recognize', 'live', 'do_it', 'be_intimate', 'get_laid', 'love', 'bang', 'recognise', 'screw', 'sleep_with', 'eff', 'lie_with', 'bed', 'jazz', 'roll_in_the_hay', 'have_intercourse', 'bonk', 'have_it_off']",The Star Dwellers
+behave,"['carry', 'do', 'conduct', 'bear', 'comport', 'deport', 'behave', 'acquit', 'act']",The Star Dwellers
+place,"['seat', 'pose', 'office', 'come_out', 'post', 'station', 'situation', 'send', 'place', 'range', 'topographic_point', 'berth', 'target', 'point', 'identify', 'localise', 'order', 'rank', 'position', 'site', 'direct', 'commit', 'home', 'stead', 'property', 'rate', 'locate', 'come_in', 'plaza', 'invest', 'billet', 'piazza', 'shoes', 'lieu', 'blank_space', 'set', 'grade', 'spot', 'space', 'localize', 'put', 'aim', 'lay']",The Star Dwellers
+still,"['quiet', 'withal', 'tranquillize', 'inactive', 'soundless', 'all_the_same', 'however', 'allay', 'yet', 'placid', 'static', 'still', 'notwithstanding', 'tranquil', 'distillery', 'hush_up', 'ease', 'lull', 'relieve', 'motionless', 'calm_down', 'even', 'stillness', 'stock-still', 'hush', 'nonetheless', 'silence', 'tranquillise', 'nevertheless', 'quieten', 'even_so', 'tranquilize', 'noneffervescent', 'unruffled', 'smooth', 'calm', 'silent', 'shut_up']",The Star Dwellers
+ritual,"['ritual', 'rite']",The Star Dwellers
+meaningless,"['meaningless', 'nonmeaningful']",The Star Dwellers
+Hart,"['stag', 'Lorenz_Hart', 'Lorenz_Milton_Hart', 'Moss_Hart', 'Hart', 'hart']",The Star Dwellers
+world,"['worldwide', 'domain', 'man', 'mankind', 'reality', 'globe', 'human_beings', 'public', 'global', 'worldly_concern', 'world', 'macrocosm', 'humans', 'creation', 'planetary', 'world-wide', 'earthly_concern', 'populace', 'cosmos', 'existence', 'universe', 'Earth', 'humanity', 'humankind', 'earth', 'human_race']",The Star Dwellers
+very,"['really', 'rattling', 'very', 'selfsame', 'real', 'identical']",The Star Dwellers
+live,"['experience', 'survive', 'subsist', 'bouncy', 'lively', 'know', 'hot', 'exist', 'live_on', 'resilient', 'populate', 'dwell', 'hold_up', 'unrecorded', 'live', 'inhabit', 'alive', 'endure', 'hold_out', 'be', 'springy', 'go', 'last']",The Star Dwellers
+sanest,"['reasonable', 'sane']",The Star Dwellers
+scanned,"['skim', 'glance_over', 'read', 'run_down', 'scan', 'rake']",The Star Dwellers
+horrified,"['appal', 'horrified', 'horror-struck', 'appall', 'horror-stricken', 'horrify', 'dismay', 'alarm']",The Star Dwellers
+second,"['endorsement', 'indorse', 'moment', 'indorsement', '2d', 'secondly', '2nd', 'minute', 's', 'arcsecond', 'irregular', 'second', 'endorse', 'mo', 'instant', 'second_gear', 'secondment', 'sec', 'bit', 'second_base', 'back']",The Star Dwellers
+else,[],The Star Dwellers
+you,[],The Star Dwellers
+nebula,['nebula'],The Star Dwellers
+Without,[],The Star Dwellers
+simple,"['mere', 'round-eyed', 'unsubdivided', 'wide-eyed', 'dewy-eyed', 'bare', 'unproblematic', 'simpleton', 'uncomplicated', 'childlike', 'simple-minded', 'simple', 'elementary', 'dim-witted']",The Star Dwellers
+course,"['line', 'course_of_action', 'run', 'of_course', 'form', 'trend', 'naturally', 'course_of_instruction', 'course_of_study', 'track', 'flow', 'path', 'feed', 'course', 'row', 'class', 'grade']",The Star Dwellers
+perverse,"['reprobate', 'obstinate', 'depraved', 'contrary', 'perverse', 'perverted', 'wayward']",The Star Dwellers
+vessel,"['vas', 'vessel', 'watercraft']",The Star Dwellers
+where,[],The Star Dwellers
+was,"['Evergreen_State', 'exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'WA', 'comprise', 'live', 'constitute', 'Washington', 'equal', 'personify']",The Star Dwellers
+rebuild,"['rebuild', 'reconstruct']",The Star Dwellers
+reinstall,['reinstall'],The Star Dwellers
+learning,"['watch', 'get_a_line', 'encyclopedism', 'read', 'acquisition', 'take', 'learn', 'discover', 'hear', 'con', 'pick_up', 'larn', 'study', 'memorise', 'eruditeness', 'find_out', 'acquire', 'learnedness', 'memorize', 'scholarship', 'erudition', 'teach', 'encyclopaedism', 'see', 'get_word', 'ascertain', 'learning', 'determine', 'check', 'instruct', 'get_wind']",The Star Dwellers
+explained,"['explain', 'excuse', 'explicate']",The Star Dwellers
+question,"['oppugn', 'motion', 'interrogative', 'doubt', 'interrogative_sentence', 'enquiry', 'wonder', 'call_into_question', 'doubtfulness', 'interrogate', 'question', 'head', 'interrogation', 'dubiousness', 'interview', 'inquiry', 'query']",The Star Dwellers
+up,"['upward', 'upwardly', 'upwards', 'improving', 'up', 'astir']",The Star Dwellers
+basic,"['canonic', 'BASIC', 'introductory', 'canonical', 'basic', 'staple']",The Star Dwellers
+cruiser,"['police_cruiser', 'patrol_car', 'squad_car', 'police_car', 'cabin_cruiser', 'pleasure_craft', 'cruiser', 'pleasure_boat', 'prowl_car']",The Star Dwellers
+not,"['non', 'not']",The Star Dwellers
+tried,"['prove', 'try_out', 'strain', 'hear', 'adjudicate', 'stress', 'taste', 'tested', 'essay', 'judge', 'sample', 'try', 'well-tried', 'assay', 'test', 'tried_and_true', 'attempt', 'seek', 'try_on', 'examine', 'time-tested', 'tried', 'render']",The Star Dwellers
+instead,"['alternatively', 'or_else', 'rather', 'instead']",The Star Dwellers
+chase,"['pursual', 'following', 'tag', 'dog', 'Salmon_P._Chase', 'chase_after', 'go_after', 'Salmon_Portland_Chase', 'furrow', 'give_chase', 'Chase', 'trail', 'tail', 'track', 'chamfer', 'pursuit', 'chase']",The Star Dwellers
+ratify,"['sign', 'ratify']",The Star Dwellers
+whole,"['altogether', 'entirely', 'unit', 'whole', 'hale', 'unscathed', 'unhurt', 'unanimous', 'completely', 'wholly', 'all', 'solid', 'totally', 'unharmed']",The Star Dwellers
+how,[],The Star Dwellers
+to,[],The Star Dwellers
+rivalry,"['competition', 'rivalry', 'contention']",The Star Dwellers
+give,"['apply', 'give_way', 'spring', 'gift', 'give', 'grant', 'generate', 'contribute', 'kick_in', 'establish', 'make', 'collapse', 'present', 'founder', 'return', 'chip_in', 'throw', 'consecrate', 'reach', 'open', 'ease_up', 'yield', 'have', 'leave', 'commit', 'springiness', 'pay', 'fall_in', 'afford', 'cave_in', 'dedicate', 'pass_on', 'hold', 'impart', 'hand', 'turn_over', 'move_over', 'devote', 'pass', 'break', 'feed', 'sacrifice', 'render']",The Star Dwellers
+twentieth-century,[],The Star Dwellers
+action,"['fulfill', 'fulfil', 'process', 'sue', 'accomplish', 'legal_action', 'execute', 'natural_process', 'carry_through', 'natural_action', 'action_at_law', 'action_mechanism', 'carry_out', 'action', 'activity', 'litigate', 'activeness', 'military_action']",The Star Dwellers
+Though,['though'],The Star Dwellers
+could,[],The Star Dwellers
+disarmament,"['disarmament', 'disarming']",The Star Dwellers
+pleasure,"['joy', 'pleasance', 'delight', 'pleasure']",The Star Dwellers
+believe,"['trust', 'consider', 'think', 'believe', 'conceive']",The Star Dwellers
+each,"['from_each_one', 'each', 'apiece', 'to_each_one', 'for_each_one']",The Star Dwellers
+nest,"['cuddle', 'nest', 'draw_close', 'nuzzle', 'snuggle', 'nestle']",The Star Dwellers
+Socialist,"['socialist', 'socialistic']",The Star Dwellers
+Gradually,"['step_by_step', 'bit_by_bit', 'gradually']",The Star Dwellers
+even,"['regular', 'flush', 'even_out', 'eve', 'evening', 'tied', 'fifty-fifty', 'level', 'yet', 'eventide', 'even', 'still']",The Star Dwellers
+reasonably,"['sanely', 'somewhat', 'jolly', 'sensibly', 'moderately', 'passably', 'middling', 'reasonably', 'fairly', 'pretty']",The Star Dwellers
+found,"['plant', 'get_hold', 'discover', 'establish', 'line_up', 'receive', 'get', 'encounter', 'incur', 'recover', 'bump', 'witness', 'find_out', 'ground', 'found', 'base', 'find_oneself', 'launch', 'feel', 'obtain', 'find', 'retrieve', 'set_up', 'detect', 'chance', 'see', 'rule', 'ascertain', 'notice', 'determine', 'institute', 'constitute', 'observe', 'happen', 'regain', 'come_up']",The Star Dwellers
+This,[],The Star Dwellers
+order,"['ordain', 'fiat', 'parliamentary_law', 'regulate', 'regularise', 'say', 'orderliness', 'club', 'range', 'enjoin', 'arrange', 'social_club', 'order_of_magnitude', 'place', 'gild', 'regularize', 'tell', 'parliamentary_procedure', 'Order', 'consecrate', 'guild', 'order', 'rank', 'ordination', 'lodge', 'dictate', 'rate', 'society', 'ordering', 'monastic_order', 'govern', 'set_up', 'put', 'rules_of_order', 'ordinate', 'decree', 'Holy_Order', 'rescript', 'prescribe', 'grade', 'purchase_order', 'edict']",The Star Dwellers
+party,"['company', 'political_party', 'party']",The Star Dwellers
+handle,"['handgrip', 'manage', 'hold', 'wield', 'grip', 'deal', 'palm', 'plow', 'cover', 'treat', 'do_by', 'handle', 'address', 'care']",The Star Dwellers
+anticipate,"['call', 'foretell', 'predict', 'look_to', 'promise', 'foreknow', 'forestall', 'previse', 'forebode', 'foresee', 'expect', 'look_for', 'prognosticate', 'counter', 'anticipate']",The Star Dwellers
+worked,"['make_for', 'ferment', 'mould', 'do_work', 'cultivate', 'function', 'influence', 'puzzle_out', 'mold', 'make', 'forge', 'put_to_work', 'process', 'bring', 'work_on', 'knead', 'work_out', 'solve', 'operate', 'exploit', 'exercise', 'turn', 'shape', 'wreak', 'figure_out', 'run', 'act', 'lick', 'work', 'go', 'form', 'sour', 'crop', 'play', 'act_upon']",The Star Dwellers
+recommend,"['advocate', 'commend', 'urge', 'recommend']",The Star Dwellers
+brothers,"['comrade', 'blood_brother', 'pal', 'crony', 'brother', 'buddy', 'sidekick', 'chum', 'Brother']",The Star Dwellers
+boards,"['control_panel', 'room', 'add-in', 'display_board', 'display_panel', 'panel', 'table', 'dining_table', 'instrument_panel', 'circuit_card', 'plank', 'boards', 'control_board', 'board', 'gameboard', 'circuit_board', 'get_on', 'card', 'plug-in']",The Star Dwellers
+running,"['break_away', 'hunt', 'bunk', 'black_market', 'function', 'run_away', 'lean', 'prevail', 'take_to_the_woods', 'ply', 'range', 'running_play', 'incline', 'hunt_down', 'operative', 'escape', 'fly_the_coop', 'operate', 'draw', 'persist', 'run_for', 'lam', 'running_game', 'scat', 'campaign', 'turn_tail', 'extend', 'tend', 'die_hard', 'move', 'scarper', 'guide', 'head_for_the_hills', 'run', 'endure', 'consort', 'race', 'working', 'flow', 'track', 'hightail_it', 'course', 'melt_down', 'running', 'melt', 'carry', 'functional', 'work', 'go', 'execute', 'bleed', 'unravel', 'play', 'pass', 'be_given', 'lead', 'track_down', 'ladder', 'feed', 'linear']",The Star Dwellers
+and,[],The Star Dwellers
+races,"['hasten', 'slipstream', 'subspecies', 'belt_along', 'speed', 'bucket_along', 'pelt_along', 'hotfoot', 'rush', 'backwash', 'race', 'run', 'cannonball_along', 'wash', 'airstream', 'step_on_it', 'raceway', 'rush_along', 'hie']",The Star Dwellers
+while,"['piece', 'while', 'patch', 'spell']",The Star Dwellers
+go,"['survive', 'pass_away', 'give_way', 'tour', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'cristal', 'go_game', 'live_on', 'plump', 'whirl', 'go_away', 'offer', 'get', 'hold_up', 'operate', 'drop_dead', 'spell', 'pop_off', 'become', 'live', 'turn', 'last', 'belong', 'extend', 'conk', 'start', 'move', 'XTC', 'crack', 'run_low', 'rifle', 'blend_in', 'disco_biscuit', 'run', 'sound', 'endure', 'hold_out', 'give_out', 'break_down', 'choke', 'fling', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'die', 'Adam', 'work', 'ecstasy', 'go', 'kick_the_bucket', 'buy_the_farm', 'hug_drug', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'X']",The Star Dwellers
+millions,"['zillion', '1000000', 'meg', 'billion', 'gazillion', 'million', 'trillion', 'one_thousand_thousand', 'jillion']",The Star Dwellers
+Earth,"['terra_firma', 'dry_land', 'land', 'worldly_concern', 'world', 'globe', 'ground', 'Earth', 'earthly_concern', 'earth', 'solid_ground']",The Star Dwellers
+partially,"['part', 'partly', 'partially']",The Star Dwellers
+taken,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'interpreted', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'shoot', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'call_for', 'drive', 'contain', 'engage', 'direct', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'taken', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Star Dwellers
+helpless,"['lost', 'helpless', 'incapacitated']",The Star Dwellers
+set,"['exercise_set', 'pose', 'go_down', 'located', 'stage_set', 'curing', 'plant', 'dictated', 'coiffe', 'fix', 'mark', 'place', 'bent', 'go_under', 'arrange', 'fructify', 'dress', 'typeset', 'fit', 'hardening', 'prepare', 'Seth', 'laid', 'hardened', 'lay_out', 'coif', 'circle', 'limit', 'primed', 'Set', 'fixed', 'localise', 'adjust', 'solidifying', 'solidification', 'position', 'do', 'specify', 'rig', 'congeal', 'ready', 'lot', 'define', 'set_up', 'placed', 'band', 'rigid', 'correct', 'sic', 'coiffure', 'countersink', 'set', 'gear_up', 'jell', 'determine', 'localize', 'put', 'readiness', 'situated', 'determined', 'lay']",The Star Dwellers
+with,[],The Star Dwellers
+Angel,"['backer', 'Angel_Falls', 'holy_man', 'saint', 'holy_person', 'angel', 'Angel']",The Star Dwellers
+gives,"['apply', 'give_way', 'spring', 'gift', 'give', 'grant', 'generate', 'contribute', 'kick_in', 'establish', 'make', 'collapse', 'present', 'founder', 'return', 'chip_in', 'throw', 'consecrate', 'reach', 'open', 'ease_up', 'yield', 'have', 'leave', 'commit', 'springiness', 'pay', 'fall_in', 'afford', 'cave_in', 'dedicate', 'pass_on', 'hold', 'impart', 'hand', 'turn_over', 'move_over', 'devote', 'pass', 'break', 'feed', 'sacrifice', 'render']",The Star Dwellers
+Between,"['betwixt', ""'tween"", 'between']",The Star Dwellers
+trace,"['hound', 'trace', 'line', 'hunt', 'hint', 'touch', 'vestige', 'follow', 'retrace', 'draw', 'tincture', 'describe', 'shadow', 'decipher', 'delineate', 'ghost', 'tracing', 'suggestion']",The Star Dwellers
+unlikely,"['unlikely', 'unbelievable', 'unconvincing', 'improbable']",The Star Dwellers
+an,"['AN', 'Associate_in_Nursing']",The Star Dwellers
+reason,"['argue', 'conclude', 'rationality', 'intellect', 'cause', 'reason', 'grounds', 'reason_out', 'understanding', 'ground', 'reasonableness']",The Star Dwellers
+curiosity,"['peculiarity', 'oddity', 'oddment', 'curiosity', 'wonder', 'rarity', 'curio']",The Star Dwellers
+principle,"['principle', 'precept', 'rule', 'rationale']",The Star Dwellers
+concluded,"['over', 'all_over', 'conclude', 'terminated', 'reason', 'reason_out', 'concluded', 'complete', 'close', 'ended', 'resolve']",The Star Dwellers
+His,[],The Star Dwellers
+its,"['information_technology', 'IT']",The Star Dwellers
+established,"['plant', 'prove', 'established', 'give', 'accomplished', 'effected', 'establish', 'make', 'conventional', 'shew', 'naturalized', 'instal', 'ground', 'found', 'base', 'show', 'demonstrate', 'launch', 'build', 'install', 'set_up', 'constituted', 'lay_down', 'institute', 'constitute']",The Star Dwellers
+wildly,['wildly'],The Star Dwellers
+spacesuits,['spacesuit'],The Star Dwellers
+Gabriel,['Gabriel'],The Star Dwellers
+Jack,"['diddlyshit', 'shit', 'jack', 'mariner', 'Jack', 'tar', 'seafarer', 'jak', 'squat', 'Jack-tar', 'jackstones', 'gob', 'doodly-squat', 'diddly-shit', 'diddly', 'diddley', 'diddlysquat', 'jacklight', 'jackfruit', 'diddly-squat', 'manual_laborer', 'sea_dog', 'labourer', 'jackass', 'laborer', 'jack_up', 'seaman', 'knave', 'old_salt']",The Star Dwellers
+them,[],The Star Dwellers
+clerk,"['clerk', 'shop_assistant', 'shop_clerk', 'salesclerk']",The Star Dwellers
+reclaim,"['domesticize', 'reform', 'rectify', 'domesticate', 'domesticise', 'tame', 'recover', 'regenerate', 'repossess', 'reclaim']",The Star Dwellers
+powerful,"['brawny', 'muscular', 'sinewy', 'mightily', 'herculean', 'hefty', 'mighty', 'right', 'potent', 'powerful', 'knock-down']",The Star Dwellers
+motives,"['need', 'motive', 'motivation', 'motif', 'theme']",The Star Dwellers
+comet's-tail,[],The Star Dwellers
+seemingly,"['apparently', 'seemingly', 'ostensibly', 'on_the_face_of_it']",The Star Dwellers
+can't,[],The Star Dwellers
+Yes,['yes'],The Star Dwellers
+generator,"['author', 'source', 'generator']",The Star Dwellers
+instant's,[],The Star Dwellers
+new,"['fresh', 'newfangled', 'new', 'unexampled', 'raw', 'freshly', 'novel', 'Modern', 'New', 'newly', 'young']",The Star Dwellers
+said,"['state', 'pronounce', 'enounce', 'read', 'aforesaid', 'aver', 'allege', 'articulate', 'say', 'tell', 'suppose', 'sound_out', 'enunciate', 'said', 'aforementioned', 'enjoin', 'order']",The Star Dwellers
+Then,"['and_so', 'then', 'so', 'and_then']",The Star Dwellers
+forego,"['forgo', 'precede', 'antedate', 'dispense_with', 'foreswear', 'predate', 'relinquish', 'forego', 'forfeit', 'throw_overboard', 'antecede', 'give_up', 'waive']",The Star Dwellers
+Furthermore,"['furthermore', 'moreover', 'what_is_more']",The Star Dwellers
+turn,"['bout', 'ferment', 'move_around', 'tour', 'rick', 'change_state', 'round', 'number', 'bend', 'sprain', 'spell', 'become', 'plow', 'turn', 'wrick', 'deform', 'change_by_reversal', 'turn_of_events', 'reverse', 'crook', 'routine', 'flex', 'turning', 'act', 'good_turn', 'work', 'twist', 'plough', 'go', 'bit', 'release', 'turn_over', 'wrench', 'sour', 'grow', 'play', 'call_on']",The Star Dwellers
+getting,"['arrest', 'experience', 'pose', 'come', 'mystify', 'sustain', 'puzzle', 'induce', 'fuck_off', 'stupefy', 'fix', 'take', 'amaze', 'get_down', 'start_out', 'beget', 'generate', 'develop', 'suffer', 'bugger_off', 'make', 'contract', 'set_about', 'pay_off', 'cause', 'get', 'receive', 'bring', 'incur', 'gravel', 'commence', 'beat', 'draw', 'sire', 'become', 'capture', 'baffle', 'getting', 'arrive', 'start', 'scram', 'acquire', 'drive', ""get_under_one's_skin"", 'nonplus', 'bewilder', 'perplex', 'pay_back', 'set_out', 'have', 'begin', 'buzz_off', 'mother', 'obtain', 'find', 'stick', 'flummox', 'bring_forth', 'stimulate', 'fetch', 'catch', 'let', 'produce', 'go', 'vex', 'engender', 'grow', 'father', 'acquiring', 'dumbfound', 'aim', 'convey']",The Star Dwellers
+first,"['kickoff', 'number_1', 'first_gear', 'offset', 'starting_time', 'number_one', 'first_base', 'maiden', '1st', 'beginning', 'first', 'start', 'initiatory', 'first_off', 'firstly', 'foremost', 'world-class', 'low', 'for_the_first_time', 'get-go', 'outset', 'low_gear', 'showtime', 'first_of_all', 'initiative', 'inaugural', 'commencement', 'first-class_honours_degree']",The Star Dwellers
+man's,[],The Star Dwellers
+Had,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Star Dwellers
+surely,"['surely', 'sure', 'certainly', 'sure_as_shooting', 'for_sure', 'for_certain', 'sure_enough']",The Star Dwellers
+laws,"['police_force', 'practice_of_law', 'Torah', 'police', 'Laws', 'natural_law', 'constabulary', 'jurisprudence', 'Pentateuch', 'legal_philosophy', 'law_of_nature', 'law']",The Star Dwellers
+spat,"['bicker', 'clap', 'applaud', 'ptyalise', 'pettifoggery', 'acclaim', 'spew', 'spat', 'spit', 'bickering', 'pitter-patter', 'sprinkle', 'fuss', 'spit_out', 'tiff', 'squabble', 'skewer', 'patter', 'spue', 'ptyalize', 'spatter', 'gaiter']",The Star Dwellers
+Recovering,"['recoup', 'recovering', 'convalesce', 'recover', 'convalescent', 'recuperate', 'go_back', 'find', 'reclaim', 'retrieve', 'regain']",The Star Dwellers
+low,"['humiliated', 'broken', 'humbled', 'first_gear', 'humble', 'dispirited', 'low-pitched', 'scummy', 'Low', 'gloomy', 'modest', 'miserable', 'lowly', 'Sir_David_Low', 'first', 'low-toned', 'grim', 'depressed', 'low-spirited', 'Sir_David_Alexander_Cecil_Low', 'low', 'crushed', 'depression', 'depleted', 'low-down', 'abject', 'low_gear', 'downcast', 'downhearted', 'scurvy', 'moo', 'down', 'blue', 'David_Low', 'small', 'down_in_the_mouth']",The Star Dwellers
+had,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Star Dwellers
+Strange,"['unknown', 'strange', 'unusual', 'foreign']",The Star Dwellers
+test,"['mental_testing', 'run', 'examine', 'trial', 'prove', 'exam', 'quiz', 'try_out', 'try', 'tryout', 'examination', 'psychometric_test', 'screen', 'test', 'essay', 'trial_run', 'mental_test']",The Star Dwellers
+entertain,"['think_of', 'hold', 'toy_with', 'harbour', 'think_about', 'nurse', 'harbor', 'entertain', 'flirt_with']",The Star Dwellers
+though,['though'],The Star Dwellers
+switch,"['switching', 'switch_over', 'alternate', 'exchange', 'transposition', 'swop', 'flip-flop', 'throw', 'interchange', 'tack', 'trade', 'substitution', 'flip', 'electric_switch', 'change_over', 'switch', 'replacement', 'shift', 'swap', 'change', 'permutation', 'electrical_switch']",The Star Dwellers
+chance,"['hazard', 'casual', 'opportunity', 'adventure', 'prospect', 'probability', 'chance', 'risk', 'run_a_risk', 'take_a_chance', 'find', 'encounter', 'bump', 'gamble', 'fortune', 'happen', 'take_chances', 'luck']",The Star Dwellers
+difference,"['deviation', 'conflict', 'divergence', 'remainder', 'difference', 'dispute', 'difference_of_opinion', 'departure']",The Star Dwellers
+crawled,"['creep', 'grovel', 'cower', 'crawl', 'cringe', 'fawn']",The Star Dwellers
+galactic,"['astronomic', 'astronomical', 'galactic']",The Star Dwellers
+then,"['and_so', 'then', 'so', 'and_then']",The Star Dwellers
+reactors,"['nuclear_reactor', 'reactor']",The Star Dwellers
+wanted,"['require', 'desire', 'wanted', 'need', 'treasured', 'want', 'cherished', 'precious']",The Star Dwellers
+yours,[],The Star Dwellers
+later,"['afterwards', 'later_on', 'ulterior', 'subsequently', 'previous', 'after', 'later', 'belated', 'former', 'late', 'posterior', 'recent', 'afterward', 'by_and_by', 'tardy']",The Star Dwellers
+deal,"['muckle', 'softwood', 'make_out', 'dish_out', 'deal', 'allot', 'mickle', 'mint', 'take', 'deal_out', 'cover', 'treat', 'cope', 'heap', 'pot', 'share', 'quite_a_little', 'conduct', 'sell', 'parcel_out', 'spate', 'dispense', 'wad', 'plow', 'contend', 'shell_out', 'passel', 'handle', 'flock', 'grapple', 'business_deal', 'good_deal', 'administer', 'batch', 'carry_on', 'trade', 'peck', 'bargain', 'pile', 'manage', 'consider', 'mass', 'lot', 'mess', 'make_do', 'divvy_up', 'apportion', 'portion_out', 'address', 'hatful', 'plenty', 'mete_out', 'distribute', 'raft', 'mountain', 'sight', 'hand', 'look_at', 'tidy_sum', 'stack', 'get_by', 'slew', 'dole_out', 'great_deal', 'care']",The Star Dwellers
+send,"['mail', 'get_off', 'post', 'station', 'air', 'send', 'place', 'institutionalise', 'ship', 'transmit', 'send_off', 'direct', 'commit', 'send_out', 'transport', 'institutionalize', 'charge', 'beam', 'broadcast']",The Star Dwellers
+know,"['experience', 'make_out', 'hump', 'acknowledge', 'cognize', 'cognise', 'have_it_away', 'know', 'have_a_go_at_it', 'have_sex', 'sleep_together', 'make_love', 'get_it_on', 'fuck', 'recognize', 'live', 'do_it', 'be_intimate', 'get_laid', 'love', 'bang', 'recognise', 'screw', 'sleep_with', 'eff', 'lie_with', 'bed', 'jazz', 'roll_in_the_hay', 'have_intercourse', 'bonk', 'have_it_off']",The Star Dwellers
+What's,[],The Star Dwellers
+neither,['neither'],The Star Dwellers
+predicted,"['foretell', 'predict', 'promise', 'portend', 'bode', 'presage', 'foreshadow', 'auspicate', 'forebode', 'anticipate', 'omen', 'forecast', 'prefigure', 'prognosticate', 'betoken', 'augur', 'call']",The Star Dwellers
+awesome,"['awe-inspiring', 'amazing', 'awing', 'awesome', 'awful']",The Star Dwellers
+misuse,"['pervert', 'misapply', 'abuse', 'misuse']",The Star Dwellers
+enough,"['plenty', 'adequate', 'sufficiency', 'decent', 'enough']",The Star Dwellers
+Heaven,"['Eden', 'nirvana', 'Heaven', 'heaven', 'Shangri-la', 'promised_land', 'paradise']",The Star Dwellers
+other,"['former', 'early', 'other']",The Star Dwellers
+Angel's,[],The Star Dwellers
+custom,"['tradition', 'customs_duty', 'impost', 'custom', 'customs', 'usage', 'usance', 'custom-made']",The Star Dwellers
+hotter,"['red-hot', 'spicy', 'raging', 'hot', 'live', 'blistering']",The Star Dwellers
+own,"['ain', 'own', 'have', 'possess']",The Star Dwellers
+outsiders,"['outsider', 'foreigner']",The Star Dwellers
+Secretary,"['repository', 'secretarial_assistant', 'writing_table', 'secretary', 'escritoire', 'secretaire']",The Star Dwellers
+also,"['likewise', 'as_well', 'too', 'besides', 'also']",The Star Dwellers
+bargaining,"['dicker', 'bargaining', 'bargain']",The Star Dwellers
+nations,"['body_politic', 'state', 'Carry_Nation', 'land', 'nation', 'Nation', 'country', 'Carry_Amelia_Moore_Nation', 'commonwealth', 'res_publica']",The Star Dwellers
+show,"['prove', 'read', 'establish', 'express', 'register', 'record', 'shew', 'evidence', 'point', 'present', 'display', 'show', 'demonstrate', 'show_up', 'usher', 'picture', 'evince', 'testify', 'appearance', 'indicate', 'designate', 'depict', 'demo', 'bear_witness', 'exhibit', 'render']",The Star Dwellers
+her,[],The Star Dwellers
+do,"['make_out', 'come', 'Doctor_of_Osteopathy', 'ut', 'answer', 'coiffe', 'doh', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'practice', 'exercise', 'brawl', 'do', 'manage', 'DO', 'practise', 'act', 'bash', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Star Dwellers
+feet,"['fundament', 'groundwork', 'invertebrate_foot', 'substructure', 'human_foot', 'foot', 'animal_foot', 'understructure', 'metrical_unit', 'foundation', 'metrical_foot', 'ft', 'pes', 'base', 'infantry']",The Star Dwellers
+that,[],The Star Dwellers
+nothing,"['nix', 'zero', 'naught', 'goose_egg', 'zilch', 'zip', 'zippo', 'nothing', 'cipher', 'cypher', 'nil', 'aught', 'null', 'nada']",The Star Dwellers
+major,"['John_Roy_Major', 'John_Major', 'John_R._Major', 'Major', 'major']",The Star Dwellers
+sight,"['muckle', 'visual_modality', 'view', 'deal', 'spy', 'vision', 'mickle', 'mint', 'heap', 'pot', 'quite_a_little', 'visual_sense', 'spate', 'wad', 'passel', 'flock', 'survey', 'good_deal', 'batch', 'peck', 'pile', 'ken', 'mass', 'lot', 'mess', 'hatful', 'plenty', 'raft', 'sight', 'mountain', 'tidy_sum', 'stack', 'slew', 'great_deal']",The Star Dwellers
+codified,"['codified', 'statute', 'codify']",The Star Dwellers
+older,"['elder', 'onetime', 'honest-to-god', 'previous', 'honest-to-goodness', 'erstwhile', 'sometime', 'Old', 'former', 'older', 'one-time', 'elderly', 'sure-enough', 'sr.', 'quondam', 'old', 'aged', 'senior']",The Star Dwellers
+refused,"['decline', 'deny', 'defy', 'pass_up', 'resist', 'refuse', 'reject', 'turn_away', 'turn_down']",The Star Dwellers
+States,"['DoS', 'land', 'say', 'Department_of_State', 'State', 'express', 'state', 'province', 'tell', 'put_forward', 'posit', 'commonwealth', 'nation', 'country', 'United_States_Department_of_State', 'state_of_matter', 'body_politic', 'submit', 'res_publica', 'State_Department']",The Star Dwellers
+rapidly,"['rapidly', 'speedily', 'chop-chop', 'quickly', 'apace']",The Star Dwellers
+moment,"['present_moment', 'minute', 'bit', 'import', 'moment', 'consequence', 'here_and_now', 'mo', 'second', 'instant']",The Star Dwellers
+startling,"['galvanise', 'jump', 'startling', 'startle', 'start', 'galvanize']",The Star Dwellers
+At,"['astatine', 'atomic_number_85', 'at', 'At']",The Star Dwellers
+terms,"['price', 'damage', 'terminal_figure', 'terminus', 'terms', 'term', 'condition', 'full_term', 'footing']",The Star Dwellers
+answer,"['response', 'resolution', 'solvent', 'do', 'serve', 'solution', 'answer', 'result', 'respond', 'reply', 'suffice', 'resolve']",The Star Dwellers
+assumptions,"['Assumption_of_Mary', 'August_15', 'assumption', 'presumptuousness', 'presumption', 'effrontery', 'premise', 'Assumption', 'supposition', 'premiss', 'laying_claim', 'supposal']",The Star Dwellers
+contrary,"['opposite', 'reverse', 'obstinate', 'contrary', 'perverse', 'adverse', 'wayward']",The Star Dwellers
+outcome,"['event', 'termination', 'resultant', 'issue', 'upshot', 'final_result', 'consequence', 'result', 'effect', 'outcome']",The Star Dwellers
+when,[],The Star Dwellers
+t-tau,[],The Star Dwellers
+premise,"['assumption', 'premise', 'preface', 'precede', 'premiss', 'introduce']",The Star Dwellers
+ago,"['ago', 'agone']",The Star Dwellers
+suspicion,"['suspiciousness', 'suspicion', 'intuition', 'misgiving', 'hunch', 'distrust', 'mistrust']",The Star Dwellers
+facts,['fact'],The Star Dwellers
+whether,[],The Star Dwellers
+lifted,"['rear', 'plagiarize', 'revoke', 'move_up', 'repeal', 'wind', 'go_up', 'lift', 'get_up', 'upraised', 'pilfer', 'purloin', 'lifted', 'vacate', 'cabbage', 'snarf', 'sneak', 'airlift', 'uprise', 'pinch', 'nobble', 'abstract', 'rise', 'plagiarise', 'raise', 'swipe', 'hoist', 'reverse', 'annul', 'rescind', 'overturn', 'arise', 'elevate', 'hook', 'face-lift', 'bring_up', 'countermand', 'rustle', 'filch', 'come_up']",The Star Dwellers
+fed,"['Fed', 'feed_in', 'run', 'prey', 'fertilize', 'feast', 'Federal', 'flow', 'Federal_Reserve_System', 'course', 'Federal_Reserve', 'FRS', 'feed', 'give', 'eat', 'fertilise', 'federal_official']",The Star Dwellers
+poured,"['rain_cats_and_dogs', 'pour_out', 'pelt', 'swarm', 'pour', 'decant', 'pullulate', 'teem', 'rain_buckets', 'stream']",The Star Dwellers
+agreement,"['concord', 'understanding', 'correspondence', 'agreement', 'accord', 'arrangement']",The Star Dwellers
+crimson,"['reddish', 'reddened', 'blush', 'carmine', 'violent', 'crimson', 'ruby-red', 'blood-red', 'scarlet', 'cherry-red', 'flushed', 'red', 'ruddy', 'deep_red', 'cerise', 'flush', 'cherry', 'redden', 'red-faced', 'ruby']",The Star Dwellers
+matter,"['issue', 'weigh', 'count', 'subject', 'topic', 'affair', 'matter', 'thing']",The Star Dwellers
+thing,"['affair', 'matter', 'thing']",The Star Dwellers
+vector,"['transmitter', 'vector']",The Star Dwellers
+applicable,['applicable'],The Star Dwellers
+nearly,"['most', 'nearly', 'well-nigh', 'almost', 'nigh', 'intimately', 'virtually', 'near', 'closely', 'about']",The Star Dwellers
+called,"['foretell', 'send_for', 'call_off', 'scream', 'call', 'phone', 'holler', 'name', 'shout', 'cry', 'call_up', 'prognosticate', 'hollo', 'anticipate', 'promise', 'ring', 'shout_out', 'forebode', 'bid', 'address', 'yell', 'predict', 'telephone', 'squall', 'call_in', 'visit']",The Star Dwellers
+help,"['service', 'assistant', 'assistance', 'help', 'aid', 'serve', 'avail', 'help_oneself', 'supporter', 'assist', 'helper', 'facilitate']",The Star Dwellers
+feels,"['experience', 'tactile_property', 'tone', 'flavor', 'feel', 'feeling', 'flavour', 'sense', 'finger', 'palpate', 'find', 'spirit', 'look', 'smell']",The Star Dwellers
+meant,"['intend', 'imply', 'entail', 'stand_for', 'think', 'have_in_mind', 'signify', 'mean', 'think_of']",The Star Dwellers
+accordance,"['accordance', 'conformity', 'accord', 'accordance_of_rights']",The Star Dwellers
+unreassuringly,[],The Star Dwellers
+govern,"['regularize', 'regulate', 'rule', 'regularise', 'order', 'govern']",The Star Dwellers
+Langer,[],The Star Dwellers
+can,"['seat', 'displace', 'rear', 'give_the_sack', 'canful', 'lav', 'behind', 'stool', 'fanny', 'bum', 'toilet', 'commode', 'buttocks', 'lavatory', 'pot', 'give_notice', 'tin_can', 'can_buoy', 'privy', 'fire', 'force_out', 'butt', 'send_away', 'sack', 'backside', 'posterior', 'tail', 'bathroom', 'tail_end', 'john', 'tush', 'potty', 'give_the_axe', 'arse', 'tin', 'prat', 'rear_end', 'hind_end', 'bottom', 'put_up', 'crapper', 'buns', 'can', 'dismiss', 'nates', 'keister', 'fundament', 'hindquarters', 'stern', 'ass', 'rump', 'tooshie', 'throne', 'terminate', 'derriere']",The Star Dwellers
+religion,"['religion', 'organized_religion', 'religious_belief', 'faith']",The Star Dwellers
+slowly,"['tardily', 'slowly', 'lento', 'easy', 'slow']",The Star Dwellers
+talked,"['utter', 'sing', 'spill_the_beans', 'babble', 'let_the_cat_out_of_the_bag', 'blab', 'peach', 'tattle', 'babble_out', 'spill', 'lecture', 'talk', 'blab_out', 'mouth', 'verbalize', 'verbalise', 'speak']",The Star Dwellers
+streaks,"['mottle', 'run', 'stripe', 'blotch', 'bar', 'streak']",The Star Dwellers
+diplomatic,"['diplomatic', 'diplomatical']",The Star Dwellers
+curve,"['bender', 'sheer', 'wind', 'curl', 'curve_ball', 'kink', 'bend', 'curvature', 'trend', 'crook', 'veer', 'cut', 'arch', 'curved_shape', 'breaking_ball', 'arc', 'twist', 'curve', 'slue', 'slew', 'swerve']",The Star Dwellers
+lead,"['steer', 'hint', 'atomic_number_82', 'principal', 'moderate', 'jumper_lead', 'take', 'jumper_cable', 'wind', 'head', 'star', 'contribute', 'lead_story', 'conduce', 'Pb', 'conduct', 'lede', 'precede', 'trail', 'tip', 'extend', 'chair', 'spark_advance', 'top', 'guide', 'booster_cable', 'tether', 'run', 'direct', 'leave', 'track', 'leading', 'lead-in', 'confidential_information', 'pencil_lead', 'leash', 'go', 'pass', 'lead', 'result']",The Star Dwellers
+transition,"['passage', 'conversion', 'changeover', 'transition', 'modulation']",The Star Dwellers
+roiling,"['roiled', 'turbulent', 'moil', 'churn', 'rile', 'roil', 'roiling', 'boil', 'churning', 'roily']",The Star Dwellers
+excised,"['strike', 'excise', 'expunge', 'scratch']",The Star Dwellers
+questions,"['oppugn', 'motion', 'interrogative', 'doubt', 'interrogative_sentence', 'enquiry', 'wonder', 'call_into_question', 'doubtfulness', 'interrogate', 'question', 'head', 'interrogation', 'dubiousness', 'interview', 'inquiry', 'query']",The Star Dwellers
+perceive,"['comprehend', 'perceive']",The Star Dwellers
+safest,"['safe', 'secure', 'good', 'dependable']",The Star Dwellers
+there,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Star Dwellers
+man,"['military_man', 'man', 'mankind', 'homo', 'valet', 'human_beings', 'valet_de_chambre', 'world', ""gentleman's_gentleman"", 'humans', 'gentleman', 'serviceman', 'Man', 'Isle_of_Man', 'human', 'military_personnel', 'human_being', 'piece', 'humanity', 'humankind', 'adult_male', 'human_race']",The Star Dwellers
+Holy,"['holy', 'holy_place', 'sanctum']",The Star Dwellers
+mine,['mine'],The Star Dwellers
+It,"['information_technology', 'IT']",The Star Dwellers
+Nobody,"['cipher', 'cypher', 'nobody', 'nonentity']",The Star Dwellers
+California,"['Golden_State', 'CA', 'California', 'Calif.']",The Star Dwellers
+survived,"['exist', 'survive', 'live_on', 'endure', 'go', 'hold_up', 'hold_out', 'subsist', 'pull_round', 'make_it', 'pull_through', 'live', 'outlast', 'come_through', 'outlive', 'last']",The Star Dwellers
+case,"['type', 'pillowcase', 'incase', 'pillow_slip', 'case', 'guinea_pig', ""typesetter's_case"", 'showcase', 'font', 'encase', 'cause', 'example', 'display_case', 'suit', 'causa', 'shell', 'fount', 'sheath', 'lawsuit', 'casing', 'subject', 'instance', 'grammatical_case', 'event', 'eccentric', 'caseful', 'typeface', 'character', 'vitrine', 'face', 'slip', ""compositor's_case""]",The Star Dwellers
+done,"['make_out', 'come', 'through', 'answer', 'coiffe', 'done', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'practice', 'exercise', 'through_with', 'do', 'manage', 'practise', 'act', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Star Dwellers
+something,[],The Star Dwellers
+static,"['inactive', 'stable', 'unchanging', 'atmospheric_static', 'motionless', 'atmospherics', 'electrostatic', 'static', 'still']",The Star Dwellers
+offering,"['oblation', 'tender', 'declare_oneself', 'offer', 'volunteer', 'pop_the_question', 'offer_up', 'put_up', 'bid', 'propose', 'extend', 'provide', 'offering', 'proffer']",The Star Dwellers
+Nernst,"['Walther_Hermann_Nernst', 'Nernst']",The Star Dwellers
+over,"['over', 'all_over', 'terminated', 'concluded', 'complete', ""o'er"", 'ended']",The Star Dwellers
+water,"['piss', 'water', 'body_of_water', 'urine', 'weewee', 'pee', 'irrigate', 'water_supply', 'H2O', 'piddle', 'water_system']",The Star Dwellers
+of,[],The Star Dwellers
+enforcing,"['apply', 'enforce', 'implement', 'impose']",The Star Dwellers
+being,"['exist', 'organism', 'cost', 'represent', 'existence', 'be', 'make_up', 'embody', 'follow', 'being', 'comprise', 'beingness', 'live', 'constitute', 'equal', 'personify']",The Star Dwellers
+shorten,"['contract', 'abridge', 'castrate', 'bowdlerize', 'bowdlerise', 'shorten', 'foreshorten', 'abbreviate', 'expurgate', 'cut', 'reduce']",The Star Dwellers
+does,"['make_out', 'come', 'answer', 'coiffe', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'DOE', 'Energy', 'Department_of_Energy', 'practice', 'Energy_Department', 'exercise', 'do', 'manage', 'practise', 'doe', 'act', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Star Dwellers
+pointed,"['taper', 'steer', 'manoeuvre', 'channelize', 'level', 'luff', 'head', 'place', 'betoken', 'target', 'point', 'manoeuver', 'show', 'guide', 'pointed', 'maneuver', 'sharpen', 'direct', 'channelise', 'repoint', 'indicate', 'designate', 'charge', 'signal', 'orient', 'aim', 'bespeak']",The Star Dwellers
+bizarre,"['freakish', 'eccentric', 'flaky', 'outre', 'freaky', 'flakey', 'outlandish', 'off-the-wall', 'gonzo', 'bizarre']",The Star Dwellers
+pounding,"['hammering', 'ram_down', 'hammer', 'pounding', 'throbbing', 'lumber', 'beat', 'impound', 'pound_up', 'throb', 'buffeting', 'pound_off', 'ram', 'thump', 'pound', 'poke']",The Star Dwellers
+Nevertheless,"['withal', 'nonetheless', 'all_the_same', 'nevertheless', 'however', 'yet', 'even_so', 'still', 'notwithstanding']",The Star Dwellers
+They,[],The Star Dwellers
+important,"['of_import', 'significant', 'important', 'authoritative', 'crucial']",The Star Dwellers
+audience,"['consultation', 'hearing', 'interview', 'audience']",The Star Dwellers
+requires,"['require', 'involve', 'command', 'need', 'postulate', 'take', 'necessitate', 'demand', 'expect', 'want', 'ask', 'call_for']",The Star Dwellers
+chain,"['mountain_chain', 'string', 'range_of_mountains', 'concatenation', 'Chain', 'range', 'strand', 'mountain_range', 'chemical_chain', 'chain_of_mountains', 'Sir_Ernst_Boris_Chain', 'Ernst_Boris_Chain', 'chain']",The Star Dwellers
+trouble,"['perturb', 'disoblige', 'disquiet', 'disturb', 'hassle', 'incommode', 'pain', 'upset', 'inconvenience', 'trouble_oneself', 'ail', 'problem', 'put_out', 'unhinge', 'disorder', 'inconvenience_oneself', 'discommode', 'cark', 'fuss', 'trouble', 'difficulty', 'worry', 'bother', 'distract']",The Star Dwellers
+skiff,['skiff'],The Star Dwellers
+short,"['short-change', 'unawares', 'short_circuit', 'myopic', 'poor', 'dead', 'brusque', 'little', 'curt', 'curtly', 'inadequate', 'unretentive', 'shortstop', 'short-circuit', 'unforesightful', 'suddenly', 'abruptly', 'light', 'forgetful', 'shortsighted', 'short', 'scant', 'shortly', 'brusk']",The Star Dwellers
+catch,"['arrest', 'trip_up', 'watch', 'entrance', 'view', 'becharm', 'trance', 'collar', 'take_hold_of', 'fascinate', 'pick_up', 'match', 'gimmick', 'get', 'bewitch', 'hitch', 'overhear', 'charm', 'apprehension', 'capture', 'stop', 'pinch', 'overtake', 'enamour', 'snap', 'enchant', 'haul', 'catch', 'see', 'grab', 'catch_up_with', 'snatch', 'enamor', 'captivate', 'beguile', 'taking_into_custody', 'take_in']",The Star Dwellers
+may,"['May', 'may', 'English_hawthorn', 'Crataegus_oxycantha', 'Crataegus_laevigata', 'whitethorn']",The Star Dwellers
+Jack's,[],The Star Dwellers
+total,"['come', 'add', 'totality', 'tot', 'tally', 'sum', 'full', 'tote_up', 'add_together', 'total', 'summate', 'number', 'add_up', 'amount', 'entire', 'sum_up', 'tot_up', 'aggregate']",The Star Dwellers
+same,"['Saami', 'Lapp', 'Lapplander', 'like', 'Same', 'same', 'Saame', 'Sami']",The Star Dwellers
+deductive,['deductive'],The Star Dwellers
+five,"['five-spot', 'Phoebe', 'quintet', 'basketball_team', 'v', 'cinque', 'fivesome', 'quintuplet', 'fin', '5', 'Little_Phoebe', 'pentad', 'V', 'five', 'quint']",The Star Dwellers
+used,"['utilise', 'apply', 'victimised', 'used', 'secondhand', 'expend', 'ill-used', 'exploited', 'put-upon', 'use', 'practice', 'utilize', 'victimized', 'employ', 'habituate']",The Star Dwellers
+tentative,"['provisionary', 'doubtful', 'probationary', 'provisional', 'tentative']",The Star Dwellers
+color,"['colouring_material', 'colorise', 'color', 'coloration', 'people_of_color', 'tinge', 'colouration', 'emblazon', 'colourize', 'colouring', 'coloring_material', 'colorize', 'coloring', 'people_of_colour', 'colour_in', 'vividness', 'discolor', 'color_in', 'colour', 'gloss', 'discolour', 'colourise', 'semblance', 'distort']",The Star Dwellers
+First-Born,[],The Star Dwellers
+But,"['but', 'simply', 'just', 'only', 'merely']",The Star Dwellers
+value-judgments,[],The Star Dwellers
+along,"['along', 'on']",The Star Dwellers
+speed,"['hasten', 'belt_along', 'speed', 'bucket_along', 'focal_ratio', 'travel_rapidly', 'upper', 'pep_pill', 'quicken', 'speeding', 'f_number', 'pelt_along', 'hotfoot', 'rush', 'hurrying', 'race', 'cannonball_along', 'hurry', 'fastness', 'zip', 'step_on_it', 'speed_up', 'accelerate', 'swiftness', 'amphetamine', 'rush_along', 'stop_number', 'velocity', 'hie']",The Star Dwellers
+gladly,"['fain', 'gladly', 'lief']",The Star Dwellers
+among,[],The Star Dwellers
+From,[],The Star Dwellers
+concept,"['conception', 'concept', 'construct']",The Star Dwellers
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Star Dwellers
+You,[],The Star Dwellers
+making,"['construct', 'score', 'piss', 'urinate', 'stool', 'induce', 'attain', 'shit', 'progress_to', 'take', 'take_a_crap', 'fix', 'realize', 'realise', 'give', 'gain', 'establish', 'pretend', 'make', 'take_a_shit', 'make_believe', 'prepare', 'wee-wee', 'making', 'cause', 'get', 'name', 'make_water', 'defecate', 'arrive_at', 'fashioning', 'draw', 'throw', 'seduce', 'cook', 'micturate', 'create', 'reach', 'do', 'relieve_oneself', 'pee-pee', 'clear', 'make_up', 'bring_in', 'spend_a_penny', 'have', 'build', 'earn', 'wee', 'ready', 'take_a_leak', 'piddle', 'puddle', 'stimulate', 'pull_in', 'produce', 'ca-ca', 'hold', 'work', 'form', 'pass_water', 'nominate', 'pee', 'get_to', 'lay_down', 'hit', 'qualification', 'constitute', 'crap', 'take_in', 'devising']",The Star Dwellers
+life,"['life_sentence', 'life', 'life-time', 'aliveness', 'animation', 'lifetime', 'lifespan', 'life_story', 'life_history', 'liveliness', 'living', 'sprightliness', 'spirit', 'biography']",The Star Dwellers
+like,"['wish', 'the_likes_of', 'alike', 'like', 'ilk', 'similar', 'same', 'comparable', 'corresponding', 'the_like', 'care']",The Star Dwellers
+Fuming,"['fume', 'fumigate', 'reek', 'smoke']",The Star Dwellers
+stars,"['headliner', 'whizz', 'principal', 'genius', 'star', 'sensation', 'adept', 'superstar', 'champion', 'asterisk', 'mavin', 'virtuoso', 'hotshot', 'whiz', 'star_topology', 'wizard', 'ace', 'lead', 'maven', 'wiz']",The Star Dwellers
+thrashed,"['jactitate', 'bat', 'lick', 'drub', 'cream', 'slash', 'thresh_about', 'mosh', 'thrash', 'clobber', 'thrash_about', 'slam_dance', 'lam', 'toss', 'slam', 'convulse', 'flail', 'thresh']",The Star Dwellers
+Stern,"['seat', 'rear', 'behind', 'fanny', 'bum', 'quarter', 'buttocks', 'stark', 'unappeasable', 'poop', 'Isaac_Stern', 'butt', 'backside', 'posterior', 'tail', 'Stern', 'tail_end', 'after_part', 'tush', 'grim', 'unrelenting', 'arse', 'prat', 'rear_end', 'hind_end', 'bottom', 'severe', 'inexorable', 'relentless', 'buns', 'strict', 'can', 'unforgiving', 'nates', 'keister', 'fundament', 'exacting', 'austere', 'stern', 'hindquarters', 'ass', 'rump', 'tooshie', 'derriere']",The Star Dwellers
+valuable,"['worthful', 'valuable']",The Star Dwellers
+permitted,"['tolerate', 'let', 'permit', 'countenance', 'allow']",The Star Dwellers
+hove,"['billow', 'retch', 'pant', 'buckle', 'surge', 'heave', 'heft', 'puff', 'warp', 'gasp', 'heave_up', 'heft_up', 'gag']",The Star Dwellers
+promptly,"['promptly', 'right_away', 'quick', 'readily', 'quickly', 'pronto']",The Star Dwellers
+from,[],The Star Dwellers
+hurt,"['scathe', 'pain', 'suffer', 'offend', 'harm', 'spite', 'damage', 'wound', 'bruise', 'ache', 'weakened', 'hurt', 'detriment', 'trauma', 'suffering', 'distress', 'injure', 'injury', 'anguish', 'wounded', 'smart']",The Star Dwellers
+unprecedented,['unprecedented'],The Star Dwellers
+bargain,"['bargain', 'buy', 'deal', 'steal', 'dicker']",The Star Dwellers
+minutes,"['hour', 'transactions', 'minute_of_arc', 'minute', 'bit', 'proceedings', 'minutes', 'moment', 'arcminute', 'min', 'mo', 'second', 'instant']",The Star Dwellers
+cast,"['retch', 'shake_off', 'mould', 'honk', 'barf', 'cast_of_characters', 'hurl', 'couch', 'disgorge', 'stamp', 'range', 'mold', 'throw_off', 'purge', 'be_sick', 'cast_off', 'vagabond', 'vomit', 'vomit_up', 'draw', 'throw', 'tramp', 'spew', 'drift', 'throw_up', 'shape', 'swan', 'throw_away', 'frame', 'cat', 'rove', 'regorge', 'puke', 'roll', 'plaster_cast', 'upchuck', 'cast', 'dramatis_personae', 'casting', 'redact', 'sick', 'project', 'regurgitate', 'drop', 'chuck', 'stray', 'form', 'spue', 'shed', 'hurtle', 'put', 'wander', 'contrive', 'roam', 'ramble', 'plaster_bandage']",The Star Dwellers
+war,"['state_of_war', 'warfare', 'war']",The Star Dwellers
+trailing,"['tag', 'dog', 'train', 'drop_behind', 'hang_back', 'get_behind', 'tracking', 'chase_after', 'give_chase', 'trail', 'trailing', 'tail', 'track', 'shack', 'drag', 'go_after', 'drop_back', 'chase']",The Star Dwellers
+way,"['means', 'right_smart', 'room', 'mode', 'style', 'fashion', 'way_of_life', 'manner', 'agency', 'path', 'elbow_room', 'way', 'direction']",The Star Dwellers
+all,"['altogether', 'entirely', 'whole', 'completely', 'wholly', 'all', 'totally']",The Star Dwellers
+so,"['sol', 'thence', 'soh', 'indeed', 'then', 'hence', 'and_then', 'and_so', 'therefore', 'so', 'thusly', 'thus']",The Star Dwellers
+plots,"['secret_plan', 'plot', 'diagram', 'patch', 'plot_of_land', 'plot_of_ground', 'plat', 'game']",The Star Dwellers
+light,"['lighting', 'lightness', 'dismount', 'get_off', 'tripping', 'visible_light', 'Inner_Light', 'wakeful', 'sluttish', 'Light_Within', 'clean', 'swooning', 'get_down', 'unhorse', 'lite', 'easy', 'light-headed', 'perch', 'weak', 'sparkle', 'lightheaded', 'unaccented', 'light-colored', 'calorie-free', 'lightsome', 'promiscuous', 'brightness', 'illume', 'ignite', 'low-cal', 'fire_up', 'spark', 'alight', 'unclouded', 'Christ_Within', 'abstemious', 'visible_radiation', 'idle', 'luminance', 'clear', 'luminosity', 'light_source', 'twinkle', 'ignitor', 'brightness_level', 'illumination', 'light', 'faint', 'illuminate', 'short', 'lighter', 'Light', 'fall', 'wanton', 'scant', 'lightly', 'light_up', 'igniter', 'loose', 'luminousness', 'illumine']",The Star Dwellers
+Arizona,"['genus_Arizona', 'AZ', 'Arizona', 'Grand_Canyon_State']",The Star Dwellers
+I,"['I', 'unity', 'iodine', 'atomic_number_53', '1', 'ace', 'single', 'ane', 'iodin', 'i', 'one']",The Star Dwellers
+serve,"['service', 'swear_out', 'do', 'process', 'dish_out', 'help', 'serve_up', 'serve', 'dish', 'dish_up', 'function', 'answer', 'attend', 'assist', 'attend_to', 'suffice', 'serve_well', 'wait_on']",The Star Dwellers
+asked,"['require', 'involve', 'need', 'enquire', 'postulate', 'take', 'expect', 'necessitate', 'demand', 'ask', 'inquire', 'call_for']",The Star Dwellers
+what,[],The Star Dwellers
+zigzagging,"['zigzag', 'crank']",The Star Dwellers
+see,"['experience', 'watch', 'get_a_line', 'view', 'regard', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'discover', 'hear', 'pick_up', 'date', 'run_into', 'encounter', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'go_steady', 'consider', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'examine', 'go_through', 'see', 'get_word', 'visualize', 'ascertain', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Star Dwellers
+Therefore,"['thence', 'hence', 'consequently', 'therefore', 'so', 'thus']",The Star Dwellers
+space,"['infinite', 'outer_space', 'blank_space', 'quad', 'space', 'distance', 'place', 'blank']",The Star Dwellers
+hesitated,"['waffle', 'pause', 'waver', 'hesitate']",The Star Dwellers
+attract,"['draw_in', 'pull_in', 'pull', 'draw', 'appeal', 'attract']",The Star Dwellers
+historically,['historically'],The Star Dwellers
+headed,"['maneuver', 'steer', 'direct', 'point', 'headed', 'channelise', 'manoeuvre', 'manoeuver', 'channelize', 'lead', 'head', 'head_up', 'guide']",The Star Dwellers
+logical,"['consistent', 'logical', 'lucid', 'coherent', 'ordered', 'legitimate']",The Star Dwellers
+us,"['United_States_of_America', 'u', 'USA', 'uracil', 'U.S.A.', 'US', 'U.S.', 'America', 'U', 'uranium', 'atomic_number_92', 'the_States', 'United_States']",The Star Dwellers
+We,[],The Star Dwellers
+yet,"['withal', 'all_the_same', 'so_far', 'however', 'yet', 'heretofore', 'notwithstanding', 'still', 'up_to_now', 'hitherto', 'even', 'thus_far', 'as_yet', 'til_now', 'nonetheless', 'nevertheless', 'in_time', 'even_so', 'until_now']",The Star Dwellers
+the,[],The Star Dwellers
+Visiting,"['travel_to', 'call', 'inspect', 'impose', 'inflict', 'confabulate', 'chatter', 'gossip', 'chew_the_fat', 'chaffer', 'chitchat', 'jaw', 'shoot_the_breeze', 'visiting', 'bring_down', 'chat', 'natter', 'see', 'call_in', 'confab', 'visit', 'claver', 'chit-chat']",The Star Dwellers
+gone,"['survive', 'departed', 'bypast', 'pass_away', 'give_way', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'kaput', 'gone', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'live_on', 'plump', 'go_away', 'get', 'hold_up', 'operate', 'drop_dead', 'pop_off', 'become', 'live', 'start', 'belong', 'extend', 'conk', 'rifle', 'move', 'run_low', 'blend_in', 'give_out', 'run', 'sound', 'endure', 'hold_out', 'break_down', 'bygone', 'done_for', 'choke', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'die', 'at_peace', 'at_rest', 'deceased', 'asleep', 'work', 'go', 'kick_the_bucket', 'buy_the_farm', 'foregone', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'last']",The Star Dwellers
+hands,"['manus', 'script', 'deal', 'helping_hand', 'give', 'mitt', 'hands', 'custody', 'men', 'hired_hand', 'work_force', 'handwriting', 'paw', 'reach', 'workforce', 'bridge_player', 'hired_man', 'pass_on', 'turn_over', 'hand', 'pass', 'manpower']",The Star Dwellers
+well,"['easily', 'considerably', 'advantageously', 'wellspring', 'fountainhead', 'good', 'swell', 'intimately', 'comfortably', 'well', 'substantially']",The Star Dwellers
+discovered,"['give_away', 'get_a_line', 'let_on', 'attain', 'reveal', 'learn', 'ascertained', 'chance_on', 'bring_out', 'discover', 'disclose', 'distinguish', 'hear', 'happen_upon', 'pick_up', 'discovered', 'name', 'come_upon', 'unwrap', 'find_out', 'light_upon', 'divulge', 'identify', 'key', 'key_out', 'observed', 'strike', 'find', 'detect', 'see', 'get_word', 'chance_upon', 'let_out', 'fall_upon', 'notice', 'break', 'describe', 'observe', 'come_across', 'expose', 'get_wind']",The Star Dwellers
+direction,"['counseling', 'guidance', 'instruction', 'commission', 'counsel', 'focusing', 'charge', 'focus', 'focal_point', 'centering', 'focussing', 'steering', 'way', 'direction', 'management', 'counselling']",The Star Dwellers
+intercept,"['stop', 'intercept', 'tap', 'bug', 'wiretap']",The Star Dwellers
+already,['already'],The Star Dwellers
+mind,"['mind', 'listen', 'intellect', 'take_care', 'judgement', 'brain', 'heed', 'judgment', 'thinker', 'nous', 'psyche', 'beware', 'bear_in_mind', 'head', 'idea', 'creative_thinker']",The Star Dwellers
+member,"['member', 'fellow_member', 'phallus', 'extremity', 'appendage', 'penis']",The Star Dwellers
+directions,"['counseling', 'guidance', 'instruction', 'commission', 'counsel', 'focusing', 'charge', 'focus', 'focal_point', 'centering', 'focussing', 'steering', 'way', 'direction', 'management', 'counselling']",The Star Dwellers
+;,[],The Star Dwellers
+I've,[],The Star Dwellers
+six,"['half-dozen', 'vi', 'sise', 'six-spot', 'sixer', 'hexad', 'six', 'VI', 'half_a_dozen', 'sextuplet', 'half_dozen', 'sextet', 'sestet', '6', 'Captain_Hicks']",The Star Dwellers
+ban,"['BAN', 'banish', 'cast_out', 'forbidding', 'blackball', 'banning', 'prohibition', 'ostracize', 'ostracise', 'Bachelor_of_Arts_in_Nursing', 'shun', 'proscription', 'ban', 'forbiddance', 'censor']",The Star Dwellers
+perhaps,"['mayhap', 'maybe', 'peradventure', 'possibly', 'perchance', 'perhaps']",The Star Dwellers
+causing,"['stimulate', 'do', 'causation', 'cause', 'get', 'have', 'induce', 'causing', 'make']",The Star Dwellers
+The,[],The Star Dwellers
+trying,"['prove', 'try_out', 'strain', 'hear', 'adjudicate', 'stress', 'nerve-wracking', 'taste', 'essay', 'stressful', 'trying', 'judge', 'sample', 'try', 'assay', 'test', 'attempt', 'seek', 'try_on', 'examine', 'nerve-racking', 'render']",The Star Dwellers
+sigh,"['suspire', 'sigh', 'suspiration']",The Star Dwellers
+nevertheless,"['withal', 'nonetheless', 'all_the_same', 'nevertheless', 'however', 'yet', 'even_so', 'still', 'notwithstanding']",The Star Dwellers
+moral,"['moral', 'lesson']",The Star Dwellers
+into,[],The Star Dwellers
+core,"['effect', 'pith', 'Congress_of_Racial_Equality', 'CORE', 'nub', 'centre', 'substance', 'heart_and_soul', 'inwardness', 'kernel', 'marrow', 'essence', 'core', 'gist', 'magnetic_core', 'heart', 'nitty-gritty', 'center', 'sum', 'nucleus', 'burden', 'core_group', 'meat']",The Star Dwellers
+They'll,[],The Star Dwellers
+frighteningly,"['scarily', 'frighteningly']",The Star Dwellers
+attitude,"['attitude', 'position', 'posture', 'mental_attitude']",The Star Dwellers
+spoke,"['utter', 'wheel_spoke', 'rung', 'rundle', 'spoke', 'radius', 'address', 'talk', 'mouth', 'verbalize', 'verbalise', 'speak']",The Star Dwellers
+provisional,"['probationary', 'provisionary', 'provisional', 'tentative']",The Star Dwellers
+activity,"['natural_process', 'natural_action', 'bodily_process', 'bodily_function', 'action', 'activity', 'activeness', 'body_process']",The Star Dwellers
+mostly,"['generally', 'largely', 'for_the_most_part', 'more_often_than_not', 'mostly', 'by_and_large']",The Star Dwellers
+",",[],The Star Dwellers
+equally,"['evenly', 'every_bit', 'equally', 'as']",The Star Dwellers
+center,"['revolve_around', 'center_on', 'revolve_about', 'shopping_centre', 'pore', 'pith', 'snapper', 'nub', 'centre', 'center_field', 'substance', 'heart_and_soul', 'inwardness', 'centre_of_attention', 'rivet', 'focus', 'centerfield', 'kernel', 'nerve_center', 'marrow', 'shopping_center', 'essence', 'core', 'shopping_mall', 'midway', 'gist', 'focus_on', 'concentrate_on', 'center_of_attention', 'heart', 'midpoint', 'halfway', 'plaza', 'mall', 'eye', 'nitty-gritty', 'center', 'nerve_centre', 'sum', 'middle', 'meat', 'concentrate']",The Star Dwellers
+couldn't,[],The Star Dwellers
+I'm,[],The Star Dwellers
+mortal,"['soul', 'someone', 'deathly', 'somebody', 'deadly', 'person', 'mortal', 'individual']",The Star Dwellers
+who,"['WHO', 'World_Health_Organization']",The Star Dwellers
+wave,"['Wave', 'flourish', 'undulate', 'wafture', 'undulation', 'roll', 'beckon', 'brandish', 'moving_ridge', 'waving', 'wave', 'curl', 'flap']",The Star Dwellers
+observant,"['observing', 'observant', 'law-abiding']",The Star Dwellers
+small,"['modest', 'belittled', 'pocket-sized', 'pocket-size', 'small-scale', 'low', 'little', 'humble', 'lowly', 'diminished', 'minor', 'minuscule', 'small']",The Star Dwellers
+lips,"['rim', 'back_talk', 'lip', 'brim', 'sass', 'mouth', 'backtalk', 'sassing']",The Star Dwellers
+deeper,"['inscrutable', 'abstruse', 'rich', 'bass', 'profoundly', 'deep', 'cryptic', 'deeply', 'mysterious', 'mystifying', 'recondite', 'thick', 'cryptical']",The Star Dwellers
+Almost,"['most', 'nearly', 'well-nigh', 'almost', 'nigh', 'virtually', 'near', 'about']",The Star Dwellers
+just,"['but', 'fair', 'exactly', 'simply', 'barely', 'scarce', 'precisely', 'just', 'good', 'just_now', 'only', 'scarcely', 'hardly', 'upright', 'equitable', 'merely']",The Star Dwellers
+no,"['No', 'no', 'atomic_number_102', 'no_more', 'nobelium']",The Star Dwellers
+trial,"['run', 'trial', 'tribulation', 'tryout', 'visitation', 'test', 'trial_run']",The Star Dwellers
+Angels,"['backer', 'Angel_Falls', 'holy_man', 'saint', 'holy_person', 'angel', 'Angel']",The Star Dwellers
+long,"['foresightful', 'foresighted', 'yearn', 'tenacious', 'farseeing', 'farsighted', 'hanker', 'long', 'longsighted', 'prospicient', 'retentive', 'recollective']",The Star Dwellers
+than,[],The Star Dwellers
+commonplace,"['hackneyed', 'platitude', 'commonplace', 'unglamourous', 'humdrum', 'threadbare', 'prosaic', 'unglamorous', 'old-hat', 'cliche', 'banal', 'shopworn', 'trite', 'banality', 'well-worn', 'bromide', 'timeworn', 'tired', 'stock']",The Star Dwellers
+make-up,"['physical_composition', 'composition', 'constitution', 'war_paint', 'makeup', 'make-up']",The Star Dwellers
+Will,"['testament', 'volition', 'leave', 'will', 'bequeath']",The Star Dwellers
+any,"['any', 'whatever', 'whatsoever']",The Star Dwellers
+individuals,"['soul', 'someone', 'somebody', 'person', 'mortal', 'individual']",The Star Dwellers
+takes,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'proceeds', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'takings', 'shoot', 'return', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'payoff', 'call_for', 'contain', 'drive', 'yield', 'direct', 'engage', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'issue', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Star Dwellers
+get,"['arrest', 'experience', 'pose', 'come', 'mystify', 'sustain', 'puzzle', 'induce', 'fuck_off', 'stupefy', 'fix', 'take', 'amaze', 'get_down', 'start_out', 'beget', 'generate', 'develop', 'suffer', 'bugger_off', 'make', 'contract', 'set_about', 'pay_off', 'cause', 'get', 'receive', 'bring', 'incur', 'gravel', 'commence', 'beat', 'draw', 'sire', 'become', 'capture', 'baffle', 'start', 'arrive', 'scram', 'acquire', 'drive', ""get_under_one's_skin"", 'nonplus', 'bewilder', 'perplex', 'pay_back', 'set_out', 'have', 'begin', 'buzz_off', 'mother', 'obtain', 'find', 'stick', 'flummox', 'bring_forth', 'stimulate', 'fetch', 'catch', 'let', 'produce', 'go', 'vex', 'engender', 'grow', 'father', 'dumbfound', 'aim', 'convey']",The Star Dwellers
+When,[],The Star Dwellers
+different,"['different', 'unlike', 'dissimilar']",The Star Dwellers
+present,"['pose', 'portray', 'gift', 'give', 'acquaint', 'confront', 'award', 'lay_out', 'deliver', 'present', 'salute', 'introduce', 'show', 'demonstrate', 'represent', 'stage', 'submit', 'present_tense', 'nowadays', 'demo', 'face', 'exhibit']",The Star Dwellers
+nursery,"['glasshouse', ""baby's_room"", 'greenhouse', 'nursery']",The Star Dwellers
+other's,[],The Star Dwellers
+promised,"['foretell', 'predict', 'promise', 'forebode', 'anticipate', 'assure', 'prognosticate', 'call']",The Star Dwellers
+anyhow,"['anyways', 'in_any_event', 'anyhow', 'anyway', 'at_any_rate', 'in_any_case']",The Star Dwellers
+received,"['welcome', 'experience', 'get', 'receive', 'incur', 'encounter', 'have', 'standard', 'obtain', 'find', 'meet', 'received', 'invite', 'take_in', 'pick_up']",The Star Dwellers
+Receiving,"['welcome', 'experience', 'get', 'receive', 'incur', 'encounter', 'have', 'obtain', 'find', 'meet', 'invite', 'take_in', 'pick_up']",The Star Dwellers
+our,[],The Star Dwellers
+``,[],The Star Dwellers
+states,"['DoS', 'land', 'say', 'Department_of_State', 'State', 'express', 'state', 'province', 'tell', 'put_forward', 'posit', 'commonwealth', 'nation', 'country', 'United_States_Department_of_State', 'state_of_matter', 'body_politic', 'submit', 'res_publica', 'State_Department']",The Star Dwellers
+now,"['immediately', 'today', 'right_away', 'now', 'directly', 'nowadays', 'at_once', 'like_a_shot', 'at_present', 'straight_off', 'instantly', 'straightaway', 'forthwith']",The Star Dwellers
+much,"['practically', 'much', 'a_great_deal', 'often', 'a_lot', 'a_good_deal', 'very_much', 'lots']",The Star Dwellers
+It's,[],The Star Dwellers
+almost,"['most', 'nearly', 'well-nigh', 'almost', 'nigh', 'virtually', 'near', 'about']",The Star Dwellers
+did,"['make_out', 'come', 'answer', 'coiffe', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'practice', 'exercise', 'do', 'manage', 'practise', 'act', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Star Dwellers
+by,"['by', 'past', 'aside', 'away']",The Star Dwellers
+misjudged,['misjudge'],The Star Dwellers
+once,"['erst', 'erstwhile', 'formerly', 'one_time', 'in_one_case', 'at_one_time', 'once']",The Star Dwellers
+disastrous,"['disastrous', 'fateful', 'calamitous', 'black', 'fatal']",The Star Dwellers
+atomic,"['atomic', 'nuclear']",The Star Dwellers
+acceptance,"['toleration', ""banker's_acceptance"", 'acceptance', 'adoption', 'sufferance', 'acceptation', 'credence', 'espousal']",The Star Dwellers
+exists,"['exist', 'survive', 'subsist', 'be', 'live']",The Star Dwellers
+regardless,"['no_matter', 'regardless', 'irrespective', 'disregarding', 'careless', 'disregardless']",The Star Dwellers
+existed,"['exist', 'survive', 'subsist', 'be', 'live']",The Star Dwellers
+faith,"['religion', 'organized_religion', 'trust', 'faith', 'religious_belief']",The Star Dwellers
+sign,"['ratify', 'sign_of_the_zodiac', 'signed', 'sign-language', 'mark', 'contract', 'signalize', 'subscribe', 'polarity', 'signalise', 'signaling', 'planetary_house', 'foretoken', 'augury', 'sign_on', 'gestural', 'signboard', 'star_sign', 'mansion', 'signal', 'house', 'sign', 'preindication', 'sign_up', 'bless']",The Star Dwellers
+dismal,"['gloomy', 'drab', 'sorry', 'drear', 'dreary', 'dingy', 'dark', 'dismal', 'blue', 'grim', 'disconsolate']",The Star Dwellers
+unfurled,"['unfurl', 'unroll']",The Star Dwellers
+obstruct,"['obturate', 'hinder', 'stymy', 'stymie', 'occlude', 'close_up', 'blockade', 'jam', 'embarrass', 'block', 'obstruct', 'impede']",The Star Dwellers
+back,"['hind', 'rear', 'dorsum', 'support', 'indorse', 'bet_on', 'gage', 'cover', 'rearwards', 'backrest', 'plunk_for', 'binding', 'rachis', 'punt', 'second', 'backwards', 'endorse', 'back_up', 'rearward', 'book_binding', 'stake', 'spine', 'plump_for', 'backbone', 'backward', 'hinder', 'vertebral_column', 'spinal_column', 'back', 'game']",The Star Dwellers
+crucial,"['essential', 'of_the_essence', 'important', 'all_important', 'crucial', 'all-important']",The Star Dwellers
+orbit,"['revolve', 'orbit', 'domain', 'compass', 'ambit', 'electron_orbit', 'orb', 'orbital_cavity', 'sphere', 'area', 'cranial_orbit', 'celestial_orbit', 'eye_socket', 'range', 'arena', 'scope', 'reach', 'field']",The Star Dwellers
+natural,"['natural', 'rude', 'born', 'innate', 'lifelike', 'instinctive', 'raw', 'cancel']",The Star Dwellers
+telescope,"['telescope', 'scope']",The Star Dwellers
+your,[],The Star Dwellers
+notion,"['notion', 'feeling', 'whimsy', 'whimsey', 'impression', 'whim', 'opinion', 'belief']",The Star Dwellers
+As,"['a', 'As', 'amp', 'as', 'deoxyadenosine_monophosphate', 'AS', 'adenine', 'every_bit', 'vitamin_A', 'A', 'ampere', 'angstrom', 'group_A', 'Eastern_Samoa', 'equally', 'angstrom_unit', 'arsenic', 'axerophthol', 'American_Samoa', 'atomic_number_33', 'antiophthalmic_factor', 'type_A']",The Star Dwellers
+uncomfortable,['uncomfortable'],The Star Dwellers
+develop,"['formulate', 'educate', 'explicate', 'make_grow', 'train', 'develop', 'originate', 'modernise', 'prepare', 'build_up', 'get', 'modernize', 'recrudesce', 'evolve', 'uprise', 'acquire', 'rise', 'spring_up', 'arise', 'produce', 'grow', 'germinate', 'break']",The Star Dwellers
+random,['random'],The Star Dwellers
+anything,[],The Star Dwellers
+we,[],The Star Dwellers
+Or,"['surgery', 'operating_room', 'operating_theater', 'operating_theatre', 'OR', 'Oregon', 'Beaver_State']",The Star Dwellers
+conclusive,['conclusive'],The Star Dwellers
+shall,[],The Star Dwellers
+customs,"['customs_duty', 'impost', 'tradition', 'custom', 'customs', 'usage', 'usance']",The Star Dwellers
+threw,"['shake_off', 'bedevil', 'hurl', 'fox', 'give', 'throw_off', 'make', 'confound', 'cast_off', 'fuddle', 'throw', 'throw_away', 'bewilder', 'have', 'flip', 'cast', 'project', 'bemuse', 'switch', 'drop', 'thrust', 'hold', 'discombobulate', 'befuddle', 'shed', 'contrive', 'confuse']",The Star Dwellers
+signaling,"['signalize', 'indicate', 'signal', 'signalise', 'point', 'sign', 'signaling', 'betoken', 'bespeak']",The Star Dwellers
+Suppose,"['opine', 'speculate', 'hypothesize', 'imagine', 'theorise', 'theorize', 'hypothesise', 'say', 'suppose', 'conjecture', 'think', 'guess', 'hypothecate', 'reckon', 'presuppose']",The Star Dwellers
+restored,"['reestablish', 'restore', 'furbish_up', 'bushel', 'touch_on', 'doctor', 'regenerate', 'repair', 'fix', 'reinstate', 'mend', 'rejuvenate', 'restitute', 'reconstruct']",The Star Dwellers
+For,[],The Star Dwellers
+line,"['demarcation', 'argument', 'business', 'credit_line', 'trace', 'seam', 'communication_channel', 'contrast', 'crease', 'line_of_work', 'air', 'strain', 'business_line', 'production_line', 'logical_argument', 'cable', 'channel', 'blood', 'tune', 'melodic_line', 'note', 'origin', 'rail_line', 'ancestry', 'descent', 'dividing_line', 'draw', 'parentage', 'job', 'pedigree', 'occupation', 'argumentation', 'delineate', 'line_of_business', 'line', 'line_of_merchandise', 'assembly_line', 'pipeline', 'run_along', 'stemma', 'line_of_products', 'crinkle', 'railway_line', 'course', 'line_of_reasoning', 'short_letter', 'subscriber_line', 'bank_line', 'phone_line', 'telephone_line', 'personal_line_of_credit', 'billet', 'agate_line', 'transmission_line', 'bloodline', 'furrow', 'telephone_circuit', 'blood_line', 'melodic_phrase', 'personal_credit_line', 'melody', 'describe', 'lineage', 'product_line', 'line_of_credit', 'line_of_descent', 'stock', 'wrinkle']",The Star Dwellers
+against,[],The Star Dwellers
+least,"['to_the_lowest_degree', 'least']",The Star Dwellers
+some,"['roughly', 'just_about', 'some', 'approximately', 'around', 'or_so', 'more_or_less', 'close_to', 'about']",The Star Dwellers
+similar,"['interchangeable', 'standardized', 'exchangeable', 'alike', 'like', 'standardised', 'similar']",The Star Dwellers
+should,[],The Star Dwellers
+or,"['surgery', 'operating_room', 'operating_theater', 'operating_theatre', 'OR', 'Oregon', 'Beaver_State']",The Star Dwellers
+dictates,"['order', 'dictate', 'prescribe']",The Star Dwellers
+living,"['experience', 'survive', 'subsist', 'support', 'bread_and_butter', 'surviving', 'know', 'keep', 'exist', 'live_on', 'life', 'populate', 'dwell', 'hold_up', 'animation', 'live', 'livelihood', 'inhabit', 'endure', 'hold_out', 'be', 'living', 'sustenance', 'aliveness', 'go', 'last']",The Star Dwellers
+half,"['half', 'one-half']",The Star Dwellers
+judgments,"['mind', 'sound_judgement', 'legal_opinion', 'judgement', 'discernment', 'judgment', 'judging', 'assessment', 'sound_judgment', 'perspicacity', 'opinion', 'sagaciousness', 'sagacity', 'judicial_decision']",The Star Dwellers
+holes,"['hollow', 'pickle', 'maw', 'golf_hole', 'trap', 'hole', 'kettle_of_fish', 'muddle', 'cakehole', 'hole_out', 'gob', 'jam', 'fix', 'mess', 'yap']",The Star Dwellers
+young,"['offspring', 'Thomas_Young', 'Brigham_Young', 'vernal', 'untried', 'Whitney_Young', 'new', 'Danton_True_Young', 'immature', 'Pres_Young', 'youthful', 'young', 'Loretta_Young', 'untested', 'Whitney_Moore_Young_Jr.', 'Cy_Young', 'youth', 'Young', 'unseasoned', 'Edward_Young', 'Lester_Willis_Young']",The Star Dwellers
+until,[],The Star Dwellers
+got,"['arrest', 'experience', 'pose', 'come', 'mystify', 'sustain', 'puzzle', 'induce', 'fuck_off', 'stupefy', 'fix', 'take', 'amaze', 'get_down', 'start_out', 'beget', 'generate', 'develop', 'suffer', 'bugger_off', 'make', 'contract', 'set_about', 'pay_off', 'cause', 'get', 'receive', 'bring', 'incur', 'gravel', 'commence', 'beat', 'draw', 'sire', 'become', 'capture', 'baffle', 'start', 'arrive', 'scram', 'acquire', 'drive', ""get_under_one's_skin"", 'nonplus', 'bewilder', 'perplex', 'pay_back', 'set_out', 'have', 'begin', 'buzz_off', 'mother', 'obtain', 'find', 'stick', 'flummox', 'bring_forth', 'stimulate', 'fetch', 'catch', 'let', 'produce', 'go', 'vex', 'engender', 'grow', 'father', 'dumbfound', 'aim', 'convey']",The Star Dwellers
+many,['many'],The Star Dwellers
+winked,"['blink_away', 'wink', 'twinkle', 'blink', 'flash', 'nictate', 'winkle', 'nictitate']",The Star Dwellers
+failed,"['go_bad', 'neglect', 'bomb', 'flush_it', 'give_out', 'go_wrong', 'miscarry', 'go', 'break_down', 'give_way', 'run_out', 'conk_out', 'fail', 'break', 'flunk', 'die', 'betray']",The Star Dwellers
+going,"['survive', 'pass_away', 'give_way', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'sledding', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'live_on', 'plump', 'go_away', 'get', 'hold_up', 'operate', 'drop_dead', 'pop_off', 'become', 'live', 'start', 'belong', 'departure', 'extend', 'conk', 'move', 'run_low', 'rifle', 'loss', 'blend_in', 'give_out', 'run', 'sound', 'endure', 'hold_out', 'break_down', 'choke', 'going_away', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'expiration', 'die', 'passing', 'going', 'work', 'go', 'kick_the_bucket', 'leaving', 'release', 'buy_the_farm', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'last']",The Star Dwellers
+thinking,"['opine', 'reasoning', 'imagine', 'cerebrate', 'think', 'cogitate', 'believe', 'recall', 'guess', 'intellection', 'call_up', 'reckon', 'mean', 'consider', 'recollect', 'cerebration', 'suppose', 'retrieve', 'intend', 'intelligent', 'thought', 'thinking', 'call_back', 'mentation', 'thought_process', 'remember', 'conceive']",The Star Dwellers
+supplies,"['supplying', 'provision', 'issue', 'add', 'append', 'cater', 'ply', 'provide', 'furnish', 'render', 'supply']",The Star Dwellers
+phrase,"['set_phrase', 'phrasal_idiom', 'formulate', 'phrase', 'idiomatic_expression', 'word', 'articulate', 'give_voice', 'idiom', 'musical_phrase']",The Star Dwellers
+sail,"['navigate', 'sail', 'voyage', 'sheet', 'sweep', 'canvas', 'cruise', 'canvass']",The Star Dwellers
+plugged,"['plug_away', 'stop_up', 'secure', 'plugged', 'punch', 'plug', 'blocked']",The Star Dwellers
+limited,"['express', 'confine', 'throttle', 'special', 'specify', 'restrain', 'limit', 'restrict', 'fix', 'limited', 'determine', 'define', 'circumscribed', 'trammel', 'set', 'circumscribe', 'bound', 'modified']",The Star Dwellers
+nature,['nature'],The Star Dwellers
+his,[],The Star Dwellers
+argued,"['indicate', 'reason', 'debate', 'contend', 'argue', 'fence']",The Star Dwellers
+Ariadne,['Ariadne'],The Star Dwellers
+without,[],The Star Dwellers
+intentions,"['purpose', 'design', 'intention', 'intent', 'aim']",The Star Dwellers
+either,['either'],The Star Dwellers
+broken,"['burst', 'break_dance', 'give_way', 'go_against', 'fail', 'break_up', 'weaken', 'bust', 'rugged', 'wear', 'fall_in', 'break_off', 'let_out', 'come_apart', 'disordered', 'break_away', 'give_away', 'humiliated', 'humbled', 'part', 'better', 'conk_out', 'reveal', 'give', 'upset', 'bring_out', 'develop', 'damp', 'stop', 'fall_apart', 'wear_out', 'give_out', 'fracture', 'get_around', 'transgress', 'go', 'busted', 'break', 'pause', 'violate', 'broken', 'impoverished', 'disclose', 'discover', 'wiped_out', 'separate', 'split', 'relegate', 'recrudesce', 'unwrap', 'founder', 'break_out', 'bump', 'demote', 'divulge', 'breach', 'crack', 'break_in', 'low', 'crushed', 'die', 'erupt', 'kick_downstairs', 'dampen', 'confused', 'interrupt', 'snap_off', 'expose', 'smash', 'break-dance', 'let_on', 'soften', 'get_out', 'split_up', 'ruin', 'offend', 'collapse', 'unkept', 'bankrupt', 'break_down', 'intermit', 'discontinue', 'cave_in', 'broken_in', 'infract', 'check', 'go_bad']",The Star Dwellers
+a,"['deoxyadenosine_monophosphate', 'adenine', 'A', 'ampere', 'angstrom', 'axerophthol', 'a', 'antiophthalmic_factor', 'vitamin_A', 'group_A', 'type_A', 'amp', 'angstrom_unit']",The Star Dwellers
+however,"['withal', 'nonetheless', 'all_the_same', 'nevertheless', 'however', 'yet', 'even_so', 'still', 'notwithstanding']",The Star Dwellers
+is,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Star Dwellers
+take,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'proceeds', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'takings', 'shoot', 'return', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'payoff', 'call_for', 'contain', 'drive', 'yield', 'direct', 'engage', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'issue', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Star Dwellers
+especially,"['particularly', 'peculiarly', 'specially', 'especially']",The Star Dwellers
+asking,"['require', 'involve', 'need', 'request', 'enquire', 'postulate', 'take', 'expect', 'necessitate', 'demand', 'asking', 'ask', 'inquire', 'call_for']",The Star Dwellers
+apparently,"['plainly', 'plain', 'seemingly', 'obviously', 'manifestly', 'patently', 'on_the_face_of_it', 'evidently', 'ostensibly', 'apparently']",The Star Dwellers
+Another,"['some_other', 'another']",The Star Dwellers
+turned,"['ferment', 'move_around', 'rick', 'change_state', 'bend', 'turned', 'sprain', 'become', 'plow', 'turn', 'wrick', 'deform', 'change_by_reversal', 'reverse', 'flex', 'off', 'work', 'twist', 'plough', 'turn_over', 'wrench', 'release', 'sour', 'grow', 'call_on']",The Star Dwellers
+deciding,"['settle', 'adjudicate', 'determinant', 'determining', 'determine', 'determinative', 'deciding', 'decision_making', 'decide', ""make_up_one's_mind"", 'resolve']",The Star Dwellers
+answers,"['response', 'resolution', 'solvent', 'do', 'serve', 'solution', 'answer', 'result', 'respond', 'reply', 'suffice', 'resolve']",The Star Dwellers
+If,[],The Star Dwellers
+crew,"['bunch', 'crowd', 'work_party', 'crew', 'gang']",The Star Dwellers
+realized,"['substantiate', 'completed', 'realize', 'realise', 'accomplished', 'gain', 'make', 'actualize', 'understand', 'recognize', 'realized', 'clear', 'bring_in', 'earn', 'recognise', 'realised', 'pull_in', 'agnize', 'see', 'agnise', 'take_in', 'actualise']",The Star Dwellers
+elders,"['elder', 'elderberry_bush', 'senior']",The Star Dwellers
+history,"['chronicle', 'story', 'history', 'account']",The Star Dwellers
+clear,"['unclutter', 'cleared', 'crystallize', 'clearly', 'assoil', 'brighten', 'clean', 'discharge', 'well-defined', 'realize', 'realise', 'sort_out', 'absolved', 'gain', 'make', 'decipherable', 'exonerated', 'straighten_out', 'enlighten', 'solve', 'sack', 'unmortgaged', 'unclouded', 'elucidate', 'sack_up', 'exculpate', 'top', 'crystalize', 'open', 'net', 'clear-cut', 'clear', 'bring_in', 'exonerate', 'earn', 'shed_light_on', 'crystalise', 'acquit', 'authorise', 'light', 'clean-cut', 'illuminate', 'readable', 'exculpated', 'pull_in', 'clear_up', 'percipient', 'light_up', 'pass', 'all_the_way', 'authorize', 'vindicated', 'crystallise', 'take_in']",The Star Dwellers
+after,"['afterwards', 'later_on', 'subsequently', 'after', 'later', 'afterward']",The Star Dwellers
+numenous,[],The Star Dwellers
+cannot,[],The Star Dwellers
+individually,"['separately', 'severally', 'on_an_individual_basis', 'individually', 'singly', 'one_by_one']",The Star Dwellers
+find,"['get_hold', 'discover', 'line_up', 'receive', 'breakthrough', 'get', 'encounter', 'incur', 'recover', 'bump', 'witness', 'find_out', 'find_oneself', 'discovery', 'feel', 'obtain', 'find', 'retrieve', 'detect', 'uncovering', 'chance', 'see', 'rule', 'ascertain', 'notice', 'determine', 'observe', 'happen', 'regain', 'come_up']",The Star Dwellers
+board,"['control_panel', 'gameboard', 'circuit_board', 'get_on', 'room', 'table', 'card', 'plug-in', 'instrument_panel', 'circuit_card', 'plank', 'control_board', 'add-in', 'display_board', 'display_panel', 'board', 'dining_table', 'panel']",The Star Dwellers
+Hesperus,"['Vesper', 'Hesperus', 'evening_star']",The Star Dwellers
+road,"['route', 'road']",The Star Dwellers
+less,"['to_a_lesser_extent', 'lupus_erythematosus', 'LE', 'less']",The Star Dwellers
+happened,"['go_on', 'take_place', 'come_about', 'befall', 'chance', 'encounter', 'materialize', 'pass', 'bump', 'fall_out', 'pass_off', 'hap', 'bechance', 'materialise', 'find', 'happen', 'occur']",The Star Dwellers
+full,"['full', 'to_the_full', 'full-of-the-moon', 'replete', 'good', 'wide', 'total', 'wide-cut', 'broad', 'fully', 'full_moon', 'full_phase_of_the_moon', 'entire', 'wax']",The Star Dwellers
+let,"['let', 'LET', 'net_ball', 'permit', 'get', 'Lashkar-e-Toiba', 'have', 'lease', 'rent', 'Army_of_the_Pure', 'Lashkar-e-Tayyiba', 'countenance', 'Lashkar-e-Taiba', 'Army_of_the_Righteous', 'allow']",The Star Dwellers
+beginnings,"['root', 'rootage', 'kickoff', 'source', 'showtime', 'origin', 'get-go', 'beginning', 'outset', 'first', 'start', 'starting_time', 'commencement', 'offset']",The Star Dwellers
+me,"['Maine', 'ME', 'Pine_Tree_State']",The Star Dwellers
+dice,"['die', 'cube', 'dice']",The Star Dwellers
+decided,"['settle', 'distinct', 'decided', 'adjudicate', 'determine', 'decide', ""make_up_one's_mind"", 'resolve']",The Star Dwellers
+Out,"['come_out_of_the_closet', 'verboten', 'knocked_out', 'come_out', 'forbidden', 'out', 'prohibited', 'tabu', 'proscribed', 'kayoed', 'stunned', 'taboo', 'extinct', ""KO'd"", 'away']",The Star Dwellers
+hegemony,['hegemony'],The Star Dwellers
+fair,"['fair', 'bonnie', 'bazaar', 'bonny', 'just', 'sightly', 'average', 'fairish', 'clean', 'comely', 'evenhandedly', 'carnival', 'reasonable', 'middling', 'honest', 'funfair', 'fairly', 'mediocre']",The Star Dwellers
+All,"['altogether', 'entirely', 'whole', 'completely', 'wholly', 'all', 'totally']",The Star Dwellers
+re-examine,['re-examine'],The Star Dwellers
+ever,"['ever', 'always', ""e'er"", 'ever_so', 'of_all_time']",The Star Dwellers
+Of,[],The Star Dwellers
+through,"['through_with', 'done', 'through', 'through_and_through']",The Star Dwellers
+agreed,"['match', 'concur', 'concord', 'consort', 'hold', 'agree', 'harmonise', 'agreed', 'correspond', 'jibe', 'gibe', 'in_agreement', 'accord', 'check', 'fit_in', 'harmonize', 'tally', 'fit']",The Star Dwellers
+penalty,"['penalisation', 'punishment', 'penalty', 'penalization']",The Star Dwellers
+attached,"['tie', 'affiliated', 'confiscate', 'sequester', 'committed', 'impound', 'attach', 'attached', 'connected', 'bind', 'bond', 'seize']",The Star Dwellers
+ragged,"['razz', 'call_down', 'rebuke', 'tantalise', 'bedevil', 'nark', 'tease', 'call_on_the_carpet', 'lecture', 'ragged', 'cod', 'crucify', 'bait', 'bawl_out', 'devil', 'taunt', 'dun', 'take_to_task', 'dress_down', 'lambaste', 'gravel', 'trounce', 'chafe', 'ride', 'annoy', 'twit', 'rag', 'lambast', 'rally', 'irritate', 'remonstrate', 'get_at', 'scold', 'have_words', 'chew_out', 'nettle', 'chew_up', 'jaw', 'frustrate', 'berate', 'reproof', 'vex', 'tantalize', 'bother', 'rile', 'reprimand', 'get_to', 'chide', 'torment']",The Star Dwellers
+amount,"['come', 'sum', 'total', 'sum_of_money', 'number', 'add_up', 'quantity', 'amount', 'measure', 'amount_of_money']",The Star Dwellers
+are,"['are', 'exist', 'cost', 'represent', 'make_up', 'be', 'equal', 'follow', 'embody', 'comprise', 'live', 'constitute', 'ar', 'personify']",The Star Dwellers
+contract,"['constrict', 'declaration', 'take', 'press', 'narrow', 'contract', 'get', 'shorten', 'squeeze', 'abbreviate', 'reduce', 'compress', 'abridge', 'condense', 'sign_on', 'compact', 'cut', 'shrink', 'contract_bridge', 'sign', 'foreshorten', 'sign_up', 'undertake', 'concentrate']",The Star Dwellers
+process,"['operation', 'march', 'unconscious_process', 'action', 'treat', 'cognitive_operation', 'swear_out', 'process', 'work_on', 'procedure', 'physical_process', 'outgrowth', 'mental_process', 'litigate', 'summons', 'sue', 'work', 'serve', 'appendage', 'cognitive_process']",The Star Dwellers
+too,"['likewise', 'as_well', 'too', 'overly', 'besides', 'to_a_fault', 'also', 'excessively']",The Star Dwellers
+seemed,"['appear', 'seem', 'look']",The Star Dwellers
+justice,"['judge', 'justice', 'Justice', 'jurist', 'DoJ', 'Justice_Department', 'justness', 'Department_of_Justice']",The Star Dwellers
+why,"['why', 'wherefore']",The Star Dwellers
+accident,"['fortuity', 'chance_event', 'accident', 'stroke']",The Star Dwellers
+understand,"['sympathise', 'infer', 'read', 'see', 'empathise', 'interpret', 'understand', 'empathize', 'sympathize', 'realize', 'realise', 'translate']",The Star Dwellers
+possible,"['possible', 'potential']",The Star Dwellers
+matters,"['issue', 'weigh', 'count', 'subject', 'topic', 'affair', 'matter', 'thing']",The Star Dwellers
+he,"['atomic_number_2', 'he', 'helium', 'He']",The Star Dwellers
+--,[],The Star Dwellers
+government,"['regime', 'governing', 'government', 'political_science', 'politics', 'government_activity', 'governance', 'administration', 'authorities']",The Star Dwellers
+please,"['delight', 'please']",The Star Dwellers
+saw,"['experience', 'watch', 'get_a_line', 'view', 'regard', 'adage', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'proverb', 'discover', 'hear', 'pick_up', 'power_saw', 'date', 'run_into', 'encounter', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'saw', 'go_steady', 'consider', 'byword', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'sawing_machine', 'examine', 'go_through', 'see', 'get_word', 'visualize', 'ascertain', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Star Dwellers
+followed,"['travel_along', 'watch', 'trace', 'come', 'keep_abreast', 'succeed', 'accompany', 'adopt', 'play_along', 'conform_to', 'follow', 'keep_an_eye_on', 'postdate', 'comply', 'take_after', 'espouse', 'survey', 'keep_up', 'abide_by', 'be', 'fall_out', 'come_after', 'stick_to', 'pursue', 'stick_with', 'watch_over', 'surveil', 'observe']",The Star Dwellers
+believed,"['trust', 'consider', 'think', 'believe', 'conceive']",The Star Dwellers
+sense,"['common_sense', 'good_sense', 'gumption', 'sentiency', 'sentience', 'mother_wit', 'feel', 'horse_sense', 'sense', 'signified', 'sensory_faculty', 'sensation', 'smell_out', 'smell']",The Star Dwellers
+natures,['nature'],The Star Dwellers
+quarrel,"['wrangle', 'words', 'scrap', 'altercate', 'argufy', 'dispute', 'quarrel', 'dustup', 'row', 'run-in']",The Star Dwellers
+ephemeral,"['passing', 'transient', 'fugacious', 'ephemeron', 'transitory', 'ephemeral', 'short-lived']",The Star Dwellers
+invade,"['encroach_upon', 'infest', 'obtrude_upon', 'intrude_on', 'occupy', 'overrun', 'invade']",The Star Dwellers
+one,"['I', 'unity', 'unmatched', '1', 'one_and_only', 'unrivalled', 'single', 'unitary', 'nonpareil', 'i', 'ane', 'peerless', 'unmatchable', 'matchless', 'one', 'unrivaled', 'ace']",The Star Dwellers
+seem,"['appear', 'seem', 'look']",The Star Dwellers
+simply,"['but', 'plainly', 'simply', 'just', 'only', 'merely']",The Star Dwellers
+settled,"['go_down', 'sink', 'reconcile', 'steady_down', 'conciliate', 'go_under', 'subside', 'square_up', 'resolve', 'settle', 'adjudicate', 'nail_down', 'colonized', 'finalize', 'take_root', 'colonised', 'root', 'make_up', 'get_back', 'ensconce', 'finalise', 'square_off', 'descend', 'locate', 'settle_down', 'settled', 'fall', 'patch_up', 'determine', 'decide']",The Star Dwellers
+vanished,"['disappear', 'vaporize', 'vanished', 'go_away', 'vanish', 'fell', 'fly']",The Star Dwellers
+wrong,"['awry', 'unseasonable', 'wrongly', 'wrong', 'amiss', 'damage', 'ill-timed', 'faulty', 'improper', 'incorrectly', 'wrongfulness', 'untimely', 'legal_injury', 'haywire', 'incorrect']",The Star Dwellers
+side,"['position', 'side', 'side_of_meat', 'face', 'English', 'slope', 'incline']",The Star Dwellers
+years,"['old_age', 'geezerhood', 'year', 'years', 'class', 'long_time', 'age', 'days', 'eld', 'twelvemonth', 'yr']",The Star Dwellers
+hold,"['clasp', 'grasp', 'handgrip', 'apply', 'confine', 'cargo_hold', 'detainment', 'sustain', 'admit', 'hold_in', 'support', 'concord', 'defy', 'reserve', 'appreciation', 'oblige', 'moderate', 'take', 'have_got', 'give', 'prevail', 'nurse', 'keep', 'cargo_area', 'storage_area', 'harbor', 'make', 'custody', 'adjudge', 'check', 'cargo_deck', 'hold_up', 'bear', 'accommodate', 'declare', 'harbour', 'withstand', 'wait', 'throw', 'halt', 'take_for', 'detention', 'hold_back', 'handle', 'view_as', 'clench', 'retain', 'contain', 'take_hold', 'arrest', 'grip', 'have', 'maintain', 'obtain', 'time_lag', 'guard', 'bind', 'obligate', 'go_for', 'clutches', 'postponement', 'entertain', 'control', 'carry', 'curb', 'concur', 'deem', 'hold', 'agree', 'restrain', 'clutch', 'defend', 'delay', 'keep_back', 'book']",The Star Dwellers
+whose,[],The Star Dwellers
+Sack,"['displace', 'give_the_sack', 'sackful', 'liberation', 'dismissal', 'discharge', 'pouch', 'firing', 'give_notice', 'force_out', 'fire', 'carrier_bag', 'paper_bag', 'sac', 'sacque', 'dismission', 'send_away', 'sack', 'plunder', 'give_the_axe', 'sack_up', 'sacking', 'hammock', 'net', 'clear', 'chemise', 'can', 'dismiss', 'pocket', 'shift', 'release', 'terminate', 'poke']",The Star Dwellers
+surface,"['control_surface', 'open', ""Earth's_surface"", 'rise', 'come_out', 'airfoil', 'come_on', 'show_up', 'aerofoil', 'rise_up', 'surface', 'turn_up', 'coat', 'come_up']",The Star Dwellers
+mission,"['commission', 'military_mission', 'missionary_station', 'charge', 'missionary_post', 'foreign_mission', 'delegation', 'delegacy', 'mission', 'missionary_work', 'deputation']",The Star Dwellers
+First,"['kickoff', 'number_1', 'first_gear', 'offset', 'starting_time', 'number_one', 'first_base', 'maiden', '1st', 'beginning', 'first', 'start', 'initiatory', 'first_off', 'firstly', 'foremost', 'world-class', 'low', 'for_the_first_time', 'get-go', 'outset', 'low_gear', 'showtime', 'first_of_all', 'initiative', 'inaugural', 'commencement', 'first-class_honours_degree']",The Star Dwellers
+last,"['utmost', 'survive', 'lowest', 'final_stage', ""shoemaker's_last"", 'close', 'finish', 'live_on', 'hold_up', 'finally', 'finis', 'conclusion', 'lastly', 'live', 'terminal', 'end', 'finale', 'death', 'net', 'endure', 'hold_out', 'concluding', ""cobbler's_last"", 'go', 'stopping_point', 'last-place', 'in_conclusion', 'final', 'last']",The Star Dwellers

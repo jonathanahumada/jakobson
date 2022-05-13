@@ -1,0 +1,866 @@
+w,vector_semantico
+explosives,['explosive'],The Ikon
+here,"['here', 'Here', 'Hera', 'hither']",The Ikon
+rough,"['rough', 'unsmooth', 'boisterous', 'pugnacious', 'rough_out', 'crude', 'raspy', 'harsh', 'approximative', 'fierce', 'jumpy', 'roughly', 'rough_in', 'jolty', 'gravelly', 'jolting', 'approximate', 'scratchy', 'rasping', 'bumpy', 'uncut', 'rocky', 'grating']",The Ikon
+radiance,"['refulgency', 'glow', 'radiance', 'shine', 'radiancy', 'effulgence', 'refulgence', 'glowing']",The Ikon
+post,"['office', 'mail', 'station', 'post', 'situation', 'Emily_Price_Post', 'send', 'military_post', 'place', 'berth', 'Charles_William_Post', 'Post', 'postal_service', 'position', 'stake', 'put_up', 'carry', 'billet', 'C._W._Post', 'Wiley_Post', 'Emily_Post', 'spot', 'brand', 'mail_service']",The Ikon
+overcome,"['overtake', 'sweep_over', 'overwhelm', 'subdue', 'overpower', 'defeat', 'overcome', 'get_over', 'whelm', 'get_the_better_of', 'master', 'have_the_best', 'surmount', 'get_the_best']",The Ikon
+crawling,"['creep', 'grovel', 'crawl', 'creeping', 'cringe', 'cower', 'crawling', 'fawn']",The Ikon
+flesh,"['soma', 'anatomy', 'material_body', 'pulp', 'physical_body', 'human_body', 'physique', 'bod', 'build', 'form', 'chassis', 'flesh', 'frame', 'shape', 'figure']",The Ikon
+Americans,"['American_language', 'American', 'American_English']",The Ikon
+leg,"['branch', 'peg', 'pegleg', 'leg', 'stage', 'wooden_leg', 'ramification']",The Ikon
+right,"['decently', 'flop', 'mightily', 'right_field', 'mighty', 'right', 'powerful', 'aright', 'rightfield', 'justly', 'ripe', 'right_wing', 'rectify', 'rightfulness', 'compensate', 'in_good_order', 'correctly', 'good', 'properly', 'right_on', 'redress', 'proper', 'correct', 'right_hand', 'veracious', 'right-hand', 'the_right_way', 'decent']",The Ikon
+as,"['a', 'As', 'amp', 'as', 'deoxyadenosine_monophosphate', 'AS', 'adenine', 'every_bit', 'vitamin_A', 'A', 'ampere', 'angstrom', 'group_A', 'Eastern_Samoa', 'equally', 'angstrom_unit', 'arsenic', 'axerophthol', 'American_Samoa', 'atomic_number_33', 'antiophthalmic_factor', 'type_A']",The Ikon
+really,"['really', 'rattling', 'actually', 'truly', 'very', 'genuinely', 'real', 'in_truth']",The Ikon
+came,"['come', 'make_out', 'number', 'amount', 'get_along', 'issue_forth', 'hail', 'derive', 'get', 'follow', 'arrive', 'occur', 'do', 'descend', 'add_up', 'come_in', 'fare', 'fall', 'total', 'come_up']",The Ikon
+fire,"['displace', 'give_the_sack', 'flak', 'flack', 'evoke', 'discharge', 'fervidness', 'enkindle', 'elicit', 'firing', 'give_notice', 'force_out', 'fire', 'fervour', 'arouse', 'send_away', 'burn_down', 'sack', 'burn', 'give_the_axe', 'attack', 'ardor', 'provoke', 'raise', 'kindle', 'fuel', 'can', 'open_fire', 'dismiss', 'go_off', 'fervor', 'blast', 'fervency', 'flame', 'terminate', 'flaming', 'ardour']",The Ikon
+steered,"['maneuver', 'steer', 'direct', 'point', 'channelise', 'manoeuvre', 'manoeuver', 'channelize', 'head', 'guide']",The Ikon
+peered,['peer'],The Ikon
+little,"['trivial', 'slight', 'piffling', 'short', 'piddling', 'little', 'petty', 'niggling', 'footling', 'picayune', 'minuscule', 'fiddling', 'lilliputian', 'small']",The Ikon
+foot,"['groundwork', 'infantry', 'hoof', 'hoof_it', 'substructure', 'human_foot', 'foot', 'understructure', 'metrical_foot', 'leg_it', 'base', 'foot_up', 'pick', 'fundament', 'invertebrate_foot', 'animal_foot', 'metrical_unit', 'foundation', 'ft', 'pes']",The Ikon
+pen,"['compose', 'write', 'indite', 'penitentiary', 'pen', 'playpen']",The Ikon
+at,"['astatine', 'atomic_number_85', 'at', 'At']",The Ikon
+slit,"['dent', 'scratch', 'puss', 'incision', 'slice', 'snatch', 'twat', 'slit', 'prick', 'pussy', 'cunt']",The Ikon
+fixed,"['fasten', 'fixate', 'fix', 'sterilize', 'unsex', 'make', 'prepare', 'pay_off', 'get', 'secure', 'limit', 'repair', 'posit', 'cook', 'mend', 'fixed', 'frozen', 'bushel', 'touch_on', 'specify', 'pay_back', 'doctor', 'ready', 'situate', 'define', 'desexualize', 'desex', 'sterilise', 'set_up', 'desexualise', 'rigid', 'deposit', 'restore', 'furbish_up', 'gear_up', 'determine', 'set']",The Ikon
+laughed,"['express_joy', 'laugh', 'express_mirth']",The Ikon
+English,"['side', 'English_language', 'English', 'English_people']",The Ikon
+Big,"['big', 'expectant', 'large', 'vainglorious', 'grownup', 'braggy', 'bighearted', 'vauntingly', 'enceinte', 'self-aggrandising', 'handsome', 'adult', 'fully_grown', 'magnanimous', 'full-grown', 'great', 'boastfully', 'liberal', 'openhanded', 'giving', 'boastful', 'self-aggrandizing', 'freehanded', 'bad', 'crowing', 'prominent', 'bountiful', 'grown', 'swelled', 'with_child', 'cock-a-hoop', 'gravid', 'braggart', 'bragging', 'bounteous', 'heavy']",The Ikon
+knowledge,"['cognition', 'knowledge', 'noesis']",The Ikon
+In,"['inch', 'inwards', 'indium', 'inward', 'Indiana', 'In', 'in', 'IN', 'atomic_number_49', 'Hoosier_State']",The Ikon
+motion,"['motion', 'apparent_motion', 'movement', 'apparent_movement', 'move', 'question', 'gesticulate', 'gesture', 'motility']",The Ikon
+always,"['ever', 'always', 'incessantly', 'perpetually', ""e'er"", 'forever', 'invariably', 'constantly']",The Ikon
+sound,"['effectual', 'vocalise', 'levelheaded', 'well-grounded', 'auditory_sensation', 'profound', 'phone', 'healthy', 'audio', 'legal', 'strait', 'speech_sound', 'sound', 'good', 'level-headed', 'fathom', 'intelligent', 'go', 'reasoned', 'wakeless', 'vocalize', 'voice', 'heavy']",The Ikon
+quick,"['warm', 'promptly', 'prompt', 'agile', 'speedy', 'quick', 'flying', 'spry', 'ready', 'fast', 'quickly', 'straightaway', 'immediate', 'nimble']",The Ikon
+be,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'beryllium', 'Be', 'comprise', 'live', 'constitute', 'equal', 'glucinium', 'personify', 'atomic_number_4']",The Ikon
+try,"['prove', 'try_out', 'strain', 'hear', 'adjudicate', 'stress', 'effort', 'taste', 'essay', 'judge', 'sample', 'try', 'assay', 'test', 'endeavor', 'attempt', 'seek', 'try_on', 'examine', 'endeavour', 'render']",The Ikon
+him,[],The Ikon
+don't,[],The Ikon
+which,[],The Ikon
+whir,"['purr', 'birr', 'whizz', 'whirr', 'whiz', 'whir', 'whirring']",The Ikon
+honest,"['fair', 'dependable', 'good', 'true', 'honest', 'reliable', 'honorable']",The Ikon
+because,[],The Ikon
+warped,"['falsify', 'buckle', 'garble', 'heave', 'warp', 'warped', 'distort']",The Ikon
+went,"['survive', 'pass_away', 'give_way', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'live_on', 'plump', 'go_away', 'get', 'hold_up', 'operate', 'drop_dead', 'pop_off', 'become', 'live', 'start', 'belong', 'extend', 'conk', 'rifle', 'move', 'run_low', 'blend_in', 'give_out', 'run', 'sound', 'endure', 'hold_out', 'break_down', 'choke', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'die', 'work', 'go', 'kick_the_bucket', 'buy_the_farm', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'last']",The Ikon
+speak,"['utter', 'address', 'talk', 'mouth', 'verbalize', 'verbalise', 'speak']",The Ikon
+Off,"['remove', 'off', 'cancelled', 'turned', 'sour', 'dispatch', 'slay', 'hit', 'polish_off', 'forth', 'murder', 'bump_off', 'away']",The Ikon
+hand,"['pass_on', 'mitt', 'turn_over', 'hand', 'manus', 'script', 'deal', 'hired_hand', 'pass', 'helping_hand', 'handwriting', 'give', 'bridge_player', 'paw', 'reach', 'hired_man']",The Ikon
+angry,"['wild', 'angry', 'raging', 'furious', 'tempestuous']",The Ikon
+hulk,"['heavyweight', 'hulk', 'tower', 'whale', 'giant', 'loom', 'predominate']",The Ikon
+size,"['size', 'sizing', 'size_of_it']",The Ikon
+supports,"['substantiate', 'financial_support', 'corroborate', 'brook', 'sustain', 'stomach', 'support', 'indorse', 'bread_and_butter', 'funding', 'confirm', 'keep', 'abide', 'underpin', 'stick_out', 'suffer', 'subscribe', 'hold_up', 'plunk_for', 'bear', 'patronise', 'stand', 'patronize', 'livelihood', 'reinforcement', 'accompaniment', 'affirm', 'backing', 'documentation', 'endorse', 'back_up', 'fend_for', 'endure', 'musical_accompaniment', 'supporting', 'backup', 'living', 'financial_backing', 'patronage', 'keep_going', 'put_up', 'plump_for', 'reenforcement', 'tolerate', 'sustenance', 'bear_out', 'hold', 'defend', 'digest', 'back']",The Ikon
+walk,"['take_the_air', 'walking', 'walk_of_life', 'walk', 'pass', 'walkway', 'manner_of_walking', 'paseo', 'base_on_balls']",The Ikon
+safe,"['prophylactic', 'dependable', 'safety', 'good', 'rubber', 'secure', 'condom', 'safe']",The Ikon
+overheat,['overheat'],The Ikon
+Give,"['apply', 'give_way', 'spring', 'gift', 'give', 'grant', 'generate', 'contribute', 'kick_in', 'establish', 'make', 'collapse', 'present', 'founder', 'return', 'chip_in', 'throw', 'consecrate', 'reach', 'open', 'ease_up', 'yield', 'have', 'leave', 'commit', 'springiness', 'pay', 'fall_in', 'afford', 'cave_in', 'dedicate', 'pass_on', 'hold', 'impart', 'hand', 'turn_over', 'move_over', 'devote', 'pass', 'break', 'feed', 'sacrifice', 'render']",The Ikon
+notice,"['posting', 'acknowledge', 'remark', 'bill', 'observation', 'mark', 'discover', 'placard', 'observance', 'note', 'comment', 'poster', 'find', 'detect', 'notification', 'card', 'notice', 'point_out', 'observe']",The Ikon
+waves,"['Wave', 'flourish', 'undulate', 'wafture', 'undulation', 'roll', 'beckon', 'brandish', 'moving_ridge', 'waving', 'wave', 'curl', 'flap']",The Ikon
+fear-filled,[],The Ikon
+glowed,"['radiate', 'glow', 'shine', 'beam', 'burn']",The Ikon
+advanced,"['further', 'shape_up', 'march_on', 'promote', 'come_along', 'forward-looking', 'make_headway', 'sophisticated', 'progress', 'kick_upstairs', 'gain', 'get_along', 'pull_ahead', 'ripe', 'throw_out', 'gain_ground', 'come_on', 'boost', 'upgrade', 'move_on', 'innovative', 'win', 'advance', 'raise', 'supercharge', 'modern', 'in_advance', 'set_ahead', 'elevate', 'pass_on', 'go_on', 'get_on', 'get_ahead', 'encourage', 'bring_forward', 'advanced']",The Ikon
+lacked,"['lack', 'miss']",The Ikon
+hut,"['hovel', 'hutch', 'shanty', 'army_hut', 'shack', 'field_hut', 'hut']",The Ikon
+will,"['testament', 'volition', 'leave', 'will', 'bequeath']",The Ikon
+but,"['but', 'simply', 'just', 'only', 'merely']",The Ikon
+come,"['come', 'make_out', 'semen', 'seed', 'number', 'amount', 'get_along', 'issue_forth', 'ejaculate', 'hail', 'derive', 'get', 'follow', 'arrive', 'occur', 'do', 'seminal_fluid', 'descend', 'add_up', 'come_in', 'cum', 'fare', 'fall', 'total', 'come_up']",The Ikon
+trip,"['trip_up', 'trip', 'get_off', 'jaunt', 'touch_off', 'turn_on', 'set_off', 'activate', 'tripper', 'spark', 'trip_out', 'trip-up', 'actuate', 'head_trip', 'misstep', 'stumble', 'spark_off', 'travel', 'trigger_off', 'trigger', 'slip']",The Ikon
+interested,"['concern', 'interested', 'worry', 'matter_to', 'concerned', 'interest', 'occupy']",The Ikon
+wild,"['wild', 'uncivilised', 'uncivilized', 'furious', 'tempestuous', 'untamed', 'raging', 'violent', 'rampantly', 'unfounded', 'state_of_nature', 'godforsaken', 'idle', 'crazy', 'dotty', 'raving_mad', 'wilderness', 'barbaric', 'fantastic', 'baseless', 'waste', 'natural_state', 'risky', 'groundless', 'hazardous', 'unwarranted', 'angry', 'savage', 'barbarian', 'gaga']",The Ikon
+hung,"['cling', 'string_up', 'fall', 'flow', 'hang_up', 'advert', 'attend', 'give_ear', 'hang', 'pay_heed']",The Ikon
+door,"['door', 'room_access', 'doorway', 'threshold']",The Ikon
+again,"['over_again', 'once_again', 'once_more', 'again']",The Ikon
+He,"['atomic_number_2', 'he', 'helium', 'He']",The Ikon
+part,"['persona', 'office', 'percentage', 'section', 'portion', 'part', 'function', 'depart', 'split_up', 'start_out', 'share', 'separate', 'split', 'take_off', 'break_up', 'set_off', 'theatrical_role', 'component', 'start', 'role', 'set_out', 'component_part', 'divide', 'division', 'partly', 'disunite', 'region', 'piece', 'character', 'set_forth', 'contribution', 'partially', 'break', 'voice', 'parting', 'constituent']",The Ikon
+coils,"['whorl', 'volute', 'hand-build', 'gyre', 'loop', 'coil', 'roll', 'spiral', 'scroll', 'handbuild', 'ringlet', 'gyrate', 'curl', 'helix', 'curlicue']",The Ikon
+opening,"['spread_out', 'possible_action', 'opening', 'give', 'open_up', 'porta', 'curtain_raising', 'gap', 'open', 'chess_opening', 'orifice', 'opening_night', 'spread', 'afford', 'hatchway', 'unfold', 'possibility', 'first_step', 'opening_move', 'initiative', 'scuttle']",The Ikon
+cover,"['cover_version', 'masking', 'traverse', 'deal', 'incubate', 'screen', 'natural_covering', 'cover', 'treat', 'cross', 'breed', 'wrap_up', 'hide', 'overcompensate', 'hatch', 'binding', 'covering_fire', 'report', 'covering', 'get_over', 'plow', 'insure', 'extend', 'spread_over', 'top', 'handle', 'compensate', 'brood', 'overlay', 'comprehend', 'concealment', 'continue', 'blanket', 'cover_up', 'book_binding', 'track', 'encompass', 'underwrite', 'cover_song', 'shroud', 'cover_charge', 'address', 'screening', 'cut_across', 'enshroud', 'pass_over', 'cut_through', 'get_across', 'covert', 'embrace', 'back']",The Ikon
+distance,"['outstrip', 'outdistance', 'space', 'length', 'distance', 'aloofness']",The Ikon
+wandered,"['cheat', 'divagate', 'cuckold', 'wind', 'range', 'weave', 'thread', 'vagabond', 'tramp', 'drift', 'swan', 'rove', 'roll', 'cast', 'cheat_on', 'betray', 'digress', 'meander', 'stray', 'wander', 'roam', 'ramble']",The Ikon
+tripod,['tripod'],The Ikon
+hundred,"['100', 'one_C', 'c', 'C', 'one_hundred', 'hundred', 'century']",The Ikon
+solid,"['solidness', 'substantial', 'solid_state', 'firm', 'self-colored', 'square', 'satisfying', 'whole', 'strong', 'upstanding', 'hearty', 'unanimous', 'self-coloured', 'solid']",The Ikon
+blackness,"['pitch_blackness', 'lightlessness', 'total_darkness', 'inkiness', 'black', 'blackness']",The Ikon
+clip,"['nip_off', 'snip', 'cut_short', 'cut_back', 'clip', 'dress', 'trot', 'prune', 'clipping', 'nip', 'snip_off', 'cartridge_clip', 'jog', 'cartridge_holder', 'lop', 'curtail', 'crop', 'magazine', 'trim', 'time']",The Ikon
+child's,[],The Ikon
+yourself,[],The Ikon
+lost,"['disoriented', 'mislay', 'doomed', 'lose', 'suffer', 'lost', 'bemused', 'recede', 'misplace', 'mazed', 'at_sea', 'fall_behind', 'turn_a_loss', 'miss', 'preoccupied', 'drop_off', 'confounded', 'fall_back', 'baffled', 'befuddled', 'confused', 'missed', 'bewildered', 'mixed-up', 'helpless', 'deep_in_thought']",The Ikon
+might,"['might', 'power', 'mightiness']",The Ikon
+point,"['taper', 'steer', 'item', 'full_stop', 'decimal_point', 'manoeuvre', 'channelize', 'level', 'luff', 'head', 'place', 'betoken', 'target', 'distributor_point', 'period', 'percentage_point', 'point', 'detail', 'manoeuver', 'power_point', 'tip', 'stop', 'show', 'guide', 'gunpoint', 'maneuver', 'breaker_point', 'sharpen', 'point_in_time', 'direct', 'peak', 'channelise', 'dot', 'repoint', 'stage', 'degree', 'indicate', 'designate', 'charge', 'signal', 'pointedness', 'full_point', 'compass_point', 'spot', 'orient', 'aim', 'bespeak']",The Ikon
+exclaimed,"['cry_out', 'promulgate', 'exclaim', 'shout', 'outcry', 'cry', 'proclaim', 'call_out']",The Ikon
+Figures,"['digit', 'fig', 'flesh', 'number', 'envision', 'estimate', 'trope', 'anatomy', 'material_body', 'public_figure', 'name', 'work_out', 'design', 'figure_of_speech', 'image', 'count_on', 'calculate', 'cipher', 'frame', 'shape', 'reckon', 'enter', 'forecast', 'cypher', 'picture', 'human_body', 'bod', 'build', 'fancy', 'pattern', 'project', 'figure', 'soma', 'physical_body', 'physique', 'form', 'see', 'visualize', 'compute', 'chassis', 'visualise']",The Ikon
+countryside,['countryside'],The Ikon
+malevolencies,"['malevolency', 'malice', 'malevolence']",The Ikon
+ache,"['pine', 'hurt', 'languish', 'yearn', 'yen', 'ache', 'smart', 'suffer', 'aching']",The Ikon
+this,[],The Ikon
+gaze,"['gaze', 'stare', 'regard']",The Ikon
+occur,"['go_on', 'come', 'take_place', 'come_about', 'pass', 'fall_out', 'pass_off', 'hap', 'happen', 'occur']",The Ikon
+ivory,"['tusk', 'pearl', 'off-white', 'bone', 'ivory']",The Ikon
+pilgrimage,"[""pilgrim's_journey"", 'pilgrimage']",The Ikon
+ringing,"['resound', 'skirt', 'peal', 'environ', 'tintinnabulation', 'call', 'echo', 'phone', 'resonance', 'knell', 'plangency', 'call_up', 'ringing', 'vibrancy', 'ring', 'reverberance', 'border', 'reverberate', 'sonority', 'band', 'surround', 'telephone', 'sonorousness']",The Ikon
+Automatic,"['machinelike', 'robotic', 'automatic_rifle', 'robotlike', 'automatic_pistol', 'reflex', 'machine_rifle', 'automatonlike', 'reflexive', 'automatic']",The Ikon
+ridge,"['ridgepole', 'ridge', 'ridgeline', 'rooftree']",The Ikon
+together,"['together', 'in_concert', 'unitedly']",The Ikon
+children's,[],The Ikon
+walked,"['walk', 'take_the_air']",The Ikon
+west,"['Benjamin_West', 'Rebecca_West', 'west', 'W', 'western_United_States', 'West', 'due_west', 'Dame_Rebecca_West', 'Mae_West', 'Cicily_Isabel_Fairfield', 'Occident', 'westward']",The Ikon
+Where,[],The Ikon
+reflected,"['speculate', 'reverberate', 'reflect', 'contemplate', 'mull', 'shine', 'reflected', 'meditate', 'ponder', 'muse', 'mull_over', 'ruminate', 'excogitate', 'chew_over', 'think_over']",The Ikon
+good,"['dependable', 'just', 'proficient', 'undecomposed', 'dear', 'salutary', 'serious', 'thoroughly', 'respectable', 'upright', 'right', 'well', 'adept', 'practiced', 'ripe', 'skillful', 'secure', 'unspoiled', 'expert', 'effective', 'in_force', 'near', 'honorable', 'unspoilt', 'trade_good', 'sound', 'estimable', 'good', 'beneficial', 'honest', 'skilful', 'full', 'goodness', 'in_effect', 'commodity', 'safe', 'soundly']",The Ikon
+Pierre,"['Pierre', 'capital_of_South_Dakota']",The Ikon
+near-strangers,[],The Ikon
+tension,"['latent_hostility', 'stress', 'tensity', 'tautness', 'tension', 'tenseness']",The Ikon
+.,[],The Ikon
+been,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Ikon
+amidst,[],The Ikon
+above,"['higher_up', 'to_a_higher_place', 'in_a_higher_place', 'supra', 'above']",The Ikon
+off,"['remove', 'off', 'cancelled', 'turned', 'sour', 'dispatch', 'slay', 'hit', 'polish_off', 'forth', 'murder', 'bump_off', 'away']",The Ikon
+write,"['compose', 'write', 'publish', 'indite', 'drop_a_line', 'spell', 'pen', 'save']",The Ikon
+Brittany,"['Breiz', 'Bretagne', 'Brittany']",The Ikon
+release,"['let_go', 'liberation', 'resign', 'dismissal', 'discharge', 'let_go_of', 'button', 'bring_out', 'firing', 'unblock', 'publish', 'dismission', 'unfreeze', 'sack', 'outlet', 'put_out', 'turn', 'acquittance', 'departure', 'tone_ending', 'freeing', 'sacking', 'press_release', 'loss', 'eject', 'waiver', 'secrete', 'handout', 'relinquish', 'spill', 'exhaust', 'spillage', 'expiration', 'unloosen', 'passing', 'going', 'issue', 'unloose', 'release', 'expel', 'vent', 'liberate', 'give_up', 'exit', 'loose', 'free']",The Ikon
+vague,"['obscure', 'shadowy', 'vague', 'wispy', 'dim', 'undefined', 'faint']",The Ikon
+immobility,"['immobility', 'stationariness', 'fixedness']",The Ikon
+spot,"['office', 'make_out', 'slur', 'post', 'spy', 'situation', 'espy', 'discern', 'speckle', 'blot', 'place', 'distinguish', 'topographic_point', 'berth', 'point', 'smudge', 'stain', 'recognize', 'blemish', 'tell_apart', 'descry', 'position', 'recognise', 'spotlight', 'maculation', 'dapple', 'pick_out', 'smirch', 'billet', 'daub', 'touch', 'bit', 'spot', 'patch', 'smear', 'blob', 'fleck', 'pip']",The Ikon
+granted,"['granted', 'yield', 'allot', 'given', 'accord', 'grant', 'concede', 'give', 'deed_over', 'award', 'cede', 'allow']",The Ikon
+tread,"['step', 'trample', 'stride', 'tread', 'pace']",The Ikon
+anybody,[],The Ikon
+about,"['most', 'roughly', 'just_about', 'near', 'nearly', 'well-nigh', 'about', 'some', 'almost', 'around', 'or_so', 'nigh', 'more_or_less', 'virtually', 'close_to', 'astir', 'approximately']",The Ikon
+concertina,['concertina'],The Ikon
+hadn't,[],The Ikon
+must,"['moldiness', 'mustiness', 'must']",The Ikon
+fact,['fact'],The Ikon
+itself,[],The Ikon
+briefing,"['brief', 'briefing']",The Ikon
+only,"['but', 'simply', 'exclusively', 'sole', 'just', 'entirely', 'lone', 'solitary', 'lonesome', 'only', 'alone', 'solely', 'only_if', 'only_when', 'merely']",The Ikon
+under,"['below', 'under', 'nether']",The Ikon
+awake,"['alive', 'arouse', 'alert', 'wake', 'come_alive', 'awake', 'wake_up', 'waken', 'awaken']",The Ikon
+between,"['betwixt', ""'tween"", 'between']",The Ikon
+in,"['inch', 'inwards', 'indium', 'inward', 'Indiana', 'In', 'in', 'IN', 'atomic_number_49', 'Hoosier_State']",The Ikon
+testicle,"['ball', 'testis', 'ballock', 'nut', 'orchis', 'egg', 'bollock', 'testicle']",The Ikon
+their,[],The Ikon
+if,[],The Ikon
+ask,"['require', 'involve', 'need', 'enquire', 'postulate', 'take', 'expect', 'necessitate', 'demand', 'ask', 'inquire', 'call_for']",The Ikon
+most,"['to_the_highest_degree', 'most', 'nearly', 'well-nigh', 'almost', 'nigh', 'virtually', 'near', 'about']",The Ikon
+would,[],The Ikon
+stood,"['tolerate', 'brook', 'endure', 'stomach', 'bear', 'support', 'stand_up', 'place_upright', 'fend', 'stand', 'digest', 'resist', 'put_up', 'abide', 'suffer', 'stick_out', 'remain_firm']",The Ikon
+before,"['ahead', 'in_front', 'before', 'earlier']",The Ikon
+cloud,"['mottle', 'obscure', 'sully', 'swarm', 'fog', 'defile', 'taint', 'cloud', 'becloud', 'befog', 'overcast', 'corrupt', 'mist', 'obnubilate', 'haze_over', 'dapple']",The Ikon
+watched,"['watch', 'catch', 'look_on', 'check', 'view', 'watch_over', 'see', 'watch_out', 'keep_an_eye_on', 'follow', 'ascertain', 'determine', 'find_out', 'learn', 'look_out', 'observe', 'take_in']",The Ikon
+vouching,"['guarantee', 'vouch']",The Ikon
+wait,"['hold', 'hold_off', 'waitress', 'wait', 'waiting', 'delay', 'expect', 'time_lag', 'await', 'hold_back', 'look', 'postponement']",The Ikon
+slope's,[],The Ikon
+addition,"['plus', 'accession', 'summation', 'add-on', 'addition', 'increase', 'gain', 'improver']",The Ikon
+nine,"['ennead', 'IX', 'ball_club', 'baseball_club', 'Nina_from_Carolina', '9', 'nine-spot', 'club', 'niner', 'nine', 'ix']",The Ikon
+sure,"['surely', 'sure', 'certainly', 'sure_as_shooting', 'for_sure', 'certain', 'for_certain', 'sure_enough', 'indisputable', 'trusted']",The Ikon
+diluting,"['stretch', 'thin_out', 'thin', 'load', 'dilute', 'adulterate', 'debase', 'cut', 'reduce']",The Ikon
+my,[],The Ikon
+extended,"['reach_out', 'extensive', 'strain', 'cover', 'expand', 'gallop', 'lengthy', 'offer', 'protracted', 'widen', 'put_out', 'broaden', 'extend', 'stretch', 'run', 'continue', 'extended', 'hold_out', 'elongated', 'protract', 'draw_out', 'exsert', 'poke_out', 'prolong', 'carry', 'lengthened', 'stretch_out', 'drawn-out', 'go', 'unfold', 'pass', 'prolonged', 'lead', 'stretch_forth']",The Ikon
+And,[],The Ikon
+defied,"['dare', 'hold', 'hold_up', 'withstand', 'resist', 'refuse', 'defy']",The Ikon
+hoops,"['basketball_game', 'wicket', 'ring', 'basketball', 'hoops', 'basket', 'hoop', 'basketball_hoop']",The Ikon
+for,[],The Ikon
+united,"['link', 'merge', 'united', 'join', 'unify', 'combine', 'joined', 'connect', 'unite', 'link_up']",The Ikon
+clump,"['clunk', 'chunk', 'bunch', 'bunch_up', 'glob', 'ball', 'clomp', 'clop', 'bundle', 'thump', 'flock', 'clod', 'clump', 'clustering', 'thumping', 'constellate', 'thud', 'lump', 'plunk', 'cluster']",The Ikon
+extra,"['duplicate', 'special', 'redundant', 'supernumerary', 'superfluous', 'surplus', 'spear_carrier', 'excess', 'supererogatory', 'spare', 'extra', 'additional']",The Ikon
+peninsula,['peninsula'],The Ikon
+forgotten,"['blank_out', 'forgotten', 'leave', 'draw_a_blank', 'disregarded', 'bury', 'block', 'forget']",The Ikon
+thoughts,"['thought', 'thinking', 'view', 'mentation', 'sentiment', 'thought_process', 'cerebration', 'intellection', 'persuasion', 'idea', 'opinion']",The Ikon
+wounded,"['injure', 'offend', 'hurt', 'spite', 'wound', 'wounded', 'maimed', 'bruise']",The Ikon
+mercifully,['mercifully'],The Ikon
+filed,"['file_away', 'register', 'lodge', 'charge', 'file']",The Ikon
+Wait,"['hold', 'hold_off', 'waitress', 'wait', 'waiting', 'delay', 'expect', 'time_lag', 'await', 'hold_back', 'look', 'postponement']",The Ikon
+footstep,"['step', 'footfall', 'footstep', 'stride', 'pace']",The Ikon
+abbey,['abbey'],The Ikon
+bounced,"['take_a_hop', 'rebound', 'resile', 'jounce', 'bounce', 'spring', 'reverberate', 'ricochet', 'bound', 'recoil']",The Ikon
+parlor,"['living_room', 'front_room', 'parlour', 'living-room', 'parlor', 'sitting_room']",The Ikon
+outside,"['outdoor', 'external', 'extraneous', 'out-of-door', 'exterior', 'outdoors', 'out_of_doors', 'remote', 'international', 'outside', 'alfresco', 'away']",The Ikon
+land,"['domain', 'land', 'acres', 'set_down', 'realm', 'Land', 'shoot_down', 'solid_ground', 'farming', 'state', 'Din_Land', 'bring', 'landed_estate', 'ground', 'commonwealth', 'soil', 'demesne', 'dry_land', 'nation', 'shore', 'put_down', 'country', 'estate', 'terra_firma', 'kingdom', 'body_politic', 'bring_down', 'set_ashore', 'Edwin_Herbert_Land', 'down', 'earth', 'res_publica']",The Ikon
+ones,"['I', 'unity', '1', 'single', 'one', 'ace']",The Ikon
+provides,"['offer', 'allow_for', 'leave', 'allow', 'cater', 'ply', 'put_up', 'bring_home_the_bacon', 'provide', 'furnish', 'render', 'supply']",The Ikon
+dark,"['nighttime', 'morose', 'drear', 'dreary', 'wickedness', 'dark', 'benighted', 'gloomy', 'sinister', 'dark-skinned', 'non-white', 'dingy', 'glum', 'grim', 'night', 'disconsolate', 'iniquity', 'obscure', 'darkness', 'drab', 'sorry', 'coloured', 'dour', 'glowering', 'shadow', 'black', 'sullen', 'saturnine', 'colored', 'moody', 'sour', 'dismal', 'blue']",The Ikon
+were,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Ikon
+oui,[],The Ikon
+next,"['following', 'adjacent', 'future', 'succeeding', 'side_by_side', 'next']",The Ikon
+range,"['orbit', 'mountain_chain', 'range_of_a_function', 'grasp', 'stove', 'pasture', 'kitchen_stove', 'straddle', 'place', 'range', 'kitchen_range', 'compass', 'lay_out', 'range_of_mountains', 'vagabond', 'tramp', 'image', 'drift', 'mountain_range', 'swan', 'order', 'reach', 'rove', 'graze', 'rank', 'run', 'roll', 'set_out', 'array', 'cast', 'cooking_stove', 'rate', 'chain_of_mountains', 'scope', 'chain', 'browse', 'stray', 'ambit', 'crop', 'wander', 'roam', 'ramble', 'grade']",The Ikon
+bones,"['castanets', 'grind_away', 'swot_up', 'swot', 'cram', 'bone_up', 'bones', 'clappers', 'mug_up', 'get_up', 'off-white', 'os', 'ivory', 'drum', 'finger_cymbals', 'osseous_tissue', 'debone', 'pearl', 'bone']",The Ikon
+marked,"['label', 'score', 'commemorate', 'scar', 'cross_off', 'strike_off', 'denounce', 'mark', 'pock', 'marked', 'distinguish', 'tick_off', 'mark_off', 'check', 'note', 'stigmatize', 'pit', 'check_off', 'cross_out', 'strike_out', 'tag', 'stigmatise', 'differentiate', 'pronounced', 'punctuate', 'notice', 'brand', 'nock', 'set', 'tick', 'grade']",The Ikon
+make,"['construct', 'score', 'piss', 'urinate', 'stool', 'induce', 'attain', 'shit', 'progress_to', 'take', 'take_a_crap', 'fix', 'realize', 'realise', 'give', 'gain', 'establish', 'pretend', 'make', 'take_a_shit', 'make_believe', 'prepare', 'wee-wee', 'cause', 'get', 'name', 'make_water', 'defecate', 'arrive_at', 'draw', 'seduce', 'throw', 'cook', 'micturate', 'create', 'reach', 'do', 'relieve_oneself', 'pee-pee', 'clear', 'make_up', 'bring_in', 'spend_a_penny', 'have', 'build', 'earn', 'wee', 'ready', 'shuffling', 'take_a_leak', 'piddle', 'puddle', 'stimulate', 'pull_in', 'produce', 'ca-ca', 'hold', 'work', 'form', 'pass_water', 'nominate', 'shuffle', 'pee', 'get_to', 'lay_down', 'hit', 'brand', 'constitute', 'crap', 'take_in']",The Ikon
+ponderous,"['lumbering', 'ponderous', 'heavy']",The Ikon
+opened,"['open', 'opened', 'unfold', 'spread_out', 'give', 'spread', 'afford', 'open_up']",The Ikon
+shattered,"['shatter', 'shattered', 'tattered']",The Ikon
+great,"['big', 'expectant', 'large', 'corking', 'nifty', 'enceinte', 'smashing', 'great', 'dandy', 'not_bad', 'outstanding', 'keen', 'neat', 'swell', 'capital', 'bang-up', 'bully', 'groovy', 'with_child', 'peachy', 'gravid', 'slap-up', 'cracking', 'majuscule', 'heavy']",The Ikon
+With,[],The Ikon
+curious,"['rummy', 'rum', 'curious', 'odd', 'peculiar', 'singular', 'funny', 'queer']",The Ikon
+flashes,"['newsbreak', 'ostentate', 'flare', 'New_York_minute', 'twinkling', 'newsflash', 'dart', 'blink_of_an_eye', 'swank', 'heartbeat', 'ostentation', 'shoot', 'split_second', 'blink', 'news_bulletin', 'winkle', 'jiffy', 'trice', 'flashgun', 'dash', 'scoot', 'wink', 'flash_bulb', 'twinkle', 'flaunt', 'scud', 'flashing', 'fanfare', 'instant', 'show_off', 'flash_lamp', 'flashbulb', 'photoflash', 'flash']",The Ikon
+'',[],The Ikon
+burn,"['incinerate', 'cauterize', 'tan', 'fire', 'glow', 'cauterise', 'sting', 'burn_down', 'burn', 'burning', 'burn_mark', 'bite', 'sunburn', 'burn_off', 'burn_up', 'suntan', 'combust', 'cut']",The Ikon
+surrounding,"['beleaguer', 'fence_in', 'surround', 'ring', 'smother', 'palisade', 'circumvent', 'skirt', 'surrounding', 'circumferent', 'encompassing', 'border', 'environ', 'hem_in', 'wall', 'besiege', 'fence']",The Ikon
+become,"['get', 'go', 'become', 'turn', 'suit']",The Ikon
+artillery,"['gun', 'weapon', 'artillery_unit', 'heavy_weapon', 'ordnance', 'artillery']",The Ikon
+gentle,"['gruntle', 'assuage', 'blue-blooded', 'placate', 'aristocratic', 'easy', 'conciliate', 'pacify', 'soft', 'docile', 'gentle', 'aristocratical', 'mollify', 'appease', 'ennoble', 'lenify', 'entitle', 'patrician', 'blue']",The Ikon
+didn't,[],The Ikon
+muzzle,"['gag', 'gun_muzzle', 'muzzle']",The Ikon
+journey,"['journeying', 'journey', 'travel']",The Ikon
+snugly,['snugly'],The Ikon
+crowded,"['push', 'herd', 'crowd', 'crowd_together', 'crowded']",The Ikon
+diffused,"['circularize', 'circulate', 'spread_out', 'penetrate', 'soft', 'circularise', 'interpenetrate', 'imbue', 'pass_around', 'disperse', 'diffused', 'fan_out', 'propagate', 'spread', 'pervade', 'riddle', 'distribute', 'diffuse', 'disseminate', 'permeate', 'broadcast']",The Ikon
+figures,"['digit', 'fig', 'flesh', 'number', 'envision', 'estimate', 'trope', 'anatomy', 'material_body', 'public_figure', 'name', 'work_out', 'design', 'figure_of_speech', 'image', 'count_on', 'calculate', 'cipher', 'frame', 'shape', 'reckon', 'enter', 'forecast', 'cypher', 'picture', 'human_body', 'bod', 'build', 'fancy', 'pattern', 'project', 'figure', 'soma', 'physical_body', 'physique', 'form', 'see', 'visualize', 'compute', 'chassis', 'visualise']",The Ikon
+Aj,[],The Ikon
+attention,"['attending', 'aid', 'attention', 'tending', 'care']",The Ikon
+have,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'wealthy_person', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'rich_person', 'let', 'hold', 'take_in']",The Ikon
+thirty-caliber,[],The Ikon
+felt,"['experience', 'matt-up', 'felt_up', 'find', 'feel', 'felt', 'palpate', 'sense', 'finger', 'matte', 'mat_up', 'mat', 'matte_up']",The Ikon
+?,[],The Ikon
+shapes,"['mould', 'conformation', 'regulate', 'configuration', 'influence', 'flesh', 'mold', 'forge', 'anatomy', 'material_body', 'embodiment', 'condition', 'frame', 'shape', 'Supreme_Headquarters_Allied_Powers_Europe', 'human_body', 'bod', 'build', 'cast', 'pattern', 'figure', 'SHAPE', 'soma', 'contour', 'work', 'physical_body', 'physique', 'form', 'chassis', 'determine']",The Ikon
+having,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Ikon
+hills,"['Alfred_Hawthorne', 'hill', 'Benny_Hill', 'James_Jerome_Hill', 'mound', 'Hill', ""pitcher's_mound"", 'J._J._Hill']",The Ikon
+placed,"['pose', 'come_out', 'located', 'station', 'post', 'send', 'place', 'range', 'target', 'lay', 'point', 'identify', 'localise', 'order', 'rank', 'position', 'site', 'direct', 'commit', 'rate', 'locate', 'come_in', 'placed', 'situated', 'put', 'invest', 'localize', 'set', 'aim', 'grade']",The Ikon
+on,"['along', 'on']",The Ikon
+pallid,"['wan', 'pallid', 'pale', 'sick']",The Ikon
+they,[],The Ikon
+briefed,['brief'],The Ikon
+!,[],The Ikon
+shoulders,"['shoulder', 'shoulder_joint', 'articulatio_humeri', 'berm']",The Ikon
+vain,"['sleeveless', 'self-conceited', 'vain', 'egotistical', 'futile', 'egotistic', 'fruitless', 'conceited', 'bootless', 'swollen', 'swollen-headed']",The Ikon
+beyond,['beyond'],The Ikon
+somewhere,"['someplace', 'somewhere']",The Ikon
+chords,"['harmonise', 'chord', 'harmonize']",The Ikon
+pulls,"['extract', 'deplume', 'tear', 'pull', 'get_out', 'overstretch', 'drag', 'rend', 'take_out', 'rive', 'perpetrate', 'root_for', 'pulling', 'pull_out', 'draw', 'force', 'deplumate', 'pull_up', 'rip', 'draw_in', 'commit', 'draw_out', 'pull_in', 'twist', 'pluck', 'wrench', 'puff', 'clout', 'displume', 'attract']",The Ikon
+afternoon,"['afternoon', 'good_afternoon']",The Ikon
+sticky,"['unenviable', 'muggy', 'viscid', 'awkward', 'steamy', 'gummy', 'glutinous', 'gluey', 'viscous', 'mucilaginous', 'embarrassing', 'sticky', 'pasty']",The Ikon
+time,"['fourth_dimension', 'prison_term', 'sentence', 'metre', 'meter', 'clock', 'clock_time', 'clip', 'time']",The Ikon
+big,"['big', 'expectant', 'large', 'vainglorious', 'grownup', 'braggy', 'bighearted', 'vauntingly', 'enceinte', 'self-aggrandising', 'handsome', 'adult', 'fully_grown', 'magnanimous', 'full-grown', 'great', 'boastfully', 'liberal', 'openhanded', 'giving', 'boastful', 'self-aggrandizing', 'freehanded', 'bad', 'crowing', 'prominent', 'bountiful', 'grown', 'swelled', 'with_child', 'cock-a-hoop', 'gravid', 'braggart', 'bragging', 'bounteous', 'heavy']",The Ikon
+field,"['orbit', 'theater', 'domain', 'theatre', 'field_of_operations', 'battlefield', 'field_of_view', 'flying_field', 'field_of_operation', 'discipline', 'plain', 'study', 'subject_field', 'landing_field', 'athletic_field', 'sphere', 'bailiwick', 'field_of_honor', 'field_of_force', 'battleground', 'playing_field', 'line_of_business', 'airfield', 'subject_area', 'subject', 'area', 'theater_of_operations', 'arena', 'playing_area', 'force_field', 'champaign', 'field_of_battle', 'field_of_study', 'theatre_of_operations', 'field']",The Ikon
+immediately,"['immediately', 'right_away', 'directly', 'now', 'at_once', 'like_a_shot', 'straight_off', 'instantly', 'straightaway', 'forthwith']",The Ikon
+it,"['information_technology', 'IT']",The Ikon
+peering,['peer'],The Ikon
+hatred,"['hatred', 'hate']",The Ikon
+out,"['come_out_of_the_closet', 'verboten', 'knocked_out', 'come_out', 'forbidden', 'out', 'prohibited', 'tabu', 'proscribed', 'kayoed', 'stunned', 'taboo', 'extinct', ""KO'd"", 'away']",The Ikon
+Yet,"['withal', 'all_the_same', 'so_far', 'however', 'yet', 'heretofore', 'notwithstanding', 'still', 'up_to_now', 'hitherto', 'even', 'thus_far', 'as_yet', 'til_now', 'nonetheless', 'nevertheless', 'in_time', 'even_so', 'until_now']",The Ikon
+white,"['Edward_D._White', 'Andrew_D._White', 'Andrew_Dickson_White', 'white', 'ovalbumin', 'clean', 'Edward_Douglas_White_Jr.', 'albumen', 'whitened', 'Patrick_Victor_Martindale_White', 'Caucasian', 'egg_white', 'White_person', 'whiten', 'White', 'T._H._White', 'flannel', 'livid', 'blanched', 'ashen', 'Theodore_Harold_White', 'blank', 'bloodless', 'whiteness', 'tweed', 'white-hot', 'White_River', 'gabardine', 'Patrick_White', 'Stanford_White', 'E._B._White', 'snowy', 'Edward_White', 'Elwyn_Brooks_White', 'lily-white']",The Ikon
+pull,"['extract', 'deplume', 'tear', 'pull', 'get_out', 'overstretch', 'drag', 'rend', 'take_out', 'rive', 'perpetrate', 'root_for', 'pulling', 'pull_out', 'draw', 'force', 'deplumate', 'pull_up', 'rip', 'draw_in', 'commit', 'draw_out', 'pull_in', 'twist', 'pluck', 'wrench', 'puff', 'clout', 'displume', 'attract']",The Ikon
+Others,[],The Ikon
+knew,"['experience', 'make_out', 'hump', 'acknowledge', 'cognize', 'cognise', 'have_it_away', 'know', 'have_a_go_at_it', 'have_sex', 'sleep_together', 'make_love', 'get_it_on', 'fuck', 'recognize', 'live', 'do_it', 'be_intimate', 'get_laid', 'love', 'bang', 'recognise', 'screw', 'sleep_with', 'eff', 'lie_with', 'bed', 'jazz', 'roll_in_the_hay', 'have_intercourse', 'bonk', 'have_it_off']",The Ikon
+more,"['More', 'to_a_greater_extent', 'more_than', 'Thomas_More', 'more', 'Sir_Thomas_More']",The Ikon
+themselves,[],The Ikon
+two,"['deuce', 'ii', '2', 'II', 'two']",The Ikon
+still,"['quiet', 'withal', 'tranquillize', 'inactive', 'soundless', 'all_the_same', 'however', 'allay', 'yet', 'placid', 'static', 'still', 'notwithstanding', 'tranquil', 'distillery', 'hush_up', 'ease', 'lull', 'relieve', 'motionless', 'calm_down', 'even', 'stillness', 'stock-still', 'hush', 'nonetheless', 'silence', 'tranquillise', 'nevertheless', 'quieten', 'even_so', 'tranquilize', 'noneffervescent', 'unruffled', 'smooth', 'calm', 'silent', 'shut_up']",The Ikon
+place,"['seat', 'pose', 'office', 'come_out', 'post', 'station', 'situation', 'send', 'place', 'range', 'topographic_point', 'berth', 'target', 'point', 'identify', 'localise', 'order', 'rank', 'position', 'site', 'direct', 'commit', 'home', 'stead', 'property', 'rate', 'locate', 'come_in', 'plaza', 'invest', 'billet', 'piazza', 'shoes', 'lieu', 'blank_space', 'set', 'grade', 'spot', 'space', 'localize', 'put', 'aim', 'lay']",The Ikon
+nicely,['nicely'],The Ikon
+coast,"['seacoast', 'slide', 'seashore', 'glide', 'sea-coast', 'coast']",The Ikon
+sharp,"['discriminating', 'penetrative', 'sharp', 'acuate', 'abrupt', 'precipitous', 'keen', 'penetrating', 'shrewd', 'acutely', 'sharply', 'incisive', 'sharp-worded', 'crisp', 'acute', 'knifelike', 'tart', 'astute', 'piercing', 'needlelike', 'shrill']",The Ikon
+mourners,"['mourner', 'lamenter', 'sorrower', 'griever']",The Ikon
+glacier-like,[],The Ikon
+meaning,"['intend', 'imply', 'entail', 'significant', 'meaning', 'signification', 'import', 'pregnant', 'substance', 'stand_for', 'think', 'have_in_mind', 'signify', 'significance', 'mean', 'think_of']",The Ikon
+Now,"['immediately', 'today', 'right_away', 'now', 'directly', 'nowadays', 'at_once', 'like_a_shot', 'at_present', 'straight_off', 'instantly', 'straightaway', 'forthwith']",The Ikon
+very,"['really', 'rattling', 'very', 'selfsame', 'real', 'identical']",The Ikon
+dirge,"['requiem', 'lament', 'threnody', 'dirge', 'coronach']",The Ikon
+live,"['experience', 'survive', 'subsist', 'bouncy', 'lively', 'know', 'hot', 'exist', 'live_on', 'resilient', 'populate', 'dwell', 'hold_up', 'unrecorded', 'live', 'inhabit', 'alive', 'endure', 'hold_out', 'be', 'springy', 'go', 'last']",The Ikon
+merveilleux,[],The Ikon
+scanned,"['skim', 'glance_over', 'read', 'run_down', 'scan', 'rake']",The Ikon
+Gouge,"['ding', 'force_out', 'dent', 'wring', 'gouge', 'rack', 'squeeze', 'extort', 'rout', 'nick']",The Ikon
+weapons,"['weapon', 'weapon_system', 'arm', 'artillery']",The Ikon
+Mexican,['Mexican'],The Ikon
+departure,"['deviation', 'passing', 'loss', 'going', 'divergence', 'expiration', 'leaving', 'release', 'difference', 'going_away', 'exit', 'departure']",The Ikon
+beatings,"['beat_out', 'pose', 'tucker', 'bunk', 'mystify', 'vanquish', 'quiver', 'lacing', 'puzzle', 'pulsate', 'stupefy', 'amaze', 'scramble', 'pound', 'drubbing', 'tucker_out', 'ticktack', 'get', 'gravel', 'trounce', 'beat', 'work_over', 'trouncing', 'baffle', 'thump', 'drum', 'nonplus', 'bewilder', 'shell', 'thrum', 'thrashing', 'perplex', 'whacking', 'wash_up', 'beating', 'ticktock', 'exhaust', 'beat_up', 'stick', 'crush', 'flap', 'flummox', 'whipping', 'outfox', 'vex', 'licking', 'circumvent', 'outwit', 'overreach', 'outsmart', 'dumbfound', 'tick']",The Ikon
+presence,"['front', 'mien', 'bearing', 'presence', 'comportment']",The Ikon
+weirdly,['weirdly'],The Ikon
+months,"['calendar_month', 'month']",The Ikon
+stone-gray,"['slate-grey', 'slaty', 'stone-gray', 'slate-gray', 'slaty-grey', 'stone-grey', 'slaty-gray', 'slatey']",The Ikon
+you,[],The Ikon
+That,[],The Ikon
+ray,"['beam_of_light', 'irradiate', 'radiate', 'ray', 'beam', 'ray_of_light', 'light_beam', 'shaft', 're', 'shaft_of_light', 'irradiation', 'electron_beam']",The Ikon
+turmoil,"['tumult', 'convulsion', 'hullabaloo', 'excitement', 'turmoil', 'upheaval', 'agitation']",The Ikon
+rest,"['rest_period', 'residual', 'quietus', 'respite', 'perch', 'breathe', 'balance', 'reside', 'ease', 'residue', 'relaxation', 'relief', ""catch_one's_breath"", 'residuum', 'pillow', 'repose', 'eternal_rest', 'remainder', 'take_a_breather', 'rest', 'stay', 'roost', 'sleep', 'remain', 'eternal_sleep', 'lie']",The Ikon
+people,"['multitude', 'hoi_polloi', 'mass', 'citizenry', 'the_great_unwashed', 'masses', 'people']",The Ikon
+Looming,"['hulk', 'tower', 'bulk_large', 'brood', 'predominate', 'loom', 'hover']",The Ikon
+sweaty,[],The Ikon
+cups,"['loving_cup', 'cup', 'cupful', 'transfuse']",The Ikon
+anyone,[],The Ikon
+beam,"['beam_of_light', 'radiate', 'radio_beam', 'transmit', 'ray', 'beam', 'balance_beam', 'light_beam', 'ray_of_light', 'shaft', 'shine', 'air', 'shaft_of_light', 'send', 'glow', 'irradiation', 'electron_beam', 'broadcast']",The Ikon
+was,"['Evergreen_State', 'exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'WA', 'comprise', 'live', 'constitute', 'Washington', 'equal', 'personify']",The Ikon
+booby,"['boob', 'dope', 'booby', 'pinhead', 'dumbbell', 'dummy']",The Ikon
+change,"['modification', 'exchange', 'modify', 'shift', 'deepen', 'change', 'variety', 'convert', 'commute', 'alteration', 'transfer', 'vary', 'interchange', 'switch', 'alter']",The Ikon
+approached,"['set_about', 'come_near', 'come_on', 'draw_close', 'go_about', 'border_on', 'draw_near', 'near', 'go_up', 'approach']",The Ikon
+blast,"['smash', 'flak', 'gust', 'clap', 'bam', 'flack', 'eruption', 'crucify', 'fire', 'shoot', 'blare', 'knock_down', 'attack', 'shell', 'good_time', 'boom', 'bang', 'blow', 'savage', 'blast', 'nail', 'pillory']",The Ikon
+up,"['upward', 'upwardly', 'upwards', 'improving', 'up', 'astir']",The Ikon
+crouch,"['bend', 'scrunch', 'squat', 'hunker_down', 'hunker', 'scrunch_up', 'stoop', 'crouch', 'bow']",The Ikon
+unseen,"['unseen', 'spiritual_domain', 'unobserved', 'spiritual_world']",The Ikon
+old,"['honest-to-god', 'previous', 'honest-to-goodness', 'erstwhile', 'sometime', 'Old', 'former', 'older', 'one-time', 'sure-enough', 'onetime', 'quondam', 'old']",The Ikon
+Doesn't,[],The Ikon
+not,"['non', 'not']",The Ikon
+tried,"['prove', 'try_out', 'strain', 'hear', 'adjudicate', 'stress', 'taste', 'tested', 'essay', 'judge', 'sample', 'try', 'well-tried', 'assay', 'test', 'tried_and_true', 'attempt', 'seek', 'try_on', 'examine', 'time-tested', 'tried', 'render']",The Ikon
+horror,"['revulsion', 'repulsion', 'repugnance', 'horror']",The Ikon
+stuck,"['pose', 'cling', 'mystify', 'puzzle', 'cohere', 'stupefy', 'amaze', 'hold_fast', 'get', 'sting', 'gravel', 'beat', 'baffle', 'stand_by', 'bond', 'stick_by', 'stay_put', 'nonplus', 'bewilder', 'wedge', 'lodge', 'perplex', 'stick_to', 'stick', 'bind', 'stay', 'flummox', 'stick_around', 'deposit', 'vex', 'adhere', 'cleave', 'dumbfound', 'stuck']",The Ikon
+weeks,"['workweek', 'week', 'calendar_week', 'hebdomad']",The Ikon
+holds,"['clasp', 'grasp', 'handgrip', 'apply', 'confine', 'cargo_hold', 'detainment', 'sustain', 'admit', 'hold_in', 'support', 'concord', 'defy', 'reserve', 'appreciation', 'oblige', 'moderate', 'take', 'have_got', 'give', 'prevail', 'nurse', 'keep', 'cargo_area', 'storage_area', 'harbor', 'make', 'custody', 'adjudge', 'check', 'cargo_deck', 'hold_up', 'bear', 'accommodate', 'declare', 'harbour', 'withstand', 'wait', 'throw', 'halt', 'take_for', 'detention', 'hold_back', 'handle', 'view_as', 'clench', 'retain', 'contain', 'take_hold', 'arrest', 'grip', 'have', 'maintain', 'obtain', 'time_lag', 'guard', 'bind', 'obligate', 'go_for', 'clutches', 'postponement', 'entertain', 'control', 'carry', 'curb', 'concur', 'deem', 'hold', 'agree', 'restrain', 'clutch', 'defend', 'delay', 'keep_back', 'book']",The Ikon
+relax,"['slack_up', 'unstrain', 'relax', 'slack', 'make_relaxed', 'loosen_up', 'unwind', 'unlax', 'slow_down', 'decompress', 'loose', 'slacken', 'unbend', 'loosen']",The Ikon
+room,"['way', 'board', 'room', 'elbow_room']",The Ikon
+large,"['big', 'prominent', 'large', 'expectant', 'great', 'boastfully', 'bombastic', 'orotund', 'gravid', 'with_child', 'vauntingly', 'enceinte', 'turgid', 'tumid', 'declamatory', 'heavy', 'magnanimous']",The Ikon
+ran,"['break_away', 'hunt', 'bunk', 'black_market', 'function', 'run_away', 'lean', 'prevail', 'take_to_the_woods', 'ply', 'range', 'incline', 'hunt_down', 'escape', 'fly_the_coop', 'operate', 'draw', 'persist', 'run_for', 'lam', 'tend', 'scat', 'campaign', 'turn_tail', 'extend', 'die_hard', 'move', 'scarper', 'guide', 'head_for_the_hills', 'run', 'endure', 'consort', 'race', 'flow', 'hightail_it', 'course', 'melt_down', 'melt', 'carry', 'work', 'go', 'execute', 'bleed', 'unravel', 'play', 'pass', 'be_given', 'lead', 'track_down', 'ladder', 'feed']",The Ikon
+assumed,"['assumed', 'pretended', 'get_into', 'take', 'fictive', 'adopt', 'seize', 'assume', 'fictitious', 'bear', 'take_over', 'don', 'feign', 'accept', 'acquire', 'put_on', 'take_on', 'strike', 'wear', 'sham', 'usurp', 'take_for_granted', 'take_up', 'arrogate', 'presume', 'simulate', 'false']",The Ikon
+eager,"['aegir', 'tidal_bore', 'eager', 'bore', 'eagre']",The Ikon
+whole,"['altogether', 'entirely', 'unit', 'whole', 'hale', 'unscathed', 'unhurt', 'unanimous', 'completely', 'wholly', 'all', 'solid', 'totally', 'unharmed']",The Ikon
+to,[],The Ikon
+think,"['opine', 'imagine', 'cerebrate', 'think', 'cogitate', 'believe', 'recall', 'guess', 'call_up', 'reckon', 'mean', 'consider', 'recollect', 'suppose', 'retrieve', 'intend', 'call_back', 'remember', 'conceive']",The Ikon
+covered,"['traverse', 'deal', 'incubate', 'covered', 'cover', 'treat', 'breed', 'wrap_up', 'hide', 'overcompensate', 'hatch', 'report', 'get_over', 'plow', 'insure', 'extend', 'spread_over', 'compensate', 'handle', 'brood', 'overlay', 'comprehend', 'continue', 'cover_up', 'track', 'encompass', 'underwrite', 'shroud', 'address', 'cut_across', 'enshroud', 'pass_over', 'cut_through', 'get_across', 'embrace', 'cross']",The Ikon
+want,"['require', 'desire', 'lack', 'wish', 'need', 'deprivation', 'wishing', 'want', 'privation', 'deficiency', 'neediness']",The Ikon
+helpful,['helpful'],The Ikon
+whispered,"['whispered', 'whisper']",The Ikon
+could,[],The Ikon
+believe,"['trust', 'consider', 'think', 'believe', 'conceive']",The Ikon
+heads,"['steer', 'fountainhead', 'principal', 'manoeuvre', 'channelize', 'read/write_head', 'head', 'capitulum', 'promontory', 'top_dog', 'headland', 'mind', 'school_principal', 'point', 'manoeuver', 'headway', 'guide', 'caput', 'maneuver', 'head_teacher', 'direct', 'forefront', 'channelise', 'head_word', 'heading', 'straits', 'header', 'oral_sex', 'drumhead', 'head_up', 'chief', 'brain', 'pass', 'nous', 'lead', 'psyche', 'headspring', 'question', 'foreland']",The Ikon
+upper,"['pep_pill', 'upper_berth', 'amphetamine', 'speed', 'upper']",The Ikon
+picked,"['nibble', 'find_fault', 'pluck', 'break_up', 'peck', 'beak', 'pick', 'piece', 'foot', 'clean', 'blame', 'plunk', 'cull']",The Ikon
+box,"['box', 'package', 'boxwood', 'corner', 'box_seat', 'loge', 'boxful']",The Ikon
+leather,['leather'],The Ikon
+shipyards,['shipyard'],The Ikon
+each,"['from_each_one', 'each', 'apiece', 'to_each_one', 'for_each_one']",The Ikon
+gained,"['gather', 'make_headway', 'attain', 'realize', 'realise', 'gain', 'make', 'derive', 'pull_ahead', 'gain_ground', 'arrive_at', 'win', 'reach', 'advance', 'acquire', 'put_on', 'clear', 'bring_in', 'earn', 'benefit', 'pull_in', 'get_ahead', 'profit', 'hit', 'take_in']",The Ikon
+alongside,"['aboard', 'alongside']",The Ikon
+stumps,"['ambo', 'tree_stump', 'dais', 'podium', 'mix_up', 'rostrum', 'stump', 'stamp', 'soapbox', 'stomp', 'pulpit']",The Ikon
+forward,"['frontwards', 'forward-moving', 'fore', 'send_on', 'forrad', 'onward', 'frontward', 'forward', 'ahead', 'onwards', 'forrard', 'forrader', 'forth', 'advancing', 'forwards']",The Ikon
+White,"['Edward_D._White', 'Andrew_D._White', 'Andrew_Dickson_White', 'white', 'ovalbumin', 'clean', 'Edward_Douglas_White_Jr.', 'albumen', 'whitened', 'Patrick_Victor_Martindale_White', 'Caucasian', 'egg_white', 'White_person', 'whiten', 'White', 'T._H._White', 'flannel', 'livid', 'blanched', 'ashen', 'Theodore_Harold_White', 'blank', 'bloodless', 'whiteness', 'tweed', 'white-hot', 'White_River', 'gabardine', 'Patrick_White', 'Stanford_White', 'E._B._White', 'snowy', 'Edward_White', 'Elwyn_Brooks_White', 'lily-white']",The Ikon
+protective,['protective'],The Ikon
+high,"['high_school', 'highschool', 'gamey', 'gamy', 'mellow', 'luxuriously', 'heights', 'in_high_spirits', 'high', 'high_gear', 'high-pitched', 'senior_high', 'high_up', 'eminent', 'richly', 'senior_high_school']",The Ikon
+even,"['regular', 'flush', 'even_out', 'eve', 'evening', 'tied', 'fifty-fifty', 'level', 'yet', 'eventide', 'even', 'still']",The Ikon
+This,[],The Ikon
+order,"['ordain', 'fiat', 'parliamentary_law', 'regulate', 'regularise', 'say', 'orderliness', 'club', 'range', 'enjoin', 'arrange', 'social_club', 'order_of_magnitude', 'place', 'gild', 'regularize', 'tell', 'parliamentary_procedure', 'Order', 'consecrate', 'guild', 'order', 'rank', 'ordination', 'lodge', 'dictate', 'rate', 'society', 'ordering', 'monastic_order', 'govern', 'set_up', 'put', 'rules_of_order', 'ordinate', 'decree', 'Holy_Order', 'rescript', 'prescribe', 'grade', 'purchase_order', 'edict']",The Ikon
+worked,"['make_for', 'ferment', 'mould', 'do_work', 'cultivate', 'function', 'influence', 'puzzle_out', 'mold', 'make', 'forge', 'put_to_work', 'process', 'bring', 'work_on', 'knead', 'work_out', 'solve', 'operate', 'exploit', 'exercise', 'turn', 'shape', 'wreak', 'figure_out', 'run', 'act', 'lick', 'work', 'go', 'form', 'sour', 'crop', 'play', 'act_upon']",The Ikon
+combat,"['armed_combat', 'combat', 'scrap', 'fight', 'battle', 'fighting']",The Ikon
+safety,"['prophylactic', 'safety', 'safety_device', 'rubber', 'condom', 'safe', 'guard', 'base_hit', 'refuge']",The Ikon
+chunks,"['ball', 'chunk', 'glob', 'collocate', 'lump', 'clump', 'clod']",The Ikon
+cigarette,"['butt', 'coffin_nail', 'fag', 'cigarette', 'cigaret']",The Ikon
+days,"['sidereal_day', 'Clarence_Day', 'years', 'daytime', 'days', '24-hour_interval', 'twenty-four_hour_period', 'mean_solar_day', 'day', 'Day', 'twenty-four_hours', 'solar_day', 'daylight', 'Clarence_Shepard_Day_Jr.']",The Ikon
+grenade,['grenade'],The Ikon
+mess,"['muckle', 'deal', 'mickle', 'fix', 'mint', 'heap', 'pot', 'quite_a_little', 'kettle_of_fish', 'muddle', 'spate', 'wad', 'passel', 'mussiness', 'flock', 'good_deal', 'pickle', 'batch', 'peck', 'pile', 'mass', 'jam', 'lot', 'mess', 'mess_up', 'hatful', 'plenty', 'raft', 'hole', 'mountain', 'sight', 'tidy_sum', 'stack', 'messiness', 'muss', 'slew', 'mess_hall', 'great_deal']",The Ikon
+foreigner,"['noncitizen', 'outlander', 'foreigner', 'outsider', 'alien']",The Ikon
+sizes,"['size', 'sizing', 'size_of_it']",The Ikon
+and,[],The Ikon
+sighing,"['suspire', 'sigh']",The Ikon
+while,"['piece', 'while', 'patch', 'spell']",The Ikon
+go,"['survive', 'pass_away', 'give_way', 'tour', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'cristal', 'go_game', 'live_on', 'plump', 'whirl', 'go_away', 'offer', 'get', 'hold_up', 'operate', 'drop_dead', 'spell', 'pop_off', 'become', 'live', 'turn', 'last', 'belong', 'extend', 'conk', 'start', 'move', 'XTC', 'crack', 'run_low', 'rifle', 'blend_in', 'disco_biscuit', 'run', 'sound', 'endure', 'hold_out', 'give_out', 'break_down', 'choke', 'fling', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'die', 'Adam', 'work', 'ecstasy', 'go', 'kick_the_bucket', 'buy_the_farm', 'hug_drug', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'X']",The Ikon
+kinder,"['genial', 'tolerant', 'kind']",The Ikon
+Certain,"['sure', 'certain', 'sealed']",The Ikon
+set,"['exercise_set', 'pose', 'go_down', 'located', 'stage_set', 'curing', 'plant', 'dictated', 'coiffe', 'fix', 'mark', 'place', 'bent', 'go_under', 'arrange', 'fructify', 'dress', 'typeset', 'fit', 'hardening', 'prepare', 'Seth', 'laid', 'hardened', 'lay_out', 'coif', 'circle', 'limit', 'primed', 'Set', 'fixed', 'localise', 'adjust', 'solidifying', 'solidification', 'position', 'do', 'specify', 'rig', 'congeal', 'ready', 'lot', 'define', 'set_up', 'placed', 'band', 'rigid', 'correct', 'sic', 'coiffure', 'countersink', 'set', 'gear_up', 'jell', 'determine', 'localize', 'put', 'readiness', 'situated', 'determined', 'lay']",The Ikon
+with,[],The Ikon
+we'll,[],The Ikon
+looking,"['appear', 'sounding', 'search', 'looking_at', 'wait', 'expect', 'calculate', 'reckon', 'take_care', 'depend', 'attend', 'look', 'seem', 'looking_for', 'count', 'see', 'face', 'front', 'bet', 'await', 'looking']",The Ikon
+Between,"['betwixt', ""'tween"", 'between']",The Ikon
+gives,"['apply', 'give_way', 'spring', 'gift', 'give', 'grant', 'generate', 'contribute', 'kick_in', 'establish', 'make', 'collapse', 'present', 'founder', 'return', 'chip_in', 'throw', 'consecrate', 'reach', 'open', 'ease_up', 'yield', 'have', 'leave', 'commit', 'springiness', 'pay', 'fall_in', 'afford', 'cave_in', 'dedicate', 'pass_on', 'hold', 'impart', 'hand', 'turn_over', 'move_over', 'devote', 'pass', 'break', 'feed', 'sacrifice', 'render']",The Ikon
+an,"['AN', 'Associate_in_Nursing']",The Ikon
+Joe,[],The Ikon
+security,"['security_measure', 'security_department', 'security_system', 'protection', 'security_measures', 'security', 'surety', 'certificate']",The Ikon
+His,[],The Ikon
+vision,"['visual_modality', 'sight', 'visual_sense', 'imaginativeness', 'imagination', 'vision', 'visual_sensation']",The Ikon
+its,"['information_technology', 'IT']",The Ikon
+Thus,"['thence', 'frankincense', 'gum_olibanum', 'olibanum', 'hence', 'therefore', 'so', 'thusly', 'thus']",The Ikon
+machine,"['motorcar', 'political_machine', 'auto', 'automobile', 'car', 'simple_machine', 'machine']",The Ikon
+them,[],The Ikon
+lulls,"['quiet', 'letup', 'tranquillize', 'tranquillise', 'quieten', 'lull', 'calm_down', 'calm', 'still', 'tranquilize']",The Ikon
+Tonight,"['tonight', 'this_evening', 'this_night']",The Ikon
+patrol,"['patrol', 'police']",The Ikon
+fitted,"['match', 'check', 'fitted', 'outfit', 'go', 'agree', 'equip', 'accommodate', 'conform_to', 'correspond', 'jibe', 'gibe', 'suit', 'meet', 'fit_out', 'tally', 'fit']",The Ikon
+sneaked,"['abstract', 'nobble', 'creep', 'mouse', 'lift', 'pilfer', 'swipe', 'pussyfoot', 'purloin', 'hook', 'filch', 'slip', 'cabbage', 'sneak', 'snarf', 'pinch']",The Ikon
+pointing,"['taper', 'steer', 'manoeuvre', 'channelize', 'level', 'luff', 'head', 'place', 'betoken', 'target', 'point', 'manoeuver', 'show', 'guide', 'maneuver', 'sharpen', 'direct', 'channelise', 'repoint', 'indicate', 'designate', 'charge', 'signal', 'orient', 'aim', 'bespeak']",The Ikon
+said,"['state', 'pronounce', 'enounce', 'read', 'aforesaid', 'aver', 'allege', 'articulate', 'say', 'tell', 'suppose', 'sound_out', 'enunciate', 'said', 'aforementioned', 'enjoin', 'order']",The Ikon
+new,"['fresh', 'newfangled', 'new', 'unexampled', 'raw', 'freshly', 'novel', 'Modern', 'New', 'newly', 'young']",The Ikon
+Then,"['and_so', 'then', 'so', 'and_then']",The Ikon
+Booby,"['boob', 'dope', 'booby', 'pinhead', 'dumbbell', 'dummy']",The Ikon
+Lying,"['dwell', 'lying', 'consist', 'lie', 'lie_in', 'rest', 'prevarication', 'fabrication', 'lie_down']",The Ikon
+nobody,"['cipher', 'cypher', 'nobody', 'nonentity']",The Ikon
+handed,"['pass_on', 'turn_over', 'hand', 'pass', 'give', 'handed', 'reach']",The Ikon
+absorbed,"['immerse', 'engulf', 'soak_up', 'captive', 'ingest', 'assimilate', 'occupy', 'suck_up', 'absorb', 'take_over', 'draw', 'absorbed', 'wrapped', 'engage', 'imbibe', 'suck', 'intent', 'steep', 'enwrapped', 'sop_up', 'plunge', 'engross', 'take_up', 'engrossed', 'take_in']",The Ikon
+subtle,"['elusive', 'pernicious', 'insidious', 'subtle']",The Ikon
+seekers,"['searcher', 'quester', 'seeker']",The Ikon
+furtively,"['on_the_sly', 'furtively']",The Ikon
+exultation,"['jubilancy', 'jubilance', 'jubilation', 'rejoicing', 'exultation']",The Ikon
+body,"['consistency', 'body', 'torso', 'eubstance', 'physical_structure', 'trunk', 'consistence', 'personify', 'soundbox', 'dead_body', 'organic_structure']",The Ikon
+colonel,['colonel'],The Ikon
+tremble,"['tremble', 'shake', 'shiver']",The Ikon
+mention,"['reference', 'cite', 'mention', 'honorable_mention', 'acknowledgment', 'citation', 'name', 'refer', 'note', 'bring_up', 'remark', 'advert', 'credit', 'quotation', 'observe']",The Ikon
+low,"['humiliated', 'broken', 'humbled', 'first_gear', 'humble', 'dispirited', 'low-pitched', 'scummy', 'Low', 'gloomy', 'modest', 'miserable', 'lowly', 'Sir_David_Low', 'first', 'low-toned', 'grim', 'depressed', 'low-spirited', 'Sir_David_Alexander_Cecil_Low', 'low', 'crushed', 'depression', 'depleted', 'low-down', 'abject', 'low_gear', 'downcast', 'downhearted', 'scurvy', 'moo', 'down', 'blue', 'David_Low', 'small', 'down_in_the_mouth']",The Ikon
+had,"['experience', 'sustain', 'induce', 'possess', 'take', 'have_got', 'ingest', 'give', 'suffer', 'make', 'cause', 'receive', 'get', 'deliver', 'bear', 'consume', 'own', 'throw', 'accept', 'birth', 'feature', 'have', 'give_birth', 'stimulate', 'let', 'hold', 'take_in']",The Ikon
+jagged,"['jag', 'erose', 'jaggy', 'jagged', 'notched', 'toothed', 'scraggy']",The Ikon
+area,"['orbit', 'domain', 'region', 'surface_area', 'sphere', 'expanse', 'area', 'country', 'arena', 'field']",The Ikon
+setting,"['pose', 'go_down', 'plant', 'context', 'coiffe', 'fix', 'scene', 'mark', 'place', 'go_under', 'arrange', 'fructify', 'dress', 'typeset', 'prepare', 'background', 'stage_setting', 'lay_out', 'coif', 'mount', 'limit', 'localise', 'adjust', 'position', 'do', 'place_setting', 'specify', 'rig', 'congeal', 'ready', 'mise_en_scene', 'define', 'setting', 'scope', 'set_up', 'put', 'correct', 'sic', 'coiffure', 'countersink', 'gear_up', 'jell', 'determine', 'circumstance', 'localize', 'set', 'lay']",The Ikon
+naked,"['nude', 'au_naturel', 'bare', 'raw', 'naked', 'defenseless']",The Ikon
+resist,"['jib', 'protest', 'hold_out', 'reject', 'dissent', 'balk', 'fend', 'withstand', 'stand', 'baulk', 'stand_firm', 'resist', 'refuse', 'defy']",The Ikon
+:,[],The Ikon
+guard,"['sentry_duty', 'safeguard', 'ward', 'safety', 'hold', 'safety_device', 'sentry_go', 'precaution', 'defend', 'guard_duty', 'guard']",The Ikon
+test,"['mental_testing', 'run', 'examine', 'trial', 'prove', 'exam', 'quiz', 'try_out', 'try', 'tryout', 'examination', 'psychometric_test', 'screen', 'test', 'essay', 'trial_run', 'mental_test']",The Ikon
+insistent,"['instant', 'clamant', 'exigent', 'crying', 'repetitive', 'insistent']",The Ikon
+though,['though'],The Ikon
+noise,"['resound', 'dissonance', 'noise', 'racket', 'stochasticity', 'haphazardness', 'make_noise', 'interference', 'randomness', 'disturbance']",The Ikon
+touch,"['trace', 'speck', 'hint', 'tactile_sensation', 'touching', 'cutaneous_senses', 'extend_to', 'disturb', 'tinge', 'impact', 'allude', 'match', 'refer', 'rival', 'mite', 'have-to_doe_with', 'meet', 'touch_sensation', 'signature', 'equal', 'reach', 'pinch', 'contact', 'bear_on', 'affect', 'skin_senses', 'sense_of_touch', 'touch_on', 'relate', 'feeling', 'tactual_sensation', 'tint', 'concern', 'tinct', 'stir', 'adjoin', 'partake', 'touch', 'jot', 'bear_upon', 'spot', 'pertain', 'advert', 'soupcon', 'come_to', 'ghost', 'touch_modality']",The Ikon
+barbed,"['barbellate', 'briery', 'nipping', 'briary', 'barb', 'thorny', 'barbed', 'mordacious', 'burred', 'bristled', 'prickly', 'setose', 'spiny', 'burry', 'pungent', 'setaceous', 'biting', 'bristly']",The Ikon
+On,"['along', 'on']",The Ikon
+While,"['piece', 'while', 'patch', 'spell']",The Ikon
+front,"['social_movement', 'battlefront', 'front_man', 'straw_man', 'movement', 'front_end', 'face', 'front', 'nominal_head', 'figurehead', 'forepart', 'breast', 'presence', 'front_line', 'look', 'strawman']",The Ikon
+down,"['Down', 'pop', 'land', 'belt_down', 'dispirited', 'shoot_down', 'downwards', 'polish', 'gloomy', 'toss_off', 'devour', 'consume', 'knock_down', 'down_feather', 'cut_down', 'depressed', 'grim', 'low-spirited', 'bolt_down', 'pour_down', 'pile', 'downwardly', 'low', 'kill', 'down_pat', 'drink_down', 'pull_down', 'John_L._H._Down', 'mastered', 'downcast', 'downhearted', 'go_through', 'push_down', 'down', 'refine', 'fine-tune', 'blue', 'downward', 'down_in_the_mouth']",The Ikon
+then,"['and_so', 'then', 'so', 'and_then']",The Ikon
+Over,"['over', 'all_over', 'terminated', 'concluded', 'complete', ""o'er"", 'ended']",The Ikon
+day,"['sidereal_day', 'Clarence_Day', 'daytime', '24-hour_interval', 'twenty-four_hour_period', 'mean_solar_day', 'day', 'Day', 'twenty-four_hours', 'solar_day', 'daylight', 'Clarence_Shepard_Day_Jr.']",The Ikon
+imprisoned,"['jail', 'remand', 'confined', 'gaol', 'imprison', 'jug', 'lag', 'jailed', 'put_away', 'captive', 'put_behind_bars', 'immure', 'incarcerate', 'imprisoned']",The Ikon
+forms,"['mould', 'conformation', 'manakin', 'configuration', 'strain', 'spring', 'take_shape', 'flesh', 'mold', 'kind', 'make', 'forge', 'anatomy', 'material_body', 'mannikin', 'descriptor', 'variant', 'organise', 'signifier', 'shape', 'frame', 'word_form', 'manikin', 'human_body', 'bod', 'build', 'cast', 'pattern', 'course', 'figure', 'soma', 'contour', 'sort', 'work', 'physical_body', 'phase', 'physique', 'form', 'organize', 'take_form', 'chassis', 'variety', 'var.', 'constitute', 'imprint', 'class', 'mannequin', 'grade']",The Ikon
+held,"['apply', 'arrest', 'confine', 'admit', 'sustain', 'hold_in', 'concord', 'held', 'support', 'defy', 'reserve', 'oblige', 'moderate', 'take', 'have_got', 'give', 'prevail', 'nurse', 'keep', 'harbor', 'make', 'adjudge', 'check', 'hold_up', 'bear', 'accommodate', 'declare', 'harbour', 'withstand', 'throw', 'halt', 'take_for', 'hold_back', 'view_as', 'retain', 'contain', 'take_hold', 'have', 'maintain', 'obtain', 'guard', 'bind', 'obligate', 'go_for', 'control', 'entertain', 'carry', 'curb', 'concur', 'deem', 'hold', 'agree', 'restrain', 'defend', 'keep_back', 'book']",The Ikon
+severed,"['sever', 'break_up', 'lop', 'severed', 'cut_off', 'discerp']",The Ikon
+demons,"['devil', 'ogre', 'demon', 'fiend', 'daimon', 'monster', 'daemon']",The Ikon
+retreat,"['retirement', 'pull_away', 'crawfish', 'move_back', 'recede', 'retrograde', 'hideaway', ""pull_in_one's_horns"", 'retire', 'crawfish_out', 'retreat', 'back_away', 'withdraw', 'pull_back', 'back_out', 'draw_back']",The Ikon
+moving,"['displace', 'prompt', 'moving', 'locomote', 'be_active', 'propel', 'actuate', 'move', 'make_a_motion', 'affect', 'run', 'impress', 'motivate', 'strike', 'travel', 'incite', 'act', 'go', 'proceed']",The Ikon
+seen,"['experience', 'watch', 'get_a_line', 'view', 'regard', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'discover', 'hear', 'pick_up', 'date', 'run_into', 'encounter', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'go_steady', 'consider', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'examine', 'go_through', 'see', 'get_word', 'visualize', 'ascertain', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Ikon
+tear,"['bout', 'binge', 'deplume', 'tear', 'pull', 'snag', 'shoot_down', 'rupture', 'split', 'shoot', 'deplumate', 'teardrop', 'bust', 'rip', 'buck', 'snap', 'pluck', 'charge', 'rent', 'displume']",The Ikon
+others,[],The Ikon
+restless,"['unsatisfied', 'ungratified', 'uneasy', 'restless']",The Ikon
+enough,"['plenty', 'adequate', 'sufficiency', 'decent', 'enough']",The Ikon
+leered,['leer'],The Ikon
+Warren's,[],The Ikon
+other,"['former', 'early', 'other']",The Ikon
+mortar,"['mortar', 'howitzer', 'trench_mortar']",The Ikon
+explode,"['blow_up', 'detonate', 'burst', 'set_off', 'explode', 'irrupt', 'break_loose', 'burst_forth']",The Ikon
+speechlessness,['speechlessness'],The Ikon
+own,"['ain', 'own', 'have', 'possess']",The Ikon
+truth,"['true_statement', 'Truth', 'accuracy', 'Sojourner_Truth', 'truth', 'verity', 'the_true', 'trueness']",The Ikon
+also,"['likewise', 'as_well', 'too', 'besides', 'also']",The Ikon
+edge,"['adjoin', 'march', 'inch', 'butt', 'butt_against', 'butt_on', 'boundary', 'border', 'edge', 'bound', 'sharpness', 'abut']",The Ikon
+show,"['prove', 'read', 'establish', 'express', 'register', 'record', 'shew', 'evidence', 'point', 'present', 'display', 'show', 'demonstrate', 'show_up', 'usher', 'picture', 'evince', 'testify', 'appearance', 'indicate', 'designate', 'depict', 'demo', 'bear_witness', 'exhibit', 'render']",The Ikon
+reach,"['orbit', 'grasp', 'reach_out', 'attain', 'extend_to', 'strain', 'progress_to', 'get_hold_of', 'give', 'gain', 'range', 'make', 'compass', 'arrive_at', 'achieve', 'reach', 'contact', 'stretch', 'accomplish', 'get_through', 'scope', 'pass_on', 'turn_over', 'touch', 'hand', 'ambit', 'strive', 'pass', 'get_to', 'hit', 'reaching']",The Ikon
+cooled,"['cool', 'cool_down', 'chill', 'cool_off']",The Ikon
+carrying,"['dribble', 'post', 'take', 'behave', 'channel', 'conduct', 'express', 'transmit', 'stockpile', 'bear', 'comport', 'expect', 'extend', 'have_a_bun_in_the_oven', 'contain', 'run', 'persuade', 'transport', 'acquit', 'sway', 'carry', 'gestate', 'hold', 'impart', 'deport', 'pack', 'stock', 'convey']",The Ikon
+do,"['make_out', 'come', 'Doctor_of_Osteopathy', 'ut', 'answer', 'coiffe', 'doh', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'practice', 'exercise', 'brawl', 'do', 'manage', 'DO', 'practise', 'act', 'bash', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Ikon
+vocal,"['outspoken', 'song', 'vocal_music', 'vocal']",The Ikon
+threatening,"['jeopardise', 'menacing', 'jeopardize', 'peril', 'baleful', 'sinister', 'menace', 'forbidding', 'threatening', 'ominous', 'endanger', 'minacious', 'imperil', 'sullen', 'minatory', 'lowering', 'heavy', 'threaten']",The Ikon
+that,[],The Ikon
+grip,"['clasp', 'grasp', 'handgrip', 'travelling_bag', 'transfix', 'fascinate', 'adhesive_friction', 'traction', 'handle', 'grapple', 'clench', 'bag', 'grip', 'traveling_bag', 'suitcase', 'clutches', 'hold', 'hairgrip', 'clutch', 'bobby_pin', 'spellbind']",The Ikon
+ROK's,[],The Ikon
+Browning,"['brown', 'toasting', 'browning', 'Browning', 'Robert_Browning', 'John_M._Browning', 'Elizabeth_Barrett_Browning', 'John_Moses_Browning', 'embrown']",The Ikon
+grass,"['stag', 'give_away', 'Gunter_Grass', 'pasture', 'gage', 'shit', 'denounce', 'weed', 'pot', 'forage', 'skunk', 'green_goddess', 'sess', 'dope', 'Gunter_Wilhelm_Grass', 'grass_over', 'Grass', 'shop', 'snitch', 'grass', 'smoke', 'pasturage', 'betray', 'Mary_Jane', 'rat', 'sens', 'supergrass', 'eatage', 'locoweed', 'tell_on']",The Ikon
+handlebars,['handlebar'],The Ikon
+Be,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'beryllium', 'Be', 'comprise', 'live', 'constitute', 'equal', 'glucinium', 'personify', 'atomic_number_4']",The Ikon
+handless,"['handgrip', 'deal', 'bumbling', 'cover', 'treat', 'ham-handed', 'left-handed', 'ham-fisted', 'plow', 'palm', 'handle', 'butterfingered', 'manage', 'grip', 'bungling', 'do_by', 'handless', 'address', 'hold', 'wield', 'heavy-handed', 'care']",The Ikon
+flattered,"['flatter', 'blandish']",The Ikon
+ammunition,"['ammo', 'ammunition']",The Ikon
+Abbey,['abbey'],The Ikon
+shoulder,"['shoulder', 'shoulder_joint', 'articulatio_humeri', 'berm']",The Ikon
+band,"['dance_orchestra', 'band', 'striation', 'stria', 'stripe', 'ring', 'banding', 'isthmus', 'circle', 'dance_band', 'lot', 'set']",The Ikon
+Although,[],The Ikon
+edges,"['adjoin', 'march', 'inch', 'butt', 'butt_against', 'butt_on', 'boundary', 'border', 'edge', 'bound', 'sharpness', 'abut']",The Ikon
+barely,"['barely', 'scarce', 'just', 'scarcely', 'hardly', 'scantily']",The Ikon
+pregnant,"['pregnant', 'significant', 'meaning', 'fraught']",The Ikon
+became,"['get', 'go', 'become', 'turn', 'suit']",The Ikon
+bell,"['Melville_Bell', ""ship's_bell"", 'buzzer', 'toll', 'doorbell', 'campana', 'Alexander_Bell', 'chime', 'Vanessa_Bell', 'Bell', 'bell_shape', 'Vanessa_Stephen', 'bell', 'Alexander_Melville_Bell', 'gong', 'Alexander_Graham_Bell']",The Ikon
+thrusting,"['thrust', 'pierce', 'hurtle', 'hurl', 'throw', 'squeeze', 'poking', 'thrusting', 'stuff', 'force', 'push_up', 'shove', 'jabbing', 'poke', 'lunge', 'jab']",The Ikon
+east,"['eastward', 'East', 'Orient', 'eastern_United_States', 'E', 'east', 'due_east']",The Ikon
+ten,"['ten', 'tenner', '10', 'x', 'decade', 'ten-spot', 'X']",The Ikon
+Mines,['mine'],The Ikon
+beliefs,"['notion', 'feeling', 'impression', 'opinion', 'belief']",The Ikon
+abortion,"['abortion', 'miscarriage']",The Ikon
+moment,"['present_moment', 'minute', 'bit', 'import', 'moment', 'consequence', 'here_and_now', 'mo', 'second', 'instant']",The Ikon
+At,"['astatine', 'atomic_number_85', 'at', 'At']",The Ikon
+Pressing,"['beseech', 'adjure', 'urgent', 'urge_on', 'weight-lift', 'constrict', 'urge', 'press', 'contract', 'entreat', 'exhort', 'weightlift', 'pressing', 'squeeze', 'campaign', 'pressure', 'agitate', 'compress', 'weigh', 'push', 'conjure', 'compact', 'iron_out', 'bid', 'press_out', 'iron', 'fight', 'crusade']",The Ikon
+arm,"['subdivision', 'build_up', 'gird', 'branch', 'weapon', 'weapon_system', 'limb', 'sleeve', 'arm', 'fortify']",The Ikon
+valley,"['vale', 'valley']",The Ikon
+when,[],The Ikon
+anger,"['choler', 'ire', 'wrath', 'anger', 'see_red', 'angriness', 'ira']",The Ikon
+bring,"['wreak', 'make_for', 'fetch', 'work', 'add', 'get', 'bring', 'land', 'impart', 'bestow', 'contribute', 'bring_in', 'play', 'take', 'institute', 'lend', 'convey']",The Ikon
+bicycle,"['wheel', 'bicycle', 'cycle', 'pedal', 'bike']",The Ikon
+expert,"['technical', 'proficient', 'good', 'skillful', 'expert', 'skilful', 'adept', 'practiced']",The Ikon
+medieval,"['gothic', 'knightly', 'mediaeval', 'medieval', 'chivalric']",The Ikon
+mutely,"['wordlessly', 'silently', 'mutely', 'taciturnly']",The Ikon
+within,"['within', 'inside']",The Ikon
+hidden,"['hide', 'hide_out', 'enshroud', 'obscure', 'obliterate', 'concealed', 'hidden', 'veil', 'out_of_sight', 'secret', 'cover', 'shroud', 'conceal', 'blot_out']",The Ikon
+help,"['service', 'assistant', 'assistance', 'help', 'aid', 'serve', 'avail', 'help_oneself', 'supporter', 'assist', 'helper', 'facilitate']",The Ikon
+2130,[],The Ikon
+clue,"['cue', 'clew', 'clue', 'hint']",The Ikon
+spill,"['slop', 'release', 'fall', 'splatter', 'run_out', 'pour_forth', 'spill', 'disgorge', 'talk', 'spillage', 'shed', 'spillway', 'wasteweir', 'tumble']",The Ikon
+poems,"['poem', 'verse_form']",The Ikon
+embankment,['embankment'],The Ikon
+sprouting,"['bourgeon', 'sprout', 'spud', 'shoot', 'burgeon_forth', 'germinate', 'pullulate', 'sprouting', 'stock', 'germination']",The Ikon
+precious,"['wanted', 'cute', 'treasured', 'cherished', 'valued', 'precious', 'preciously']",The Ikon
+figure,"['digit', 'fig', 'flesh', 'number', 'envision', 'estimate', 'trope', 'anatomy', 'material_body', 'public_figure', 'name', 'work_out', 'design', 'figure_of_speech', 'image', 'count_on', 'calculate', 'cipher', 'frame', 'shape', 'reckon', 'enter', 'forecast', 'cypher', 'picture', 'human_body', 'bod', 'build', 'fancy', 'pattern', 'project', 'figure', 'soma', 'physical_body', 'physique', 'form', 'see', 'visualize', 'compute', 'chassis', 'visualise']",The Ikon
+Who,"['WHO', 'World_Health_Organization']",The Ikon
+can,"['seat', 'displace', 'rear', 'give_the_sack', 'canful', 'lav', 'behind', 'stool', 'fanny', 'bum', 'toilet', 'commode', 'buttocks', 'lavatory', 'pot', 'give_notice', 'tin_can', 'can_buoy', 'privy', 'fire', 'force_out', 'butt', 'send_away', 'sack', 'backside', 'posterior', 'tail', 'bathroom', 'tail_end', 'john', 'tush', 'potty', 'give_the_axe', 'arse', 'tin', 'prat', 'rear_end', 'hind_end', 'bottom', 'put_up', 'crapper', 'buns', 'can', 'dismiss', 'nates', 'keister', 'fundament', 'hindquarters', 'stern', 'ass', 'rump', 'tooshie', 'throne', 'terminate', 'derriere']",The Ikon
+traps,"['sand_trap', 'ensnare', 'maw', 'trap', 'ambuscade', 'immobilise', 'cakehole', 'gob', 'trammel', 'ambush', 'immobilize', 'pin_down', 'lying_in_wait', 'entrap', 'snare', 'pin', 'hole', 'bunker', 'yap']",The Ikon
+attempt,"['attempt', 'set_about', 'seek', 'try', 'effort', 'endeavour', 'undertake', 'assay', 'attack', 'essay', 'endeavor']",The Ikon
+eye,"['eye', 'center', 'eyeball', 'optic', 'centre', 'middle', 'heart', 'oculus']",The Ikon
+rigid,"['unbending', 'stiff', 'rigid', 'inflexible', 'fixed', 'set', 'strict']",The Ikon
+slowly,"['tardily', 'slowly', 'lento', 'easy', 'slow']",The Ikon
+strip,"['striptease', 'leach', 'strip_show', 'clean', 'pillage', 'denudate', 'foray', 'airstrip', 'cartoon_strip', 'undress', 'deprive', 'ransack', 'plunder', 'loot', 'rifle', 'denude', 'disrobe', 'bare', 'landing_strip', 'disinvest', 'peel', 'dismantle', 'discase', 'funnies', 'despoil', 'strip_down', 'strip', 'uncase', 'unclothe', 'slip', 'reave', 'comic_strip', 'divest', 'flight_strip']",The Ikon
+trees,"['Sir_Herbert_Beerbohm_Tree', 'shoetree', 'corner', 'tree_diagram', 'Tree', 'tree']",The Ikon
+beaming,"['radiate', 'transmit', 'glow', 'shine', 'beam', 'effulgent', 'air', 'beamy', 'send', 'beaming', 'refulgent', 'glad', 'radiant', 'broadcast']",The Ikon
+met,"['fulfil', 'gather', 'forgather', 'assemble', 'suffer', 'fit', 'match', 'get_together', 'run_into', 'receive', 'encounter', 'conform_to', 'cope_with', 'meet', 'contact', 'take_on', 'converge', 'foregather', 'satisfy', 'run_across', 'fulfill', 'adjoin', 'touch', 'see', 'play', 'fill', 'come_across']",The Ikon
+compliments,"['compliment', 'wish', 'regard', 'congratulate', 'compliments']",The Ikon
+clips,"['nip_off', 'snip', 'cut_short', 'cut_back', 'clip', 'dress', 'trot', 'prune', 'clipping', 'nip', 'snip_off', 'cartridge_clip', 'jog', 'cartridge_holder', 'lop', 'curtail', 'crop', 'magazine', 'trim', 'time']",The Ikon
+questions,"['oppugn', 'motion', 'interrogative', 'doubt', 'interrogative_sentence', 'enquiry', 'wonder', 'call_into_question', 'doubtfulness', 'interrogate', 'question', 'head', 'interrogation', 'dubiousness', 'interview', 'inquiry', 'query']",The Ikon
+there,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Ikon
+womb,"['uterus', 'womb']",The Ikon
+visited,"['travel_to', 'call', 'inspect', 'impose', 'inflict', 'confabulate', 'chatter', 'gossip', 'chew_the_fat', 'chaffer', 'chitchat', 'jaw', 'shoot_the_breeze', 'bring_down', 'chat', 'natter', 'see', 'call_in', 'confab', 'visit', 'claver', 'chit-chat']",The Ikon
+man,"['military_man', 'man', 'mankind', 'homo', 'valet', 'human_beings', 'valet_de_chambre', 'world', ""gentleman's_gentleman"", 'humans', 'gentleman', 'serviceman', 'Man', 'Isle_of_Man', 'human', 'military_personnel', 'human_being', 'piece', 'humanity', 'humankind', 'adult_male', 'human_race']",The Ikon
+led,"['moderate', 'take', 'head', 'contribute', 'conduce', 'conduct', 'precede', 'extend', 'chair', 'top', 'guide', 'LED', 'run', 'direct', 'leave', 'light-emitting_diode', 'go', 'pass', 'lead', 'result']",The Ikon
+insult,"['diss', 'insult', 'revilement', 'vilification', 'contumely', 'affront', 'abuse']",The Ikon
+It,"['information_technology', 'IT']",The Ikon
+illuminated,"['illuminated', 'crystallize', 'lighted', 'sort_out', 'lit', 'straighten_out', 'enlighten', 'illume', 'elucidate', 'crystalize', 'clear', 'shed_light_on', 'crystalise', 'light', 'illuminate', 'clear_up', 'well-lighted', 'light_up', 'crystallise', 'illumine']",The Ikon
+mine,['mine'],The Ikon
+behind,"['seat', 'rear', 'behind', 'fanny', 'bum', 'buttocks', 'slow', 'butt', 'backside', 'posterior', 'tail', 'tail_end', 'tush', 'arse', 'prat', 'rear_end', 'hind_end', 'bottom', 'behindhand', 'buns', 'can', 'nates', 'keister', 'fundament', 'hindquarters', 'stern', 'ass', 'rump', 'tooshie', 'derriere', 'in_arrears']",The Ikon
+gray,"['gray', 'Gy', 'Gray', 'greyness', 'Asa_Gray', 'gray-haired', 'hoary', 'gray-headed', 'grey-headed', 'white-haired', 'Thomas_Gray', 'grizzly', 'Robert_Gray', 'grey', 'Louis_Harold_Gray', 'grayness', 'hoar', 'grayish', 'greyish', 'grey-haired']",The Ikon
+French,"['Gallic', 'French_people', 'French', 'Daniel_Chester_French']",The Ikon
+protestations,"['protestation', 'protest']",The Ikon
+say,"['state', 'pronounce', 'enounce', 'read', 'aver', 'allege', 'articulate', 'say', 'tell', 'suppose', 'sound_out', 'enunciate', 'enjoin', 'order']",The Ikon
+healthiest,"['intelligent', 'good_for_you', 'salubrious', 'levelheaded', 'sound', 'healthy', 'sizable', 'sizeable', 'goodly', 'level-headed', 'hefty', 'goodish', 'respectable', 'tidy']",The Ikon
+head,"['steer', 'fountainhead', 'principal', 'manoeuvre', 'channelize', 'read/write_head', 'head', 'capitulum', 'promontory', 'top_dog', 'headland', 'mind', 'school_principal', 'point', 'manoeuver', 'headway', 'guide', 'caput', 'maneuver', 'head_teacher', 'direct', 'forefront', 'channelise', 'head_word', 'heading', 'straits', 'header', 'oral_sex', 'drumhead', 'head_up', 'chief', 'brain', 'pass', 'nous', 'lead', 'psyche', 'headspring', 'question', 'foreland']",The Ikon
+sitting,"['seat', 'pose', 'seated', 'seance', 'sit_around', 'session', 'ride', 'model', 'posture', 'baby-sit', 'sitting', 'posing', 'sit_down', 'sit']",The Ikon
+something,[],The Ikon
+pinpoint,"['nail', 'pinpoint', 'speck']",The Ikon
+over,"['over', 'all_over', 'terminated', 'concluded', 'complete', ""o'er"", 'ended']",The Ikon
+wrists,"['wrist', 'radiocarpal_joint', 'articulatio_radiocarpea', 'wrist_joint', 'carpus']",The Ikon
+Our,[],The Ikon
+bouncing,"['take_a_hop', 'rebound', 'bouncing', 'resile', 'jounce', 'zippy', 'bounce', 'spring', 'bouncy', 'spirited', 'reverberate', 'peppy', 'ricochet', 'bound', 'recoil']",The Ikon
+monuments,"['memorial', 'repository', 'monument']",The Ikon
+served,"['service', 'swear_out', 'do', 'process', 'dish_out', 'help', 'serve_up', 'serve', 'dish', 'dish_up', 'function', 'answer', 'attend', 'assist', 'attend_to', 'suffice', 'serve_well', 'wait_on']",The Ikon
+of,[],The Ikon
+straining,"['strain', 'distortion', 'strenuous', 'tense', 'sieve', 'filtrate', 'stress', 'straining', 'overrefinement', 'tense_up', 'twisting', 'extend', 'reach', 'deform', 'filter', 'try', 'separate_out', 'torture', 'arduous', 'strive', 'puree', 'filter_out', 'sift', 'distort']",The Ikon
+being,"['exist', 'organism', 'cost', 'represent', 'existence', 'be', 'make_up', 'embody', 'follow', 'being', 'comprise', 'beingness', 'live', 'constitute', 'equal', 'personify']",The Ikon
+rolling,"['revolve', 'wrap', 'peal', 'wind', 'wheeling', 'range', 'roll_up', 'twine', 'vagabond', 'tramp', 'rolling', 'roll_out', 'drift', 'swan', 'rove', 'rolled', 'wheel', 'roll', 'hustle', 'cast', 'pealing', 'flap', 'trilled', 'undulate', 'pluck', 'stray', 'turn_over', 'seethe', 'wave', 'wander', 'roam', 'ramble']",The Ikon
+took,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'shoot', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'call_for', 'drive', 'contain', 'engage', 'direct', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Ikon
+pointed,"['taper', 'steer', 'manoeuvre', 'channelize', 'level', 'luff', 'head', 'place', 'betoken', 'target', 'point', 'manoeuver', 'show', 'guide', 'pointed', 'maneuver', 'sharpen', 'direct', 'channelise', 'repoint', 'indicate', 'designate', 'charge', 'signal', 'orient', 'aim', 'bespeak']",The Ikon
+likewise,"['likewise', 'as_well', 'too', 'alike', 'besides', 'also', 'similarly']",The Ikon
+raped,"['knap', 'pink', 'ravaged', 'despoiled', 'sacked', 'plunder', 'dishonour', 'knock', 'spoil', 'outrage', 'rap', 'raped', 'ravish', 'tap', 'despoil', 'dishonor', 'pillaged', 'assault', 'rape', 'violate']",The Ikon
+grotesques,['grotesque'],The Ikon
+betties,[],The Ikon
+They,[],The Ikon
+began,"['set_about', 'get', 'lead_off', 'set_out', 'begin', 'commence', 'get_down', 'start', 'start_out']",The Ikon
+unlovely,"['unlovely', 'unpicturesque']",The Ikon
+standing,"['standing', 'tolerate', 'brook', 'endure', 'stomach', 'bear', 'support', 'stand_up', 'place_upright', 'fend', 'stand', 'digest', 'resist', 'put_up', 'abide', 'suffer', 'stick_out', 'remain_firm']",The Ikon
+short,"['short-change', 'unawares', 'short_circuit', 'myopic', 'poor', 'dead', 'brusque', 'little', 'curt', 'curtly', 'inadequate', 'unretentive', 'shortstop', 'short-circuit', 'unforesightful', 'suddenly', 'abruptly', 'light', 'forgetful', 'shortsighted', 'short', 'scant', 'shortly', 'brusk']",The Ikon
+far,"['FAR', 'Army_for_the_Liberation_of_Rwanda', 'far', 'ALIR', 'Former_Armed_Forces', 'Interahamwe']",The Ikon
+sky,"['pitch', 'flip', 'sky', 'toss']",The Ikon
+2230,[],The Ikon
+same,"['Saami', 'Lapp', 'Lapplander', 'like', 'Same', 'same', 'Saame', 'Sami']",The Ikon
+book,"['book', 'script', 'Holy_Writ', 'reserve', 'record', 'Bible', 'record_book', 'leger', 'Word_of_God', 'Word', 'book_of_account', 'Quran', 'rule_book', 'Holy_Scripture', 'account_book', 'Scripture', 'Koran', 'playscript', 'hold', 'ledger', ""al-Qur'an"", 'Christian_Bible', 'Good_Book', 'Book', 'volume']",The Ikon
+coward,"['coward', 'Coward', 'Noel_Coward', 'Sir_Noel_Pierce_Coward']",The Ikon
+simultaneously,"['at_the_same_time', 'simultaneously']",The Ikon
+bandoleers,"['bandoleer', 'bandolier']",The Ikon
+used,"['utilise', 'apply', 'victimised', 'used', 'secondhand', 'expend', 'ill-used', 'exploited', 'put-upon', 'use', 'practice', 'utilize', 'victimized', 'employ', 'habituate']",The Ikon
+aware,"['cognisant', 'cognizant', 'mindful', 'aware']",The Ikon
+Smiling,"['grin', 'twinkly', 'grinning', 'smile', 'smiling', 'beamish']",The Ikon
+carried,"['dribble', 'post', 'take', 'behave', 'channel', 'conduct', 'express', 'transmit', 'stockpile', 'bear', 'comport', 'expect', 'extend', 'have_a_bun_in_the_oven', 'contain', 'run', 'persuade', 'transport', 'acquit', 'sway', 'carry', 'gestate', 'hold', 'impart', 'deport', 'pack', 'stock', 'convey']",The Ikon
+branch,"['subdivision', 'offshoot', 'branch', 'furcate', 'outgrowth', 'separate', 'limb', 'fork', 'arm', 'leg', 'offset', 'ramification', 'ramify']",The Ikon
+But,"['but', 'simply', 'just', 'only', 'merely']",The Ikon
+along,"['along', 'on']",The Ikon
+gnaw,"['erode', 'gnaw_at', 'gnaw', 'wear_away', 'eat_at']",The Ikon
+clean,"['cleanse', 'fair', 'sporty', 'white', 'clean', 'unobjectionable', 'fresh', 'plumb', 'clean-living', 'unclouded', 'neat', 'fairly', 'sporting', 'clear', 'make_clean', 'sportsmanlike', 'clean_and_jerk', 'clean_house', 'scavenge', 'light', 'pick', 'houseclean', 'strip', 'plum', 'uninfected', 'uncontaminating', 'blank']",The Ikon
+Brest,['Brest'],The Ikon
+spoken,"['utter', 'spoken', 'address', 'talk', 'mouth', 'verbalize', 'verbalise', 'speak']",The Ikon
+picking,"['nibble', 'find_fault', 'pluck', 'break_up', 'peck', 'beak', 'pick', 'piece', 'foot', 'clean', 'blame', 'picking', 'plunk', 'cull']",The Ikon
+Warren,"['warren', 'Robert_Penn_Warren', 'Earl_Warren', 'rabbit_warren', 'Warren']",The Ikon
+From,[],The Ikon
+train,"['educate', 'rail', 'railroad_train', 'school', 'wagon_train', 'cultivate', 'take', 'train', 'develop', 'gear', 'prepare', 'discipline', 'string', 'caravan', 'groom', 'trail', 'condition', 'power_train', 'civilise', 'direct', 'coach', 'geartrain', 'gearing', 'civilize', 'check', 'aim', 'take_aim']",The Ikon
+strange,"['unknown', 'strange', 'unusual', 'foreign']",The Ikon
+hear,"['listen', 'get_a_line', 'take_heed', 'see', 'get_word', 'try', 'get_wind', 'learn', 'find_out', 'discover', 'hear', 'pick_up']",The Ikon
+gun,"['gun_for_hire', 'gun', 'hitman', 'gunman', 'artillery', 'accelerator', 'gas', 'hit_man', 'ordnance', 'gas_pedal', 'hired_gun', 'torpedo', 'accelerator_pedal', 'throttle', 'shooter', 'heavy_weapon', 'triggerman', 'gunslinger', 'grease-gun']",The Ikon
+perilous,"['perilous', 'touch-and-go', 'precarious', 'parlous']",The Ikon
+There,"['in_that_respect', 'on_that_point', 'at_that_place', 'in_that_location', 'thither', 'there']",The Ikon
+life,"['life_sentence', 'life', 'life-time', 'aliveness', 'animation', 'lifetime', 'lifespan', 'life_story', 'life_history', 'liveliness', 'living', 'sprightliness', 'spirit', 'biography']",The Ikon
+Solesmes,[],The Ikon
+imaginary,"['complex_number', 'fanciful', 'notional', 'imaginary', 'imaginary_number', 'complex_quantity']",The Ikon
+You,[],The Ikon
+like,"['wish', 'the_likes_of', 'alike', 'like', 'ilk', 'similar', 'same', 'comparable', 'corresponding', 'the_like', 'care']",The Ikon
+cathedrals,"['duomo', 'cathedral']",The Ikon
+Above,"['higher_up', 'to_a_higher_place', 'in_a_higher_place', 'supra', 'above']",The Ikon
+listening,"['listen', 'mind', 'take_heed', 'heed', 'hearing', 'listening', 'hear']",The Ikon
+intermittent,['intermittent'],The Ikon
+rifle,"['strip', 'go', 'ransack', 'pillage', 'reave', 'plunder', 'loot', 'rifle', 'despoil', 'foray']",The Ikon
+night,"['nighttime', 'Night', 'Nox', 'dark', 'night']",The Ikon
+from,[],The Ikon
+Oh,"['Ohio', 'Buckeye_State', 'OH']",The Ikon
+cloth,"['fabric', 'cloth', 'textile', 'material']",The Ikon
+nearest,"['penny-pinching', 'cheeseparing', 'nighest', 'closest', 'nearest', 'dear', 'good', 'nigh', 'skinny', 'close', 'approximate', 'near']",The Ikon
+infirmity,"['feebleness', 'frailness', 'valetudinarianism', 'infirmity', 'frailty', 'debility']",The Ikon
+defying,"['dare', 'hold', 'hold_up', 'withstand', 'resist', 'refuse', 'defy']",The Ikon
+war,"['state_of_war', 'warfare', 'war']",The Ikon
+way,"['means', 'right_smart', 'room', 'mode', 'style', 'fashion', 'way_of_life', 'manner', 'agency', 'path', 'elbow_room', 'way', 'direction']",The Ikon
+all,"['altogether', 'entirely', 'whole', 'completely', 'wholly', 'all', 'totally']",The Ikon
+so,"['sol', 'thence', 'soh', 'indeed', 'then', 'hence', 'and_then', 'and_so', 'therefore', 'so', 'thusly', 'thus']",The Ikon
+Somehow,"['someway', 'in_some_way', 'somehow', 'in_some_manner', 'someways']",The Ikon
+rows,"['wrangle', 'words', 'rowing', 'quarrel', 'course', 'dustup', 'row', 'run-in']",The Ikon
+light,"['lighting', 'lightness', 'dismount', 'get_off', 'tripping', 'visible_light', 'Inner_Light', 'wakeful', 'sluttish', 'Light_Within', 'clean', 'swooning', 'get_down', 'unhorse', 'lite', 'easy', 'light-headed', 'perch', 'weak', 'sparkle', 'lightheaded', 'unaccented', 'light-colored', 'calorie-free', 'lightsome', 'promiscuous', 'brightness', 'illume', 'ignite', 'low-cal', 'fire_up', 'spark', 'alight', 'unclouded', 'Christ_Within', 'abstemious', 'visible_radiation', 'idle', 'luminance', 'clear', 'luminosity', 'light_source', 'twinkle', 'ignitor', 'brightness_level', 'illumination', 'light', 'faint', 'illuminate', 'short', 'lighter', 'Light', 'fall', 'wanton', 'scant', 'lightly', 'light_up', 'igniter', 'loose', 'luminousness', 'illumine']",The Ikon
+France,"['Anatole_France', 'Jacques_Anatole_Francois_Thibault', 'France', 'French_Republic']",The Ikon
+four,"['tetrad', 'Little_Joe', 'quatern', 'quaternion', 'IV', 'quaternary', 'foursome', 'four-spot', 'iv', 'quadruplet', 'quaternity', 'quartet', 'four', '4']",The Ikon
+I,"['I', 'unity', 'iodine', 'atomic_number_53', '1', 'ace', 'single', 'ane', 'iodin', 'i', 'one']",The Ikon
+thought,"['opine', 'imagine', 'cerebrate', 'view', 'think', 'idea', 'cogitate', 'believe', 'opinion', 'recall', 'sentiment', 'guess', 'intellection', 'call_up', 'persuasion', 'reckon', 'mean', 'consider', 'recollect', 'cerebration', 'suppose', 'retrieve', 'intend', 'thought', 'thinking', 'call_back', 'mentation', 'thought_process', 'remember', 'conceive']",The Ikon
+disks,"['disc', 'record', 'phonograph_record', 'platter', 'magnetic_disk', 'phonograph_recording', 'disk', 'saucer', 'magnetic_disc', 'harrow']",The Ikon
+need,"['require', 'involve', 'need', 'motive', 'motivation', 'ask', 'postulate', 'indigence', 'take', 'want', 'demand', 'pauperization', 'necessitate', 'penury', 'pauperism', 'call_for']",The Ikon
+Cried,"['yell', 'cry_out', 'holler', 'shout', 'shout_out', 'exclaim', 'cry', 'squall', 'outcry', 'call_out', 'blazon_out', 'weep', 'hollo', 'scream', 'call']",The Ikon
+eyes,"['eye', 'center', 'eyeball', 'eyes', 'optic', 'centre', 'middle', 'heart', 'oculus']",The Ikon
+what,[],The Ikon
+confused,"['disoriented', 'broken', 'mix_up', 'bedevil', 'fox', 'upset', 'illogical', 'lost', 'confound', 'bemused', 'unconnected', 'mazed', 'garbled', 'fuddle', 'at_sea', 'throw', 'obscure', 'disjointed', 'confounded', 'obnubilate', 'blur', 'scattered', 'baffled', 'disconcert', 'befuddled', 'confused', 'flurry', 'bewildered', 'disconnected', 'jumble', 'discombobulate', 'mixed-up', 'befuddle', 'put_off', 'confuse', 'disordered']",The Ikon
+see,"['experience', 'watch', 'get_a_line', 'view', 'regard', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'discover', 'hear', 'pick_up', 'date', 'run_into', 'encounter', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'go_steady', 'consider', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'examine', 'go_through', 'see', 'get_word', 'visualize', 'ascertain', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Ikon
+armored,"['armoured', 'armor', 'armour', 'armored', 'panoplied']",The Ikon
+Remember,"['commend', 'commemorate', 'call_back', 'recall', 'think_back', 'recollect', 'think', 'remember', 'call_up', 'retrieve', 'think_of']",The Ikon
+stopped,"['arrest', 'block', 'intercept', 'finish', 'lay_off', 'quit', 'cease', 'kibosh', 'block_up', 'blockade', 'halt', 'stop', 'stopped-up', 'end', 'hold_back', 'barricade', 'contain', 'block_off', 'stopped_up', 'bar', 'discontinue', 'turn_back', 'stop_over', 'break_off', 'hold_on', 'stopped', 'terminate', 'break', 'check', 'give_up']",The Ikon
+jumble,"['mix_up', 'smother', 'muddle', ""mare's_nest"", 'welter', 'fuddle', 'jumbal', 'throw_together', 'jumble', 'patchwork', 'clutter', 'scramble', 'mingle', 'hodgepodge', 'confuse']",The Ikon
+asked,"['require', 'involve', 'need', 'enquire', 'postulate', 'take', 'expect', 'necessitate', 'demand', 'ask', 'inquire', 'call_for']",The Ikon
+rifle's,[],The Ikon
+another,"['some_other', 'another']",The Ikon
+climbed,"['rise', 'climb', 'climb_up', 'mount', 'go_up', 'wax']",The Ikon
+magic,"['legerdemain', 'trick', 'magic_trick', 'charming', 'witching', 'illusion', 'conjuring_trick', 'wizardly', 'sorcerous', 'magical', 'conjuration', 'thaumaturgy', 'wizard', 'deception', 'magic']",The Ikon
+ROK,[],The Ikon
+overhang,"['overhang', 'beetle']",The Ikon
+looked,"['seem', 'calculate', 'take_care', 'count', 'appear', 'face', 'see', 'front', 'depend', 'wait', 'attend', 'expect', 'await', 'bet', 'reckon', 'search', 'look']",The Ikon
+Was,"['Evergreen_State', 'exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'WA', 'comprise', 'live', 'constitute', 'Washington', 'equal', 'personify']",The Ikon
+Otherwise,"['otherwise', 'differently', 'other_than']",The Ikon
+We,[],The Ikon
+returning,"['reelect', 'returning', 'take_back', 'give', 'generate', 'refund', 'revert', 'bring_back', 'hark_back', 'recall', 'deliver', 'rejoin', 'reversive', 'return', 'repay', 'give_back', 'regress', 'yield', 'retort', 'riposte', 'retrovert', 'turn_back', 'fall', 'pass', 'come_back', 'devolve', 'reverting', 'render']",The Ikon
+himself,[],The Ikon
+us,"['United_States_of_America', 'u', 'USA', 'uracil', 'U.S.A.', 'US', 'U.S.', 'America', 'U', 'uranium', 'atomic_number_92', 'the_States', 'United_States']",The Ikon
+Within,"['within', 'inside']",The Ikon
+another's,[],The Ikon
+valley's,[],The Ikon
+yet,"['withal', 'all_the_same', 'so_far', 'however', 'yet', 'heretofore', 'notwithstanding', 'still', 'up_to_now', 'hitherto', 'even', 'thus_far', 'as_yet', 'til_now', 'nonetheless', 'nevertheless', 'in_time', 'even_so', 'until_now']",The Ikon
+the,[],The Ikon
+inner,"['inside', 'privileged', 'inner', 'internal', 'intimate', 'interior']",The Ikon
+hands,"['manus', 'script', 'deal', 'helping_hand', 'give', 'mitt', 'hands', 'custody', 'men', 'hired_hand', 'work_force', 'handwriting', 'paw', 'reach', 'workforce', 'bridge_player', 'hired_man', 'pass_on', 'turn_over', 'hand', 'pass', 'manpower']",The Ikon
+well,"['easily', 'considerably', 'advantageously', 'wellspring', 'fountainhead', 'good', 'swell', 'intimately', 'comfortably', 'well', 'substantially']",The Ikon
+suggestion,"['proposition', 'trace', 'hint', 'prompting', 'hypnotism', 'mesmerism', 'proffer', 'suggestion']",The Ikon
+lit,"['dismount', 'get_off', 'illuminated', 'lighted', 'get_down', 'unhorse', 'perch', 'literature', 'lit', 'illume', 'ignite', 'fire_up', 'alight', 'light', 'illuminate', 'fall', 'well-lighted', 'light_up', 'illumine']",The Ikon
+sea,"['ocean', 'sea']",The Ikon
+Time,"['fourth_dimension', 'prison_term', 'sentence', 'metre', 'meter', 'clock', 'clock_time', 'clip', 'time']",The Ikon
+enemy,"['foe', 'opposition', 'enemy', 'foeman']",The Ikon
+;,[],The Ikon
+Korean,['Korean'],The Ikon
+worries,"['concern', 'vexation', 'vex', 'worry', 'interest', 'occupy', 'trouble', 'headache', 'care']",The Ikon
+men,"['military_man', 'man', 'mankind', 'homo', 'valet', 'human_beings', 'hands', 'valet_de_chambre', 'men', 'world', 'work_force', ""gentleman's_gentleman"", 'humans', 'gentleman', 'workforce', 'serviceman', 'Man', 'human_race', 'human', 'military_personnel', 'human_being', 'piece', 'humanity', 'humankind', 'adult_male', 'manpower', 'Isle_of_Man']",The Ikon
+unsung,"['unappreciated', 'obscure', 'unsung', 'unknown', 'unvalued']",The Ikon
+Even,"['regular', 'flush', 'even_out', 'eve', 'evening', 'tied', 'fifty-fifty', 'level', 'yet', 'eventide', 'even', 'still']",The Ikon
+rose,"['rear', 'jump', 'climb_up', 'prove', 'roseate', 'heighten', 'pink_wine', 'move_up', 'originate', 'develop', 'go_up', 'blush_wine', 'lift', 'get_up', 'rosiness', 'mount', 'stand_up', 'rose', 'uprise', 'wax', 'rise', 'rebel', 'spring_up', 'rise_up', 'rosebush', 'rose_wine', 'turn_out', 'arise', 'resurrect', 'climb', 'grow', 'surface', 'rosaceous', 'ascend', 'come_up']",The Ikon
+start,"['kickoff', 'pop', 'come_out', 'starting_signal', 'jump', 'bulge_out', 'starting', 'part', 'depart', 'get_down', 'offset', 'initiate', 'start_out', 'starting_time', 'get_going', 'originate', 'starting_line', 'set_about', 'take_off', 'embark_on', 'bug_out', 'get', 'lead_off', 'set_off', 'commence', 'beginning', 'first', 'start', 'start_up', 'pop_out', 'scratch', 'set_out', 'startle', 'begin', 'get-go', 'outset', 'protrude', 'scratch_line', 'go', 'showtime', 'take_up', 'set_forth', 'bulge', 'head_start', 'commencement']",The Ikon
+eased,"['ease', 'alleviate', 'alleviated', 'relieved', 'allay', 'relieve', 'comfort', 'eased', 'still', 'facilitate']",The Ikon
+Prevot,[],The Ikon
+refuse,"['food_waste', 'garbage', 'decline', 'deny', 'defy', 'scraps', 'pass_up', 'resist', 'refuse', 'reject', 'turn_away', 'turn_down']",The Ikon
+Take,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'proceeds', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'takings', 'shoot', 'return', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'payoff', 'call_for', 'contain', 'drive', 'yield', 'direct', 'engage', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'issue', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Ikon
+The,[],The Ikon
+wooden,['wooden'],The Ikon
+identity,"['identity', 'identicalness', 'indistinguishability', 'identity_operator', 'identity_element', 'personal_identity', 'individuality']",The Ikon
+sigh,"['suspire', 'sigh', 'suspiration']",The Ikon
+chilled,"['cool_down', 'chill', 'cool']",The Ikon
+barricades,"['barricade', 'roadblock', 'block_off', 'block_up', 'blockade', 'block', 'bar', 'stop', 'barricado']",The Ikon
+passed,"['sink', 'pass_away', 'go_by', 'make_pass', 'croak', 'overhaul', 'top', 'go_past', 'guide', 'slip_away', 'go_across', 'take_place', 'fall_out', 'decease', 'go_along', 'authorise', 'go_on', 'spend', 'turn_over', 'buy_the_farm', 'hand', 'lead', 'give-up_the_ghost', 'happen', 'give', 'pass_along', 'elapse', 'pop_off', 'eliminate', 'conk', 'occur', 'overtake', 'lapse', ""cash_in_one's_chips"", 'glide_by', 'go', 'make_it', 'legislate', 'devolve', 'overstep', 'hap', 'expire', 'travel_by', 'blow_over', 'slide_by', 'exceed', 'drop_dead', 'return', 'pass_off', 'slip_by', 'run', 'clear', 'transcend', 'egest', 'die', 'pass_on', 'go_through', 'exit', 'snuff_it', 'come_about', 'communicate', 'evanesce', 'draw', 'extend', 'excrete', 'reach', 'choke', 'fade', 'perish', 'surpass', 'kick_the_bucket', 'fall', 'pass_by', 'pass', 'fleet', 'put_across', 'authorize']",The Ikon
+shouting,"['outcry', 'scream', 'call', 'cry_out', 'holler', 'shout', 'cry', 'yelling', 'blackguard', 'clapperclaw', 'hollo', 'call_out', 'shouting', 'shout_out', 'abuse', 'yell', 'exclaim', 'squall', 'cheering']",The Ikon
+quietly,"['quiet', 'quietly', 'softly', 'restfully']",The Ikon
+vest,"['invest', 'vest', 'singlet', 'robe', 'enthrone', 'undershirt', 'waistcoat']",The Ikon
+into,[],The Ikon
+attitude,"['attitude', 'position', 'posture', 'mental_attitude']",The Ikon
+sat,"['seat', 'pose', 'Sat', 'sit_around', 'ride', 'model', 'Sabbatum', 'posture', 'baby-sit', 'Saturday', 'sit', 'sit_down']",The Ikon
+mystery,"['whodunit', 'enigma', 'closed_book', 'mystery', 'secret', 'mystery_story']",The Ikon
+armpits,"['axillary_cavity', 'axilla', 'axillary_fossa', 'armpit']",The Ikon
+fear,"['concern', 'dread', 'awe', 'venerate', 'veneration', 'fear', 'revere', 'reverence', 'fearfulness', 'fright', 'care']",The Ikon
+activity,"['natural_process', 'natural_action', 'bodily_process', 'bodily_function', 'action', 'activity', 'activeness', 'body_process']",The Ikon
+",",[],The Ikon
+stopping,"['arrest', 'block', 'intercept', 'finish', 'lay_off', 'quit', 'cease', 'kibosh', 'block_up', 'blockade', 'halt', 'fillet', 'stop', 'hold_back', 'end', 'barricade', 'contain', 'block_off', 'bar', 'discontinue', 'stopping', 'turn_back', 'stop_over', 'break_off', 'hold_on', 'terminate', 'break', 'check', 'give_up']",The Ikon
+unsettled,"['unsettle', 'unsettled', 'faze', 'uncertain', 'unnerve', 'changeable', 'enervate']",The Ikon
+center,"['revolve_around', 'center_on', 'revolve_about', 'shopping_centre', 'pore', 'pith', 'snapper', 'nub', 'centre', 'center_field', 'substance', 'heart_and_soul', 'inwardness', 'centre_of_attention', 'rivet', 'focus', 'centerfield', 'kernel', 'nerve_center', 'marrow', 'shopping_center', 'essence', 'core', 'shopping_mall', 'midway', 'gist', 'focus_on', 'concentrate_on', 'center_of_attention', 'heart', 'midpoint', 'halfway', 'plaza', 'mall', 'eye', 'nitty-gritty', 'center', 'nerve_centre', 'sum', 'middle', 'meat', 'concentrate']",The Ikon
+poised,"['self-possessed', 'poise', 'brace', 'equanimous', 'poised', 'self-collected', 'self-contained', 'balance', 'collected']",The Ikon
+tomorrow,['tomorrow'],The Ikon
+I'm,[],The Ikon
+Closer,"['airless', 'secretive', 'close', 'close-fitting', 'closer', 'stuffy', 'nigh', 'skinny', 'snug', 'near', 'faithful', 'closelipped', 'closemouthed', 'penny-pinching', 'nearer', 'finisher', 'cheeseparing', 'tight', 'confining', 'tightlipped', 'nigher', 'unaired']",The Ikon
+monk,"['Monk', 'Thelonious_Monk', 'monastic', 'Thelonious_Sphere_Monk', 'monk']",The Ikon
+who,"['WHO', 'World_Health_Organization']",The Ikon
+tired,"['wear_upon', 'fag', 'fatigue', 'run_down', 'hackneyed', 'commonplace', 'threadbare', 'tire_out', 'bore', 'wear_down', 'old-hat', 'jade', 'wear_out', 'play_out', 'banal', 'shopworn', 'trite', 'outwear', 'tire', 'exhaust', 'wear', 'sap', 'fag_out', 'well-worn', 'timeworn', 'pall', 'tired', 'weary', 'stock']",The Ikon
+small,"['modest', 'belittled', 'pocket-sized', 'pocket-size', 'small-scale', 'low', 'little', 'humble', 'lowly', 'diminished', 'minor', 'minuscule', 'small']",The Ikon
+deeper,"['inscrutable', 'abstruse', 'rich', 'bass', 'profoundly', 'deep', 'cryptic', 'deeply', 'mysterious', 'mystifying', 'recondite', 'thick', 'cryptical']",The Ikon
+just,"['but', 'fair', 'exactly', 'simply', 'barely', 'scarce', 'precisely', 'just', 'good', 'just_now', 'only', 'scarcely', 'hardly', 'upright', 'equitable', 'merely']",The Ikon
+no,"['No', 'no', 'atomic_number_102', 'no_more', 'nobelium']",The Ikon
+sensed,"['sensed', 'perceived', 'feel', 'sense', 'smell_out', 'smell']",The Ikon
+air,"['gentle_wind', 'ventilate', 'publicize', 'air_out', 'aerate', 'air', 'strain', 'send', 'publicise', 'tune', 'melodic_line', 'aviation', 'breeze', 'transmit', 'aura', 'line', 'bare', 'air_travel', 'atmosphere', 'beam', 'melodic_phrase', 'vent', 'zephyr', 'melody', 'airwave', 'broadcast']",The Ikon
+ahead,"['out_front', 'in_front', 'before', 'onward', 'forward', 'ahead', 'leading', 'onwards', 'beforehand', 'in_the_lead', 'in_advance', 'forrader', 'forwards']",The Ikon
+than,[],The Ikon
+brooding,"['incubate', 'cover', 'brooding', 'bulk_large', 'hover', 'meditative', 'stew', 'dwell', 'hatch', 'pout', 'sulk', 'contemplative', 'brood', 'pensive', 'grizzle', 'reflective', 'musing', 'pondering', 'loom', 'broody', 'pensiveness', 'incubation', 'ruminative']",The Ikon
+sit,"['seat', 'pose', 'sit_around', 'ride', 'model', 'posture', 'baby-sit', 'sit_down', 'sit']",The Ikon
+Mais,[],The Ikon
+Will,"['testament', 'volition', 'leave', 'will', 'bequeath']",The Ikon
+hairs,"['haircloth', 'hair', 'hairsbreadth', 'whisker', 'tomentum', ""hair's-breadth"", 'fuzz', 'pilus']",The Ikon
+unprotected,['unprotected'],The Ikon
+any,"['any', 'whatever', 'whatsoever']",The Ikon
+ease,"['simpleness', 'ease', 'simplicity', 'repose', 'alleviate', 'informality', 'relaxation', 'relief', 'allay', 'relieve', 'comfort', 'easiness', 'rest', 'still', 'facilitate']",The Ikon
+sought,"['attempt', 'seek', 'sought', 'sought-after', 'try', 'assay', 'look_for', 'search', 'essay']",The Ikon
+get,"['arrest', 'experience', 'pose', 'come', 'mystify', 'sustain', 'puzzle', 'induce', 'fuck_off', 'stupefy', 'fix', 'take', 'amaze', 'get_down', 'start_out', 'beget', 'generate', 'develop', 'suffer', 'bugger_off', 'make', 'contract', 'set_about', 'pay_off', 'cause', 'get', 'receive', 'bring', 'incur', 'gravel', 'commence', 'beat', 'draw', 'sire', 'become', 'capture', 'baffle', 'start', 'arrive', 'scram', 'acquire', 'drive', ""get_under_one's_skin"", 'nonplus', 'bewilder', 'perplex', 'pay_back', 'set_out', 'have', 'begin', 'buzz_off', 'mother', 'obtain', 'find', 'stick', 'flummox', 'bring_forth', 'stimulate', 'fetch', 'catch', 'let', 'produce', 'go', 'vex', 'engender', 'grow', 'father', 'dumbfound', 'aim', 'convey']",The Ikon
+menace,"['jeopardise', 'jeopardize', 'peril', 'menace', 'threat', 'threaten', 'imperil', 'endanger']",The Ikon
+quixotic,"['quixotic', 'wild-eyed', 'romantic']",The Ikon
+finger,"['thumb', ""finger's_breadth"", 'fingerbreadth', 'digit', 'feel', 'finger']",The Ikon
+doesn't,[],The Ikon
+our,[],The Ikon
+timber,"['forest', 'quality', 'tone', 'lumber', 'timbre', 'timberland', 'timber', 'woodland']",The Ikon
+stream,"['well_out', 'rain_cats_and_dogs', 'pelt', 'swarm', 'pour', 'flow', 'watercourse', 'pullulate', 'current', 'teem', 'rain_buckets', 'stream']",The Ikon
+``,[],The Ikon
+position,"['pose', 'office', 'military_position', 'view', 'stance', 'post', 'locating', 'situation', 'place', 'berth', 'status', 'emplacement', 'position', 'attitude', 'location', 'posture', 'stead', 'billet', 'spatial_relation', 'positioning', 'side', 'lieu', 'perspective', 'placement', 'set', 'spot', 'put', 'lay']",The Ikon
+wraith-like,[],The Ikon
+now,"['immediately', 'today', 'right_away', 'now', 'directly', 'nowadays', 'at_once', 'like_a_shot', 'at_present', 'straight_off', 'instantly', 'straightaway', 'forthwith']",The Ikon
+much,"['practically', 'much', 'a_great_deal', 'often', 'a_lot', 'a_good_deal', 'very_much', 'lots']",The Ikon
+weapon,"['weapon', 'weapon_system', 'arm', 'artillery']",The Ikon
+It's,[],The Ikon
+traveled,"['trip', 'move_around', 'go', 'traveled', 'travelled', 'locomote', 'travel', 'jaunt', 'journey', 'move']",The Ikon
+did,"['make_out', 'come', 'answer', 'coiffe', 'behave', 'get_along', 'arrange', 'perform', 'dress', 'make', 'cause', 'coif', 'practice', 'exercise', 'do', 'manage', 'practise', 'act', 'fare', 'execute', 'serve', 'coiffure', 'suffice', 'set']",The Ikon
+working,"['make_for', 'ferment', 'mould', 'do_work', 'cultivate', 'function', 'influence', 'puzzle_out', 'workings', 'mold', 'make', 'forge', 'put_to_work', 'process', 'operative', 'bring', 'work_on', 'knead', 'work_out', 'solve', 'operate', 'exploit', 'exercise', 'turn', 'shape', 'wreak', 'on_the_job', 'figure_out', 'run', 'working', 'running', 'act', 'lick', 'functional', 'work', 'go', 'form', 'sour', 'crop', 'play', 'act_upon']",The Ikon
+sharing,"['share-out', 'partake', 'deal', 'sharing', 'divvy_up', 'partake_in', 'communion', 'share', 'portion_out', 'apportion']",The Ikon
+upstream,"['upstream', 'upriver']",The Ikon
+continually,['continually'],The Ikon
+by,"['by', 'past', 'aside', 'away']",The Ikon
+regular,"['regular', 'habitue', 'fixture', 'unconstipated', 'steady', 'even', 'veritable']",The Ikon
+stealthily,['stealthily'],The Ikon
+sleeping,"['kip', 'sleep', ""catch_some_Z's"", 'dormancy', 'sleeping', 'slumber', ""log_Z's"", 'dormant', 'quiescency', 'quiescence']",The Ikon
+reigned,"['dominate', 'rule', 'prevail', 'reign', 'predominate']",The Ikon
+fill,"['fulfill', 'fulfil', 'fill_up', 'filling', 'satiate', 'make_full', 'replete', 'sate', 'fill', 'take', 'satisfy', 'meet', 'occupy']",The Ikon
+thirty,"['30', 'thirty', 'XXX', 'xxx']",The Ikon
+sign,"['ratify', 'sign_of_the_zodiac', 'signed', 'sign-language', 'mark', 'contract', 'signalize', 'subscribe', 'polarity', 'signalise', 'signaling', 'planetary_house', 'foretoken', 'augury', 'sign_on', 'gestural', 'signboard', 'star_sign', 'mansion', 'signal', 'house', 'sign', 'preindication', 'sign_up', 'bless']",The Ikon
+bother,"['botheration', 'annoyance', 'nark', 'disoblige', 'hassle', 'incommode', 'pain', 'inconvenience', 'trouble_oneself', 'devil', 'pain_in_the_ass', 'gravel', 'chafe', 'put_out', 'annoy', 'inconvenience_oneself', 'rag', 'discommode', 'irritate', 'get_at', 'pain_in_the_neck', 'nettle', 'fuss', 'trouble', 'infliction', 'vex', 'bother', 'rile', 'get_to']",The Ikon
+left,"['depart', 'get_out', 'give', 'left_over', 'forget', 'unexpended', 'entrust', 'go_away', 'remaining', 'go_out', 'leftfield', 'odd', 'leave', 'leave_behind', 'pull_up_stakes', 'leave_alone', 'bequeath', 'pass_on', 'left_hand', 'left-hand', 'leftover', 'left_wing', 'allow_for', 'impart', 'left_field', 'result', 'lead', 'left', 'exit', 'go_forth', 'will', 'provide', 'allow']",The Ikon
+back,"['hind', 'rear', 'dorsum', 'support', 'indorse', 'bet_on', 'gage', 'cover', 'rearwards', 'backrest', 'plunk_for', 'binding', 'rachis', 'punt', 'second', 'backwards', 'endorse', 'back_up', 'rearward', 'book_binding', 'stake', 'spine', 'plump_for', 'backbone', 'backward', 'hinder', 'vertebral_column', 'spinal_column', 'back', 'game']",The Ikon
+objective,"['target', 'object', 'object_glass', 'nonsubjective', 'objective_lens', 'accusative', 'aim', 'objective', 'object_lens', 'documentary']",The Ikon
+quiet,"['quiet', 'tranquillize', 'pipe_down', 'quiesce', 'placid', 'quiet_down', 'still', 'tranquil', 'restrained', 'muted', 'lull', 'calm_down', 'placidity', 'hush', 'quietly', 'silence', 'repose', 'tranquillise', 'quieten', 'tranquility', 'subdued', 'tranquilize', 'unruffled', 'smooth', 'hushed', 'calm', 'tranquillity', 'serenity']",The Ikon
+Clumps,"['clunk', 'chunk', 'bunch', 'bunch_up', 'glob', 'ball', 'clomp', 'clop', 'bundle', 'thump', 'flock', 'clod', 'clump', 'clustering', 'thumping', 'constellate', 'thud', 'lump', 'plunk', 'cluster']",The Ikon
+awaiting,"['wait', 'expect', 'await', 'look']",The Ikon
+watch,"['watch', 'vigil', 'view', 'ticker', 'scout', 'watch_out', 'learn', 'look_on', 'check', 'follow', 'keep_an_eye_on', 'sentry', 'find_out', 'lookout_man', 'spotter', 'catch', 'lookout', 'watch_over', 'see', 'ascertain', 'determine', 'look_out', 'sentinel', 'observe', 'take_in', 'picket']",The Ikon
+Sergeant,"['serjeant-at-law', 'police_sergeant', 'sergeant-at-law', 'sergeant', 'serjeant']",The Ikon
+your,[],The Ikon
+detectors,"['sensing_element', 'detector', 'demodulator', 'sensor']",The Ikon
+level,"['take_down', 'storey', 'layer', 'level', 'point', 'even_out', 'level_off', 'tier', 'stratum', 'raze', 'even', 'tear_down', 'story', 'plane', 'spirit_level', 'floor', 'dismantle', 'stage', 'pull_down', 'degree', 'flat', 'unwavering', 'horizontal_surface', 'charge', 'flush', 'tied', 'rase', 'grade']",The Ikon
+scene,"['panorama', 'shot', 'aspect', 'picture', 'view', 'prospect', 'scenery', 'vista', 'conniption', 'scene', 'tantrum', 'setting', 'fit']",The Ikon
+akin,"['consanguine', 'blood-related', 'kin', 'consanguineous', 'akin', 'consanguineal', 'cognate', 'kindred']",The Ikon
+group,"['group', 'mathematical_group', 'chemical_group', 'aggroup', 'radical', 'grouping']",The Ikon
+we,[],The Ikon
+boxes,"['box', 'package', 'boxwood', 'corner', 'box_seat', 'loge', 'boxful']",The Ikon
+roads,"['roads', 'roadstead', 'route', 'road']",The Ikon
+follow,"['travel_along', 'watch', 'trace', 'come', 'keep_abreast', 'succeed', 'accompany', 'adopt', 'play_along', 'conform_to', 'follow', 'keep_an_eye_on', 'postdate', 'comply', 'take_after', 'espouse', 'survey', 'keep_up', 'abide_by', 'be', 'fall_out', 'come_after', 'stick_to', 'pursue', 'stick_with', 'watch_over', 'surveil', 'observe']",The Ikon
+Sensing,"['perception', 'detection', 'feel', 'sense', 'sensing', 'smell_out', 'smell']",The Ikon
+pant-legs,[],The Ikon
+moved,"['displace', 'prompt', 'locomote', 'be_active', 'touched', 'propel', 'actuate', 'moved', 'move', 'make_a_motion', 'stirred', 'affect', 'run', 'impress', 'motivate', 'strike', 'travel', 'incite', 'act', 'go', 'proceed', 'affected']",The Ikon
+farmers,"['sodbuster', 'Fannie_Merritt_Farmer', 'husbandman', 'farmer', 'Fannie_Farmer', 'James_Leonard_Farmer', 'granger', 'Farmer']",The Ikon
+White's,[],The Ikon
+advance,"['further', 'shape_up', 'overture', 'march_on', 'promote', 'come_along', 'make_headway', 'onward_motion', 'advancement', 'progress', 'feeler', 'kick_upstairs', 'gain', 'get_along', 'procession', 'pull_ahead', 'throw_out', 'gain_ground', 'come_on', 'boost', 'upgrade', 'move_on', 'beforehand', 'win', 'advance', 'rise', 'forward_motion', 'raise', 'supercharge', 'betterment', 'improvement', 'in_advance', 'set_ahead', 'approach', 'elevate', 'pass_on', 'go_on', 'get_on', 'progression', 'get_ahead', 'encourage', 'cash_advance', 'bring_forward', 'advanced']",The Ikon
+line,"['demarcation', 'argument', 'business', 'credit_line', 'trace', 'seam', 'communication_channel', 'contrast', 'crease', 'line_of_work', 'air', 'strain', 'business_line', 'production_line', 'logical_argument', 'cable', 'channel', 'blood', 'tune', 'melodic_line', 'note', 'origin', 'rail_line', 'ancestry', 'descent', 'dividing_line', 'draw', 'parentage', 'job', 'pedigree', 'occupation', 'argumentation', 'delineate', 'line_of_business', 'line', 'line_of_merchandise', 'assembly_line', 'pipeline', 'run_along', 'stemma', 'line_of_products', 'crinkle', 'railway_line', 'course', 'line_of_reasoning', 'short_letter', 'subscriber_line', 'bank_line', 'phone_line', 'telephone_line', 'personal_line_of_credit', 'billet', 'agate_line', 'transmission_line', 'bloodline', 'furrow', 'telephone_circuit', 'blood_line', 'melodic_phrase', 'personal_credit_line', 'melody', 'describe', 'lineage', 'product_line', 'line_of_credit', 'line_of_descent', 'stock', 'wrinkle']",The Ikon
+against,[],The Ikon
+wired,"['cable', 'pumped-up', 'pumped_up', 'wired', 'wire', 'pumped', 'telegraph', 'electrify']",The Ikon
+searchlight,['searchlight'],The Ikon
+some,"['roughly', 'just_about', 'some', 'approximately', 'around', 'or_so', 'more_or_less', 'close_to', 'about']",The Ikon
+integrity,"['integrity', 'wholeness', 'unity']",The Ikon
+or,"['surgery', 'operating_room', 'operating_theater', 'operating_theatre', 'OR', 'Oregon', 'Beaver_State']",The Ikon
+mischievous,"['prankish', 'impish', 'puckish', 'wicked', 'mischievous', 'implike', 'pixilated', 'arch']",The Ikon
+lugged,"['tote', 'lug', 'choke_up', 'stuff', 'block', 'tug']",The Ikon
+barns,"['barn', 'b']",The Ikon
+until,[],The Ikon
+nocturnal,['nocturnal'],The Ikon
+many,['many'],The Ikon
+going,"['survive', 'pass_away', 'give_way', 'function', 'depart', 'fail', 'locomote', 'expire', 'conk_out', 'sledding', 'blend', 'get_going', 'croak', 'fit', 'run_short', 'snuff_it', 'live_on', 'plump', 'go_away', 'get', 'hold_up', 'operate', 'drop_dead', 'pop_off', 'become', 'live', 'start', 'belong', 'departure', 'extend', 'conk', 'move', 'run_low', 'rifle', 'loss', 'blend_in', 'give_out', 'run', 'sound', 'endure', 'hold_out', 'break_down', 'choke', 'going_away', 'decease', 'travel', 'perish', ""cash_in_one's_chips"", 'expiration', 'die', 'passing', 'going', 'work', 'go', 'kick_the_bucket', 'leaving', 'release', 'buy_the_farm', 'pass', 'lead', 'break', 'exit', 'give-up_the_ghost', 'proceed', 'go_bad', 'last']",The Ikon
+searchlights,['searchlight'],The Ikon
+C'est,[],The Ikon
+stone,"['gemstone', 'Harlan_Fiske_Stone', 'gem', 'endocarp', 'Harlan_F._Stone', 'Oliver_Stone', 'stone', 'Harlan_Stone', 'pit', 'lapidate', 'Stone', 'I._F._Stone', 'Edward_Durell_Stone', 'Isidor_Feinstein_Stone', 'Lucy_Stone', 'rock', 'Harlan_Fisk_Stone']",The Ikon
+smooth,"['quiet', 'suave', 'politic', 'bland', 'fluent', 'fluid', 'tranquil', 'unruffled', 'shine', 'liquid', 'smooth', 'smoothen', 'placid', 'still', 'legato', 'polish', 'smooth_out']",The Ikon
+softer,"['diffused', 'lenient', 'voiced', 'sonant', 'delicate', 'diffuse', 'indulgent', 'flaccid', 'easygoing', 'balmy', 'cushy', 'easy', 'flabby', 'mild', 'gentle', 'piano', 'subdued', 'soft']",The Ikon
+raised,"['brocaded', 'rear', 'call_down', 'promote', 'call_forth', 'prove', 'leaven', 'heighten', 'evoke', 'enkindle', 'recruit', 'elicit', 'elevated', 'lift', 'fire', 'get_up', 'arouse', 'upgrade', 'put_forward', 'advance', 'provoke', 'raise', 'nurture', 'upraise', 'kindle', 'levy', 'farm', 'conjure', 'put_up', 'set_up', 'resurrect', 'elevate', 'parent', 'invoke', 'embossed', 'produce', 'stir', 'enhance', 'erect', 'grow', 'bring_up', 'raised', 'kick_upstairs', 'conjure_up']",The Ikon
+silent,"['dumb', 'mute', 'soundless', 'unsounded', 'tacit', 'silent', 'understood', 'still', 'mum']",The Ikon
+his,[],The Ikon
+theirs,[],The Ikon
+stock,"['sprout', 'tired', 'inventory', 'strain', 'broth', 'gillyflower', 'hackneyed', 'standard', 'commonplace', 'stock_up', 'breed', 'stock_certificate', 'livestock', 'threadbare', 'blood', 'stockpile', 'origin', 'store', 'ancestry', 'descent', 'parentage', 'Malcolm_stock', 'pedigree', 'gunstock', 'old-hat', 'caudex', 'banal', 'shopworn', 'line', 'trite', 'fund', 'stemma', 'well-worn', 'carry', 'timeworn', 'bloodline', 'farm_animal', 'blood_line', 'neckcloth', 'lineage', 'line_of_descent', 'stock', 'buy_in']",The Ikon
+gate,"['logic_gate', 'gate']",The Ikon
+jump,"['leap', 'jump', 'climb_up', 'derail', 'jumping', 'spring', 'jumpstart', 'alternate', 'parachute', 'stick_out', 'stand_out', 'skip_over', 'start', 'rise', 'startle', 'parachuting', 'chute', 'bound', 'jump-start', 'skip', 'pass_over', 'jump_out', 'jump_off', 'saltation', 'leap_out']",The Ikon
+clouds,"['mottle', 'obscure', 'sully', 'swarm', 'fog', 'defile', 'taint', 'cloud', 'becloud', 'befog', 'overcast', 'corrupt', 'mist', 'obnubilate', 'haze_over', 'dapple']",The Ikon
+broken,"['burst', 'break_dance', 'give_way', 'go_against', 'fail', 'break_up', 'weaken', 'bust', 'rugged', 'wear', 'fall_in', 'break_off', 'let_out', 'come_apart', 'disordered', 'break_away', 'give_away', 'humiliated', 'humbled', 'part', 'better', 'conk_out', 'reveal', 'give', 'upset', 'bring_out', 'develop', 'damp', 'stop', 'fall_apart', 'wear_out', 'give_out', 'fracture', 'get_around', 'transgress', 'go', 'busted', 'break', 'pause', 'violate', 'broken', 'impoverished', 'disclose', 'discover', 'wiped_out', 'separate', 'split', 'relegate', 'recrudesce', 'unwrap', 'founder', 'break_out', 'bump', 'demote', 'divulge', 'breach', 'crack', 'break_in', 'low', 'crushed', 'die', 'erupt', 'kick_downstairs', 'dampen', 'confused', 'interrupt', 'snap_off', 'expose', 'smash', 'break-dance', 'let_on', 'soften', 'get_out', 'split_up', 'ruin', 'offend', 'collapse', 'unkept', 'bankrupt', 'break_down', 'intermit', 'discontinue', 'cave_in', 'broken_in', 'infract', 'check', 'go_bad']",The Ikon
+expected,"['require', 'carry', 'gestate', 'bear', 'expected', 'wait', 'expect', 'await', 'ask', 'look', 'have_a_bun_in_the_oven', 'anticipate']",The Ikon
+a,"['deoxyadenosine_monophosphate', 'adenine', 'A', 'ampere', 'angstrom', 'axerophthol', 'a', 'antiophthalmic_factor', 'vitamin_A', 'group_A', 'type_A', 'amp', 'angstrom_unit']",The Ikon
+prisoners,"['captive', 'prisoner']",The Ikon
+is,"['exist', 'cost', 'represent', 'make_up', 'be', 'embody', 'follow', 'comprise', 'live', 'constitute', 'equal', 'personify']",The Ikon
+reception,"['response', 'receipt', 'reception']",The Ikon
+take,"['remove', 'admit', 'charter', 'read', 'lease', 'subscribe_to', 'deal', 'postulate', 'take', 'get_hold_of', 'learn', 'demand', 'ingest', 'claim', 'adopt', 'train', 'assume', 'occupy', 'ask', 'make', 'proceeds', 'contract', 'conduct', 'study', 'subscribe', 'get', 'bring', 'takings', 'shoot', 'return', 'consume', 'take_away', 'accept', 'guide', 'acquire', 'require', 'involve', 'payoff', 'call_for', 'contain', 'drive', 'yield', 'direct', 'engage', 'take_on', 'have', 'consider', 'strike', 'film', 'pick_out', 'carry', 'issue', 'need', 'submit', 'use_up', 'rent', 'hold', 'look_at', 'choose', 'take_up', 'select', 'fill', 'lead', 'necessitate', 'withdraw', 'pack', 'hire', 'aim', 'take_aim', 'exact', 'take_in', 'convey']",The Ikon
+ammo,"['ammo', 'ammunition']",The Ikon
+blasts,"['smash', 'flak', 'gust', 'clap', 'bam', 'flack', 'eruption', 'crucify', 'fire', 'shoot', 'blare', 'knock_down', 'attack', 'shell', 'good_time', 'boom', 'bang', 'blow', 'savage', 'blast', 'nail', 'pillory']",The Ikon
+puzzled,"['pose', 'mystify', 'puzzle', 'stupefy', 'amaze', 'puzzled', 'nonplused', 'get', 'gravel', 'beat', 'baffle', 'nonplussed', 'nonplus', 'bewilder', 'perplex', 'stick', 'flummox', 'vex', 'dumbfound', 'at_a_loss']",The Ikon
+asking,"['require', 'involve', 'need', 'request', 'enquire', 'postulate', 'take', 'expect', 'necessitate', 'demand', 'asking', 'ask', 'inquire', 'call_for']",The Ikon
+calmed,"['quiet', 'chill_out', 'simmer_down', 'cool_it', 'tranquillize', 'sedate', 'tranquillise', 'steady', 'settle_down', 'cool_off', 'quieten', 'lull', 'becalm', 'calm_down', 'calm', 'still', 'tranquilize']",The Ikon
+dead,"['idle', 'utter', 'short', 'absolutely', 'drained', 'bushed', 'beat', 'deadened', 'utterly', 'numb', 'suddenly', 'stagnant', 'all_in', 'abruptly', 'perfectly', 'dead']",The Ikon
+whip,"['worst', 'slash', 'rack_up', 'party_whip', 'lather', 'blister', 'flog', 'welt', 'trounce', 'whiplash', 'mop_up', 'strap', 'whisk', 'lash', 'scald', 'pip', 'whip']",The Ikon
+Papa-san,[],The Ikon
+every,['every'],The Ikon
+register,"['register', 'record', 'read', 'cross-file', 'file', 'registry', 'cash_register', 'show']",The Ikon
+turned,"['ferment', 'move_around', 'rick', 'change_state', 'bend', 'turned', 'sprain', 'become', 'plow', 'turn', 'wrick', 'deform', 'change_by_reversal', 'reverse', 'flex', 'off', 'work', 'twist', 'plough', 'turn_over', 'wrench', 'release', 'sour', 'grow', 'call_on']",The Ikon
+shout,"['yell', 'cry_out', 'holler', 'shout', 'vociferation', 'shout_out', 'outcry', 'cry', 'squall', 'exclaim', 'call_out', 'clapperclaw', 'blackguard', 'hollo', 'abuse', 'scream', 'call']",The Ikon
+fullness,"['comprehensiveness', 'fullness', 'voluminosity', 'richness', 'mellowness', 'voluminousness']",The Ikon
+name,"['discover', 'distinguish', 'appoint', 'make', 'call', 'gens', 'public_figure', 'name', 'refer', 'diagnose', 'identify', 'list', 'key', 'epithet', 'cite', 'key_out', 'mention', 'figure', 'nominate', 'bring_up', 'advert', 'describe', 'constitute']",The Ikon
+Rifle,"['strip', 'go', 'ransack', 'pillage', 'reave', 'plunder', 'loot', 'rifle', 'despoil', 'foray']",The Ikon
+hours,"['hour', 'hr', 'minute', 'hours', '60_minutes', 'time_of_day']",The Ikon
+secret,"['hush-hush', 'enigma', 'confidential', 'occult', 'arcanum', 'privy', 'mystical', 'closed_book', 'cloak-and-dagger', 'secret', 'unavowed', 'mysterious', 'surreptitious', 'hidden', 'hole-and-corner', 'clandestine', 'private', 'mystery', 'mystic', 'secluded', 'orphic', 'underground', 'undercover', 'hugger-mugger']",The Ikon
+knoll,"['hammock', 'mound', 'hillock', 'knoll', 'hummock']",The Ikon
+If,[],The Ikon
+crew,"['bunch', 'crowd', 'work_party', 'crew', 'gang']",The Ikon
+realized,"['substantiate', 'completed', 'realize', 'realise', 'accomplished', 'gain', 'make', 'actualize', 'understand', 'recognize', 'realized', 'clear', 'bring_in', 'earn', 'recognise', 'realised', 'pull_in', 'agnize', 'see', 'agnise', 'take_in', 'actualise']",The Ikon
+A,"['deoxyadenosine_monophosphate', 'adenine', 'A', 'ampere', 'angstrom', 'axerophthol', 'a', 'antiophthalmic_factor', 'vitamin_A', 'group_A', 'type_A', 'amp', 'angstrom_unit']",The Ikon
+after,"['afterwards', 'later_on', 'subsequently', 'after', 'later', 'afterward']",The Ikon
+0600,[],The Ikon
+slashing,"['jactitate', 'gash', 'slash', 'lather', 'thresh_about', 'thrash', 'flog', 'whip', 'trounce', 'slashing', 'thresh', 'strap', 'toss', 'lash', 'cut_down', 'convulse', 'thrash_about', 'welt']",The Ikon
+baton,"['wand', 'billy', 'baton', 'nightstick', 'billy_club', 'billystick', 'truncheon']",The Ikon
+gently,"['mildly', 'gently', 'softly', 'lightly']",The Ikon
+formidable,"['unnerving', 'formidable', 'redoubtable']",The Ikon
+slope,"['side', 'pitch', 'gradient', 'slope', 'incline']",The Ikon
+disappeared,"['disappear', 'go_away', 'vanish', 'evaporate', 'melt']",The Ikon
+find,"['get_hold', 'discover', 'line_up', 'receive', 'breakthrough', 'get', 'encounter', 'incur', 'recover', 'bump', 'witness', 'find_out', 'find_oneself', 'discovery', 'feel', 'obtain', 'find', 'retrieve', 'detect', 'uncovering', 'chance', 'see', 'rule', 'ascertain', 'notice', 'determine', 'observe', 'happen', 'regain', 'come_up']",The Ikon
+mines,['mine'],The Ikon
+upward,"['up', 'upward', 'upwards', 'upwardly']",The Ikon
+ear,"['auricle', 'spike', 'pinna', 'ear', 'capitulum']",The Ikon
+labor,"['lying-in', 'Labour', 'fag', 'undertaking', 'childbed', 'Labor_Department', 'toil', 'labour', 'grind', 'trade_union_movement', 'Labor', 'confinement', 'task', 'drive', 'DoL', 'Labour_Party', 'moil', 'push', 'proletariat', 'dig', 'project', 'British_Labour_Party', 'travail', 'labor', 'labor_movement', 'working_class', 'drudge', 'Department_of_Labor', 'tug', 'parturiency']",The Ikon
+me,"['Maine', 'ME', 'Pine_Tree_State']",The Ikon
+brush,"['brushwood', 'skirmish', 'encounter', 'thicket', 'copse', 'clash', 'brushing', 'brush', 'light_touch', 'sweep', 'coppice']",The Ikon
+earth,"['terra_firma', 'dry_land', 'land', 'worldly_concern', 'world', 'globe', 'ground', 'Earth', 'earthly_concern', 'earth', 'solid_ground']",The Ikon
+smiled,['smile'],The Ikon
+stretched,"['stretch', 'elongate', 'stretch_out', 'unfold', 'stretch_along', 'load', 'dilute', 'adulterate', 'extend', 'stretched', 'debase']",The Ikon
+stripped,"['leach', 'clean', 'stripped-down', 'pillage', 'denudate', 'foray', 'undress', 'deprive', 'ransack', 'plunder', 'loot', 'rifle', 'denude', 'disrobe', 'bare', 'disinvest', 'peel', 'dismantle', 'discase', 'despoil', 'strip_down', 'strip', 'uncase', 'unclothe', 'reave', 'divest', 'stripped']",The Ikon
+afraid,['afraid'],The Ikon
+Because,[],The Ikon
+three,"['trey', 'tercet', 'trine', 'iii', 'III', 'ternion', 'threesome', 'three', 'ternary', 'trinity', 'trio', '3', 'troika', 'deuce-ace', 'leash', 'triad', 'terzetto', 'triplet', 'tierce']",The Ikon
+All,"['altogether', 'entirely', 'whole', 'completely', 'wholly', 'all', 'totally']",The Ikon
+guts,"['catgut', 'guts', 'gumption', 'sand', 'intestine', 'grit', 'moxie', 'bowel', 'gut', 'backbone']",The Ikon
+ever,"['ever', 'always', ""e'er"", 'ever_so', 'of_all_time']",The Ikon
+fascinated,"['entrance', 'fascinated', 'transfixed', 'becharm', 'transfix', 'fascinate', 'hypnotised', 'spellbound', 'bewitch', 'charm', 'capture', 'spellbind', 'spell-bound', 'enamour', 'grip', 'enchant', 'intrigue', 'catch', 'mesmerised', 'captivate', 'mesmerized', 'hypnotized', 'enamor', 'beguile', 'trance']",The Ikon
+through,"['through_with', 'done', 'through', 'through_and_through']",The Ikon
+shake,"['judder', 'shake_off', 'shake', 'waggle', 'milk_shake', 'throw_off', 'shingle', 'didder', 'handshake', 'escape_from', 'shake_up', 'rock', 'agitate', 'tremble', 'milkshake', 'sway', 'stimulate', 'excite', 'wag', 'stir', 'handclasp', 'shiver', 'trill', 'handshaking']",The Ikon
+damnation,"['damnation', 'eternal_damnation']",The Ikon
+solidity,"['solidness', 'solidity']",The Ikon
+fears,"['concern', 'dread', 'awe', 'venerate', 'veneration', 'fear', 'revere', 'reverence', 'fearfulness', 'fright', 'care']",The Ikon
+corridor,['corridor'],The Ikon
+stranger,"['foreign', 'unknown', 'stranger', 'alien', 'strange', 'unusual']",The Ikon
+tangle,"['ravel', 'snarl', 'tousle', 'sweep_up', 'dishevel', 'drag', 'maze', 'entangle', 'sweep', 'drag_in', 'knot', 'mat', 'embroil', 'tangle']",The Ikon
+crude,"['rough', 'petroleum', 'rock_oil', 'primitive', 'rude', 'blunt', 'earthy', 'gross', 'raw', 'unprocessed', 'oil', 'vulgar', 'crude_oil', 'unrefined', 'stark', 'crude', 'fossil_oil']",The Ikon
+thrown,"['shake_off', 'bedevil', 'hurl', 'fox', 'give', 'thrown_and_twisted', 'thrown', 'throw_off', 'make', 'confound', 'cast_off', 'fuddle', 'throw', 'throw_away', 'bewilder', 'have', 'flip', 'cast', 'project', 'bemuse', 'switch', 'drop', 'thrust', 'hold', 'discombobulate', 'befuddle', 'shed', 'contrive', 'confuse']",The Ikon
+are,"['are', 'exist', 'cost', 'represent', 'make_up', 'be', 'equal', 'follow', 'embody', 'comprise', 'live', 'constitute', 'ar', 'personify']",The Ikon
+Ours,[],The Ikon
+seemed,"['appear', 'seem', 'look']",The Ikon
+too,"['likewise', 'as_well', 'too', 'overly', 'besides', 'to_a_fault', 'also', 'excessively']",The Ikon
+killing,"['pop', 'obliterate', 'cleanup', 'defeat', 'belt_down', 'shoot_down', 'toss_off', 'killing', 'wipe_out', 'vote_down', 'stamp_out', 'sidesplitting', 'bolt_down', 'pour_down', 'violent_death', 'kill', 'drink_down', 'vote_out', 'putting_to_death', 'down']",The Ikon
+misplaced,"['mislaid', 'misplace', 'mislay', 'lose', 'misplaced']",The Ikon
+movement,"['motion', 'drive', 'cause', 'apparent_motion', 'motility', 'bm', 'movement', 'trend', 'front', 'effort', 'apparent_movement', 'crusade', 'drift', 'campaign', 'bowel_movement', 'move', 'social_movement']",The Ikon
+these,[],The Ikon
+missing,"['drop', 'neglect', 'lack', 'escape', 'overlook', 'absent', 'leave_out', 'missing', 'lacking', 'pretermit', 'omit', 'lose', 'overleap', 'wanting', 'miss']",The Ikon
+Somewhere,"['someplace', 'somewhere']",The Ikon
+painfully,"['distressingly', 'painfully', 'sorely']",The Ikon
+base,"['alkali', 'pedestal', 'humble', 'cornerstone', 'Base', 'radical', 'infrastructure', 'groundwork', 'establish', 'Qaeda', 'stem', 'substructure', 'lowly', 'foot', 'basal', 'understructure', 'stand', 'root_word', 'ground', 'found', 'base', 'mean', 'immoral', 'root', 'basis', 'baseborn', 'bag', 'radix', 'floor', 'nucleotide', 'home', 'al-Qaida', 'theme', 'al-Qaeda', 'fundament', 'base_of_operations', 'meanspirited', 'foundation', 'free-base', ""al-Qa'ida""]",The Ikon
+he,"['atomic_number_2', 'he', 'helium', 'He']",The Ikon
+--,[],The Ikon
+language,"['speech_communication', 'language', 'oral_communication', 'speech', 'words', 'linguistic_communication', 'spoken_communication', 'linguistic_process', 'terminology', 'nomenclature', 'voice_communication', 'lyric', 'spoken_language']",The Ikon
+please,"['delight', 'please']",The Ikon
+flashed,"['dart', 'ostentate', 'swank', 'dash', 'shoot', 'scoot', 'wink', 'twinkle', 'blink', 'flash', 'flaunt', 'scud', 'winkle', 'show_off']",The Ikon
+Martinez,[],The Ikon
+saw,"['experience', 'watch', 'get_a_line', 'view', 'regard', 'adage', 'escort', 'learn', 'realize', 'realise', 'assure', 'envision', 'proverb', 'discover', 'hear', 'pick_up', 'power_saw', 'date', 'run_into', 'encounter', 'see_to_it', 'understand', 'interpret', 'witness', 'insure', 'image', 'find_out', 'go_out', 'meet', 'reckon', 'picture', 'take_care', 'saw', 'go_steady', 'consider', 'byword', 'fancy', 'attend', 'find', 'project', 'figure', 'control', 'run_across', 'look', 'ensure', 'catch', 'sawing_machine', 'examine', 'go_through', 'see', 'get_word', 'visualize', 'ascertain', 'take_in', 'determine', 'visit', 'check', 'come_across', 'construe', 'visualise', 'get_wind']",The Ikon
+feeling,"['experience', 'tactile_sensation', 'notion', 'palpate', 'spirit', 'smell', 'opinion', 'flavor', 'flavour', 'finger', 'touch_sensation', 'intuitive_feeling', 'feeling', 'feel', 'tactual_sensation', 'sense', 'find', 'look', 'belief', 'tone', 'touch', 'impression']",The Ikon
+one,"['I', 'unity', 'unmatched', '1', 'one_and_only', 'unrivalled', 'single', 'unitary', 'nonpareil', 'i', 'ane', 'peerless', 'unmatchable', 'matchless', 'one', 'unrivaled', 'ace']",The Ikon
+stared,"['star', 'gaze', 'stare', 'asterisk']",The Ikon
+visiting,"['travel_to', 'call', 'inspect', 'impose', 'inflict', 'confabulate', 'chatter', 'gossip', 'chew_the_fat', 'chaffer', 'chitchat', 'jaw', 'shoot_the_breeze', 'visiting', 'bring_down', 'chat', 'natter', 'see', 'call_in', 'confab', 'visit', 'claver', 'chit-chat']",The Ikon
+named,"['discover', 'distinguish', 'appoint', 'call', 'make', 'name', 'refer', 'diagnose', 'list', 'identify', 'key', 'cite', 'key_out', 'mention', 'nominate', 'bring_up', 'advert', 'describe', 'constitute']",The Ikon
+metal,"['metal', 'alloy', 'metallic', 'metallic_element']",The Ikon
+settled,"['go_down', 'sink', 'reconcile', 'steady_down', 'conciliate', 'go_under', 'subside', 'square_up', 'resolve', 'settle', 'adjudicate', 'nail_down', 'colonized', 'finalize', 'take_root', 'colonised', 'root', 'make_up', 'get_back', 'ensconce', 'finalise', 'square_off', 'descend', 'locate', 'settle_down', 'settled', 'fall', 'patch_up', 'determine', 'decide']",The Ikon
+anticipation,"['prediction', 'anticipation', 'expectation', 'prevision', 'expectancy']",The Ikon
+enchained,"['chained', 'enchain', 'enchained']",The Ikon
+hold,"['clasp', 'grasp', 'handgrip', 'apply', 'confine', 'cargo_hold', 'detainment', 'sustain', 'admit', 'hold_in', 'support', 'concord', 'defy', 'reserve', 'appreciation', 'oblige', 'moderate', 'take', 'have_got', 'give', 'prevail', 'nurse', 'keep', 'cargo_area', 'storage_area', 'harbor', 'make', 'custody', 'adjudge', 'check', 'cargo_deck', 'hold_up', 'bear', 'accommodate', 'declare', 'harbour', 'withstand', 'wait', 'throw', 'halt', 'take_for', 'detention', 'hold_back', 'handle', 'view_as', 'clench', 'retain', 'contain', 'take_hold', 'arrest', 'grip', 'have', 'maintain', 'obtain', 'time_lag', 'guard', 'bind', 'obligate', 'go_for', 'clutches', 'postponement', 'entertain', 'control', 'carry', 'curb', 'concur', 'deem', 'hold', 'agree', 'restrain', 'clutch', 'defend', 'delay', 'keep_back', 'book']",The Ikon
+desire,"['trust', 'hope', 'desire', 'want']",The Ikon
+Soon,"['presently', 'before_long', 'shortly', 'soon']",The Ikon
+warned,"['discourage', 'monish', 'warn', 'admonish']",The Ikon
+wire,"['cable', 'wire', 'conducting_wire', 'telegraph', 'telegram', 'electrify']",The Ikon
+told,"['tell_apart', 'differentiate', 'secern', 'state', 'secernate', 'evidence', 'recite', 'say', 'tell', 'severalise', 'severalize', 'distinguish', 'narrate', 'assure', 'enjoin', 'order', 'separate', 'recount']",The Ikon
+surface,"['control_surface', 'open', ""Earth's_surface"", 'rise', 'come_out', 'airfoil', 'come_on', 'show_up', 'aerofoil', 'rise_up', 'surface', 'turn_up', 'coat', 'come_up']",The Ikon
+glowing,"['radiate', 'glow', 'radiance', 'beam', 'shine', 'burn', 'glowing']",The Ikon
+fields,"['orbit', 'theater', 'domain', 'theatre', 'field_of_operations', 'battlefield', 'field_of_view', 'flying_field', 'field_of_operation', 'discipline', 'plain', 'study', 'subject_field', 'landing_field', 'athletic_field', 'sphere', 'bailiwick', 'field_of_honor', 'field_of_force', 'battleground', 'playing_field', 'line_of_business', 'airfield', 'subject_area', 'subject', 'area', 'theater_of_operations', 'William_Claude_Dukenfield', 'arena', 'playing_area', 'force_field', 'champaign', 'field_of_battle', 'field_of_study', 'theatre_of_operations', 'Fields', 'W._C._Fields', 'field']",The Ikon

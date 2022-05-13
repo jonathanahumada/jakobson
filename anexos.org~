@@ -1,0 +1,111 @@
+#+AUTHOR: Jonatan Ahumada Fernández
+#+TITLE: Anexos
+#+LATEX_HEADER: \usepackage{lscape}
+
+* Contenido de los anexos
+
+Como anexos al trabajo de grado, se presentan:
+
+1) Este documento, con la tablas puestas en el
+2) Un archivo zip, con el código de python utilizado durante el proyecto
+3) Dentro del archivo zip, una carpeta titulada resultados, que compendia los gráficos y archivos .csv producidos por los módulos desarrolados
+
+
+
+\newpage
+\appendix
+
+
+\begin{landscape}
+\tiny
+\section{Resultados de todas las muestras procesadas}
+
+\begin{longtable}{llrrrlrr}
+\toprule
+{} &                      categoria &      metafora &   metonimia &     w & metacategoria &  metafora\_n &  metonimia\_n \\
+\midrule
+\endfirsthead
+
+\toprule
+{} &                      categoria &      metafora &   metonimia &     w & metacategoria &  metafora\_n &  metonimia\_n \\
+\midrule
+\endhead
+\midrule
+\multicolumn{8}{r}{{Continued on next page}} \\
+\midrule
+\endfoot
+
+\bottomrule
+\endlastfoot
+0  &                      reportage &  8.805142e+05 &  232.266917 &  2340 &   non-fiction &    0.216791 &     0.243219 \\
+1  &                      editorial &  8.803244e+05 &  245.719532 &  2262 &   non-fiction &    0.216371 &     0.464895 \\
+2  &                        reviews &  9.298024e+05 &  242.953762 &  2370 &   non-fiction &    0.325935 &     0.419319 \\
+3  &                       religion &  8.501277e+05 &  264.683072 &  2314 &   non-fiction &    0.149503 &     0.777381 \\
+4  &               skills \& hobbies &  8.317817e+05 &  242.632252 &  2232 &   non-fiction &    0.108878 &     0.414021 \\
+5  &                   popular lore &  8.338258e+05 &  265.839881 &  2222 &   non-fiction &    0.113405 &     0.796443 \\
+6  &                 belles lettres &  8.776905e+05 &  229.785870 &  2288 &   non-fiction &    0.210538 &     0.202335 \\
+7  &                  miscellaneous &  7.826133e+05 &  278.192915 &  2214 &       neither &    0.000000 &     1.000000 \\
+8  &                        learned &  8.632080e+05 &  266.998264 &  2254 &   non-fiction &    0.178469 &     0.815531 \\
+9  &                general fiction &  8.912116e+05 &  249.950161 &  2264 &       fiction &    0.240479 &     0.534608 \\
+10 &  mistery and detective fiction &  1.032944e+06 &  244.615024 &  2446 &       fiction &    0.554330 &     0.446694 \\
+11 &                science fiction &  1.064427e+06 &  235.067805 &  2412 &       fiction &    0.624045 &     0.289372 \\
+12 &  adventure and western fiction &  1.234204e+06 &  229.817769 &  2560 &       fiction &    1.000000 &     0.202861 \\
+13 &         romance and love story &  9.934131e+05 &  217.506968 &  2428 &       fiction &    0.466794 &     0.000000 \\
+14 &                      reportage &  8.692052e+05 &  233.995925 &  2277 &   non-fiction &    0.303963 &     0.031965 \\
+15 &                      editorial &  7.772415e+05 &  252.298095 &  2200 &   non-fiction &    0.000000 &     0.291451 \\
+16 &                        reviews &  9.780952e+05 &  242.322657 &  2415 &   non-fiction &    0.663871 &     0.150020 \\
+17 &                       religion &  8.314664e+05 &  234.210911 &  2213 &   non-fiction &    0.179226 &     0.035013 \\
+18 &               skills \& hobbies &  8.332094e+05 &  237.433386 &  2279 &   non-fiction &    0.184987 &     0.080701 \\
+19 &                   popular lore &  9.653912e+05 &  270.544500 &  2369 &   non-fiction &    0.621881 &     0.550146 \\
+20 &                 belles lettres &  8.631398e+05 &  279.744550 &  2289 &   non-fiction &    0.283915 &     0.680583 \\
+21 &                  miscellaneous &  8.734267e+05 &  302.273843 &  2416 &       neither &    0.317916 &     1.000000 \\
+22 &                        learned &  9.124770e+05 &  241.599983 &  2189 &   non-fiction &    0.446987 &     0.139774 \\
+23 &                general fiction &  1.025250e+06 &  243.062518 &  2440 &       fiction &    0.819728 &     0.160510 \\
+24 &  mistery and detective fiction &  9.595842e+05 &  231.741345 &  2370 &       fiction &    0.602687 &     0.000000 \\
+25 &                science fiction &  1.049848e+06 &  260.930594 &  2486 &       fiction &    0.901030 &     0.413841 \\
+26 &  adventure and western fiction &  1.079791e+06 &  232.909893 &  2383 &       fiction &    1.000000 &     0.016568 \\
+27 &         romance and love story &  9.690752e+05 &  261.194633 &  2332 &       fiction &    0.634057 &     0.417585 \\
+28 &                      reportage &  8.329611e+05 &  253.461402 &  2275 &   non-fiction &    0.149926 &     0.154154 \\
+29 &                      editorial &  7.987510e+05 &  266.662093 &  2234 &   non-fiction &    0.049805 &     0.422430 \\
+30 &                        reviews &  8.841941e+05 &  249.018673 &  2320 &   non-fiction &    0.299868 &     0.063865 \\
+31 &                       religion &  8.318658e+05 &  266.059867 &  2332 &   non-fiction &    0.146721 &     0.410191 \\
+32 &               skills \& hobbies &  8.503835e+05 &  263.101035 &  2257 &   non-fiction &    0.200916 &     0.350059 \\
+33 &                   popular lore &  8.692219e+05 &  245.876166 &  2264 &   non-fiction &    0.256049 &     0.000000 \\
+34 &                 belles lettres &  8.710944e+05 &  275.374260 &  2311 &   non-fiction &    0.261529 &     0.599486 \\
+35 &                  miscellaneous &  8.391560e+05 &  295.081798 &  2360 &       neither &    0.168057 &     1.000000 \\
+36 &                        learned &  7.817333e+05 &  246.081765 &  2182 &   non-fiction &    0.000000 &     0.004178 \\
+37 &                general fiction &  9.246787e+05 &  258.496462 &  2325 &       fiction &    0.418352 &     0.256481 \\
+38 &  mistery and detective fiction &  1.123420e+06 &  259.706130 &  2428 &       fiction &    1.000000 &     0.281065 \\
+39 &                science fiction &  9.359945e+05 &  248.550450 &  2364 &       fiction &    0.451469 &     0.054349 \\
+40 &  adventure and western fiction &  1.032713e+06 &  250.647083 &  2380 &       fiction &    0.734532 &     0.096959 \\
+41 &         romance and love story &  9.975592e+05 &  251.745846 &  2320 &       fiction &    0.631648 &     0.119289 \\
+42 &                      reportage &  7.390055e+05 &  273.291853 &  2217 &   non-fiction &    0.000000 &     1.000000 \\
+43 &                      editorial &  8.393927e+05 &  252.962796 &  2230 &   non-fiction &    0.269841 &     0.525491 \\
+44 &                        reviews &  8.971668e+05 &  267.320868 &  2356 &   non-fiction &    0.425138 &     0.860629 \\
+45 &                       religion &  9.719024e+05 &  265.226063 &  2410 &   non-fiction &    0.626028 &     0.811733 \\
+46 &               skills \& hobbies &  9.136364e+05 &  260.778308 &  2295 &   non-fiction &    0.469408 &     0.707916 \\
+47 &                   popular lore &  8.272986e+05 &  263.910992 &  2256 &   non-fiction &    0.237332 &     0.781038 \\
+48 &                 belles lettres &  9.481685e+05 &  263.538820 &  2403 &   non-fiction &    0.562231 &     0.772351 \\
+49 &                  miscellaneous &  8.634832e+05 &  246.399778 &  2207 &       neither &    0.334596 &     0.372302 \\
+50 &                        learned &  8.425692e+05 &  231.378440 &  2205 &   non-fiction &    0.278379 &     0.021683 \\
+51 &                general fiction &  9.175579e+05 &  230.449509 &  2296 &       fiction &    0.479949 &     0.000000 \\
+52 &  mistery and detective fiction &  8.667315e+05 &  245.560095 &  2288 &       fiction &    0.343328 &     0.352702 \\
+53 &                science fiction &  1.102842e+06 &  248.079801 &  2461 &       fiction &    0.977993 &     0.411516 \\
+54 &  adventure and western fiction &  9.767892e+05 &  253.204165 &  2349 &       fiction &    0.639163 &     0.531125 \\
+55 &         romance and love story &  1.111029e+06 &  248.497089 &  2422 &       fiction &    1.000000 &     0.421256 \\
+56 &                      reportage &  8.043079e+05 &  254.575644 &  2244 &   non-fiction &    0.023678 &     0.551521 \\
+57 &                      editorial &  7.978480e+05 &  256.403003 &  2241 &   non-fiction &    0.003261 &     0.584515 \\
+58 &                        reviews &  9.262954e+05 &  234.463584 &  2342 &   non-fiction &    0.409220 &     0.188386 \\
+59 &                       religion &  9.359318e+05 &  233.241442 &  2317 &   non-fiction &    0.439676 &     0.166320 \\
+60 &               skills \& hobbies &  9.168846e+05 &  232.225114 &  2370 &   non-fiction &    0.379478 &     0.147970 \\
+61 &                   popular lore &  7.968161e+05 &  263.726336 &  2258 &   non-fiction &    0.000000 &     0.716742 \\
+62 &                 belles lettres &  8.613437e+05 &  239.365589 &  2359 &   non-fiction &    0.203940 &     0.276895 \\
+63 &                  miscellaneous &  8.631730e+05 &  279.414446 &  2316 &       neither &    0.209722 &     1.000000 \\
+64 &                        learned &  9.070694e+05 &  255.345328 &  2334 &   non-fiction &    0.348456 &     0.565418 \\
+65 &                general fiction &  8.701799e+05 &  224.029887 &  2345 &       fiction &    0.231867 &     0.000000 \\
+66 &  mistery and detective fiction &  9.142198e+05 &  256.184163 &  2331 &       fiction &    0.371055 &     0.580564 \\
+67 &                science fiction &  1.000556e+06 &  255.785265 &  2369 &       fiction &    0.643922 &     0.573362 \\
+68 &  adventure and western fiction &  8.356933e+05 &  228.397175 &  2279 &       fiction &    0.122872 &     0.078854 \\
+69 &         romance and love story &  1.113221e+06 &  261.254637 &  2546 &       fiction &    1.000000 &     0.672114 \\
+\end{longtable}
+\end{landscape}

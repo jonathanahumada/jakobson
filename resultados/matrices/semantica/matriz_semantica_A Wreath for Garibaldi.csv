@@ -1,0 +1,795 @@
+w,vector_semantico
+memorial,"['memorial', 'remembrance', 'monument', 'commemoration']",A Wreath for Garibaldi
+Vatican,"['Vatican', 'Vatican_Palace']",A Wreath for Garibaldi
+sentimental,"['sentimental', 'mushy', 'bathetic', 'schmaltzy', 'soppy', 'drippy', 'mawkish', 'maudlin', 'schmalzy', 'hokey', 'slushy', 'soupy', 'kitschy']",A Wreath for Garibaldi
+like,"['wish', 'like', 'corresponding', 'comparable', 'the_like', 'care', 'same', 'alike', 'ilk', 'similar', 'the_likes_of']",A Wreath for Garibaldi
+either,['either'],A Wreath for Garibaldi
+new,"['newfangled', 'New', 'novel', 'new', 'newly', 'unexampled', 'freshly', 'fresh', 'young', 'raw', 'Modern']",A Wreath for Garibaldi
+seen,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'run_into', 'interpret', 'date', 'take_care', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",A Wreath for Garibaldi
+treatment,"['handling', 'treatment', 'intervention', 'discourse', 'discussion']",A Wreath for Garibaldi
+Day,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'daytime', 'Day', 'twenty-four_hour_period', '24-hour_interval', 'Clarence_Shepard_Day_Jr.']",A Wreath for Garibaldi
+into,[],A Wreath for Garibaldi
+small,"['small-scale', 'minor', 'minuscule', 'little', 'diminished', 'modest', 'low', 'small', 'humble', 'pocket-size', 'belittled', 'pocket-sized', 'lowly']",A Wreath for Garibaldi
+I,"['ane', 'unity', 'single', '1', 'iodin', 'I', 'i', 'one', 'atomic_number_53', 'ace', 'iodine']",A Wreath for Garibaldi
+most,"['near', 'nigh', 'well-nigh', 'nearly', 'about', 'almost', 'virtually', 'most', 'to_the_highest_degree']",A Wreath for Garibaldi
+30th,"['30th', 'thirtieth']",A Wreath for Garibaldi
+station,"['post', 'send', 'place', 'station']",A Wreath for Garibaldi
+So,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",A Wreath for Garibaldi
+sculptor,"['sculpturer', 'sculptor', 'Sculptor', 'statue_maker', 'carver']",A Wreath for Garibaldi
+Linz,"['Linz', 'Lentia']",A Wreath for Garibaldi
+shot,"['scud', 'flash', 'gibe', 'blast', 'inject', 'fritter_away', 'guesswork', 'guessing', 'dash', 'germinate', 'guess', 'dig', 'hit', 'iridescent', 'film', 'pip', 'fool_away', 'fool', 'shooter', 'shooting', 'shot', 'snap', 'charge', 'scoot', 'dissipate', 'slam', 'crack', 'stroke', 'blastoff', 'shoot', 'burgeon_forth', 'shoot_down', 'pullulate', 'shaft', 'chatoyant', 'jibe', 'barb', 'tear', 'changeable', 'scene', 'injection', 'snapshot', 'frivol_away', 'buck', 'photograph', 'fritter', 'dead_reckoning', 'stab', 'dart', 'spud', 'sprout', 'pellet', 'take', 'bourgeon', 'nip']",A Wreath for Garibaldi
+Pickett's,[],A Wreath for Garibaldi
+been,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+April,"['Apr', 'April']",A Wreath for Garibaldi
+march,"['butt_against', 'butt_on', 'Mar', 'border', 'marching', 'butt', 'edge', 'marchland', 'marching_music', 'exhibit', 'borderland', 'march', 'border_district', 'demonstrate', 'abut', 'parade', 'Master_of_Architecture', 'March', 'adjoin', 'MArch', 'process']",A Wreath for Garibaldi
+end,"['close', 'end', 'terminal', 'finish', 'stop', 'last', 'conclusion', 'goal', 'final_stage', 'death', 'cease', 'ending', 'remainder', 'oddment', 'remnant', 'destruction', 'terminate', 'closing']",A Wreath for Garibaldi
+down,"['pile', 'blue', 'downcast', 'downhearted', 'land', 'kill', 'low-spirited', 'down_pat', 'consume', 'fine-tune', 'downwardly', 'dispirited', 'push_down', 'refine', 'polish', 'toss_off', 'knock_down', 'low', 'devour', 'down_feather', 'down', 'go_through', 'depressed', 'Down', 'grim', 'cut_down', 'shoot_down', 'pull_down', 'downward', 'drink_down', 'gloomy', 'bolt_down', 'John_L._H._Down', 'pop', 'belt_down', 'down_in_the_mouth', 'pour_down', 'downwards', 'mastered']",A Wreath for Garibaldi
+feel,"['feel', 'flavor', 'smell', 'experience', 'flavour', 'tone', 'sense', 'finger', 'palpate', 'find', 'feeling', 'spirit', 'tactile_property', 'look']",A Wreath for Garibaldi
+waiting,"['wait', 'waitress', 'waiting', 'hold_off', 'await', 'hold_back', 'expect', 'ready_and_waiting', 'look']",A Wreath for Garibaldi
+ones,"['unity', 'single', '1', 'I', 'one', 'ace']",A Wreath for Garibaldi
+Southerners,['Southerner'],A Wreath for Garibaldi
+straight,"['heterosexual', 'direct', 'flat', 'uncoiled', 'true', 'straight_person', 'unbent', 'unbowed', 'straightaway', 'heterosexual_person', 'consecutive', 'straightforward', 'directly', 'neat', 'full-strength', 'straight', 'square']",A Wreath for Garibaldi
+rows,"['row', 'wrangle', 'run-in', 'rowing', 'course', 'quarrel', 'dustup', 'words']",A Wreath for Garibaldi
+known,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'known', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",A Wreath for Garibaldi
+A,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",A Wreath for Garibaldi
+city,"['metropolis', 'city', 'urban_center']",A Wreath for Garibaldi
+Rottosei,[],A Wreath for Garibaldi
+'',[],A Wreath for Garibaldi
+himself,[],A Wreath for Garibaldi
+publishers,"['publisher', 'publishing_company', 'newspaper_publisher', 'publishing_house', 'publishing_firm']",A Wreath for Garibaldi
+commemorated,"['record', 'memorialise', 'mark', 'commemorate', 'immortalise', 'memorialize', 'immortalize', 'remember']",A Wreath for Garibaldi
+escape,"['escape', 'bunk', 'run_away', 'escape_valve', 'evasion', 'hightail_it', 'escape_cock', 'elude', 'turn_tail', 'safety_valve', 'head_for_the_hills', 'dodging', 'get_away', 'flight', 'fly_the_coop', 'run', 'get_out', 'break_away', 'leakage', 'miss', 'relief_valve', 'leak', 'scat', 'scarper', 'take_to_the_woods', 'lam', 'outflow', 'get_off', 'get_by', 'escapism', 'break_loose']",A Wreath for Garibaldi
+Sky,"['flip', 'sky', 'pitch', 'toss']",A Wreath for Garibaldi
+paid,"['compensate', 'pay', 'pay_up', 'bear', 'pay_off', 'paid', 'yield', 'give', 'ante_up', 'devote', 'make_up', 'nonrecreational', 'paying', 'gainful']",A Wreath for Garibaldi
+top,"['overstep', 'top', 'big_top', 'crest', 'tiptop', 'top_off', 'upper_side', 'tip', 'crown', 'height', 'cover', 'lead', 'pinnacle', 'superlative', 'acme', 'whirligig', 'pinch', 'top_out', 'top_side', 'circus_tent', 'go_past', 'summit', 'teetotum', 'transcend', 'top_of_the_inning', 'elevation', 'clear', 'pass', 'meridian', 'round_top', 'exceed', 'upside', 'peak', 'spinning_top']",A Wreath for Garibaldi
+Excuse,"['self-justification', 'rationalise', 'beg_off', 'alibi', 'excuse', 'exculpation', 'apologize', 'exempt', 'rationalize', 'condone', 'pardon', 'explain', 'apologise', 'let_off', 'justify', 'relieve', 'apology']",A Wreath for Garibaldi
+wreaths,"['lei', 'coronal', 'garland', 'chaplet', 'wreath']",A Wreath for Garibaldi
+dead,"['deadened', 'bushed', 'numb', 'perfectly', 'dead', 'suddenly', 'beat', 'idle', 'utter', 'short', 'absolutely', 'stagnant', 'utterly', 'drained', 'abruptly', 'all_in']",A Wreath for Garibaldi
+talked,"['peach', 'blab_out', 'babble_out', 'let_the_cat_out_of_the_bag', 'tattle', 'lecture', 'verbalize', 'spill', 'mouth', 'sing', 'verbalise', 'utter', 'babble', 'blab', 'talk', 'speak', 'spill_the_beans']",A Wreath for Garibaldi
+would,[],A Wreath for Garibaldi
+grinned,['grin'],A Wreath for Garibaldi
+living,"['inhabit', 'hold_up', 'living', 'bread_and_butter', 'subsist', 'survive', 'surviving', 'endure', 'dwell', 'exist', 'live', 'support', 'go', 'populate', 'livelihood', 'hold_out', 'life', 'live_on', 'sustenance', 'animation', 'last', 'know', 'aliveness', 'keep', 'be', 'experience']",A Wreath for Garibaldi
+And,[],A Wreath for Garibaldi
+walked,"['walk', 'take_the_air']",A Wreath for Garibaldi
+across,"['across', 'crosswise', 'crossways']",A Wreath for Garibaldi
+mispronunciation,['mispronunciation'],A Wreath for Garibaldi
+flowers,"['efflorescence', 'flush', 'flower', 'peak', 'prime', 'heyday', 'bloom', 'blossom']",A Wreath for Garibaldi
+as,"['adenine', 'group_A', 'arsenic', 'AS', 'angstrom_unit', 'As', 'as', 'Eastern_Samoa', 'angstrom', 'every_bit', 'a', 'ampere', 'type_A', 'axerophthol', 'atomic_number_33', 'vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'equally', 'amp', 'American_Samoa', 'antiophthalmic_factor']",A Wreath for Garibaldi
+book,"['Christian_Bible', 'account_book', 'Scripture', 'leger', 'hold', 'Quran', 'rule_book', 'record', 'book', 'Koran', 'Word', 'Book', 'Bible', 'record_book', 'script', 'volume', ""al-Qur'an"", 'ledger', 'Word_of_God', 'Holy_Writ', 'Holy_Scripture', 'reserve', 'book_of_account', 'playscript', 'Good_Book']",A Wreath for Garibaldi
+favore,[],A Wreath for Garibaldi
+fool,"['fall_guy', 'slang', 'fritter_away', 'befool', 'muggins', 'put_one_across', 'mug', 'put_on', 'patsy', 'take_in', 'sucker', 'motley_fool', 'fool_away', 'fool', 'mark', 'put_one_over', 'soft_touch', 'dissipate', 'tomfool', 'arse_around', 'cod', 'saphead', 'shoot', 'horse_around', 'dupe', 'frivol_away', 'jester', 'fritter', 'fool_around', 'chump', 'sap', 'gull']",A Wreath for Garibaldi
+afraid,['afraid'],A Wreath for Garibaldi
+talking,"['peach', 'blab_out', 'babble_out', 'let_the_cat_out_of_the_bag', 'tattle', 'lecture', 'verbalize', 'spill', 'talking', 'mouth', 'sing', 'verbalise', 'utter', 'babble', 'blab', 'talk', 'speak', 'spill_the_beans']",A Wreath for Garibaldi
+Around,"['roughly', 'more_or_less', 'round', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",A Wreath for Garibaldi
+coast,"['glide', 'coast', 'seashore', 'slide', 'sea-coast', 'seacoast']",A Wreath for Garibaldi
+they,[],A Wreath for Garibaldi
+desk,['desk'],A Wreath for Garibaldi
+silences,"['quieten', 'silence', 'quiet', 'still', 'secretiveness', 'shut_up', 'muteness', 'hush', 'hush_up', 'secrecy']",A Wreath for Garibaldi
+you,[],A Wreath for Garibaldi
+doesn't,[],A Wreath for Garibaldi
+married,"['tie', 'matrimonial', 'get_hitched_with', 'wed', 'espouse', 'get_married', 'conjoin', 'married', 'marry', 'hook_up_with', 'marital', 'splice']",A Wreath for Garibaldi
+When,[],A Wreath for Garibaldi
+script,"['book', 'playscript', 'handwriting', 'hand', 'script']",A Wreath for Garibaldi
+good,"['proficient', 'sound', 'respectable', 'well', 'salutary', 'full', 'serious', 'estimable', 'effective', 'in_effect', 'commodity', 'skilful', 'just', 'dear', 'practiced', 'good', 'adept', 'thoroughly', 'safe', 'trade_good', 'honest', 'near', 'goodness', 'skillful', 'right', 'unspoilt', 'expert', 'ripe', 'undecomposed', 'unspoiled', 'secure', 'in_force', 'soundly', 'honorable', 'upright', 'dependable', 'beneficial']",A Wreath for Garibaldi
+cup,"['transfuse', 'cup', 'cupful', 'loving_cup']",A Wreath for Garibaldi
+Maybe,"['maybe', 'perhaps', 'mayhap', 'possibly', 'peradventure', 'perchance']",A Wreath for Garibaldi
+at,"['At', 'atomic_number_85', 'astatine', 'at']",A Wreath for Garibaldi
+view,"['aspect', 'horizon', 'perspective', 'vista', 'regard', 'look_at', 'take_in', 'catch', 'persuasion', 'reckon', 'consider', 'sentiment', 'eyeshot', 'opinion', 'watch', 'thought', 'view', 'purview', 'scene', 'position', 'prospect', 'sight', 'panorama', 'survey', 'see']",A Wreath for Garibaldi
+disappointment,"['dashing_hopes', 'disappointment', 'letdown']",A Wreath for Garibaldi
+bugeyed,[],A Wreath for Garibaldi
+much,"['a_good_deal', 'often', 'a_lot', 'a_great_deal', 'very_much', 'much', 'lots', 'practically']",A Wreath for Garibaldi
+took,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'carry', 'ingest', 'make', 'rent', 'shoot', 'assume', 'remove', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",A Wreath for Garibaldi
+decide,"['determine', 'decide', 'adjudicate', 'settle', ""make_up_one's_mind"", 'resolve']",A Wreath for Garibaldi
+laughed,"['laugh', 'express_mirth', 'express_joy']",A Wreath for Garibaldi
+their,[],A Wreath for Garibaldi
+our,[],A Wreath for Garibaldi
+if,[],A Wreath for Garibaldi
+the,[],A Wreath for Garibaldi
+suffer,"['digest', 'brook', 'endure', 'sustain', 'support', 'ache', 'abide', 'stomach', 'hurt', 'put_up', 'suffer', 'stick_out', 'bear', 'tolerate', 'stand', 'get', 'lose', 'have', 'meet']",A Wreath for Garibaldi
+There,"['on_that_point', 'at_that_place', 'in_that_location', 'in_that_respect', 'there', 'thither']",A Wreath for Garibaldi
+reasons,"['argue', 'rationality', 'intellect', 'ground', 'reasonableness', 'grounds', 'conclude', 'reason_out', 'understanding', 'reason', 'cause']",A Wreath for Garibaldi
+which,[],A Wreath for Garibaldi
+foot,"['hoof', 'pes', 'metrical_foot', 'ft', 'metrical_unit', 'understructure', 'leg_it', 'base', 'groundwork', 'human_foot', 'foot_up', 'foundation', 'fundament', 'animal_foot', 'hoof_it', 'substructure', 'pick', 'invertebrate_foot', 'foot', 'infantry']",A Wreath for Garibaldi
+taken,"['hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'take_in', 'pick_out', 'ask', 'aim', 'conduct', 'require', 'claim', 'consume', 'study', 'take_aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'carry', 'ingest', 'make', 'rent', 'shoot', 'assume', 'remove', 'interpreted', 'take_on', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'taken', 'take', 'have', 'acquire']",A Wreath for Garibaldi
+died,"['expire', 'break_down', 'choke', 'become_flat', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'go_bad', 'kick_the_bucket', 'give-up_the_ghost', 'give_way', 'go', 'pall', 'pass_away', 'croak', 'die', 'conk_out', 'break', 'decease', 'die_out', 'fail', 'pass', 'buy_the_farm', 'perish', 'drop_dead', 'give_out']",A Wreath for Garibaldi
+(,[],A Wreath for Garibaldi
+building,"['edifice', 'progress', 'make', 'ramp_up', 'build_up', 'establish', 'construct', 'construction', 'work_up', 'building', 'build']",A Wreath for Garibaldi
+pay,"['compensate', 'pay', 'pay_up', 'bear', 'pay_off', 'give', 'yield', 'earnings', 'ante_up', 'wage', 'remuneration', 'devote', 'make_up', 'salary']",A Wreath for Garibaldi
+banging,"['banging', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'make_out', 'make_love', 'spang', 'slam', 'humongous', 'love', 'bang', 'jazz', 'thumping', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'battering', 'walloping', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'whopping', 'do_it']",A Wreath for Garibaldi
+expensive,['expensive'],A Wreath for Garibaldi
+thinking,"['thinking', 'cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'cerebration', 'consider', 'recall', 'call_back', 'think', 'recollect', 'intend', 'suppose', 'thought', 'intelligent', 'thought_process', 'imagine', 'reasoning', 'conceive', 'intellection', 'opine', 'call_up', 'believe', 'mentation']",A Wreath for Garibaldi
+swam,"['swim', 'float', 'drown']",A Wreath for Garibaldi
+are,"['personify', 'equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'are', 'ar', 'represent', 'comprise']",A Wreath for Garibaldi
+It,"['IT', 'information_technology']",A Wreath for Garibaldi
+Southerner,['Southerner'],A Wreath for Garibaldi
+France,"['French_Republic', 'Jacques_Anatole_Francois_Thibault', 'Anatole_France', 'France']",A Wreath for Garibaldi
+renamed,['rename'],A Wreath for Garibaldi
+young,"['Thomas_Young', 'immature', 'vernal', 'new', 'young', 'Young', 'Lester_Willis_Young', 'Whitney_Young', 'Pres_Young', 'Danton_True_Young', 'Whitney_Moore_Young_Jr.', 'Cy_Young', 'offspring', 'untested', 'unseasoned', 'Edward_Young', 'youthful', 'untried', 'Brigham_Young', 'Loretta_Young', 'youth']",A Wreath for Garibaldi
+over,"['complete', 'all_over', 'concluded', ""o'er"", 'ended', 'terminated', 'over']",A Wreath for Garibaldi
+marble,['marble'],A Wreath for Garibaldi
+any,"['any', 'whatsoever', 'whatever']",A Wreath for Garibaldi
+toppling,"['tip', 'tumble', 'topple']",A Wreath for Garibaldi
+before,"['ahead', 'before', 'in_front', 'earlier']",A Wreath for Garibaldi
+jackboots,"['jackboot', 'Hessian_boot', 'Wellington_boot', 'Wellington', 'hessian']",A Wreath for Garibaldi
+latest,"['latest', 'previous', 'in_style', 'a_la_mode', 'later', 'late', 'recent', 'up-to-the-minute', 'tardy', 'belated', 'in_vogue', 'modish', 'former']",A Wreath for Garibaldi
+pieces,"['art_object', 'while', 'bit', 'assemble', 'patch', 'part', 'put_together', 'man', ""objet_d'art"", 'firearm', 'slice', 'nibble', 'opus', 'piece', 'musical_composition', 'spell', 'pick', 'composition', 'piece_of_music', 'set_up', 'tack_together', 'small-arm', 'tack']",A Wreath for Garibaldi
+didn't,[],A Wreath for Garibaldi
+hated,"['detested', 'hated', 'despised', 'scorned', 'detest', 'hat', 'hate']",A Wreath for Garibaldi
+every,['every'],A Wreath for Garibaldi
+finally,"['in_the_end', 'last', 'finally', 'at_last', 'lastly', 'eventually', 'ultimately', 'in_conclusion', 'at_long_last']",A Wreath for Garibaldi
+off,"['murder', 'sour', 'dispatch', 'bump_off', 'off', 'slay', 'polish_off', 'remove', 'cancelled', 'turned', 'away', 'hit', 'forth']",A Wreath for Garibaldi
+help,"['facilitate', 'helper', 'aid', 'service', 'help', 'assist', 'assistance', 'assistant', 'serve', 'help_oneself', 'supporter', 'avail']",A Wreath for Garibaldi
+:,[],A Wreath for Garibaldi
+lived,"['survive', 'last', 'inhabit', 'endure', 'experience', 'hold_up', 'know', 'dwell', 'be', 'exist', 'hold_out', 'live', 'go', 'populate', 'live_on', 'subsist']",A Wreath for Garibaldi
+heard,"['hear', 'discover', 'get_a_line', 'pick_up', 'learn', 'find_out', 'try', 'take_heed', 'get_wind', 'heard', 'listen', 'get_word', 'see']",A Wreath for Garibaldi
+more,"['More', 'to_a_greater_extent', 'Sir_Thomas_More', 'Thomas_More', 'more', 'more_than']",A Wreath for Garibaldi
+without,[],A Wreath for Garibaldi
+realismo,[],A Wreath for Garibaldi
+gave,"['pay', 'dedicate', 'impart', 'ease_up', 'fall_in', 'founder', 'devote', 'return', 'open', 'hold', 'feed', 'give', 'present', 'give_way', 'throw', 'cave_in', 'commit', 'consecrate', 'make', 'generate', 'yield', 'collapse', 'apply', 'grant', 'establish', 'gift', 'break', 'sacrifice', 'afford', 'kick_in', 'hand', 'reach', 'pass_on', 'chip_in', 'pass', 'contribute', 'move_over', 'leave', 'have', 'render', 'turn_over']",A Wreath for Garibaldi
+flat,"['savourless', 'two-dimensional', 'unconditional', 'directly', 'flavourless', 'flavorless', 'monotonous', 'flat_tire', 'level', 'matted', 'compressed', 'flatcar', 'insipid', 'prostrate', 'categorical', 'vapid', 'bland', 'plane', 'flatbed', '2-dimensional', 'matt', 'apartment', 'matte', 'savorless', 'straight', 'flat', 'mat', 'categoric', 'monotonic', 'monotone']",A Wreath for Garibaldi
+Is,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+He,"['helium', 'He', 'atomic_number_2', 'he']",A Wreath for Garibaldi
+anonymous,"['anonymous', 'anon.']",A Wreath for Garibaldi
+Pavese,[],A Wreath for Garibaldi
+ground,"['crunch', 'bray', 'reason', 'undercoat', 'land', 'dig', 'mash', 'flat_coat', 'base', 'moil', 'soil', 'dry_land', 'priming', 'toil', 'earth', 'travail', 'prime', 'found', 'drudge', 'strand', 'grind', 'labor', 'basis', 'grate', 'anchor', 'establish', 'background', 'primer_coat', 'craunch', 'fag', 'run_aground', 'ground', 'comminute', 'cranch', 'terra_firma', 'solid_ground', 'priming_coat', 'labour', 'primer', 'footing']",A Wreath for Garibaldi
+other,"['other', 'early', 'former']",A Wreath for Garibaldi
+call,"['Call', 'phone_call', 'anticipate', 'call_off', 'birdcall', 'claim', 'vociferation', 'ring', 'margin_call', 'cry', 'send_for', 'visit', 'name', 'scream', 'yell', 'foretell', 'shout', 'call_in', 'birdsong', 'holler', 'squall', 'forebode', 'telephone_call', 'hollo', 'bid', 'outcry', 'address', 'predict', 'song', 'call', 'phone', 'prognosticate', 'telephone', 'call_up', 'shout_out', 'promise', 'call_option']",A Wreath for Garibaldi
+Communists,"['commie', 'communist', 'Communist']",A Wreath for Garibaldi
+thus,"['hence', 'olibanum', 'frankincense', 'thus', 'therefore', 'thence', 'gum_olibanum', 'so', 'thusly']",A Wreath for Garibaldi
+be,"['Be', 'equal', 'constitute', 'glucinium', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'beryllium', 'cost', 'personify', 'represent', 'comprise', 'atomic_number_4']",A Wreath for Garibaldi
+purpose,"['purport', 'intention', 'intent', 'function', 'determination', 'resolve', 'use', 'propose', 'purpose', 'aim', 'design', 'role']",A Wreath for Garibaldi
+roof,"['cap', 'ceiling', 'roof']",A Wreath for Garibaldi
+way,"['mode', 'right_smart', 'direction', 'means', 'style', 'elbow_room', 'manner', 'fashion', 'path', 'way', 'way_of_life', 'room', 'agency']",A Wreath for Garibaldi
+strange,"['foreign', 'strange', 'unusual', 'unknown']",A Wreath for Garibaldi
+remembered,"['retrieve', 'commend', 'think_back', 'think', 'commemorate', 'recall', 'call_up', 'call_back', 'think_of', 'recollect', 'remember']",A Wreath for Garibaldi
+Little,"['picayune', 'petty', 'trivial', 'slight', 'minuscule', 'little', 'short', 'small', 'footling', 'piddling', 'piffling', 'lilliputian', 'fiddling', 'niggling']",A Wreath for Garibaldi
+again,"['once_again', 'again', 'once_more', 'over_again']",A Wreath for Garibaldi
+business,"['stage_business', 'job', 'patronage', 'business_organisation', 'line_of_work', 'concern', 'business', 'business_concern', 'occupation', 'business_organization', 'business_sector', 'clientele', 'byplay', 'line', 'commercial_enterprise', 'business_enterprise']",A Wreath for Garibaldi
+writers,"['author', 'writer']",A Wreath for Garibaldi
+Just,"['good', 'only', 'exactly', 'merely', 'simply', 'scarcely', 'just', 'barely', 'scarce', 'fair', 'but', 'precisely', 'upright', 'equitable', 'hardly', 'just_now']",A Wreath for Garibaldi
+few,['few'],A Wreath for Garibaldi
+show,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'appearance', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'display', 'evidence', 'demo', 'render']",A Wreath for Garibaldi
+its,"['IT', 'information_technology']",A Wreath for Garibaldi
+order,"['parliamentary_procedure', 'parliamentary_law', 'regularise', 'purchase_order', 'ordination', 'dictate', 'order', 'monastic_order', 'ordering', 'lodge', 'rules_of_order', 'arrange', 'guild', 'tell', 'place', 'put', 'rate', 'ordain', 'social_club', 'Order', 'rank', 'govern', 'consecrate', 'society', 'club', 'rescript', 'prescribe', 'orderliness', 'order_of_magnitude', 'enjoin', 'Holy_Order', 'gild', 'edict', 'decree', 'fiat', 'grade', 'say', 'regularize', 'set_up', 'regulate', 'range', 'ordinate']",A Wreath for Garibaldi
+threw,"['project', 'bemuse', 'hold', 'flip', 'shake_off', 'drop', 'confuse', 'bedevil', 'thrust', 'give', 'hurl', 'throw', 'throw_off', 'fox', 'make', 'bewilder', 'cast', 'shed', 'contrive', 'cast_off', 'befuddle', 'confound', 'fuddle', 'throw_away', 'discombobulate', 'have', 'switch']",A Wreath for Garibaldi
+everything,[],A Wreath for Garibaldi
+questioned,"['query', 'call_into_question', 'interrogate', 'oppugn', 'wonder', 'question', 'interview']",A Wreath for Garibaldi
+slowly,"['slowly', 'easy', 'slow', 'lento', 'tardily']",A Wreath for Garibaldi
+films,"['film', 'motion_picture', 'pic', 'picture_show', 'flick', 'photographic_film', 'shoot', 'picture', 'moving_picture', 'motion-picture_show', 'movie', 'plastic_film', 'moving-picture_show', 'celluloid', 'take', 'cinema']",A Wreath for Garibaldi
+gossip,"['confab', 'confabulate', 'chin-wagging', 'chew_the_fat', 'chaffer', 'chin-wag', 'gossiper', 'chat', 'causerie', 'gossip', 'chit_chat', 'chatter', 'chitchat', 'jaw', 'chin_wag', 'comment', 'gossipmonger', 'visit', 'rumormonger', 'newsmonger', 'natter', 'chit-chat', 'gabfest', 'chin_wagging', 'shoot_the_breeze', 'gab', 'scuttlebutt', 'small_talk', 'dish_the_dirt', 'tittle-tattle', 'claver', 'rumourmonger']",A Wreath for Garibaldi
+happened,"['materialize', 'pass_off', 'come_about', 'bump', 'pass', 'bechance', 'materialise', 'hap', 'take_place', 'go_on', 'encounter', 'find', 'chance', 'fall_out', 'befall', 'occur', 'happen']",A Wreath for Garibaldi
+dialect,"['dialect', 'idiom', 'accent']",A Wreath for Garibaldi
+cover,"['compensate', 'natural_covering', 'top', 'spread_over', 'screen', 'encompass', 'overcompensate', 'incubate', 'covering_fire', 'cut_through', 'cross', 'report', 'enshroud', 'plow', 'track', 'extend', 'cover', 'binding', 'hide', 'overlay', 'wrap_up', 'screening', 'underwrite', 'cover_version', 'back', 'pass_over', 'breed', 'get_over', 'comprehend', 'embrace', 'book_binding', 'masking', 'concealment', 'cut_across', 'address', 'shroud', 'covert', 'cover_up', 'continue', 'cover_song', 'hatch', 'insure', 'deal', 'blanket', 'traverse', 'get_across', 'covering', 'cover_charge', 'handle', 'brood', 'treat']",A Wreath for Garibaldi
+hard,"['laborious', 'gruelling', 'surd', 'tough', 'hard', 'concentrated', 'intemperate', 'heavy', 'grueling', 'firmly', 'punishing', 'operose', 'unvoiced', 'heavily', 'intemperately', 'severe', 'strong', 'difficult', 'knockout', 'arduous', 'severely', 'backbreaking', 'toilsome', 'voiceless']",A Wreath for Garibaldi
+because,[],A Wreath for Garibaldi
+U.S.,"['the_States', 'U.S.A.', 'United_States', 'United_States_of_America', 'US', 'U.S.', 'America', 'United_States_government', 'USA', 'US_Government', 'U.S._government']",A Wreath for Garibaldi
+early,"['other', 'early_on', 'early', 'ahead_of_time', 'betimes', 'too_soon', 'former']",A Wreath for Garibaldi
+We,[],A Wreath for Garibaldi
+adventurous,"['adventurous', 'adventuresome']",A Wreath for Garibaldi
+barrel,"['drum', 'barrelful', 'bbl', 'barrel', 'cask', 'gun_barrel']",A Wreath for Garibaldi
+eight,"['eight-spot', 'octonary', 'octad', 'viii', 'eighter_from_Decatur', '8', 'VIII', 'eight', 'Ashcan_School', 'eighter', 'ogdoad', 'octet', 'Eight']",A Wreath for Garibaldi
+people,"['multitude', 'masses', 'hoi_polloi', 'citizenry', 'the_great_unwashed', 'people', 'mass']",A Wreath for Garibaldi
+or,"['operating_theater', 'operating_theatre', 'surgery', 'Oregon', 'OR', 'operating_room', 'Beaver_State']",A Wreath for Garibaldi
+street,['street'],A Wreath for Garibaldi
+What,[],A Wreath for Garibaldi
+sort,"['classify', 'assort', 'sort', 'screen', 'screen_out', 'separate', 'sort_out', 'kind', 'variety', 'form', 'sieve', 'sorting', 'class']",A Wreath for Garibaldi
+often,"['frequently', 'often', 'a_great_deal', 'ofttimes', 'oftentimes', 'oft', 'much']",A Wreath for Garibaldi
+spectacular,"['outstanding', 'spectacular', 'prominent', 'striking', 'dramatic', 'salient']",A Wreath for Garibaldi
+rise,"['mount', 'ascending', 'prove', 'advance', 'lift', 'rising', 'rebel', 'come_up', 'turn_out', 'get_up', 'originate', 'rising_slope', 'resurrect', 'go_up', 'rise_up', 'climb_up', 'procession', 'upgrade', 'spring_up', 'develop', 'arise', 'heighten', 'wage_increase', 'wage_hike', 'rise', 'hike', 'uprise', 'acclivity', 'emanation', 'salary_increase', 'ascent', 'boost', 'rear', 'move_up', 'wax', 'climb', 'raise', 'cost_increase', 'jump', 'ascension', 'grow', 'stand_up', 'ascend', 'surface']",A Wreath for Garibaldi
+barbed,"['spiny', 'bristly', 'burred', 'mordacious', 'nipping', 'thorny', 'burry', 'biting', 'bristled', 'barbed', 'prickly', 'briery', 'setose', 'barbellate', 'pungent', 'setaceous', 'barb', 'briary']",A Wreath for Garibaldi
+coffee,"['chocolate', 'coffee_bean', 'burnt_umber', 'coffee', 'java', 'umber', 'deep_brown', 'coffee_berry', 'coffee_tree']",A Wreath for Garibaldi
+Austria,"['Austria', 'Oesterreich', 'Republic_of_Austria']",A Wreath for Garibaldi
+Italians,['Italian'],A Wreath for Garibaldi
+pamphlets,"['folder', 'leaflet', 'booklet', 'tract', 'pamphlet', 'brochure']",A Wreath for Garibaldi
+special,"['particular', 'limited', 'exceptional', 'extra', 'peculiar', 'especial', 'special']",A Wreath for Garibaldi
+history,"['story', 'history', 'account', 'chronicle']",A Wreath for Garibaldi
+here,"['here', 'Here', 'hither', 'Hera']",A Wreath for Garibaldi
+ruined,"['destroyed', 'washed-up', 'ruined', 'smash', 'finished', 'done_for', 'bankrupt', 'break', 'undone', 'deflower', 'ruin', 'sunk', 'destroy']",A Wreath for Garibaldi
+never,"[""ne'er"", 'never']",A Wreath for Garibaldi
+knew,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",A Wreath for Garibaldi
+can't,[],A Wreath for Garibaldi
+we,[],A Wreath for Garibaldi
+shakes,"['shake', 'trill', 'shake_up', 'handshaking', 'stir', 'escape_from', 'shake_off', 'handclasp', 'excite', 'stimulate', 'wag', 'tremble', 'throw_off', 'judder', 'didder', 'waggle', 'agitate', 'rock', 'shiver', 'milk_shake', 'milkshake', 'shingle', 'sway', 'handshake']",A Wreath for Garibaldi
+for,[],A Wreath for Garibaldi
+lost,"['deep_in_thought', 'baffled', 'bewildered', 'confounded', 'misplace', 'mixed-up', 'disoriented', 'befuddled', 'recede', 'turn_a_loss', 'missed', 'fall_back', 'confused', 'at_sea', 'bemused', 'fall_behind', 'mazed', 'helpless', 'preoccupied', 'drop_off', 'doomed', 'suffer', 'mislay', 'lose', 'lost', 'miss']",A Wreath for Garibaldi
+brave,"['courageous', 'braw', 'fearless', 'gay', 'hardy', 'unfearing', 'dauntless', 'endure', 'intrepid', 'brave', 'audacious', 'weather', 'brave_out']",A Wreath for Garibaldi
+except,"['demur', 'exclude', 'take_out', 'leave_out', 'omit', 'except', 'leave_off']",A Wreath for Garibaldi
+embarrassing,"['hinder', 'unenviable', 'obstruct', 'stymie', 'abash', 'block', 'sticky', 'stymy', 'awkward', 'blockade', 'embarrassing', 'mortifying', 'embarrass']",A Wreath for Garibaldi
+lose,"['suffer', 'mislay', 'miss', 'recede', 'misplace', 'turn_a_loss', 'fall_back', 'fall_behind', 'lose', 'drop_off']",A Wreath for Garibaldi
+?,[],A Wreath for Garibaldi
+planned,"['be_after', 'project', 'design', 'aforethought', 'plotted', 'plan', 'planned', 'contrive']",A Wreath for Garibaldi
+see,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'run_into', 'interpret', 'date', 'take_care', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",A Wreath for Garibaldi
+house,"['family', 'business_firm', 'household', 'menage', 'theatre', 'put_up', 'star_sign', 'mansion', 'sign_of_the_zodiac', 'home', 'domiciliate', 'theater', 'firm', 'sign', 'planetary_house', 'house']",A Wreath for Garibaldi
+unsuccessful,"['abortive', 'unsuccessful', 'stillborn']",A Wreath for Garibaldi
+really,"['really', 'rattling', 'in_truth', 'truly', 'real', 'actually', 'very', 'genuinely']",A Wreath for Garibaldi
+Mussolini's,[],A Wreath for Garibaldi
+prisoner,"['prisoner', 'captive']",A Wreath for Garibaldi
+under,"['nether', 'under', 'below']",A Wreath for Garibaldi
+he,"['helium', 'He', 'atomic_number_2', 'he']",A Wreath for Garibaldi
+open,"['opened', 'undefendable', 'capable', 'overt', 'receptive', 'open', 'open_up', 'give', 'undecided', 'exposed', 'heart-to-heart', 'open_air', 'undetermined', 'subject', 'unresolved', 'out-of-doors', 'afford', 'spread_out', 'clear', 'assailable', 'candid', 'outdoors', 'unfastened', 'undefended', 'spread', 'surface', 'loose', 'unfold']",A Wreath for Garibaldi
+persuasion,"['opinion', 'thought', 'view', 'sentiment', 'persuasion', 'suasion']",A Wreath for Garibaldi
+done,"['done', 'set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'through', 'come', 'behave', 'through_with', 'practice']",A Wreath for Garibaldi
+face,"['confront', 'aspect', 'font', 'face', 'look', 'fount', 'side', 'present', 'face_up', 'expression', 'nerve', 'facial_expression', 'front', 'human_face', 'brass', 'boldness', 'grimace', 'case', 'cheek', 'typeface']",A Wreath for Garibaldi
+itself,[],A Wreath for Garibaldi
+written,"['save', 'scripted', 'spell', 'write', 'compose', 'drop_a_line', 'indite', 'publish', 'pen', 'written']",A Wreath for Garibaldi
+successfully,['successfully'],A Wreath for Garibaldi
+SS,"['United_States_Secret_Service', 'US_Secret_Service', 'USSS', 's', 'sec', 'southward', 'mho', 'SS', 'randomness', 'south', 'second', 'Secret_Service', 'due_south', 'sulfur', 'entropy', 'Schutzstaffel', 'sulphur', 'S', 'siemens', 'reciprocal_ohm', 'atomic_number_16']",A Wreath for Garibaldi
+As,"['adenine', 'group_A', 'arsenic', 'AS', 'angstrom_unit', 'As', 'as', 'Eastern_Samoa', 'angstrom', 'every_bit', 'a', 'ampere', 'type_A', 'axerophthol', 'atomic_number_33', 'vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'equally', 'amp', 'American_Samoa', 'antiophthalmic_factor']",A Wreath for Garibaldi
+Lauro,[],A Wreath for Garibaldi
+crossroads,"['critical_point', 'crossway', 'crossroads', 'crossroad', 'crossing', 'intersection', 'carrefour', 'juncture', 'hamlet']",A Wreath for Garibaldi
+diapers,"['nappy', 'diaper', 'napkin']",A Wreath for Garibaldi
+idea,"['melodic_theme', 'mind', 'theme', 'estimate', 'thought', 'musical_theme', 'idea', 'approximation', 'estimation']",A Wreath for Garibaldi
+charge,"['point', 'rouse', 'complaint', 'thrill', 'armorial_bearing', 'blame', 'bill', 'accusation', 'accuse', 'heraldic_bearing', 'commission', 'lodge', 'excite', 'level', 'bursting_charge', 'charge', 'guardianship', 'commit', 'billing', 'send', 'saddle', 'cathexis', 'rush', 'bang', 'bear_down', 'direction', 'institutionalize', 'file', 'consign', 'shoot', 'load', 'burster', 'shoot_down', 'turn_on', 'commove', 'explosive_charge', 'agitate', 'charge_up', 'tutelage', 'flush', 'electric_charge', 'care', 'kick', 'institutionalise', 'buck', 'appoint', 'boot', 'bearing', 'mission', 'tear', 'burden']",A Wreath for Garibaldi
+money-fed,[],A Wreath for Garibaldi
+Italian,['Italian'],A Wreath for Garibaldi
+Cristo,[],A Wreath for Garibaldi
+alike,"['similar', 'alike', 'likewise', 'like']",A Wreath for Garibaldi
+Prague,"['Praha', 'Prag', 'Prague', 'Czech_capital']",A Wreath for Garibaldi
+Shirt,['shirt'],A Wreath for Garibaldi
+is,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+companion,"['comrade', 'familiar', 'fellow_traveler', 'companion', 'fellow_traveller', 'accompany', 'fellow', 'keep_company', 'associate', 'company']",A Wreath for Garibaldi
+apartment,"['apartment', 'flat']",A Wreath for Garibaldi
+Nothing,"['zip', 'naught', 'nix', 'goose_egg', 'zippo', 'zilch', 'cipher', 'cypher', 'aught', 'nothing', 'zero', 'null', 'nil', 'nada']",A Wreath for Garibaldi
+soul,"['someone', 'individual', 'psyche', 'soulfulness', 'mortal', 'soul', 'person', 'somebody']",A Wreath for Garibaldi
+shivered,"['shiver', 'shudder', 'throb', 'thrill']",A Wreath for Garibaldi
+At,"['At', 'atomic_number_85', 'astatine', 'at']",A Wreath for Garibaldi
+softly,"['softly', 'lightly', 'piano', 'quietly', 'gently']",A Wreath for Garibaldi
+journal,"['journal', 'diary', 'daybook']",A Wreath for Garibaldi
+escaped,"['escape', 'bunk', 'run_away', 'hightail_it', 'turn_tail', 'elude', 'head_for_the_hills', 'on_the_loose', 'get_away', 'fly_the_coop', 'run', 'get_out', 'break_away', 'get_off', 'take_to_the_woods', 'scat', 'scarper', 'at_large', 'escaped', 'lam', 'miss', 'get_by', 'loose', 'break_loose']",A Wreath for Garibaldi
+Were,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+themselves,[],A Wreath for Garibaldi
+national,"['interior', 'internal', 'subject', 'national', 'home']",A Wreath for Garibaldi
+flying,"['pilot', 'flight', 'vanish', 'aviate', 'take_flight', 'vaporize', 'fast-flying', 'fell', 'quick', 'flying', 'wing', 'fly', 'fast', 'flee']",A Wreath for Garibaldi
+spread,"['bed_covering', 'scatter', 'bedcover', 'overspread', 'gap', 'open', 'fan_out', 'bedspread', 'disperse', 'spreading', 'banquet', 'propagate', 'facing_pages', 'go_around', 'broadcast', 'distribute', 'circulate', 'circularize', 'spreadhead', 'pass_around', 'cattle_ranch', 'ranch', 'paste', 'disseminate', 'cattle_farm', 'counterpane', 'spread_out', 'bed_cover', 'diffuse', 'circularise', 'outspread', 'feast', 'spread_head', 'dispersed', 'spread', 'unfold']",A Wreath for Garibaldi
+resisting,"['refuse', 'dissent', 'fend', 'jib', 'stand', 'withstand', 'baulk', 'protest', 'defy', 'reject', 'hold_out', 'resist', 'stand_firm', 'balk']",A Wreath for Garibaldi
+some,"['roughly', 'more_or_less', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",A Wreath for Garibaldi
+afternoon,"['afternoon', 'good_afternoon']",A Wreath for Garibaldi
+Seize,"['impound', 'clutch', 'usurp', 'confiscate', 'take_over', 'get_hold_of', 'capture', 'attach', 'assume', 'arrogate', 'seize', 'sequester', 'prehend', 'conquer', 'grab', 'appropriate']",A Wreath for Garibaldi
+cared,"['wish', 'like', 'manage', 'care', 'deal', 'give_care', 'worry', 'handle']",A Wreath for Garibaldi
+comparable,"['comparable', 'like', 'corresponding']",A Wreath for Garibaldi
+old,"['older', 'previous', 'erstwhile', 'Old', 'old', 'one-time', 'onetime', 'honest-to-god', 'quondam', 'sure-enough', 'sometime', 'honest-to-goodness', 'former']",A Wreath for Garibaldi
+butchery,"['shambles', 'abattoir', 'butchering', 'butchery', 'slaughter', 'carnage', 'massacre', 'mass_murder', 'slaughterhouse']",A Wreath for Garibaldi
+went,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'go_bad', 'kick_the_bucket', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'travel', 'run_short', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'start', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'last', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'move']",A Wreath for Garibaldi
+matters,"['topic', 'issue', 'subject', 'matter', 'thing', 'weigh', 'affair', 'count']",A Wreath for Garibaldi
+mustached,"['mustached', 'mustachioed']",A Wreath for Garibaldi
+mine,['mine'],A Wreath for Garibaldi
+absurd,"['the_absurd', 'ludicrous', 'ridiculous', 'preposterous', 'nonsensical', 'cockeyed', 'laughable', 'absurd', 'derisory', 'idiotic']",A Wreath for Garibaldi
+etc.,"['etc.', 'and_so_on', 'etcetera', 'and_so_forth']",A Wreath for Garibaldi
+full,"['good', 'to_the_full', 'full-of-the-moon', 'replete', 'entire', 'fully', 'broad', 'full_moon', 'full_phase_of_the_moon', 'wide-cut', 'full', 'wide', 'wax', 'total']",A Wreath for Garibaldi
+Porta,"['orifice', 'porta', 'opening']",A Wreath for Garibaldi
+surely,"['sure_enough', 'for_sure', 'sure', 'certainly', 'for_certain', 'surely', 'sure_as_shooting']",A Wreath for Garibaldi
+an,"['Associate_in_Nursing', 'AN']",A Wreath for Garibaldi
+all,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",A Wreath for Garibaldi
+On,"['on', 'along']",A Wreath for Garibaldi
+towering,"['lofty', 'towering', 'hulk', 'loom', 'soaring', 'predominate', 'eminent', 'tower']",A Wreath for Garibaldi
+huge,"['huge', 'Brobdingnagian', 'immense', 'vast']",A Wreath for Garibaldi
+felt,"['felt_up', 'matte_up', 'feel', 'felt', 'mat_up', 'matte', 'sense', 'finger', 'palpate', 'find', 'experience', 'matt-up', 'mat']",A Wreath for Garibaldi
+wonderfully,"['toppingly', 'marvelously', 'terrifically', 'wondrous', 'wonderfully', 'wondrously', 'marvellously', 'superbly']",A Wreath for Garibaldi
+two,"['deuce', 'two', 'II', 'ii', '2']",A Wreath for Garibaldi
+boy,"['male_child', 'boy', 'son']",A Wreath for Garibaldi
+go,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'offer', 'go_bad', 'kick_the_bucket', 'hug_drug', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'ecstasy', 'travel', 'run_short', 'Adam', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'crack', 'XTC', 'cristal', 'turn', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'spell', 'start', 'X', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'whirl', 'go_game', 'last', 'disco_biscuit', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'fling', 'move', 'tour']",A Wreath for Garibaldi
+stories,"['tale', 'history', 'write_up', 'taradiddle', 'storey', 'level', 'tarradiddle', 'story', 'fib', 'floor', 'news_report', 'report', 'account', 'chronicle', 'narrative', 'narration']",A Wreath for Garibaldi
+just,"['good', 'only', 'exactly', 'merely', 'simply', 'scarcely', 'just', 'barely', 'scarce', 'fair', 'but', 'precisely', 'upright', 'equitable', 'hardly', 'just_now']",A Wreath for Garibaldi
+body,"['personify', 'consistency', 'physical_structure', 'eubstance', 'trunk', 'soundbox', 'body', 'organic_structure', 'torso', 'dead_body', 'consistence']",A Wreath for Garibaldi
+masterpiece,"[""chef-d'oeuvre"", 'masterpiece']",A Wreath for Garibaldi
+appeal,"['entreaty', 'attract', 'charm', 'collection', 'appealingness', 'solicitation', 'invoke', 'ingathering', 'prayer', 'appeal']",A Wreath for Garibaldi
+play,"['frolic', ""child's_play"", 'sport', 'playact', 'manoeuvre', 'gambol', 'diddle', 'caper', 'make_for', 'spiel', 'act_as', 'trifle', 'looseness', 'act', 'run', 'work', 'bet', 'dally', 'wreak', 'turn', 'play', 'wager', 'drama', 'dramatic_play', 'flirt', 'swordplay', 'period_of_play', 'free_rein', 'encounter', 'bid', 'take_on', 'represent', 'bring', 'playing_period', 'gaming', 'roleplay', 'romp', 'gambling', 'fun', 'recreate', 'shimmer', 'maneuver', 'toy', 'fiddle', 'meet']",A Wreath for Garibaldi
+a,"['vitamin_A', 'A', 'deoxyadenosine_monophosphate', 'adenine', 'a', 'group_A', 'amp', 'ampere', 'angstrom', 'type_A', 'antiophthalmic_factor', 'axerophthol', 'angstrom_unit']",A Wreath for Garibaldi
+asked,"['inquire', 'call_for', 'enquire', 'involve', 'need', 'take', 'expect', 'postulate', 'ask', 'require', 'demand', 'necessitate']",A Wreath for Garibaldi
+scattered,"['dust', 'garbled', 'scattered', 'dot', 'scatter', 'unconnected', 'disconnected', 'illogical', 'disjointed', 'dispel', 'dissipate', 'spread', 'confused', 'disordered', 'disperse', 'spread_out', 'break_up', 'sprinkle']",A Wreath for Garibaldi
+lot,"['spate', 'administer', 'good_deal', 'dole_out', 'wad', 'pile', 'batch', 'mountain', 'mint', 'allot', 'mete_out', 'hatful', 'heap', 'plenty', 'parcel_out', 'circumstances', 'set', 'Lot', 'flock', 'destiny', 'portion', 'peck', 'caboodle', 'dish_out', 'distribute', 'band', 'great_deal', 'tidy_sum', 'shell_out', 'bunch', 'pot', 'deal_out', 'mickle', 'lot', 'mess', 'raft', 'muckle', 'luck', 'fortune', 'mass', 'fate', 'stack', 'quite_a_little', 'slew', 'passel', 'deal', 'dispense', 'sight', 'draw', 'circle']",A Wreath for Garibaldi
+Washington,"['Evergreen_State', 'President_Washington', 'capital_of_the_United_States', 'Booker_T._Washington', 'Capital', 'George_Washington', 'Washington', 'WA', 'Booker_Taliaferro_Washington', 'American_capital', 'Washington_D.C.']",A Wreath for Garibaldi
+one,"['ane', 'unitary', 'peerless', 'unity', 'single', 'unrivaled', 'unmatched', '1', 'one_and_only', 'unrivalled', 'I', 'unmatchable', 'i', 'one', 'nonpareil', 'ace', 'matchless']",A Wreath for Garibaldi
+dramatic,"['dramatic', 'spectacular', 'striking']",A Wreath for Garibaldi
+especially,"['peculiarly', 'specially', 'especially', 'particularly']",A Wreath for Garibaldi
+behind,"['derriere', 'arse', 'ass', 'prat', 'hind_end', 'posterior', 'tail_end', 'butt', 'nates', 'stern', 'in_arrears', 'rear_end', 'backside', 'rump', 'tush', 'fundament', 'buttocks', 'buns', 'rear', 'behindhand', 'tooshie', 'behind', 'seat', 'bottom', 'fanny', 'keister', 'slow', 'tail', 'can', 'hindquarters', 'bum']",A Wreath for Garibaldi
+celebrate,"['celebrate', 'lionize', 'fete', 'lionise', 'keep', 'observe']",A Wreath for Garibaldi
+position,"['billet', 'status', 'pose', 'perspective', 'lieu', 'posture', 'post', 'military_position', 'set', 'side', 'lay', 'stance', 'attitude', 'locating', 'place', 'situation', 'put', 'spot', 'positioning', 'emplacement', 'berth', 'spatial_relation', 'view', 'stead', 'position', 'office', 'placement', 'location']",A Wreath for Garibaldi
+amazed,"['astonied', 'astonish', 'pose', 'amaze', 'baffle', 'beat', 'astonished', 'perplex', 'stick', 'mystify', 'astound', 'vex', 'stupefy', 'bewilder', 'dumbfound', 'puzzle', 'flummox', 'gravel', 'amazed', 'stunned', 'get', 'astounded', 'nonplus']",A Wreath for Garibaldi
+day,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'daytime', 'Day', 'twenty-four_hour_period', '24-hour_interval', 'Clarence_Shepard_Day_Jr.']",A Wreath for Garibaldi
+She,[],A Wreath for Garibaldi
+symbolic,"['emblematic', 'emblematical', 'symbolic', 'symbolical']",A Wreath for Garibaldi
+streets,['street'],A Wreath for Garibaldi
+those,[],A Wreath for Garibaldi
+walk,"['take_the_air', 'pass', 'base_on_balls', 'walk_of_life', 'manner_of_walking', 'walking', 'walk', 'walkway', 'paseo']",A Wreath for Garibaldi
+planes,"['be_after', 'project', 'design', 'planing_machine', ""carpenter's_plane"", 'planer', 'skim', 'plan', 'airplane', 'woodworking_plane', 'plane', 'sheet', 'contrive', 'aeroplane', 'shave']",A Wreath for Garibaldi
+moment,"['minute', 'instant', 'import', 'mo', 'bit', 'here_and_now', 'second', 'consequence', 'moment', 'present_moment']",A Wreath for Garibaldi
+For,[],A Wreath for Garibaldi
+accumulating,"['pile_up', 'accumulate', 'amass', 'conglomerate', 'compile', 'hoard', 'cumulate', 'collect', 'gather', 'roll_up']",A Wreath for Garibaldi
+along,"['on', 'along']",A Wreath for Garibaldi
+landed,"['down', 'landed', 'shore', 'set_ashore', 'put_down', 'shoot_down', 'set_down', 'land', 'bring_down', 'bring']",A Wreath for Garibaldi
+Occupation,"['job', 'line_of_work', 'business', 'moving_in', 'occupation', 'military_control', 'occupancy', 'line']",A Wreath for Garibaldi
+plain-spoken,[],A Wreath for Garibaldi
+once,"['erstwhile', 'in_one_case', 'one_time', 'at_one_time', 'once', 'erst', 'formerly']",A Wreath for Garibaldi
+well,"['good', 'considerably', 'comfortably', 'easily', 'substantially', 'wellspring', 'well', 'intimately', 'swell', 'fountainhead', 'advantageously']",A Wreath for Garibaldi
+wreath,"['lei', 'coronal', 'garland', 'chaplet', 'wreath']",A Wreath for Garibaldi
+reason,"['argue', 'rationality', 'intellect', 'ground', 'reasonableness', 'grounds', 'conclude', 'reason_out', 'understanding', 'reason', 'cause']",A Wreath for Garibaldi
+directly,"['flat', 'direct', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'like_a_shot', 'directly', 'straight', 'immediately']",A Wreath for Garibaldi
+drink,"['swallow', 'booze', 'drink_in', 'deglutition', 'pledge', 'drink', 'salute', 'potable', 'drinkable', 'tope', 'wassail', 'boozing', 'imbibe', 'beverage', 'crapulence', 'drinking', 'fuddle', 'toast', 'drunkenness']",A Wreath for Garibaldi
+woman,"['charwoman', 'cleaning_woman', 'char', 'cleaning_lady', 'adult_female', 'womanhood', 'fair_sex', 'woman']",A Wreath for Garibaldi
+she,[],A Wreath for Garibaldi
+how,[],A Wreath for Garibaldi
+faced,"['confront', 'present', 'faced', 'front', 'face_up', 'face', 'look']",A Wreath for Garibaldi
+sounded,"['vocalise', 'sound', 'fathom', 'go', 'voice', 'vocalize']",A Wreath for Garibaldi
+after,"['subsequently', 'later', 'later_on', 'afterward', 'after', 'afterwards']",A Wreath for Garibaldi
+village,"['small_town', 'settlement', 'Greenwich_Village', 'Village', 'village', 'hamlet']",A Wreath for Garibaldi
+her,[],A Wreath for Garibaldi
+Musil's,[],A Wreath for Garibaldi
+realization,"['realisation', 'actualisation', 'fruition', 'recognition', 'actualization', 'realization']",A Wreath for Garibaldi
+crashing,"['doss', 'break_apart', 'crash', 'doss_down', 'bally', 'flaming', 'bloody', 'gate-crash', 'go_down', 'blinking', 'barge_in', 'dash', 'blooming', 'fucking', 'ram', 'crashing', 'break_up']",A Wreath for Garibaldi
+mentioned,"['name', 'note', 'cite', 'mention', 'refer', 'bring_up', 'remark', 'observe', 'advert']",A Wreath for Garibaldi
+Bosis,[],A Wreath for Garibaldi
+Something,[],A Wreath for Garibaldi
+out,"['verboten', 'out', 'taboo', 'prohibited', 'knocked_out', 'come_out_of_the_closet', 'proscribed', 'kayoed', 'stunned', 'tabu', 'come_out', 'forbidden', 'away', 'extinct', ""KO'd""]",A Wreath for Garibaldi
+Qualities,"['caliber', 'calibre', 'character', 'lineament', 'tone', 'timber', 'quality', 'timbre']",A Wreath for Garibaldi
+field,"['arena', 'theatre_of_operations', 'orbit', 'playing_field', 'domain', 'study', 'flying_field', 'field_of_operation', 'sphere', 'airfield', 'athletic_field', 'force_field', 'theater_of_operations', 'champaign', 'plain', 'bailiwick', 'field', 'theatre', 'subject', 'subject_area', 'field_of_battle', 'line_of_business', 'field_of_honor', 'battleground', 'playing_area', 'field_of_view', 'battlefield', 'field_of_force', 'discipline', 'subject_field', 'field_of_operations', 'theater', 'area', 'field_of_study', 'landing_field']",A Wreath for Garibaldi
+square,"['lame', 'square_up', 'solid', 'feather', 'satisfying', 'hearty', 'foursquare', 'second_power', 'squarely', 'substantial', 'straightforward', 'square_toes', 'public_square', 'straight', 'square']",A Wreath for Garibaldi
+fight,"['contend', 'fighting', 'battle', 'crusade', 'fight_back', 'defend', 'combat', 'press', 'competitiveness', 'conflict', 'fight', 'scrap', 'struggle', 'oppose', 'agitate', 'fight_down', 'engagement', 'campaign', 'push']",A Wreath for Garibaldi
+",",[],A Wreath for Garibaldi
+usual,"['usual', 'common']",A Wreath for Garibaldi
+figuring,"['image', 'project', 'estimate', 'forecast', 'figure', 'reckoning', 'reckon', 'calculation', 'calculate', 'fancy', 'cypher', 'enter', 'figuring', 'cipher', 'work_out', 'visualize', 'envision', 'count_on', 'picture', 'computation', 'visualise', 'compute', 'see']",A Wreath for Garibaldi
+Piazzo,[],A Wreath for Garibaldi
+days,"['day', 'twenty-four_hours', 'mean_solar_day', 'daylight', 'solar_day', 'sidereal_day', 'Clarence_Day', 'Clarence_Shepard_Day_Jr.', 'daytime', 'Day', 'days', 'twenty-four_hour_period', '24-hour_interval', 'years']",A Wreath for Garibaldi
+onto,[],A Wreath for Garibaldi
+No,"['no_more', 'nobelium', 'no', 'No', 'atomic_number_102']",A Wreath for Garibaldi
+year,"['year', 'yr', 'class', 'twelvemonth']",A Wreath for Garibaldi
+foreigner,"['foreigner', 'noncitizen', 'outsider', 'outlander', 'alien']",A Wreath for Garibaldi
+schedule,"['docket', 'agenda', 'schedule']",A Wreath for Garibaldi
+Old,"['older', 'previous', 'erstwhile', 'Old', 'old', 'one-time', 'onetime', 'honest-to-god', 'quondam', 'sure-enough', 'sometime', 'honest-to-goodness', 'former']",A Wreath for Garibaldi
+children,"['tiddler', 'tyke', 'minor', 'youngster', 'baby', 'tike', 'child', 'kid', 'small_fry', 'nestling', 'nipper', 'fry', 'shaver']",A Wreath for Garibaldi
+him,[],A Wreath for Garibaldi
+maybe,"['maybe', 'perhaps', 'mayhap', 'possibly', 'peradventure', 'perchance']",A Wreath for Garibaldi
+dancer,"['terpsichorean', 'dancer', 'professional_dancer', 'social_dancer']",A Wreath for Garibaldi
+men,"['men', 'Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'work_force', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'workforce', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'manpower', 'human', 'human_being', 'military_personnel', 'valet', 'hands']",A Wreath for Garibaldi
+number,"['number', 'bit', 'figure', 'enumerate', 'numeral', 'numerate', 'telephone_number', 'act', 'turn', 'keep_down', 'phone_number', 'issue', 'total', 'come', 'list', 'add_up', 'amount', 'routine', 'identification_number', 'count']",A Wreath for Garibaldi
+Dogumenti,[],A Wreath for Garibaldi
+Lincoln,"['President_Lincoln', 'capital_of_Nebraska', 'President_Abraham_Lincoln', 'Lincoln', 'Abraham_Lincoln']",A Wreath for Garibaldi
+Across,"['across', 'crosswise', 'crossways']",A Wreath for Garibaldi
+memories,"['computer_memory', 'memory_board', 'remembering', 'store', 'memory', 'storage', 'retentivity', 'retentiveness', 'retention', 'computer_storage']",A Wreath for Garibaldi
+my,[],A Wreath for Garibaldi
+there,"['on_that_point', 'at_that_place', 'in_that_location', 'in_that_respect', 'there', 'thither']",A Wreath for Garibaldi
+French,"['French_people', 'Daniel_Chester_French', 'Gallic', 'French']",A Wreath for Garibaldi
+Berto's,[],A Wreath for Garibaldi
+papers,"['theme', 'papers', 'newspaper', 'newspaper_publisher', 'wallpaper', 'written_document', 'document', 'composition', 'report', 'paper']",A Wreath for Garibaldi
+spoon,"['spoon', 'spoonful', 'smooch']",A Wreath for Garibaldi
+his,[],A Wreath for Garibaldi
+plainclothes,[],A Wreath for Garibaldi
+wall,"['rampart', 'wall', 'palisade', 'fence_in', 'fence', 'paries', 'surround', 'bulwark']",A Wreath for Garibaldi
+side,"['English', 'position', 'side', 'side_of_meat', 'incline', 'slope', 'face']",A Wreath for Garibaldi
+Texas,"['TX', 'Lone-Star_State', 'Texas']",A Wreath for Garibaldi
+Fascism,['fascism'],A Wreath for Garibaldi
+leaving,"['impart', 'exit', 'allow', 'pull_up_stakes', 'result', 'lead', 'entrust', 'will', 'give', 'forget', 'leaving', 'get_out', 'go_forth', 'depart', 'departure', 'going', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'leave_alone', 'leave', 'going_away', 'provide']",A Wreath for Garibaldi
+Russians,['Russian'],A Wreath for Garibaldi
+thirty,"['30', 'XXX', 'xxx', 'thirty']",A Wreath for Garibaldi
+on,"['on', 'along']",A Wreath for Garibaldi
+back,"['rearward', 'bet_on', 'hinder', 'binding', 'cover', 'gage', 'plump_for', 'back_up', 'second', 'backwards', 'support', 'endorse', 'backrest', 'back', 'indorse', 'backbone', 'vertebral_column', 'hind', 'spinal_column', 'stake', 'rachis', 'book_binding', 'rear', 'game', 'punt', 'backward', 'dorsum', 'rearwards', 'plunk_for', 'spine']",A Wreath for Garibaldi
+Lion,"['Leo_the_Lion', 'social_lion', 'Leo', 'lion', 'Panthera_leo', 'king_of_beasts', 'Lion']",A Wreath for Garibaldi
+had,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'have_got', 'take', 'have']",A Wreath for Garibaldi
+Palace,"['castle', 'palace']",A Wreath for Garibaldi
+Mussolini,"['Il_Duce', 'Benito_Mussolini', 'Mussolini']",A Wreath for Garibaldi
+should,[],A Wreath for Garibaldi
+even,"['flush', 'eve', 'eventide', 'even', 'regular', 'level', 'evening', 'yet', 'tied', 'still', 'fifty-fifty', 'even_out']",A Wreath for Garibaldi
+disown,"['repudiate', 'disinherit', 'renounce', 'disown']",A Wreath for Garibaldi
+Svevo,[],A Wreath for Garibaldi
+left,"['impart', 'left_wing', 'exit', 'allow', 'left-hand', 'pull_up_stakes', 'leftfield', 'result', 'lead', 'entrust', 'left_field', 'will', 'give', 'forget', 'leftover', 'remaining', 'unexpended', 'get_out', 'go_forth', 'depart', 'left', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'left_over', 'leave_alone', 'left_hand', 'odd', 'leave', 'provide']",A Wreath for Garibaldi
+Bullshit,"['bullshit', 'dogshit', 'bull', ""talk_through_one's_hat"", 'crap', 'horseshit', 'fake', 'shit', 'Irish_bull']",A Wreath for Garibaldi
+Robert,"['Robert', 'Henry_M._Robert', 'Henry_Martyn_Robert']",A Wreath for Garibaldi
+Lante,[],A Wreath for Garibaldi
+speak,"['address', 'verbalize', 'mouth', 'verbalise', 'utter', 'talk', 'speak']",A Wreath for Garibaldi
+stirring,"['shake', 'touch', 'shake_up', 'stir', 'soul-stirring', 'conjure', 'arouse', 'invoke', 'rousing', 'budge', 'excite', 'call_down', 'inspiration', 'stimulate', 'conjure_up', 'call_forth', 'put_forward', 'agitate', 'evoke', 'stirring', 'raise', 'bring_up', 'shift']",A Wreath for Garibaldi
+Once,"['erstwhile', 'in_one_case', 'one_time', 'at_one_time', 'once', 'erst', 'formerly']",A Wreath for Garibaldi
+Charge,"['point', 'rouse', 'complaint', 'thrill', 'armorial_bearing', 'blame', 'bill', 'accusation', 'accuse', 'heraldic_bearing', 'commission', 'lodge', 'excite', 'level', 'bursting_charge', 'charge', 'guardianship', 'commit', 'billing', 'send', 'saddle', 'cathexis', 'rush', 'bang', 'bear_down', 'direction', 'institutionalize', 'file', 'consign', 'shoot', 'load', 'burster', 'shoot_down', 'turn_on', 'commove', 'explosive_charge', 'agitate', 'charge_up', 'tutelage', 'flush', 'electric_charge', 'care', 'kick', 'institutionalise', 'buck', 'appoint', 'boot', 'bearing', 'mission', 'tear', 'burden']",A Wreath for Garibaldi
+last,"['finish', 'terminal', 'conclusion', 'final_stage', 'hold_up', 'lowest', 'concluding', 'survive', 'net', 'finale', 'endure', ""cobbler's_last"", ""shoemaker's_last"", 'finis', 'last-place', 'live', 'go', 'lastly', 'close', 'end', 'finally', 'utmost', 'death', 'hold_out', 'in_conclusion', 'live_on', 'last', 'final', 'stopping_point']",A Wreath for Garibaldi
+1849,[],A Wreath for Garibaldi
+seem,"['appear', 'look', 'seem']",A Wreath for Garibaldi
+rifleman,['rifleman'],A Wreath for Garibaldi
+wasn't,[],A Wreath for Garibaldi
+party,"['company', 'party', 'political_party']",A Wreath for Garibaldi
+Martini,['martini'],A Wreath for Garibaldi
+am,"['MA', 'atomic_number_95', 'AM', 'amplitude_modulation', 'make_up', 'personify', 'comprise', 'Artium_Magister', 'equal', 'cost', 'exist', 'live', 'Master_of_Arts', 'constitute', 'embody', 'represent', 'americium', 'Am', 'follow', 'be']",A Wreath for Garibaldi
+during,[],A Wreath for Garibaldi
+point,"['point', 'compass_point', 'detail', 'percentage_point', 'target', 'dot', 'period', 'full_stop', 'show', 'manoeuvre', 'decimal_point', 'bespeak', 'aim', 'channelise', 'full_point', 'breaker_point', 'indicate', 'designate', 'sharpen', 'tip', 'taper', 'stop', 'pointedness', 'level', 'item', 'steer', 'stage', 'charge', 'place', 'orient', 'head', 'spot', 'channelize', 'power_point', 'point_in_time', 'luff', 'direct', 'repoint', 'distributor_point', 'gunpoint', 'signal', 'degree', 'guide', 'betoken', 'manoeuver', 'maneuver', 'peak']",A Wreath for Garibaldi
+Calabria,['Calabria'],A Wreath for Garibaldi
+while,"['while', 'spell', 'piece', 'patch']",A Wreath for Garibaldi
+mixed,"['meld', 'desegregate', 'immix', 'amalgamate', 'mixed', 'merge', 'conflate', 'blend', 'combine', 'miscellaneous', 'commix', 'commingle', 'ruffle', 'mingle', 'flux', 'fuse', 'mix_in', 'unify', 'motley', 'integrate', 'mix', 'sundry', 'assorted', 'shuffle', 'interracial', 'coalesce']",A Wreath for Garibaldi
+of,[],A Wreath for Garibaldi
+lady,"['Lady', 'noblewoman', ""ma'am"", 'lady', 'dame', 'madam', 'gentlewoman', 'peeress']",A Wreath for Garibaldi
+read,"['record', 'register', 'understand', 'show', 'scan', 'learn', 'say', 'translate', 'read', 'interpret', 'take', 'study']",A Wreath for Garibaldi
+Most,"['near', 'nigh', 'well-nigh', 'nearly', 'about', 'almost', 'virtually', 'most', 'to_the_highest_degree']",A Wreath for Garibaldi
+Red,"['crimson', 'cerise', 'scarlet', 'red-faced', 'bolshy', 'red_ink', 'red', 'bolshie', 'Red', 'Marxist', 'ruby', 'cherry', 'Red_River', 'reddened', 'ruby-red', 'Bolshevik', 'loss', 'violent', 'redness', 'cherry-red', 'carmine', 'blood-red', 'ruddy', 'reddish', 'flushed']",A Wreath for Garibaldi
+wounded,"['injure', 'maimed', 'bruise', 'offend', 'spite', 'hurt', 'wounded', 'wound']",A Wreath for Garibaldi
+That,[],A Wreath for Garibaldi
+least,"['to_the_lowest_degree', 'least']",A Wreath for Garibaldi
+pretty,"['jolly', 'moderately', 'reasonably', 'somewhat', 'passably', 'pretty', 'fairly', 'middling']",A Wreath for Garibaldi
+Italo,[],A Wreath for Garibaldi
+espionage,['espionage'],A Wreath for Garibaldi
+In,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",A Wreath for Garibaldi
+tough,"['hood', 'baffling', 'problematic', 'sturdy', 'knotty', 'ruffianly', 'hooligan', 'tough', 'problematical', 'yobo', 'hard', 'street_fighter', 'bully', 'thug', 'strong-armer', 'yob', 'ruffian', 'hoodlum', 'roughneck', 'toughie', 'rugged', 'elusive', 'rowdy', 'bad', 'goon', 'punk', 'toughened', 'yobbo']",A Wreath for Garibaldi
+government,"['government', 'administration', 'governance', 'politics', 'political_science', 'regime', 'government_activity', 'authorities', 'governing']",A Wreath for Garibaldi
+Therefore,"['hence', 'consequently', 'therefore', 'thence', 'thus', 'so']",A Wreath for Garibaldi
+sentiment,"['opinion', 'thought', 'view', 'sentiment', 'persuasion']",A Wreath for Garibaldi
+poor,"['piteous', 'pathetic', 'miserable', 'wretched', 'hapless', 'pitiable', 'pitiful', 'poor_people', 'short', 'poor', 'misfortunate', 'inadequate']",A Wreath for Garibaldi
+shirt,['shirt'],A Wreath for Garibaldi
+Nathan,[],A Wreath for Garibaldi
+noticed,"['note', 'discover', 'mark', 'point_out', 'detect', 'find', 'comment', 'acknowledge', 'remark', 'noticed', 'observe', 'notice']",A Wreath for Garibaldi
+fire,"['give_notice', 'blast', 'arouse', 'discharge', 'enkindle', 'flak', 'elicit', 'flack', 'flaming', 'attack', 'sack', 'fervor', 'fervency', 'burn_down', 'fire', 'fervour', 'dismiss', 'open_fire', 'displace', 'burn', 'ardor', 'fuel', 'kindle', 'firing', 'flame', 'give_the_sack', 'go_off', 'evoke', 'ardour', 'raise', 'provoke', 'fervidness', 'force_out', 'give_the_axe', 'send_away', 'can', 'terminate']",A Wreath for Garibaldi
+made,"['stool', 'urinate', 'realize', 'lay_down', 'wee', 'take_a_crap', 'micturate', 'prepare', 'take_in', 'make_up', 'crap', 'pretend', 'hit', 'induce', 'hold', 'bring_in', 'do', 'give', 'piss', 'arrive_at', 'throw', 'stimulate', 'take_a_shit', 'work', 'ready', 'create', 'pee', 'score', 'form', 'realise', 'made', 'puddle', 'name', 'defecate', 'cook', 'make', 'nominate', 'constitute', 'establish', 'make_believe', 'fix', 'progress_to', 'make_water', 'shit', 'take_a_leak', 'wee-wee', 'cause', 'reach', 'build', 'piddle', 'pee-pee', 'ca-ca', 'clear', 'pass_water', 'attain', 'earn', 'gain', 'seduce', 'spend_a_penny', 'get', 'construct', 'draw', 'pull_in', 'get_to', 'relieve_oneself', 'take', 'have', 'produce']",A Wreath for Garibaldi
+name,"['gens', 'key', 'figure', 'name', 'discover', 'cite', 'diagnose', 'make', 'nominate', 'refer', 'constitute', 'epithet', 'distinguish', 'identify', 'list', 'call', 'public_figure', 'mention', 'key_out', 'bring_up', 'appoint', 'describe', 'advert']",A Wreath for Garibaldi
+sentenced,"['condemn', 'doom', 'sentence']",A Wreath for Garibaldi
+moved,"['proceed', 'prompt', 'impress', 'stirred', 'touched', 'travel', 'make_a_motion', 'act', 'go', 'run', 'motivate', 'moved', 'displace', 'actuate', 'incite', 'propel', 'affected', 'locomote', 'affect', 'strike', 'move', 'be_active']",A Wreath for Garibaldi
+Some,"['roughly', 'more_or_less', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",A Wreath for Garibaldi
+twos,"['II', '2', 'deuce', 'two']",A Wreath for Garibaldi
+spot,"['point', 'billet', 'touch', 'descry', 'blot', 'bit', 'pick_out', 'smudge', 'post', 'fleck', 'patch', 'pip', 'blemish', 'dapple', 'espy', 'recognize', 'make_out', 'smirch', 'place', 'situation', 'spot', 'berth', 'recognise', 'spy', 'maculation', 'blob', 'distinguish', 'tell_apart', 'spotlight', 'speckle', 'slur', 'daub', 'stain', 'position', 'office', 'topographic_point', 'discern', 'smear']",A Wreath for Garibaldi
+rushed,"['rush', 'belt_along', 'hie', 'race', 'speed', 'rushed', 'pelt_along', 'induce', 'rush_along', 'hasten', 'step_on_it', 'hurry', 'stimulate', 'festinate', 'look_sharp', 'cannonball_along', 'hotfoot', 'bucket_along']",A Wreath for Garibaldi
+scars,"['pock', 'cicatrix', 'mark', 'scrape', 'pit', 'scratch', 'cicatrice', 'scar']",A Wreath for Garibaldi
+Object,"['target', 'physical_object', 'objective', 'object', 'aim']",A Wreath for Garibaldi
+us,"['u', 'uracil', 'the_States', 'uranium', 'U.S.A.', 'United_States', 'United_States_of_America', 'US', 'U', 'atomic_number_92', 'U.S.', 'America', 'USA']",A Wreath for Garibaldi
+defeats,"['overcome', 'get_the_better_of', 'frustration', 'shoot_down', 'defeat', 'vote_down', 'licking', 'kill', 'vote_out']",A Wreath for Garibaldi
+making,"['stool', 'urinate', 'realize', 'lay_down', 'wee', 'take_a_crap', 'micturate', 'prepare', 'take_in', 'make_up', 'crap', 'pretend', 'hit', 'induce', 'hold', 'bring_in', 'devising', 'do', 'give', 'piss', 'arrive_at', 'throw', 'stimulate', 'take_a_shit', 'work', 'ready', 'create', 'pee', 'score', 'realise', 'form', 'puddle', 'name', 'qualification', 'defecate', 'cook', 'make', 'nominate', 'constitute', 'fashioning', 'making', 'establish', 'make_believe', 'fix', 'progress_to', 'make_water', 'shit', 'take_a_leak', 'wee-wee', 'cause', 'reach', 'build', 'piddle', 'pee-pee', 'ca-ca', 'clear', 'pass_water', 'attain', 'earn', 'gain', 'seduce', 'spend_a_penny', 'get', 'construct', 'draw', 'pull_in', 'get_to', 'relieve_oneself', 'take', 'have', 'produce']",A Wreath for Garibaldi
+long,"['foresightful', 'recollective', 'hanker', 'yearn', 'tenacious', 'prospicient', 'foresighted', 'farseeing', 'retentive', 'long', 'longsighted', 'farsighted']",A Wreath for Garibaldi
+many,['many'],A Wreath for Garibaldi
+bust,"['flop', 'fizzle', 'fall_apart', 'wear_out', 'stone-broke', 'snap', 'burst', 'binge', 'raid', 'stony-broke', 'rupture', 'break', 'bust', 'bout', 'broke', 'wear', 'female_chest', 'tear', 'skint']",A Wreath for Garibaldi
+),[],A Wreath for Garibaldi
+drain,"['drainage', 'drain', 'drainpipe', 'run_out', 'enfeeble', 'waste_pipe', 'debilitate']",A Wreath for Garibaldi
+lounging,"['loiter', 'tarry', 'footle', 'mess_about', 'mill_around', 'lurk', 'lallygag', 'mill_about', 'lounge', 'linger', 'loaf', 'lollygag', 'hang_around']",A Wreath for Garibaldi
+bad,"['unsound', 'tough', 'bad', 'high-risk', 'spoiled', 'speculative', 'spoilt', 'uncollectible', 'risky', 'big', 'badly', 'unfit', 'forged', 'badness', 'regretful', 'defective', 'sorry']",A Wreath for Garibaldi
+might,"['might', 'power', 'mightiness']",A Wreath for Garibaldi
+little,"['picayune', 'petty', 'trivial', 'slight', 'minuscule', 'little', 'short', 'small', 'footling', 'piddling', 'piffling', 'lilliputian', 'fiddling', 'niggling']",A Wreath for Garibaldi
+European,['European'],A Wreath for Garibaldi
+cash,"['Cash', 'hard_cash', 'hard_currency', 'cash', 'immediate_payment', 'Johnny_Cash', 'John_Cash', 'cash_in']",A Wreath for Garibaldi
+1944,[],A Wreath for Garibaldi
+both,['both'],A Wreath for Garibaldi
+Monte,"['three-card_monte', 'four-card_monte', 'monte']",A Wreath for Garibaldi
+intense,"['acute', 'vivid', 'intense']",A Wreath for Garibaldi
+pleased,"['delight', 'proud_of', 'please', 'pleased']",A Wreath for Garibaldi
+--,[],A Wreath for Garibaldi
+liberal,"['liberal', 'giving', 'freehanded', 'broad', 'openhanded', 'bountiful', 'free', 'bighearted', 'big', 'loose', 'liberalist', 'tolerant', 'progressive', 'bounteous', 'large-minded', 'handsome']",A Wreath for Garibaldi
+compared,"['compare', 'liken', 'equate']",A Wreath for Garibaldi
+prove,"['turn_up', 'essay', 'prove', 'test', 'bear_witness', 'examine', 'raise', 'show', 'demonstrate', 'try', 'establish', 'evidence', 'try_out', 'turn_out', 'testify', 'rise', 'leaven', 'shew']",A Wreath for Garibaldi
+regular,"['even', 'steady', 'regular', 'unconstipated', 'habitue', 'fixture', 'veritable']",A Wreath for Garibaldi
+associated,"['consociate', 'connect', 'consort', 'tie_in', 'assort', 'link', 'colligate', 'link_up', 'affiliate', 'associate', 'relate']",A Wreath for Garibaldi
+glowing,"['burn', 'shine', 'radiance', 'glowing', 'glow', 'beam', 'radiate']",A Wreath for Garibaldi
+picked,"['break_up', 'nibble', 'find_fault', 'peck', 'piece', 'cull', 'pluck', 'pick', 'foot', 'clean', 'blame', 'beak', 'plunk']",A Wreath for Garibaldi
+wire,"['conducting_wire', 'electrify', 'wire', 'telegraph', 'telegram', 'cable']",A Wreath for Garibaldi
+beautiful,['beautiful'],A Wreath for Garibaldi
+twenty,"['xx', 'XX', 'twenty_dollar_bill', 'twenty', '20']",A Wreath for Garibaldi
+handsome,"['liberal', 'well-favored', 'better-looking', 'giving', 'well-favoured', 'freehanded', 'openhanded', 'fine-looking', 'bountiful', 'good-looking', 'big', 'bighearted', 'bounteous', 'handsome']",A Wreath for Garibaldi
+But,"['only', 'simply', 'but', 'just', 'merely']",A Wreath for Garibaldi
+park,"['parking_area', 'park', 'common', 'Mungo_Park', 'ballpark', 'commons', 'parking_lot', 'Park', 'car_park', 'parkland', 'green']",A Wreath for Garibaldi
+saw,"['image', 'project', 'assure', 'come_across', 'realize', 'find_out', 'regard', 'determine', 'take_in', 'catch', 'figure', 'ensure', 'adage', 'reckon', 'look', 'construe', 'hear', 'run_across', 'fancy', 'byword', 'saw', 'consider', 'learn', 'realise', 'get_word', 'visit', 'discover', 'go_through', 'watch', 'power_saw', 'examine', 'escort', 'understand', 'get_a_line', 'go_steady', 'witness', 'pick_up', 'see_to_it', 'view', 'visualize', 'encounter', 'find', 'go_out', 'envision', 'proverb', 'run_into', 'interpret', 'date', 'take_care', 'sawing_machine', 'picture', 'control', 'ascertain', 'get_wind', 'visualise', 'check', 'attend', 'experience', 'insure', 'see', 'meet']",A Wreath for Garibaldi
+killed,"['down', 'pop', 'belt_down', 'pour_down', 'obliterate', 'shoot_down', 'stamp_out', 'wipe_out', 'defeat', 'vote_down', 'toss_off', 'drink_down', 'kill', 'vote_out', 'bolt_down']",A Wreath for Garibaldi
+stupid,"['stupe', 'pillock', 'dullard', 'dolt', 'stupid', 'stupid_person', 'poor_fish', 'stunned', 'stupefied', 'unintelligent', 'pudding_head', 'pudden-head', 'dazed']",A Wreath for Garibaldi
+plane,"['planing_machine', ""carpenter's_plane"", 'planer', 'level', 'skim', 'airplane', 'woodworking_plane', 'plane', 'sheet', 'aeroplane', 'flat', 'shave']",A Wreath for Garibaldi
+bunch,"['clump', 'bunch_together', 'cluster', 'clustering', 'crew', 'caboodle', 'lot', 'bunch_up', 'bundle', 'crowd', 'bunch', 'gang']",A Wreath for Garibaldi
+assault,"['violation', 'round', 'Assault', 'rape', 'lash_out', 'ravishment', 'attack', 'violate', 'outrage', 'assail', 'dishonor', 'set_on', 'ravish', 'assault', 'dishonour', 'snipe']",A Wreath for Garibaldi
+form,"['pattern', 'contour', 'signifier', 'phase', 'physical_body', 'frame', 'organise', 'descriptor', 'bod', 'figure', 'manakin', 'mold', 'class', 'spring', 'physique', 'word_form', 'shape', 'manikin', 'kind', 'variety', 'material_body', 'flesh', 'work', 'organize', 'form', 'forge', 'var.', 'take_form', 'anatomy', 'make', 'sort', 'mannequin', 'cast', 'configuration', 'constitute', 'mould', 'strain', 'course', 'variant', 'soma', 'build', 'chassis', 'conformation', 'grade', 'mannikin', 'human_body', 'take_shape', 'imprint']",A Wreath for Garibaldi
+property,"['holding', 'dimension', 'prop', 'belongings', 'place', 'property', 'attribute']",A Wreath for Garibaldi
+put,"['set', 'couch', 'pose', 'position', 'frame', 'cast', 'lay', 'redact', 'arrange', 'set_up', 'assign', 'commit', 'order', 'invest', 'put_option', 'place', 'put']",A Wreath for Garibaldi
+opinion,"['opinion', 'public_opinion', 'belief', 'ruling', 'thought', 'legal_opinion', 'view', 'sentiment', 'judgment', 'impression', 'notion', 'persuasion', 'judgement', 'feeling', 'vox_populi', 'popular_opinion']",A Wreath for Garibaldi
+no,"['no_more', 'nobelium', 'no', 'No', 'atomic_number_102']",A Wreath for Garibaldi
+said,"['aforesaid', 'suppose', 'state', 'said', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin', 'aforementioned']",A Wreath for Garibaldi
+silence,"['quieten', 'silence', 'quiet', 'still', 'secretiveness', 'shut_up', 'muteness', 'hush', 'hush_up', 'secrecy']",A Wreath for Garibaldi
+coming,"['issue_forth', 'approaching', 'number', 'come_up', 'come_in', 'forthcoming', 'do', 'make_out', 'fare', 'sexual_climax', 'fall', 'get_along', 'coming', 'approach', 'orgasm', 'descend', 'upcoming', 'occur', 'total', 'come', 'advent', 'arrive', 'hail', 'get', 'follow', 'add_up', 'amount', 'climax', 'derive']",A Wreath for Garibaldi
+used,"['expend', 'utilise', 'practice', 'utilize', 'habituate', 'employ', 'exploited', 'used', 'secondhand', 'use', 'victimised', 'ill-used', 'victimized', 'put-upon', 'apply']",A Wreath for Garibaldi
+filled,"['make_full', 'replete', 'satiate', 'fulfill', 'occupy', 'fulfil', 'meet', 'satisfy', 'filled', 'fill', 'take', 'sate', 'fill_up']",A Wreath for Garibaldi
+defacing,"['disfigure', 'deface', 'blemish']",A Wreath for Garibaldi
+Catholic,"['catholic', 'Catholic']",A Wreath for Garibaldi
+bookshelves,['bookshelf'],A Wreath for Garibaldi
+published,"['put_out', 'issue', 'promulgated', 'write', 'print', 'bring_out', 'published', 'publish', 'release']",A Wreath for Garibaldi
+was,"['Evergreen_State', 'equal', 'constitute', 'follow', 'Washington', 'exist', 'be', 'embody', 'make_up', 'live', 'WA', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+Faced,"['confront', 'present', 'faced', 'front', 'face_up', 'face', 'look']",A Wreath for Garibaldi
+home,"['family', 'home_base', 'abode', 'nursing_home', 'dwelling', 'base', 'household', 'domicile', 'menage', 'place', 'internal', 'rest_home', 'habitation', 'home', 'plate', 'interior', 'dwelling_house', 'home_plate', 'national', 'house']",A Wreath for Garibaldi
+highpoint,[],A Wreath for Garibaldi
+herself,[],A Wreath for Garibaldi
+gate,"['gate', 'logic_gate']",A Wreath for Garibaldi
+His,[],A Wreath for Garibaldi
+statements,"['command', 'affirmation', 'financial_statement', 'instruction', 'program_line', 'assertion', 'argument', 'statement']",A Wreath for Garibaldi
+bought,"['purchase', ""grease_one's_palms"", 'buy', 'bribe', 'corrupt']",A Wreath for Garibaldi
+thing,"['affair', 'thing', 'matter']",A Wreath for Garibaldi
+leaflets,"['folder', 'leaflet', 'booklet', 'cusp', 'pamphlet', 'brochure']",A Wreath for Garibaldi
+per,[],A Wreath for Garibaldi
+famous,"['famed', 'noted', 'renowned', 'illustrious', 'far-famed', 'famous', 'celebrated', 'notable']",A Wreath for Garibaldi
+routine,"['subroutine', 'mundane', 'procedure', 'subprogram', 'function', 'everyday', 'number', 'bit', 'modus_operandi', 'workaday', 'act', 'routine', 'quotidian', 'unremarkable', 'turn']",A Wreath for Garibaldi
+proportionate,"['symmetrical', 'harmonious', 'proportionate']",A Wreath for Garibaldi
+admire,"['admire', 'look_up_to']",A Wreath for Garibaldi
+against,[],A Wreath for Garibaldi
+area,"['field', 'arena', 'country', 'region', 'orbit', 'surface_area', 'sphere', 'expanse', 'domain', 'area']",A Wreath for Garibaldi
+so,"['and_so', 'hence', 'thus', 'therefore', 'thence', 'indeed', 'sol', 'then', 'soh', 'so', 'thusly', 'and_then']",A Wreath for Garibaldi
+can,"['derriere', 'arse', 'stool', 'crapper', 'ass', 'give_notice', 'prat', 'hind_end', 'posterior', 'tail_end', 'terminate', 'canful', 'butt', 'commode', 'nates', 'lavatory', 'bathroom', 'stern', 'can_buoy', 'rear_end', 'sack', 'backside', 'rump', 'pot', 'fire', 'tush', 'dismiss', 'tin', 'displace', 'fundament', 'buttocks', 'buns', 'give_the_sack', 'rear', 'tooshie', 'put_up', 'behind', 'potty', 'privy', 'john', 'seat', 'throne', 'bottom', 'fanny', 'toilet', 'lav', 'keister', 'force_out', 'give_the_axe', 'send_away', 'tail', 'can', 'tin_can', 'hindquarters', 'bum']",A Wreath for Garibaldi
+says,"['suppose', 'state', 'say', 'articulate', 'sound_out', 'allege', 'read', 'pronounce', 'aver', 'order', 'enounce', 'enunciate', 'tell', 'enjoin']",A Wreath for Garibaldi
+quit,"['quit', 'drop_by_the_wayside', 'chuck_up_the_sponge', 'drop_out', 'relinquish', 'throw_in', 'discontinue', 'stop', 'fall_by_the_wayside', 'throw_in_the_towel', 'cease', 'depart', 'renounce', 'give_up', 'leave_office', 'step_down', 'take_leave', 'resign', 'lay_off', 'foreswear']",A Wreath for Garibaldi
+``,[],A Wreath for Garibaldi
+hell,"['hell_on_earth', 'underworld', 'hell', 'Hell', 'pit', 'Hades', 'the_pits', 'Inferno', 'infernal_region', 'hellhole', 'nether_region', 'netherworld', 'blaze', 'snake_pit', 'Scheol', 'sin', 'perdition', 'inferno']",A Wreath for Garibaldi
+prevent,"['preclude', 'prevent', 'foreclose', 'keep', 'forbid', 'forestall']",A Wreath for Garibaldi
+slight,"['tenuous', 'cold-shoulder', 'flimsy', 'little', 'slight', 'slim', 'thin', 'svelte', 'rebuff', 'slender', 'fragile']",A Wreath for Garibaldi
+between,"['between', ""'tween"", 'betwixt']",A Wreath for Garibaldi
+bruise,"['contuse', 'contusion', 'injure', 'bruise', 'offend', 'spite', 'hurt', 'wound']",A Wreath for Garibaldi
+strength,"['military_capability', 'strength', 'effectiveness', 'military_posture', 'military_strength', 'strong_suit', 'posture', 'speciality', 'long_suit', 'lastingness', 'persuasiveness', 'enduringness', 'durability', 'forcefulness', 'potency', 'strong_point', 'specialty', 'intensity', 'forte', 'metier', 'force', 'intensity_level']",A Wreath for Garibaldi
+glorious,"['brilliant', 'splendid', 'glorious', 'resplendent', 'magnificent', 'splendiferous']",A Wreath for Garibaldi
+very,"['really', 'rattling', 'identical', 'real', 'very', 'selfsame']",A Wreath for Garibaldi
+Though,['though'],A Wreath for Garibaldi
+Bosis',[],A Wreath for Garibaldi
+.,[],A Wreath for Garibaldi
+victim,"['dupe', 'victim']",A Wreath for Garibaldi
+ended,"['complete', 'end', 'finish', 'all_over', 'concluded', 'stop', 'ended', 'cease', 'terminated', 'over', 'terminate']",A Wreath for Garibaldi
+statue,['statue'],A Wreath for Garibaldi
+happens,"['materialize', 'pass_off', 'come_about', 'bump', 'pass', 'bechance', 'materialise', 'hap', 'take_place', 'go_on', 'encounter', 'find', 'chance', 'fall_out', 'befall', 'occur', 'happen']",A Wreath for Garibaldi
+lay,"['set', 'ballad', 'pose', 'position', 'lie_down', 'laic', 'consist', 'lay', 'put_down', 'repose', 'rest', 'dwell', 'secular', 'lie_in', 'lie', 'place', 'put']",A Wreath for Garibaldi
+seriously,"['in_earnest', 'severely', 'seriously', 'gravely', 'earnestly', 'badly']",A Wreath for Garibaldi
+fever,"['febrility', 'febricity', 'feverishness', 'fever', 'pyrexia']",A Wreath for Garibaldi
+showed,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'evidence', 'demo', 'render']",A Wreath for Garibaldi
+symbols,"['symbol', 'symbolic_representation', 'symbolization', 'symbolisation']",A Wreath for Garibaldi
+beatings,"['pose', 'bunk', 'ticktock', 'circumvent', 'amaze', 'baffle', 'beat_out', 'beat', 'tucker_out', 'thrashing', 'perplex', 'exhaust', 'beating', 'stick', 'whipping', 'trounce', 'drum', 'mystify', 'pound', 'vex', 'lacing', 'ticktack', 'quiver', 'tucker', 'outfox', 'whacking', 'stupefy', 'bewilder', 'vanquish', 'outwit', 'dumbfound', 'trouncing', 'flap', 'puzzle', 'flummox', 'scramble', 'crush', 'beat_up', 'thrum', 'pulsate', 'gravel', 'shell', 'tick', 'outsmart', 'wash_up', 'thump', 'drubbing', 'get', 'licking', 'overreach', 'nonplus', 'work_over']",A Wreath for Garibaldi
+company,"['companionship', 'keep_company', ""ship's_company"", 'society', 'companion', 'accompany', 'fellowship', 'party', 'caller', 'company', 'troupe']",A Wreath for Garibaldi
+Who,"['World_Health_Organization', 'WHO']",A Wreath for Garibaldi
+could,[],A Wreath for Garibaldi
+square-built,['square-built'],A Wreath for Garibaldi
+angry,"['raging', 'angry', 'wild', 'furious', 'tempestuous']",A Wreath for Garibaldi
+first,"['beginning', 'for_the_first_time', 'kickoff', 'showtime', 'inaugural', 'first_of_all', '1st', 'low_gear', 'maiden', 'first_base', 'initiatory', 'world-class', 'low', 'foremost', 'initiative', 'first', 'firstly', 'start', 'number_one', 'offset', 'first_gear', 'starting_time', 'outset', 'get-go', 'first_off', 'number_1', 'first-class_honours_degree', 'commencement']",A Wreath for Garibaldi
+piece,"['art_object', 'while', 'bit', 'assemble', 'patch', 'part', 'put_together', 'man', ""objet_d'art"", 'firearm', 'slice', 'nibble', 'opus', 'piece', 'musical_composition', 'spell', 'pick', 'composition', 'piece_of_music', 'set_up', 'tack_together', 'small-arm', 'tack']",A Wreath for Garibaldi
+forlorn,['forlorn'],A Wreath for Garibaldi
+crawled,"['fawn', 'creep', 'crawl', 'cringe', 'cower', 'grovel']",A Wreath for Garibaldi
+from,[],A Wreath for Garibaldi
+My,[],A Wreath for Garibaldi
+stepped,"['step', 'ill-treat', 'ill-use', 'pace', 'maltreat', 'abuse', 'mistreat', 'tread']",A Wreath for Garibaldi
+up,"['upwards', 'upward', 'upwardly', 'improving', 'up', 'astir']",A Wreath for Garibaldi
+Di,[],A Wreath for Garibaldi
+big,"['liberal', 'magnanimous', 'self-aggrandizing', 'braggy', 'freehanded', 'openhanded', 'prominent', 'full-grown', 'grownup', 'bighearted', 'large', 'handsome', 'cock-a-hoop', 'bountiful', 'heavy', 'gravid', 'with_child', 'grown', 'bounteous', 'vainglorious', 'fully_grown', 'swelled', 'braggart', 'vauntingly', 'crowing', 'great', 'big', 'adult', 'boastful', 'bad', 'expectant', 'enceinte', 'boastfully', 'self-aggrandising', 'bragging', 'giving']",A Wreath for Garibaldi
+method,"['method_acting', 'method']",A Wreath for Garibaldi
+world,"['worldly_concern', 'world-wide', 'existence', 'reality', 'cosmos', 'humankind', 'domain', 'human_beings', 'global', 'man', 'populace', 'earth', 'creation', 'globe', 'humans', 'macrocosm', 'planetary', 'humanity', 'Earth', 'world', 'mankind', 'human_race', 'universe', 'public', 'worldwide', 'earthly_concern']",A Wreath for Garibaldi
+Fascists,['fascist'],A Wreath for Garibaldi
+peasant,"['tyke', 'bucolic', 'boor', 'Goth', 'tike', 'provincial', 'churl', 'peasant', 'barbarian']",A Wreath for Garibaldi
+Rimanelli,[],A Wreath for Garibaldi
+lane,['lane'],A Wreath for Garibaldi
+things,"['things', 'thing', 'affair', 'matter']",A Wreath for Garibaldi
+time,"['clock', 'metre', 'sentence', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip']",A Wreath for Garibaldi
+them,[],A Wreath for Garibaldi
+Miltonic,[],A Wreath for Garibaldi
+infection,"['contagion', 'infection', 'transmission']",A Wreath for Garibaldi
+almost,"['near', 'nigh', 'well-nigh', 'nearly', 'almost', 'about', 'virtually', 'most']",A Wreath for Garibaldi
+tall,"['magniloquent', 'marvellous', 'grandiloquent', 'marvelous', 'tall', 'improbable']",A Wreath for Garibaldi
+leave,"['impart', 'leave_of_absence', 'exit', 'allow', 'pull_up_stakes', 'result', 'lead', 'entrust', 'will', 'give', 'forget', 'get_out', 'go_forth', 'farewell', 'depart', 'leave-taking', 'parting', 'leave_behind', 'go_out', 'go_away', 'bequeath', 'allow_for', 'pass_on', 'leave_alone', 'leave', 'provide']",A Wreath for Garibaldi
+times,"['clock', 'metre', 'sentence', 'multiplication', 'time', 'prison_term', 'meter', 'clock_time', 'fourth_dimension', 'clip', 'times']",A Wreath for Garibaldi
+sentiments,"['opinion', 'thought', 'view', 'sentiment', 'persuasion']",A Wreath for Garibaldi
+has,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'HA', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'cause', 'give_birth', 'suffer', 'bear', 'hour_angle', 'get', 'deliver', 'have_got', 'take', 'have']",A Wreath for Garibaldi
+and,[],A Wreath for Garibaldi
+country,"['body_politic', 'res_publica', 'state', 'country', 'rural_area', 'nation', 'land', 'area', 'commonwealth']",A Wreath for Garibaldi
+same,"['Lapplander', 'like', 'same', 'Saami', 'Same', 'Saame', 'Lapp', 'Sami']",A Wreath for Garibaldi
+180,"['clxxx', 'one_hundred_eighty', '180']",A Wreath for Garibaldi
+around,"['roughly', 'more_or_less', 'round', 'close_to', 'just_about', 'about', 'approximately', 'or_so', 'around', 'some']",A Wreath for Garibaldi
+airplanes,"['plane', 'airplane', 'aeroplane']",A Wreath for Garibaldi
+did,"['set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'behave', 'practice']",A Wreath for Garibaldi
+myself,[],A Wreath for Garibaldi
+Vienna,"['Austrian_capital', 'Vienna', 'capital_of_Austria']",A Wreath for Garibaldi
+also,"['also', 'likewise', 'besides', 'as_well', 'too']",A Wreath for Garibaldi
+me,"['ME', 'Pine_Tree_State', 'Maine']",A Wreath for Garibaldi
+let,"['LET', 'Lashkar-e-Tayyiba', 'Army_of_the_Righteous', 'rent', 'permit', 'Army_of_the_Pure', 'let', 'countenance', 'allow', 'Lashkar-e-Taiba', 'get', 'lease', 'net_ball', 'have', 'Lashkar-e-Toiba']",A Wreath for Garibaldi
+river,['river'],A Wreath for Garibaldi
+lovers,"['fan', 'devotee', 'lover', 'buff']",A Wreath for Garibaldi
+This,[],A Wreath for Garibaldi
+sensitive,"['spiritualist', 'tender', 'medium', 'sensitive', 'raw', 'sore', 'sensible']",A Wreath for Garibaldi
+where,[],A Wreath for Garibaldi
+Why,"['why', 'wherefore']",A Wreath for Garibaldi
+hate,"['detest', 'hate', 'hatred']",A Wreath for Garibaldi
+it,"['IT', 'information_technology']",A Wreath for Garibaldi
+nervous,"['uneasy', 'skittish', 'neural', 'queasy', 'spooky', 'unquiet', 'flighty', 'anxious', 'aflutter', 'nervous']",A Wreath for Garibaldi
+Englishmen,['Englishman'],A Wreath for Garibaldi
+terms,"['price', 'condition', 'terms', 'term', 'damage', 'full_term', 'terminal_figure', 'terminus', 'footing']",A Wreath for Garibaldi
+looked,"['face', 'wait', 'reckon', 'take_care', 'see', 'depend', 'seem', 'appear', 'await', 'front', 'expect', 'bet', 'attend', 'count', 'search', 'look', 'calculate']",A Wreath for Garibaldi
+still,"['stillness', 'nonetheless', 'quieten', 'quiet', 'withal', 'placid', 'nevertheless', 'hush', 'inactive', 'calm', 'smooth', 'static', 'even_so', 'tranquil', 'ease', 'yet', 'notwithstanding', 'distillery', 'hush_up', 'unruffled', 'lull', 'however', 'tranquillize', 'even', 'allay', 'silence', 'still', 'soundless', 'relieve', 'silent', 'all_the_same', 'shut_up', 'tranquillise', 'tranquilize', 'motionless', 'stock-still', 'calm_down', 'noneffervescent']",A Wreath for Garibaldi
+Rome,"['Roma', 'Eternal_City', 'Rome', 'capital_of_Italy', 'Italian_capital']",A Wreath for Garibaldi
+including,"['let_in', 'admit', 'include']",A Wreath for Garibaldi
+thinks,"['cerebrate', 'cogitate', 'mean', 'guess', 'remember', 'reckon', 'retrieve', 'consider', 'recall', 'call_back', 'recollect', 'think', 'suppose', 'imagine', 'conceive', 'opine', 'call_up', 'believe', 'intend']",A Wreath for Garibaldi
+apprehension,"['discernment', 'dread', 'collar', 'pinch', 'taking_into_custody', 'apprehensiveness', 'understanding', 'savvy', 'catch', 'arrest', 'misgiving', 'apprehension']",A Wreath for Garibaldi
+something,[],A Wreath for Garibaldi
+sent,"['air', 'transport', 'post', 'station', 'transmit', 'mail', 'charge', 'broadcast', 'commit', 'send', 'place', 'send_out', 'institutionalize', 'send_off', 'sent', 'direct', 'institutionalise', 'ship', 'beam', 'get_off']",A Wreath for Garibaldi
+fought,"['fight', 'contend', 'agitate', 'struggle', 'fight_down', 'press', 'oppose', 'crusade', 'campaign', 'fight_back', 'defend', 'push']",A Wreath for Garibaldi
+older,"['aged', 'older', 'erstwhile', 'previous', 'sr.', 'Old', 'old', 'one-time', 'senior', 'elderly', 'onetime', 'honest-to-god', 'quondam', 'sure-enough', 'sometime', 'honest-to-goodness', 'former', 'elder']",A Wreath for Garibaldi
+Doria,[],A Wreath for Garibaldi
+novels,['novel'],A Wreath for Garibaldi
+Garibaldi's,[],A Wreath for Garibaldi
+high,"['richly', 'heights', 'senior_high_school', 'senior_high', 'gamey', 'high_gear', 'luxuriously', 'high-pitched', 'mellow', 'in_high_spirits', 'high', 'high_school', 'high_up', 'gamy', 'eminent', 'highschool']",A Wreath for Garibaldi
+keep,"['prevent', 'save', 'proceed', 'donjon', 'preserve', 'go_along', 'living', 'bread_and_butter', 'hold', 'stay_fresh', 'dungeon', 'keep_back', 'sustain', 'retain', 'support', 'livelihood', 'maintain', 'observe', 'go_on', 'hold_open', 'hold_back', 'restrain', 'hold_on', 'sustenance', 'celebrate', 'continue', 'keep_on', 'keep_open', 'keep']",A Wreath for Garibaldi
+feelings,"['touch', 'tactile_sensation', 'smell', 'tactual_sensation', 'notion', 'look', 'belief', 'sense', 'flavour', 'feeling', 'opinion', 'feel', 'tone', 'intuitive_feeling', 'finger', 'impression', 'find', 'spirit', 'touch_sensation', 'flavor', 'palpate', 'feelings', 'experience']",A Wreath for Garibaldi
+too,"['excessively', 'also', 'likewise', 'besides', 'as_well', 'overly', 'too', 'to_a_fault']",A Wreath for Garibaldi
+take,"['take_aim', 'hire', 'use_up', 'get_hold_of', 'take_away', 'engage', 'read', 'look_at', 'postulate', 'return', 'pick_out', 'ask', 'take_in', 'conduct', 'require', 'claim', 'consume', 'study', 'aim', 'film', 'convey', 'pack', 'adopt', 'call_for', 'subscribe', 'lead', 'contain', 'choose', 'select', 'occupy', 'consider', 'accept', 'withdraw', 'learn', 'train', 'takings', 'exact', 'fill', 'subscribe_to', 'submit', 'demand', 'issue', 'carry', 'proceeds', 'ingest', 'make', 'rent', 'yield', 'shoot', 'assume', 'remove', 'take_on', 'payoff', 'drive', 'necessitate', 'bring', 'charter', 'hold', 'direct', 'take_up', 'guide', 'involve', 'admit', 'deal', 'need', 'strike', 'lease', 'contract', 'get', 'take', 'have', 'acquire']",A Wreath for Garibaldi
+heavily,"['to_a_great_extent', 'hard', 'heavy', 'intemperately', 'heavily']",A Wreath for Garibaldi
+usually,"['ordinarily', 'normally', 'commonly', 'usually', 'unremarkably']",A Wreath for Garibaldi
+bruised,"['contuse', 'injure', 'bruise', 'offend', 'spite', 'hurt', 'wound']",A Wreath for Garibaldi
+Pope,"['Catholic_Pope', 'Pope', 'Holy_Father', 'Bishop_of_Rome', 'Vicar_of_Christ', 'pope', 'Roman_Catholic_Pope', 'Alexander_Pope', 'pontiff']",A Wreath for Garibaldi
+political,['political'],A Wreath for Garibaldi
+short,"['short-change', 'dead', 'short', 'brusk', 'forgetful', 'scant', 'unforesightful', 'curtly', 'light', 'shortsighted', 'unretentive', 'shortstop', 'poor', 'myopic', 'brusque', 'unawares', 'little', 'short-circuit', 'shortly', 'short_circuit', 'suddenly', 'curt', 'inadequate', 'abruptly']",A Wreath for Garibaldi
+bronze,"['bronze', 'tan', 'bronzy']",A Wreath for Garibaldi
+well-to-do,"['easy', 'well-heeled', 'well-off', 'comfortable', 'well-fixed', 'prosperous', 'well-to-do', 'well-situated']",A Wreath for Garibaldi
+green,"['immature', 'dark-green', 'special_K', 'unripe', 'green', 'park', 'fleeceable', 'commons', 'greens', 'cat_valium', 'gullible', 'jet', 'light-green', 'William_Green', 'honey_oil', 'unripened', 'Green', 'greenness', 'Green_River', 'viridity', 'common', 'super_C', 'putting_surface', 'super_acid', 'putting_green', 'K', 'greenish', 'leafy_vegetable']",A Wreath for Garibaldi
+busts,"['raid', 'bout', 'flop', 'fizzle', 'snap', 'burst', 'wear', 'rupture', 'female_chest', 'break', 'fall_apart', 'binge', 'tear', 'bust', 'wear_out']",A Wreath for Garibaldi
+different,"['dissimilar', 'different', 'unlike']",A Wreath for Garibaldi
+by,"['aside', 'by', 'past', 'away']",A Wreath for Garibaldi
+southern,"['southern', 'southerly']",A Wreath for Garibaldi
+nowadays,"['now', 'today', 'present', 'nowadays']",A Wreath for Garibaldi
+names,"['gens', 'key', 'figure', 'names', 'name', 'discover', 'cite', 'diagnose', 'make', 'nominate', 'refer', 'constitute', 'epithet', 'name_calling', 'distinguish', 'identify', 'list', 'call', 'public_figure', 'mention', 'key_out', 'bring_up', 'appoint', 'describe', 'advert']",A Wreath for Garibaldi
+trying,"['prove', 'nerve-racking', 'taste', 'try', 'seek', 'try_out', 'stress', 'try_on', 'sample', 'hear', 'trying', 'test', 'assay', 'essay', 'examine', 'judge', 'strain', 'nerve-wracking', 'attempt', 'stressful', 'render', 'adjudicate']",A Wreath for Garibaldi
+ecclesiastical,"['ecclesiastical', 'ecclesiastic']",A Wreath for Garibaldi
+poetry,"['poetry', 'verse', 'poesy']",A Wreath for Garibaldi
+intellectual,"['intellectual', 'intellect', 'rational', 'noetic', 'cerebral']",A Wreath for Garibaldi
+Quirinal,[],A Wreath for Garibaldi
+ceremony,"['ceremonial', 'ceremony', 'observance', 'ceremonial_occasion']",A Wreath for Garibaldi
+sea,"['sea', 'ocean']",A Wreath for Garibaldi
+trouble,"['put_out', 'disturb', 'ail', 'upset', 'disoblige', 'trouble_oneself', 'distract', 'inconvenience_oneself', 'hassle', 'discommode', 'disquiet', 'fuss', 'trouble', 'difficulty', 'problem', 'pain', 'unhinge', 'inconvenience', 'bother', 'worry', 'disorder', 'cark', 'perturb', 'incommode']",A Wreath for Garibaldi
+make,"['stool', 'urinate', 'realize', 'lay_down', 'wee', 'take_a_crap', 'micturate', 'prepare', 'take_in', 'make_up', 'crap', 'pretend', 'hit', 'induce', 'hold', 'bring_in', 'do', 'give', 'piss', 'arrive_at', 'throw', 'stimulate', 'take_a_shit', 'work', 'ready', 'create', 'pee', 'score', 'realise', 'form', 'puddle', 'name', 'shuffling', 'defecate', 'cook', 'make', 'nominate', 'constitute', 'establish', 'brand', 'make_believe', 'fix', 'progress_to', 'make_water', 'shit', 'take_a_leak', 'wee-wee', 'cause', 'reach', 'build', 'piddle', 'pee-pee', 'ca-ca', 'clear', 'shuffle', 'pass_water', 'attain', 'earn', 'gain', 'seduce', 'spend_a_penny', 'get', 'construct', 'draw', 'pull_in', 'get_to', 'relieve_oneself', 'take', 'have', 'produce']",A Wreath for Garibaldi
+true,"['genuine', 'avowedly', 'true_up', 'admittedly', 'true', 'dependable', 'rightful', 'reliable', 'lawful', 'unfeigned', 'dead_on_target', 'truthful', 'confessedly', 'straight', 'on-key', 'honest']",A Wreath for Garibaldi
+with,[],A Wreath for Garibaldi
+Pancrazio,[],A Wreath for Garibaldi
+loud,"['gaudy', 'tawdry', 'flash', 'gimcrack', 'garish', 'brassy', 'loud', 'loudly', 'meretricious', 'tacky', 'aloud', 'trashy', 'tatty', 'cheap', 'forte', 'flashy']",A Wreath for Garibaldi
+fell,"['savage', 'vanish', 'flow', 'felled_seam', 'go_down', 'accrue', 'return', 'diminish', 'fly', 'settle', 'drop', 'decrease', 'light', 'hide', 'hang', 'devolve', 'lessen', 'come_down', 'fall', 'barbarous', 'cut_down', 'brutal', 'fell', 'fall_down', 'strike_down', 'descend', 'precipitate', 'vicious', 'come', 'shine', 'pass', 'strike', 'roughshod', 'cruel']",A Wreath for Garibaldi
+narrow,"['specify', 'nail_down', 'minute', 'specialise', 'specialize', 'contract', 'narrow-minded', 'peg_down', 'constringe', 'narrow', 'narrow_down', 'constrict', 'pin_down']",A Wreath for Garibaldi
+idealistic,"['rarefied', 'lofty', 'ideal', 'grand', 'rarified', 'elevated', 'idealistic', 'sublime', 'noble-minded', 'exalted', 'high-flown', 'high-minded']",A Wreath for Garibaldi
+thorough,"['thorough', 'exhaustive', 'thoroughgoing']",A Wreath for Garibaldi
+life,"['liveliness', 'life-time', 'animation', 'sprightliness', 'life_history', 'biography', 'lifetime', 'lifespan', 'aliveness', 'life_sentence', 'living', 'life', 'life_story', 'spirit']",A Wreath for Garibaldi
+fifty,"['l', 'L', 'fifty_dollar_bill', '50', 'fifty']",A Wreath for Garibaldi
+fine-featured,[],A Wreath for Garibaldi
+enthusiastic,['enthusiastic'],A Wreath for Garibaldi
+son,"['Logos', 'son', 'Word', 'boy', 'Son']",A Wreath for Garibaldi
+March,"['butt_against', 'butt_on', 'Mar', 'border', 'marching', 'butt', 'edge', 'marchland', 'marching_music', 'exhibit', 'borderland', 'march', 'border_district', 'demonstrate', 'abut', 'parade', 'Master_of_Architecture', 'March', 'adjoin', 'MArch', 'process']",A Wreath for Garibaldi
+fields,"['arena', 'W._C._Fields', 'theatre_of_operations', 'orbit', 'playing_field', 'domain', 'William_Claude_Dukenfield', 'study', 'flying_field', 'field_of_operation', 'sphere', 'airfield', 'athletic_field', 'force_field', 'theater_of_operations', 'champaign', 'plain', 'bailiwick', 'field', 'theatre', 'subject', 'subject_area', 'field_of_battle', 'line_of_business', 'field_of_honor', 'Fields', 'battleground', 'playing_area', 'field_of_view', 'battlefield', 'field_of_force', 'discipline', 'subject_field', 'field_of_operations', 'theater', 'area', 'field_of_study', 'landing_field']",A Wreath for Garibaldi
+police,"['law', 'police', 'patrol', 'constabulary', 'police_force']",A Wreath for Garibaldi
+goes,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'offer', 'go_bad', 'kick_the_bucket', 'hug_drug', 'get_going', 'blend', 'survive', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'ecstasy', 'travel', 'run_short', 'Adam', 'give_way', 'live', 'go', 'run', 'work', 'blend_in', 'pass_away', 'crack', 'XTC', 'cristal', 'turn', 'depart', 'croak', 'die', 'rifle', 'operate', 'conk_out', 'belong', 'spell', 'start', 'X', 'hold_out', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'whirl', 'go_game', 'last', 'disco_biscuit', 'pass', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'fling', 'move', 'tour']",A Wreath for Garibaldi
+alive,"['awake', 'animated', 'live', 'active', 'alive', 'alert']",A Wreath for Garibaldi
+romantic,"['amatory', 'romantic', 'quixotic', 'amorous', 'romanticistic', 'wild-eyed', 'romanticist']",A Wreath for Garibaldi
+Krauts,"['Kraut', 'Krauthead', 'Boche', 'Jerry', 'Hun']",A Wreath for Garibaldi
+Oh,"['Ohio', 'Buckeye_State', 'OH']",A Wreath for Garibaldi
+defense,"['United_States_Department_of_Defense', 'defense', 'demurrer', 'defence_force', 'defensive_structure', 'refutation', 'defense_lawyers', 'defense_mechanism', 'defense_team', 'defending_team', 'denial', 'defensive_measure', 'defence_mechanism', 'Department_of_Defense', 'defence', 'defense_force', 'defence_reaction', 'vindication', 'defense_reaction', 'DoD', 'Defense', 'Defense_Department']",A Wreath for Garibaldi
+fly,"['pilot', 'fly_front', 'vanish', 'aviate', 'take_flight', 'vaporize', 'fly_sheet', 'tent_flap', 'fell', 'wing', 'tent-fly', 'rainfly', 'fly', 'flee', 'fly_ball']",A Wreath for Garibaldi
+signs,"['foretoken', 'star_sign', 'augury', 'mansion', 'subscribe', 'signalise', 'mark', 'bless', 'ratify', 'polarity', 'sign_of_the_zodiac', 'sign', 'planetary_house', 'sign_on', 'signal', 'preindication', 'signboard', 'contract', 'signaling', 'signalize', 'sign_up', 'house']",A Wreath for Garibaldi
+sixteen-year-old,[],A Wreath for Garibaldi
+realistic,"['naturalistic', 'realistic']",A Wreath for Garibaldi
+novelist,['novelist'],A Wreath for Garibaldi
+girl,"['young_lady', 'miss', 'girl', 'girlfriend', 'fille', 'daughter', 'little_girl', 'missy', 'young_woman', 'lady_friend', 'female_child']",A Wreath for Garibaldi
+part,"['character', 'divide', 'constituent', 'partially', 'split', 'role', 'break_up', 'function', 'part', 'portion', 'division', 'partly', 'component_part', 'region', 'percentage', 'disunite', 'voice', 'take_off', 'depart', 'set_out', 'parting', 'theatrical_role', 'section', 'piece', 'start', 'set_off', 'break', 'contribution', 'persona', 'office', 'start_out', 'split_up', 'set_forth', 'component', 'separate', 'share']",A Wreath for Garibaldi
+gesture,"['gesticulate', 'gesture', 'motion']",A Wreath for Garibaldi
+worried,"['concern', 'disturbed', 'upset', 'care', 'worried', 'apprehensive', 'interest', 'occupy', 'vex', 'disquieted', 'distressed', 'worry']",A Wreath for Garibaldi
+seemed,"['appear', 'look', 'seem']",A Wreath for Garibaldi
+tired,"['jade', 'shopworn', 'well-worn', 'fag_out', 'exhaust', 'wear_out', 'wear_upon', 'play_out', 'tired', 'tire', 'banal', 'pall', 'bore', 'tire_out', 'old-hat', 'fag', 'stock', 'wear_down', 'trite', 'fatigue', 'weary', 'timeworn', 'hackneyed', 'run_down', 'wear', 'threadbare', 'sap', 'commonplace', 'outwear']",A Wreath for Garibaldi
+were,"['equal', 'constitute', 'follow', 'be', 'exist', 'embody', 'live', 'make_up', 'cost', 'personify', 'represent', 'comprise']",A Wreath for Garibaldi
+quitting,"['quit', 'drop_by_the_wayside', 'chuck_up_the_sponge', 'drop_out', 'relinquish', 'throw_in', 'discontinue', 'stop', 'fall_by_the_wayside', 'throw_in_the_towel', 'cease', 'depart', 'renounce', 'give_up', 'leave_office', 'step_down', 'take_leave', 'resign', 'lay_off', 'foreswear']",A Wreath for Garibaldi
+lean,"['tip', 'list', 'slant', 'leaning', 'be_given', 'angle', 'thin', 'lean', 'run', 'incline', 'tend', 'skimpy', 'tilt', 'inclination']",A Wreath for Garibaldi
+imprisonment,"['immurement', 'incarceration', 'captivity', 'internment', 'imprisonment']",A Wreath for Garibaldi
+Gianicolo,[],A Wreath for Garibaldi
+monument,"['memorial', 'repository', 'monument']",A Wreath for Garibaldi
+chuck,"['be_sick', 'eats', 'pat', 'toss', 'upchuck', 'ditch', 'honk', 'throw_up', 'disgorge', 'cat', 'chuck', 'spue', 'grub', 'regurgitate', 'cast', 'purge', 'puke', 'spew', 'regorge', 'retch', 'chow', 'vomit_up', 'barf', 'vomit', 'sick']",A Wreath for Garibaldi
+proper,"['proper', 'right']",A Wreath for Garibaldi
+solemnly,['solemnly'],A Wreath for Garibaldi
+magazine,"['magazine_publisher', 'cartridge', 'powder_store', 'magazine', 'powder_magazine', 'cartridge_holder', 'clip', 'cartridge_clip', 'mag']",A Wreath for Garibaldi
+subject,"['capable', 'open', 'study', 'subjugate', 'matter', 'guinea_pig', 'submit', 'dependent', 'topic', 'bailiwick', 'field', 'issue', 'subject', 'subject_area', 'content', 'depicted_object', 'case', 'theme', 'discipline', 'subject_field', 'national', 'field_of_study']",A Wreath for Garibaldi
+district,"['territorial_dominion', 'district', 'dominion', 'territory', 'zone']",A Wreath for Garibaldi
+now,"['today', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'nowadays', 'directly', 'at_present', 'like_a_shot', 'immediately']",A Wreath for Garibaldi
+happening,"['materialize', 'occurrence', 'happen', 'come_about', 'natural_event', 'bechance', 'take_place', 'occurrent', 'chance', 'fall_out', 'pass_off', 'bump', 'happening', 'hap', 'go_on', 'encounter', 'find', 'befall', 'materialise', 'occur', 'pass']",A Wreath for Garibaldi
+War,"['war', 'state_of_war', 'warfare']",A Wreath for Garibaldi
+charged,"['point', 'rouse', 'aerated', 'blame', 'bill', 'accuse', 'lodge', 'excite', 'level', 'charge', 'commit', 'send', 'saddle', 'bear_down', 'institutionalize', 'file', 'consign', 'shoot', 'load', 'charged', 'shoot_down', 'turn_on', 'commove', 'agitate', 'charge_up', 'supercharged', 'institutionalise', 'buck', 'appoint', 'tear', 'burden']",A Wreath for Garibaldi
+proxy,"['procurator', 'proxy', 'placeholder']",A Wreath for Garibaldi
+Black,"['Negro', 'mordant', 'fatal', 'calamitous', 'shameful', 'sinister', 'blackamoor', 'pitch_blackness', 'black-market', 'bleak', 'melanize', 'nigrify', 'smuggled', 'Black_person', 'dim', 'opprobrious', 'Joseph_Black', 'lightlessness', 'Shirley_Temple_Black', 'contraband', 'grim', 'blackened', 'melanise', 'inkiness', 'inglorious', 'Shirley_Temple', 'dark', 'Black', 'ignominious', 'Negroid', 'blacken', 'fateful', 'black', 'blackness', 'disastrous', 'pitch-dark', 'disgraceful', 'smutty', 'total_darkness', 'pitch-black', 'bootleg']",A Wreath for Garibaldi
+real,"['genuine', 'really', 'rattling', 'literal', 'veridical', 'existent', 'tangible', 'real', 'substantial', 'actual', 'very', 'real_number', 'material']",A Wreath for Garibaldi
+action,"['litigate', 'activity', 'carry_through', 'legal_action', 'sue', 'fulfill', 'natural_action', 'action_mechanism', 'accomplish', 'military_action', 'activeness', 'action_at_law', 'execute', 'action', 'carry_out', 'fulfil', 'process', 'natural_process']",A Wreath for Garibaldi
+anybody,[],A Wreath for Garibaldi
+sensed,"['perceived', 'feel', 'smell', 'sense', 'sensed', 'smell_out']",A Wreath for Garibaldi
+These,[],A Wreath for Garibaldi
+An,"['Associate_in_Nursing', 'AN']",A Wreath for Garibaldi
+manners,"['mode', 'style', 'manner', 'personal_manner', 'fashion', 'way', 'manners']",A Wreath for Garibaldi
+They,[],A Wreath for Garibaldi
+shows,"['point', 'prove', 'show_up', 'register', 'evince', 'show', 'read', 'indicate', 'designate', 'record', 'present', 'exhibit', 'depict', 'express', 'testify', 'shew', 'appearance', 'usher', 'demonstrate', 'establish', 'bear_witness', 'picture', 'display', 'evidence', 'demo', 'render']",A Wreath for Garibaldi
+English,"['English', 'English_language', 'English_people', 'side']",A Wreath for Garibaldi
+fallen,"['flow', 'go_down', 'accrue', 'return', 'diminish', 'settle', 'decrease', 'light', 'hang', 'devolve', 'lessen', 'come_down', 'fall', 'fall_down', 'descend', 'precipitate', 'come', 'fallen', 'shine', 'pass', 'strike']",A Wreath for Garibaldi
+tradition,"['tradition', 'custom']",A Wreath for Garibaldi
+that,[],A Wreath for Garibaldi
+ghosts,"['spook', 'touch', 'spectre', 'ghostwriter', 'ghost', 'obsess', 'trace', 'wraith', 'shade', 'specter', 'haunt', 'ghostwrite']",A Wreath for Garibaldi
+what,[],A Wreath for Garibaldi
+familiar,"['comrade', 'familiar', 'intimate', 'companion', 'fellow', 'conversant', 'associate', 'familiar_spirit']",A Wreath for Garibaldi
+takeoff,"['put-on', 'burlesque', 'takeoff', 'travesty', 'mockery', 'lampoon', 'parody', 'charade', 'spoof', 'pasquinade', 'sendup']",A Wreath for Garibaldi
+monuments,"['memorial', 'repository', 'monument']",A Wreath for Garibaldi
+Count,"['numerate', 'reckon', 'depend', 'number', 'tally', 'matter', 'numeration', 'weigh', 'counting', 'consider', 'bet', 'enumeration', 'enumerate', 'count', 'reckoning', 'look', 'calculate']",A Wreath for Garibaldi
+bold,"['sheer', 'bold', 'boldface', 'bold_face', 'bluff']",A Wreath for Garibaldi
+minutes,"['minute', 'instant', 'transactions', 'hour', 'mo', 'bit', 'second', 'proceedings', 'minutes', 'min', 'arcminute', 'minute_of_arc', 'moment']",A Wreath for Garibaldi
+dimesize,[],A Wreath for Garibaldi
+raw,"['tender', 'stark_naked', 'altogether', 'new', 'in_the_altogether', 'cutting', 'naked', 'bleak', 'naked_as_a_jaybird', 'rude', 'in_the_buff', 'sensitive', 'unsanded', 'peeled', 'natural', 'birthday_suit', 'bare-assed', 'sore', 'bare-ass', 'crude', 'in_the_raw', 'raw']",A Wreath for Garibaldi
+have,"['receive', 'experience', 'birth', 'possess', 'take_in', 'hold', 'induce', 'consume', 'feature', 'give', 'let', 'accept', 'sustain', 'throw', 'stimulate', 'own', 'ingest', 'make', 'wealthy_person', 'cause', 'give_birth', 'suffer', 'bear', 'get', 'deliver', 'rich_person', 'have_got', 'take', 'have']",A Wreath for Garibaldi
+Giuseppe,[],A Wreath for Garibaldi
+immediate,"['immediate', 'contiguous', 'straightaway', 'quick', 'prompt']",A Wreath for Garibaldi
+strung,"['string_along', 'strung', 'string_up', 'thread', 'string', 'draw']",A Wreath for Garibaldi
+causes,"['grounds', 'effort', 'causal_agent', 'crusade', 'reason', 'movement', 'induce', 'do', 'stimulate', 'causal_agency', 'make', 'suit', 'lawsuit', 'drive', 'cause', 'case', 'get', 'campaign', 'causa', 'have']",A Wreath for Garibaldi
+American,"['American_English', 'American_language', 'American']",A Wreath for Garibaldi
+these,[],A Wreath for Garibaldi
+Hale,"['squeeze', 'pressure', 'coerce', 'Hale', 'haul', 'Edward_Everett_Hale', 'Nathan_Hale', 'George_Ellery_Hale', 'hale', 'whole', 'cart', 'force', 'drag']",A Wreath for Garibaldi
+interested,"['concern', 'concerned', 'interested', 'matter_to', 'occupy', 'interest', 'worry']",A Wreath for Garibaldi
+size,"['size', 'sizing', 'size_of_it']",A Wreath for Garibaldi
+dancers,"['terpsichorean', 'dancer', 'professional_dancer', 'social_dancer']",A Wreath for Garibaldi
+bell,"['Alexander_Bell', 'toll', 'Bell', 'chime', 'Vanessa_Bell', 'gong', 'Melville_Bell', 'doorbell', ""ship's_bell"", 'Alexander_Graham_Bell', 'Alexander_Melville_Bell', 'campana', 'buzzer', 'bell', 'Vanessa_Stephen', 'bell_shape']",A Wreath for Garibaldi
+resistance,"['immunity', 'opposition', 'resistor', 'resistance', 'electrical_resistance', 'underground', 'ohmic_resistance', 'resistivity', 'electric_resistance', 'impedance']",A Wreath for Garibaldi
+ugly,"['slimy', 'ugly', 'worthless', 'wretched', 'horrifying', 'horrible', 'despicable', 'atrocious', 'frightful', 'unworthy', 'vile', 'surly']",A Wreath for Garibaldi
+do,"['brawl', 'doh', 'set', 'do', 'suffice', 'manage', 'coiffe', 'coiffure', 'execute', 'arrange', 'DO', 'make_out', 'act', 'fare', 'serve', 'answer', 'make', 'get_along', 'dress', 'Doctor_of_Osteopathy', 'perform', 'exercise', 'practise', 'coif', 'cause', 'come', 'ut', 'bash', 'behave', 'practice']",A Wreath for Garibaldi
+not,"['not', 'non']",A Wreath for Garibaldi
+policemen,"['policeman', 'police_officer', 'officer']",A Wreath for Garibaldi
+postmen,"['mail_carrier', 'mailman', 'carrier', 'letter_carrier', 'postman']",A Wreath for Garibaldi
+portents,"['presage', 'omen', 'prodigy', 'portent', 'prognostication', 'prognostic']",A Wreath for Garibaldi
+30,"['30', 'XXX', 'xxx', 'thirty']",A Wreath for Garibaldi
+Gossip,"['confab', 'confabulate', 'chin-wagging', 'chew_the_fat', 'chaffer', 'chin-wag', 'gossiper', 'chat', 'causerie', 'gossip', 'chit_chat', 'chatter', 'chitchat', 'jaw', 'chin_wag', 'comment', 'gossipmonger', 'visit', 'rumormonger', 'newsmonger', 'natter', 'chit-chat', 'gabfest', 'chin_wagging', 'shoot_the_breeze', 'gab', 'scuttlebutt', 'small_talk', 'dish_the_dirt', 'tittle-tattle', 'claver', 'rumourmonger']",A Wreath for Garibaldi
+who,"['World_Health_Organization', 'WHO']",A Wreath for Garibaldi
+gin,"['gin_rummy', 'gin', 'snare', 'noose', 'knock_rummy', 'cotton_gin']",A Wreath for Garibaldi
+expression,"['formulation', 'manifestation', 'aspect', 'reflection', 'locution', 'expression', 'grammatical_construction', 'formula', 'reflexion', 'facial_expression', 'saying', 'verbal_expression', 'verbalism', 'construction', 'face', 'look']",A Wreath for Garibaldi
+angels,"['holy_man', 'holy_person', 'saint', 'angel', 'Angel_Falls', 'backer', 'Angel']",A Wreath for Garibaldi
+artillery,"['weapon', 'gun', 'artillery_unit', 'artillery', 'heavy_weapon', 'ordnance']",A Wreath for Garibaldi
+going,"['expire', 'break_down', 'choke', 'run_low', 'proceed', 'sound', 'hold_up', 'exit', 'conk', 'pop_off', 'snuff_it', ""cash_in_one's_chips"", 'plump', 'go_bad', 'kick_the_bucket', 'get_going', 'release', 'blend', 'survive', 'sledding', 'become', 'function', 'extend', 'lead', 'endure', 'give-up_the_ghost', 'travel', 'run_short', 'give_way', 'leaving', 'go', 'run', 'work', 'live', 'pass_away', 'blend_in', 'depart', 'croak', 'die', 'rifle', 'operate', 'departure', 'passing', 'loss', 'belong', 'conk_out', 'start', 'hold_out', 'going', 'fit', 'break', 'decease', 'live_on', 'go_away', 'locomote', 'fail', 'last', 'pass', 'expiration', 'buy_the_farm', 'get', 'perish', 'drop_dead', 'give_out', 'going_away', 'move']",A Wreath for Garibaldi
+find,"['breakthrough', 'uncovering', 'receive', 'incur', 'find_out', 'come_up', 'determine', 'recover', 'notice', 'happen', 'retrieve', 'rule', 'line_up', 'chance', 'observe', 'discover', 'feel', 'bump', 'regain', 'get_hold', 'witness', 'encounter', 'find', 'find_oneself', 'get', 'ascertain', 'detect', 'discovery', 'obtain', 'see']",A Wreath for Garibaldi
+fish,"['angle', 'Pisces', 'fish', 'Pisces_the_Fishes', 'Fish']",A Wreath for Garibaldi
+since,[],A Wreath for Garibaldi
+enough,"['sufficiency', 'adequate', 'decent', 'plenty', 'enough']",A Wreath for Garibaldi
+this,[],A Wreath for Garibaldi
+hadn't,[],A Wreath for Garibaldi
+near,"['approximate', 'most', 'draw_near', 'come_on', 'go_up', 'about', 'cheeseparing', 'dear', 'penny-pinching', 'close', 'nigh', 'good', 'approach', 'draw_close', 'near', 'well-nigh', 'come_near', 'nearly', 'almost', 'skinny', 'virtually']",A Wreath for Garibaldi
+come,"['issue_forth', 'number', 'come_up', 'come_in', 'seed', 'do', 'make_out', 'seminal_fluid', 'fare', 'fall', 'get_along', 'semen', 'descend', 'occur', 'total', 'come', 'ejaculate', 'arrive', 'hail', 'get', 'follow', 'add_up', 'amount', 'cum', 'derive']",A Wreath for Garibaldi
+right,"['compensate', 'veracious', 'flop', 'properly', 'rightfulness', 'powerful', 'decently', 'justly', 'correct', 'the_right_way', 'good', 'proper', 'mightily', 'aright', 'right-hand', 'redress', 'right_on', 'mighty', 'rightfield', 'decent', 'right_hand', 'right', 'ripe', 'right_wing', 'right_field', 'correctly', 'in_good_order', 'rectify']",A Wreath for Garibaldi
+to,[],A Wreath for Garibaldi
+Of,[],A Wreath for Garibaldi
+benediction,"['blessing', 'benediction']",A Wreath for Garibaldi
+The,[],A Wreath for Garibaldi
+Like,"['wish', 'like', 'corresponding', 'comparable', 'the_like', 'care', 'same', 'alike', 'ilk', 'similar', 'the_likes_of']",A Wreath for Garibaldi
+worked,"['act_upon', 'puzzle_out', 'sour', 'crop', 'mold', 'influence', 'make_for', 'function', 'cultivate', 'shape', 'act', 'work', 'go', 'run', 'wreak', 'form', 'forge', 'knead', 'figure_out', 'play', 'lick', 'turn', 'operate', 'make', 'mould', 'work_out', 'exercise', 'solve', 'bring', 'work_on', 'exploit', 'do_work', 'put_to_work', 'ferment', 'process']",A Wreath for Garibaldi
+ruins,"['wrecking', 'ruination', 'smash', 'bankrupt', 'ruining', 'downfall', 'laying_waste', 'break', 'destroy', 'deflower', 'ruin', 'dilapidation']",A Wreath for Garibaldi
+Our,[],A Wreath for Garibaldi
+insignificant,"['undistinguished', 'peanut', 'unimportant', 'insignificant']",A Wreath for Garibaldi
+color,"['colorise', 'emblazon', 'colouring_material', 'color', 'color_in', 'gloss', 'coloration', 'semblance', 'colour', 'people_of_color', 'colourize', 'colorize', 'people_of_colour', 'coloring_material', 'discolor', 'vividness', 'coloring', 'tinge', 'colouring', 'colouration', 'distort', 'discolour', 'colour_in', 'colourise']",A Wreath for Garibaldi
+Without,[],A Wreath for Garibaldi
+wonderful,"['fantastic', 'rattling', 'grand', 'marvellous', 'wondrous', 'tremendous', 'wonderful', 'marvelous', 'terrific', 'howling']",A Wreath for Garibaldi
+then,"['then', 'and_so', 'so', 'and_then']",A Wreath for Garibaldi
+anti-clericalism,[],A Wreath for Garibaldi
+but,"['only', 'simply', 'but', 'just', 'merely']",A Wreath for Garibaldi
+closer,"['faithful', 'closer', 'confining', 'tight', 'stuffy', 'cheeseparing', 'penny-pinching', 'close', 'nigh', 'snug', 'closelipped', 'airless', 'tightlipped', 'close-fitting', 'unaired', 'finisher', 'near', 'nearer', 'nigher', 'closemouthed', 'secretive', 'skinny']",A Wreath for Garibaldi
+Man,"['Isle_of_Man', 'humankind', 'valet_de_chambre', 'Man', 'human_beings', 'man', 'gentleman', 'adult_male', ""gentleman's_gentleman"", 'humans', 'serviceman', 'military_man', 'piece', 'humanity', 'world', 'homo', 'mankind', 'human_race', 'human', 'human_being', 'military_personnel', 'valet']",A Wreath for Garibaldi
+Villa,"['Pancho_Villa', 'villa', 'Francisco_Villa', 'Villa', 'Doroteo_Arango']",A Wreath for Garibaldi
+Garibaldi,"['Giuseppe_Garibaldi', 'Garibaldi', 'garibaldi']",A Wreath for Garibaldi
+else,[],A Wreath for Garibaldi
+base,"['stem', 'radix', 'cornerstone', 'understructure', 'root_word', 'mean', 'Qaeda', 'lowly', 'base', 'immoral', 'Base', 'groundwork', 'radical', 'floor', 'found', 'foundation', 'base_of_operations', 'infrastructure', 'fundament', 'basis', 'establish', 'pedestal', 'substructure', 'al-Qaeda', 'root', 'home', 'alkali', 'free-base', 'meanspirited', 'theme', 'bag', 'ground', 'nucleotide', 'basal', 'al-Qaida', 'stand', 'baseborn', 'foot', 'humble', ""al-Qa'ida""]",A Wreath for Garibaldi
+grubby,"['grubby', 'dingy', 'grimy', 'grungy', 'Myxocephalus_aenaeus', 'raunchy', 'begrimed']",A Wreath for Garibaldi
+matter,"['topic', 'issue', 'subject', 'matter', 'thing', 'weigh', 'affair', 'count']",A Wreath for Garibaldi
+basements,"['basement', 'cellar']",A Wreath for Garibaldi
+war,"['war', 'state_of_war', 'warfare']",A Wreath for Garibaldi
+novel,"['refreshing', 'novel', 'fresh', 'new']",A Wreath for Garibaldi
+friend,"['champion', 'acquaintance', 'admirer', 'Quaker', 'friend', 'Friend', 'protagonist', 'ally', 'supporter', 'booster']",A Wreath for Garibaldi
+jumped,"['bound', 'jump_off', 'alternate', 'parachute', 'spring', 'skip_over', 'chute', 'climb_up', 'jump_out', 'jumpstart', 'stand_out', 'skip', 'pass_over', 'start', 'rise', 'jump-start', 'derail', 'stick_out', 'jump', 'startle', 'leap_out', 'leap']",A Wreath for Garibaldi
+about,"['roughly', 'more_or_less', 'near', 'nigh', 'close_to', 'well-nigh', 'nearly', 'just_about', 'about', 'approximately', 'almost', 'or_so', 'astir', 'around', 'virtually', 'most', 'some']",A Wreath for Garibaldi
+All,"['entirely', 'completely', 'all', 'wholly', 'altogether', 'totally', 'whole']",A Wreath for Garibaldi
+denouncing,"['shop', 'grass', 'mark', 'snitch', 'stigmatise', 'give_away', 'brand', 'stag', 'denounce', 'rat', 'stigmatize', 'shit', 'tell_on', 'betray']",A Wreath for Garibaldi
+Berto,[],A Wreath for Garibaldi
+flew,"['pilot', 'vanish', 'aviate', 'take_flight', 'vaporize', 'fell', 'wing', 'fly', 'flee']",A Wreath for Garibaldi
+cliques,"['inner_circle', 'camp', 'ingroup', 'coterie', 'clique', 'pack']",A Wreath for Garibaldi
+trucks,"['hand_truck', 'truck', 'motortruck']",A Wreath for Garibaldi
+Pamphili,[],A Wreath for Garibaldi
+bore,"['bore-hole', 'pay', 'tidal_bore', 'dullard', 'birth', 'digest', 'turn_out', 'drill', 'hold', 'conduct', 'take_over', 'gauge', 'deport', 'brook', 'endure', 'comport', 'accept', 'tire', 'expect', 'eagre', 'support', 'abide', 'bore', 'eager', 'carry', 'yield', 'assume', 'stomach', 'acquit', 'put_up', 'give_birth', 'caliber', 'suffer', 'stick_out', 'calibre', 'behave', 'bear', 'drill_hole', 'aegir', 'stand', 'tolerate', 'gestate', 'wear', 'deliver', 'have_a_bun_in_the_oven', 'contain', 'have']",A Wreath for Garibaldi
+San,[],A Wreath for Garibaldi
+earned,"['bring_in', 'earned', 'clear', 'make', 'earn', 'realize', 'gain', 'garner', 'pull_in', 'take_in', 'realise']",A Wreath for Garibaldi
+unit,"['unit', 'social_unit', 'building_block', 'whole', 'unit_of_measurement']",A Wreath for Garibaldi
+best,"['proficient', 'Best', 'C._H._Best', 'sound', 'easily', 'respectable', 'well', 'better', 'topper', 'salutary', 'scoop', 'outdo', 'considerably', 'full', 'trump', 'advantageously', 'serious', 'estimable', 'effective', 'in_effect', 'intimately', 'skilful', 'just', 'practiced', 'dear', 'good', 'best', 'adept', 'comfortably', 'outflank', 'Charles_Herbert_Best', 'safe', 'honest', 'near', 'skillful', 'right', 'unspoilt', 'expert', 'ripe', 'undecomposed', 'unspoiled', 'substantially', 'secure', 'in_force', 'honorable', 'upright', 'dependable', 'beneficial']",A Wreath for Garibaldi
+wanted,"['wanted', 'precious', 'need', 'desire', 'cherished', 'treasured', 'require', 'want']",A Wreath for Garibaldi
+when,[],A Wreath for Garibaldi
+thought,"['thinking', 'cerebrate', 'cogitate', 'mean', 'guess', 'persuasion', 'reckon', 'remember', 'retrieve', 'cerebration', 'idea', 'consider', 'recall', 'sentiment', 'call_back', 'think', 'recollect', 'opinion', 'intend', 'suppose', 'thought', 'view', 'thought_process', 'imagine', 'conceive', 'intellection', 'opine', 'call_up', 'believe', 'mentation']",A Wreath for Garibaldi
+understand,"['sympathise', 'understand', 'realize', 'empathize', 'translate', 'empathise', 'infer', 'read', 'sympathize', 'interpret', 'realise', 'see']",A Wreath for Garibaldi
+gloriously,['gloriously'],A Wreath for Garibaldi
+movies,"['film', 'motion_picture', 'pic', 'picture_show', 'flick', 'picture', 'moving_picture', 'motion-picture_show', 'movie', 'moving-picture_show']",A Wreath for Garibaldi
+exploited,"['tap', 'exploit', 'exploited', 'used', 'victimised', 'work', 'ill-used', 'victimized', 'overwork', 'put-upon']",A Wreath for Garibaldi
+whole,"['entirely', 'unit', 'unscathed', 'solid', 'wholly', 'completely', 'all', 'altogether', 'unharmed', 'totally', 'unhurt', 'hale', 'whole', 'unanimous']",A Wreath for Garibaldi
+pity,"['compassion', 'feel_for', 'condole_with', 'sympathize_with', 'ruth', 'shame', 'commiseration', 'compassionate', 'pathos', 'pity']",A Wreath for Garibaldi
+through,"['done', 'through', 'through_and_through', 'through_with']",A Wreath for Garibaldi
+black,"['Negro', 'mordant', 'fatal', 'calamitous', 'shameful', 'sinister', 'blackamoor', 'pitch_blackness', 'black-market', 'bleak', 'melanize', 'nigrify', 'smuggled', 'Black_person', 'dim', 'opprobrious', 'Joseph_Black', 'lightlessness', 'Shirley_Temple_Black', 'contraband', 'grim', 'blackened', 'melanise', 'inkiness', 'inglorious', 'Shirley_Temple', 'dark', 'Black', 'ignominious', 'Negroid', 'blacken', 'fateful', 'black', 'blackness', 'disastrous', 'pitch-dark', 'disgraceful', 'smutty', 'total_darkness', 'pitch-black', 'bootleg']",A Wreath for Garibaldi
+Now,"['today', 'instantly', 'right_away', 'forthwith', 'now', 'straight_off', 'straightaway', 'at_once', 'nowadays', 'directly', 'at_present', 'like_a_shot', 'immediately']",A Wreath for Garibaldi
+connection,"['connecter', 'connection', 'link', 'connective', 'connector', 'association', 'joining', 'connexion', 'connectedness']",A Wreath for Garibaldi
+Romans,"['roman_print', 'Epistle_to_the_Romans', 'roman_letters', 'Epistle_of_Paul_the_Apostle_to_the_Romans', 'Romans', 'roman', 'Roman', 'roman_type']",A Wreath for Garibaldi
+know,"['cognize', 'fuck', 'get_laid', 'have_a_go_at_it', 'have_it_away', 'bed', 'have_it_off', 'sleep_together', 'sleep_with', 'have_intercourse', 'recognize', 'cognise', 'live', 'acknowledge', 'make_out', 'make_love', 'love', 'bang', 'jazz', 'recognise', 'bonk', 'be_intimate', 'lie_with', 'screw', 'hump', 'roll_in_the_hay', 'have_sex', 'eff', 'know', 'get_it_on', 'do_it', 'experience']",A Wreath for Garibaldi
+tribute,"['tribute', 'protection', 'testimonial']",A Wreath for Garibaldi
+dirty,"['muddy', 'grime', 'filthy', 'cheating', 'soil', 'unclean', 'unsportsmanlike', 'sordid', 'dingy', 'lousy', 'bemire', 'pestiferous', 'foul', 'muddied', 'marked-up', 'begrime', 'soiled', 'colly', 'dirty', 'contaminating', 'unsporting', 'ill-gotten']",A Wreath for Garibaldi
+in,"['IN', 'atomic_number_49', 'In', 'inwards', 'indium', 'in', 'Indiana', 'Hoosier_State', 'inward', 'inch']",A Wreath for Garibaldi
+poet,['poet'],A Wreath for Garibaldi
+Bellow's,[],A Wreath for Garibaldi
+crashed,"['doss', 'break_apart', 'crash', 'doss_down', 'gate-crash', 'go_down', 'barge_in', 'dash', 'ram', 'break_up']",A Wreath for Garibaldi
+somebody,"['someone', 'individual', 'mortal', 'soul', 'person', 'somebody']",A Wreath for Garibaldi
+hands,"['men', 'mitt', 'custody', 'manus', 'work_force', 'give', 'handwriting', 'script', 'helping_hand', 'workforce', 'paw', 'hired_hand', 'hand', 'reach', 'manpower', 'pass_on', 'pass', 'deal', 'bridge_player', 'hands', 'hired_man', 'turn_over']",A Wreath for Garibaldi
+soon,"['shortly', 'before_long', 'soon', 'presently']",A Wreath for Garibaldi
+awful,"['nasty', 'painful', 'fearful', 'frightfully', 'dire', 'awesome', 'direful', 'awed', 'dreaded', 'dreadful', 'atrocious', 'amazing', 'awfully', 'awing', 'unspeakable', 'awe-inspiring', 'abominable', 'dread', 'fearsome', 'frightful', 'terribly', 'horrific', 'tremendous', 'frightening', 'terrible', 'horrendous', 'awful']",A Wreath for Garibaldi

@@ -1,0 +1,909 @@
+w,vector_semantico
+storage,"['storage', 'store', 'memory_board', 'storehouse', 'computer_memory', 'warehousing', 'repositing', 'memory', 'computer_storage', 'reposition', 'depot', 'entrepot']", The Dallas Morning News
+Grover,[], The Dallas Morning News
+Dr.,"['Dr.', 'doctor', 'physician', 'MD', 'medico', 'doc']", The Dallas Morning News
+also,"['likewise', 'also', 'too', 'besides', 'as_well']", The Dallas Morning News
+retailers,"['retail_merchant', 'retailer']", The Dallas Morning News
+designed,"['design', 'designed', 'contrive', 'intentional', 'project', 'plan']", The Dallas Morning News
+next,"['following', 'succeeding', 'adjacent', 'future', 'next', 'side_by_side']", The Dallas Morning News
+Education,"['education', 'educational_activity', 'training', 'breeding', 'Education', 'instruction', 'teaching', 'Education_Department', 'didactics', 'Department_of_Education', 'pedagogy']", The Dallas Morning News
+appointment,"['naming', 'date', 'fitting', 'appointment', 'engagement', 'designation', 'appointee', 'assignment']", The Dallas Morning News
+Berry,"['Charles_Edward_Berry', 'Chuck_Berry', 'berry', 'Berry']", The Dallas Morning News
+Aikin,[], The Dallas Morning News
+Texan,['Texan'], The Dallas Morning News
+instructor,"['teacher', 'instructor']", The Dallas Morning News
+cases,"['event', 'font', 'eccentric', 'instance', 'shell', 'typeface', 'lawsuit', 'pillowcase', 'cause', 'character', 'type', 'example', 'showcase', 'sheath', 'guinea_pig', 'casing', 'suit', 'grammatical_case', 'pillow_slip', 'subject', 'encase', ""typesetter's_case"", 'incase', 'causa', 'vitrine', ""compositor's_case"", 'case', 'slip', 'face', 'caseful', 'display_case', 'fount']", The Dallas Morning News
+by,"['aside', 'away', 'by', 'past']", The Dallas Morning News
+last,"['death', 'live_on', 'in_conclusion', 'finally', 'finish', 'close', 'last', 'live', 'terminal', 'hold_up', 'final_stage', 'endure', 'finale', 'utmost', 'last-place', 'end', 'lastly', ""cobbler's_last"", 'final', 'lowest', 'stopping_point', 'go', 'hold_out', 'concluding', 'finis', 'net', 'conclusion', 'survive', ""shoemaker's_last""]", The Dallas Morning News
+brokers,"['agent', 'factor', 'broker']", The Dallas Morning News
+them,[], The Dallas Morning News
+Highway,"['highway', 'main_road']", The Dallas Morning News
+abandoned,"['deserted', 'abandon', 'desert', 'abandoned', 'give_up', 'vacate', 'desolate', 'forsake', 'derelict', 'empty']", The Dallas Morning News
+real,"['material', 'real', 'real_number', 'genuine', 'existent', 'literal', 'substantial', 'tangible', 'really', 'rattling', 'veridical', 'actual', 'very']", The Dallas Morning News
+Worth,"['deserving', 'Charles_Frederick_Worth', 'worth', 'Worth']", The Dallas Morning News
+members,"['phallus', 'extremity', 'member', 'fellow_member', 'penis', 'appendage']", The Dallas Morning News
+generally,"['in_general', 'more_often_than_not', 'loosely', 'mostly', 'in_the_main', 'generally', 'by_and_large', 'broadly_speaking', 'broadly']", The Dallas Morning News
+directed,"['address', 'head', 'channelise', 'manoeuvre', 'calculate', 'send', 'steer', 'conduct', 'organise', 'engineer', 'directed', 'take', 'aim', 'orchestrate', 'place', 'direct', 'lead', 'manoeuver', 'guide', 'channelize', 'target', 'mastermind', 'point', 'train', 'take_aim', 'maneuver', 'organize']", The Dallas Morning News
+forced,"['squeeze', 'ram', 'strained', 'force', 'thrust', 'wedge', 'drive', 'coerce', 'push', 'draw', 'hale', 'pressure', 'storm', 'pull', 'forced', 'constrained', 'impel']", The Dallas Morning News
+If,[], The Dallas Morning News
+House,"['planetary_house', 'home', 'house', 'put_up', 'sign_of_the_zodiac', 'business_firm', 'star_sign', 'family', 'sign', 'household', 'menage', 'theater', 'theatre', 'domiciliate', 'firm', 'mansion']", The Dallas Morning News
+conservative,"['bourgeois', 'Conservative', 'buttoned-down', 'button-down', 'conservativist', 'cautious', 'conservative', 'materialistic']", The Dallas Morning News
+senators,['senator'], The Dallas Morning News
+got,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']", The Dallas Morning News
+Navigation,"['sailing', 'piloting', 'seafaring', 'navigation', 'pilotage']", The Dallas Morning News
+High,"['senior_high_school', 'in_high_spirits', 'gamy', 'luxuriously', 'senior_high', 'highschool', 'high-pitched', 'high_up', 'heights', 'gamey', 'mellow', 'high', 'high_school', 'high_gear', 'eminent', 'richly']", The Dallas Morning News
+later,"['by_and_by', 'recent', 'later', 'tardy', 'ulterior', 'belated', 'subsequently', 'after', 'later_on', 'former', 'afterwards', 'posterior', 'afterward', 'late', 'previous']", The Dallas Morning News
+group,"['grouping', 'group', 'aggroup', 'chemical_group', 'mathematical_group', 'radical']", The Dallas Morning News
+Hughes,"['Howard_Hughes', 'Ted_Hughes', 'Hughes', 'Charles_Evans_Hughes', 'James_Langston_Hughes', 'Howard_Robard_Hughes', 'Langston_Hughes', 'Edward_James_Hughes']", The Dallas Morning News
+as,"['every_bit', 'AS', 'a', 'group_A', 'arsenic', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'American_Samoa', 'angstrom', 'atomic_number_33', 'As', 'as', 'equally', 'A', 'adenine', 'axerophthol', 'ampere', 'angstrom_unit', 'vitamin_A', 'Eastern_Samoa']", The Dallas Morning News
+Mission,"['military_mission', 'deputation', 'missionary_post', 'commission', 'delegacy', 'mission', 'delegation', 'charge', 'missionary_station', 'foreign_mission', 'missionary_work']", The Dallas Morning News
+mentally,['mentally'], The Dallas Morning News
+Court,"['judicature', 'court_of_justice', 'tribunal', 'solicit', 'court_of_law', 'motor_inn', 'lawcourt', 'motor_lodge', 'court', 'woo', 'tourist_court', 'Court', 'courtyard', 'royal_court', 'courtroom', 'romance', 'homage', 'Margaret_Court', 'motor_hotel']", The Dallas Morning News
+professor,"['professor', 'prof']", The Dallas Morning News
+populous,"['thickly_settled', 'populous']", The Dallas Morning News
+bills,"['bank_bill', 'visor', 'broadside', 'eyeshade', 'charge', 'card', ""banker's_bill"", 'poster', 'flyer', 'flier', 'neb', 'notice', 'invoice', 'broadsheet', 'nib', 'peak', 'beak', 'government_note', 'greenback', 'billhook', 'posting', 'pecker', 'vizor', 'circular', 'banknote', 'account', 'bank_note', 'placard', 'handbill', 'bill', 'note', 'throwaway', 'Federal_Reserve_note', 'measure']", The Dallas Morning News
+appearing,"['coming_into_court', 'appear', 'look', 'come_along', 'seem', 'appearance', 'appearing', 'come_out']", The Dallas Morning News
+home,"['home_plate', 'habitation', 'menage', 'abode', 'home_base', 'rest_home', 'plate', 'household', 'family', 'internal', 'national', 'place', 'dwelling_house', 'home', 'nursing_home', 'domicile', 'house', 'dwelling', 'base', 'interior']", The Dallas Morning News
+Other,"['early', 'former', 'other']", The Dallas Morning News
+Signal,"['point', 'signalize', 'signalise', 'signal', 'indicate', 'sign', 'betoken', 'signaling', 'bespeak']", The Dallas Morning News
+paying,"['compensate', 'stipendiary', 'pay', 'give', 'devote', 'pay_off', 'salaried', 'yield', 'gainful', 'pay_up', 'make_up', 'bear', 'compensable', 'ante_up', 'remunerative', 'paid', 'paying']", The Dallas Morning News
+Revenue,"['revenue', 'tax_revenue', 'tax_income', 'taxation', 'receipts', 'gross']", The Dallas Morning News
+legislators,['legislator'], The Dallas Morning News
+other,"['early', 'former', 'other']", The Dallas Morning News
+bill,"['bank_bill', 'visor', 'broadside', 'eyeshade', 'charge', 'card', ""banker's_bill"", 'poster', 'flyer', 'flier', 'neb', 'notice', 'invoice', 'broadsheet', 'nib', 'peak', 'beak', 'government_note', 'greenback', 'billhook', 'posting', 'pecker', 'vizor', 'circular', 'banknote', 'account', 'bank_note', 'placard', 'handbill', 'bill', 'note', 'throwaway', 'Federal_Reserve_note', 'measure']", The Dallas Morning News
+voters,"['elector', 'voter']", The Dallas Morning News
+against,[], The Dallas Morning News
+automatically,"['automatically', 'mechanically']", The Dallas Morning News
+ones,"['1', 'single', 'unity', 'one', 'ace', 'I']", The Dallas Morning News
+"17,000",[], The Dallas Morning News
+Committee,"['committee', 'commission', 'citizens_committee']", The Dallas Morning News
+problems,"['problem', 'job', 'trouble']", The Dallas Morning News
+gotten,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']", The Dallas Morning News
+yesterday,['yesterday'], The Dallas Morning News
+measure,"['evaluate', 'quantity', 'touchstone', 'metre', 'amount', 'cadence', 'quantify', 'step', 'measuring_rod', 'mensurate', 'standard', 'assess', 'measuring', 'appraise', 'measurement', 'beat', 'meter', 'valuate', 'bar', 'measure_out', 'bill', 'value', 'mensuration', 'criterion', 'measure', 'measuring_stick']", The Dallas Morning News
+bonds,"['stick', 'bond', 'adhere', 'James_Bond', 'hold_fast', 'bond_paper', 'alliance', 'bail', 'bond_certificate', 'trammel', 'adherence', 'chemical_bond', 'bring_together', 'Bond', 'bail_bond', 'adhesiveness', 'attachment', 'hamper', 'bind', 'adhesion', 'Julian_Bond', 'stick_to', 'draw_together', 'tie', 'shackle', 'attach']", The Dallas Morning News
+Okla.,[], The Dallas Morning News
+deficit,"['shortage', 'shortfall', 'deficit']", The Dallas Morning News
+and,[], The Dallas Morning News
+plus,"['plus', 'addition', 'asset', 'positive', 'summation']", The Dallas Morning News
+choice,"['prime', 'prize', 'choice', 'option', 'quality', 'alternative', 'selection', 'pick', 'select']", The Dallas Morning News
+depend,"['depend', 'look', 'reckon', 'count', 'calculate', 'bet']", The Dallas Morning News
+justice,"['justness', 'judge', 'Department_of_Justice', 'DoJ', 'jurist', 'justice', 'Justice', 'Justice_Department']", The Dallas Morning News
+extremely,"['exceedingly', 'super', 'extremely', 'passing', 'highly']", The Dallas Morning News
+property,"['prop', 'holding', 'belongings', 'place', 'property', 'dimension', 'attribute']", The Dallas Morning News
+Roberts,"['Bartholomew_Roberts', 'Robert', 'Henry_Martyn_Robert', 'Henry_M._Robert', 'Richard_J._Roberts', 'Richard_John_Roberts', 'Kenneth_Roberts', 'Roberts', 'Oral_Roberts']", The Dallas Morning News
+legislation,"['statute_law', 'lawmaking', 'legislating', 'legislation']", The Dallas Morning News
+validated,"['validate', 'formalise', 'formalize', 'validated', 'corroborate']", The Dallas Morning News
+causes,"['stimulate', 'lawsuit', 'cause', 'grounds', 'suit', 'get', 'causal_agent', 'movement', 'induce', 'have', 'effort', 'do', 'causa', 'crusade', 'causal_agency', 'reason', 'drive', 'case', 'campaign', 'make']", The Dallas Morning News
+sending,"['get_off', 'broadcast', 'charge', 'send', 'transmit', 'sending', 'commit', 'send_out', 'institutionalize', 'send_off', 'mail', 'direct', 'station', 'place', 'beam', 'air', 'institutionalise', 'post', 'transport', 'ship']", The Dallas Morning News
+rural,['rural'], The Dallas Morning News
+Springs,"['recoil', 'take_form', 'leap', 'resile', 'leaping', 'rebound', 'natural_spring', 'bounce', 'saltation', 'take_shape', 'outpouring', 'springiness', 'outflow', 'give', 'jump', 'fountain', 'ricochet', 'spring', 'take_a_hop', 'form', 'springtime', 'reverberate', 'bound']", The Dallas Morning News
+Bill,"['bank_bill', 'visor', 'broadside', 'eyeshade', 'charge', 'card', ""banker's_bill"", 'poster', 'flyer', 'flier', 'neb', 'notice', 'invoice', 'broadsheet', 'nib', 'peak', 'beak', 'government_note', 'greenback', 'billhook', 'posting', 'pecker', 'vizor', 'circular', 'banknote', 'account', 'bank_note', 'placard', 'handbill', 'bill', 'note', 'throwaway', 'Federal_Reserve_note', 'measure']", The Dallas Morning News
+debate,"['deliberate', 'consider', 'public_debate', 'argumentation', 'moot', 'debate', 'disputation', 'argue', 'contend', 'fence', 'argument', 'turn_over']", The Dallas Morning News
+150,"['150', 'one_hundred_fifty', 'cl']", The Dallas Morning News
+argued,"['debate', 'indicate', 'contend', 'argue', 'reason', 'fence']", The Dallas Morning News
+4,"['quatern', 'four', 'quaternion', 'tetrad', '4', 'quadruplet', 'Little_Joe', 'iv', 'quaternity', 'IV', 'quartet', 'foursome', 'quaternary']", The Dallas Morning News
+senior,"['elder', 'elderly', 'aged', 'fourth-year', 'senior', 'older']", The Dallas Morning News
+bill's,[], The Dallas Morning News
+served,"['serve_well', 'assist', 'do', 'dish', 'attend', 'service', 'function', 'dish_out', 'swear_out', 'dish_up', 'wait_on', 'process', 'suffice', 'answer', 'serve_up', 'attend_to', 'serve', 'help']", The Dallas Morning News
+drafted,"['muster_in', 'enlist', 'draught', 'outline', 'draft', 'blueprint']", The Dallas Morning News
+authorize,"['empower', 'authorise', 'authorize', 'pass', 'clear']", The Dallas Morning News
+rejected,"['turn_away', 'refuse', 'pass_up', 'disapprove', 'scorn', 'rule_out', 'spurned', 'disdain', 'freeze_off', 'winnow_out', 'turn_down', 'rejected', 'jilted', 'eliminate', 'reject', 'spurn', 'decline', 'resist', 'pooh-pooh']", The Dallas Morning News
+Hays,"['Hays', 'Arthur_Garfield_Hays', 'Will_Hays', 'hay', 'William_Harrison_Hays']", The Dallas Morning News
+The,[], The Dallas Morning News
+Dallas,['Dallas'], The Dallas Morning News
+subsistence,['subsistence'], The Dallas Morning News
+term,"['condition', 'terminus', 'term', 'full_term', 'terminal_figure']", The Dallas Morning News
+unanimously,"['nem_con', 'nemine_contradicente', 'unanimously']", The Dallas Morning News
+up,"['improving', 'upwardly', 'astir', 'upwards', 'upward', 'up']", The Dallas Morning News
+addition,"['accession', 'plus', 'improver', 'increase', 'add-on', 'addition', 'summation', 'gain']", The Dallas Morning News
+Reps.,[], The Dallas Morning News
+educational,['educational'], The Dallas Morning News
+absorbed,"['take_in', 'suck', 'enwrapped', 'imbibe', 'engage', 'intent', 'soak_up', 'occupy', 'take_up', 'engulf', 'steep', 'assimilate', 'draw', 'engrossed', 'absorb', 'immerse', 'plunge', 'suck_up', 'engross', 'absorbed', 'sop_up', 'wrapped', 'ingest', 'take_over', 'captive']", The Dallas Morning News
+prefer,"['prefer', 'opt', 'favor', 'choose', 'favour']", The Dallas Morning News
+better,"['advantageously', 'amend', 'ripe', 'break', 'secure', 'well', 'wagerer', 'dependable', 'effective', 'honest', 'beneficial', 'punter', 'ameliorate', 'improve', 'in_effect', 'undecomposed', 'right', 'adept', 'serious', 'just', 'considerably', 'full', 'skilful', 'estimable', 'honorable', 'in_force', 'unspoiled', 'near', 'skillful', 'easily', 'meliorate', 'proficient', 'best', 'salutary', 'safe', 'substantially', 'expert', 'better', 'upright', 'dear', 'respectable', 'sound', 'bettor', 'practiced', 'intimately', 'comfortably', 'good', 'unspoilt']", The Dallas Morning News
+amendment,['amendment'], The Dallas Morning News
+mostly,"['largely', 'more_often_than_not', 'mostly', 'generally', 'by_and_large', 'for_the_most_part']", The Dallas Morning News
+Texas,"['Lone-Star_State', 'TX', 'Texas']", The Dallas Morning News
+attend,"['advert', 'see', 'assist', 'pay_heed', 'take_care', 'look', 'attend', 'give_ear', 'wait_on', 'serve', 'attend_to', 'go_to', 'hang']", The Dallas Morning News
+local,"['topical_anesthetic', 'local_anaesthetic', 'topical_anaesthetic', 'local', 'local_anesthetic']", The Dallas Morning News
+proposal,"['marriage_offer', 'proposition', 'proposal', 'proposal_of_marriage', 'marriage_proposal']", The Dallas Morning News
+obtain,"['prevail', 'hold', 'find', 'obtain', 'receive', 'incur', 'get']", The Dallas Morning News
+10,"['x', '10', 'ten', 'X', 'decade', 'tenner']", The Dallas Morning News
+lawyer,"['attorney', 'lawyer']", The Dallas Morning News
+unity,"['oneness', '1', 'single', 'unity', 'wholeness', 'one', 'ace', 'integrity', 'I']", The Dallas Morning News
+state,"['say', 'State_Department', 'State', 'express', 'body_politic', 'submit', 'nation', 'commonwealth', 'United_States_Department_of_State', 'put_forward', 'res_publica', 'province', 'DoS', 'land', 'Department_of_State', 'tell', 'country', 'state_of_matter', 'state', 'posit']", The Dallas Morning News
+Congress,"['relation', 'US_Congress', 'sexual_intercourse', 'United_States_Congress', 'coition', 'carnal_knowledge', 'sexual_congress', 'U.S._Congress', 'Congress', 'intercourse', 'congress', 'coitus', 'sex_act', 'copulation', 'sexual_relation']", The Dallas Morning News
+When,[], The Dallas Morning News
+sp.,[], The Dallas Morning News
+Principals,"['star', 'head_teacher', 'principal_sum', 'school_principal', 'head', 'corpus', 'dealer', 'lead', 'principal']", The Dallas Morning News
+rejection,['rejection'], The Dallas Morning News
+sites,"['sit_around', 'model', 'land_site', 'sit', 'web_site', 'website', 'site', 'locate', 'posture', 'sit_down', 'seat', 'place', 'baby-sit', 'situation', 'ride', 'internet_site', 'pose']", The Dallas Morning News
+previous,"['old', 'former', 'premature', 'late', 'previous']", The Dallas Morning News
+meantime,"['interim', 'lag', 'meanwhile', 'in_the_meantime', 'meantime']", The Dallas Morning News
+accept,"['take_on', 'accept', 'take', 'consent', 'go_for', 'swallow', 'take_over', 'assume', 'admit', 'bear', 'live_with', 'have']", The Dallas Morning News
+B.,[], The Dallas Morning News
+School,"['train', 'schooltime', 'schooling', 'civilize', 'school_day', 'shoal', 'school', 'cultivate', 'educate', 'civilise', 'schoolhouse']", The Dallas Morning News
+contention,"['contention', 'disceptation', 'disputation', 'contestation', 'rivalry', 'tilt', 'arguing', 'competition', 'argument', 'controversy']", The Dallas Morning News
+Brady,"['Mathew_B._Brady', 'Diamond_Jim_Brady', 'Brady', 'James_Buchanan_Brady', 'Diamond_Jim']", The Dallas Morning News
+complained,"['plain', 'kvetch', 'kick', 'sound_off', 'complain', 'quetch']", The Dallas Morning News
+third,"['third_gear', 'third_base', 'tierce', 'third', 'tertiary', 'thirdly', 'one-third', '3rd']", The Dallas Morning News
+seemed,"['appear', 'look', 'seem']", The Dallas Morning News
+dependency,"['habituation', 'dependency', 'colony', 'dependance', 'dependence', 'addiction']", The Dallas Morning News
+ponies,"['pony', 'shot_glass', 'trot', 'crib', 'jigger']", The Dallas Morning News
+any,"['whatever', 'whatsoever', 'any']", The Dallas Morning News
+penalty,"['punishment', 'penalty', 'penalization', 'penalisation']", The Dallas Morning News
+career,"['career', 'life_history', 'vocation', 'calling']", The Dallas Morning News
+advocacy,"['protagonism', 'advocacy']", The Dallas Morning News
+most,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'to_the_highest_degree', 'nigh']", The Dallas Morning News
+Bankers,['banker'], The Dallas Morning News
+regents,"['regent', 'trustee']", The Dallas Morning News
+Doctor,"['Dr.', 'doctor', 'physician', 'fix', 'MD', 'doctor_up', 'sophisticate', 'repair', 'furbish_up', 'touch_on', 'medico', 'Doctor', 'restore', 'mend', 'bushel', 'doc', 'Doctor_of_the_Church']", The Dallas Morning News
+selected,"['take', 'pick_out', 'select', 'choose', 'selected']", The Dallas Morning News
+boy's,[], The Dallas Morning News
+series,"['serial_publication', 'series', 'serial']", The Dallas Morning News
+several,"['various', 'several', 'respective']", The Dallas Morning News
+customers,"['customer', 'client']", The Dallas Morning News
+Austin,"['capital_of_Texas', 'Austin']", The Dallas Morning News
+work,"['body_of_work', 'knead', 'sour', 'play', 'piece_of_work', 'shape', 'bring', 'oeuvre', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'lick', 'act_upon', 'puzzle_out', 'exploit', 'make_for', 'work_out', 'act', 'go', 'figure_out', 'workplace', 'operate', 'influence', 'process', 'turn', 'solve', 'run', 'function', 'form', 'crop', 'study', 'make', 'cultivate', 'forge', 'mold', 'employment']", The Dallas Morning News
+U.S.,"['America', 'U.S.', 'United_States', 'the_States', 'United_States_of_America', 'United_States_government', 'U.S._government', 'US', 'US_Government', 'U.S.A.', 'USA']", The Dallas Morning News
+amended,"['amend', 'amended', 'ameliorate', 'better', 'improve', 'remediate', 'repair', 'meliorate', 'rectify', 'remedy']", The Dallas Morning News
+All,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']", The Dallas Morning News
+breakups,"['dissolution', 'breakup', 'detachment', 'separation']", The Dallas Morning News
+taking,"['accept', 'remove', 'take_in', 'contract', 'take_away', 'rent', 'read', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'pickings', 'film', 'call_for', 'bring', 'strike', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'winning', 'pick_out', 'carry', 'use_up', 'conduct', 'taking', 'consume', 'learn', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'contain', 'fetching', 'study', 'drive', 'ingest', 'make', 'take_aim', 'choose', 'select', 'convey', 'charter']", The Dallas Morning News
+3,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'iii', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'tierce', 'trio', 'terzetto', 'trine', 'trey']", The Dallas Morning News
+Jr.,"['jr.', 'younger']", The Dallas Morning News
+range,"['orbit', 'ambit', 'mountain_chain', 'grasp', 'order', 'stove', 'ramble', 'rove', 'chain_of_mountains', 'mountain_range', 'kitchen_stove', 'drift', 'array', 'wander', 'rate', 'tramp', 'graze', 'chain', 'compass', 'image', 'rank', 'range', 'range_of_a_function', 'cooking_stove', 'roam', 'vagabond', 'scope', 'swan', 'kitchen_range', 'place', 'straddle', 'run', 'range_of_mountains', 'set_out', 'browse', 'pasture', 'grade', 'lay_out', 'cast', 'crop', 'reach', 'roll', 'stray']", The Dallas Morning News
+treasurer,"['treasurer', 'financial_officer']", The Dallas Morning News
+Dewey,"['Dewey', 'Admiral_Dewey', 'Melville_Louis_Kossuth_Dewey', 'Melvil_Dewey', 'George_Dewey', 'John_Dewey']", The Dallas Morning News
+Joe,[], The Dallas Morning News
+final,"['net', 'final', 'final_examination', 'final_exam', 'concluding', 'last', 'terminal']", The Dallas Morning News
+saving,"['deliver', 'rescue', 'bring_through', 'write', 'preservation', 'pull_through', 'redeem', 'keep', 'deliverance', 'redemptive', 'economise', 'hold_open', 'salvage', 'redeeming', 'economy', 'delivery', 'save', 'saving', 'spare', 'economize', 'lay_aside', 'salve', 'relieve', 'save_up', 'carry_through', 'make_unnecessary', 'keep_open', 'preserve']", The Dallas Morning News
+first,"['offset', 'first_off', '1st', 'low', 'firstly', 'commencement', 'get-go', 'for_the_first_time', 'first_of_all', 'number_one', 'maiden', 'world-class', 'first-class_honours_degree', 'initiative', 'showtime', 'first_gear', 'kickoff', 'starting_time', 'number_1', 'first', 'beginning', 'initiatory', 'outset', 'start', 'foremost', 'first_base', 'inaugural', 'low_gear']", The Dallas Morning News
+solve,"['work', 'work_out', 'figure_out', 'resolve', 'lick', 'solve', 'puzzle_out', 'clear']", The Dallas Morning News
+donations,"['contribution', 'donation']", The Dallas Morning News
+violate,"['outrage', 'ravish', 'spoil', 'offend', 'plunder', 'transgress', 'desecrate', 'break', 'infract', 'despoil', 'dishonour', 'profane', 'assault', 'breach', 'go_against', 'violate', 'dishonor', 'rape']", The Dallas Morning News
+Sulphur,"['S', 'atomic_number_16', 'sulfur', 'sulphur']", The Dallas Morning News
+kind,"['kind', 'form', 'tolerant', 'genial', 'sort', 'variety']", The Dallas Morning News
+65,"['65', 'lxv', 'sixty-five']", The Dallas Morning News
+monthly,['monthly'], The Dallas Morning News
+lieutenant,"['lieutenant', 'police_lieutenant', 'deputy']", The Dallas Morning News
+earned,"['earn', 'take_in', 'realize', 'earned', 'bring_in', 'make', 'garner', 'realise', 'pull_in', 'clear', 'gain']", The Dallas Morning News
+house,"['planetary_house', 'home', 'house', 'put_up', 'sign_of_the_zodiac', 'business_firm', 'star_sign', 'family', 'sign', 'household', 'menage', 'theater', 'theatre', 'domiciliate', 'firm', 'mansion']", The Dallas Morning News
+make,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'shuffle', 'take', 'progress_to', 'brand', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'shuffling', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']", The Dallas Morning News
+are,"['comprise', 'follow', 'embody', 'constitute', 'be', 'ar', 'equal', 'personify', 'cost', 'are', 'make_up', 'live', 'represent', 'exist']", The Dallas Morning News
+estimate,"['appraisal', 'approximation', 'judge', 'forecast', 'estimation', 'gauge', 'idea', 'approximate', 'reckon', 'guess', 'figure', 'count_on', 'calculate', 'estimate']", The Dallas Morning News
+enabling,"['enabling', 'enable']", The Dallas Morning News
+Saba,['Saba'], The Dallas Morning News
+citizens,['citizen'], The Dallas Morning News
+Clark,"['Kenneth_Bancroft_Clark', 'Clark', 'William_Clark', 'Charles_Joseph_Clark', 'Mark_Wayne_Clark', 'Joe_Clark', 'Kenneth_Clark', 'Mark_Clark']", The Dallas Morning News
+Fort,"['fortify', 'fortress', 'fort_up', 'fort', 'garrison']", The Dallas Morning News
+under,"['under', 'below', 'nether']", The Dallas Morning News
+anticipated,"['predict', 'call', 'promise', 'foreknow', 'forestall', 'look_for', 'counter', 'hoped-for', 'anticipated', 'foretell', 'awaited', 'prognosticate', 'forebode', 'expect', 'previse', 'look_to', 'foresee', 'anticipate']", The Dallas Morning News
+getting,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'getting', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'acquiring', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']", The Dallas Morning News
+small-town,[], The Dallas Morning News
+chemistry,"['interpersonal_chemistry', 'chemical_science', 'chemistry', 'alchemy']", The Dallas Morning News
+Kan.,[], The Dallas Morning News
+close,"['closing_curtain', 'finish', 'shut_down', 'close', 'last', 'close_down', 'skinny', 'cheeseparing', 'tightlipped', 'ending', 'closelipped', 'closing', 'fold', 'nigh', 'finale', 'penny-pinching', 'end', 'snug', 'airless', 'stopping_point', 'near', 'finis', 'tight', 'stuffy', 'closely', 'come_together', 'conclusion', 'confining', 'close-fitting', 'closemouthed', 'unaired', 'secretive', 'close_up', 'faithful', 'conclude', 'shut', 'fill_up']", The Dallas Morning News
+Coast,"['glide', 'sea-coast', 'seashore', 'slide', 'coast', 'seacoast']", The Dallas Morning News
+because,[], The Dallas Morning News
+racial,['racial'], The Dallas Morning News
+Antonio,[], The Dallas Morning News
+requirement,"['requisite', 'requirement', 'prerequisite', 'essential', 'necessary', 'necessity', 'demand']", The Dallas Morning News
+projects,"['protrude', 'project', 'fancy', 'visualise', 'externalize', 'projection', 'labor', 'undertaking', 'stick_out', 'contrive', 'task', 'visualize', 'envision', 'image', 'externalise', 'plan', 'jut_out', 'see', 'throw', 'figure', 'picture', 'send_off', 'propose', 'jut', 'design', 'cast']", The Dallas Morning News
+We,[], The Dallas Morning News
+bankers,['banker'], The Dallas Morning News
+out,"['stunned', 'knocked_out', 'forbidden', 'taboo', 'extinct', 'come_out_of_the_closet', 'prohibited', ""KO'd"", 'proscribed', 'kayoed', 'tabu', 'verboten', 'out', 'away', 'come_out']", The Dallas Morning News
+received,"['experience', 'take_in', 'welcome', 'standard', 'meet', 'received', 'find', 'obtain', 'receive', 'pick_up', 'encounter', 'invite', 'incur', 'have', 'get']", The Dallas Morning News
+fire,"['enkindle', 'give_the_sack', 'elicit', 'burn', 'fervour', 'send_away', 'fervency', 'dismiss', 'fervor', 'give_the_axe', 'go_off', 'burn_down', 'attack', 'fire', 'flak', 'blast', 'sack', 'discharge', 'give_notice', 'open_fire', 'displace', 'terminate', 'fuel', 'ardour', 'can', 'ardor', 'evoke', 'flaming', 'arouse', 'kindle', 'flame', 'raise', 'firing', 'fervidness', 'flack', 'force_out', 'provoke']", The Dallas Morning News
+attack,"['onset', 'onrush', 'attempt', 'assault', 'onslaught', 'fire', 'attack', 'flak', 'blast', 'round', 'aggress', 'assail', 'snipe', 'approach', 'plan_of_attack', 'tone-beginning', 'lash_out', 'set_on', 'flack']", The Dallas Morning News
+Agency,"['government_agency', 'bureau', 'agency', 'means', 'way', 'office', 'delegacy', 'authority', 'federal_agency', 'representation']", The Dallas Morning News
+Massachusetts,"['Massachusetts_Bay_Colony', 'Old_Colony', 'Bay_State', 'Massachuset', 'Massachusetts', 'MA']", The Dallas Morning News
+M.,[], The Dallas Morning News
+contractual,['contractual'], The Dallas Morning News
+may,"['Crataegus_oxycantha', 'May', 'English_hawthorn', 'may', 'whitethorn', 'Crataegus_laevigata']", The Dallas Morning News
+annual,"['annual', 'yearly', 'one-year', 'yearbook']", The Dallas Morning News
+normal,"['rule', 'pattern', 'normal', 'convention', 'formula']", The Dallas Morning News
+taunted,"['rally', 'tease', 'tantalize', 'rag', 'tantalise', 'twit', 'bait', 'razz', 'cod', 'taunt', 'ride']", The Dallas Morning News
+He,"['atomic_number_2', 'he', 'He', 'helium']", The Dallas Morning News
+illegitimacy,"['bastardy', 'bar_sinister', 'illegitimacy']", The Dallas Morning News
+quickly,"['quick', 'promptly', 'apace', 'cursorily', 'rapidly', 'quickly', 'speedily', 'chop-chop']", The Dallas Morning News
+A,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']", The Dallas Morning News
+authority,"['self-assurance', 'government_agency', 'agency', 'federal_agency', 'potency', 'dominance', 'bureau', 'authorisation', 'assurance', 'confidence', 'self-confidence', 'office', 'sanction', 'sureness', 'authority', 'say-so', 'authorization']", The Dallas Morning News
+costly,"['high-priced', 'dear', 'pricey', 'pricy', 'costly', 'dearly-won']", The Dallas Morning News
+learning,"['eruditeness', 'get_a_line', 'watch', 'read', 'discover', 'ascertain', 'con', 'scholarship', 'acquisition', 'learn', 'pick_up', 'encyclopaedism', 'learnedness', 'teach', 'encyclopedism', 'take', 'see', 'determine', 'get_word', 'memorize', 'acquire', 'find_out', 'erudition', 'learning', 'hear', 'check', 'larn', 'study', 'instruct', 'get_wind', 'memorise']", The Dallas Morning News
+districts,"['zone', 'territory', 'district', 'territorial_dominion', 'dominion']", The Dallas Morning News
+subcommittee,['subcommittee'], The Dallas Morning News
+the,[], The Dallas Morning News
+tell,"['distinguish', 'recount', 'say', 'William_Tell', 'order', 'secern', 'secernate', 'enjoin', 'severalise', 'separate', 'assure', 'differentiate', 'recite', 'tell_apart', 'severalize', 'evidence', 'tell', 'state', 'Tell', 'narrate']", The Dallas Morning News
+correctness,"['correctness', 'rightness']", The Dallas Morning News
+Army,"['army', 'US_Army', 'U._S._Army', 'Army', 'USA', 'United_States_Army', 'regular_army', 'ground_forces']", The Dallas Morning News
+revision,"['revisal', 'rescript', 'revision', 'alteration', 'revise', 'rewrite']", The Dallas Morning News
+banks,"['Banks', 'money_box', 'Sir_Joseph_Banks', 'savings_bank', 'depository_financial_institution', 'camber', 'bank', 'trust', 'banking_concern', 'banking_company', 'coin_bank', 'rely', 'swear', 'bank_building', 'cant', 'deposit']", The Dallas Morning News
+study,"['field', 'read', 'analyse', 'canvas', 'analyze', 'contemplate', 'survey', 'cogitation', 'work', 'written_report', 'learn', 'report', 'hit_the_books', 'take', 'consider', 'meditate', 'subject', 'examine', 'field_of_study', 'canvass', 'sketch', 'subject_field', 'bailiwick', 'discipline', 'study', 'subject_area']", The Dallas Morning News
+faces,"['boldness', 'front', 'font', 'grimace', 'confront', 'facial_expression', 'typeface', 'present', 'expression', 'brass', 'side', 'face_up', 'aspect', 'human_face', 'look', 'cheek', 'case', 'face', 'nerve', 'fount']", The Dallas Morning News
+like,"['corresponding', 'similar', 'wish', 'alike', 'comparable', 'the_likes_of', 'the_like', 'care', 'same', 'ilk', 'like']", The Dallas Morning News
+betting,"['play', 'depend', 'wager', 'look', 'count', 'reckon', 'sporting', 'dissipated', 'card-playing', 'calculate', 'bet', 'betting']", The Dallas Morning News
+San,[], The Dallas Morning News
+been,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']", The Dallas Morning News
+will,"['will', 'volition', 'leave', 'testament', 'bequeath']", The Dallas Morning News
+which,[], The Dallas Morning News
+largest,"['large', 'orotund', 'expectant', 'turgid', 'heavy', 'great', 'big', 'bombastic', 'tumid', 'magnanimous', 'enceinte', 'prominent', 'declamatory', 'with_child', 'gravid']", The Dallas Morning News
+limited,"['confine', 'circumscribe', 'special', 'fix', 'modified', 'determine', 'trammel', 'restrict', 'limited', 'restrain', 'throttle', 'circumscribed', 'limit', 'express', 'specify', 'define', 'set', 'bound']", The Dallas Morning News
+five,"['cinque', 'V', 'quintet', 'five-spot', 'Phoebe', 'quint', 'quintuplet', 'five', 'fivesome', 'Little_Phoebe', 'pentad', 'basketball_team', 'fin', '5', 'v']", The Dallas Morning News
+decrease,"['drop-off', 'step-down', 'minify', 'decrement', 'reduction', 'lessening', 'diminish', 'fall', 'decrease', 'lessen', 'diminution']", The Dallas Morning News
+present,"['deliver', 'demonstrate', 'confront', 'present', 'portray', 'nowadays', 'represent', 'submit', 'acquaint', 'present_tense', 'stage', 'give', 'demo', 'show', 'pose', 'award', 'lay_out', 'gift', 'face', 'introduce', 'exhibit', 'salute']", The Dallas Morning News
+pockets,"['bag', 'pocket', 'sack', 'sac', 'air_pocket', 'pouch', 'air_hole', 'scoop']", The Dallas Morning News
+fee,"['fee', 'bung', 'tip']", The Dallas Morning News
+This,[], The Dallas Morning News
+made,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'made', 'construct', 'work', 'pass_water', 'take_a_crap', 'fix', 'constitute', 'pee', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'make', 'reach', 'attain', 'ready', 'realise', 'produce', 'arrive_at', 'prepare', 'build', 'lay_down']", The Dallas Morning News
+League,"['conference', 'league']", The Dallas Morning News
+Rep.,[], The Dallas Morning News
+Sam,"['SAM', 'surface-to-air_missile']", The Dallas Morning News
+We're,[], The Dallas Morning News
+so-called,"['alleged', 'supposed', 'so-called']", The Dallas Morning News
+Price,"['monetary_value', 'Price', 'Leontyne_Price', 'price', 'terms', 'cost', 'toll', 'damage', 'Mary_Leontyne_Price']", The Dallas Morning News
+circulation,['circulation'], The Dallas Morning News
+after,"['later', 'later_on', 'subsequently', 'after', 'afterwards', 'afterward']", The Dallas Morning News
+its,"['IT', 'information_technology']", The Dallas Morning News
+needs,"['pauperism', 'motive', 'call_for', 'penury', 'necessitate', 'want', 'needs', 'need', 'motivation', 'require', 'ask', 'take', 'postulate', 'involve', 'necessarily', 'demand', 'of_necessity', 'pauperization', 'inevitably', 'indigence']", The Dallas Morning News
+right,"['compensate', 'rightfulness', 'right_on', 'right_hand', 'ripe', 'in_good_order', 'powerful', 'redress', 'decently', 'right_field', 'right-hand', 'mightily', 'the_right_way', 'mighty', 'right', 'justly', 'veracious', 'properly', 'aright', 'decent', 'right_wing', 'correctly', 'proper', 'rectify', 'rightfield', 'flop', 'correct', 'good']", The Dallas Morning News
+math,"['math', 'mathematics', 'maths']", The Dallas Morning News
+preserving,"['save', 'continue', 'bear_on', 'conserve', 'carry_on', 'uphold', 'keep_up', 'keep', 'maintain', 'preserve']", The Dallas Morning News
+folks,"['ethnic_music', 'kinsfolk', 'phratry', 'family', 'folks', 'folk_music', 'common_people', 'family_line', 'kinfolk', 'folk', 'tribe', 'sept']", The Dallas Morning News
+scholastics,"['bookworm', 'pedant', 'scholastic', 'Scholastic']", The Dallas Morning News
+chief,"['headman', 'foreman', 'chieftain', 'boss', 'gaffer', 'main', 'head', 'master', 'honcho', 'chief', 'top_dog', 'primary', 'tribal_chief', 'principal']", The Dallas Morning News
+fare,"['get_along', 'come', 'make_out', 'fare', 'menu', 'do', 'transportation']", The Dallas Morning News
+credit,"['credit_entry', 'cite', 'deferred_payment', 'acknowledgment', 'credit_rating', 'recognition', 'accredit', 'course_credit', 'reference', 'citation', 'credit', 'mention', 'quotation']", The Dallas Morning News
+still,"['nonetheless', 'notwithstanding', 'tranquil', 'calm', 'withal', 'placid', 'hush_up', 'distillery', 'unruffled', 'even', 'yet', 'hush', 'static', 'smooth', 'ease', 'soundless', 'however', 'quieten', 'tranquilize', 'allay', 'motionless', 'still', 'all_the_same', 'stock-still', 'calm_down', 'shut_up', 'tranquillise', 'relieve', 'silent', 'tranquillize', 'even_so', 'nevertheless', 'stillness', 'silence', 'lull', 'inactive', 'noneffervescent', 'quiet']", The Dallas Morning News
+possible,"['possible', 'potential']", The Dallas Morning News
+report,"['write_up', 'describe', 'cover', 'written_report', 'paper', 'composition', 'study', 'account', 'theme', 'story', 'report_card', 'report', 'news_report', 'reputation']", The Dallas Morning News
+Rhode,[], The Dallas Morning News
+get,"['experience', 'contract', 'scram', 'stick', 'develop', 'find', 'fuck_off', 'baffle', 'receive', 'stimulate', 'bring', 'amaze', 'set_about', 'commence', 'let', 'catch', 'cause', 'engender', 'mystify', 'fix', 'bugger_off', 'pay_back', 'grow', 'come', 'arrive', 'draw', 'start_out', 'arrest', 'bring_forth', 'generate', 'bewilder', 'get', 'take', 'become', 'aim', 'beat', 'get_down', 'go', 'father', 'buzz_off', 'induce', 'perplex', 'vex', 'nonplus', 'gravel', 'suffer', 'acquire', 'sire', 'stupefy', 'incur', 'have', 'start', 'begin', 'pose', ""get_under_one's_skin"", 'flummox', 'set_out', 'puzzle', 'pay_off', 'fetch', 'drive', 'obtain', 'make', 'sustain', 'mother', 'produce', 'convey', 'dumbfound', 'beget', 'capture']", The Dallas Morning News
+more,"['more', 'More', 'more_than', 'Sir_Thomas_More', 'to_a_greater_extent', 'Thomas_More']", The Dallas Morning News
+at,"['at', 'astatine', 'atomic_number_85', 'At']", The Dallas Morning News
+went,"['exit', 'expire', 'give_out', 'live_on', 'kick_the_bucket', 'blend_in', 'break', 'decease', 'perish', 'last', 'plump', 'live', 'go_away', 'fail', 'buy_the_farm', 'work', 'go_bad', 'conk', 'proceed', 'hold_up', 'fit', 'run_low', 'snuff_it', 'endure', 'locomote', 'break_down', 'get', 'become', 'depart', 'give-up_the_ghost', 'go', 'pass_away', ""cash_in_one's_chips"", 'give_way', 'run_short', 'operate', 'croak', 'conk_out', 'hold_out', 'extend', 'get_going', 'pass', 'die', 'lead', 'belong', 'start', 'run', 'function', 'choke', 'drop_dead', 'travel', 'blend', 'sound', 'pop_off', 'move', 'rifle', 'survive']", The Dallas Morning News
+undermine,"['undermine', 'cave', 'sabotage', 'subvert', 'countermine', 'weaken', 'counteract']", The Dallas Morning News
+Calls,"['address', 'holler', 'phone_call', 'song', 'call_option', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'outcry', 'birdsong', 'Call', 'shout_out', 'foretell', 'claim', 'telephone_call', 'visit', 'telephone', 'cry', 'call_off', 'predict', 'birdcall', 'margin_call', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'vociferation', 'prognosticate', 'anticipate']", The Dallas Morning News
+planning,"['design', 'preparation', 'planning', 'contrive', 'provision', 'be_after', 'project', 'plan']", The Dallas Morning News
+governor,"['regulator', 'governor']", The Dallas Morning News
+republic,"['democracy', 'commonwealth', 'republic']", The Dallas Morning News
+enforced,"['implemented', 'apply', 'implement', 'enforced', 'enforce', 'impose']", The Dallas Morning News
+given,"['return', 'break', 'establish', 'minded', 'present', 'contribute', 'open', 'cave_in', 'devote', 'pass_on', 'commit', 'chip_in', 'founder', 'disposed', 'generate', 'precondition', 'collapse', 'afford', 'render', 'apply', 'grant', 'give', 'feed', 'kick_in', 'apt', 'hold', 'throw', 'give_way', 'sacrifice', 'dedicate', 'given', 'pass', 'impart', 'fall_in', 'have', 'presumption', 'turn_over', 'consecrate', 'ease_up', 'pay', 'leave', 'move_over', 'yield', 'gift', 'make', 'hand', 'reach', 'granted', 'tending']", The Dallas Morning News
+sent,"['get_off', 'broadcast', 'charge', 'send', 'transmit', 'commit', 'send_out', 'institutionalize', 'send_off', 'mail', 'sent', 'direct', 'station', 'place', 'beam', 'air', 'institutionalise', 'post', 'transport', 'ship']", The Dallas Morning News
+acquire,"['take_on', 'take', 'win', 'grow', 'develop', 'larn', 'adopt', 'learn', 'assume', 'acquire', 'produce', 'evolve', 'gain', 'get']", The Dallas Morning News
+captain,"['police_chief', 'headwaiter', 'chieftain', 'police_captain', 'skipper', 'senior_pilot', 'sea_captain', 'master', ""maitre_d'"", ""maitre_d'hotel"", 'captain']", The Dallas Morning News
+relieve,"['unbosom', 'save', 'ease', 'free', 'salvage', 'excuse', 'alleviate', 'assuage', 'exempt', 'salve', 'allay', 'take_over', 'relieve', 'lighten', 'still', 'palliate', 'remedy', 'let_off']", The Dallas Morning News
+places,"['billet', 'come_in', 'piazza', 'topographic_point', 'order', 'property', 'shoes', 'situation', 'stead', 'send', 'position', 'localize', 'rate', 'invest', 'office', 'identify', 'commit', 'rank', 'range', 'seat', 'come_out', 'blank_space', 'put', 'aim', 'locate', 'berth', 'plaza', 'place', 'station', 'space', 'direct', 'home', 'pose', 'target', 'point', 'post', 'grade', 'localise', 'lay', 'site', 'spot', 'lieu', 'set']", The Dallas Morning News
+parents,"['raise', 'rear', 'bring_up', 'parent', 'nurture']", The Dallas Morning News
+team,"['squad', 'team_up', 'team']", The Dallas Morning News
+about,"['about', 'approximately', 'roughly', 'around', 'or_so', 'nearly', 'astir', 'near', 'almost', 'well-nigh', 'most', 'just_about', 'virtually', 'some', 'more_or_less', 'close_to', 'nigh']", The Dallas Morning News
+teaches,"['Edward_Teach', 'Blackbeard', 'learn', 'instruct', 'Edward_Thatch', 'teach', 'Teach', 'Thatch']", The Dallas Morning News
+providing,"['render', 'allow_for', 'furnish', 'provide', 'bring_home_the_bacon', 'leave', 'put_up', 'cater', 'ply', 'supply', 'offer', 'allow']", The Dallas Morning News
+pay,"['compensate', 'pay', 'give', 'devote', 'salary', 'pay_off', 'ante_up', 'yield', 'pay_up', 'make_up', 'bear', 'earnings', 'wage', 'remuneration']", The Dallas Morning News
+be,"['exist', 'beryllium', 'comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'atomic_number_4', 'make_up', 'glucinium', 'represent', 'Be', 'live']", The Dallas Morning News
+James,"['jampack', 'King_James', 'mob', 'St._James_the_Apostle', 'impede', 'ram', 'King_James_I', 'obturate', 'William_James', 'crush', 'occlude', 'pile', 'throng', 'obstruct', 'James_II', 'Jesse_James', 'Epistle_of_James', 'wad', 'James_I', 'Henry_James', 'Saint_James_the_Apostle', 'St._James', 'pack', 'James_River', 'chock_up', 'block', 'jam', 'James_IV', 'James', 'cram', 'Saint_James', 'close_up']", The Dallas Morning News
+almost,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'nigh']", The Dallas Morning News
+unconstitutional,['unconstitutional'], The Dallas Morning News
+informed,"['inform', 'informed']", The Dallas Morning News
+Scott,"['Dred_Scott', 'Walter_Scott', 'George_C._Scott', 'Sir_Walter_Scott', 'Robert_Scott', 'Scott', 'Winfield_Scott', 'Robert_Falcon_Scott']", The Dallas Morning News
+year's,[], The Dallas Morning News
+Red,"['cerise', 'blood-red', 'ruby', 'reddened', 'loss', 'Red_River', 'red-faced', 'red_ink', 'violent', 'redness', 'crimson', 'red', 'reddish', 'cherry-red', 'cherry', 'bolshie', 'ruby-red', 'flushed', 'Bolshevik', 'ruddy', 'scarlet', 'Marxist', 'bolshy', 'Red', 'carmine']", The Dallas Morning News
+representing,"['comprise', 'play', 'interpret', 'defend', 'present', 'make_up', 'typify', 'represent', 'symbolize', 'stand_for', 'constitute', 'map', 'stage', 'act', 'correspond', 'symbolise', 'lay_out', 'be', 'exemplify']", The Dallas Morning News
+produce,"['create', 'grow', 'garden_truck', 'raise', 'farm', 'bring_on', 'give_rise', 'bring_out', 'green_groceries', 'develop', 'make', 'bring_about', 'acquire', 'produce', 'bring_forth', 'green_goods', 'get']", The Dallas Morning News
+between,"['between', 'betwixt', ""'tween""]", The Dallas Morning News
+senate,"['U.S._Senate', 'United_States_Senate', 'Senate', 'senate', 'US_Senate']", The Dallas Morning News
+chairman,"['chairwoman', 'president', 'chairperson', 'chairman', 'chair']", The Dallas Morning News
+Texans,['Texan'], The Dallas Morning News
+"$15,000,000",[], The Dallas Morning News
+24,"['XXIV', 'twenty-four', 'xxiv', 'two_dozen', '24']", The Dallas Morning News
+Raymondville,[], The Dallas Morning News
+details,"['point', 'inside_information', 'particular', 'item', 'detail', 'contingent', 'details']", The Dallas Morning News
+two-thirds,['two-thirds'], The Dallas Morning News
+Deaf,"['deafen', 'deaf', 'indifferent']", The Dallas Morning News
+down,"['down', 'gloomy', 'down_in_the_mouth', 'low', 'bolt_down', 'toss_off', 'polish', 'John_L._H._Down', 'downwardly', 'downward', 'drink_down', 'blue', 'knock_down', 'refine', 'consume', 'dispirited', 'pour_down', 'devour', 'pull_down', 'Down', 'pile', 'go_through', 'mastered', 'downcast', 'push_down', 'low-spirited', 'land', 'down_pat', 'pop', 'fine-tune', 'depressed', 'cut_down', 'grim', 'downwards', 'down_feather', 'shoot_down', 'belt_down', 'kill', 'downhearted']", The Dallas Morning News
+studied,"['hit_the_books', 'take', 'consider', 'meditate', 'read', 'studied', 'analyse', 'canvas', 'analyze', 'contemplate', 'study', 'examine', 'learn', 'canvass']", The Dallas Morning News
+ribbon,"['thread', 'ribbon', 'palm', 'laurel_wreath', 'typewriter_ribbon', 'decoration', 'medallion', 'medal']", The Dallas Morning News
+1961-62,[], The Dallas Morning News
+Daniel's,[], The Dallas Morning News
+receive,"['experience', 'take_in', 'welcome', 'meet', 'find', 'obtain', 'receive', 'pick_up', 'encounter', 'invite', 'incur', 'have', 'get']", The Dallas Morning News
+con,"['yardbird', 'confidence_trick', 'sting', 'bunco_game', 'rook', 'diddle', 'con', 'convict', 'con_game', 'bunco', 'confidence_game', 'scam', 'learn', 'hornswoggle', 'flimflam', 'defraud', 'memorize', 'hustle', 'bunko_game', 'gip', 'short-change', 'inmate', 'yard_bird', 'gyp', 'nobble', 'bunko', 'goldbrick', 'memorise', 'swindle', 'mulct', 'victimize']", The Dallas Morning News
+legislative,['legislative'], The Dallas Morning News
+Extension,"['denotation', 'extension_phone', 'elongation', 'annex', 'file_name_extension', 'telephone_extension', 'propagation', 'extension', 'annexe', 'filename_extension', 'extension_service', 'university_extension', 'reference', 'lengthiness', 'wing', 'prolongation']", The Dallas Morning News
+State,"['say', 'State_Department', 'State', 'express', 'body_politic', 'submit', 'nation', 'commonwealth', 'United_States_Department_of_State', 'put_forward', 'res_publica', 'province', 'DoS', 'land', 'Department_of_State', 'tell', 'country', 'state_of_matter', 'state', 'posit']", The Dallas Morning News
+City,"['urban_center', 'metropolis', 'city']", The Dallas Morning News
+such,['such'], The Dallas Morning News
+stake,"['post', 'adventure', 'wager', 'game', 'back', 'interest', 'stakes', 'jeopardize', 'bet_on', 'punt', 'impale', 'venture', 'gage', 'bet', 'stake', 'hazard']", The Dallas Morning News
+Science,"['scientific_discipline', 'skill', 'science']", The Dallas Morning News
+Plainview,[], The Dallas Morning News
+17,"['XVII', 'xvii', '17', 'seventeen']", The Dallas Morning News
+confidence,"['assurance', 'self-confidence', 'authority', 'confidence', 'trust', 'sureness', 'self-assurance']", The Dallas Morning News
+millions,"['gazillion', 'million', 'billion', 'trillion', 'jillion', 'one_thousand_thousand', 'zillion', 'meg', '1000000']", The Dallas Morning News
+serious,"['grave', 'unplayful', 'sober', 'dangerous', 'life-threatening', 'serious', 'severe', 'grievous', 'good']", The Dallas Morning News
+considerably,"['substantially', 'considerably', 'well']", The Dallas Morning News
+reported,"['describe', 'cover', 'account', 'report', 'reported']", The Dallas Morning News
+Sherman,"['Roger_Sherman', 'Sherman', 'William_Tecumseh_Sherman', 'Mount_Sherman']", The Dallas Morning News
+relatives,"['relative', 'congener', 'relation', 'congenator', 'congeneric']", The Dallas Morning News
+sledding,"['going', 'sleigh', 'sled', 'sledding']", The Dallas Morning News
+four,"['quatern', 'four', 'quaternion', 'tetrad', '4', 'quadruplet', 'Little_Joe', 'iv', 'four-spot', 'quaternity', 'IV', 'quartet', 'foursome', 'quaternary']", The Dallas Morning News
+give,"['return', 'break', 'establish', 'present', 'contribute', 'open', 'cave_in', 'devote', 'pass_on', 'commit', 'chip_in', 'founder', 'generate', 'collapse', 'springiness', 'afford', 'render', 'apply', 'grant', 'give', 'feed', 'kick_in', 'hold', 'throw', 'give_way', 'sacrifice', 'dedicate', 'pass', 'fall_in', 'impart', 'spring', 'have', 'turn_over', 'consecrate', 'ease_up', 'pay', 'leave', 'move_over', 'yield', 'gift', 'make', 'hand', 'reach']", The Dallas Morning News
+peanut,"['goober_pea', 'peanut', 'Arachis_hypogaea', 'earthnut', 'groundnut', 'monkey_nut', 'insignificant', 'goober', 'peanut_vine']", The Dallas Morning News
+Cotten's,[], The Dallas Morning News
+1,"['i', '1', 'single', 'unity', 'ane', 'one', 'ace', 'I']", The Dallas Morning News
+hours,"['hr', 'hours', 'hour', '60_minutes', 'time_of_day', 'minute']", The Dallas Morning News
+willing,"['will', 'volition', 'leave', 'willing', 'unforced', 'bequeath', 'uncoerced']", The Dallas Morning News
+Hospital,"['infirmary', 'hospital']", The Dallas Morning News
+Kika,[], The Dallas Morning News
+proposed,"['offer', 'aim', 'pop_the_question', 'purport', 'declare_oneself', 'advise', 'nominate', 'project', 'suggest', 'purpose', 'propose']", The Dallas Morning News
+residential,['residential'], The Dallas Morning News
+remainder,"['residual', 'end', 'residuum', 'rest', 'residue', 'oddment', 'balance', 'remnant', 'difference', 'remainder']", The Dallas Morning News
+culminating,"['culminate', 'climax']", The Dallas Morning News
+but,"['simply', 'only', 'just', 'merely', 'but']", The Dallas Morning News
+means,"['means', 'agency', 'stand_for', 'think', 'signify', 'intend', 'imply', 'mean_value', 'think_of', 'entail', 'mean', 'substance', 'have_in_mind', 'way']", The Dallas Morning News
+introduced,"['enter', 'preface', 'bring_in', 'premise', 'insert', 'innovate', 'inclose', 'infix', 'bring_out', 'introduce', 'acquaint', 'present', 'put_in', 'stick_in', 'inaugurate', 'enclose', 'usher_in', 'precede']", The Dallas Morning News
+called,"['address', 'holler', 'call_up', 'ring', 'shout', 'name', 'call_in', 'promise', 'scream', 'bid', 'shout_out', 'foretell', 'visit', 'call_off', 'cry', 'telephone', 'predict', 'forebode', 'hollo', 'call', 'phone', 'squall', 'yell', 'send_for', 'prognosticate', 'anticipate']", The Dallas Morning News
+sway,"['swing', 'carry', 'sway', 'tilt', 'careen', 'rock', 'persuade', 'shake']", The Dallas Morning News
+excise,"['strike', 'excise_tax', 'scratch', 'excise', 'expunge']", The Dallas Morning News
+taken,"['accept', 'remove', 'take_in', 'contract', 'take_away', 'rent', 'read', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'consume', 'learn', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'contain', 'interpreted', 'study', 'drive', 'ingest', 'make', 'take_aim', 'choose', 'select', 'convey', 'taken', 'charter']", The Dallas Morning News
+on,"['on', 'along']", The Dallas Morning News
+It,"['IT', 'information_technology']", The Dallas Morning News
+Oklahoma,"['OK', 'Oklahoma', 'Sooner_State']", The Dallas Morning News
+age,"['age', 'eld', 'mature', 'geezerhood', 'long_time', 'maturate', 'get_on', 'years', 'senesce', 'old_age', 'historic_period']", The Dallas Morning News
+underground,"['clandestine', 'undercover', 'underground', 'cloak-and-dagger', 'hugger-mugger', 'hush-hush', 'surreptitious', 'tube', 'belowground', 'subway', 'metro', 'secret', 'resistance', 'subway_system', 'hole-and-corner']", The Dallas Morning News
+Howard,"['Leslie_Howard', 'Leslie_Howard_Stainer', 'Howard', 'Catherine_Howard']", The Dallas Morning News
+for,[], The Dallas Morning News
+provide,"['render', 'allow_for', 'furnish', 'provide', 'bring_home_the_bacon', 'leave', 'put_up', 'cater', 'ply', 'supply', 'offer', 'allow']", The Dallas Morning News
+Houston,"['Samuel_Houston', 'Houston', 'Sam_Houston']", The Dallas Morning News
+shouting,"['holler', 'yelling', 'shouting', 'shout', 'scream', 'cheering', 'clapperclaw', 'blackguard', 'abuse', 'outcry', 'shout_out', 'cry_out', 'exclaim', 'cry', 'hollo', 'call', 'call_out', 'squall', 'yell']", The Dallas Morning News
+their,[], The Dallas Morning News
+named,"['distinguish', 'discover', 'name', 'bring_up', 'diagnose', 'appoint', 'refer', 'constitute', 'nominate', 'identify', 'key', 'advert', 'cite', 'describe', 'mention', 'key_out', 'call', 'make', 'list']", The Dallas Morning News
+Galveston,['Galveston'], The Dallas Morning News
+loan,"['loan', 'lend', 'loanword']", The Dallas Morning News
+a,"['group_A', 'ampere', 'angstrom_unit', 'type_A', 'deoxyadenosine_monophosphate', 'amp', 'antiophthalmic_factor', 'a', 'vitamin_A', 'angstrom', 'A', 'adenine', 'axerophthol']", The Dallas Morning News
+dollars,"['clam', 'dollar_bill', 'dollar_sign', 'dollar', 'one_dollar_bill', 'buck', 'dollar_mark']", The Dallas Morning News
+accounts,"['history', 'write_up', 'accounting', 'bill', 'answer_for', 'describe', 'account_statement', 'invoice', 'chronicle', 'account', 'explanation', 'score', 'calculate', 'story', 'business_relationship', 'report', 'news_report']", The Dallas Morning News
+Gulf,"['disconnect', 'disconnection', 'gulf']", The Dallas Morning News
+Hollowell,[], The Dallas Morning News
+degree,"['point', 'academic_degree', 'grade', 'level', 'arcdegree', 'degree', 'stage']", The Dallas Morning News
+Natural,"['instinctive', 'cancel', 'lifelike', 'innate', 'natural', 'born', 'rude', 'raw']", The Dallas Morning News
+vote,"['right_to_vote', 'voting', 'balloting', 'voter_turnout', 'suffrage', 'ballot', 'vote']", The Dallas Morning News
+taxes,"['assess', 'task', 'tax', 'taxation', 'taxis', 'revenue_enhancement']", The Dallas Morning News
+three,"['III', 'ternary', 'troika', 'threesome', 'ternion', 'leash', 'iii', 'three', 'trinity', '3', 'deuce-ace', 'tercet', 'triad', 'triplet', 'tierce', 'trio', 'terzetto', 'trine', 'trey']", The Dallas Morning News
+could,[], The Dallas Morning News
+Southwestern,"['southwesterly', 'Southwestern', 'southwest', 'southwestern', 'West_Saxon']", The Dallas Morning News
+obligations,"['responsibility', 'obligation', 'debt_instrument', 'duty', 'indebtedness', 'certificate_of_indebtedness']", The Dallas Morning News
+Tarrant,[], The Dallas Morning News
+250,[], The Dallas Morning News
+here,"['hither', 'here', 'Hera', 'Here']", The Dallas Morning News
+sought,"['sought-after', 'look_for', 'assay', 'search', 'try', 'attempt', 'sought', 'essay', 'seek']", The Dallas Morning News
+Cotten,[], The Dallas Morning News
+able,"['able-bodied', 'capable', 'able']", The Dallas Morning News
+of,[], The Dallas Morning News
+said,"['articulate', 'enjoin', 'suppose', 'tell', 'read', 'pronounce', 'say', 'aver', 'order', 'enounce', 'aforesaid', 'enunciate', 'state', 'allege', 'sound_out', 'said', 'aforementioned']", The Dallas Morning News
+"$451,500",[], The Dallas Morning News
+But,"['simply', 'only', 'just', 'merely', 'but']", The Dallas Morning News
+Relatively,"['relatively', 'comparatively']", The Dallas Morning News
+worked,"['knead', 'sour', 'play', 'shape', 'bring', 'work', 'work_on', 'do_work', 'mould', 'ferment', 'put_to_work', 'wreak', 'exercise', 'lick', 'act_upon', 'exploit', 'make_for', 'work_out', 'act', 'go', 'figure_out', 'operate', 'influence', 'turn', 'process', 'solve', 'run', 'function', 'form', 'crop', 'make', 'cultivate', 'forge', 'mold', 'puzzle_out']", The Dallas Morning News
+63,"['sixty-three', '63', 'lxiii']", The Dallas Morning News
+protests,"['protestation', 'objection', 'resist', 'protest', 'dissent']", The Dallas Morning News
+senator,['senator'], The Dallas Morning News
+licensing,"['license', 'certify', 'licence']", The Dallas Morning News
+no,"['atomic_number_102', 'No', 'nobelium', 'no', 'no_more']", The Dallas Morning News
+expects,"['ask', 'wait', 'gestate', 'carry', 'look', 'expect', 'have_a_bun_in_the_oven', 'bear', 'await', 'anticipate', 'require']", The Dallas Morning News
+13,"['long_dozen', 'thirteen', 'XIII', ""baker's_dozen"", 'xiii', '13']", The Dallas Morning News
+do,"['brawl', 'doh', 'behave', 'make_out', 'get_along', 'Doctor_of_Osteopathy', 'serve', 'cause', 'DO', 'coif', 'come', 'arrange', 'exercise', 'ut', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'bash', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']", The Dallas Morning News
+basketball,"['basketball', 'hoops', 'basketball_game']", The Dallas Morning News
+firm,"['immobile', 'firmly', 'business_firm', 'tauten', 'solid', 'stiff', 'loyal', 'truehearted', 'steadfast', 'unshakable', 'unfluctuating', 'unfaltering', 'unbendable', 'firm', 'unwaveringly', 'unwavering', 'fast', 'house', 'steady', 'steadfastly', 'strong']", The Dallas Morning News
+large,"['large', 'orotund', 'expectant', 'turgid', 'heavy', 'great', 'big', 'bombastic', 'vauntingly', 'tumid', 'magnanimous', 'enceinte', 'boastfully', 'prominent', 'declamatory', 'with_child', 'gravid']", The Dallas Morning News
+miscellaneous,"['sundry', 'miscellaneous', 'multifaceted', 'multifarious', 'motley', 'many-sided', 'mixed', 'assorted']", The Dallas Morning News
+tax,"['assess', 'task', 'tax', 'taxation', 'revenue_enhancement']", The Dallas Morning News
+than,[], The Dallas Morning News
+114,[], The Dallas Morning News
+Owen,"['Sir_Richard_Owen', 'Robert_Owen', 'Owen']", The Dallas Morning News
+or,"['operating_room', 'operating_theatre', 'operating_theater', 'Oregon', 'surgery', 'Beaver_State', 'OR']", The Dallas Morning News
+failure,"['unsuccessful_person', 'nonstarter', 'bankruptcy', 'failure', 'loser']", The Dallas Morning News
+182,[], The Dallas Morning News
+March,"['adjoin', 'border', 'demonstrate', 'butt_against', 'butt', 'marching', 'parade', 'marching_music', 'MArch', 'process', 'abut', 'border_district', 'butt_on', 'Mar', 'borderland', 'edge', 'marchland', 'Master_of_Architecture', 'exhibit', 'march', 'March']", The Dallas Morning News
+football,"['football_game', 'football']", The Dallas Morning News
+enlarged,"['expound', 'enlarged', 'blown-up', 'enlarge', 'dilate', 'exaggerated', 'exposit', 'hypertrophied', 'elaborate', 'flesh_out', 'magnified', 'lucubrate', 'blow_up', 'expand', 'magnify', 'expatiate']", The Dallas Morning News
+had,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']", The Dallas Morning News
+Department's,[], The Dallas Morning News
+athletic,"['gymnastic', 'acrobatic', 'athletic']", The Dallas Morning News
+finally,"['at_last', 'in_the_end', 'lastly', 'ultimately', 'at_long_last', 'finally', 'in_conclusion', 'eventually', 'last']", The Dallas Morning News
+to,[], The Dallas Morning News
+order,"['regularise', 'regulate', 'govern', 'say', 'order', 'fiat', 'ordering', 'Holy_Order', 'ordain', 'ordinate', 'social_club', 'rescript', 'enjoin', 'dictate', 'order_of_magnitude', 'guild', 'rate', 'arrange', 'Order', 'rank', 'set_up', 'range', 'club', 'lodge', 'put', 'parliamentary_law', 'decree', 'place', 'purchase_order', 'society', 'consecrate', 'edict', 'rules_of_order', 'monastic_order', 'ordination', 'tell', 'grade', 'gild', 'orderliness', 'parliamentary_procedure', 'regularize', 'prescribe']", The Dallas Morning News
+taxpayers',[], The Dallas Morning News
+calendar,['calendar'], The Dallas Morning News
+committees,"['committee', 'commission', 'citizens_committee']", The Dallas Morning News
+Must,"['moldiness', 'must', 'mustiness']", The Dallas Morning News
+books,"['Koran', 'record_book', 'Holy_Writ', 'book', 'book_of_account', 'reserve', 'rule_book', 'script', ""al-Qur'an"", 'ledger', 'Word', 'playscript', 'Holy_Scripture', 'leger', 'Book', 'hold', 'Bible', 'volume', 'Good_Book', 'Scripture', 'Quran', 'record', 'Christian_Bible', 'account_book', 'Word_of_God']", The Dallas Morning News
+Cox,"['Cox', 'cyclooxygenase', 'cox', 'coxswain']", The Dallas Morning News
+favorable,"['golden', 'lucky', 'favourable', 'prosperous', 'favorable', 'well-disposed', 'friendly']", The Dallas Morning News
+representatives,"['congressman', 'spokesperson', 'example', 'representative', 'voice', 'illustration', 'interpreter', 'instance', 'congresswoman']", The Dallas Morning News
+sounded,"['go', 'voice', 'vocalize', 'fathom', 'vocalise', 'sound']", The Dallas Morning News
+companies,"['accompany', 'caller', 'companion', 'companionship', 'fellowship', 'keep_company', 'party', ""ship's_company"", 'company', 'society', 'troupe']", The Dallas Morning News
+retarded,"['mentally_retarded', 'retarded', 'decelerate', 'developmentally_challenged', 'check', 'delay', 'slow_down', 'retard', 'slow', 'slow_up']", The Dallas Morning News
+courses,"['course_of_instruction', 'row', 'course_of_action', 'form', 'grade', 'feed', 'trend', 'course', 'line', 'track', 'path', 'class', 'course_of_study', 'run', 'flow']", The Dallas Morning News
+president,"['chairwoman', 'president', 'chairperson', 'chairman', 'chair', 'prexy', 'Chief_Executive', 'United_States_President', 'President_of_the_United_States', 'President']", The Dallas Morning News
+blue,"['spicy', 'racy', 'gentle', 'sorry', 'down', 'gloomy', 'low', 'blueness', 'blue_devil', 'bluing', 'gamy', 'blue-blooded', 'blue_air', 'blueing', 'disconsolate', 'blue', 'blue_sky', 'dispirited', 'drab', 'gamey', 'blueish', 'downcast', 'puritanic', 'low-spirited', 'dismal', 'Amytal', 'aristocratic', 'dingy', 'drear', 'puritanical', 'amobarbital_sodium', 'juicy', 'wild_blue_yonder', 'depressed', 'aristocratical', 'bluish', 'grim', 'risque', 'dark', 'dreary', 'blue_angel', 'naughty', 'patrician', 'blasphemous', 'profane', 'down_in_the_mouth', 'downhearted']", The Dallas Morning News
+New,"['unexampled', 'newfangled', 'young', 'freshly', 'fresh', 'New', 'newly', 'novel', 'new', 'raw', 'Modern']", The Dallas Morning News
+savings,"['deliver', 'rescue', 'bring_through', 'write', 'preservation', 'pull_through', 'redeem', 'keep', 'deliverance', 'nest_egg', 'economise', 'hold_open', 'salvage', 'savings', 'economy', 'delivery', 'save', 'saving', 'spare', 'economize', 'lay_aside', 'salve', 'relieve', 'save_up', 'carry_through', 'make_unnecessary', 'keep_open', 'preserve']", The Dallas Morning News
+Harlingen,[], The Dallas Morning News
+delay,"['postponement', 'holdup', 'wait', 'check', 'hold_up', 'stay', 'hold', 'delay', 'time_lag', 'retard', 'detain']", The Dallas Morning News
+felt,"['experience', 'finger', 'matt-up', 'mat', 'matte_up', 'matte', 'sense', 'find', 'mat_up', 'feel', 'felt', 'felt_up', 'palpate']", The Dallas Morning News
+little,"['picayune', 'lilliputian', 'slight', 'small', 'niggling', 'piffling', 'piddling', 'fiddling', 'short', 'footling', 'petty', 'trivial', 'little', 'minuscule']", The Dallas Morning News
+assistance,"['assist', 'assistance', 'aid', 'help']", The Dallas Morning News
+Instead,"['rather', 'or_else', 'instead', 'alternatively']", The Dallas Morning News
+gifts,"['empower', 'giving', 'give', 'endowment', 'invest', 'gift', 'talent', 'endow', 'endue', 'present', 'natural_endowment', 'indue']", The Dallas Morning News
+referendum,['referendum'], The Dallas Morning News
+end,"['close', 'death', 'end', 'goal', 'destruction', 'conclusion', 'oddment', 'final_stage', 'finish', 'terminate', 'ending', 'cease', 'remnant', 'last', 'closing', 'remainder', 'terminal', 'stop']", The Dallas Morning News
+22,"['XXII', '22', 'xxii', 'twenty-two']", The Dallas Morning News
+take,"['accept', 'remove', 'take_in', 'contract', 'return', 'take_away', 'read', 'rent', 'withdraw', 'look_at', 'engage', 'subscribe_to', 'adopt', 'fill', 'strike', 'film', 'call_for', 'bring', 'occupy', 'lease', 'necessitate', 'submit', 'take_up', 'pick_out', 'carry', 'use_up', 'conduct', 'payoff', 'consume', 'learn', 'proceeds', 'subscribe', 'need', 'claim', 'deal', 'require', 'get', 'ask', 'get_hold_of', 'takings', 'take', 'consider', 'aim', 'hire', 'postulate', 'hold', 'shoot', 'involve', 'assume', 'acquire', 'direct', 'lead', 'admit', 'have', 'exact', 'pack', 'guide', 'demand', 'take_on', 'train', 'issue', 'contain', 'yield', 'study', 'ingest', 'make', 'take_aim', 'drive', 'choose', 'select', 'convey', 'charter']", The Dallas Morning News
+welfare,"['public_assistance', 'wellbeing', 'eudaemonia', 'welfare', 'social_welfare', 'eudaimonia', 'well-being', 'upbeat', 'benefit']", The Dallas Morning News
+elected,"['elect', 'elected', 'elective']", The Dallas Morning News
+Legislature,"['legislature', 'legislative_body', 'general_assembly', 'legislative_assembly', 'law-makers']", The Dallas Morning News
+they,[], The Dallas Morning News
+fiscal,"['fiscal', 'financial']", The Dallas Morning News
+including,"['let_in', 'include', 'admit']", The Dallas Morning News
+permitting,"['tolerate', 'permit', 'countenance', 'let', 'allow']", The Dallas Morning News
+left,"['exit', 'pull_up_stakes', 'will', 'left_hand', 'provide', 'unexpended', 'left-hand', 'remaining', 'forget', 'go_away', 'allow', 'get_out', 'result', 'leftfield', 'pass_on', 'left_over', 'allow_for', 'leftover', 'depart', 'left_wing', 'entrust', 'give', 'go_forth', 'go_out', 'lead', 'leave_alone', 'impart', 'bequeath', 'left_field', 'odd', 'left', 'leave', 'leave_behind']", The Dallas Morning News
+million,"['gazillion', 'million', 'billion', 'trillion', 'jillion', 'one_thousand_thousand', 'zillion', 'meg', '1000000']", The Dallas Morning News
+Sen.,[], The Dallas Morning News
+day,"['daytime', 'daylight', 'day', 'sidereal_day', 'Clarence_Day', 'solar_day', 'twenty-four_hours', 'twenty-four_hour_period', 'mean_solar_day', 'Clarence_Shepard_Day_Jr.', 'Day', '24-hour_interval']", The Dallas Morning News
+E.,[], The Dallas Morning News
+children,"['nestling', 'nipper', 'shaver', 'minor', 'small_fry', 'tiddler', 'tike', 'baby', 'kid', 'youngster', 'fry', 'child', 'tyke']", The Dallas Morning News
+Weatherford,[], The Dallas Morning News
+stocks,"['stock_up', 'fund', 'line', 'ancestry', 'sprout', 'origin', 'blood', 'breed', 'Malcolm_stock', 'buy_in', 'store', 'pedigree', 'stockpile', 'carry', 'broth', 'farm_animal', 'parentage', 'inventory', 'blood_line', 'strain', 'gillyflower', 'bloodline', 'descent', 'neckcloth', 'stemma', 'stock', 'livestock', 'stock_certificate', 'gunstock', 'stocks', 'line_of_descent', 'lineage', 'caudex']", The Dallas Morning News
+making,"['take_in', 'make_believe', 'take_a_shit', 'relieve_oneself', 'create', 'realize', 'spend_a_penny', 'bring_in', 'name', 'stimulate', 'establish', 'piddle', 'make_up', 'puddle', 'cause', 'clear', 'construct', 'work', 'pass_water', 'devising', 'take_a_crap', 'fix', 'constitute', 'pee', 'fashioning', 'nominate', 'draw', 'urinate', 'score', 'pull_in', 'defecate', 'get', 'qualification', 'take', 'progress_to', 'give', 'hold', 'throw', 'induce', 'pee-pee', 'take_a_leak', 'micturate', 'have', 'wee', 'do', 'pretend', 'gain', 'earn', 'get_to', 'seduce', 'cook', 'crap', 'form', 'hit', 'stool', 'ca-ca', 'piss', 'wee-wee', 'make_water', 'shit', 'making', 'make', 'reach', 'attain', 'realise', 'produce', 'arrive_at', 'ready', 'prepare', 'build', 'lay_down']", The Dallas Morning News
+information,"['info', 'data', 'information', 'entropy', 'selective_information']", The Dallas Morning News
+Chester,['Chester'], The Dallas Morning News
+Paso,[], The Dallas Morning News
+cities,"['urban_center', 'metropolis', 'city']", The Dallas Morning News
+4-year,[], The Dallas Morning News
+older,"['old', 'elder', 'elderly', 'aged', 'erstwhile', 'one-time', 'sure-enough', 'Old', 'former', 'senior', 'sr.', 'sometime', 'quondam', 'honest-to-goodness', 'honest-to-god', 'onetime', 'older', 'previous']", The Dallas Morning News
+$12,[], The Dallas Morning News
+Statements,"['program_line', 'affirmation', 'assertion', 'instruction', 'financial_statement', 'statement', 'command', 'argument']", The Dallas Morning News
+time,"['clock_time', 'clock', 'clip', 'meter', 'fourth_dimension', 'metre', 'sentence', 'prison_term', 'time']", The Dallas Morning News
+hard,"['hard', 'grueling', 'punishing', 'firmly', 'laborious', 'tough', 'operose', 'unvoiced', 'gruelling', 'knockout', 'concentrated', 'backbreaking', 'heavy', 'voiceless', 'intemperate', 'arduous', 'heavily', 'surd', 'severely', 'intemperately', 'toilsome', 'difficult', 'severe', 'strong']", The Dallas Morning News
+R.,[], The Dallas Morning News
+subjects,"['field', 'subjugate', 'submit', 'matter', 'guinea_pig', 'topic', 'national', 'subject', 'field_of_study', 'bailiwick', 'subject_field', 'discipline', 'issue', 'theme', 'study', 'depicted_object', 'case', 'subject_area', 'content']", The Dallas Morning News
+Chairman,"['chairwoman', 'president', 'chairperson', 'chairman', 'chair']", The Dallas Morning News
+Martin,"['Dean_Martin', 'Martin', 'martin', 'Mary_Martin', 'Steve_Martin', 'St._Martin', 'Dino_Paul_Crocetti']", The Dallas Morning News
+firms,"['business_firm', 'firm', 'house', 'tauten']", The Dallas Morning News
+years,"['age', 'eld', 'twelvemonth', 'long_time', 'years', 'class', 'yr', 'days', 'year', 'old_age', 'geezerhood']", The Dallas Morning News
+fine,"['o.k.', 'fine', 'ticket', 'hunky-dory', 'exquisitely', 'ok', 'okay', 'finely', 'amercement', 'all_right', 'delicately', 'OK', 'alright', 'mulct', 'very_well']", The Dallas Morning News
+composed,"['compose', 'write', 'compile', 'frame', 'pen', 'composed', 'indite', 'draw_up']", The Dallas Morning News
+cost,"['monetary_value', 'price', 'be', 'cost', 'toll']", The Dallas Morning News
+"$157,460",[], The Dallas Morning News
+extension,"['denotation', 'extension_phone', 'elongation', 'annex', 'file_name_extension', 'telephone_extension', 'propagation', 'extension', 'annexe', 'filename_extension', 'extension_service', 'university_extension', 'reference', 'lengthiness', 'wing', 'prolongation']", The Dallas Morning News
+teachers,"['teacher', 'instructor']", The Dallas Morning News
+federal,"['Fed', 'Federal', 'Federal_soldier', 'Union_soldier', 'Union', 'federal_official', 'federal']", The Dallas Morning News
+An,"['Associate_in_Nursing', 'AN']", The Dallas Morning News
+erase,"['erase', 'wipe_off', 'delete', 'rub_out', 'wipe_out', 'efface', 'score_out']", The Dallas Morning News
+Formby,[], The Dallas Morning News
+sponsor,"['presenter', 'patron', 'sponsor', 'shop', 'patronize', 'frequent', 'shop_at', 'buy_at', 'patronise', 'supporter']", The Dallas Morning News
+future,"['future_tense', 'succeeding', 'future', 'next', 'futurity', 'hereafter', 'time_to_come']", The Dallas Morning News
+F.,[], The Dallas Morning News
+spent,"['worn-out', 'drop', 'washed-out', 'fagged', 'played_out', 'expend', 'spent', 'dog-tired', 'pass', 'spend', 'worn_out', 'fatigued', 'exhausted']", The Dallas Morning News
+plan,"['design', 'contrive', 'architectural_plan', 'be_after', 'program', 'project', 'programme', 'plan']", The Dallas Morning News
+deal,"['address', 'sight', 'flock', 'spate', 'contend', 'look_at', 'treat', 'parcel_out', 'mickle', 'dole_out', 'portion_out', 'make_out', 'share', 'distribute', 'stack', 'business_deal', 'quite_a_little', 'cover', 'conduct', 'handle', 'tidy_sum', 'raft', 'softwood', 'carry_on', 'care', 'shell_out', 'administer', 'deal', 'pile', 'mess', 'dispense', 'divvy_up', 'mint', 'consider', 'take', 'make_do', 'wad', 'mete_out', 'slew', 'dish_out', 'passel', 'hatful', 'lot', 'mass', 'get_by', 'heap', 'plenty', 'allot', 'great_deal', 'trade', 'muckle', 'pot', 'grapple', 'good_deal', 'sell', 'apportion', 'cope', 'hand', 'manage', 'batch', 'mountain', 'plow', 'deal_out', 'peck', 'bargain']", The Dallas Morning News
+methods,"['method_acting', 'method']", The Dallas Morning News
+approved,"['approved', 'approve', 'sanction', 'okay', 'sanctioned', 'O.K.']", The Dallas Morning News
+over,"['over', 'all_over', ""o'er"", 'terminated', 'concluded', 'complete', 'ended']", The Dallas Morning News
+license,"['permit', 'license', 'licence', 'certify', 'permission']", The Dallas Morning News
+subject,"['field', 'capable', 'subjugate', 'dependent', 'open', 'submit', 'matter', 'guinea_pig', 'topic', 'national', 'subject', 'field_of_study', 'bailiwick', 'subject_field', 'discipline', 'issue', 'theme', 'study', 'depicted_object', 'case', 'subject_area', 'content']", The Dallas Morning News
+big,"['handsome', 'great', 'adult', 'bountiful', 'openhanded', 'with_child', 'braggart', 'bighearted', 'expectant', 'giving', 'heavy', 'vainglorious', 'boastful', 'self-aggrandizing', 'magnanimous', 'liberal', 'full-grown', 'prominent', 'self-aggrandising', 'bounteous', 'fully_grown', 'swelled', 'cock-a-hoop', 'big', 'freehanded', 'braggy', 'enceinte', 'boastfully', 'crowing', 'large', 'grownup', 'bad', 'vauntingly', 'gravid', 'bragging', 'grown']", The Dallas Morning News
+idea,"['musical_theme', 'approximation', 'mind', 'estimation', 'idea', 'melodic_theme', 'theme', 'thought', 'estimate']", The Dallas Morning News
+bank,"['money_box', 'savings_bank', 'depository_financial_institution', 'camber', 'bank', 'trust', 'banking_concern', 'banking_company', 'coin_bank', 'rely', 'swear', 'bank_building', 'cant', 'deposit']", The Dallas Morning News
+now,"['immediately', 'today', 'directly', 'straight_off', 'forthwith', 'at_once', 'at_present', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot', 'nowadays']", The Dallas Morning News
+succeed,"['win', 'bring_home_the_bacon', 'follow', 'come_after', 'deliver_the_goods', 'succeed', 'come_through']", The Dallas Morning News
+Berry's,[], The Dallas Morning News
+"100,000",[], The Dallas Morning News
+have,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'wealthy_person', 'induce', 'rich_person', 'suffer', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']", The Dallas Morning News
+effort,"['elbow_grease', 'endeavour', 'exploit', 'crusade', 'movement', 'try', 'endeavor', 'exertion', 'drive', 'attempt', 'feat', 'campaign', 'effort', 'cause', 'travail', 'sweat']", The Dallas Morning News
+majorities,"['absolute_majority', 'bulk', 'majority', 'legal_age']", The Dallas Morning News
+expected,"['ask', 'wait', 'gestate', 'carry', 'look', 'expect', 'have_a_bun_in_the_oven', 'bear', 'await', 'anticipate', 'require', 'expected']", The Dallas Morning News
+speaker,"['speaker', 'verbaliser', 'verbalizer', 'loudspeaker', 'speaker_unit', 'speaker_system', 'utterer', 'Speaker', 'talker', 'loudspeaker_system']", The Dallas Morning News
+volume,"['volume', 'bulk', 'mass', 'book', 'loudness', 'intensity']", The Dallas Morning News
+outlay,"['disbursement', 'spending', 'outlay', 'expenditure', 'outgo', 'disbursal']", The Dallas Morning News
+York,"['York', 'House_of_York']", The Dallas Morning News
+Seminole,['Seminole'], The Dallas Morning News
+former,"['old', 'one-time', 'erstwhile', 'other', 'former', 'early', 'sometime', 'quondam', 'late', 'onetime', 'previous']", The Dallas Morning News
+fight,"['contend', 'push', 'fight_down', 'defend', 'battle', 'press', 'combat', 'fighting', 'scrap', 'competitiveness', 'agitate', 'struggle', 'conflict', 'oppose', 'crusade', 'fight', 'engagement', 'fight_back', 'campaign']", The Dallas Morning News
+I'm,[], The Dallas Morning News
+poll,"['crown', 'public_opinion_poll', 'canvas', 'poll_parrot', 'pollard', 'poll', 'opinion_poll', 'pate', 'canvass']", The Dallas Morning News
+Paris,"['genus_Paris', 'Paris', 'City_of_Light', 'French_capital', 'capital_of_France']", The Dallas Morning News
+each,"['for_each_one', 'each', 'apiece', 'to_each_one', 'from_each_one']", The Dallas Morning News
+Without,[], The Dallas Morning News
+county,['county'], The Dallas Morning News
+all,"['whole', 'altogether', 'totally', 'completely', 'wholly', 'all', 'entirely']", The Dallas Morning News
+Crump,"['thud', 'crump', 'scrunch']", The Dallas Morning News
+Bexar,[], The Dallas Morning News
+witnesses,"['watcher', 'witnesser', 'witness', 'viewer', 'attestor', 'attestator', 'see', 'looker', 'find', 'spectator', 'informant', 'attestant']", The Dallas Morning News
+history,"['history', 'account', 'story', 'chronicle']", The Dallas Morning News
+immediately,"['immediately', 'directly', 'straight_off', 'forthwith', 'at_once', 'straightaway', 'instantly', 'right_away', 'now', 'like_a_shot']", The Dallas Morning News
+my,[], The Dallas Morning News
+resolution,"['resolution', 'firmness', 'resoluteness', 'firmness_of_purpose', 'result', 'answer', 'resolve', 'solution', 'closure', 'solvent', 'solving', 'resolving_power', 'resolving', 'settlement', 'declaration']", The Dallas Morning News
+Collins,"['Tom_Collins', 'Wilkie_Collins', 'Collins', 'collins', 'William_Wilkie_Collins']", The Dallas Morning News
+border,"['adjoin', 'border', 'ring', 'butt_against', 'butt', 'frame_in', 'environ', 'mete', 'delimitation', 'skirt', 'boundary_line', 'margin', 'surround', 'molding', 'abut', 'perimeter', 'butt_on', 'borderline', 'frame', 'edge', 'moulding', 'march', 'bound']", The Dallas Morning News
+eliminating,"['obviate', 'annihilate', 'extinguish', 'carry_off', 'rule_out', 'excrete', 'get_rid_of', 'rid_of', 'decimate', 'egest', 'wipe_out', 'eliminate', 'winnow_out', 'reject', 'do_away_with', 'pass', 'eradicate']", The Dallas Morning News
+enact,"['enact', 'reenact', 'ordain', 'act_out']", The Dallas Morning News
+establish,"['found', 'shew', 'demonstrate', 'establish', 'institute', 'constitute', 'plant', 'set_up', 'ground', 'give', 'show', 'instal', 'install', 'launch', 'make', 'base', 'build', 'prove', 'lay_down']", The Dallas Morning News
+Health,"['wellness', 'health']", The Dallas Morning News
+recommend,"['advocate', 'urge', 'recommend', 'commend']", The Dallas Morning News
+Senate,"['U.S._Senate', 'United_States_Senate', 'Senate', 'senate', 'US_Senate']", The Dallas Morning News
+vacancies,"['emptiness', 'vacancy', 'vacuum', 'void']", The Dallas Morning News
+dependent,"['subordinate', 'subject', 'dependant', 'hooked', 'strung-out', 'qualified', 'pendant', 'dependent', 'drug-addicted', 'pendent']", The Dallas Morning News
+general,"['cosmopolitan', 'superior_general', 'worldwide', 'ecumenical', 'full_general', 'world-wide', 'oecumenical', 'universal', 'general']", The Dallas Morning News
+TEA,"['teatime', 'afternoon_tea', 'tea_leaf', 'Camellia_sinensis', 'tea']", The Dallas Morning News
+school's,[], The Dallas Morning News
+question,"['enquiry', 'question', 'query', 'interrogation', 'doubtfulness', 'oppugn', 'call_into_question', 'doubt', 'head', 'interrogative_sentence', 'interview', 'wonder', 'interrogative', 'interrogate', 'dubiousness', 'inquiry', 'motion']", The Dallas Morning News
+Dumas,"['Dumas', 'Alexandre_Dumas', 'Duma']", The Dallas Morning News
+31,"['thirty-one', 'xxxi', '31']", The Dallas Morning News
+cover,"['address', 'encompass', 'compensate', 'book_binding', 'top', 'hatch', 'treat', 'spread_over', 'overcompensate', 'masking', 'underwrite', 'enshroud', 'insure', 'breed', 'get_across', 'brood', 'wrap_up', 'incubate', 'cover', 'handle', 'cut_across', 'cover_song', 'natural_covering', 'cut_through', 'embrace', 'report', 'covering', 'deal', 'cover_up', 'pass_over', 'cover_charge', 'continue', 'cover_version', 'track', 'blanket', 'concealment', 'shroud', 'extend', 'cross', 'overlay', 'comprehend', 'get_over', 'binding', 'hide', 'traverse', 'back', 'screening', 'screen', 'covert', 'covering_fire', 'plow']", The Dallas Morning News
+questions,"['enquiry', 'question', 'query', 'interrogation', 'doubtfulness', 'oppugn', 'call_into_question', 'doubt', 'head', 'interrogative_sentence', 'interview', 'wonder', 'interrogative', 'interrogate', 'dubiousness', 'inquiry', 'motion']", The Dallas Morning News
+Under,"['under', 'below', 'nether']", The Dallas Morning News
+lost,"['mislay', 'confounded', 'bemused', 'turn_a_loss', 'doomed', 'befuddled', 'drop_off', 'preoccupied', 'lost', 'baffled', 'disoriented', 'misplace', 'confused', 'missed', 'suffer', 'mazed', 'fall_back', 'helpless', 'recede', 'bewildered', 'fall_behind', 'mixed-up', 'miss', 'deep_in_thought', 'at_sea', 'lose']", The Dallas Morning News
+certain,"['sealed', 'sure', 'certain']", The Dallas Morning News
+program,"['computer_programme', 'syllabus', 'political_platform', 'broadcast', 'political_program', 'platform', 'computer_program', 'program', 'curriculum', 'course_of_study', 'programme', 'plan']", The Dallas Morning News
+schools,"['train', 'schooltime', 'schooling', 'civilize', 'school_day', 'shoal', 'school', 'cultivate', 'educate', 'civilise', 'schoolhouse']", The Dallas Morning News
+Wise,"['overbold', 'wise_to', 'judicious', 'Isaac_Mayer_Wise', 'fresh', 'Stephen_Samuel_Wise', 'smart', 'saucy', 'sassy', 'wise', 'impertinent', 'knowing', 'heady', 'Wise', 'impudent']", The Dallas Morning News
+patrolman,"['patrolman', 'flatfoot']", The Dallas Morning News
+De,"['Delaware', 'First_State', 'DE', 'Diamond_State']", The Dallas Morning News
+During,[], The Dallas Morning News
+intelligent,"['reasoning', 'well-informed', 'intelligent', 'thinking', 'healthy', 'sound', 'levelheaded', 'level-headed']", The Dallas Morning News
+similar,"['standardised', 'similar', 'standardized', 'exchangeable', 'alike', 'interchangeable', 'like']", The Dallas Morning News
+Opponents,"['opposition', 'adversary', 'antagonist', 'opposite', 'opposer', 'opponent', 'resister']", The Dallas Morning News
+through,"['through', 'done', 'through_with', 'through_and_through']", The Dallas Morning News
+"$5,000,000",[], The Dallas Morning News
+sign,"['contract', 'planetary_house', 'signalize', 'bless', 'ratify', 'sign_on', 'mark', 'polarity', 'signed', 'mansion', 'sign-language', 'augury', 'sign_up', 'signalise', 'subscribe', 'signal', 'sign_of_the_zodiac', 'gestural', 'sign', 'preindication', 'house', 'signboard', 'foretoken', 'star_sign', 'signaling']", The Dallas Morning News
+impair,"['mar', 'spoil', 'deflower', 'vitiate', 'impair']", The Dallas Morning News
+dissent,"['disagree', 'take_issue', 'objection', 'differ', 'resist', 'protest', 'dissent']", The Dallas Morning News
+ex-gambler,['ex-gambler'], The Dallas Morning News
+aid,"['assist', 'tending', 'economic_aid', 'financial_aid', 'attention', 'care', 'assistance', 'aid', 'help']", The Dallas Morning News
+"$1,000",[], The Dallas Morning News
+reduced,"['contract', 'dilute', 'cut', 'keep_down', 'repress', 'trim', 'thin_out', 'subjugate', 'scale_down', 'shrink', 'deoxidise', 'abridge', 'decreased', 'deoxidize', 'decoct', 'lose_weight', 'subdue', 'foreshorten', 'boil_down', 'cut_back', 'slim_down', 'come_down', 'shorten', 'trim_back', 'abbreviate', 'quash', 'slenderize', 'trim_down', 'reduced', 'cut_down', 'slim', 'thin', 'melt_off', 'bring_down', 'reduce', 'concentrate', 'tighten', 'rock-bottom']", The Dallas Morning News
+printed,"['print', 'impress', 'publish']", The Dallas Morning News
+College,['college'], The Dallas Morning News
+J.,[], The Dallas Morning News
+prison,"['prison_house', 'prison']", The Dallas Morning News
+denied,"['traverse', 'refuse', 'deny', 'abnegate']", The Dallas Morning News
+site,"['land_site', 'web_site', 'website', 'site', 'locate', 'place', 'situation', 'internet_site']", The Dallas Morning News
+less,"['to_a_lesser_extent', 'less', 'lupus_erythematosus', 'LE']", The Dallas Morning News
+capital,"['majuscule', 'chapiter', 'working_capital', 'great', 'uppercase', 'capital', 'Capital', 'Washington', 'Das_Kapital', 'upper-case_letter', 'capital_letter', 'cap']", The Dallas Morning News
+Charles,"['Prince_Charles', 'Charles_Stuart', 'Charles_River', 'Charles_the_Great', 'Charles_IX', 'Charles_the_Bald', 'Charles_I', 'Charles', 'Jacques_Charles', 'Jacques_Alexandre_Cesar_Charles', 'Carolus', 'Charles_II', 'Charles_VII', 'Charlemagne']", The Dallas Morning News
+prevention,"['bar', 'prevention']", The Dallas Morning News
+it,"['IT', 'information_technology']", The Dallas Morning News
+Legislatures,"['legislature', 'legislative_body', 'general_assembly', 'legislative_assembly', 'law-makers']", The Dallas Morning News
+A.,[], The Dallas Morning News
+notarized,"['notarize', 'notarise']", The Dallas Morning News
+Bachelor,"['unmarried_man', 'bachelor', 'bach', 'knight_bachelor', 'bachelor-at-arms']", The Dallas Morning News
+letterman,['letterman'], The Dallas Morning News
+development,"['growing', 'development', 'evolution', 'ontogeny', 'exploitation', 'growth', 'maturation', 'ontogenesis', 'developing']", The Dallas Morning News
+utility,"['public_utility_company', 'utility', 'substitute', 'public-service_corporation', 'service_program', 'utility-grade', 'usefulness', 'utility_program', 'public_utility']", The Dallas Morning News
+pending,['pending'], The Dallas Morning News
+Lamar,[], The Dallas Morning News
+Monday,"['Mon', 'Monday']", The Dallas Morning News
+Institute,"['institute', 'found', 'constitute', 'plant', 'establish', 'bring']", The Dallas Morning News
+Affairs,"['social_function', 'personal_matters', 'matter', 'personal_business', 'affairs', 'thing', 'liaison', 'involvement', 'affair', 'intimacy', 'affaire', 'occasion', 'social_occasion', 'function', 'amour']", The Dallas Morning News
+Virgil,"['Vergil', 'Virgil', 'Publius_Vergilius_Maro']", The Dallas Morning News
+adamant,"['adamantine', 'inexorable', 'adamant', 'diamond', 'intransigent']", The Dallas Morning News
+counties,['county'], The Dallas Morning News
+county-wide,[], The Dallas Morning News
+Two,"['two', 'deuce', 'II', 'ii', '2']", The Dallas Morning News
+yet,"['nonetheless', 'notwithstanding', 'withal', 'heretofore', 'in_time', 'even', 'up_to_now', 'yet', 'til_now', 'however', 'until_now', 'thus_far', 'still', 'so_far', 'all_the_same', 'as_yet', 'even_so', 'nevertheless', 'hitherto']", The Dallas Morning News
+Clarence,['clarence'], The Dallas Morning News
+University,['university'], The Dallas Morning News
+Harris,"['James_Thomas_Harris', 'Benjamin_Harris', 'Harris', 'Townsend_Harris', 'Sir_Arthur_Travers_Harris', 'Zellig_Sabbatai_Harris', 'Bomber_Harris', 'Frank_Harris', 'Joel_Chandler_Harris', 'Joel_Harris', 'Zellig_Harris']", The Dallas Morning News
+school,"['train', 'schooltime', 'schooling', 'civilize', 'school_day', 'shoal', 'school', 'cultivate', 'educate', 'civilise', 'schoolhouse']", The Dallas Morning News
+being,"['organism', 'comprise', 'beingness', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'being', 'existence', 'make_up', 'live', 'represent', 'exist']", The Dallas Morning News
+seven,"['septenary', '7', 'sevener', 'VII', 'septet', 'seven-spot', 'vii', 'seven', 'heptad']", The Dallas Morning News
+recommendations,"['testimonial', 'recommendation', 'good_word', 'passport']", The Dallas Morning News
+Parkhouse,[], The Dallas Morning News
+need,"['ask', 'necessitate', 'require', 'take', 'want', 'pauperism', 'postulate', 'motive', 'pauperization', 'involve', 'indigence', 'call_for', 'need', 'motivation', 'penury', 'demand']", The Dallas Morning News
+year,"['twelvemonth', 'year', 'class', 'yr']", The Dallas Morning News
+proposals,"['marriage_offer', 'proposition', 'proposal', 'proposal_of_marriage', 'marriage_proposal']", The Dallas Morning News
+pro,"['professional', 'pro']", The Dallas Morning News
+',[], The Dallas Morning News
+economy,"['saving', 'economy', 'economic_system', 'thriftiness']", The Dallas Morning News
+kept,"['hold_on', 'keep', 'prevent', 'observe', 'hold_open', 'proceed', 'keep_back', 'stay_fresh', 'keep_on', 'go_along', 'kept', 'save', 'continue', 'hold', 'restrain', 'maintain', 'unbroken', 'hold_back', 'go_on', 'keep_open', 'celebrate', 'sustain', 'retain', 'preserve']", The Dallas Morning News
+Junior,"['Junior', 'next-to-last', 'Jnr', 'third-year', 'junior', 'Jr']", The Dallas Morning News
+serving,"['wait_on', 'serve', 'help', 'assist', 'dish', 'helping', 'service_of_process', 'swear_out', 'serving', 'dish_out', 'answer', 'dish_up', 'process', 'suffice', 'serve_up', 'do', 'function', 'serve_well', 'attend', 'service', 'portion', 'attend_to']", The Dallas Morning News
+Ratcliff,[], The Dallas Morning News
+when,[], The Dallas Morning News
+votes,"['right_to_vote', 'voting', 'balloting', 'voter_turnout', 'suffrage', 'ballot', 'vote']", The Dallas Morning News
+Hudson,"['Hudson', 'Henry_Hudson', 'William_Henry_Hudson', 'Hudson_River', 'W._H._Hudson']", The Dallas Morning News
+District,"['zone', 'territory', 'district', 'territorial_dominion', 'dominion']", The Dallas Morning News
+enough,"['sufficiency', 'adequate', 'decent', 'enough', 'plenty']", The Dallas Morning News
+personal,['personal'], The Dallas Morning News
+Most,"['about', 'nearly', 'near', 'almost', 'well-nigh', 'most', 'virtually', 'to_the_highest_degree', 'nigh']", The Dallas Morning News
+&,[], The Dallas Morning News
+physics,"['physics', 'cathartic', 'aperient', 'natural_philosophy', 'physical_science', 'physic', 'purgative']", The Dallas Morning News
+recommendation,"['testimonial', 'recommendation', 'good_word', 'passport']", The Dallas Morning News
+since,[], The Dallas Morning News
+retire,"['withdraw', 'move_back', 'pull_away', 'adjourn', 'put_out', 'sack_out', 'go_to_bed', 'go_to_sleep', 'hit_the_sack', 'bed', 'draw_back', 'retreat', 'recede', 'kip_down', 'turn_in', 'hit_the_hay', 'retire', 'strike_out', 'crawl_in', 'pull_back']", The Dallas Morning News
+enforcing,"['apply', 'impose', 'implement', 'enforce']", The Dallas Morning News
+previously,"['previously', 'antecedently']", The Dallas Morning News
+Henry,"['William_Henry', 'H', 'henry', 'Patrick_Henry', 'Henry', 'Joseph_Henry']", The Dallas Morning News
+semester,['semester'], The Dallas Morning News
+case,"['event', 'font', 'eccentric', 'instance', 'shell', 'typeface', 'lawsuit', 'pillowcase', 'cause', 'character', 'type', 'example', 'showcase', 'sheath', 'guinea_pig', 'casing', 'suit', 'grammatical_case', 'pillow_slip', 'subject', 'encase', ""typesetter's_case"", 'incase', 'causa', 'vitrine', ""compositor's_case"", 'case', 'slip', 'face', 'caseful', 'display_case', 'fount']", The Dallas Morning News
+people,"['hoi_polloi', 'the_great_unwashed', 'multitude', 'citizenry', 'mass', 'people', 'masses']", The Dallas Morning News
+with,[], The Dallas Morning News
+Paradise,"['paradise', 'promised_land', 'nirvana', 'Eden', 'Shangri-la', 'Paradise', 'heaven']", The Dallas Morning News
+desertion,"['defection', 'abandonment', 'desertion', 'forsaking']", The Dallas Morning News
+reduce,"['contract', 'dilute', 'cut', 'keep_down', 'repress', 'trim', 'thin_out', 'subjugate', 'scale_down', 'shrink', 'deoxidise', 'abridge', 'deoxidize', 'decoct', 'lose_weight', 'subdue', 'foreshorten', 'boil_down', 'cut_back', 'slim_down', 'come_down', 'shorten', 'trim_back', 'abbreviate', 'quash', 'slenderize', 'trim_down', 'cut_down', 'slim', 'thin', 'melt_off', 'bring_down', 'reduce', 'concentrate', 'tighten']", The Dallas Morning News
+Schwartz,[], The Dallas Morning News
+set,"['determined', 'sic', 'adjust', 'Seth', 'mark', 'laid', 'circle', 'specify', 'band', 'limit', 'typeset', 'rig', 'go_under', 'situated', 'countersink', 'position', 'solidifying', 'coif', 'fix', 'localize', 'correct', 'plant', 'fit', 'arrange', 'located', 'placed', 'dictated', 'hardening', 'set_up', 'dress', 'readiness', 'curing', 'put', 'jell', 'coiffure', 'determine', 'fructify', 'solidification', 'hardened', 'lot', 'coiffe', 'place', 'gear_up', 'define', 'go_down', 'rigid', 'do', 'pose', 'congeal', 'Set', 'primed', 'localise', 'lay_out', 'lay', 'fixed', 'exercise_set', 'ready', 'prepare', 'stage_set', 'set', 'bent']", The Dallas Morning News
+missing,"['missing', 'wanting', 'drop', 'lacking', 'lack', 'neglect', 'overleap', 'omit', 'miss', 'overlook', 'pretermit', 'leave_out', 'escape', 'absent', 'lose']", The Dallas Morning News
+he,"['atomic_number_2', 'he', 'He', 'helium']", The Dallas Morning News
+Aug.,[], The Dallas Morning News
+estate,"['estate', 'the_three_estates', 'estate_of_the_realm', 'landed_estate', 'demesne', 'land', 'acres']", The Dallas Morning News
+race,"['backwash', 'race', 'airstream', 'hasten', 'pelt_along', 'speed', 'raceway', 'hie', 'cannonball_along', 'hotfoot', 'rush_along', 'step_on_it', 'subspecies', 'bucket_along', 'run', 'belt_along', 'rush', 'wash', 'slipstream']", The Dallas Morning News
+County,['county'], The Dallas Morning News
+own,"['ain', 'have', 'possess', 'own']", The Dallas Morning News
+declared,"['declared', 'hold', 'announce', 'stated', 'declare', 'adjudge']", The Dallas Morning News
+Money,['money'], The Dallas Morning News
+Research,"['enquiry', 'research', 'search', 'inquiry', 'explore']", The Dallas Morning News
+Garza,[], The Dallas Morning News
+destroy,"['ruin', 'put_down', 'destroy', 'demolish', 'destruct']", The Dallas Morning News
+students,"['pupil', 'scholar', 'scholarly_person', 'bookman', 'student', 'educatee']", The Dallas Morning News
+"$88,000",[], The Dallas Morning News
+one,"['i', 'matchless', 'one_and_only', '1', 'single', 'unmatched', 'nonpareil', 'unmatchable', 'unity', 'unrivaled', 'peerless', 'unrivalled', 'ane', 'one', 'ace', 'I', 'unitary']", The Dallas Morning News
+amount,"['quantity', 'sum', 'come', 'number', 'add_up', 'sum_of_money', 'total', 'amount_of_money', 'amount', 'measure']", The Dallas Morning News
+college,['college'], The Dallas Morning News
+deaf,"['deafen', 'deaf', 'indifferent']", The Dallas Morning News
+poor,"['piteous', 'poor_people', 'pitiful', 'miserable', 'wretched', 'short', 'hapless', 'pitiable', 'pathetic', 'misfortunate', 'inadequate', 'poor']", The Dallas Morning News
+must,"['moldiness', 'must', 'mustiness']", The Dallas Morning News
+--,[], The Dallas Morning News
+opposition,"['opposition', 'confrontation', 'foe', 'oppositeness', 'foeman', 'opposite', 'Opposition', 'opponent', 'resistance', 'enemy']", The Dallas Morning News
+You,[], The Dallas Morning News
+Another,"['some_other', 'another']", The Dallas Morning News
+Thursday,"['Thursday', 'Th']", The Dallas Morning News
+violation,"['infringement', 'irreverence', 'encroachment', 'violation', 'ravishment', 'misdemeanour', 'trespass', 'assault', 'infraction', 'misdemeanor', 'usurpation', 'rape', 'intrusion']", The Dallas Morning News
+effectively,"['in_effect', 'efficaciously', 'effectively']", The Dallas Morning News
+thinks,"['think', 'imagine', 'retrieve', 'recollect', 'cogitate', 'call_up', 'reckon', 'guess', 'opine', 'mean', 'consider', 'suppose', 'intend', 'believe', 'remember', 'recall', 'conceive', 'cerebrate', 'call_back']", The Dallas Morning News
+Representatives,"['congressman', 'spokesperson', 'example', 'representative', 'voice', 'illustration', 'interpreter', 'instance', 'congresswoman']", The Dallas Morning News
+alleged,"['so-called', 'supposed', 'say', 'aver', 'allege', 'alleged']", The Dallas Morning News
+teach,"['Edward_Teach', 'Blackbeard', 'learn', 'instruct', 'Edward_Thatch', 'teach', 'Teach', 'Thatch']", The Dallas Morning News
+Beaumont,"['William_Beaumont', 'Beaumont', 'Francis_Beaumont']", The Dallas Morning News
+termed,['term'], The Dallas Morning News
+require,"['ask', 'necessitate', 'take', 'want', 'postulate', 'involve', 'call_for', 'expect', 'command', 'need', 'require', 'demand']", The Dallas Morning News
+Association,"['affiliation', 'connexion', 'association', 'tie', 'tie-up', 'connection']", The Dallas Morning News
+schooling,"['train', 'schooling', 'civilize', 'school', 'cultivate', 'educate', 'civilise']", The Dallas Morning News
+act,"['play', 'behave', 'act_as', 'represent', 'work', 'playact', 'number', 'human_action', 'deed', 'act', 'roleplay', 'turn', 'enactment', 'pretend', 'do', 'bit', 'human_activity', 'routine', 'move', 'dissemble']", The Dallas Morning News
+water,"['H2O', 'piss', 'irrigate', 'water_system', 'urine', 'water', 'pee', 'body_of_water', 'weewee', 'piddle', 'water_supply']", The Dallas Morning News
+recipients,"['recipient', 'receiver', 'recipient_role']", The Dallas Morning News
+horse,"['cavalry', 'gymnastic_horse', 'knight', 'horse_cavalry', 'Equus_caballus', 'horse', 'sawhorse', 'buck', 'sawbuck']", The Dallas Morning News
+defenders,"['defender', 'withstander', 'guardian', 'protector', 'shielder']", The Dallas Morning News
+McLemore,[], The Dallas Morning News
+not,"['not', 'non']", The Dallas Morning News
+meager,"['stingy', 'meagerly', 'scrimpy', 'meagre', 'meager']", The Dallas Morning News
+living,"['experience', 'live_on', 'surviving', 'keep', 'sustenance', 'aliveness', 'last', 'live', 'animation', 'hold_up', 'know', 'endure', 'dwell', 'support', 'subsist', 'populate', 'go', 'bread_and_butter', 'inhabit', 'hold_out', 'living', 'be', 'livelihood', 'life', 'survive', 'exist']", The Dallas Morning News
+eminent,"['towering', 'lofty', 'soaring', 'high', 'eminent']", The Dallas Morning News
+special,"['special', 'particular', 'limited', 'especial', 'extra', 'peculiar', 'exceptional']", The Dallas Morning News
+Buchanan,"['James_Buchanan', 'Buchanan', 'President_Buchanan']", The Dallas Morning News
+insisted,"['assert', 'take_a_firm_stand', 'importune', 'insist']", The Dallas Morning News
+Supt.,[], The Dallas Morning News
+district,"['zone', 'territory', 'district', 'territorial_dominion', 'dominion']", The Dallas Morning News
+reducing,"['contract', 'dilute', 'cut', 'keep_down', 'repress', 'trim', 'thin_out', 'subjugate', 'scale_down', 'shrink', 'deoxidise', 'abridge', 'deoxidize', 'decoct', 'lose_weight', 'subdue', 'foreshorten', 'boil_down', 'cut_back', 'slim_down', 'come_down', 'shorten', 'trim_back', 'abbreviate', 'quash', 'slenderize', 'trim_down', 'cut_down', 'reduction', 'slim', 'reducing', 'thin', 'melt_off', 'bring_down', 'reduce', 'concentrate', 'tighten']", The Dallas Morning News
+week,"['week', 'workweek', 'hebdomad', 'calendar_week']", The Dallas Morning News
+maximum,"['utmost', 'maximal', 'upper_limit', 'level_best', 'uttermost', 'maximum']", The Dallas Morning News
+merely,"['simply', 'only', 'just', 'merely', 'but']", The Dallas Morning News
+in,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']", The Dallas Morning News
+benefit,"['profit', 'welfare', 'do_good', 'benefit', 'gain']", The Dallas Morning News
+that,[], The Dallas Morning News
+kill,"['vote_down', 'defeat', 'down', 'drink_down', 'belt_down', 'killing', 'shoot_down', 'bolt_down', 'pour_down', 'obliterate', 'pop', 'putting_to_death', 'wipe_out', 'stamp_out', 'vote_out', 'kill', 'toss_off']", The Dallas Morning News
+new,"['unexampled', 'newfangled', 'young', 'freshly', 'fresh', 'New', 'newly', 'novel', 'new', 'raw', 'Modern']", The Dallas Morning News
+employment,"['work', 'usage', 'use', 'utilization', 'utilisation', 'engagement', 'employ', 'exercise', 'employment']", The Dallas Morning News
+you,[], The Dallas Morning News
+hamlet,"['crossroads', 'Hamlet', 'hamlet', 'village']", The Dallas Morning News
+this,[], The Dallas Morning News
+approval,"['blessing', 'favorable_reception', 'approval', 'approving', 'commendation', 'favourable_reception']", The Dallas Morning News
+Commission,"['perpetration', 'deputation', 'direction', 'commission', 'commissioning', 'delegacy', 'military_commission', 'delegation', 'mission', 'charge', 'committal', 'committee']", The Dallas Morning News
+Daniel,"['Daniel', 'Book_of_Daniel', 'Book_of_the_Prophet_Daniel']", The Dallas Morning News
+absent,"['missing', 'remove', 'wanting', 'abstracted', 'absent', 'absentminded', 'scatty', 'lacking']", The Dallas Morning News
+V.,[], The Dallas Morning News
+constitutional,"['built-in', 'inherent', 'integral', 'organic', 'constituent', 'constitutive', 'constitutional', 'inbuilt']", The Dallas Morning News
+ended,"['end', 'over', 'all_over', 'finish', 'terminated', 'terminate', 'cease', 'concluded', 'complete', 'ended', 'stop']", The Dallas Morning News
+both,['both'], The Dallas Morning News
+passage,"['passage', 'handing_over', 'musical_passage', 'passageway', 'passing', 'enactment', 'transit', 'transition']", The Dallas Morning News
+Pirie,[], The Dallas Morning News
+Taxation,"['revenue', 'tax_revenue', 'tax_income', 'tax', 'taxation', 'revenue_enhancement']", The Dallas Morning News
+force,"['military_unit', 'violence', 'military_force', 'push', 'ram', 'force', 'military_group', 'strength', 'draw', 'effect', 'pressure', 'pull', 'force_play', 'power', 'impel', 'squeeze', 'personnel', 'force-out', 'thrust', 'forcefulness', 'wedge', 'drive', 'coerce', 'force_out', 'hale', 'storm']", The Dallas Morning News
+public,"['populace', 'public', 'world']", The Dallas Morning News
+keynote,"['tonic', 'keynote']", The Dallas Morning News
+Wesley,"['Wesley', 'John_Wesley', 'Charles_Wesley']", The Dallas Morning News
+ballot,"['ballot', 'voting', 'balloting', 'vote']", The Dallas Morning News
+family,"['crime_syndicate', 'kinsfolk', 'menage', 'mob', 'family_line', 'kinfolk', 'category', 'phratry', 'household', 'family', 'class', 'folk', 'kinsperson', 'kin', 'home', 'syndicate', 'sept', 'family_unit', 'fellowship', 'house']", The Dallas Morning News
+hearing,"['get_a_line', 'discover', 'try', 'audition', 'learn', 'pick_up', 'earshot', 'auditory_modality', 'hearing', 'earreach', 'see', 'listen', 'get_word', 'sense_of_hearing', 'find_out', 'audience', 'hear', 'listening', 'take_heed', 'auditory_sense', 'get_wind']", The Dallas Morning News
+C.,[], The Dallas Morning News
+Island,['island'], The Dallas Morning News
+Master,"['original', 'maestro', 'skipper', 'main', 'master_key', 'master_copy', 'control', 'surmount', 'overlord', 'overcome', 'master', 'subdue', 'chief', 'victor', 'professional', 'captain', 'primary', 'principal', 'dominate', 'get_over', 'get_the_hang', 'schoolmaster', 'sea_captain', 'superior', 'headmaster', 'passe-partout', 'lord', 'passkey']", The Dallas Morning News
+whipped,"['blister', 'flog', 'lather', 'worst', 'pip', 'scald', 'slash', 'strap', 'trounce', 'whip', 'mop_up', 'lash', 'whisk', 'welt', 'rack_up']", The Dallas Morning News
+Independent,"['free-lance', 'freelancer', 'mugwump', 'fencesitter', 'self-governing', 'main', 'self-employed_person', 'autonomous', 'freelance', 'free_lance', 'sovereign', 'independent']", The Dallas Morning News
+",",[], The Dallas Morning News
+permits,"['tolerate', 'permit', 'license', 'countenance', 'licence', 'Trachinotus_falcatus', 'let', 'allow', 'permission']", The Dallas Morning News
+"300,000",[], The Dallas Morning News
+construed,"['construe', 'see', 'interpret']", The Dallas Morning News
+community,"['residential_area', 'community', 'community_of_interests', 'biotic_community', 'residential_district']", The Dallas Morning News
+One,"['i', 'matchless', 'one_and_only', '1', 'single', 'unmatched', 'nonpareil', 'unmatchable', 'unity', 'unrivaled', 'peerless', 'unrivalled', 'ane', 'one', 'ace', 'I', 'unitary']", The Dallas Morning News
+April,"['Apr', 'April']", The Dallas Morning News
+underlying,"['inherent', 'rudimentary', 'implicit_in', 'underlie', 'underlying', 'fundamental']", The Dallas Morning News
+Lawrence,"['Thomas_Edward_Lawrence', 'Gertrude_Lawrence', 'Lawrence_of_Arabia', 'E._O._Lawrence', 'Ernest_Orlando_Lawrence', 'Sir_Thomas_Lawrence', 'Laurentius', 'David_Herbert_Lawrence', 'D._H._Lawrence', 'St._Lawrence', 'Saint_Lawrence', 'Lawrence', 'T._E._Lawrence']", The Dallas Morning News
+two,"['two', 'deuce', 'II', 'ii', '2']", The Dallas Morning News
+before,"['in_front', 'ahead', 'earlier', 'before']", The Dallas Morning News
+director,"['theater_director', 'managing_director', 'director', 'theatre_director', 'music_director', 'film_director', 'conductor', 'manager']", The Dallas Morning News
+only,"['exclusively', 'only_if', 'solely', 'solitary', 'simply', 'only_when', 'lone', 'only', 'lonesome', 'alone', 'just', 'merely', 'entirely', 'sole', 'but']", The Dallas Morning News
+Newton,"['N', 'newton', 'Sir_Isaac_Newton', 'Newton', 'Isaac_Newton']", The Dallas Morning News
+leading,"['leadership', 'top', 'head', 'contribute', 'preeminent', 'ahead', 'star', 'in_the_lead', 'prima', 'conduct', 'result', 'chair', 'take', 'go', 'moderate', 'extend', 'pass', 'direct', 'lead', 'run', 'guide', 'precede', 'conduce', 'starring', 'leave', 'leading', 'stellar']", The Dallas Morning News
+probably,"['believably', 'plausibly', 'credibly', 'probably', 'likely', 'belike', 'in_all_probability', 'in_all_likelihood']", The Dallas Morning News
+George,"['St._George', 'George_V', 'Saint_George', 'George_VI', 'George_IV', 'George_III', 'George', 'George_I', 'George_II']", The Dallas Morning News
+6,"['vi', 'sextet', 'Captain_Hicks', 'hexad', 'sestet', 'half_dozen', 'sise', 'VI', 'half_a_dozen', 'sextuplet', 'six', '6', 'half-dozen', 'sixer']", The Dallas Morning News
+La,"['Pelican_State', 'lah', 'lanthanum', 'Louisiana', 'la', 'atomic_number_57', 'La', 'LA']", The Dallas Morning News
+session,"['session', 'academic_term', 'sitting', 'academic_session', 'seance', 'school_term']", The Dallas Morning News
+did,"['behave', 'make_out', 'get_along', 'serve', 'cause', 'coif', 'come', 'arrange', 'exercise', 'fare', 'perform', 'dress', 'act', 'coiffure', 'practice', 'answer', 'coiffe', 'suffice', 'do', 'practise', 'execute', 'manage', 'make', 'set']", The Dallas Morning News
+doubt,"['doubtfulness', 'question', 'dubiety', 'doubt', 'incertitude', 'dubiousness', 'uncertainty']", The Dallas Morning News
+rules,"['regulation', 'govern', 'find', 'rein', 'reign', 'linguistic_rule', 'ruler', 'predominate', 'rule', 'prescript', 'normal', 'prevail', 'decree', 'harness', 'convention', 'dominate', 'pattern', 'principle', 'dominion', 'formula']", The Dallas Morning News
+these,[], The Dallas Morning News
+attorney,"['attorney', 'lawyer']", The Dallas Morning News
+Gov.,[], The Dallas Morning News
+watered,"['water', 'watered', 'moire', 'irrigate']", The Dallas Morning News
+political,['political'], The Dallas Morning News
+gas,"['bluster', 'gas', 'gun', 'swash', 'gaseous_state', 'flatulence', 'brag', 'shoot_a_line', 'tout', 'gasconade', 'vaunt', 'gasoline', 'blow', 'boast', 'accelerator', 'gasolene', 'gas_pedal', 'petrol', 'flatulency', 'accelerator_pedal', 'throttle', 'natural_gas']", The Dallas Morning News
+West,"['Cicily_Isabel_Fairfield', 'W', 'west', 'Occident', 'Dame_Rebecca_West', 'due_west', 'Rebecca_West', 'West', 'westward', 'Mae_West', 'western_United_States', 'Benjamin_West']", The Dallas Morning News
+parimutuels,['parimutuel'], The Dallas Morning News
+high,"['senior_high_school', 'in_high_spirits', 'gamy', 'luxuriously', 'senior_high', 'highschool', 'high-pitched', 'high_up', 'heights', 'gamey', 'mellow', 'high', 'high_school', 'high_gear', 'eminent', 'richly']", The Dallas Morning News
+his,[], The Dallas Morning News
+current,"['current', 'electric_current', 'stream', 'flow']", The Dallas Morning News
+Senators,['senator'], The Dallas Morning News
+voted,['vote'], The Dallas Morning News
+upon,[], The Dallas Morning News
+carry,"['behave', 'acquit', 'expect', 'have_a_bun_in_the_oven', 'express', 'persuade', 'transmit', 'stockpile', 'carry', 'conduct', 'comport', 'take', 'gestate', 'hold', 'extend', 'pack', 'impart', 'deport', 'run', 'channel', 'stock', 'transport', 'post', 'contain', 'sway', 'bear', 'convey', 'dribble']", The Dallas Morning News
+teacher,"['teacher', 'instructor']", The Dallas Morning News
+While,"['patch', 'spell', 'piece', 'while']", The Dallas Morning News
+escheat,['escheat'], The Dallas Morning News
+where,[], The Dallas Morning News
+load,"['dilute', 'charge', 'incumbrance', 'lode', 'load', 'lade', 'laden', 'warhead', 'burden', 'encumbrance', 'shipment', 'consignment', 'adulterate', 'freight', 'onus', 'stretch', 'lading', 'debase', 'payload', 'loading', 'cargo', 'load_up']", The Dallas Morning News
+persons,"['mortal', 'soul', 'individual', 'person', 'somebody', 'someone']", The Dallas Morning News
+increase,"['increment', 'step-up', 'growth', 'increase', 'addition', 'gain']", The Dallas Morning News
+Tyler,"['John_Tyler', 'Tyler', 'President_Tyler']", The Dallas Morning News
+Louis,"['Joseph_Louis_Barrow', 'Louis', 'Joe_Louis']", The Dallas Morning News
+despite,"['despite', 'disdain', 'contempt', 'scorn']", The Dallas Morning News
+4.4,[], The Dallas Morning News
+there,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']", The Dallas Morning News
+corporations,"['corp', 'pot', 'potbelly', 'bay_window', 'tummy', 'corporation']", The Dallas Morning News
+Texas',[], The Dallas Morning News
+told,"['recite', 'distinguish', 'enjoin', 'severalize', 'evidence', 'tell', 'recount', 'say', 'tell_apart', 'order', 'severalise', 'secern', 'state', 'separate', 'narrate', 'secernate', 'assure', 'differentiate']", The Dallas Morning News
+Jones,"['John_Paul_Jones', 'Jones', 'Mary_Harris_Jones', 'Mother_Jones', 'Bobby_Jones', 'Inigo_Jones', 'John_Luther_Jones', 'Casey_Jones', 'Daniel_Jones', 'Robert_Tyre_Jones']", The Dallas Morning News
+Supreme,"['sovereign', 'supreme']", The Dallas Morning News
+),[], The Dallas Morning News
+option,"['choice', 'option', 'alternative', 'selection', 'pick']", The Dallas Morning News
+suggested,"['intimate', 'indicate', 'advise', 'hint', 'suggest', 'paint_a_picture', 'propose', 'evoke']", The Dallas Morning News
+'',[], The Dallas Morning News
+locate,"['turn_up', 'settle', 'site', 'locate', 'place', 'situate']", The Dallas Morning News
+what,[], The Dallas Morning News
+further,"['boost', 'further', 'promote', 'advance', 'far', 'farther', 'encourage', 'foster']", The Dallas Morning News
+30,"['xxx', 'XXX', 'thirty', '30']", The Dallas Morning News
+ADC,[], The Dallas Morning News
+consulting,"['refer', 'confab', 'confer', 'look_up', 'consult', 'confer_with', 'confabulate']", The Dallas Morning News
+should,[], The Dallas Morning News
+English,"['English_people', 'English_language', 'side', 'English']", The Dallas Morning News
+certificate,"['credential', 'certificate', 'certification', 'credentials', 'security']", The Dallas Morning News
+adopted,"['take_on', 'take_in', 'take_up', 'take', 'adopted', 'follow', 'dramatize', 'adoptive', 'adopt', 'dramatise', 'take_over', 'assume', 'acquire', 'embrace', 'borrow', 'espouse', 'sweep_up']", The Dallas Morning News
+Feb.,[], The Dallas Morning News
+reservoirs,"['source', 'artificial_lake', 'man-made_lake', 'reservoir']", The Dallas Morning News
+Operating,"['mesh', 'work', 'operational', 'go', 'in_operation', 'engage', 'operate', 'manoeuvre', 'operating', 'manoeuver', 'control', 'lock', 'operate_on', 'run', 'function', 'maneuver']", The Dallas Morning News
+O.,[], The Dallas Morning News
+person,"['mortal', 'soul', 'individual', 'person', 'somebody', 'someone']", The Dallas Morning News
+Denton,[], The Dallas Morning News
+gift,"['empower', 'giving', 'give', 'endowment', 'invest', 'gift', 'talent', 'endow', 'endue', 'present', 'natural_endowment', 'indue']", The Dallas Morning News
+veiled,"['veil', 'blot_out', 'hide', 'obliterate', 'obscure', 'veiled']", The Dallas Morning News
+co-signers,[], The Dallas Morning News
+Corps,"['corporation', 'army_corps', 'corp', 'corps']", The Dallas Morning News
+permitted,"['tolerate', 'permit', 'countenance', 'let', 'allow']", The Dallas Morning News
+were,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']", The Dallas Morning News
+is,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'make_up', 'live', 'represent', 'exist']", The Dallas Morning News
+establishment,"['establishment', 'organization', 'governing_body', 'brass', 'organisation', 'administration', 'governance', 'ecesis', 'institution', 'formation', 'validation', 'constitution']", The Dallas Morning News
+(,[], The Dallas Morning News
+master's,[], The Dallas Morning News
+education,"['education', 'educational_activity', 'training', 'breeding', 'Education', 'instruction', 'teaching', 'Education_Department', 'didactics', 'Department_of_Education', 'pedagogy']", The Dallas Morning News
+return,"['restoration', 'deliver', 'return', 'rejoin', 'counter', 'repay', 'rejoinder', 'comeback', 'take_back', 'payoff', 'proceeds', 'devolve', 'return_key', 'retrovert', 'generate', 'tax_return', 'reelect', 'revert', 'take', 'takings', 'render', 'give', 'income_tax_return', 'reappearance', 'regress', 'recurrence', 'turn_back', 'homecoming', 'fall', 'pass', 'getting_even', 'recall', 'give_back', 'coming_back', 'issue', 'hark_back', 'refund', 'paying_back', 'yield', 'come_back', 'riposte', 'replication', 'regaining', 'retort', 'bring_back', 'restitution']", The Dallas Morning News
+81,"['eighty-one', 'lxxxi', '81']", The Dallas Morning News
+except,"['exclude', 'except', 'take_out', 'omit', 'leave_off', 'demur', 'leave_out']", The Dallas Morning News
+population,"['population', 'universe']", The Dallas Morning News
+from,[], The Dallas Morning News
+Eligio,[], The Dallas Morning News
+Chapman,"['Johnny_Appleseed', 'chapman', 'Chapman', 'John_Chapman']", The Dallas Morning News
+required,"['requisite', 'ask', 'necessitate', 'take', 'needed', 'mandatory', 'want', 'postulate', 'required', 'involve', 'compulsory', 'call_for', 'expect', 'needful', 'command', 'need', 'require', 'demand']", The Dallas Morning News
+impossible,"['unsufferable', 'inconceivable', 'insufferable', 'impossible', 'unacceptable', 'out_of_the_question', 'unimaginable']", The Dallas Morning News
+depositors,['depositor'], The Dallas Morning News
+Technology,"['applied_science', 'technology', 'engineering', 'engineering_science']", The Dallas Morning News
+Gaynor,[], The Dallas Morning News
+help,"['helper', 'assistant', 'assist', 'help_oneself', 'service', 'serve', 'supporter', 'assistance', 'aid', 'avail', 'help', 'facilitate']", The Dallas Morning News
+cannot,[], The Dallas Morning News
+joined,"['joined', 'get_together', 'link', 'connect', 'united', 'unite', 'coupled', 'linked', 'bring_together', 'conjoin', 'fall_in', 'link_up', 'join']", The Dallas Morning News
+if,[], The Dallas Morning News
+There,"['in_that_location', 'thither', 'on_that_point', 'in_that_respect', 'at_that_place', 'there']", The Dallas Morning News
+notice,"['detect', 'discover', 'find', 'mark', 'card', 'poster', 'observe', 'notice', 'comment', 'point_out', 'acknowledge', 'posting', 'notification', 'placard', 'bill', 'remark', 'observance', 'note', 'observation']", The Dallas Morning News
+budget,['budget'], The Dallas Morning News
+occupation,"['job', 'occupancy', 'occupation', 'line', 'moving_in', 'line_of_work', 'military_control', 'business']", The Dallas Morning News
+would,[], The Dallas Morning News
+board,"['plank', 'dining_table', 'circuit_board', 'add-in', 'get_on', 'display_board', 'control_board', 'circuit_card', 'panel', 'instrument_panel', 'gameboard', 'plug-in', 'table', 'display_panel', 'control_panel', 'card', 'board', 'room']", The Dallas Morning News
+extending,"['draw_out', 'stretch_out', 'widen', 'reach_out', 'protract', 'carry', 'cover', 'put_out', 'continue', 'strain', 'broaden', 'go', 'hold_out', 'extend', 'pass', 'exsert', 'lead', 'run', 'stretch', 'prolong', 'poke_out', 'stretch_forth', 'gallop', 'expand', 'offer', 'unfold']", The Dallas Morning News
+scholastic,"['bookworm', 'pedant', 'scholastic', 'Scholastic']", The Dallas Morning News
+listed,"['listed', 'heel', 'number', 'name', 'lean', 'list']", The Dallas Morning News
+authorizing,"['empower', 'authorise', 'authorize', 'pass', 'clear']", The Dallas Morning News
+domain,"['field', 'area', 'knowledge_domain', 'knowledge_base', 'orbit', 'arena', 'domain', 'world', 'demesne', 'land', 'sphere', 'domain_of_a_function']", The Dallas Morning News
+believe,"['think', 'consider', 'conceive', 'believe', 'trust']", The Dallas Morning News
+was,"['comprise', 'follow', 'embody', 'constitute', 'be', 'personify', 'equal', 'cost', 'WA', 'Washington', 'make_up', 'Evergreen_State', 'live', 'represent', 'exist']", The Dallas Morning News
+teaching,"['education', 'educational_activity', 'instruction', 'commandment', 'teaching', 'learn', 'precept', 'instruct', 'didactics', 'teach', 'pedagogy']", The Dallas Morning News
+These,[], The Dallas Morning News
+passing,"['ephemeral', 'slip_away', 'travel_by', 'passage', 'cursory', 'pass_by', 'excrete', 'fugacious', 'happen', 'go_along', 'give-up_the_ghost', 'go', 'passing_game', 'croak', 'go_past', 'pass', 'run', 'hap', 'authorise', 'transcend', 'go_across', 'departure', 'fleet', 'extremely', 'overstep', 'occur', 'short-lived', 'overtake', 'exceed', 'glide_by', 'pass_off', 'legislate', 'draw', 'authorize', 'overtaking', 'go_through', 'surpass', 'give', 'release', 'egest', 'die', 'lead', 'guide', 'fade', 'passing_play', 'drop_dead', 'hand', 'reach', 'pop_off', 'go_by', 'exit', 'expire', 'return', 'expiration', 'perish', 'evanesce', 'loss', 'exceedingly', 'overhaul', 'pass_on', 'devolve', 'snuff_it', 'make_pass', 'lapse', 'going', 'pass_away', 'passing', 'extend', 'eliminate', 'go_on', 'transitory', 'communicate', 'sink', 'put_across', 'slide_by', 'blow_over', 'come_about', 'top', 'kick_the_bucket', 'decease', 'elapse', 'spend', 'clear', 'qualifying', 'buy_the_farm', 'conk', 'make_it', 'perfunctory', 'transient', 'pass_along', 'fall_out', ""cash_in_one's_chips"", 'fall', 'take_place', 'slip_by', 'turn_over', 'choke', 'super', 'casual']", The Dallas Morning News
+decided,"['distinct', 'settle', 'determine', 'resolve', 'decided', ""make_up_one's_mind"", 'decide', 'adjudicate']", The Dallas Morning News
+Strickland,"['Strickland', 'William_Strickland']", The Dallas Morning News
+Formby's,[], The Dallas Morning News
+least,"['to_the_lowest_degree', 'least']", The Dallas Morning News
+:,[], The Dallas Morning News
+oppose,"['react', 'oppose', 'match', 'pit', 'controvert', 'counterbalance', 'fight', 'fight_back', 'fight_down', 'defend', 'play_off', 'contradict']", The Dallas Morning News
+money,['money'], The Dallas Morning News
+W.,[], The Dallas Morning News
+junior-senior,[], The Dallas Morning News
+In,"['atomic_number_49', 'In', 'inward', 'inwards', 'inch', 'Hoosier_State', 'Indiana', 'in', 'indium', 'IN']", The Dallas Morning News
+``,[], The Dallas Morning News
+Carson,"['Rachel_Carson', 'Kit_Carson', 'Carson', 'Christopher_Carson', 'Rachel_Louise_Carson']", The Dallas Morning News
+contracts,"['contract', 'cut', 'narrow', 'sign_on', 'shrink', 'abridge', 'sign_up', 'compact', 'foreshorten', 'press', 'get', 'squeeze', 'take', 'contract_bridge', 'shorten', 'abbreviate', 'sign', 'compress', 'declaration', 'constrict', 'reduce', 'condense', 'concentrate', 'undertake']", The Dallas Morning News
+12,"['xii', 'XII', 'dozen', '12', 'twelve']", The Dallas Morning News
+soon,"['before_long', 'soon', 'presently', 'shortly']", The Dallas Morning News
+yearly,"['annual', 'yearbook', 'every_year', 'annually', 'each_year', 'yearly']", The Dallas Morning News
+estimated,"['judge', 'forecast', 'gauge', 'approximate', 'reckon', 'guess', 'figure', 'count_on', 'calculate', 'estimate']", The Dallas Morning News
+breakdown,"['dislocation', 'crack-up', 'partitioning', 'breakdown', 'equipment_failure']", The Dallas Morning News
+personally,"['personally', 'in_person']", The Dallas Morning News
+skills,"['acquisition', 'accomplishment', 'skill', 'acquirement', 'attainment', 'science']", The Dallas Morning News
+couldn't,[], The Dallas Morning News
+color,"['color', 'people_of_colour', 'coloration', 'colourise', 'vividness', 'color_in', 'colourize', 'coloring_material', 'emblazon', 'tinge', 'people_of_color', 'colorize', 'colour_in', 'colouration', 'discolour', 'colorise', 'semblance', 'colouring', 'gloss', 'discolor', 'colouring_material', 'colour', 'distort', 'coloring']", The Dallas Morning News
+Cook,"['falsify', 'Captain_Cook', 'cook', 'fix', 'fake', 'Cook', 'misrepresent', 'make', 'manipulate', 'ready', 'wangle', 'Captain_James_Cook', 'prepare', 'fudge', 'James_Cook']", The Dallas Morning News
+.,[], The Dallas Morning News
+why,"['why', 'wherefore']", The Dallas Morning News
+pipeline,"['word_of_mouth', 'line', 'pipeline', 'grapevine']", The Dallas Morning News
+fill,"['take', 'meet', 'satisfy', 'sate', 'fill', 'replete', 'fulfil', 'make_full', 'filling', 'satiate', 'fulfill', 'occupy', 'fill_up']", The Dallas Morning News
+junior,"['Junior', 'next-to-last', 'Jnr', 'third-year', 'junior', 'Jr']", The Dallas Morning News
+project,"['protrude', 'project', 'fancy', 'visualise', 'externalize', 'projection', 'labor', 'undertaking', 'stick_out', 'contrive', 'task', 'visualize', 'envision', 'image', 'externalise', 'plan', 'jut_out', 'see', 'throw', 'figure', 'picture', 'send_off', 'propose', 'jut', 'design', 'cast']", The Dallas Morning News
+discrimination,"['favouritism', 'secernment', 'discrimination', 'favoritism']", The Dallas Morning News
+Co.,[], The Dallas Morning News
+live,"['experience', 'lively', 'live_on', 'last', 'resilient', 'live', 'bouncy', 'hold_up', 'know', 'endure', 'unrecorded', 'dwell', 'subsist', 'populate', 'go', 'hot', 'inhabit', 'hold_out', 'be', 'springy', 'alive', 'survive', 'exist']", The Dallas Morning News
+Frank,"['candid', 'weenie', 'blunt', 'point-blank', 'frankfurter', 'hot_dog', 'dog', 'hotdog', 'wienerwurst', 'postmark', 'free-spoken', 'plainspoken', 'frank', 'straight-from-the-shoulder', 'wiener', 'forthright', 'Frank', 'outspoken']", The Dallas Morning News
+law,"['natural_law', 'law', 'police', 'constabulary', 'legal_philosophy', 'law_of_nature', 'practice_of_law', 'police_force', 'jurisprudence']", The Dallas Morning News
+Marshall,"['Marshall', 'marshal', 'E._G._Marshall', 'John_Marshall', 'George_Marshall', 'George_Catlett_Marshall', 'marshall']", The Dallas Morning News
+holds,"['grip', 'grasp', 'nurse', 'keep', 'take_for', 'book', 'defend', 'control', 'concur', 'hold_in', 'curb', 'reserve', 'adjudge', 'custody', 'cargo_area', 'cargo_deck', 'wait', 'clench', 'harbor', 'carry', 'keep_back', 'hold_up', 'handle', 'delay', 'defy', 'declare', 'halt', 'arrest', 'time_lag', 'cargo_hold', 'concord', 'take_hold', 'oblige', 'support', 'postponement', 'confine', 'take', 'guard', 'apply', 'give', 'withstand', 'hold', 'throw', 'have_got', 'harbour', 'accommodate', 'prevail', 'appreciation', 'restrain', 'obligate', 'bind', 'admit', 'maintain', 'deem', 'moderate', 'clutch', 'have', 'hold_back', 'storage_area', 'clutches', 'clasp', 'contain', 'check', 'view_as', 'go_for', 'detention', 'handgrip', 'make', 'sustain', 'detainment', 'obtain', 'retain', 'bear', 'entertain', 'agree']", The Dallas Morning News
+elections,['election'], The Dallas Morning News
+adverse,"['contrary', 'adverse', 'untoward', 'inauspicious']", The Dallas Morning News
+has,"['experience', 'take_in', 'accept', 'own', 'deliver', 'receive', 'stimulate', 'give_birth', 'let', 'HA', 'cause', 'consume', 'birth', 'get', 'take', 'give', 'hold', 'have_got', 'throw', 'induce', 'suffer', 'hour_angle', 'have', 'possess', 'feature', 'ingest', 'make', 'sustain', 'bear']", The Dallas Morning News
+who,"['World_Health_Organization', 'WHO']", The Dallas Morning News
+Fifty-three,"['53', 'fifty-three', 'liii']", The Dallas Morning News
+problem,"['problem', 'job', 'trouble']", The Dallas Morning News
+something,[], The Dallas Morning News
+associate,"['consociate', 'familiar', 'companion', 'link', 'associate', 'link_up', 'connect', 'affiliate', 'assort', 'fellow', 'associate_degree', 'consort', 'tie_in', 'relate', 'comrade', 'colligate']", The Dallas Morning News
+I,"['i', 'iodine', '1', 'single', 'iodin', 'unity', 'ane', 'one', 'ace', 'I', 'atomic_number_53']", The Dallas Morning News
+His,[], The Dallas Morning News
+passed,"['slip_away', 'travel_by', 'pass_by', 'excrete', 'happen', 'go_along', 'give-up_the_ghost', 'go', 'croak', 'go_past', 'pass', 'run', 'hap', 'authorise', 'transcend', 'go_across', 'fleet', 'overstep', 'occur', 'overtake', 'exceed', 'glide_by', 'pass_off', 'legislate', 'draw', 'authorize', 'go_through', 'surpass', 'give', 'egest', 'die', 'lead', 'guide', 'fade', 'drop_dead', 'hand', 'reach', 'pop_off', 'go_by', 'exit', 'expire', 'return', 'perish', 'evanesce', 'overhaul', 'pass_on', 'devolve', 'snuff_it', 'make_pass', 'lapse', 'pass_away', 'extend', 'eliminate', 'go_on', 'communicate', 'sink', 'put_across', 'slide_by', 'blow_over', 'come_about', 'top', 'kick_the_bucket', 'decease', 'elapse', 'spend', 'clear', 'buy_the_farm', 'conk', 'make_it', 'pass_along', 'fall_out', ""cash_in_one's_chips"", 'fall', 'take_place', 'slip_by', 'turn_over', 'choke']", The Dallas Morning News
+insurance,"['policy', 'insurance', 'indemnity', 'insurance_policy']", The Dallas Morning News
+an,"['Associate_in_Nursing', 'AN']", The Dallas Morning News
+re-elected,[], The Dallas Morning News
+letters,"['letters', 'letter', 'varsity_letter', 'alphabetic_character', 'letter_of_the_alphabet', 'missive']", The Dallas Morning News
+El,"['elevation', 'elevated_railway', 'elevated_railroad', 'altitude', 'el', 'EL', 'overhead_railway', 'elevated', 'ALT']", The Dallas Morning News
+although,[], The Dallas Morning News
+led,"['top', 'head', 'contribute', 'conduct', 'result', 'chair', 'take', 'LED', 'go', 'light-emitting_diode', 'moderate', 'extend', 'pass', 'direct', 'lead', 'run', 'guide', 'precede', 'conduce', 'leave']", The Dallas Morning News
+heard,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'heard', 'get_wind', 'find_out']", The Dallas Morning News
+acts,"['play', 'behave', 'act_as', 'represent', 'work', 'playact', 'number', 'human_action', 'deed', 'act', 'roleplay', 'turn', 'enactment', 'do', 'pretend', 'Acts_of_the_Apostles', 'Acts', 'bit', 'human_activity', 'routine', 'move', 'dissemble']", The Dallas Morning News
+principal,"['star', 'head_teacher', 'principal_sum', 'main', 'school_principal', 'head', 'master', 'corpus', 'dealer', 'chief', 'lead', 'principal', 'primary']", The Dallas Morning News
+can,"['ass', 'tush', 'backside', 'give_the_sack', 'stern', 'bathroom', 'behind', 'canful', 'butt', 'nates', 'fundament', 'tail_end', 'privy', 'keister', 'send_away', 'dismiss', 'rear_end', 'fanny', 'give_the_axe', 'lav', 'potty', 'arse', 'john', 'fire', 'hindquarters', 'seat', 'rump', 'bottom', 'sack', 'throne', 'give_notice', 'rear', 'lavatory', 'displace', 'derriere', 'terminate', 'posterior', 'buttocks', 'can', 'can_buoy', 'pot', 'stool', 'crapper', 'buns', 'tail', 'tin', 'tooshie', 'commode', 'put_up', 'toilet', 'tin_can', 'force_out', 'hind_end', 'prat', 'bum']", The Dallas Morning News
+creation,"['creation', 'introduction', 'conception', 'origination', 'macrocosm', 'creative_activity', 'world', 'Creation', 'foundation', 'institution', 'existence', 'instauration', 'innovation', 'initiation', 'cosmos', 'universe', 'founding']", The Dallas Morning News
+sponsored,"['sponsor', 'shop', 'patronize', 'frequent', 'shop_at', 'buy_at', 'patronise']", The Dallas Morning News
+long,"['retentive', 'long', 'farseeing', 'recollective', 'longsighted', 'hanker', 'farsighted', 'tenacious', 'foresighted', 'yearn', 'prospicient', 'foresightful']", The Dallas Morning News
+hear,"['get_a_line', 'see', 'hear', 'discover', 'try', 'take_heed', 'listen', 'get_word', 'learn', 'pick_up', 'get_wind', 'find_out']", The Dallas Morning News
+soaring,"['sailing', 'soar_upwards', 'glide', 'sailplaning', 'soar_up', 'soar', 'zoom', 'surge', 'lofty', 'towering', 'soaring', 'sailplane', 'hang_glide', 'eminent', 'gliding']", The Dallas Morning News
+coming,"['come_in', 'derive', 'make_out', 'amount', 'get_along', 'come_up', 'approaching', 'occur', 'orgasm', 'come', 'number', 'arrive', 'forthcoming', 'hail', 'fare', 'get', 'descend', 'advent', 'fall', 'total', 'issue_forth', 'upcoming', 'add_up', 'climax', 'do', 'follow', 'approach', 'sexual_climax', 'coming']", The Dallas Morning News
+appointee,"['appointee', 'appointment']", The Dallas Morning News
+committee,"['committee', 'commission', 'citizens_committee']", The Dallas Morning News
+many,['many'], The Dallas Morning News
+construction,"['expression', 'twist', 'building', 'structure', 'mental_synthesis', 'construction', 'grammatical_construction']", The Dallas Morning News
