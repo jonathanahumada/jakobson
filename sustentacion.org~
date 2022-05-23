@@ -1,0 +1,99 @@
+#+AUTHOR:Jonatan Ahumada
+#+TITLE: Modelo de literariedad basado en la lingüistica de Roman Jakobson
+#+STARTUP: beamer
+#+OPTIONS:   H:2
+#+BEAMER_THEME: Rochester [height=20pt]
+#+LATEX_HEADER: \logo{\includegraphics[height=0.5cm]{./assets/lOGO-HORIZONTAL-KONRAD-COLOR.jpg}}
+
+#+SUBTITLE: Fundación Universitaria Konrad Lorenz
+#+LANGUAGE: es
+
+
+* Introducción
+
+** ¿Qué es /literariedad/?  
+
+   Es una presunta /característica/ que distingue un texto literario de
+   otro no literario.
+
+   Por ejemplo:
+
+  - Manual de un carro vs. un poema de Jose Asunción Silva (fácil)
+  - Artículo periodístico  vs. cuento corto  (normal)
+  - /50 sombras de Gray/ vs. /Ulysses/ (difícil)
+
+
+** Antecedentes: Los clásicos
+
+   En los estudios clásicos, se encuentran teorías acerca de qué constituye
+   un texto 'poético' o una buena 'narración'.
+
+   - Fedro, Platón
+   - Póetica, Aristóteles
+   - Carta a los pisones, Horacio
+
+   Sin embargo, el enfoque que toman estos autores no es *metódico* o *sistemático*
+  
+** Antecedentes: la linguística estructural
+
+   En el siglo 20, Ferdinand de Saussure fundó la linguística general
+   (también llamada estructural). Se considera al fenómeno del
+   lenguaje como una estructura compuesta de varios componentes
+   interdependientes, pero identificables.
+
+
+** Antecedentes: Roman Jakobson
+
+*** ¿Quién fue?
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+    Roman Jakobson fue un lingüista ruso americano. Se considera una
+    figura clave tanto en movimiento del /formalismo ruso/, así como
+    en el /estructuralista/.  La lingüística de Jakobson se basa en
+    los postulados de la lingüistica de Saussure, *pero* propuso una
+    crítica a las ideas de Saussure.
+
+
+*** Cita
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :BEAMER_ENV: block
+    :END:
+    #+begin_quote
+    The fundamental role which these two operations play in language
+    was clearly realized by Ferdinand de Saussure. Yet of the two
+    varieties of combination-concurrence and concatenation-it was only
+    the latter, the temporal sequence, which was recognized by the
+    Geneva linguist. 
+    \cite[99]{jakobson1956two}
+    #+end_quote
+
+
+
+
+** La pregunta
+   
+
+   
+\begin{block}{}
+   ¿Cómo medir
+   computarizadamente la /literariedad/ de un texto según el marco de la
+   lingüística de Jakobson?
+\end{block}
+
+
+* Objetivos
+** General
+** Específicos
+** Alcance
+* Marco teórico y referencial
+  
+* Diseño Metodológico
+** Ecuaciones
+** Preparación de los datos 
+** Despliegue
+
+
+* Conclusiones
+   

@@ -1,0 +1,219 @@
+#+AUTHOR:Jonatan Ahumada
+#+TITLE: Modelo de literariedad basado en la lingüistica de Roman Jakobson
+#+STARTUP: beamer
+#+OPTIONS:   H:2
+#+BEAMER_THEME: Rochester [height=20pt]
+#+LATEX_HEADER: \logo{\includegraphics[height=0.5cm]{./assets/lOGO-HORIZONTAL-KONRAD-COLOR.jpg}}
+
+#+SUBTITLE: Fundación Universitaria Konrad Lorenz
+#+LANGUAGE: es
+
+
+* Introducción
+
+** ¿Qué es /literariedad/?  
+
+   Es una presunta /característica/ que distingue un texto literario de
+   otro no literario.
+
+   Por ejemplo:
+
+  - Manual de un carro vs. un poema de Jose Asunción Silva (fácil)
+  - Artículo periodístico  vs. cuento corto  (normal)
+  - /50 sombras de Gray/ vs. /Ulysses/ (difícil)
+
+
+** Antecedentes: Los clásicos
+
+   En los estudios clásicos, se encuentran teorías acerca de qué constituye
+   un texto 'poético' o una buena 'narración'.
+
+   - Fedro, Platón
+   - Póetica, Aristóteles
+   - Carta a los pisones, Horacio
+
+   Sin embargo, el enfoque que toman estos autores no es *metódico* o *sistemático*
+  
+** Antecedentes: la linguística estructural
+
+   En el siglo 20, Ferdinand de Saussure fundó la linguística general
+   (también llamada estructural). Se considera al fenómeno del
+   lenguaje como una estructura compuesta de varios componentes
+   interdependientes, pero identificables.
+
+
+** Antecedentes: Roman Jakobson
+
+*** ¿Quién fue?
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+    Roman Jakobson fue un lingüista ruso americano. Se considera una
+    figura clave tanto en movimiento del /formalismo ruso/, así como
+    en el /estructuralista/.  La lingüística de Jakobson se basa en
+    los postulados de la lingüistica de Saussure, *pero* propuso una
+    crítica a las ideas de Saussure.
+
+
+*** Cita
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :BEAMER_ENV: block
+    :END:
+    #+begin_quote
+    The fundamental role which these two operations play in language
+    was clearly realized by Ferdinand de Saussure. Yet of the two
+    varieties of combination-concurrence and concatenation-it was only
+    the latter, the temporal sequence, which was recognized by the
+    Geneva linguist. 
+    \cite[99]{jakobson1956two}
+    #+end_quote
+
+
+
+
+** La pregunta
+   
+
+   
+\begin{block}{}
+   ¿Cómo medir
+   computarizadamente la /literariedad/ de un texto según el marco de la
+   lingüística de Jakobson?
+\end{block}
+
+
+* Objetivos
+** General
+   \begin{block}{General}
+
+Diseñar e implementar un modelo que, dado un corpus de texto, produzca
+   indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
+     \end{block}
+     
+** Específicos
+1) Construir el corpus necesario para representar el /eje sincrónico/.
+2) Diseñar e implementar el algoritmo para calcular la /metáfora/ sobre un corpus.
+3) Diseñar e implementar algoritmo para calcular la /metonimia/ sobre un corpus.
+4) Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
+3) Correr el algoritmo sobre los corpus objetivo.
+4) Evaluar el algoritmo de manera cuantitativa y cualitativa.
+
+** Alcance
+
+1) Modelos *naive*
+
+2) Corpus de acceso libre (Brown Corpus)
+
+3) Herramientas 'básicas' de NLP. (no Machine Learning)
+
+* Marco teórico y referencial
+
+** Introducción a metáfora y metonimia
+
+*** Metáfora
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+
+    \begin{figure}
+    \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
+   \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
+    \end{figure}
+
+*** Metonimia
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+
+\begin{figure}
+    \includegraphics[width=\textwidth]{./assets/arte_green.png}
+\caption{\emph{9 grados} de Denise Green}
+ \end{figure}
+
+**  Metáfora y metonimia
+*** Libro
+   :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+\begin{figure}
+    \includegraphics[width=\textwidth]{./assets/cover_two_aspects.png}
+\caption{\emph{9 grados} de Denise Green}
+ \end{figure}
+
+*** Citas
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+    
+   \tiny
+   \begin{block}{Combinación/Metonimia}
+Any linguistic sign involves two modes of arrangement:
+Any sign is made up of constituent signs and/or
+occurs only in combination with other signs. This means that any lin­
+guistic unit at one and the same time serves as a context for simpler
+units and/or finds its own context in a more complex linguistic unit.
+
+   \end{block}
+
+   \begin{block}{Selección/Metáfora}
+A selection between alternatives implies the possibility
+of substituting one for the other, equivalent in one respect and differ­
+ent in another. Actually, selection and substitution are two faces of the
+same operation.
+
+
+   \end{block}
+
+   \normal
+* Diseño Metodológico
+** Metodología
+   \begin{figure}
+    \includegraphics[width=\textwidth]{./assets/metodologia.png}
+
+ \end{figure}
+
+** Entendimiento del negocio
+
+Cada algoritmo recibe un mensaje  $m$ de entrada con:
+\begin{block}{Entrada}
+\begin{itemize}
+\item cadena de cualquier longitud
+\item sin POS
+\item sin set de entrenamiento
+\end{itemize}
+\end{block}
+ produce:
+
+\begin{block}{Salida}
+\begin{itemize}
+\item  Un valor continuo para dicho mensaje (no es categórico)
+\item  Entre más alto el valor, más fuerte es esa característica (metáfora y/o metonímia)
+\end{itemize}
+\end{block}
+
+** Usos
+   \begin{figure}
+    \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
+
+ \end{figure}
+
+
+** Usuarios
+   
+   \begin{figure}
+ \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
+ \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
+ \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia1.png}
+ \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia2.png}
+   \end{figure}
+** Ecuaciones
+** Preparación de los datos 
+** Despliegue
+
+
+* Conclusiones
+
+\bibliographystyle{ieeetr}
+\bibliography{biblio} 
+   
