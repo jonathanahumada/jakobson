@@ -1,4 +1,4 @@
-% Created 2022-05-23 lun 20:57
+% Created 2022-05-24 mar 17:26
 % Intended LaTeX compiler: pdflatex
 \documentclass[presentation]{beamer}
 \usepackage[utf8]{inputenc}
@@ -38,9 +38,9 @@
 
 
 \section{Introducción}
-\label{sec:orgb31adb4}
+\label{sec:org3238735}
 
-\begin{frame}[label={sec:org33707ab}]{¿Qué es \emph{literariedad}?}
+\begin{frame}[label={sec:org2ba9d3b}]{¿Qué es \emph{literariedad}?}
 Es una presunta \emph{característica} que distingue un texto literario de
 otro no literario.
 
@@ -54,7 +54,7 @@ Por ejemplo:
 \end{frame}
 
 
-\begin{frame}[label={sec:org4877016}]{Antecedentes: Los clásicos}
+\begin{frame}[label={sec:org1df12ee}]{Antecedentes: Los clásicos}
 En los estudios clásicos, se encuentran teorías acerca de qué constituye
 un texto 'poético' o una buena 'narración'.
 
@@ -67,7 +67,7 @@ un texto 'poético' o una buena 'narración'.
 Sin embargo, el enfoque que toman estos autores no es \alert{metódico} o \alert{sistemático}
 \end{frame}
 
-\begin{frame}[label={sec:org96637f5}]{Antecedentes: la linguística estructural}
+\begin{frame}[label={sec:org1160eec}]{Antecedentes: la linguística estructural}
 En el siglo 20, Ferdinand de Saussure fundó la linguística general
 (también llamada estructural). Se considera al fenómeno del
 lenguaje como una estructura compuesta de varios componentes
@@ -75,7 +75,7 @@ interdependientes, pero identificables.
 \end{frame}
 
 
-\begin{frame}[label={sec:orge7ea00a}]{Antecedentes: Roman Jakobson}
+\begin{frame}[label={sec:org2577ff7}]{Antecedentes: Roman Jakobson}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Roman Jakobson fue un lingüista ruso americano. Se considera una
@@ -104,26 +104,26 @@ Geneva linguist.
 
 
 
-\begin{frame}[label={sec:orgb052797}]{La pregunta}
+\begin{frame}[label={sec:org41ea3bd}]{La pregunta}
 \begin{block}{}
    ¿Cómo medir
-   computarizadamente la /literariedad/ de un texto según el marco de la
+   computarizadamente la \emph{literariedad} de un texto según el marco de la
    lingüística de Jakobson?
 \end{block}
 \end{frame}
 
 
 \section{Objetivos}
-\label{sec:org0a32bb7}
-\begin{frame}[label={sec:org9060b0d}]{General}
+\label{sec:org9a34753}
+\begin{frame}[label={sec:orgd880c7f}]{General}
    \begin{block}{General}
 
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
-   indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
+   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
      \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org1c1ad5e}]{Específicos}
+\begin{frame}[label={sec:org1f58e33}]{Específicos}
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}.
 \item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
@@ -134,7 +134,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{enumerate}
 \end{frame}
 
-\begin{frame}[label={sec:org4296a1f}]{Alcance}
+\begin{frame}[label={sec:orgf9ee5dd}]{Alcance}
 \begin{enumerate}
 \item Modelos \alert{naive}
 
@@ -144,10 +144,11 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{enumerate}
 \end{frame}
 
-\section{Marco teórico y referencial}
-\label{sec:orgc9bb129}
 
-\begin{frame}[label={sec:org1eed62d}]{Introducción a metáfora y metonimia}
+\section{Marco teórico y referencial}
+\label{sec:org32356d6}
+
+\begin{frame}[label={sec:orge2080bc}]{Introducción a metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
  \begin{figure}
@@ -165,51 +166,67 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgba5e553}]{Metáfora y metonimia}
+\begin{frame}[label={sec:org59817e0}]{Metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}
-    \includegraphics[width=\textwidth]{./assets/cover_two_aspects.png}
-\caption{\emph{9 grados} de Denise Green}
+    \includegraphics[width=0.6\textwidth]{./assets/ejemplo_metafora.png}
+\caption{Ejemplo de metáfora}
+ \end{figure}
+
+ \begin{figure}
+    \includegraphics[width=\textwidth]{./assets/ejemplo_metonimia.png}
+\caption{Ejemplo de metonimia}
  \end{figure}
 \end{column}
 
+
 \begin{column}{0.48\columnwidth}
 \tiny
+
+      \begin{block}{Selección/Metáfora}
+A selection between alternatives implies the possibility
+of substituting one for the other, equivalent in one respect and differ­
+ent in another. Actually, selection and substitution are two faces of the
+same operation. \cite[p.98]{jakobson1956two}
+
+
+   \end{block}
+
    \begin{block}{Combinación/Metonimia}
 Any linguistic sign involves two modes of arrangement:
 Any sign is made up of constituent signs and/or
 occurs only in combination with other signs. This means that any lin­
 guistic unit at one and the same time serves as a context for simpler
 units and/or finds its own context in a more complex linguistic unit.
-
+\cite[p.99]jakobson1956two}
    \end{block}
 
-   \begin{block}{Selección/Metáfora}
-A selection between alternatives implies the possibility
-of substituting one for the other, equivalent in one respect and differ­
-ent in another. Actually, selection and substitution are two faces of the
-same operation.
 
 
-   \end{block}
-
-\normal
+\normalsize
 \end{column}
 \end{columns}
 \end{frame}
-\section{Diseño Metodológico}
-\label{sec:orge20ea37}
-\begin{frame}[label={sec:org4513d13}]{Metodología}
-  \begin{figure}
-   \includegraphics[width=\textwidth]{./assets/metodologia.png}
 
-\end{figure}
+\section{Diseño Metodológico}
+\label{sec:orga19a4c2}
+\begin{frame}[label={sec:org06b6b45}]{blank :esto es necesario:}
+\begin{block}{algo}
+\end{block}
+\end{frame}
+\subsection{Diseño Metodológico}
+\label{sec:org7f2ef40}
+\begin{frame}[label={sec:orgf7f2d84}]{Diseño metodológico}
+\begin{figure}
+ \includegraphics[width=0.8\textwidth]{./assets/metodologia.png}
+ \caption{Pasos de CRISP-DM}
+ \end{figure}
 \end{frame}
 
 \subsection{Entendimiento del negocio}
-\label{sec:org416c6f1}
-\begin{frame}[label={sec:org5a4d93c}]{Entendimiento del negocio}
+\label{sec:orgb8f1332}
+\begin{frame}[label={sec:orgc05f67d}]{Entendimiento del negocio}
 Cada algoritmo recibe un mensaje  \(m\) de entrada con:
 \begin{block}{Entrada}
 \begin{itemize}
@@ -228,15 +245,14 @@ produce:
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org452700b}]{Casos de uso}
+\begin{frame}[label={sec:org8cf1f26}]{Casos de uso}
   \begin{figure}
    \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
 
 \end{figure}
 \end{frame}
 
-
-\begin{frame}[label={sec:org27aced1}]{Usuarios}
+\begin{frame}[label={sec:org157ae08}]{Usuarios}
   \begin{figure}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
@@ -246,14 +262,14 @@ produce:
 \end{frame}
 
 \subsection{Entendimiento de los datos}
-\label{sec:orgd14d084}
-\begin{frame}[label={sec:org65b1151}]{Entendimiento de los datos}
+\label{sec:org1c6085b}
+\begin{frame}[label={sec:orgdbb1f81}]{Entendimiento de los datos}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Son esencialmente 3 componentes:
 
 \begin{block}{Corpus de referencia}
-Modela el estado actual de la /lengua/.
+Modela el estado actual de la \emph{lengua}.
 Eje de sicnronía en Saussure.
 \end{block}
 
@@ -262,7 +278,7 @@ Eje de sicnronía en Saussure.
 \end{block}
 
 \begin{block}{Corpus objetivo}
- Modela el /habla/.El mensaje que será sometido a análisis.
+ Modela el \emph{habla}. El mensaje que será sometido a análisis.
 \end{block}
 \end{column}
 
@@ -271,26 +287,26 @@ Eje de sicnronía en Saussure.
 \begin{column}{0.48\columnwidth}
 \begin{figure}
 \includegraphics[width=\textwidth]{./assets/sistema-comunicacion.png}
-\caption{Tomado de \cite{alonso1945curso}}
+\caption{El circuito linguístico. Tomado de \cite{alonso1945curso}}
 \end{figure}
 
    \begin{figure}
 
    \includegraphics[width=\textwidth]{./assets/sistema-comunicacion2.png}
-\caption{Tomado de \cite{alonso1945curso}}
+\caption{El circuito linguístico (visión alterna). Tomado de \cite{alonso1945curso}}
    \end{figure}
 \end{column}
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org0f6e8d7}]{Resumen}
+\begin{frame}[label={sec:org10a9dbf}]{Resumen}
 \begin{figure}
 \includegraphics[height=\textheight]{./assets/entendimiento_de_los_datos.png}
 
 \end{figure}
 \end{frame}
 
-\begin{frame}[label={sec:org541827c}]{Corpus Brown}
+\begin{frame}[label={sec:org26dacc9}]{Corpus Brown}
 Se seleccionó porque:
 \small
 \begin{itemize}
@@ -307,17 +323,33 @@ Se seleccionó porque:
 \normalsize
 \end{frame}
 
-\begin{frame}[label={sec:org369dee0}]{Wordnet}
-\begin{block}{Definición}
-The main relation among words in WordNet is synonymy, as between the words shut and close or car and automobile.
-Synonyms--words that denote the same concept and are interchangeable in many contexts--are grouped into unordered sets (synsets).
-Each of WordNet’s 117 000 synsets is linked to other synsets by means of a small number of “conceptual relations.”
-\cite{fellbaum_1998}
+\begin{frame}[label={sec:org18cf9f0}]{Wordnet}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+    \begin{block}{Definición}
+Es una base de datos de \emph{relaciones conceptuales} entre palabras.
+\end{alertblock}
+
+
+\begin{block}{Cita}
+Wordnet's design resembles that of a thesaurus in that its building block is a synset consisting of all the
+words that express a given concepts (...) The synsets are linked by means of a number of relations,
+including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{block}
+\end{column}
+
+
+\begin{column}{0.48\columnwidth}
+\begin{figure}
+\includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
+\caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
+\end{figure}
+\end{column}
+\end{columns}
 \end{frame}
 \subsection{Preparación de los datos}
-\label{sec:org2ea26e9}
-\begin{frame}[label={sec:orge08c990}]{Preparación de los datos}
+\label{sec:orge9caf80}
+\begin{frame}[label={sec:org6e025dd}]{Preparación de los datos}
 \begin{figure}
 \includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
 \end{figure}
@@ -330,7 +362,7 @@ Each of WordNet’s 117 000 synsets is linked to other synsets by means of a sma
 \end{itemize}
 \end{block}
 \end{frame}
-\begin{frame}[label={sec:org3c5bd2f}]{Resumen}
+\begin{frame}[label={sec:orgce826fa}]{Resumen}
      \begin{table}[!ht]
     \centering
 
@@ -351,8 +383,8 @@ Each of WordNet’s 117 000 synsets is linked to other synsets by means of a sma
 \end{frame}
 
 \subsection{Modelamiento}
-\label{sec:orgca41ff8}
-\begin{frame}[label={sec:org65bed7d}]{Modelamiento}
+\label{sec:org782ae67}
+\begin{frame}[label={sec:org3662c6f}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -406,7 +438,7 @@ indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org58eb196}]{Modelamiento}
+\begin{frame}[label={sec:orgecec2ea}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -443,7 +475,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{frame}
 
 
-\begin{frame}[label={sec:org6e5c90d}]{Diseño experimental}
+\begin{frame}[label={sec:orgbe9c8a2}]{Diseño experimental}
 \begin{block}{Criterios cualitativos}
 \begin{itemize}
 \item H\textsubscript{1}: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
@@ -457,8 +489,8 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{block}
 \end{frame}
 \subsection{Despliegue}
-\label{sec:org9fca561}
-\begin{frame}[label={sec:org55934fb}]{Resultados por categorías}
+\label{sec:org444e20f}
+\begin{frame}[label={sec:org0e93e78}]{Resultados por categorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -480,7 +512,7 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org4a8b0d8}]{Resultados por metacategorías}
+\begin{frame}[label={sec:org2e0166e}]{Resultados por metacategorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -501,7 +533,9 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org8d1ce66}]{Evaluación}
+\subsection{Evaluación}
+\label{sec:org15dbaa0}
+\begin{frame}[label={sec:orgd1a569f}]{Evaluación}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
   \begin{block}{Criterios cualitativos}
@@ -542,33 +576,50 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org598fd67}]{Conclusiones}
-\begin{enumerate}
-\item Los algoritmos propuestos producen un valor cuantitativo que es
-\end{enumerate}
-capaz de 'distinguir' entre dos metacategorias: los textos de
-ficción y los de no ficción, puntuándolos más alto o más bajo
-según corresponda.
+\section{Conclusiones}
+\label{sec:orgdf031a4}
+\begin{frame}[label={sec:org83c83dd}]{Conclusiones}
+El modelo propuesto:
 
 \begin{enumerate}
-\item Un enfoque basado en frequencias como el de \emph{bag of words} parece
-ser suficiente para modelar los conceptos de \emph{metafora} y
-\emph{metonimia}.  Los resultados parecen avalar las observaciones de de
-Jakobson en torno a la relación de la metonimia con textos más
-afines al polo 'Realista' (periódicos, reportes, artículos, etc) y
-la metáfora con textos afines al polo del 'Romanticismo'
-(historias, fábulas, fantasía, etc).
-
-\item Este enfoque tiene algunas ventajas y desventajas con respecto a un
-enfoque de Machine Learning. Como ventaja, no se requiere un
-\emph{training set}. Como desventaja, el valor de los índices debe ser
-comparado entre textos según un contexto dado por el corpus de
-referencia. Esta, sin embargo, es la postura estructuralista, pues
-una apreciación literaria siempre se hace con respecto a otra.
+\item produce valores cuantitativos capaces de 'distinguir'
+significativamente entre dos metacategorias: los textos de
+ficción y los de no-ficción,
 \end{enumerate}
+\begin{enumerate}
+\item parece avalar las observaciones de Jakobson en torno a la relación
+de la metonimia con el polo 'Realista' (periódicos, reportes,
+artículos, etc) y la metáfora con el polo del 'Romanticismo'
+(historias, fábulas, fantasía, etc),
 
+\item tiene algunas ventajas y desventajas con respecto a un enfoque de
+Machine Learning. Como ventaja, no se requiere un \emph{training
+set}. Como desventaja, el valor de los índices debe ser comparado
+entre textos según un contexto dado por el corpus de referencia.
+\end{enumerate}
+\end{frame}
 
+\begin{frame}[label={sec:org0df5c2f}]{Trabajo futuro}
+\begin{block}{Mejoramiento del algoritmo}
+\begin{itemize}
+\item Utilizar Tf-idf para matizar mejor el índice metafórico.
+\item Hacer el índice metafórico sensible a los casos donde una palbra se use por debajo del promedio de uso.
+\item Hacer el cálculo de similitud del índice metonímico con sílabas o fonemas.
+\item Ofrecer la capacidad de personalizar la red semántica.
+\end{itemize}
+\end{block}
+
+\begin{block}{Mejoramiento de evaluación}
+\begin{itemize}
+\item Aumentar el número de muestras hasta agotar el Corpus de Brown.
+\item Repetir el mismo diseño experimental en el Corpus de LOB, que tiene las mismas categorías que el de Brown.
+\item Utilizar los valores de los índices dentro como una característica en un escenario de Machine Learning.
+\end{itemize}
+\end{block}
+\end{frame}
+
+\begin{frame}[label={sec:org78339f4}]{Bibliografía}
 \bibliographystyle{ieeetr}
-\bibliography{biblio} 
+\bibliography{biblio}
 \end{frame}
 \end{document}

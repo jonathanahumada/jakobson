@@ -22,7 +22,7 @@
   - Artículo periodístico  vs. cuento corto  (normal)
   - /50 sombras de Gray/ vs. /Ulysses/ (difícil)
 
-
+    
 ** Antecedentes: Los clásicos
 
    En los estudios clásicos, se encuentran teorías acerca de qué constituye
@@ -78,7 +78,7 @@
    
 \begin{block}{}
    ¿Cómo medir
-   computarizadamente la /literariedad/ de un texto según el marco de la
+   computarizadamente la \emph{literariedad} de un texto según el marco de la
    lingüística de Jakobson?
 \end{block}
 
@@ -88,7 +88,7 @@
    \begin{block}{General}
 
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
-   indicadores para el concepto de /literariedad/ que plantea Roman Jakobson.
+   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
      \end{block}
      
 ** Específicos
@@ -106,6 +106,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 2) Corpus de acceso libre (Brown Corpus)
 
 3) Herramientas 'básicas' de NLP. (no Machine Learning)
+
 
 * Marco teórico y referencial
 
@@ -137,9 +138,15 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
     :BEAMER_COL: 0.48
     :END:
 \begin{figure}
-    \includegraphics[width=\textwidth]{./assets/cover_two_aspects.png}
-\caption{\emph{9 grados} de Denise Green}
+    \includegraphics[width=0.6\textwidth]{./assets/ejemplo_metafora.png}
+\caption{Ejemplo de metáfora}
  \end{figure}
+
+ \begin{figure}
+    \includegraphics[width=\textwidth]{./assets/ejemplo_metonimia.png}
+\caption{Ejemplo de metonimia}
+ \end{figure}
+
 
 *** Citas
     :PROPERTIES:
@@ -147,31 +154,41 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
     :END:
     
    \tiny
+
+      \begin{block}{Selección/Metáfora}
+A selection between alternatives implies the possibility
+of substituting one for the other, equivalent in one respect and differ­
+ent in another. Actually, selection and substitution are two faces of the
+same operation. \cite[p.98]{jakobson1956two}
+
+
+   \end{block}
+   
    \begin{block}{Combinación/Metonimia}
 Any linguistic sign involves two modes of arrangement:
 Any sign is made up of constituent signs and/or
 occurs only in combination with other signs. This means that any lin­
 guistic unit at one and the same time serves as a context for simpler
 units and/or finds its own context in a more complex linguistic unit.
-
+\cite[p.99]jakobson1956two}
    \end{block}
 
-   \begin{block}{Selección/Metáfora}
-A selection between alternatives implies the possibility
-of substituting one for the other, equivalent in one respect and differ­
-ent in another. Actually, selection and substitution are two faces of the
-same operation.
 
 
-   \end{block}
+   \normalsize
 
-   \normal
 * Diseño Metodológico
-** Metodología
+** blank :esto es necesario:
+*** algo
+** Diseño Metodológico
+*** Diseño metodológico
+    :PROPERTIES:
+    :BEAMER_env: frame
+    :END:
    \begin{figure}
-    \includegraphics[width=\textwidth]{./assets/metodologia.png}
-
- \end{figure}
+    \includegraphics[width=0.8\textwidth]{./assets/metodologia.png}
+    \caption{Pasos de CRISP-DM}
+    \end{figure}
 
 ** Entendimiento del negocio
 *** Entendimiento del negocio
@@ -205,7 +222,6 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
 
  \end{figure}
 
-
 *** Usuarios
     :PROPERTIES:
     :BEAMER_env: frame
@@ -232,7 +248,7 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
    Son esencialmente 3 componentes:
 
    \begin{block}{Corpus de referencia}
-   Modela el estado actual de la /lengua/.
+   Modela el estado actual de la \emph{lengua}.
    Eje de sicnronía en Saussure.
    \end{block}
 
@@ -241,7 +257,7 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
    \end{block}
 
    \begin{block}{Corpus objetivo}
-    Modela el /habla/.El mensaje que será sometido a análisis.
+    Modela el \emph{habla}. El mensaje que será sometido a análisis.
    \end{block}
   
    
@@ -252,13 +268,13 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
     :END:
     \begin{figure}
     \includegraphics[width=\textwidth]{./assets/sistema-comunicacion.png}
-    \caption{Tomado de \cite{alonso1945curso}}
+    \caption{El circuito linguístico. Tomado de \cite{alonso1945curso}}
     \end{figure}
 
     \begin{figure}
  
     \includegraphics[width=\textwidth]{./assets/sistema-comunicacion2.png}
- \caption{Tomado de \cite{alonso1945curso}}
+ \caption{El circuito linguístico (visión alterna). Tomado de \cite{alonso1945curso}}
     \end{figure}
 
 *** Resumen :B:
@@ -297,13 +313,32 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
     :BEAMER_env: frame
     :END:
 
+**** texto
+    :PROPERTIES:
+    :BEAMER_col: 0.48
+    :END:
 
-    \begin{block}{Definición}
-    The main relation among words in WordNet is synonymy, as between the words shut and close or car and automobile.
-    Synonyms--words that denote the same concept and are interchangeable in many contexts--are grouped into unordered sets (synsets).
-    Each of WordNet’s 117 000 synsets is linked to other synsets by means of a small number of “conceptual relations.”
-    \cite{fellbaum_1998}
+        \begin{block}{Definición}
+    Es una base de datos de \emph{relaciones conceptuales} entre palabras.
+    \end{alertblock}
+
+
+    \begin{block}{Cita}
+    Wordnet's design resembles that of a thesaurus in that its building block is a synset consisting of all the
+    words that express a given concepts (...) The synsets are linked by means of a number of relations,
+    including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
     \end{block}
+
+
+**** gráfica
+         :PROPERTIES:
+    :BEAMER_col: 0.48
+    :END:
+     
+    \begin{figure}
+    \includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
+    \caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
+    \end{figure}
 ** Preparación de los datos
 *** Preparación de los datos
     :PROPERTIES:
@@ -515,6 +550,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 ** Evaluación
+*** Evaluación
        :PROPERTIES:
     :BEAMER_env: frame
     :END:
@@ -559,29 +595,45 @@ indice\ metonimia = \Sigma_i^j met(n_i)
   \end{table}
  \end{block}
 
-** Conclusiones
+* Conclusiones
+*** Conclusiones 
+    :PROPERTIES:
+    :BEAMER_env: frame
+    :END:
+    El modelo propuesto:
+  
+   1) produce valores cuantitativos capaces de 'distinguir'
+      significativamente entre dos metacategorias: los textos de
+      ficción y los de no-ficción,
 
-   1) Los algoritmos propuestos producen un valor cuantitativo que es
-   capaz de 'distinguir' entre dos metacategorias: los textos de
-   ficción y los de no ficción, puntuándolos más alto o más bajo
-   según corresponda.
+2) parece avalar las observaciones de Jakobson en torno a la relación
+   de la metonimia con el polo 'Realista' (periódicos, reportes,
+   artículos, etc) y la metáfora con el polo del 'Romanticismo'
+   (historias, fábulas, fantasía, etc),
 
-2) Un enfoque basado en frequencias como el de /bag of words/ parece
-   ser suficiente para modelar los conceptos de /metafora/ y
-   /metonimia/.  Los resultados parecen avalar las observaciones de de
-   Jakobson en torno a la relación de la metonimia con textos más
-   afines al polo 'Realista' (periódicos, reportes, artículos, etc) y
-   la metáfora con textos afines al polo del 'Romanticismo'
-   (historias, fábulas, fantasía, etc).
+3) tiene algunas ventajas y desventajas con respecto a un enfoque de
+   Machine Learning. Como ventaja, no se requiere un /training
+   set/. Como desventaja, el valor de los índices debe ser comparado
+   entre textos según un contexto dado por el corpus de referencia.
 
-3) Este enfoque tiene algunas ventajas y desventajas con respecto a un
-   enfoque de Machine Learning. Como ventaja, no se requiere un
-   /training set/. Como desventaja, el valor de los índices debe ser
-   comparado entre textos según un contexto dado por el corpus de
-   referencia. Esta, sin embargo, es la postura estructuralista, pues
-   una apreciación literaria siempre se hace con respecto a otra.
-   
+*** Trabajo futuro
+    :PROPERTIES:
+    :BEAMER_env: frame
+    :END:
+    
+**** Mejoramiento del algoritmo
+     
+-  Utilizar Tf-idf para matizar mejor el índice metafórico.
+-  Hacer el índice metafórico sensible a los casos donde una palbra se use por debajo del promedio de uso.
+-  Hacer el cálculo de similitud del índice metonímico con sílabas o fonemas.
+-  Ofrecer la capacidad de personalizar la red semántica.
 
+**** Mejoramiento de evaluación
+- Aumentar el número de muestras hasta agotar el Corpus de Brown.
+- Repetir el mismo diseño experimental en el Corpus de LOB, que tiene las mismas categorías que el de Brown.
+- Utilizar los valores de los índices dentro como una característica en un escenario de Machine Learning. 
+
+** Bibliografía
 \bibliographystyle{ieeetr}
-\bibliography{biblio} 
+\bibliography{biblio}
    
