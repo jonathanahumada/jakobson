@@ -1,4 +1,4 @@
-% Created 2022-05-21 sáb 15:30
+% Created 2022-05-23 lun 20:57
 % Intended LaTeX compiler: pdflatex
 \documentclass[presentation]{beamer}
 \usepackage[utf8]{inputenc}
@@ -15,6 +15,7 @@
 \usepackage{capt-of}
 \usepackage{hyperref}
 \logo{\includegraphics[height=0.5cm]{./assets/lOGO-HORIZONTAL-KONRAD-COLOR.jpg}}
+\usepackage[spanish]{babel}
 \usetheme[height=20pt]{Rochester}
 \author{Jonatan Ahumada}
 \date{\today}
@@ -37,9 +38,9 @@
 
 
 \section{Introducción}
-\label{sec:orge383d3e}
+\label{sec:orgb31adb4}
 
-\begin{frame}[label={sec:org2c35e8a}]{¿Qué es \emph{literariedad}?}
+\begin{frame}[label={sec:org33707ab}]{¿Qué es \emph{literariedad}?}
 Es una presunta \emph{característica} que distingue un texto literario de
 otro no literario.
 
@@ -53,7 +54,7 @@ Por ejemplo:
 \end{frame}
 
 
-\begin{frame}[label={sec:org1abb8a0}]{Antecedentes: Los clásicos}
+\begin{frame}[label={sec:org4877016}]{Antecedentes: Los clásicos}
 En los estudios clásicos, se encuentran teorías acerca de qué constituye
 un texto 'poético' o una buena 'narración'.
 
@@ -66,7 +67,7 @@ un texto 'poético' o una buena 'narración'.
 Sin embargo, el enfoque que toman estos autores no es \alert{metódico} o \alert{sistemático}
 \end{frame}
 
-\begin{frame}[label={sec:orga721ddf}]{Antecedentes: la linguística estructural}
+\begin{frame}[label={sec:org96637f5}]{Antecedentes: la linguística estructural}
 En el siglo 20, Ferdinand de Saussure fundó la linguística general
 (también llamada estructural). Se considera al fenómeno del
 lenguaje como una estructura compuesta de varios componentes
@@ -74,7 +75,7 @@ interdependientes, pero identificables.
 \end{frame}
 
 
-\begin{frame}[label={sec:org1d6e7f7}]{Antecedentes: Roman Jakobson}
+\begin{frame}[label={sec:orge7ea00a}]{Antecedentes: Roman Jakobson}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Roman Jakobson fue un lingüista ruso americano. Se considera una
@@ -103,7 +104,7 @@ Geneva linguist.
 
 
 
-\begin{frame}[label={sec:orgd2898be}]{La pregunta}
+\begin{frame}[label={sec:orgb052797}]{La pregunta}
 \begin{block}{}
    ¿Cómo medir
    computarizadamente la /literariedad/ de un texto según el marco de la
@@ -113,8 +114,8 @@ Geneva linguist.
 
 
 \section{Objetivos}
-\label{sec:org20eba3d}
-\begin{frame}[label={sec:org1916615}]{General}
+\label{sec:org0a32bb7}
+\begin{frame}[label={sec:org9060b0d}]{General}
    \begin{block}{General}
 
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
@@ -122,7 +123,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
      \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org89d5253}]{Específicos}
+\begin{frame}[label={sec:org1c1ad5e}]{Específicos}
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}.
 \item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
@@ -133,7 +134,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{enumerate}
 \end{frame}
 
-\begin{frame}[label={sec:org70c29be}]{Alcance}
+\begin{frame}[label={sec:org4296a1f}]{Alcance}
 \begin{enumerate}
 \item Modelos \alert{naive}
 
@@ -144,9 +145,9 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{frame}
 
 \section{Marco teórico y referencial}
-\label{sec:org12cebd7}
+\label{sec:orgc9bb129}
 
-\begin{frame}[label={sec:org66050c6}]{Introducción a metáfora y metonimia}
+\begin{frame}[label={sec:org1eed62d}]{Introducción a metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
  \begin{figure}
@@ -164,7 +165,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org4f06d5c}]{Metáfora y metonimia}
+\begin{frame}[label={sec:orgba5e553}]{Metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}
@@ -198,15 +199,17 @@ same operation.
 \end{columns}
 \end{frame}
 \section{Diseño Metodológico}
-\label{sec:orge7f1839}
-\begin{frame}[label={sec:org7a72104}]{Metodología}
+\label{sec:orge20ea37}
+\begin{frame}[label={sec:org4513d13}]{Metodología}
   \begin{figure}
    \includegraphics[width=\textwidth]{./assets/metodologia.png}
 
 \end{figure}
 \end{frame}
 
-\begin{frame}[label={sec:orga7a4ca7}]{Entendimiento del negocio}
+\subsection{Entendimiento del negocio}
+\label{sec:org416c6f1}
+\begin{frame}[label={sec:org5a4d93c}]{Entendimiento del negocio}
 Cada algoritmo recibe un mensaje  \(m\) de entrada con:
 \begin{block}{Entrada}
 \begin{itemize}
@@ -225,7 +228,7 @@ produce:
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:orgd5b44b6}]{Usos}
+\begin{frame}[label={sec:org452700b}]{Casos de uso}
   \begin{figure}
    \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
 
@@ -233,7 +236,7 @@ produce:
 \end{frame}
 
 
-\begin{frame}[label={sec:org215656d}]{Usuarios}
+\begin{frame}[label={sec:org27aced1}]{Usuarios}
   \begin{figure}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
@@ -241,17 +244,331 @@ produce:
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia2.png}
   \end{figure}
 \end{frame}
-\begin{frame}[label={sec:orga8c96b0}]{Ecuaciones}
+
+\subsection{Entendimiento de los datos}
+\label{sec:orgd14d084}
+\begin{frame}[label={sec:org65b1151}]{Entendimiento de los datos}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+Son esencialmente 3 componentes:
+
+\begin{block}{Corpus de referencia}
+Modela el estado actual de la /lengua/.
+Eje de sicnronía en Saussure.
+\end{block}
+
+\begin{block}{Red semántica}
+ Modela el lenguaje: la capacidad de asociar ideas con símbolos.
+\end{block}
+
+\begin{block}{Corpus objetivo}
+ Modela el /habla/.El mensaje que será sometido a análisis.
+\end{block}
+\end{column}
+
+
+
+\begin{column}{0.48\columnwidth}
+\begin{figure}
+\includegraphics[width=\textwidth]{./assets/sistema-comunicacion.png}
+\caption{Tomado de \cite{alonso1945curso}}
+\end{figure}
+
+   \begin{figure}
+
+   \includegraphics[width=\textwidth]{./assets/sistema-comunicacion2.png}
+\caption{Tomado de \cite{alonso1945curso}}
+   \end{figure}
+\end{column}
+\end{columns}
 \end{frame}
-\begin{frame}[label={sec:org40e151a}]{Preparación de los datos}
+
+\begin{frame}[label={sec:org0f6e8d7}]{Resumen}
+\begin{figure}
+\includegraphics[height=\textheight]{./assets/entendimiento_de_los_datos.png}
+
+\end{figure}
 \end{frame}
-\begin{frame}[label={sec:org136279d}]{Despliegue}
+
+\begin{frame}[label={sec:org541827c}]{Corpus Brown}
+Se seleccionó porque:
+\small
+\begin{itemize}
+\item todas las muestras del corpus pertenecen al año 1961,
+\item todas las muestras del corpus se imprimieron en Estados Unidos durante ese año,
+\item todos los autores son hablantes nativos de inglés,
+\item la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown,
+\item la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año,
+\item tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías,
+\item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
+\item el número de textos por categoría guarda la relación entre los textos publicados de esa categoría durante ese año y
+\item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
+\end{itemize}
+\normalsize
+\end{frame}
+
+\begin{frame}[label={sec:org369dee0}]{Wordnet}
+\begin{block}{Definición}
+The main relation among words in WordNet is synonymy, as between the words shut and close or car and automobile.
+Synonyms--words that denote the same concept and are interchangeable in many contexts--are grouped into unordered sets (synsets).
+Each of WordNet’s 117 000 synsets is linked to other synsets by means of a small number of “conceptual relations.”
+\cite{fellbaum_1998}
+\end{block}
+\end{frame}
+\subsection{Preparación de los datos}
+\label{sec:org2ea26e9}
+\begin{frame}[label={sec:orge08c990}]{Preparación de los datos}
+\begin{figure}
+\includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
+\end{figure}
+
+\begin{block}{¿En qué consistió la preparación?}
+\begin{itemize}
+\item Conformar el corpus de referencia
+\item Conformar los corpus objetivo
+\item Controlar la mayor cantidad de variables
+\end{itemize}
+\end{block}
+\end{frame}
+\begin{frame}[label={sec:org3c5bd2f}]{Resumen}
+     \begin{table}[!ht]
+    \centering
+
+    \begin{tabular}{|c|c|}
+    \hline
+      Atributo & Cantidad \\ \hline
+      Textos en corpus de referencia & 60 \\ \hline
+      Categorías en corpus de referencia  & 13 \\ \hline
+     Textos en corpus objetivo & 70 \\ \hline
+     Textos en muestra de corpus objetivo & 14 \\ \hline
+     Muestras de corpus objetivo & 5 \\ \hline
+     Categorías por muestra & 14  \\ \hline
+     Total de textos usados & 130  \\ \hline
+    \end{tabular}
+\caption{Resumen de datos utilizados}
+\label{tab:resumen_preparacion}
+\end{table}
+\end{frame}
+
+\subsection{Modelamiento}
+\label{sec:orgca41ff8}
+\begin{frame}[label={sec:org65bed7d}]{Modelamiento}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+\tiny
+    \begin{block}{Metáfora}
+\begin{equation}
+\label{eq:mensaje}
+mensaje = \{ w_1, w_2, w_3, \dots , w_j \}
+\end{equation}
+
+\begin{equation}
+\label{eq:vector_semantico}
+vector\ semantico(w) = \{s_1, s_2, s_3, \dots, s_j \} 
+\end{equation}
+
+\begin{equation}
+\label{eq:vector_uso}
+vector\ uso(w) = \{freq_{ref}(s_1),freq_{ref}(s_2),freq_{ref}(s_3), \dots, freq_{ref}(s_j) \} 
+\end{equation}
+
+\begin{equation}
+\label{eq:promedio}
+\mu = \frac{\Sigma_i^jfreq_{referencia}(s_i)}{j}
+\end{equation}
+
+
+\begin{equation}
+\label{eq:uso}
+uso(w) = \frac{freq_{objetivo}(w)}{\mu}
+\end{equation}
+
+
+\begin{equation}
+\label{eq:indice_metafórico}
+indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
+\end{equation}
+\end{block}
+\normalsize
+\end{column}
+\begin{column}{0.48\columnwidth}
+     \begin{figure}
+\includegraphics[width=\textwidth]{./assets/codigo_vector_semantico.png}
+\caption{Ejemplo de implementación}
+\end{figure}
+
+   \begin{figure}
+
+   \includegraphics[width=\textwidth]{./assets/codigo_vector_uso.png}
+\caption{Ejemplo de implementación}
+   \end{figure}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}[label={sec:org58eb196}]{Modelamiento}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+\tiny
+\begin{block}{Metonimia}
+\begin{equation}
+\label{eq:ngramas}
+N = \{n_1, n_2, n_3, \dots , n_j\}
+\end{equation}
+
+\begin{equation}
+\label{eq:metonimia}
+met(n_i) = \frac{letras\ iguales}{ set(letras(n_i1) + letras(n_i2))}
+\end{equation}
+
+\begin{equation}\label{eq:indice_metonimia}
+indice\ metonimia = \Sigma_i^j met(n_i)
+\end{equation}
+\end{block}
+\normalsize
+\end{column}
+\begin{column}{0.48\columnwidth}
+\begin{figure}
+\includegraphics[width=\textwidth]{./assets/codigo_metonimia.png}
+\caption{Ejemplo de implementación}
+\end{figure}
+
+\begin{figure}
+
+\includegraphics[width=\textwidth]{./assets/metonimia.jpg}
+\caption{Concepto de metonimia}
+\end{figure}
+\end{column}
+\end{columns}
 \end{frame}
 
 
-\section{Conclusiones}
-\label{sec:org9321eac}
+\begin{frame}[label={sec:org6e5c90d}]{Diseño experimental}
+\begin{block}{Criterios cualitativos}
+\begin{itemize}
+\item H\textsubscript{1}: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
+\item H\textsubscript{2}: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestras.
+\item H\textsubscript{3}: Se espera que la categoría 'Belles Lettres' tenga un indíce metafórico más alta entre las categorías de no-ficción.
+\item H\textsubscript{4}: Se espera que la categoria 'Learned' tenga un indice metonímico bajo en general.
+\end{itemize}
+\end{block}
+\begin{block}{Criterios cuantitativos}
+Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
+\end{block}
+\end{frame}
+\subsection{Despliegue}
+\label{sec:org9fca561}
+\begin{frame}[label={sec:org55934fb}]{Resultados por categorías}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+\begin{figure}[H]
+\centering
+\includegraphics[width=\linewidth]{./resultados/graphs/total/accum_cat_metafora.png}
+
+\caption{Metáfora través de las muestras }
+\end{figure}
+\end{column}
+
+\begin{column}{0.48\columnwidth}
+\begin{figure}[H]
+\includegraphics[width=\linewidth]{./resultados/graphs/total/accum_cat_metonimia.png}
+\caption{Metonimia través de las muestras }
+\centering
+
+\end{figure}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}[label={sec:org4a8b0d8}]{Resultados por metacategorías}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metafora_total.png}
+\caption{\label{fig:metafora_total} Índice metafórico por metacategorías a través de muestras }
+\end{figure}
+\end{column}
+
+
+\begin{column}{0.48\columnwidth}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\linewidth]{./resultados/graphs/total/metonimia_total.png}
+\caption{\label{fig:metonimia_total} Índice metonímico por metacategoria a través de muestras }
+\end{figure}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}[label={sec:org8d1ce66}]{Evaluación}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+  \begin{block}{Criterios cualitativos}
+  \begin{table}[H]
+  
+
+      \begin{tabular}{|l|l|l}
+      \hline
+	 Criterio     &  Evaluación \\ \hline
+         H_{1}  & Cumplió  \\
+         H_{2}  & Cumplió\\
+        H_{3}  & No cumplió \\
+        H_{4}  & Cumplió\\
+\hline
+      \end{tabular}
+
+  \end{table}
+  \end{block}
+\end{column}
+
+\begin{column}{0.48\columnwidth}
+\begin{block}{Criterios cuantitativos}
+ \begin{table}[H]
+
+
+     \begin{tabular}{|l|l|l|}
+     \hline
+	Indicador     &  F & p-value \\ \hline
+        Metafora  & 51.41 & 9.81^{-10}  \\
+        Metonimia  & 4.32 & 0.04 \\
+        \hline
+
+     \end{tabular}
+
+ \end{table}
+\end{block}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}[label={sec:org598fd67}]{Conclusiones}
+\begin{enumerate}
+\item Los algoritmos propuestos producen un valor cuantitativo que es
+\end{enumerate}
+capaz de 'distinguir' entre dos metacategorias: los textos de
+ficción y los de no ficción, puntuándolos más alto o más bajo
+según corresponda.
+
+\begin{enumerate}
+\item Un enfoque basado en frequencias como el de \emph{bag of words} parece
+ser suficiente para modelar los conceptos de \emph{metafora} y
+\emph{metonimia}.  Los resultados parecen avalar las observaciones de de
+Jakobson en torno a la relación de la metonimia con textos más
+afines al polo 'Realista' (periódicos, reportes, artículos, etc) y
+la metáfora con textos afines al polo del 'Romanticismo'
+(historias, fábulas, fantasía, etc).
+
+\item Este enfoque tiene algunas ventajas y desventajas con respecto a un
+enfoque de Machine Learning. Como ventaja, no se requiere un
+\emph{training set}. Como desventaja, el valor de los índices debe ser
+comparado entre textos según un contexto dado por el corpus de
+referencia. Esta, sin embargo, es la postura estructuralista, pues
+una apreciación literaria siempre se hace con respecto a otra.
+\end{enumerate}
+
 
 \bibliographystyle{ieeetr}
 \bibliography{biblio} 
+\end{frame}
 \end{document}

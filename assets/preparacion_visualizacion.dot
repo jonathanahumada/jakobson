@@ -1,0 +1,45 @@
+digraph G {
+    referencia [ shape=record label="{
+    {a|b|c|d|e|f|g|h|j|k|l|m|n|p}|
+    {a|b|c|d|e|f|g|h|j|k|l|m|n|p}|
+    {a|b|c|d|e|f|g|h|j|k|l|m|n|p}|
+    {a|b|c|d|e|f|g|h|j|k|l|m|n|p}|
+    {a|b|c|d|e|f|g|h|j|k|l|m|n|p}|
+    {corpus de referencia}}" ]
+subgraph cluster_preparacion{
+    label="Preparación de los datos"
+
+subgraph cluster_objetivo{
+    label="corpus objetivo"
+    muestra1[ shape=record label="{{a|b|c|d|e|f|g|h|j|k|l|m|n|p}|{muestra 1}}" ]
+    muestra2[ shape=record label="{{a|b|c|d|e|f|g|h|j|k|l|m|n|p}|{muestra 2}}" ]
+    muestra3[ shape=record label="{{a|b|c|d|e|f|g|h|j|k|l|m|n|p}|{muestra 3}}" ]
+    muestra4[ shape=record label="{{a|b|c|d|e|f|g|h|j|k|l|m|n|p}|{muestra 4}}" ]
+    muestra5[ shape=record label="{{a|b|c|d|e|f|g|h|j|k|l|m|n|p}|{muestra 5}}" ]
+}
+  
+{    
+    edge [label="analizado según"]
+    muestra1 -> referencia
+    muestra2 -> referencia
+        muestra3 -> referencia
+    muestra4 -> referencia
+        muestra5 -> referencia
+}
+}
+ res1 [shape=record label="{{metáfora|metonimia}| muestra 1}"]
+ res2 [shape=record label="{{metáfora|metonimia}| muestra 2}"]
+ res3 [shape=record label="{{metáfora|metonimia}| muestra 3}"]
+ res4 [shape=record label="{{metáfora|metonimia}| muestra 4}"]
+ res5 [shape=record label="{{metáfora|metonimia}| muestra 5}"]
+ 
+
+{
+     edge [label="produce"]
+ referencia -> res1
+ referencia -> res2
+ referencia -> res3
+ referencia -> res4
+ referencia -> res5
+ }
+}

@@ -1,0 +1,36 @@
+digraph G {
+
+  subgraph cluster_0 {
+    style=filled;
+    color=lightgrey;
+    node [style=filled,color=white];
+    1 [label="Entendimiento del negocio"]
+    2 [label="Entendimiento de los datos"]
+    3 [label="Preparación de los datos"]
+    4 [label="Modelamiento"]
+    5 [label="Evaluación"]
+    6 [label="Despliegue"]
+    1 -> 2 -> 3 -> 4 -> 5 -> 6 ;
+    label = "Pasos";
+  }
+
+  subgraph cluster_1 {
+          style=filled;
+    color=lightgrey;
+       node [style=filled,color=white]
+
+    label = "Preguntas";
+  
+    _1 [label="¿Qué necesita el negocio?"]
+    _2 [label="¿Qué datos tenemos/necesitamos?"]
+    _3 [label="¿Cómo organizamos los datos para modelar?"]
+    _4 [label="¿Qué técnicas de modelamiento deberíamos aplicar?"]
+    _5 [label="¿El modelo cumple con los objetivos del negocio?"]
+    _6 [label="¿Cómo acceden los interesados a los datos?"]
+    
+    _1 -> _2 -> _3 -> _4 -> _5 -> _6
+  }
+  
+
+
+}
