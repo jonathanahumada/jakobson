@@ -66,7 +66,7 @@
     varieties of combination-concurrence and concatenation-it was only
     the latter, the temporal sequence, which was recognized by the
     Geneva linguist. 
-    \cite[99]{jakobson1956two}
+    \cite[p. 99]{jakobson1956two}
     #+end_quote
 
 
@@ -118,8 +118,9 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
     :END:
 
     \begin{figure}
-    \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
    \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
+ \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
+   
     \end{figure}
 
 *** Metonimia
@@ -146,7 +147,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
     \includegraphics[width=\textwidth]{./assets/ejemplo_metonimia.png}
 \caption{Ejemplo de metonimia}
  \end{figure}
-
+ 
 
 *** Citas
     :PROPERTIES:
@@ -165,12 +166,11 @@ same operation. \cite[p.98]{jakobson1956two}
    \end{block}
    
    \begin{block}{Combinación/Metonimia}
-Any linguistic sign involves two modes of arrangement:
-Any sign is made up of constituent signs and/or
+Any linguistic sign involves two modes of arrangement: Any sign is made up of constituent signs and/or
 occurs only in combination with other signs. This means that any lin­
 guistic unit at one and the same time serves as a context for simpler
 units and/or finds its own context in a more complex linguistic unit.
-\cite[p.99]jakobson1956two}
+\cite[p.99]{jakobson1956two}
    \end{block}
 
 
@@ -178,23 +178,18 @@ units and/or finds its own context in a more complex linguistic unit.
    \normalsize
 
 * Diseño Metodológico
-** blank :esto es necesario:
-*** algo
-** Diseño Metodológico
-*** Diseño metodológico
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+
+** CRISP-DM
+
    \begin{figure}
+   \caption{Pasos de CRISP-DM}
     \includegraphics[width=0.8\textwidth]{./assets/metodologia.png}
-    \caption{Pasos de CRISP-DM}
+    
     \end{figure}
 
+* Entendimiento del negocio
 ** Entendimiento del negocio
-*** Entendimiento del negocio
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+   
 Cada algoritmo recibe un mensaje  $m$ de entrada con:
 \begin{block}{Entrada}
 \begin{itemize}
@@ -212,20 +207,16 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
 \end{itemize}
 \end{block}
 
-*** Casos de uso
-   :PROPERTIES:
-   :BEAMER_env: frame
-   :END:
+** Casos de uso
+
     
    \begin{figure}
     \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
 
  \end{figure}
 
-*** Usuarios
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Usuarios
+ 
    
    \begin{figure}
  \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
@@ -234,13 +225,11 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
  \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia2.png}
    \end{figure}
 
-** Entendimiento de los datos
-*** Entendimiento de los datos :A: 
-   :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+* Entendimiento de los datos
+** Entendimiento de los datos                                             :A: 
+  
 
-**** texto
+*** texto
    :PROPERTIES:
    :BEAMER_COL: 0.48
    :END:
@@ -262,7 +251,7 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
   
    
 
-**** graficos
+*** graficos
     :PROPERTIES:
     :BEAMER_COL: 0.48
     :END:
@@ -277,10 +266,8 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
  \caption{El circuito linguístico (visión alterna). Tomado de \cite{alonso1945curso}}
     \end{figure}
 
-*** Resumen :B:
-       :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Resumen                                                                :B:
+
 
  
     \begin{figure}
@@ -288,10 +275,8 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
 
     \end{figure}
 
-*** Corpus Brown :C:
-          :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Corpus Brown                                                           :C:
+
 
      Se seleccionó porque:
      \small
@@ -308,19 +293,17 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
      \end{itemize}
      \normalsize
 
-*** Wordnet :D:
-          :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Wordnet                                                                :D:
 
-**** texto
+
+*** texto
     :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
 
         \begin{block}{Definición}
     Es una base de datos de \emph{relaciones conceptuales} entre palabras.
-    \end{alertblock}
+    \end{block}
 
 
     \begin{block}{Cita}
@@ -330,7 +313,7 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
     \end{block}
 
 
-**** gráfica
+*** gráfica
          :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -339,11 +322,9 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
     \includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
     \caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
     \end{figure}
+* Preparación de los datos
 ** Preparación de los datos
-*** Preparación de los datos
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+ 
  \begin{figure}
  \includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
  \end{figure}
@@ -355,10 +336,8 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
   \item Controlar la mayor cantidad de variables
   \end{itemize}
   \end{block}
-*** Resumen
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Resumen
+
     
        \begin{table}[!ht]
       \centering
@@ -378,12 +357,10 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
   \label{tab:resumen_preparacion}
   \end{table}
 
-** Modelamiento
-*** Modelamiento                                                          :A: 
-   :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
-**** Metáfora   :texto:
+* Modelamiento
+** Modelamiento                                                           :A: 
+  
+*** Metáfora                                                          :texto:
     :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -421,9 +398,10 @@ uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \label{eq:indice_metafórico}
 indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
+
 \end{block}
 \normalsize
-**** Ejemplo :ejemplo:
+*** Ejemplo                                                         :ejemplo:
      :PROPERTIES:
      :BEAMER_col: 0.48
      :END:
@@ -439,12 +417,11 @@ indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
  \caption{Ejemplo de implementación}
     \end{figure}
 
-*** Modelamiento   :B:
-       :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
 
-**** Texto :texto:
+** Modelamiento                                                           :B:
+
+
+*** Texto                                                             :texto:
         :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -465,7 +442,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{equation}
 \end{block}
 \normalsize
-****  Ejemplo :ejemplo:
+***  Ejemplo                                                        :ejemplo:
     :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -481,25 +458,20 @@ indice\ metonimia = \Sigma_i^j met(n_i)
     \caption{Concepto de metonimia}
     \end{figure}
 
-    
-*** Diseño experimental                                                   :C:
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
-**** Criterios cualitativos
+** Diseño experimental                                                    :C:
+
+*** Criterios cualitativos
    - H_1: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
    - H_2: Se espera que las categorias 'Reportage' y 'Editorial' tengan índices metafóricos similares a través de las muestras.
    - H_3: Se espera que la categoría 'Belles Lettres' tenga un indíce metafórico más alta entre las categorías de no-ficción.
    - H_4: Se espera que la categoria 'Learned' tenga un indice metonímico bajo en general.
-**** Criterios cuantitativos
+*** Criterios cuantitativos
      Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
-** Despliegue
-*** Resultados por categorías
-  :PROPERTIES:
-  :BEAMER_env: frame
-  :END:
+* Despliegue
+** Resultados por categorías
 
-**** Metafora
+
+*** Metafora
      :PROPERTIES:
      :BEAMER_col: 0.48
      :END:
@@ -510,7 +482,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \caption{Metáfora través de las muestras }
 \end{figure}
 
-**** Metonimia
+*** Metonimia
      :PROPERTIES:
      :BEAMER_col: 0.48
      :END:
@@ -522,11 +494,9 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
 \end{figure}
 
-*** Resultados por metacategorías
- :PROPERTIES:
-  :BEAMER_env: frame
-  :END:
-**** Metafora
+** Resultados por metacategorías
+ 
+*** Metafora
      :PROPERTIES:
      :BEAMER_col: 0.48
      :END:
@@ -538,7 +508,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 
-**** Metonimia
+*** Metonimia
      :PROPERTIES:
      :BEAMER_col: 0.48
      :END:
@@ -549,12 +519,10 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \caption{\label{fig:metonimia_total} Índice metonímico por metacategoria a través de muestras }
 \end{figure}
 
+* Evaluación
 ** Evaluación
-*** Evaluación
-       :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
-**** Criterios cualitativos
+ 
+*** Criterios cualitativos
      :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -575,7 +543,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
   \end{table}
   \end{block}
 
-**** Criterios cuantitativos
+*** Criterios cuantitativos
      :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -616,19 +584,17 @@ indice\ metonimia = \Sigma_i^j met(n_i)
    set/. Como desventaja, el valor de los índices debe ser comparado
    entre textos según un contexto dado por el corpus de referencia.
 
-*** Trabajo futuro
-    :PROPERTIES:
-    :BEAMER_env: frame
-    :END:
+** Trabajo futuro
+
     
-**** Mejoramiento del algoritmo
+*** Mejoramiento del algoritmo
      
 -  Utilizar Tf-idf para matizar mejor el índice metafórico.
 -  Hacer el índice metafórico sensible a los casos donde una palbra se use por debajo del promedio de uso.
 -  Hacer el cálculo de similitud del índice metonímico con sílabas o fonemas.
 -  Ofrecer la capacidad de personalizar la red semántica.
 
-**** Mejoramiento de evaluación
+*** Mejoramiento de evaluación
 - Aumentar el número de muestras hasta agotar el Corpus de Brown.
 - Repetir el mismo diseño experimental en el Corpus de LOB, que tiene las mismas categorías que el de Brown.
 - Utilizar los valores de los índices dentro como una característica en un escenario de Machine Learning. 

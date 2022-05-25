@@ -1,4 +1,4 @@
-% Created 2022-05-24 mar 17:24
+% Created 2022-05-24 mar 18:26
 % Intended LaTeX compiler: pdflatex
 \documentclass[presentation]{beamer}
 \usepackage[utf8]{inputenc}
@@ -38,9 +38,9 @@
 
 
 \section{Introducción}
-\label{sec:orga3a8ad2}
+\label{sec:org1a1a8ca}
 
-\begin{frame}[label={sec:orgacd70d9}]{¿Qué es \emph{literariedad}?}
+\begin{frame}[label={sec:org83802b1}]{¿Qué es \emph{literariedad}?}
 Es una presunta \emph{característica} que distingue un texto literario de
 otro no literario.
 
@@ -54,7 +54,7 @@ Por ejemplo:
 \end{frame}
 
 
-\begin{frame}[label={sec:org6a04e7f}]{Antecedentes: Los clásicos}
+\begin{frame}[label={sec:orgfbcfc68}]{Antecedentes: Los clásicos}
 En los estudios clásicos, se encuentran teorías acerca de qué constituye
 un texto 'poético' o una buena 'narración'.
 
@@ -67,7 +67,7 @@ un texto 'poético' o una buena 'narración'.
 Sin embargo, el enfoque que toman estos autores no es \alert{metódico} o \alert{sistemático}
 \end{frame}
 
-\begin{frame}[label={sec:orgca8d4c6}]{Antecedentes: la linguística estructural}
+\begin{frame}[label={sec:orga905de9}]{Antecedentes: la linguística estructural}
 En el siglo 20, Ferdinand de Saussure fundó la linguística general
 (también llamada estructural). Se considera al fenómeno del
 lenguaje como una estructura compuesta de varios componentes
@@ -75,7 +75,7 @@ interdependientes, pero identificables.
 \end{frame}
 
 
-\begin{frame}[label={sec:orgcd2d7ce}]{Antecedentes: Roman Jakobson}
+\begin{frame}[label={sec:orgce7ea79}]{Antecedentes: Roman Jakobson}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Roman Jakobson fue un lingüista ruso americano. Se considera una
@@ -94,7 +94,7 @@ was clearly realized by Ferdinand de Saussure. Yet of the two
 varieties of combination-concurrence and concatenation-it was only
 the latter, the temporal sequence, which was recognized by the
 Geneva linguist. 
-\cite[99]{jakobson1956two}
+\cite[p. 99]{jakobson1956two}
 \end{quote}
 \end{block}
 \end{column}
@@ -104,7 +104,7 @@ Geneva linguist.
 
 
 
-\begin{frame}[label={sec:orgd246c66}]{La pregunta}
+\begin{frame}[label={sec:orge300517}]{La pregunta}
 \begin{block}{}
    ¿Cómo medir
    computarizadamente la \emph{literariedad} de un texto según el marco de la
@@ -114,8 +114,8 @@ Geneva linguist.
 
 
 \section{Objetivos}
-\label{sec:org684c323}
-\begin{frame}[label={sec:org35b435c}]{General}
+\label{sec:org24b9216}
+\begin{frame}[label={sec:orge22840e}]{General}
    \begin{block}{General}
 
 Diseñar e implementar un modelo que, dado un corpus de texto, produzca
@@ -123,7 +123,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
      \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org1872790}]{Específicos}
+\begin{frame}[label={sec:org7cf311c}]{Específicos}
 \begin{enumerate}
 \item Construir el corpus necesario para representar el \emph{eje sincrónico}.
 \item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
@@ -134,7 +134,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{enumerate}
 \end{frame}
 
-\begin{frame}[label={sec:orgc9112fb}]{Alcance}
+\begin{frame}[label={sec:org88236b4}]{Alcance}
 \begin{enumerate}
 \item Modelos \alert{naive}
 
@@ -146,15 +146,16 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 
 
 \section{Marco teórico y referencial}
-\label{sec:orge02f08f}
+\label{sec:org9e314da}
 
-\begin{frame}[label={sec:org03b610f}]{Introducción a metáfora y metonimia}
+\begin{frame}[label={sec:org3fd6706}]{Introducción a metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
- \begin{figure}
- \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
-\caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
- \end{figure}
+   \begin{figure}
+  \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
+\includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
+
+   \end{figure}
 \end{column}
 
 \begin{column}{0.48\columnwidth}
@@ -166,7 +167,7 @@ Diseñar e implementar un modelo que, dado un corpus de texto, produzca
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org8f161b1}]{Metáfora y metonimia}
+\begin{frame}[label={sec:org249eb01}]{Metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}
@@ -194,12 +195,11 @@ same operation. \cite[p.98]{jakobson1956two}
    \end{block}
 
    \begin{block}{Combinación/Metonimia}
-Any linguistic sign involves two modes of arrangement:
-Any sign is made up of constituent signs and/or
+Any linguistic sign involves two modes of arrangement: Any sign is made up of constituent signs and/or
 occurs only in combination with other signs. This means that any lin­
 guistic unit at one and the same time serves as a context for simpler
 units and/or finds its own context in a more complex linguistic unit.
-\cite[p.99]jakobson1956two}
+\cite[p.99]{jakobson1956two}
    \end{block}
 
 
@@ -210,22 +210,21 @@ units and/or finds its own context in a more complex linguistic unit.
 \end{frame}
 
 \section{Diseño Metodológico}
-\label{sec:orgb619e57}
-\begin{frame}[label={sec:orge26f3f9}]{blank :esto es necesario:}
-\begin{block}{algo}
-\end{block}
+\label{sec:org4eb8a59}
+\begin{frame}[label={sec:org9aff7a6}]{Blanco}
+Esta va en blanco
 \end{frame}
-\subsection{Diseño Metodológico}
-\label{sec:orgf1b4946}
-\begin{frame}[label={sec:orgd1797f5}]{Diseño metodológico}
+\begin{frame}[label={sec:org400c15f}]{CRISP-DM}
 \begin{figure}
+\caption{Pasos de CRISP-DM}
  \includegraphics[width=0.8\textwidth]{./assets/metodologia.png}
+
  \end{figure}
 \end{frame}
 
-\subsection{Entendimiento del negocio}
-\label{sec:orgf4b28c9}
-\begin{frame}[label={sec:orgf67ea73}]{Entendimiento del negocio}
+\section{Entendimiento del negocio}
+\label{sec:orgb3295d2}
+\begin{frame}[label={sec:orgd526273}]{Entendimiento del negocio}
 Cada algoritmo recibe un mensaje  \(m\) de entrada con:
 \begin{block}{Entrada}
 \begin{itemize}
@@ -244,14 +243,14 @@ produce:
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:orgfbf8b0e}]{Casos de uso}
+\begin{frame}[label={sec:org5462cf4}]{Casos de uso}
   \begin{figure}
    \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
 
 \end{figure}
 \end{frame}
 
-\begin{frame}[label={sec:orgea7c4b0}]{Usuarios}
+\begin{frame}[label={sec:org1c981a6}]{Usuarios}
   \begin{figure}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
 \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
@@ -260,9 +259,9 @@ produce:
   \end{figure}
 \end{frame}
 
-\subsection{Entendimiento de los datos}
-\label{sec:org4cb5929}
-\begin{frame}[label={sec:orgbe95a8c}]{Entendimiento de los datos}
+\section{Entendimiento de los datos}
+\label{sec:org6c9f18b}
+\begin{frame}[label={sec:org98612f6}]{Entendimiento de los datos}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Son esencialmente 3 componentes:
@@ -298,14 +297,14 @@ Eje de sicnronía en Saussure.
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgdd6fc1a}]{Resumen}
+\begin{frame}[label={sec:org6d64dfd}]{Resumen}
 \begin{figure}
 \includegraphics[height=\textheight]{./assets/entendimiento_de_los_datos.png}
 
 \end{figure}
 \end{frame}
 
-\begin{frame}[label={sec:org3432b19}]{Corpus Brown}
+\begin{frame}[label={sec:org0f6c070}]{Corpus Brown}
 Se seleccionó porque:
 \small
 \begin{itemize}
@@ -322,12 +321,12 @@ Se seleccionó porque:
 \normalsize
 \end{frame}
 
-\begin{frame}[label={sec:orge0b1bc5}]{Wordnet}
+\begin{frame}[label={sec:orga1ebd38}]{Wordnet}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
     \begin{block}{Definición}
 Es una base de datos de \emph{relaciones conceptuales} entre palabras.
-\end{alertblock}
+\end{block}
 
 
 \begin{block}{Cita}
@@ -346,9 +345,9 @@ including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{column}
 \end{columns}
 \end{frame}
-\subsection{Preparación de los datos}
-\label{sec:org8d928d7}
-\begin{frame}[label={sec:org6c1c623}]{Preparación de los datos}
+\section{Preparación de los datos}
+\label{sec:org79dbaba}
+\begin{frame}[label={sec:org061c471}]{Preparación de los datos}
 \begin{figure}
 \includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
 \end{figure}
@@ -361,7 +360,7 @@ including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{itemize}
 \end{block}
 \end{frame}
-\begin{frame}[label={sec:org545e8c2}]{Resumen}
+\begin{frame}[label={sec:org7f32844}]{Resumen}
      \begin{table}[!ht]
     \centering
 
@@ -381,9 +380,9 @@ including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{table}
 \end{frame}
 
-\subsection{Modelamiento}
-\label{sec:org9ca7821}
-\begin{frame}[label={sec:org8e82215}]{Modelamiento}
+\section{Modelamiento}
+\label{sec:orgb5a1c27}
+\begin{frame}[label={sec:org7509397}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -419,6 +418,7 @@ uso(w) = \frac{freq_{objetivo}(w)}{\mu}
 \label{eq:indice_metafórico}
 indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{equation}
+
 \end{block}
 \normalsize
 \end{column}
@@ -437,7 +437,8 @@ indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgda7b8ef}]{Modelamiento}
+
+\begin{frame}[label={sec:org5122c42}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -473,8 +474,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{columns}
 \end{frame}
 
-
-\begin{frame}[label={sec:orgf9c3efd}]{Diseño experimental}
+\begin{frame}[label={sec:orgcf6b79a}]{Diseño experimental}
 \begin{block}{Criterios cualitativos}
 \begin{itemize}
 \item H\textsubscript{1}: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
@@ -487,9 +487,9 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{block}
 \end{frame}
-\subsection{Despliegue}
-\label{sec:orgf27a181}
-\begin{frame}[label={sec:org518d4c1}]{Resultados por categorías}
+\section{Despliegue}
+\label{sec:org56b9969}
+\begin{frame}[label={sec:orgbacc467}]{Resultados por categorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -511,7 +511,7 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgffb3e29}]{Resultados por metacategorías}
+\begin{frame}[label={sec:orgf2a5c9f}]{Resultados por metacategorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -532,7 +532,9 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org5700a85}]{Evaluación}
+\section{Evaluación}
+\label{sec:org8fadfee}
+\begin{frame}[label={sec:org963c40f}]{Evaluación}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
   \begin{block}{Criterios cualitativos}
@@ -574,8 +576,8 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{frame}
 
 \section{Conclusiones}
-\label{sec:org9962ca8}
-\begin{frame}[label={sec:org201b3cf}]{Conclusiones}
+\label{sec:org7f96f87}
+\begin{frame}[label={sec:org4870747}]{Conclusiones}
 El modelo propuesto:
 
 \begin{enumerate}
@@ -596,7 +598,7 @@ entre textos según un contexto dado por el corpus de referencia.
 \end{enumerate}
 \end{frame}
 
-\begin{frame}[label={sec:orge161a67}]{Trabajo futuro}
+\begin{frame}[label={sec:org3edae4c}]{Trabajo futuro}
 \begin{block}{Mejoramiento del algoritmo}
 \begin{itemize}
 \item Utilizar Tf-idf para matizar mejor el índice metafórico.
@@ -615,7 +617,7 @@ entre textos según un contexto dado por el corpus de referencia.
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org16dd719}]{Bibliografía}
+\begin{frame}[label={sec:org1c5051b}]{Bibliografía}
 \bibliographystyle{ieeetr}
 \bibliography{biblio}
 \end{frame}
