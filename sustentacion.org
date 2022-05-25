@@ -5,11 +5,12 @@
 #+BEAMER_THEME: Rochester [height=20pt]
 #+LATEX_HEADER: \logo{\includegraphics[height=0.5cm]{./assets/lOGO-HORIZONTAL-KONRAD-COLOR.jpg}}
 #+LATEX_HEADER: \usepackage[spanish]{babel}
+
 #+SUBTITLE: Fundación Universitaria Konrad Lorenz
 #+LANGUAGE: es
 
 
-* Introducción
+* Contexto
 
 ** ¿Qué es /literariedad/?  
 
@@ -23,23 +24,7 @@
   - /50 sombras de Gray/ vs. /Ulysses/ (difícil)
 
     
-** Antecedentes: Los clásicos
 
-   En los estudios clásicos, se encuentran teorías acerca de qué constituye
-   un texto 'poético' o una buena 'narración'.
-
-   - Fedro, Platón
-   - Póetica, Aristóteles
-   - Carta a los pisones, Horacio
-
-   Sin embargo, el enfoque que toman estos autores no es *metódico* o *sistemático*
-  
-** Antecedentes: la linguística estructural
-
-   En el siglo 20, Ferdinand de Saussure fundó la linguística general
-   (también llamada estructural). Se considera al fenómeno del
-   lenguaje como una estructura compuesta de varios componentes
-   interdependientes, pero identificables.
 
 
 ** Antecedentes: Roman Jakobson
@@ -71,67 +56,6 @@
 
 
 
-
-** La pregunta
-   
-
-   
-\begin{block}{}
-   ¿Cómo medir
-   computarizadamente la \emph{literariedad} de un texto según el marco de la
-   lingüística de Jakobson?
-\end{block}
-
-
-* Objetivos
-** General
-   \begin{block}{General}
-
-Diseñar e implementar un modelo que, dado un corpus de texto, produzca
-   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
-     \end{block}
-     
-** Específicos
-1) Construir el corpus necesario para representar el /eje sincrónico/.
-2) Diseñar e implementar el algoritmo para calcular la /metáfora/ sobre un corpus.
-3) Diseñar e implementar algoritmo para calcular la /metonimia/ sobre un corpus.
-4) Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
-3) Correr el algoritmo sobre los corpus objetivo.
-4) Evaluar el algoritmo de manera cuantitativa y cualitativa.
-
-** Alcance
-
-1) Modelos *naive*
-
-2) Corpus de acceso libre (Brown Corpus)
-
-3) Herramientas 'básicas' de NLP. (no Machine Learning)
-
-
-* Marco teórico y referencial
-
-** Introducción a metáfora y metonimia
-
-*** Metáfora
-    :PROPERTIES:
-    :BEAMER_COL: 0.48
-    :END:
-
-    \begin{figure}
-   \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
- \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
-   
-    \end{figure}
-
-*** Metonimia
-    :PROPERTIES:
-    :BEAMER_COL: 0.48
-    :END:
-
-\begin{figure}
-    \includegraphics[width=\textwidth]{./assets/arte_green.png}
-\caption{\emph{9 grados} de Denise Green}
- \end{figure}
 
 **  Metáfora y metonimia
 *** Libro
@@ -177,8 +101,69 @@ units and/or finds its own context in a more complex linguistic unit.
 
    \normalsize
 
-* Diseño Metodológico
+** Ejemplos pictóricos de metáfora y metonimia
 
+*** Metáfora
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+
+    \begin{figure}
+   \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
+ \includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
+   
+    \end{figure}
+
+*** Metonimia
+    :PROPERTIES:
+    :BEAMER_COL: 0.48
+    :END:
+
+\begin{figure}
+    \includegraphics[width=\textwidth]{./assets/arte_green.png}
+\caption{\emph{9 grados} de Denise Green}
+ \end{figure}
+ 
+** La pregunta
+   
+
+   
+   \begin{block}{}
+      ¿Cómo medir
+      computarizadamente la \emph{literariedad} de un texto según el marco de la
+      lingüística de Jakobson?
+   \end{block}
+
+
+
+
+* Objetivos
+** General
+   \begin{block}{General}
+
+Diseñar e implementar un modelo que, dado un corpus de texto, produzca
+   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
+     \end{block}
+     
+** Específicos
+1) Construir el corpus necesario para representar el /eje sincrónico/.
+2) Diseñar e implementar el algoritmo para calcular la /metáfora/ sobre un corpus.
+3) Diseñar e implementar algoritmo para calcular la /metonimia/ sobre un corpus.
+4) Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
+3) Correr el algoritmo sobre los corpus objetivo.
+4) Evaluar el algoritmo de manera cuantitativa y cualitativa.
+
+** Alcance
+
+1) Modelos de prototipo
+
+2) Corpus de acceso libre (Corpus de Brown)
+
+3) Herramientas 'básicas' de NLP en Python
+
+
+* Diseño Metodológico
+  
 ** CRISP-DM
 
    \begin{figure}
@@ -202,28 +187,10 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
 
 \begin{block}{Salida}
 \begin{itemize}
-\item  Un valor continuo para dicho mensaje (no es categórico)
+\item  Un valor continuo para dicho mensaje 
 \item  Entre más alto el valor, más fuerte es esa característica (metáfora y/o metonímia)
 \end{itemize}
 \end{block}
-
-** Casos de uso
-
-    
-   \begin{figure}
-    \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
-
- \end{figure}
-
-** Usuarios
- 
-   
-   \begin{figure}
- \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
- \includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
- \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia1.png}
- \includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia2.png}
-   \end{figure}
 
 * Entendimiento de los datos
 ** Entendimiento de los datos                                             :A: 
@@ -234,15 +201,13 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
    :BEAMER_COL: 0.48
    :END:
    
-   Son esencialmente 3 componentes:
-
    \begin{block}{Corpus de referencia}
    Modela el estado actual de la \emph{lengua}.
    Eje de sicnronía en Saussure.
    \end{block}
 
    \begin{block}{Red semántica}
-    Modela el lenguaje: la capacidad de asociar ideas con símbolos.
+    Modela el \emph{lenguaje}: la capacidad de asociar ideas con símbolos.
    \end{block}
 
    \begin{block}{Corpus objetivo}
@@ -266,6 +231,44 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
  \caption{El circuito linguístico (visión alterna). Tomado de \cite{alonso1945curso}}
     \end{figure}
 
+** Criterios                                                              :C:
+
+*** Corpus de Brown
+    :PROPERTIES:
+    :BEAMER_col: 0.48
+    :END:
+    \begin{block}{Corpus de Brown}
+     \small
+     \begin{itemize}
+     \item todos los documentos son del año 1961,
+     \item publicadas en Estados Unidos,
+     \item hablantes nativos de inglés,
+     \item comité de expertos,
+     \item  muestra representativa del inglés,
+     \item lista amplia de categorías,
+     \item resultados  replicables,
+     \item  documentos por categoría son proporcionales a los publicados
+     \end{itemize}
+     \end{block}
+     \normalsize
+
+*** Wordnet                                                               :D:
+   :PROPERTIES:
+   :BEAMER_col: 0.48
+   :END:
+
+
+    \begin{block}{Wordnet}
+    Es una base de datos de \emph{relaciones conceptuales} entre palabras.
+    \end{block}
+
+    
+
+     
+    \begin{figure}
+    \includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
+    \caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
+    \end{figure}
 ** Resumen                                                                :B:
 
 
@@ -275,68 +278,12 @@ Cada algoritmo recibe un mensaje  $m$ de entrada con:
 
     \end{figure}
 
-** Corpus Brown                                                           :C:
-
-
-     Se seleccionó porque:
-     \small
-     \begin{itemize}
-     \item todas las muestras del corpus pertenecen al año 1961,
-     \item todas las muestras del corpus se imprimieron en Estados Unidos durante ese año,
-     \item todos los autores son hablantes nativos de inglés,
-     \item la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown,
-     \item la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año,
-     \item tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías,
-     \item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
-     \item el número de textos por categoría guarda la relación entre los textos publicados de esa categoría durante ese año y
-     \item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
-     \end{itemize}
-     \normalsize
-
-** Wordnet                                                                :D:
-
-
-*** texto
-    :PROPERTIES:
-    :BEAMER_col: 0.48
-    :END:
-
-        \begin{block}{Definición}
-    Es una base de datos de \emph{relaciones conceptuales} entre palabras.
-    \end{block}
-
-
-    \begin{block}{Cita}
-    Wordnet's design resembles that of a thesaurus in that its building block is a synset consisting of all the
-    words that express a given concepts (...) The synsets are linked by means of a number of relations,
-    including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
-    \end{block}
-
-
-*** gráfica
-         :PROPERTIES:
-    :BEAMER_col: 0.48
-    :END:
-     
-    \begin{figure}
-    \includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
-    \caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
-    \end{figure}
 * Preparación de los datos
 ** Preparación de los datos
  
  \begin{figure}
  \includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
  \end{figure}
-
-  \begin{block}{¿En qué consistió la preparación?}
-  \begin{itemize}
-  \item Conformar el corpus de referencia
-  \item Conformar los corpus objetivo
-  \item Controlar la mayor cantidad de variables
-  \end{itemize}
-  \end{block}
-** Resumen
 
     
        \begin{table}[!ht]
@@ -520,9 +467,9 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{figure}
 
 * Evaluación
-** Evaluación
- 
-*** Criterios cualitativos
+** Evaluación y conclusiones
+   \tiny
+*** Evaluación
      :PROPERTIES:
     :BEAMER_col: 0.48
     :END:
@@ -543,10 +490,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
   \end{table}
   \end{block}
 
-*** Criterios cuantitativos
-     :PROPERTIES:
-    :BEAMER_col: 0.48
-    :END:
+
  \begin{block}{Criterios cuantitativos}
   \begin{table}[H]
    
@@ -562,11 +506,11 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 
   \end{table}
  \end{block}
+ \normalsize
 
-* Conclusiones
 *** Conclusiones 
     :PROPERTIES:
-    :BEAMER_env: frame
+    :BEAMER_col:  0.48
     :END:
     El modelo propuesto:
   
@@ -598,6 +542,13 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 - Aumentar el número de muestras hasta agotar el Corpus de Brown.
 - Repetir el mismo diseño experimental en el Corpus de LOB, que tiene las mismas categorías que el de Brown.
 - Utilizar los valores de los índices dentro como una característica en un escenario de Machine Learning. 
+
+** Reflexión final
+
+    \begin{figure}
+    \includegraphics[width=0.8\textwidth]{./assets/literariedad_scatter.png}
+    \caption{Metáfora y metonimia en cada documento}
+    \end{figure}
 
 ** Bibliografía
 \bibliographystyle{ieeetr}

@@ -1,4 +1,4 @@
-% Created 2022-05-24 mar 18:26
+% Created 2022-05-25 mié 16:56
 % Intended LaTeX compiler: pdflatex
 \documentclass[presentation]{beamer}
 \usepackage[utf8]{inputenc}
@@ -16,6 +16,7 @@
 \usepackage{hyperref}
 \logo{\includegraphics[height=0.5cm]{./assets/lOGO-HORIZONTAL-KONRAD-COLOR.jpg}}
 \usepackage[spanish]{babel}
+\usepackage{sidecap}
 \usetheme[height=20pt]{Rochester}
 \author{Jonatan Ahumada}
 \date{\today}
@@ -37,10 +38,10 @@
 
 
 
-\section{Introducción}
-\label{sec:org1a1a8ca}
+\section{Contexto}
+\label{sec:org4d5284b}
 
-\begin{frame}[label={sec:org83802b1}]{¿Qué es \emph{literariedad}?}
+\begin{frame}[label={sec:org50cb2a1}]{¿Qué es \emph{literariedad}?}
 Es una presunta \emph{característica} que distingue un texto literario de
 otro no literario.
 
@@ -54,28 +55,10 @@ Por ejemplo:
 \end{frame}
 
 
-\begin{frame}[label={sec:orgfbcfc68}]{Antecedentes: Los clásicos}
-En los estudios clásicos, se encuentran teorías acerca de qué constituye
-un texto 'poético' o una buena 'narración'.
-
-\begin{itemize}
-\item Fedro, Platón
-\item Póetica, Aristóteles
-\item Carta a los pisones, Horacio
-\end{itemize}
-
-Sin embargo, el enfoque que toman estos autores no es \alert{metódico} o \alert{sistemático}
-\end{frame}
-
-\begin{frame}[label={sec:orga905de9}]{Antecedentes: la linguística estructural}
-En el siglo 20, Ferdinand de Saussure fundó la linguística general
-(también llamada estructural). Se considera al fenómeno del
-lenguaje como una estructura compuesta de varios componentes
-interdependientes, pero identificables.
-\end{frame}
 
 
-\begin{frame}[label={sec:orgce7ea79}]{Antecedentes: Roman Jakobson}
+
+\begin{frame}[label={sec:org9bc4915}]{Antecedentes: Roman Jakobson}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 Roman Jakobson fue un lingüista ruso americano. Se considera una
@@ -104,70 +87,7 @@ Geneva linguist.
 
 
 
-\begin{frame}[label={sec:orge300517}]{La pregunta}
-\begin{block}{}
-   ¿Cómo medir
-   computarizadamente la \emph{literariedad} de un texto según el marco de la
-   lingüística de Jakobson?
-\end{block}
-\end{frame}
-
-
-\section{Objetivos}
-\label{sec:org24b9216}
-\begin{frame}[label={sec:orge22840e}]{General}
-   \begin{block}{General}
-
-Diseñar e implementar un modelo que, dado un corpus de texto, produzca
-   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
-     \end{block}
-\end{frame}
-
-\begin{frame}[label={sec:org7cf311c}]{Específicos}
-\begin{enumerate}
-\item Construir el corpus necesario para representar el \emph{eje sincrónico}.
-\item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
-\item Diseñar e implementar algoritmo para calcular la \emph{metonimia} sobre un corpus.
-\item Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
-\item Correr el algoritmo sobre los corpus objetivo.
-\item Evaluar el algoritmo de manera cuantitativa y cualitativa.
-\end{enumerate}
-\end{frame}
-
-\begin{frame}[label={sec:org88236b4}]{Alcance}
-\begin{enumerate}
-\item Modelos \alert{naive}
-
-\item Corpus de acceso libre (Brown Corpus)
-
-\item Herramientas 'básicas' de NLP. (no Machine Learning)
-\end{enumerate}
-\end{frame}
-
-
-\section{Marco teórico y referencial}
-\label{sec:org9e314da}
-
-\begin{frame}[label={sec:org3fd6706}]{Introducción a metáfora y metonimia}
-\begin{columns}
-\begin{column}{0.48\columnwidth}
-   \begin{figure}
-  \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
-\includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
-
-   \end{figure}
-\end{column}
-
-\begin{column}{0.48\columnwidth}
-\begin{figure}
-    \includegraphics[width=\textwidth]{./assets/arte_green.png}
-\caption{\emph{9 grados} de Denise Green}
- \end{figure}
-\end{column}
-\end{columns}
-\end{frame}
-
-\begin{frame}[label={sec:org249eb01}]{Metáfora y metonimia}
+\begin{frame}[label={sec:org375ee4a}]{Metáfora y metonimia}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}
@@ -209,12 +129,72 @@ units and/or finds its own context in a more complex linguistic unit.
 \end{columns}
 \end{frame}
 
-\section{Diseño Metodológico}
-\label{sec:org4eb8a59}
-\begin{frame}[label={sec:org9aff7a6}]{Blanco}
-Esta va en blanco
+\begin{frame}[label={sec:orgd563db4}]{Ejemplos pictóricos de metáfora y metonimia}
+\begin{columns}
+\begin{column}{0.48\columnwidth}
+   \begin{figure}
+  \caption{\emph{Cisnes reflejando elefantes} de Salvador Dalí}
+\includegraphics[width=\textwidth]{./assets/arte_dali.jpg}
+
+   \end{figure}
+\end{column}
+
+\begin{column}{0.48\columnwidth}
+\begin{figure}
+    \includegraphics[width=\textwidth]{./assets/arte_green.png}
+\caption{\emph{9 grados} de Denise Green}
+ \end{figure}
+\end{column}
+\end{columns}
 \end{frame}
-\begin{frame}[label={sec:org400c15f}]{CRISP-DM}
+
+\begin{frame}[label={sec:orgd56819b}]{La pregunta}
+\begin{block}{}
+   ¿Cómo medir
+   computarizadamente la \emph{literariedad} de un texto según el marco de la
+   lingüística de Jakobson?
+\end{block}
+\end{frame}
+
+
+
+
+\section{Objetivos}
+\label{sec:org5e3a680}
+\begin{frame}[label={sec:org60b8ece}]{General}
+   \begin{block}{General}
+
+Diseñar e implementar un modelo que, dado un corpus de texto, produzca
+   indicadores para el concepto de \emph{literariedad} que plantea Roman Jakobson.
+     \end{block}
+\end{frame}
+
+\begin{frame}[label={sec:org2603e52}]{Específicos}
+\begin{enumerate}
+\item Construir el corpus necesario para representar el \emph{eje sincrónico}.
+\item Diseñar e implementar el algoritmo para calcular la \emph{metáfora} sobre un corpus.
+\item Diseñar e implementar algoritmo para calcular la \emph{metonimia} sobre un corpus.
+\item Seleccionar y unir los textos que serán procesados (corpus objetivo) por el algoritmo.
+\item Correr el algoritmo sobre los corpus objetivo.
+\item Evaluar el algoritmo de manera cuantitativa y cualitativa.
+\end{enumerate}
+\end{frame}
+
+\begin{frame}[label={sec:orgc68c469}]{Alcance}
+\begin{enumerate}
+\item Modelos de prototipo
+
+\item Corpus de acceso libre (Corpus de Brown)
+
+\item Herramientas 'básicas' de NLP en Python
+\end{enumerate}
+\end{frame}
+
+
+\section{Diseño Metodológico}
+\label{sec:org5f7b3e2}
+
+\begin{frame}[label={sec:org126919c}]{CRISP-DM}
 \begin{figure}
 \caption{Pasos de CRISP-DM}
  \includegraphics[width=0.8\textwidth]{./assets/metodologia.png}
@@ -223,8 +203,8 @@ Esta va en blanco
 \end{frame}
 
 \section{Entendimiento del negocio}
-\label{sec:orgb3295d2}
-\begin{frame}[label={sec:orgd526273}]{Entendimiento del negocio}
+\label{sec:org722ae88}
+\begin{frame}[label={sec:org223403b}]{Entendimiento del negocio}
 Cada algoritmo recibe un mensaje  \(m\) de entrada con:
 \begin{block}{Entrada}
 \begin{itemize}
@@ -237,42 +217,24 @@ produce:
 
 \begin{block}{Salida}
 \begin{itemize}
-\item  Un valor continuo para dicho mensaje (no es categórico)
+\item  Un valor continuo para dicho mensaje 
 \item  Entre más alto el valor, más fuerte es esa característica (metáfora y/o metonímia)
 \end{itemize}
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org5462cf4}]{Casos de uso}
-  \begin{figure}
-   \includegraphics[width=\textwidth]{./assets/posibles_usos.jpg}
-
-\end{figure}
-\end{frame}
-
-\begin{frame}[label={sec:org1c981a6}]{Usuarios}
-  \begin{figure}
-\includegraphics[width=0.24\textwidth]{./assets/negocio_metafora1.png}
-\includegraphics[width=0.24\textwidth]{./assets/negocio_metafora2.png}
-\includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia1.png}
-\includegraphics[width=0.24\textwidth]{./assets/negocio_metonimia2.png}
-  \end{figure}
-\end{frame}
-
 \section{Entendimiento de los datos}
-\label{sec:org6c9f18b}
-\begin{frame}[label={sec:org98612f6}]{Entendimiento de los datos}
+\label{sec:orgdd7484f}
+\begin{frame}[label={sec:org1e9a258}]{Entendimiento de los datos}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
-Son esencialmente 3 componentes:
-
 \begin{block}{Corpus de referencia}
 Modela el estado actual de la \emph{lengua}.
 Eje de sicnronía en Saussure.
 \end{block}
 
 \begin{block}{Red semántica}
- Modela el lenguaje: la capacidad de asociar ideas con símbolos.
+ Modela el \emph{lenguaje}: la capacidad de asociar ideas con símbolos.
 \end{block}
 
 \begin{block}{Corpus objetivo}
@@ -297,47 +259,33 @@ Eje de sicnronía en Saussure.
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org6d64dfd}]{Resumen}
-\begin{figure}
-\includegraphics[height=\textheight]{./assets/entendimiento_de_los_datos.png}
-
-\end{figure}
-\end{frame}
-
-\begin{frame}[label={sec:org0f6c070}]{Corpus Brown}
-Se seleccionó porque:
-\small
-\begin{itemize}
-\item todas las muestras del corpus pertenecen al año 1961,
-\item todas las muestras del corpus se imprimieron en Estados Unidos durante ese año,
-\item todos los autores son hablantes nativos de inglés,
-\item la categorización de las muestras fue hecha por un comité de expertos de la universidad de Brown,
-\item la intención declarada del corpus es la de ser una muestra representativa del inglés de aquel año,
-\item tiene una lista amplia de categorías que podrían ser útiles para observar diferencias entre las categorías,
-\item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
-\item el número de textos por categoría guarda la relación entre los textos publicados de esa categoría durante ese año y
-\item los resultados obtenidos del modelo podrían ser replicados porque el corpus es ampliamente conocido.
-\end{itemize}
-\normalsize
-\end{frame}
-
-\begin{frame}[label={sec:orga1ebd38}]{Wordnet}
+\begin{frame}[label={sec:orgf4b8ea5}]{Criterios}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
-    \begin{block}{Definición}
+\begin{block}{Corpus de Brown}
+ \small
+ \begin{itemize}
+ \item todos los documentos son del año 1961,
+ \item publicadas en Estados Unidos,
+ \item hablantes nativos de inglés,
+ \item comité de expertos,
+ \item  muestra representativa del inglés,
+ \item lista amplia de categorías,
+ \item resultados  replicables,
+ \item  documentos por categoría son proporcionales a los publicados
+ \end{itemize}
+ \end{block}
+\normalsize
+\end{column}
+
+\begin{column}{0.48\columnwidth}
+\begin{block}{Wordnet}
 Es una base de datos de \emph{relaciones conceptuales} entre palabras.
 \end{block}
 
 
-\begin{block}{Cita}
-Wordnet's design resembles that of a thesaurus in that its building block is a synset consisting of all the
-words that express a given concepts (...) The synsets are linked by means of a number of relations,
-including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
-\end{block}
-\end{column}
 
 
-\begin{column}{0.48\columnwidth}
 \begin{figure}
 \includegraphics[width=0.7\textwidth]{./assets/wordnet-relaciones.png}
 \caption{Ejemplo de relaciones entre conceptos en Wordnet. Tomado de \cite[p.30]{fellbaum_1998}}
@@ -345,22 +293,21 @@ including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{column}
 \end{columns}
 \end{frame}
+\begin{frame}[label={sec:org8c90883}]{Resumen}
+\begin{figure}
+\includegraphics[height=\textheight]{./assets/entendimiento_de_los_datos.png}
+
+\end{figure}
+\end{frame}
+
 \section{Preparación de los datos}
-\label{sec:org79dbaba}
-\begin{frame}[label={sec:org061c471}]{Preparación de los datos}
+\label{sec:org968bca8}
+\begin{frame}[label={sec:org28f558f}]{Preparación de los datos}
 \begin{figure}
 \includegraphics[width=\textwidth]{./assets/preparacion_visualizacion.png}
 \end{figure}
 
-\begin{block}{¿En qué consistió la preparación?}
-\begin{itemize}
-\item Conformar el corpus de referencia
-\item Conformar los corpus objetivo
-\item Controlar la mayor cantidad de variables
-\end{itemize}
-\end{block}
-\end{frame}
-\begin{frame}[label={sec:org7f32844}]{Resumen}
+
      \begin{table}[!ht]
     \centering
 
@@ -381,8 +328,8 @@ including, hyponymy, meronymy and entailment.     \cite[p.8]{fellbaum_1998}
 \end{frame}
 
 \section{Modelamiento}
-\label{sec:orgb5a1c27}
-\begin{frame}[label={sec:org7509397}]{Modelamiento}
+\label{sec:org1184130}
+\begin{frame}[label={sec:org87de37c}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -438,7 +385,7 @@ indice\ metaforico(mensaje) =  \Sigma_i^j uso(w_i)
 \end{frame}
 
 
-\begin{frame}[label={sec:org5122c42}]{Modelamiento}
+\begin{frame}[label={sec:org5374a4b}]{Modelamiento}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \tiny
@@ -474,7 +421,7 @@ indice\ metonimia = \Sigma_i^j met(n_i)
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgcf6b79a}]{Diseño experimental}
+\begin{frame}[label={sec:org8a3ab46}]{Diseño experimental}
 \begin{block}{Criterios cualitativos}
 \begin{itemize}
 \item H\textsubscript{1}: Se espera que las categorías de ficción tengan un índice metafórico significativamente mayor que los de no-ficción.
@@ -488,8 +435,8 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{block}
 \end{frame}
 \section{Despliegue}
-\label{sec:org56b9969}
-\begin{frame}[label={sec:orgbacc467}]{Resultados por categorías}
+\label{sec:orgb7618fb}
+\begin{frame}[label={sec:org89d0d0f}]{Resultados por categorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -511,7 +458,7 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:orgf2a5c9f}]{Resultados por metacategorías}
+\begin{frame}[label={sec:orge1265d0}]{Resultados por metacategorías}
 \begin{columns}
 \begin{column}{0.48\columnwidth}
 \begin{figure}[H]
@@ -533,8 +480,9 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 \end{frame}
 
 \section{Evaluación}
-\label{sec:org8fadfee}
-\begin{frame}[label={sec:org963c40f}]{Evaluación}
+\label{sec:org8a85b52}
+\begin{frame}[label={sec:org6e33289}]{Evaluación y conclusiones}
+\tiny
 \begin{columns}
 \begin{column}{0.48\columnwidth}
   \begin{block}{Criterios cualitativos}
@@ -553,9 +501,8 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 
   \end{table}
   \end{block}
-\end{column}
 
-\begin{column}{0.48\columnwidth}
+
 \begin{block}{Criterios cuantitativos}
  \begin{table}[H]
 
@@ -571,13 +518,10 @@ Prueba ANOVA: ¿Los resultados que se obtuvieron son aleatorios?
 
  \end{table}
 \end{block}
+\normalsize
 \end{column}
-\end{columns}
-\end{frame}
 
-\section{Conclusiones}
-\label{sec:org7f96f87}
-\begin{frame}[label={sec:org4870747}]{Conclusiones}
+\begin{column}{0.48\columnwidth}
 El modelo propuesto:
 
 \begin{enumerate}
@@ -596,9 +540,11 @@ Machine Learning. Como ventaja, no se requiere un \emph{training
 set}. Como desventaja, el valor de los índices debe ser comparado
 entre textos según un contexto dado por el corpus de referencia.
 \end{enumerate}
+\end{column}
+\end{columns}
 \end{frame}
 
-\begin{frame}[label={sec:org3edae4c}]{Trabajo futuro}
+\begin{frame}[label={sec:org43e7d60}]{Trabajo futuro}
 \begin{block}{Mejoramiento del algoritmo}
 \begin{itemize}
 \item Utilizar Tf-idf para matizar mejor el índice metafórico.
@@ -617,7 +563,14 @@ entre textos según un contexto dado por el corpus de referencia.
 \end{block}
 \end{frame}
 
-\begin{frame}[label={sec:org1c5051b}]{Bibliografía}
+\begin{frame}[label={sec:orgea4620c}]{Reflexión final}
+\begin{SCfigure}
+\includegraphics[width=0.8\textwidth]{./assets/literariedad_scatter.png}
+\caption{Metáfora y metonimia en cada documento}
+\end{SCfigure}
+\end{frame}
+
+\begin{frame}[label={sec:org129d140}]{Bibliografía}
 \bibliographystyle{ieeetr}
 \bibliography{biblio}
 \end{frame}
